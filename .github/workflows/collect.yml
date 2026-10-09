@@ -9,6 +9,7 @@ on:
     - cron: "5 9 * * *"    # 14:35 IST  -> for the 15:00 IST slot
     - cron: "5 13 * * *"   # 18:35 IST  -> for the 19:00 IST slot
     - cron: "5 18 * * *"   # 23:35 IST  -> for the 00:00 IST slot
+    - cron: '0 12 * * *'   # 17:30 IST test
 
 permissions:
   contents: write
