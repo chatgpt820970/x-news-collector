@@ -32,10 +32,10 @@ from bs4 import BeautifulSoup
 # Settings
 # --------------------------------------------------------------------------
 MAX_AGE_HOURS = 9
-TOP_N = 25
+TOP_N = 40                  # enough for ~20 posts/day across 7 slots
 FEED_TIMEOUT = 12           # seconds per RSS fetch
 PAGE_TIMEOUT = 8            # seconds per article/page fetch
-MAX_PAGE_FETCHES = 130      # hard cap on page fetches per run (decode + article)
+MAX_PAGE_FETCHES = 220      # hard cap on page fetches per run (decode + article)
 MAX_URLS_PER_CLUSTER = 3    # article pages tried per story when hunting media
 MAX_PAGE_BYTES = 2_000_000
 WORKERS = 8
@@ -66,48 +66,116 @@ LOCAL_EDITIONS = {
 }
 NON_EN_PENALTY = 0.6
 
-PRIORITY_QUERIES = {
-    "Elon Musk": ["elon", "musk", "tesla", "spacex", "xai"],
-    "Trump": ["trump"],
-    "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok":
-        ["openai", "chatgpt", "gemini", "claude", "grok", "anthropic", "altman"],
-    "F1": ["f1", "formula", "verstappen", "hamilton", "norris", "leclerc", "piastri", "grand prix"],
-    "cricket": ["cricket", "ipl", "bcci", "kohli", "rohit", "test match", "odi", "t20"],
-    "football": ["football", "soccer", "premier league", "champions league", "fifa",
-                 "messi", "ronaldo", "la liga", "uefa"],
+# Priority topics: label -> search queries (each with the editions to search in),
+# keywords used to tag stories from other feeds, and the output category.
+# The label is what shows up in each item's `priority_queries`.
+PRIORITY_TOPICS = {
+    "Elon Musk": dict(
+        queries=[("Elon Musk", ["US", "IN"])],
+        keywords=["elon", "musk", "tesla", "spacex", "xai"], category="tech"),
+    "Trump": dict(
+        queries=[("Trump", ["US", "IN"])],
+        keywords=["trump"], category="world"),
+    "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok": dict(
+        queries=[("OpenAI OR ChatGPT OR Gemini OR Claude OR Grok", ["US", "IN"])],
+        keywords=["openai", "chatgpt", "gemini", "claude", "grok", "anthropic", "altman"],
+        category="ai"),
+    "F1": dict(
+        queries=[("F1", ["GB", "US"])],
+        keywords=["f1", "formula", "verstappen", "hamilton", "norris", "leclerc", "piastri",
+                  "grand prix"], category="sports"),
+    "cricket": dict(
+        queries=[("cricket", ["IN", "GB"])],
+        keywords=["cricket", "ipl", "bcci", "kohli", "rohit", "test match", "odi", "t20"],
+        category="sports"),
+    "football": dict(
+        queries=[("football", ["GB", "IN"])],
+        keywords=["football", "soccer", "premier league", "champions league", "fifa",
+                  "messi", "ronaldo", "la liga", "uefa"], category="sports"),
+    # --- new topics ---
+    "Celebrities & music": dict(
+        queries=[("Taylor Swift OR Drake OR BTS OR Bad Bunny OR The Weeknd OR Beyonce "
+                  "OR Arijit Singh OR Diljit Dosanjh", ["US", "IN"]),
+                 ("album release OR world tour OR concert", ["US", "IN"]),
+                 ("Bollywood", ["IN"]),
+                 ("Hollywood trailer", ["US"]),
+                 ("Grammy OR Oscars OR award show performance OR celebrity wedding", ["US"])],
+        keywords=["taylor swift", "drake", "bts", "bad bunny", "the weeknd", "beyonce",
+                  "beyoncé", "arijit", "diljit", "album", "world tour", "concert", "trailer",
+                  "bollywood", "hollywood", "grammy", "oscars", "singer", "rapper",
+                  "pop star", "music video", "box office"],
+        category="celebrity_music"),
+    "AI tools & agents": dict(
+        queries=[("AI agent", ["US", "IN"]),
+                 ("AI automation", ["US"]),
+                 ("new AI tool", ["US", "IN"]),
+                 ("OpenAI OR ChatGPT OR Gemini OR Claude OR Grok launch", ["US"]),
+                 ("no-code AI", ["US"])],
+        keywords=["ai agent", "agentic", "ai tool", "ai automation", "no-code", "no code",
+                  "copilot", "llm", "ai model", "ai app", "vibe coding", "chatbot"],
+        category="ai"),
+    "Finance & markets": dict(
+        queries=[("stock market", ["US", "IN"]),
+                 ("Sensex OR Nifty", ["IN"]),
+                 ("Dow Jones OR Nasdaq OR S&P 500", ["US"]),
+                 ("Fed rate", ["US"]),
+                 ("gold price", ["IN", "US"]),
+                 ("RBI", ["IN"])],
+        keywords=["sensex", "nifty", "dow jones", "nasdaq", "s&p 500", "stock market",
+                  "wall street", "federal reserve", "fed rate", "rate cut", "interest rate",
+                  "gold price", "gold rate", "rbi", "treasury yield", "stocks"],
+        category="finance"),
+    "Crypto": dict(
+        queries=[("Bitcoin", ["US", "IN"]),
+                 ("Ethereum", ["US"]),
+                 ("crypto market", ["US", "IN"]),
+                 ("Solana OR XRP", ["US"])],
+        keywords=["bitcoin", "ethereum", "crypto", "cryptocurrency", "solana", "xrp", "btc",
+                  "dogecoin", "stablecoin", "binance", "coinbase", "memecoin"],
+        category="crypto"),
 }
-# Which editions to run each priority search in ("football" = soccer, so GB/IN).
-PRIORITY_QUERY_EDITIONS = {
-    "Elon Musk": ["US", "IN"],
-    "Trump": ["US", "IN"],
-    "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok": ["US", "IN"],
-    "F1": ["GB", "US"],
-    "cricket": ["IN", "GB"],
-    "football": ["GB", "IN"],
-}
-QUERY_CATEGORY = {"F1": "SPORTS", "cricket": "SPORTS", "football": "SPORTS",
-                  "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok": "TECHNOLOGY"}
+# Backwards-compatible view: label -> keywords
+PRIORITY_QUERIES = {k: v["keywords"] for k, v in PRIORITY_TOPICS.items()}
+
 # Diversity caps for the final top list
-MAX_PER_QUERY = 3
-MAX_PER_CATEGORY = 8
+MAX_PER_QUERY = 3          # per priority topic (each topic gets its own cap)
+MAX_PER_CATEGORY = 8       # per output category
+MIN_PER_TOPIC = 2          # reserve up to this many of each priority topic's best stories
+
+# Output categories (the `category` field of each item)
+CATEGORIES = ["ai", "celebrity_music", "finance", "crypto", "sports", "tech", "world", "other"]
+
+# Keyword patterns (regex, matched on lower-cased headlines) for the output category.
+CATEGORY_PATTERNS = {
+    "crypto": r"\b(bitcoin|ethereum|ether|crypto\w*|solana|xrp|btc|dogecoin|stablecoins?|"
+              r"binance|coinbase|memecoins?|blockchain|altcoins?)\b",
+    "ai": r"\b(ai|a\.i\.|artificial intelligence|openai|chatgpt|gpt-?\d\w*|gemini|claude|grok|"
+          r"anthropic|llms?|agentic|copilot|deepseek|perplexity|midjourney|mistral|chatbots?|"
+          r"machine learning|altman|no-code|automation)\b",
+    "sports": r"\b(cricket|football|soccer|f1|formula 1|grand prix|nba|nfl|mlb|nhl|tennis|"
+              r"golf|ipl|t20|odi|wicket|premier league|champions league|la liga|uefa|fifa|"
+              r"olympics?|world cup|match|innings|goalkeeper|striker|batter|bowler)\b",
+    "celebrity_music": r"\b(singer|rapper|album|songs?|concerts?|world tour|tour dates|"
+                       r"trailer|teaser|bollywood|hollywood|tollywood|grammys?|oscars?|emmys?|"
+                       r"actor|actress|celebrity|pop star|music video|box office|"
+                       r"taylor swift|drake|bts|bad bunny|weeknd|beyonc[eé]|arijit|diljit|"
+                       r"netflix|film|movie|wedding|engaged)\b",
+    "finance": r"\b(sensex|nifty|dow|nasdaq|s&p|stocks?|stock market|shares|wall street|"
+               r"fed|federal reserve|rate cut|interest rates?|inflation|rbi|gold price|"
+               r"gold rate|bond yields?|treasury|rupee|ipo|earnings|markets?)\b",
+    "tech": r"\b(apple|iphone|google|microsoft|android|samsung|nvidia|chips?|semiconductors?|"
+            r"tesla|spacex|software|app|meta|startup|robots?|cyber\w*|smartphone|nasa|"
+            r"space|satellite|rocket)\b",
+    "world": r"\b(war|president|prime minister|minister|election|israel|ukraine|russia|china|"
+             r"gaza|iran|trump|government|police|killed|attack|court|parliament|"
+             r"congress|senate|protest|earthquake|flood)\b",
+}
+CATEGORY_RE = {k: re.compile(v, re.I) for k, v in CATEGORY_PATTERNS.items()}
+# Google News section -> output category (used when keywords are not decisive)
+SECTION_CATEGORY = {"WORLD": "world", "BUSINESS": "finance", "TECHNOLOGY": "tech",
+                    "ENTERTAINMENT": "celebrity_music", "SPORTS": "sports", "SCIENCE": "tech"}
 
 TRENDS_GEOS = ["US", "IN", "GB", "JP"]
-
-CATEGORY_KEYWORDS = {
-    "TECHNOLOGY": ["ai", "openai", "chatgpt", "gemini", "claude", "grok", "apple", "google",
-                   "microsoft", "iphone", "android", "chip", "nvidia", "tesla", "spacex",
-                   "software", "app", "meta", "startup", "robot", "cyber"],
-    "SPORTS": ["cricket", "football", "f1", "nba", "nfl", "tennis", "match", "cup", "league",
-               "goal", "wicket", "olympic", "grand prix", "coach", "vs"],
-    "BUSINESS": ["stock", "market", "shares", "economy", "fed", "inflation", "bank", "price",
-                 "earnings", "ipo", "tariff", "rupee", "dollar", "oil", "deal", "billion"],
-    "ENTERTAINMENT": ["film", "movie", "actor", "actress", "music", "album", "netflix",
-                      "bollywood", "hollywood", "star", "show", "series", "box office", "song"],
-    "SCIENCE": ["nasa", "space", "study", "scientists", "climate", "planet", "health",
-                "virus", "research", "nobel"],
-    "WORLD": ["war", "president", "minister", "election", "israel", "ukraine", "russia",
-              "china", "gaza", "iran", "trump", "government", "police", "killed"],
-}
 
 STOPWORDS = set("""
 a an the and or but of to in on at for from by with as is are was were be been being
@@ -115,6 +183,9 @@ it its this that these those after before over under into about amid says say sa
 new news live update updates latest how why what who when where will would could can
 may might has have had not no vs v his her their our your he she they we you i
 up out off more than just also first top day today week year video watch report
+january february march april may june july august september october november december
+jan feb mar apr jun jul aug sep sept oct nov dec monday tuesday wednesday thursday friday
+saturday sunday tomorrow yesterday tonight price prices check
 """.split())
 
 # --------------------------------------------------------------------------
@@ -163,6 +234,8 @@ def tokens(text: str) -> set[str]:
     out = set()
     for w in words:
         if w in STOPWORDS or (w.isascii() and len(w) < 3 and not w.isdigit()):
+            continue
+        if re.fullmatch(r"20[0-9]{2}", w):  # years ("2026") glue unrelated dated headlines
             continue
         if w.isascii() and len(w) > 4 and w.endswith("s") and not w.endswith("ss"):
             w = w[:-1]
@@ -221,12 +294,13 @@ def build_feeds() -> list[dict]:
     for code, ed in LOCAL_EDITIONS.items():
         feeds.append(dict(name=f"GN top {code} ({ed[3]})", url=gn_url("", ed), edition=code,
                           category=None, lang=ed[3], query=None))
-    for q in PRIORITY_QUERIES:
-        for code in PRIORITY_QUERY_EDITIONS.get(q, ["US"]):
-            ed = EN_EDITIONS[code]
-            path = f"/search?q={quote_plus(q + ' when:' + str(MAX_AGE_HOURS) + 'h')}"
-            feeds.append(dict(name=f"GN search '{q}' {code}", url=gn_url(path, ed),
-                              edition=code, category=None, lang="en", query=q))
+    for label, topic in PRIORITY_TOPICS.items():
+        for q, codes in topic["queries"]:
+            for code in codes:
+                ed = EN_EDITIONS[code]
+                path = f"/search?q={quote_plus(q + ' when:' + str(MAX_AGE_HOURS) + 'h')}"
+                feeds.append(dict(name=f"GN search '{q}' {code}", url=gn_url(path, ed),
+                                  edition=code, category=None, lang="en", query=label))
     return feeds
 
 
@@ -420,29 +494,72 @@ def priority_match(text_tokens: set, title: str) -> list[str]:
     hits = []
     for q, kws in PRIORITY_QUERIES.items():
         for k in kws:
-            if (" " in k and k in low) or k in text_tokens:
+            if k in text_tokens or re.search(r"(?<!\w)" + re.escape(k) + r"(?!\w)", low):
                 hits.append(q)
                 break
     return hits
 
 
-def guess_category(c_items: list[dict], tk: set, title: str, queries=()) -> str:
-    for q in queries:
-        if QUERY_CATEGORY.get(q) == "SPORTS":
-            return "SPORTS"
+def cluster_topics(its: list[dict], lead: dict) -> set:
+    """Priority topics of a cluster. A topic counts if the lead headline matches it,
+    or if a fair share of the cluster's items came from / mention that topic
+    (loose clusters would otherwise collect every topic)."""
+    counts: dict[str, int] = {}
+    for i in its:
+        labels = set(priority_match(i["tokens"], i["title"]))
+        if i["query"]:
+            labels.add(i["query"])
+        for l in labels:
+            counts[l] = counts.get(l, 0) + 1
+    lead_labels = set(priority_match(lead["tokens"], lead["title"]))
+    need = max(2, math.ceil(0.4 * len(its)))
+    if len(its) == 1:
+        need = 1
+    return {l for l, n in counts.items() if l in lead_labels or n >= need}
+
+
+def guess_section(c_items: list[dict]) -> str | None:
+    """Majority Google News section (WORLD, BUSINESS, ...) of the cluster, if any."""
     votes: dict[str, int] = {}
     for it in c_items:
         if it["category"]:
             votes[it["category"]] = votes.get(it["category"], 0) + 1
-    if votes:
-        return max(votes, key=votes.get)
-    low = title.lower()
-    best, best_n = "WORLD", 0
-    for cat, kws in CATEGORY_KEYWORDS.items():
-        n = sum(1 for k in kws if (k in tk or (" " in k and k in low)))
-        if n > best_n:
-            best, best_n = cat, n
-    return best
+    return max(votes, key=votes.get) if votes else None
+
+
+def guess_category(c_items: list[dict], lead_title: str, queries=(), section=None) -> str:
+    """Output category: ai, celebrity_music, finance, crypto, sports, tech, world, other."""
+    text = " ".join([lead_title] + [i["title"] for i in c_items[:6] if i["lang"] == "en"]).lower()
+    lead = lead_title.lower()
+    hits = {k: len(rx.findall(text)) for k, rx in CATEGORY_RE.items()}
+    lead_hit = {k: bool(rx.search(lead)) for k, rx in CATEGORY_RE.items()}
+    q_cats = [PRIORITY_TOPICS[q]["category"] for q in queries
+              if q in PRIORITY_TOPICS and PRIORITY_TOPICS[q]["category"]]
+    # Strong, specific signals first
+    if lead_hit["crypto"] or ("crypto" in q_cats and hits["crypto"]):
+        return "crypto"
+    if lead_hit["ai"] or ("ai" in q_cats and hits["ai"]):
+        return "ai"
+    if "sports" in q_cats or section == "SPORTS" or (lead_hit["sports"] and hits["sports"] >= 2):
+        return "sports"
+    if "celebrity_music" in q_cats or section == "ENTERTAINMENT" or \
+            (lead_hit["celebrity_music"] and hits["celebrity_music"] >= 2):
+        return "celebrity_music"
+    if "finance" in q_cats or (lead_hit["finance"] and hits["finance"] >= 2):
+        return "finance"
+    if "tech" in q_cats:
+        return "tech"
+    if section in SECTION_CATEGORY:
+        return SECTION_CATEGORY[section]
+    if "world" in q_cats:
+        return "world"
+    best, best_n = None, 0
+    for k in ("tech", "world", "finance", "celebrity_music", "sports"):
+        if hits[k] > best_n:
+            best, best_n = k, hits[k]
+    if best:
+        return best
+    return "other"
 
 
 def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
@@ -465,8 +582,7 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
                     sources.append(r["source"])
                 if r["url"] and r["url"] not in urls and len(urls) < 8:
                     urls.append(r["url"])
-        queries = {i["query"] for i in its if i["query"]}
-        queries |= set(priority_match(all_tokens, " ".join(i["title"] for i in its)))
+        queries = cluster_topics(its, lead)
 
         # Google Trends match: a trend term whose tokens are all in the story
         trend_hits, direct = [], []
@@ -495,6 +611,10 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
         if c["lang"] != "en":
             rank *= NON_EN_PENALTY
 
+        # skip ticker-style / too-short headlines ("$Bitcoin (BTC.CC)$", "Gold gains 1.2%")
+        if c["lang"] == "en" and len(re.findall(r"[A-Za-z]{2,}", lead["title"])) < 4:
+            continue
+
         key = headline_key(lead["title"])
         if any(is_posted(i["tokens"], posted_keys) for i in its[:20]):
             continue
@@ -513,7 +633,8 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             age_minutes=age_min,
             trend_score=trend_score,
             rank_score=round(rank, 4),
-            category=guess_category(its, all_tokens, lead["title"], queries),
+            category=guess_category(its, lead["title"], queries, guess_section(its)),
+            section=(guess_section(its) or "TOP").lower(),
             region=sorted(editions),
             language=c["lang"],
             priority_queries=sorted(queries),
@@ -712,11 +833,54 @@ def write_outputs(items: list[dict], meta: dict) -> None:
         age = f"{it['age_minutes'] // 60}h{it['age_minutes'] % 60:02d}m"
         lines.append(
             f"| {n} | {rank_of[it['id']]} | {age} | {it['published_at_ist'][11:16]} | {head} | "
-            f"{it['category'].title()} | {','.join(it['region'])} | {it['trend_score']} | {vid} | {img} | "
+            f"{it['category']} | {','.join(it['region'])} | {it['trend_score']} | {vid} | {img} | "
             f"{md_escape(', '.join(it['sources'][:4]))} |"
         )
     lines.append("")
     (DATA / "candidates.md").write_text("\n".join(lines), encoding="utf-8")
+
+
+def select_top(ranked: list[dict]) -> list[dict]:
+    """Pick TOP_N stories. First reserve the best MIN_PER_TOPIC stories of every
+    priority topic (so each topic/category is represented), then fill by rank.
+    Caps: MAX_PER_QUERY per priority topic, MAX_PER_CATEGORY per category."""
+    chosen: list[dict] = []
+    ids: set = set()
+    per_q: dict[str, int] = {}
+    per_cat: dict[str, int] = {}
+
+    def ok(c, cat_cap):
+        if c["id"] in ids:
+            return False
+        if any(per_q.get(q, 0) >= MAX_PER_QUERY for q in c["priority_queries"]):
+            return False
+        return per_cat.get(c["category"], 0) < cat_cap
+
+    def take(c):
+        chosen.append(c)
+        ids.add(c["id"])
+        for q in c["priority_queries"]:
+            per_q[q] = per_q.get(q, 0) + 1
+        per_cat[c["category"]] = per_cat.get(c["category"], 0) + 1
+
+    # 1) reservation pass per priority topic
+    for label in PRIORITY_TOPICS:
+        n = 0
+        for c in ranked:
+            if n >= MIN_PER_TOPIC or len(chosen) >= TOP_N:
+                break
+            if label in c["priority_queries"] and ok(c, MAX_PER_CATEGORY):
+                take(c)
+                n += 1
+    # 2) fill by rank, then 3) relax the category cap if still short
+    for cat_cap in (MAX_PER_CATEGORY, MAX_PER_CATEGORY + 4):
+        for c in ranked:
+            if len(chosen) >= TOP_N:
+                break
+            if ok(c, cat_cap):
+                take(c)
+    chosen.sort(key=lambda x: x["rank_score"], reverse=True)
+    return chosen
 
 
 def main() -> int:
@@ -740,19 +904,9 @@ def main() -> int:
     posted = load_posted()
     ranked = summarize_clusters(clusters, trends, posted, now)
     log(f"  clusters: {len(clusters)}  after posted-filter: {len(ranked)}")
-    top, per_q, per_cat = [], {}, {}
-    for c in ranked:
-        qs = c["priority_queries"]
-        if any(per_q.get(q, 0) >= MAX_PER_QUERY for q in qs):
-            continue
-        if per_cat.get(c["category"], 0) >= MAX_PER_CATEGORY:
-            continue
-        top.append(c)
-        for q in qs:
-            per_q[q] = per_q.get(q, 0) + 1
-        per_cat[c["category"]] = per_cat.get(c["category"], 0) + 1
-        if len(top) >= TOP_N:
-            break
+    top = select_top(ranked)
+    log("  selected per category: " + ", ".join(
+        f"{k}={sum(1 for c in top if c['category'] == k)}" for k in CATEGORIES))
 
     log("Resolving articles + media ...")
     with ThreadPoolExecutor(WORKERS) as ex:
@@ -770,6 +924,7 @@ def main() -> int:
                    trends_terms=len(trends), page_fetches=_page_fetches,
                    with_video=sum(1 for c in top if c["has_video"]),
                    runtime_sec=round(time.time() - t0, 1)),
+        categories={k: sum(1 for c in top if c["category"] == k) for k in CATEGORIES},
         top_trends=[f'{t["term"]} ({t["geo"]} {t["traffic"]})' for t in trends[:20]],
     )
     write_outputs(top, meta)

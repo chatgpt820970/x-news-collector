@@ -3,11 +3,14 @@ name: Collect news candidates
 on:
   workflow_dispatch:
   schedule:
-    # ~25 min before each posting slot (slots: 05:00, 09:00, 15:00, 19:00, 00:00 IST)
+    # ~25 min before each posting slot (20 posts/day across 7 slots:
+    # 05:00, 08:00, 11:00, 14:00, 18:00, 21:00, 00:00 IST). Same as "5 23,2,5,8,12,15,18 * * *".
     - cron: "5 23 * * *"   # 04:35 IST  -> for the 05:00 IST slot
-    - cron: "5 3 * * *"    # 08:35 IST  -> for the 09:00 IST slot
-    - cron: "5 9 * * *"    # 14:35 IST  -> for the 15:00 IST slot
-    - cron: "5 13 * * *"   # 18:35 IST  -> for the 19:00 IST slot
+    - cron: "5 2 * * *"    # 07:35 IST  -> for the 08:00 IST slot
+    - cron: "5 5 * * *"    # 10:35 IST  -> for the 11:00 IST slot
+    - cron: "5 8 * * *"    # 13:35 IST  -> for the 14:00 IST slot
+    - cron: "5 12 * * *"   # 17:35 IST  -> for the 18:00 IST slot
+    - cron: "5 15 * * *"   # 20:35 IST  -> for the 21:00 IST slot
     - cron: "5 18 * * *"   # 23:35 IST  -> for the 00:00 IST slot
     - cron: '0 12 * * *'   # 17:30 IST test
 

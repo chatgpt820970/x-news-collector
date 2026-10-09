@@ -9,35 +9,52 @@ This repo does **not** post anything and needs **no secrets or API keys**.
 1. Reads free feeds: Google News top stories and topic feeds (World, Business, Technology,
    Entertainment, Sports, Science) for the US, India and UK editions, plus local-language top
    stories for Japan, Saudi Arabia and Brazil (Google News has no English edition there).
-   It also runs priority searches (Elon Musk, Trump, OpenAI/ChatGPT/Gemini/Claude/Grok, F1,
-   cricket, football) and reads Google Trends (US, IN, GB, JP).
+   It also runs priority searches and reads Google Trends (US, IN, GB, JP). Priority topics:
+   - Elon Musk, Trump, OpenAI/ChatGPT/Gemini/Claude/Grok, F1, cricket, football
+   - **Celebrities & music**: big stars (Taylor Swift, Drake, BTS, Bad Bunny, The Weeknd, Beyonce,
+     Arijit Singh, Diljit Dosanjh), album releases, world tours, concerts, award shows, trailers,
+     weddings, Bollywood and Hollywood
+   - **AI tools & agents**: AI agents, AI automation, new AI tools, AI launches, no-code AI
+   - **Finance & markets**: stock market, Sensex/Nifty, Dow/Nasdaq/S&P 500, Fed rate, gold price, RBI
+   - **Crypto**: Bitcoin, Ethereum, crypto market, Solana/XRP
 2. Keeps only stories published in the **last 9 hours**.
 3. Groups headlines about the same story and scores them by how many outlets and feeds carry them,
    with a bonus for Google Trends and priority topics. Ranking is mostly by how recent the story is.
+   Each story gets a `category`: `ai`, `celebrity_music`, `finance`, `crypto`, `sports`, `tech`,
+   `world` or `other`.
 4. Opens the top articles and collects **image links** and **video links** (og:image, og:video,
    YouTube embeds and similar).
 5. Skips anything already listed in `data/posted.json`.
-6. Saves the top ~25 stories.
+6. Saves the top **40** stories (enough for ~20 posts a day). To keep the mix balanced, the best
+   2 stories of every priority topic are reserved first, each priority topic is capped at 3 and
+   each category at 8.
 
 ## Schedule (IST)
 
-Runs about 25 minutes before each slot:
+20 posts a day across 7 posting slots. The collector runs about 25 minutes before each slot
+(cron `5 23,2,5,8,12,15,18 * * *` in UTC):
 
-| Run time (IST) | For slot |
-|---|---|
-| 04:35 | 05:00 |
-| 08:35 | 09:00 |
-| 14:35 | 15:00 |
-| 18:35 | 19:00 |
-| 23:35 | 00:00 |
+| Run time (IST) | For slot | Cron (UTC) |
+|---|---|---|
+| 04:35 | 05:00 | `5 23 * * *` |
+| 07:35 | 08:00 | `5 2 * * *` |
+| 10:35 | 11:00 | `5 5 * * *` |
+| 13:35 | 14:00 | `5 8 * * *` |
+| 17:35 | 18:00 | `5 12 * * *` |
+| 20:35 | 21:00 | `5 15 * * *` |
+| 23:35 | 00:00 | `5 18 * * *` |
+
+There is also a `0 12 * * *` (17:30 IST) test run in the workflow.
 
 You can also run it any time: **Actions → Collect news candidates → Run workflow**.
 
 ## Output files
 
 - `data/candidates.json`: full data for the assistant. Each item has id, headline, summary, sources,
-  article_urls, published_at_utc / published_at_ist, age_minutes, trend_score, category, region,
-  image_urls, video_urls and has_video. Items are in ranking order (best first), and `generated_at_ist` shows when the file was made.
+  article_urls, published_at_utc / published_at_ist, age_minutes, trend_score, category
+  (ai / celebrity_music / finance / crypto / sports / tech / world / other), section (Google News
+  section), priority_queries (matched priority topics), region, image_urls, video_urls and has_video.
+  The top-level `categories` field counts stories per category. Items are in ranking order (best first), and `generated_at_ist` shows when the file was made.
 - `data/candidates.md`: the same list as an easy-to-read table, newest first.
 - `data/posted.json`: a list of headlines (or the `key` field from candidates.json) that were already
   posted. The assistant adds to it after posting so stories aren't repeated.
@@ -55,7 +72,7 @@ GitHub sometimes skips or delays scheduled runs, especially on new private repos
    - Generate it and copy the token. You won't see it again.
 2. **On cron-job.org**, create a free account, then *Create cronjob*:
    - URL: `https://api.github.com/repos/chatgpt820970/x-news-collector/actions/workflows/collect.yml/dispatches`
-   - Schedule: *Custom*, time zone **Asia/Kolkata**, at 04:35, 08:35, 14:35, 18:35 and 23:35.
+   - Schedule: *Custom*, time zone **Asia/Kolkata**, at 04:35, 07:35, 10:35, 13:35, 17:35, 20:35 and 23:35.
    - Advanced → Request method: **POST**
    - Headers:
      - `Authorization: Bearer YOUR_TOKEN`
