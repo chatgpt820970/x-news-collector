@@ -641,7 +641,7 @@ def page_media(url: str) -> dict:
     def clean(lst):
         seen, out = set(), []
         for u in lst:
-            u = html.unescape(u).strip()
+            u = u.replace("&amp;", "&").strip()  # attrs are already decoded by bs4
             if not u.startswith("http") or u in seen:
                 continue
             seen.add(u)
