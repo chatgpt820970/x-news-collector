@@ -1,234 +1,83 @@
 {
-  "generated_at_utc": "2026-10-09T18:23:42Z",
-  "generated_at_ist": "2026-10-09 23:53 IST",
+  "generated_at_utc": "2026-10-09T20:00:15Z",
+  "generated_at_ist": "2026-10-10 01:30 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 78,
-    "feeds_ok": 78,
-    "feeds_failed": 0,
-    "raw_items": 5121,
-    "fresh_items": 4242,
-    "clusters": 2053,
+    "feeds_ok": 0,
+    "feeds_failed": 78,
+    "raw_items": 0,
+    "fresh_items": 0,
+    "clusters": 92,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 90,
-    "youtube_items": 5,
-    "famous_items": 9,
+    "youtube_uploads_fresh": 95,
+    "youtube_items": 6,
+    "famous_items": 5,
     "trends_terms": 40,
-    "page_fetches": 147,
-    "with_video": 14,
-    "runtime_sec": 22.2
+    "page_fetches": 0,
+    "with_video": 6,
+    "runtime_sec": 78.0
   },
   "categories": {
-    "famous_clip": 4,
-    "ai": 4,
-    "celebrity_music": 5,
-    "finance": 2,
-    "crypto": 3,
-    "sports": 8,
-    "tech": 7,
-    "world": 6,
-    "other": 1
+    "famous_clip": 2,
+    "ai": 0,
+    "celebrity_music": 0,
+    "finance": 0,
+    "crypto": 0,
+    "sports": 0,
+    "tech": 2,
+    "world": 2,
+    "other": 0
   },
   "top_trends": [
-    "west ham vs qpr (US 1000+)",
-    "lens vs ol (US 500+)",
-    "jim farley (US 500+)",
-    "ravens backup qb (US 200+)",
-    "anne, princess royal (US 500+)",
-    "psv vs heerenveen (US 500+)",
-    "ambani (US 200+)",
-    "dortmund vs werder (US 2000+)",
-    "austin abrams (US 500+)",
-    "hunger games (US 2000+)",
-    "lens vs ol (IN 200+)",
-    "west ham vs qpr (IN 200+)",
-    "chris gayle (IN 200+)",
-    "dortmund vs werder (IN 2000+)",
-    "life today (2026) (IN 200+)",
-    "सूर्यग्रहण (IN 200+)",
-    "బిగ్ బాస్ (IN 500+)",
-    "अमृता फडणवीस (IN 200+)",
-    "amitabh bachchan tribute nana patekar (IN 2000+)",
-    "mithun chakraborty (IN 200+)"
+    "liga española (US 200+)",
+    "amy acton (US 500+)",
+    "lyon fc (US 200+)",
+    "ron desantis withdraws execution order (US 1000+)",
+    "florida state vs louisville (US 500+)",
+    "reimbursement (US 5000+)",
+    "málaga - rcd espanyol (US 5000+)",
+    "one piece season 3 (US 2000+)",
+    "málaga vs espanyol (US 2000+)",
+    "lens - lyon (US 1000+)",
+    "ivan toney (IN 100+)",
+    "ronaldo total goals (IN 100+)",
+    "modi (IN 200+)",
+    "al (IN 200+)",
+    "fc barcelona (IN 200+)",
+    "barca (IN 500+)",
+    "cristiano ronaldo national team ban (IN 2000+)",
+    "panama (IN 500+)",
+    "manchester united (IN 200+)",
+    "málaga vs espanyol (IN 1000+)"
   ],
   "items": [
-    {
-      "id": "12ed8db01c",
-      "key": "elon-empire-growing-mobile-musk-plunging-send-share-spacex-verizon",
-      "headline": "Elon Musk’s growing SpaceX empire sends AT&T, Verizon and T-Mobile shares plunging",
-      "summary": "https://www.nbcnews.com/business/corporations/The company announced plans to “become a major mobile carrier in the U,S.” in part by buying spectrum and deploying satellites for its Starlink service.",
-      "sources": [
-        "NBC News",
-        "Livemint",
-        "YouTube: CNBC Television",
-        "CBS News",
-        "Yahoo Finance",
-        "CNBC",
-        "Investopedia",
-        "Reuters",
-        "Digital Trends",
-        "Benzinga"
-      ],
-      "article_urls": [
-        "https://www.nbcnews.com/business/corporations/elon-musk-spacex-verizon-tmobile-att-rcna602525",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN1lkSVZ0Z3Z3Zl85SXJZM2FCLXJpTXRiWUhhdGFQZWRyNmtEemNpdHMwWm8tWmtGdXYwRHhFM3N0a2FXdGh0U3FyeW1ZcHJFSWN1X0RFZnZORGR2OWNXVVpqZlg5UXpqOG9OeWEyZkp2bF9sR09MNnRGZWtsQXdmMHlFekZqdGpuSHFHamVydWVpRTZENUJidQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOU3lNT3JKV19wMmxXdUc0YXBtaUFTWmlESXF3M2RLVTRMWFNlODJfRkgtaEdXS2tjUlNTN1F0TmYwTURpcXFiQ0g1TmdGQUhjMU1ZWWgwMGlBclhqV2pKVzVZOV9jOG1XVTNuRUNTZk1XQWxqMUxOMDNVVFMxdjYzZVN1cEFkUUkxRjliam1oZEtuWlNZbVZXS0NHSkx2RU91RURZOXl2Q1FKbzA2TEQyQmdqbDhrS3A3eUlCeF8yelp6bW1XMkozM2lwRDJjTDRzdmlSUlV5QVk1RVVOVWxyM2s4aEl1UmhxY29wenNEbC03WFHSAfgBQVVfeXFMT0o2NldleEljMkJ5MmhtYXVsaER2d1NSam5PLVphTmM3LUFJYTJVZF9VUXdHbXAxVWV4Vlk5MVBuVXktSFRvM1ljajMwazUxeW1kRUJsM1I1bWtXMXNlR0ZoSE9pSVNDWktIRGsxaFRoOG9fOVcwTUl5ZklCQlVrTHZNM3p4cGx4TzU5X3dPWnhwNE43TEJiWDVqMEgtLVpmNWVlSVAtNFU0eFlHdHZFc1B0eV82Z1B5M3VLVlZPOHJrZEVWVGFnS3hEa01fNWZob2N3dzdYcXZ6QW5JcmI2ZDdpLUJGWEdfdGNxcHlTYkhvYnZ0dExvRXY?oc=5",
-        "https://www.youtube.com/watch?v=_VX4mJlMsFk",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOU9Dd2lfNUVNVjdjY2NCTGdweHpnX3lUWF9MVy1xZElETGhMSTZ4ZUowQjhoUXdvVThkNkU4NEV4VDVmTjl4NDZ5SGZ3YS0yQ0dhQ0RNX1E1Z3gyOFlxelIzd0FzNmtJMlQzZzM3M0FzZWFtM3gwUUN0dGswNUoyMQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimwJBVV95cUxQRzgxd1VQcHVCLUpLWXVDaGN1NmpDeEt0M09OemFRaTM2R0RzVElLTUtMd2lYR2FSanRTM21kelhzcVNMYkwzdW52NGR1NXJ6LWo1SHBubmtEaWZPcEJsVXZWMXVNa0owNVZNYmRKYmVTQ3VYVmNpdVNXVDdYcFAyM1BPbnN1bzR2aVFBcC1oVjdqYUxMSEJGWFpmQVRVWWQ3azVDTlVNUnppaTFoUWo4UnZwWXJhTE5SUnhFNXE1S2MyM2FmWXE3Y2lRTkRvTUNLZWtLNHJOeUVrSlQ5aXZlRUxtV2VKTHVyMDRjbjA1VjRPQl9RUGpDUEhOUjNZTldMSF9ETW1qN21LUWxUTXN0eGt6UE5pZUhmTERr?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVS1tWG42dF8wYy04V3E2Mkg2ZXNwT19wZ0lJZ0hWb3Z1WE1HSHZpcE9kYzZxWjd0MVdXWkQzQTU2ZkYwaDM5Z2ZBeWI4WVBvOGh3ZGQwd2FmdHJmaUxNeG03NERZSENmQXB5OGdQNlhtMW51VWhMdDlzZ2stUk5pODdLeUbSAYoBQVVfeXFMTmEtZWlCcTZSUFNpRzBrUTJsWW1idkpGV0RiQjRVZGtuZUZ6ZG5aeW9iYzdtR2pqZThrRVl6Mk5RaTg4U2k0b01OM3JfaV9HSmhGLUN0ek9RXzV6UDdSaXR3RHhGZXo2RHRaUGFST2JiRmx0M0x6bV85TDVydWtYLWMwVGNVbExPNE9n?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRE1WaXlOSko0Yi03eUxZX1dpd3BDQWgzY241clk5cjhGVUxHUkdIMllnQ3Vjc2pLOWM0dThzblJJUFBRUUZZNE5mbGctVWs1bk1FWkl3d1pVd2xJOFJiazBaclpZekhrRXpzWXkwRWlxUS1Vc1hGRGVNQTJSRXN2Rk54YTlTaHdFQUNwTVN4Ymk?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:55:48Z",
-      "published_at_ist": "2026-10-09 23:25 IST",
-      "first_seen_utc": "2026-10-09T09:34:23Z",
-      "age_minutes": 27,
-      "trend_score": 19,
-      "rank_score": 1.0728,
-      "category": "finance",
-      "section": "business",
-      "source_type": "news+youtube",
-      "famous_names": [
-        "Elon Musk"
-      ],
-      "region": [
-        "IN",
-        "US",
-        "YT"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk",
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "AT&T, T-Mobile and Verizon shares tumble up to 11% as Musk’s SpaceX makes Starlink mobile push",
-        "Shares of AT&T, Verizon, and T-Mobile tumble after SpaceX acquires spectrum portfolio",
-        "SpaceX says Starlink is set to become a \"major mobile carrier\" after spectrum deal",
-        "Elon Musk's SpaceX just made a huge play to challenge the phone industry, and AT&T, T-Mobile, and Verizon stocks are getting crushed"
-      ],
-      "image_urls": [
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
-        "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1024-512,f_auto,q_auto:best/rockcms/2026-10/261009-elon-musk-ew-1205p-ec2af5.jpg",
-        "https://i4.ytimg.com/vi/_VX4mJlMsFk/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=_VX4mJlMsFk"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "Shares of AT&T, Verizon, and T-Mobile tumble after SpaceX acquires spectrum portfolio",
-          "channel": "CNBC Television",
-          "url": "https://www.youtube.com/watch?v=_VX4mJlMsFk",
-          "published_at_ist": "2026-10-09 22:30 IST",
-          "thumbnail": "https://i4.ytimg.com/vi/_VX4mJlMsFk/hqdefault.jpg",
-          "is_short": false
-        }
-      ]
-    },
-    {
-      "id": "5e9366b1b3",
-      "key": "ambani-boss-call-elon-india-mukesh-musk-push-real-starlink",
-      "headline": "Elon Musk calls Mukesh Ambani 'real boss of India', amid push for Starlink in India",
-      "summary": "https://www.bbc.com/news/articles/Musk has taken pot-shots at Reliance owner Mukesh Ambani as Starlink struggles to launch in India.",
-      "sources": [
-        "American Kahani",
-        "NDTV Profit",
-        "Business Today",
-        "The Economic Times",
-        "NDTV",
-        "Business Standard",
-        "Bhaskar English",
-        "WION",
-        "India Today",
-        "IndiaWest"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/news/articles/cvglw9ryjrylo",
-        "https://timesofindia.indiatimes.com/india/elon-musk-fires-another-salvo-over-starlink-delay-targets-ambani-again/articleshow/134840437.cms",
-        "https://www.businesstoday.in/amp/technology/news/story/elon-musk-calls-mukesh-ambani-real-boss-of-india-says-starlink-can-save-lives-in-india-560778-2026-10-09",
-        "https://www.reuters.com/business/media-telecom/india-rejects-monopoly-claim-after-musk-accuses-ambani-blocking-starlink-launch-2026-10-09/",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWXBCME9uaWJlcTdVdEI5MnlzVDlJUC1Scl9WUlBnS1VMYXpkUTZhcF9ldll1VVZvekp1M1hLUUg0V3BIM2lTUmh4YmZXa1dpa3ZzcUs5dUluTlRGY19iU2VwbUlDM0dWbTJSdUludTVpNk1EQjlmWllkWHdEZWhpX1VKanpvSlFsa1o5U0NqeW5GaDNlYlA5LXp0ZEFIWVhyS3pCLU50Z0Y3NWU5cTdsMzBkaUVockhaVVFYSjQzc2hMVVda?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRC1OeFk4aDFJWnYyRVo1Vmp3eUxpNHptY0JZU3N3TDdWVm5KTkFDeDhHZVA4Qi1UWW8xNUN5cFAxM0dVUnBKNm5HSk80UWVIQUFNZ0g4eERnVnhlb1BNazlFQWhSUGVZRFdNdVk3RUE5UnljWnpJWnhrbTk1ZHNaZGQxV3RTSFRMdHFFN2tCRnNEWjBVY3ViRkdfLVM2VjZBeU9kTDhVZTlOdjByU0lIZjlfREwzc2VMWUR2dmJYdWxicUlL0gHMAUFVX3lxTFBRemp1MzJldnljZENMbzR4c0N1MVhNOGdqU3hMSk9FUjJULVZJYlc1RVk2cnlxOXVJNFNPVkQxNHhZcGdjdlJDSDRTUC1jcUZVcXhsaS1PNFhjY3NMbmF1Qlg2T2VPREluNzZsR0x6bnkyLWhIWE15dW5YalFYZVZRNC1YbWZzRnVMT3NwZmdDRFNKY0pjV3BSOFVCRnZzTUtHNnl0Umtabzl6OG1JV0xZQUhTYjZCMDJwTVBYNzI0SnEycjZWSU1tWHR6RA?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbDcyeFoxNmVoYllPUURHc3U2aGcwNmFfVlNYUHdSUTBQQWh6SkNzVlBCRGNzOHEwNDRoZ1FKa0R1cHRVNXVaX1hHTlBxbEY2ZUo3aWRhNm8zRy00YUUzOUZYM2RxeG9vaWk2c2FLRUdTWlhGRFU1bDNTeXZBZk0yTWhJMThWUGJNUG9LLUg1ZlVIM1hBODZqSHZBN2szaEdYbFFaNGdDVW55WnUzQVo0cGg5TGFvYUo5UzZlcHJTWVJPVVk3VkxpTkdGRy1mTVN6RFVZNV9PZUhTY3Z3ZUZMNm5fMDhVRG9HMTdVcXZkRjXSAfABQVVfeXFMUGw3MnhaMTZlaGJZT1FER3N1NmhnMDZhX1ZTWFB3UlEwUEFoekpDc1ZQQkRjczhxMDQ0aGdRSmtEdXB0VTV1Wl9YR05QcWxGNmVKN2lkYTZvM0ctNGFFMzlGWDNkcXhvb2lpNnNhS0VHU1pYRkRVNWwzU3l2QWZNMk1oSTE4VlBiTVBvSy1INWZVSDNYQTg2akh2QTdrM2hHWGxRWjRnQ1VueVp1M0FaNHBoOUxhb2FKOVM2ZXByU1lST1VZN1ZMaU5HRkctZk1TekRVWTVfT2VIU2N2d2VGTDZuXzA4VURvRzE3VXF2ZEY1?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOcm1wa2FmWGs3amJadWV5MGJRTHZ1THV0dmlfTTd6T3Q5RHJQUzM5TlJISHhPczA3dXlNeG5PVlE5YTVVRWNIenRpS2lWdHBpbkJDSEx3Wk1zZzItSUV1ZDZnSUxUTjBPSS1aMjJYamJpeUpJWEFTREVka1lES2lMUm5KUTlITzU1UURlc0tWN1NZaV9iNXQxcjRSejVob0IxVVlRVHFYa2k2U1Fpcm5oQjRwcjV1Z2xLaEJsUm51eXBmWVFicEpFaC1LdlBvSTBjREJPby1tamxBcU1XY1Y3dzUtUlJ1dGoyZEo00gHwAUFVX3lxTFBsNzJ4WjE2ZWhiWU9RREdzdTZoZzA2YV9WU1hQd1JRMFBBaHpKQ3NWUEJEY3M4cTA0NGhnUUprRHVwdFU1dVpfWEdOUHFsRjZlSjdpZGE2bzNHLTRhRTM5RlgzZHF4b29paTZzYUtFR1NaWEZEVTVsM1N5dkFmTTJNaEkxOFZQYk1Qb0stSDVmVUgzWEE4NmpIdkE3azNoR1hsUVo0Z0NVbnladTNBWjRwaDlMYW9hSjlTNmVwclNZUk9VWTdWTGlOR0ZHLWZNU3pEVVk1X09lSFNjdndlRkw2bl8wOFVEb0cxN1VxdmRGNQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:13:36Z",
-      "published_at_ist": "2026-10-09 23:43 IST",
-      "first_seen_utc": "2026-10-09T10:53:52Z",
-      "age_minutes": 10,
-      "trend_score": 35,
-      "rank_score": 1.018,
-      "category": "tech",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Elon Musk",
-        "Mukesh Ambani"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk"
-      ],
-      "google_trends": [
-        "ambani (US 200+)"
-      ],
-      "other_headlines": [
-        "Who’s the Real Boss of India: Elon Musk’s Showdown With Narendra Modi Over Starlink Licenses",
-        "'Dear PM Ambani… Pls Allow Starlink’: Elon Musk Doubles Down on 'Real Boss of India’ Claim",
-        "Elon Musk renews push for Starlink entry in India says lack of internet denies children ‘opportunity for education’",
-        "\"Dear Prime Minister Ambani\": Elon Musk Doubles Down Over Starlink Row"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/news/1024/branded_news/36d4/live/5881b930-c3cb-11f1-9a39-31b474234113.jpg",
-        "https://static.toiimg.com/thumb/msid-134840652,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac924ddc442d-elon-musk-and-mukesh-ambani-094551292-16x9.jpg",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvTogtkII6pfEV7Snk4Ix0Xq6AQehHuEwlgUVTAV8ieC2-wpO1kEfBHn9gA7U",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQlzAFwG0ZzMGZoliBT6wCTKUkRTZG94G0mPIPxi8vME5zGH--mBwdso2bsewA",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9zsgB4bbCDPaQNG9NNbqHM7QVKSot_EnEGkPZVP5BvVLs-aFp9k8OLkpEDk"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
     {
       "id": "ffe56e2991",
       "key": "airline-bastian-ceo-delta-elon-former-musk-spat-united",
       "headline": "Former United Airlines CEO on Elon Musk's spat with Delta's Ed Bastian",
-      "summary": "https://www.cnbc.com/video/2026/10/09/Oscar Munoz, former United Airlines chairman and CEO, joins ‘Squawk on the Street’ to discuss Delta earnings, which missed Wall Street earnings estimates for the first time in two years.",
+      "summary": "Oscar Munoz, former United Airlines chairman and CEO, talks with CNBC about the competition for WiFi in flights as Elon Musk spats with Delta CEO Ed Bastian after the airline didn't choose Starlink.",
       "sources": [
-        "YouTube: CNBC Television",
-        "CNBC"
+        "YouTube: CNBC Television"
       ],
       "article_urls": [
-        "https://www.cnbc.com/video/2026/10/09/former-united-airlines-ceo-oscar-munoz-on-delta-earnings-and-elon-musks-spat-with-ed-bastian.html",
-        "https://www.youtube.com/watch?v=jmHCJweLrRE",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSC1VeWNYYlg3WHhrMWxQSlJ1NlVUQll2eTd5YnNKYThqdF9QYVEtSmh5ZHJzVEVUMFVjaDdNTzZianhYN29lcjlJMDQzYnNCdk9ETzN0enFsbjY2Yy0tdTRieUtvLW1PWVBfcFZjUmE2c2pwX0tzOEdrb3pFQl9SZnNTZF9CVThNa2RWZkJoNWF2b1JEQjFzUkFrbTh2S0JZWDdMS0hwRGxBQXhjNXh3Y2c3Vm0yV2tiaENtVmloVUt6b01jdXF2NGJUek04c1FE?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQmVwdUhXMFdETGF4aUlpcHFMM2VXd3N0dlpmWjJXZEJCSXc1TVZ1WTZBbVBTYTB6a0NiRmZzZlpadFExeXlGRWtPbE1ncm1xU2hKQ2xEaDBLd3BwOFU3QUlBV2xtZ1dTMGVYUzg1WWRNTTkxT2VNVDRZWWtaSjVoTGFzaUx1aTJWSFU5blFZV3dTa0dzVFpuaVprbWV6UWdnMWhxS0k2aHh1YWc4Qm9ZUFhiNzluR21taHFNMmpnZlBHU1RhamxPZjkzcw?oc=5"
+        "https://www.youtube.com/watch?v=jmHCJweLrRE"
       ],
       "published_at_utc": "2026-10-09T17:30:08Z",
       "published_at_ist": "2026-10-09 23:00 IST",
-      "first_seen_utc": "2026-10-09T11:47:23Z",
-      "age_minutes": 53,
-      "trend_score": 10,
-      "rank_score": 0.9806,
+      "first_seen_utc": "2026-10-09T17:30:08Z",
+      "age_minutes": 150,
+      "trend_score": 5,
+      "rank_score": 0.9149,
       "category": "tech",
-      "section": "top",
-      "source_type": "news+youtube",
+      "section": "business",
+      "source_type": "youtube",
       "famous_names": [
         "Elon Musk"
       ],
       "region": [
-        "IN",
-        "US",
         "YT"
       ],
       "language": "en",
@@ -236,17 +85,12 @@
         "Elon Musk"
       ],
       "google_trends": [],
-      "other_headlines": [
-        "Former United Airlines CEO Oscar Munoz on Delta earnings and Elon Musk’s spat with Ed Bastian",
-        "Delta Air Lines CEO Ed Bastian on Elon Musk: There's no tit for tat as far as I'm concerned"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://image.cnbcfm.com/api/v1/image/108381939-17915580111791558008-48891251811-1080pnbcnews.jpg?v=1791558010&w=1920&h=1080",
         "https://i3.ytimg.com/vi/jmHCJweLrRE/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=jmHCJweLrRE",
-        "https://pdl-iphone-cnbc-com.akamaized.net/7000427029/25b64440-c3f2-11f1-8573-31f21d850a73/1791558008-48891251811-hd_L.mp4"
+        "https://www.youtube.com/watch?v=jmHCJweLrRE"
       ],
       "has_video": true,
       "youtube_videos": [
@@ -259,1101 +103,6 @@
           "is_short": false
         }
       ]
-    },
-    {
-      "id": "7891433089",
-      "key": "awarded-navi-nobel-peace-pillay-prize",
-      "headline": "2026 Nobel Peace Prize awarded to Navi Pillay",
-      "summary": "https://www.aljazeera.com/news/2026/10/9/Pillay, 85, has been instrumental in ensuring war crimes and genocide are prosecuted, Nobel committee says.",
-      "sources": [
-        "The New York Times",
-        "People.com",
-        "CBS News",
-        "Politico",
-        "The Times of India",
-        "The Palm Beach Post",
-        "Hindustan Times",
-        "CNN",
-        "The Hindu",
-        "The Guardian"
-      ],
-      "article_urls": [
-        "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0I2YUlxVWh4S3g2WWpQdW9lQUlnSWpmOVdfWUtGUnZLbGcxQU9FSFFvOGpaN1RVZmhXc0h6NWE1aDNjbTlwXy1ZQ3BUczBkQlRYd2REam45cUJjY2szOWlXUmFRWG9UY3g2b2EzRWJscmw5aE1BN2VXbHNCSm9ONg?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU3dPbjNYdklKTzdXZWw4a0ZWVEFyRlZ4NHhLSmNjV3ZSS0VGc3BHSDZIT19NZlUtc25xTFNHdTE2ajQyczRDTVF0eGY4Y0Zwb0dzejZwTS03MDRyRGZSUnFWYkQ3MG1ranhzMlZvT1dOSjdpWi1DTHZUUTJ3QkNpRkFFOUtFZFc3aWZNZkIyNA?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQlllRWpzaEpadUU0Z245MzZ5MVVuOGdaek40b1N4VUU2OUU4dHBrYWVzdnNyZG83UUE0dEF1WkNtbmwzcHlkZ3RlU1BDV2d5WlIyaUh2YTZQOW5YY3NDandjUmtVbHRuX25yMXpia0N5T1ZtVG1kQmN5VU9KZlU5Y0pDajlyNHVvNVUxYzBmeDFkUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcUFxbURtWnRGNHdJSkRnM0MyTjJFa1lrcnQ5M0ZIb3JPQzhQTFpyU1U2dDBSZWlLellBV2FxdmhvdnlucG9zZFlBYnVSTjdMNDUxRkp1SzhRU1hxeHpITE5YdEw0b09XX3c2WWpfX1VBTElLZnlKVnhZcmNzQzRqaFZma2tFUHRudWZXZ0pvTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTmlCQndwa2xZeGVGOGQ1SFdYZ2otb3dYbzg2ZWVVUHNyT19aWkZsbWVpSWhmNkU0bjE1SURCZkQ0NGdCOXFSWnp5MXV3WVJqSjNPQjUycDJxbWpLLUdnTjlLQkRtLXNGSHJSSERncUJGY3U3TGh5SWVQamJNR1ZiNzlFQm1SWlNoRXRYWER5VEtNQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNTJCRllSRkFXSFFsR2pHUDJuUFBfc2tkU3l3bU1YZE5Tcld2Sl83WGtYVV9od2NSVkpLNE5mU0xVU19Mb3ROUlZza1l2OHo4ZXQwN05hSFBQWF80Z1NwVVFxYlNZR0RLNTdVNVV5QTM5Mi1KRXZpaWJlcUtFUTdxTE1ncE02TUQzNkIwX0N6U3dob2VyalNMX0xhaHpBSjFaLTVVNGJ2RnZFRXVMMnFiWWFtVDFfQVpRaElxbURkaEwyTTRRVFlIb2NaVG5LRHVYN2dza1RjMHBwd2tUbW81NWoxRGJfTWZZZzBpa0R1djhYdEZMYTBOcE9iY9IBgAJBVV95cUxONXZCRzBvTDJmVmtpZWU0OGtlMkNSVWVCV3VnMUFaOVBBdjR6eDVNVVljbGlNeGMtWmRyNjRlaWJMZHQtMVdoMVpzZlV1M19udVQ5VHFycnNTTXF0bUJlUUREM3V4dG1aZzRsdTdWLW4wLWFNQWZPNGJRZ3VaM0R4RkFtRjNva1Y1U1lLV2JIdVdKSnFpMWF1QkM5azlxMTI2YWFXaGxSQTZHSUZyeXRTUU9zWEgwT2N6b0Fod1c0YXRqWDUyVmlUVG03NFoxb05jWGUzSjh3M2dBUmhlb0FlWHJZZi10UmFZNnZjUGx1WlJDTTQ1Y29kZEpEZVBfTlIx?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNX21FVGVPcVNkbDNlRHh5QTdsRGZRc1g2U3FNUkRiTTBKbEtidE12c3pBc092Z0dnLXB5NU9QRDFZcy1XbDA2R2ZaNkhjLWFIeHl6M3hSd1dJZXJteGFhXzhyMm9FVjU0akU0SDVJaHJMNzVJb0Vybmx2T1dqQmhKZWZKVG02WnplaTBjZFVtZzJSTEhlWE0xZGp2OHpreUZJQmhTNm9iRENSTUZMNHZUM1FPMFQySzRuR3BmY2pQVUs2M1dUOGdLTzZ5MDZ0dTVTcWpF?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:04:04Z",
-      "published_at_ist": "2026-10-09 23:34 IST",
-      "first_seen_utc": "2026-10-09T10:35:52Z",
-      "age_minutes": 19,
-      "trend_score": 42,
-      "rank_score": 0.9771,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Trump"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-        "Trump’s real prize",
-        "Trump swipes at Nobel committee after peace prize awarded to human rights lawyer",
-        "‘Hater of America and Israel’: Trump reshares post criticising Nobel Peace Prize winner Navi Pillay"
-      ],
-      "image_urls": [
-        "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac8bbed-1791540205.jpg?resize=1920%2C1440"
-      ],
-      "video_urls": [
-        "https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.html?videoId=6406529219112"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "3c8524d1f0",
-      "key": "absentee-couple-dispute-furiou-kelce-neighbor-swift-taylor-travi-‘-’",
-      "headline": "Taylor Swift, Travis Kelce neighbor furious with ‘absentee’ couple amid dispute",
-      "summary": "https://www.thebiglead.com/taylor-swift-travis-kelce-neighbor-furious-with-absentee-couple-amid-dispute/Taylor Swift and Travis Kelce received the ire of their neighbors over their planned landscaping development.",
-      "sources": [
-        "The Big Lead",
-        "AOL.com",
-        "The Cut",
-        "Porterville Recorder",
-        "Page Six",
-        "Yahoo",
-        "Cleveland 19 News",
-        "New York Daily News",
-        "bluewin.ch",
-        "Sports Illustrated"
-      ],
-      "article_urls": [
-        "https://www.thebiglead.com/taylor-swift-travis-kelce-neighbor-furious-with-absentee-couple-amid-dispute/",
-        "https://www.aol.com/articles/taylor-swift-travis-kelces-neighbor-171431000.html",
-        "https://www.aol.com/articles/taylor-swift-travis-kelce-ohio-123341000.html",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQTU0SENuVVIzVVBDUk1JaHpNMjBQY2JRZWJBVXBObWdfRkpDLVZSREhOc01hb2dvTGtPc0pZRW5KZ2V6WU54QXR4RFpYZWw2YUJ6aDJ5UWJqbURwWkQyMVpjdDJ5eWZNTXBOTzBwTU5FVTRQZzNETnhaRlpaNTdSNGxFNWxlMWhfbGRrSkRrTi10c0VXYXVMOERIckpSMENrencxdHd5MA?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxORmNDWWp2TS0yZWF0UHBYQlVfTFFVWlhIU1A4dG5qcGk4Nm5NbUZrZTZKVmttUkVZdklINDExbC1yWFBMdnhQem45ampHaVZJNHQtMU83VkNFZDRycXRGTHBZbnJidGxjTzBZdlpIRDljSzhrZWhmTzJhaEtUUUI2SW1udDAxZw?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aaUF0NkRfaVA5N3R0Q0ZMdzhwSFdPNXdhTXVDVzlmd1NQdVJ3YnZaM3VKdTJ6SDY4dEdGSGVhSHRmQnY5czBpcktWMU9LYmhIa2NQQUxmek5UaFZJTWt2YXJJQUhNU1dmQloxVFNGQnFlc0h3b0RGbW5PaG5OV1U?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaTNsbXMxTzBOUUVUZm0wamJuVnU0eEkzNnM5UnBsMHpGZjY2RmxJWTFRZTItS296LTllbm5PSGlpb05sVVBDTHR3Y1htOUhxQkx0bWRGS0ZRU0dDeEdHYnpTdDJ6OXVfVHo3a2M0OXVfWS1pcXNYbzRnLVk1a1RrMjBCVHZkVkU?oc=5",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxORWlUU3J0WG5DdnFGR1dHaWowV1hsUE5QaHczZ3lSWnlHS3RHdzRuQ3Rrdi1YWllDV01PeU1MaUdYRnpFOFZTT1BCOVdBU3VkZFZ2UGdyZkRWWFpiYkcwUkxZSGxPYTAtRkhIb2NyU0NCREVZTmJjWllZRFNmc3FzNGlRSG9XQWtRa0NhS0Z5WFdxV0N5ZnhEY1BrNVdPTmk1a0dwUkZraVJ0alBKbTJkWGl3c0J1dUtMWjdRUG1nMDZibVJaOUxIbXdlakY1blVSd2VtRGxQZC1IZ2FlRk9hcXozdE02VVg5Y0JaQkI1VWFDbjV2bHhsSDNPb1dmVUU3bXJVUzlB?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:14:48Z",
-      "published_at_ist": "2026-10-09 23:44 IST",
-      "first_seen_utc": "2026-10-09T11:54:00Z",
-      "age_minutes": 8,
-      "trend_score": 19,
-      "rank_score": 0.9757,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Taylor Swift",
-        "Travis Kelce"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Taylor Swift and Travis Kelce's Neighbor Blasts 'Absentee' Couple and Warn of 'Tremendous Blow' to Ohio Community Amid Security Plans",
-        "Taylor Swift and Travis Kelce’s Ohio neighbor blasts ‘absentee’ couple: ‘Tremendous blow’ to community",
-        "Taylor Swift’s Ohio Neighbors Are Not Loving Her Fence",
-        "Taylor Swift, Travis Kelce new neighbors rail against privacy fence"
-      ],
-      "image_urls": [
-        "https://www.thebiglead.com/wp-content/uploads/2026/07/2026-07-04T020539Z_1702723916_RC2506A9E747_RTRMADP_3_PEOPLE-TAYLOR-SWIFT-KELCE.jpg",
-        "https://hermes.media.transform.aol.com/3d1a474fede56a5616cbbfeb92635c6a08ad58d3/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/09/363cd951-6b49-300c-b05d-3a6dd1ecef45/4cdf1527-1754-449c-a770-ed289ac7bc87.jpg",
-        "https://hermes.media.static.aol.com/media/2026/10/09/da61df46-5ef1-37ab-a5a2-08689ff2438a/a9d7ec7b-a8e0-4db1-9bb0-463df900e082.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "24595a8d3e",
-      "key": "album-announce-nickelback-tour-world",
-      "headline": "Nickelback Announces World Tour for New Album in 2027",
-      "summary": "https://www.bbc.co.uk/sport/football/videos/Manchester City manager Enzo Maresca says he 'completely trusts his club' as he spoke for the first time since City were found guilty of breaching Premier League financial rules.",
-      "sources": [
-        "Rolling Stone Canada",
-        "SSBCrack",
-        "Billboard",
-        "Consequence of Sound",
-        "Backseat Mafia",
-        "Curiocity",
-        "Hotpress",
-        "Louder",
-        "AOL.com",
-        "MELODIC Magazine"
-      ],
-      "article_urls": [
-        "https://www.bbc.co.uk/sport/football/videos/cmwy9edkgyn9o",
-        "https://www.bbc.com/sport/football/articles/cmzxjdvv784xo",
-        "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vM09JajI1OS1rSWxOcXNDRDdCVkRVRUR1ei1MTC1scTRpYVFqNGh0eXVRbGhER2NTYzVyR09mTXpUd1JodFd4U3A3NnFPMzV3MHJOc3REcEtNVGIwRFlhOUx0RjdZc2tnN2dhX1JRbXg4aFlvc2FoTGY3Tk4yTDg?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNkNRUUx4RExQTmo1TGlkYi1ZTDh4ang4U0U4c0RyMkFLVTJ4T2tjbm1uMWVXNWlIN3VXVmp3Ykt2YTY5MWdlVFlHTzE5ZFhNSlZ3YlpzRUxPQi10bHU4bjVFSnVRazlEcGtrUUZpakFCRUJfR0hwY2NhWTc0eXU1am53NHo5elU?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaGJqbmNDODB3bGs1NjBkamRFZGp5Mm8zaU5SVXpxanYydnFsX1BTa3QyMEVkVUJPYkJKZmN5by1UODdINDBmTjZuN2N1VHo3ZUIxNDhqOWVMZjQyalBkNWdlaFBWZXlDTGRWTXIzaUVIN1EwcVc5aWlyTGRkcFM1NGVCbjNXTzFqc0wyZmw0eE9sMVZHbkJzc0h3LVNUcU9LQmpuaEpHWkRVQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE02RER2ZFR6VVp6VU84NTJiWU5uX3pJYUJTSHI2elZiZ0ZTU2l5OXpkWWRhZ1k5LUY4X1AtMmJaaGRZcy1MTTlfSWR4a1Rrck9oOFpZYUN1cERVQ1V1Wkt0Uk44VVVtT2w0VDNacWN3eHhEMDJCcWE2NnJhb05GUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUTFKY2htWXMzcUtTUm1kMW16STVqaFdlcDZUY194QkNwLVFkQUkzVUxWc3dsRTBXNS1LVU1CRlZnZFI2eWFPeDdRaWhsMXh3OXNMQl9QUVpYMDF1QURGanVmYy14MXVBVXlOR01mVmFkUFpESG9kQnktOG1XQ09Nc2lCQlJiQnM0eEE?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:01:58Z",
-      "published_at_ist": "2026-10-09 23:31 IST",
-      "first_seen_utc": "2026-10-09T10:09:07Z",
-      "age_minutes": 21,
-      "trend_score": 41,
-      "rank_score": 0.9747,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [
-        "manchester (GB 1000+)"
-      ],
-      "other_headlines": [
-        "Nickelback Book 2027 World Tour",
-        "Nickelback Announces Dates For Huge 2027 Everything Under the Sun World Tour",
-        "Remi Wolf Announces 2027 Tour, Releases New Album Mud: Stream",
-        "News: Nickleback announce world tour including 7 Australian dates"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/09bb/live/0c156cc0-c404-11f1-a64c-550be9e3c66b.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBUwIdg5jUA2BK6VPBs2b2YQw_CMshLClVB16AMYzXib8WDef_MU9oCod6qk",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7JwSlnwwbEScT5JahQ-c-5h-ItvjUi7yd11RIIwLA7xV3VuxMUpG2WPhtbfw",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS5Qg7Yox2808c1lggmHYL_W0OH6Brf6ogRChYJlc8cqjqsMFSFQ76aLL03W0"
-      ],
-      "video_urls": [
-        "https://youtu.be/acmHKbP0Ua0?si=o1QlEvGA2gEVjdLb"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "7b88f34f49",
-      "key": "86-athletic-bear-chicago-coach-dies-ditka-end-fame-hall-legendary-mike",
-      "headline": "Mike Ditka, Hall of Fame tight end and legendary Chicago Bears coach, dies at 86 - The Athletic",
-      "summary": "https://www.vogue.in/content/See what the stars have in store for your sign",
-      "sources": [
-        "The New York Times",
-        "ESPN",
-        "WRIC ABC 8News",
-        "Pittsburgh Post-Gazette",
-        "Green Bay Packers – packers.com",
-        "WSJ",
-        "WHO13.com",
-        "thecanadianpressnews.ca",
-        "Facebook",
-        "The Guardian"
-      ],
-      "article_urls": [
-        "https://www.vogue.in/content/virgo-horoscope-today-october-8-2026",
-        "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-october-8-2026-money-looks-promising-for-some-but-three-zodiac-animals-need-extra-care/articleshow/134755815.cms",
-        "https://www.nytimes.com/athletic/2947063/2026/10/09/mike-ditka-dies-bears/",
-        "https://www.hindustantimes.com/lifestyle/spiritual/chakra-horoscope-today-october-8-2026-listen-to-your-intuition-and-consider-what-your-past-has-already-taught-you-101791379978548.html",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfTElhSG5abDE0YTB0WnN4ZmxpRmk2OWNxaGlmQl9KX19VbHZZUFZNcGRkMl93alJnSkRHLWFxWDVrTnh2NGFIQ2lrRHZYTGU5MEZHSVFWLVhZcFJxcTU0eDZSUnFGLU1sWVJPX01mWTM4TVBBbmlvQjBRUU5yMTA?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWlV5QWJRZzVyVk1iOUtxLUQ0ZEhraU91N2tobF9wVHNJT1lSWHo5SkpXTjZHVHRPdUZWdm5QRkg0VU5tM2Z0UG04TUpqWEpVMng0c3RWWkdSRzF2RllUTzR0OHRlNS1EcnotUVlvMTJGdnRBcGtTSTlDTmM2T1lORy1mdnZ4UlVTV1dCZDJSWFg0aW1fb2F3cDZVRXg?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN0QyRm1waDJMOHd0d1FmSldNbTV0Tk05V3NmZVcyak4yRE05a0hoZXQ4MnJEY0JqdC05SEFvXzhMN0dfTG55VjBnR3ZmMXVFa0tDYmtoaENhOXFsQTJsT0JYcVYwMU8xRGtqLVZSNzhtOFZrbjJLamNDM3I2dDc2UWxuUmQ3ZkV5NzFFb1pwWDExSVJUd19ZRlBOejQ1bXdhWFHSAacBQVVfeXFMUFVOdkt0WlMxbm1GNk5ObXEzSVQyTXVubDJERFpIN2hubTRCUDVlNmVFVlRQUkNLTWM0SXo3bHBld2I1eDh6d1hxQVVvLTZEVFYwRUoxU0ZzRkUyaUJMSFNVZmZhaHlZTm42UEh0a1UwTGY3MDI0NHpjS3l5dGRZSXcyZ2FlR1Y4SGJCTExRNkRmckZEYzExRGtDRmhWeDhuYU1CQUZIX2M?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3lqX0h3X1lZdlhqVXpEeE8xX0Fjc3dvY2xQUUoxbzAwWHNveUNJN19ZQlBORFVhenN6MUIwM1hidEFCc252aHFvdktkSHhKOGxNUTNnaHRycWhYX1RVQ0JjWjAzZU1aMVNSaUx5SlZ4d19YQ0dUTFp2V1I4N1Bxa1FsWjQzdHlyT0E?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:50:28Z",
-      "published_at_ist": "2026-10-09 23:20 IST",
-      "first_seen_utc": "2026-10-09T16:26:30Z",
-      "age_minutes": 33,
-      "trend_score": 29,
-      "rank_score": 0.9569,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "football"
-      ],
-      "google_trends": [
-        "life today (2026) (IN 200+)"
-      ],
-      "other_headlines": [
-        "Drake Athletics Director Brian Hardin talks about time with legendary Chicago Bears Coach Mike Ditka",
-        "Mike Ditka, the quintessential Chicago Bear and a Pro Football Hall of Famer, dies at 86",
-        "Mike Ditka, the legendary NFL Hall of Fame football player, Chicago Bears coach, and football analyst, died today. He was 86. Read more on his life and legacy here: https://deadline.com/2026/10/mike-ditka-dead-nfl-bears-1237150996/",
-        "Mike Ditka: a life in pictures"
-      ],
-      "image_urls": [
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png?mbid=social_retweet",
-        "https://static.toiimg.com/thumb/msid-134755815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwtj3TBgH7Rq3EbmlNycEulIW_5-jBMaFH5PTu8vkw0p7R3RfduhiezKVHnKg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7KZcDWd9L0bgxVv3OzwbxBoT_2arJ97gavJfbfbfGXkJgDPAjgLc5DryPAIw",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3BbBuu3IBsgUZs5njxbdFRqs4pgZh6Fok5t2SeoNLqpPy_NrQ8GYsYZJGm3c"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "82595aa88b",
-      "key": "500-bitcoin-gold-outperform-silver",
-      "headline": "Bitcoin outperforms silver, gold, and S&P 500 w...",
-      "summary": "https://www.vietnam.vn/en/(Dan Tri Newspaper) - After plummeting nearly $1,500 per ounce from its peak, world gold prices are now seen by analysts as having a great opportunity for recovery thanks to seasonal cycles and persistent buying pressure.",
-      "sources": [
-        "Pluang",
-        "Sangri Today",
-        "Vietnam.vn",
-        "Moneycontrol.com",
-        "Patna Press",
-        "Rediff MoneyWiz",
-        "Inshorts",
-        "Asianet Newsable",
-        "APAC Media",
-        "Daily Observer"
-      ],
-      "article_urls": [
-        "https://pluang.com/en/news-feed/bitcoin-catatan-pengembalian-riil-tertinggi-lebih-baik-dari-emas-dan-saham",
-        "https://www.sangritoday.com/amp/business/gold-price-today-delhi-gold-jumps-1900-to-1544-lakh-silver-rises-4500",
-        "https://www.vietnam.vn/en/chuyen-gia-gia-vang-co-the-tang-manh-sau-cu-lao-doc-1-500-usd",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjJTZWR3R09falcxV0lsa2wxVWw3MnVscE1FaEhHRkZRZGIxd0FCUV9YcnlSa0xPNjlybmhHTWhXWjA4UHNhRGtyYi15ODZ0S0ZkRDBON0FpX3VacUdqSUpIalZSbDU0MHJwNTNmMndmSm5LLVpjeTVjY2VaaEhvbTg0c00zQjZrNWs5TlllR2duZDZJUWhBeUJCY251ZGRDNmRNRnNTd1prdw?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPS0RUeUt6b2p4R2U1WEF4Wm1hM3JaZFgyNURXM1pNZS1sQ09FRTNmNW1TZmxKWkNZZkVHRGk0Rm1iQlNLc1VQSUJYSEpBNzFaODNORzloOGU1MXl6aUx0SVM1bFVwNVRlM0F4XzhFLTBzVWpYN0liaEhIY3NFbkUtN0xFTDZMTUYyZGhLWERCYU41dTVTSElDaENPMURxUzBQekozWV83UjVYanVjV1VZ0gGvAUFVX3lxTE9LRFR5S3pvanhHZTVYQXhabWEzclpkWDI1RFczWk1lLWxDT0VFM2Y1bVNmbEpaQ1lmRUdEaTRGbWJCU0tzVVBJQlhISkE3MVo4M05HOWg4ZTUxeXppTHRJUzVsVXA1VGUzQXhfOEUtMHNValg3SWJoSEhjc0VuRS03TEVMNkxNRjJkaEtYREJhTjV1NVNISUNoQ08xRHFTMFB6SjNZXzdSNVhqdWNXVVk?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVjg4ZkhiS0xpM0lMWUg1VkY5bXVSWUUtOUZ5M0NHNFkyZEs3OWpkbU9HdmJpWXV2T1l1cHBsbGlqNmdXUmZPcjJILVNCWVF5UEowUjgzY3lOU0lxY3MtRHEway05aW5YQS1Sa2hpZ19PNWpMVHlTYlpfUm5naFdiWEFhRkx3ZWlsMkplZVV5bGI?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxOc2wzb0RKT09qV1Z5a2czWEhmWHVRTzhfZWQ3QzVJenVNMXVhSEVBQXQzTUxZSndPWkZRTjJnSkhDcnZPdVV6dEpUMnVLNVZEak5pemc1VklNZ0N0Z1BuaHFHZ1U3X196WWl4NFZyc2ZyaE9FYmhTUzdwYktVUV92WmxTOEp5NkZRbHc2VjZvVVNpdzJaWjY0SWczUjhObEpDNzhjM3pfdklkcG1rNFpfTXlSVjd1dE9qU3VRR0NiQ3F2bXFxejh2b0M0MGwwcTRHeURhdG5MVHdQb0Y4bnhGVWNnM1ZDQzNDSUxqaU9lZmlWeVNjai1UTno2eUhxT096UF9DYlRZRUpSaWtYWHU5StIBkAJBVV95cUxOc2wzb0RKT09qV1Z5a2czWEhmWHVRTzhfZWQ3QzVJenVNMXVhSEVBQXQzTUxZSndPWkZRTjJnSkhDcnZPdVV6dEpUMnVLNVZEak5pemc1VklNZ0N0Z1BuaHFHZ1U3X196WWl4NFZyc2ZyaE9FYmhTUzdwYktVUV92WmxTOEp5NkZRbHc2VjZvVVNpdzJaWjY0SWczUjhObEpDNzhjM3pfdklkcG1rNFpfTXlSVjd1dE9qU3VRR0NiQ3F2bXFxejh2b0M0MGwwcTRHeURhdG5MVHdQb0Y4bnhGVWNnM1ZDQzNDSUxqaU9lZmlWeVNjai1UTno2eUhxT096UF9DYlRZRUpSaWtYWHU5Sg?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdGFFbnNGU2pmTV96TXVCZVVKYkRDclk3ay1DMEd2RWVwNlBJNDgxeUdkdFNrRHFDUWR3U245RHBYSDZobjBTV2RGS3JTTHNlMHlaMVpPSDFYaEQ3LTFJYkxVUnYwMmNoU1M1bTQ3bDlzWlFDLXFUa1YzeVJoMTFPcUM5aDZDMU0tZjJCRmNzQQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:53:57Z",
-      "published_at_ist": "2026-10-09 23:23 IST",
-      "first_seen_utc": "2026-10-09T10:05:00Z",
-      "age_minutes": 29,
-      "trend_score": 24,
-      "rank_score": 0.9432,
-      "category": "crypto",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto",
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Gold Price Today: Delhi Gold Jumps ₹1,900 to ₹1.544 Lakh, Silver Rises ₹4,500",
-        "Experts: Gold prices could surge after the $1,500 plunge.",
-        "Gold rises 1.34 percent near 1.49 lakh, silver jumps 2.84 percent as US dollar weakens and crude oil falls",
-        "Gold-Silver Rates Today (October 9): Gold Falls To Rs 1.49 Lakh, Silver At Rs 2.34 Lakh Per Kg"
-      ],
-      "image_urls": [
-        "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/10/09/1791554969940_preciousmetalsgoldbars03-cropped-1781567505088.jpeg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "43b290bc14",
-      "key": "allen-gunpoint-keegan-knifepoint-life-robbed-‘-’",
-      "headline": "Keegan Allen says he was robbed at gunpoint, knifepoint in LA: ‘My life for a watch’",
-      "summary": "https://www.vogue.in/content/See what the stars have in store for your sign",
-      "sources": [
-        "Deltaplex News",
-        "Los Angeles Times",
-        "KTLA",
-        "Fox News",
-        "NBC News",
-        "Page Six",
-        "Hindustan Times",
-        "The Economic Times",
-        "The Hollywood Reporter",
-        "TMZ"
-      ],
-      "article_urls": [
-        "https://www.vogue.in/content/virgo-horoscope-today-october-8-2026",
-        "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-october-8-2026-money-looks-promising-for-some-but-three-zodiac-animals-need-extra-care/articleshow/134755815.cms",
-        "https://www.deltaplexnews.com/entertainment/keegan-allen-says-he-was-robbed-at-gunpoint-knifepoint-in-la-my-life-for-a-watch/",
-        "https://www.hindustantimes.com/lifestyle/spiritual/chakra-horoscope-today-october-8-2026-listen-to-your-intuition-and-consider-what-your-past-has-already-taught-you-101791379978548.html",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnRCSnpkVHVKWGZCLXdPRjRRQ2V5UFBveGRVOUU3VDhLTFFXek1xZHFfc2ZvMUVna1BTNzVraEhXZHVCWlhIdDJtM2VTbHFZU002MndFdlZRZHJ6c1A5Vkg5Z3Z4d0ltUElOTTNiWmllWWdqaWRTVzE5V21fZUpNaWZvY3VmR0FoSUY3eGg4aUc4dEFJckQ2VG5zd0hMNUtkUHhfMHJzbEpZQ0h4YzJTX2ZkNS12MllLWl9YVmZ6YTlkR0U?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR2JKWkhKRlBlMEQwN2J2N0tQSzRrc2Fab01CYjFfN01jTm9IWmZqZjZ5VnNRZlRzb0dDUm1NMDNZckZUcVpQdlNhU2ItZmw0WTVsU05uQ1IycWdoeVBQXzNWa3FrMl9EOEdIMHlnS1RIaDVJaWwxSl9laGU2MGppN3MzLXktbm1MTW5iYWZ3QVV2VV9Vb3lEVDBhOEREdnc?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNnBZeGFWNGltaWlzcWRzT1huYUlEMzlWc2VRdlJ2ZjNIdlphVXJXanJsbmoyT28zb2VCckdVbENON0J4a3dpZFNBTXowZWwtWmxnRF9VR2Vac0xKeWR0aUROcVVGQllYNXp3VWFiUFN4VGlEck9Ca1RvYTBaTFozR0o3UdIBiAFBVV95cUxQRGREU0dhcFIxcUJRWlR5MVdhWm9ua1ZpQjBVT0JYQTJpWGk0S3p3eEpqQWsxUEduV1NGSm1zYnN2cktKSDZvcmY1REtfRlZQakl4cW51ZHozQkI2UXVLaUpYUnBTbmY1LTBFYWJRRXFmcUdLTnJEVkdpRVN1OHAtTWM1QXBZd3Uw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORVV0QnBhV2dGc2g3eFNTZ1E5VUM4LVBVNnN6aHBseXJWbnpkTVpDTzJjWjZUUUFDdXgtQXU4RWg3bHY5SWJSMWNrZ1VUdnhQQkVuMFRzUDExc09CalVfendDOGhLWXh3WjRRRTRLUlA0X2t0TmdsYWxmcjZoeC03VkdCQ3c4TDRQME92Vm9WMFF0Y0VRMVV6Rl9zUVREd29kclNMMGZRYjlPZUZSUWI3X1VpU1QyV2Z6TFhHZlh6d0Z4bDkxSVlkUG95REtJbzNMT0HSAdcBQVVfeXFMT2wzNUtla2ZGLWNSQ0Z4MTJWbGstTEd5dURwdXk1RkVLR0huWG1meWhCeWpVdGVUdVVONjF4aU5HWmc3aEpxblZzeGpqZFFkbnNNZlp1MXc0RlNpMVR2Q0dla3dHWjdENjZ1MXdwMzcwTFN5cWZ2bmZhREQ5eDExTGRsemR3MENCM0VwUWZ5SnhxRmZSNEJxS1RDWlpjcU40ZzZCemZNalQwVFlud0hhYkw1UHFObjhoRHpyaG5qTkFuRU00NXgyTzJtazk4aF9FNldkYXFpQTQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:02:58Z",
-      "published_at_ist": "2026-10-09 23:32 IST",
-      "first_seen_utc": "2026-10-09T13:16:42Z",
-      "age_minutes": 20,
-      "trend_score": 21,
-      "rank_score": 0.941,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [
-        "life today (2026) (IN 200+)"
-      ],
-      "other_headlines": [
-        "‘Pretty Little Liars’ actor Keegan Allen says he was victim of armed robbery in bloody video",
-        "Pretty Little Liars star Keegan Allen robbed and beaten at gunpoint outside grocery store: ‘West Hollywood is not safe anymore’"
-      ],
-      "image_urls": [
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png?mbid=social_retweet",
-        "https://static.toiimg.com/thumb/msid-134755815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwtj3TBgH7Rq3EbmlNycEulIW_5-jBMaFH5PTu8vkw0p7R3RfduhiezKVHnKg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7KZcDWd9L0bgxVv3OzwbxBoT_2arJ97gavJfbfbfGXkJgDPAjgLc5DryPAIw",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3BbBuu3IBsgUZs5njxbdFRqs4pgZh6Fok5t2SeoNLqpPy_NrQ8GYsYZJGm3c"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "c7abfb41ad",
-      "key": "announcement-big-diesel-tease-trump",
-      "headline": "Trump teases 'big announcement' on diesel",
-      "summary": "https://www.aa.com.tr/en/americas/trump-says-big-announcement-coming-on-diesel/Amid heightened energy prices, US president claims 28M barrels of oil went through Strait of Hormuz on Thursday | Anadolu",
-      "sources": [
-        "Anadolu Ajansı",
-        "The Hill",
-        "NDTV Profit",
-        "Reuters",
-        "Devdiscourse",
-        "Forbes",
-        "BBC",
-        "IGN",
-        "Deadline",
-        "Softonic"
-      ],
-      "article_urls": [
-        "https://www.reuters.com/business/energy/trump-big-announcement-coming-up-diesel-2026-10-09/",
-        "https://www.aa.com.tr/en/americas/trump-says-big-announcement-coming-on-diesel/4083937",
-        "https://thehill.com/homenews/administration/6139293-trump-diesel-omb-russell-vought-announcements/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkxBZDBxcWZvMXVVUkw5ZTc2TWNQMTA2VWtETGRna1RfdW5LTWFkMXJocTd2enVKa0VaTkJVNVl6bC14WUd1cHZGMVRyeTRMdFhnMW5IRHJxUzkxNXItYU10ZVhfWXNRakEwc3RoY0ZBVEd1N2tNX3VIOURFUjJhUndNeWZHTEFIZ2tGZV9BWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY3NIQ2UxYjQ4M3NtVXY1NXpQS0t0T2FocDBvbTBVNlRpV01ySjZhcmNSVGpGaGI4anpJNUhYbzRham5YSHVYdUlVRDZ4WE9lcjR4dHoxdFp6VzFwckdsNnpLVUNoa193WGNMVDlXNWdhT0NBMEV3bWV4VUd6VlZFWmNnQk5sR2pxalZWRndiWmZfbDM0T1VBSEM4S0Fpb3PSAaQBQVVfeXFMT3NZaG9PdGhnVjhBWVFLSERKNEF2TnZkV09FUTBreHM0alRqRnQtMzNfY2FoSDliWEEwekZ4WlkzeElFUkNRV1BER0JmZ0RTSE9EOUZrMWNLUGJQVDhHazlNTHk3U1N0OGplc0F0NDJTdTdCdXlELW56NVg1ZnBkWjBHQkhQa1BjUGlfUHZzek14Tl9wMmVKalQ0eXVPOWM4b1N5b1k?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGRrOUIwME02WGN2MDN1M24zLVIwaU1CR2FObjk0SVdneENTUllCV0REVFdwUWtpSzJYSFpCMHFuUi1Wbi1KRVFFS01vQnp4OVdGVjhQNFM3TVZiczVxNDhDMGRQOFQwdmpnSnphLU9iWk9neUs4b3ZGUVlCSXR2Wm9YVGZ6VGdjN2VGSjhORGFCU05RY3phcW4welV0Zl9uQUc3VHIyeTlGWXZs0gG0AUFVX3lxTE5oaEwxTkJJcWFNVnVjb3oxdTNpdXdVUUdTNlJEOEl5UjdxUEFlY3k4NWRTVGt5TXREZUZjeUE4dS1SaTBhQTItcjY0cGI4enFJLVVjVVZsWEJCYjdmRlliZEtIOEtGQnk2QXFyUEo2MXlFODcwdzF3c1hoZWFuUHJ6dktfUVhrSkhhWnJualRCWlQzemVaLVhybUVwXzFoUHQxaTFYRlJkZmQzOEhBNHJwRk9IQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQU3RwVkZ4Mkg3Vy1fdGF2T2t4RmRLV3lQaU5LcXdnd3hKd21HRlZqR1dBTDlEbmNheE1MYVNjZldOLVlUd2lpMDdSaDd5c0tSUEpVRWJPLU1rTU9hSVhTYlF3Z2JPUlQydXgyb0VraVpvMUlwdHlFY2RoNEZ3WUE4Y0JjNnlHMV9VakFsdzMzOFFzUnQ3MlE?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPekMzc3ZnWXd6LXJYcjRVNERaWXA5WkU5VXFkY09CcGN5eTVBU1l3dnlqVWpkRXJlSERIZGhMbTJVdThiRlY4bUFVU3M5SlJoSnRwX3dTN203T296a0hISFpfSGw0Q01DSUJxZ3psSEdyWUc1Ry1FamFXQ3pyX21VbTdjOURCUmNSRF8xMWRLbWV3YUFPenRreHM5U0Z0TEJrYnNUQ9IBpAFBVV95cUxPekMzc3ZnWXd6LXJYcjRVNERaWXA5WkU5VXFkY09CcGN5eTVBU1l3dnlqVWpkRXJlSERIZGhMbTJVdThiRlY4bUFVU3M5SlJoSnRwX3dTN203T296a0hISFpfSGw0Q01DSUJxZ3psSEdyWUc1Ry1FamFXQ3pyX21VbTdjOURCUmNSRF8xMWRLbWV3YUFPenRreHM5U0Z0TEJrYnNUQw?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:01:25Z",
-      "published_at_ist": "2026-10-09 23:31 IST",
-      "first_seen_utc": "2026-10-09T11:22:25Z",
-      "age_minutes": 22,
-      "trend_score": 19,
-      "rank_score": 0.9379,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Donald Trump"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Trump"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Trump says ‘big announcement’ coming on diesel",
-        "Trump teases diesel announcement, big move from Vought",
-        "Trump Teases 'Big Announcement' On Diesel As US Fuel Prices Surge 70%",
-        "A Live-Action ‘Cyberpunk 2077’ Movie Is Coming With A Big Red Flag"
-      ],
-      "image_urls": [
-        "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/09/thumbs_b_c_95f1b00155ee540581a14e8dc03eca58.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "8a62c13057",
-      "key": "breaking-finish-record-rise-stock-toward",
-      "headline": "US stocks rise toward the finish of a record-breaking week",
-      "summary": "https://finance.yahoo.com/markets/stocks/articles/Wall Street Stages Comeback as Tech Stocks Recover From OpenAI Revenue Shock",
-      "sources": [
-        "MarketWatch",
-        "AP News",
-        "Reuters",
-        "CNN",
-        "CNBC",
-        "Yahoo Finance",
-        "The Sunday Guardian",
-        "TradingNEWS",
-        "The Washington Post",
-        "FOX 8 News"
-      ],
-      "article_urls": [
-        "https://apnews.com/article/stocks-markets-oil-ai-bonds-5d0f953dbf96febb0690c1aef23fa8a9",
-        "https://www.marketwatch.com/livecoverage/stock-market-today-dow-s-p-500-nasdaq-selloff-chip-stocks-openai-revenue-apple-iphone",
-        "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-nasdaq-rise-172418323.html",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOenJ2dkZDUnRBeENpdHNCVTJNeUc3OFc1WFBHUzl0M0RSdFZFR2E5dnI3c0taOFZ5Sjk1NTNYQ1hDaWZFblN5c3VDaGZwRHp2TkxxVERjUDZTaVZETTZlTGJNS0c1RVNvMTNxd3p3MnlTVWtKMVFiLVNCRlFLRURYWEw2WWxyUDBXdzhSNXMwWVZvTExKVDNCRzBCOFpjY0ZaTnJZLXFXd1NBYURLelB0d0I5MmR6VDJIV0haOGR4ek0wMDV6?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2lhZk1vOEFWM0xsY2hYWHEyLXZMQmFITTR1SkpzVWk0TW1xOEJWcW1COTdMNDUwU01iUHJkWDIwOFhVeGdhVU03QW1FZHpXWjQyRENjT1FlTXJLQVp5YUJUck14b0lDQ2M1QkdRa2t1bFAzZWUwY1QtUFp1OHJOX3l1TXVZMjg4YmhVblNTMnU?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd21rMWxxb0h1clZ2U1BGYnBfZE5MN2tkX0xuUlFyaDZYbnI0dHh4Z3BkbVBveTRPWVVCSXhqeTJ2UmtWcm1XSEYtdmt4eEU5Z0tLRWdxWThiZVdoNDRPS1BvRnFNNE9uYWktbm9famxrSGdJMksySzgwcVFGMnd4SUpQRU9iMHo0SzA5d0FRS3FyeElmeE1R?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1CVkNXNkYyc2ZNcGxWSXlXMkFqZnA1ZGlQRTJHUXhZXzhnb0NrVEJ3eXBYQS1wS2xEcExvd2pVUFpndFBLUnd2SFIwY01uOGdzbWc5aURKLWIzVEZWQkJRQ2tGQUNzb1E?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE54SDBCVUlsR19iZW9vcGFvN3dtT1hLbDEwdGM0S2xkZ2pXam96MjdpaUp4RW5acS1YZWVMYlZmRVVOZ3BtVk42TklUTTg0VFlLUkVyRUl0aFVzbVBISW5DQWRkMHNEakdlUXEtOGg1RkRuemFWM3hB?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:33:00Z",
-      "published_at_ist": "2026-10-09 23:03 IST",
-      "first_seen_utc": "2026-10-09T10:00:00Z",
-      "age_minutes": 50,
-      "trend_score": 28,
-      "rank_score": 0.933,
-      "category": "finance",
-      "section": "business",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Stock Market Today: Dow, S&P 500 and Nasdaq open higher as tech stocks rebound",
-        "S&P 500, Dow and Nasdaq Rise After Steep AI Sell-Off",
-        "Why Are US Stock Up Today? Dow Jones, S&P 500 and Nasdaq Edges Higher as Oil Surge Inflation, Treasury Yields Hit & Fed Rate Hike Outlook Ahead Record Breaking Week — Check What Investors Should Know",
-        "Stock Market Today: S&P 500 7,791, Nasdaq 27,301, Dow 51,406 Up as Humana HUM +12%, T-Mobile TMUS -9.5%"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "fd74d2aa27",
-      "key": "244m-bitcoin-continuin-etfs-outflow-see-spot",
-      "headline": "Bitcoin spot ETFs see $244M outflows, continuin...",
-      "summary": "",
-      "sources": [
-        "Pluang",
-        "TradingView",
-        "Binance",
-        "CryptoRank",
-        "Coinpedia Fintech News",
-        "Analytics Insight"
-      ],
-      "article_urls": [
-        "https://pluang.com/en/news-feed/bitcoin-spot-etf-aliran-keluar-244-juta-dolar-as-lanjutan-hari-kedua",
-        "https://pluang.com/en/news-feed/bitcoin-dan-ether-penarikan-dana-etf-meningkat-hampir-satu-miliar-dolar",
-        "https://pluang.com/en/news-feed/etf-bitcoin-ether-asal-asalan-berkurang",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxObDVSNG5HaFpYSVN6NHdHUW82Tk1oenJvODZXUW1oRkcza0sxajQyNGZzc0tONUlDdjNKV2k2d0lIZDVmZ2tnX3dkczVkalZWMW1uMzI1WFFQN2ZjVFVtUkpmQ0wxME9OWVp4VFFoQ3I4aXBZWHVzRkpFT3ZJajc1THdNbHJMWkpGb3VWVTdsb3dkcEdjWjQzZm5nT1lmaUd1ZHoxSzBR?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGNOU1kxdWtCMHRIa2FKcEZ5MDNaOEhrbVpJZGlEc2xoMW5ETlhUWmg1aU5kbFVfbVRWYU12RDZsR2Z1RUZyb2k5OXdRZmdTaFBPUlctVUswaHpac0NISlFkWmhIYzhKUjBHLVdFVGlQV3E4S2ZfRFdRTFhPSGhoRi01UUdhbWQyUU55SS1lYWV0Umxmcl9WdkpVSUZOX3EzalE?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VM0h2Q0dmSzUxVk9wdTExemhVNXhhNXpZcHF2X19YUmZzSm9ZaDB5TzI0c2s3R3BNWU5rSUdYYjJiWmp2OTE0a3FSbXBlRHFkZTVydXdDNDNON1ZLSFhCVGRaUW5jTHY4Y3h4VDA5YkRFQ2VVMUYtd3ViSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2lfSW9fX3hZa19YMzNJaFJOckN2ckRLOWlDaTBYdDNMVHB6MFJCWXFhdExOMEt5a25VSDQtdlAtVmhlVk41M3RmVkxMeWtrRW1CVTFWTy1uNVQ5ZjlZY1lSdDc1bkRvMnZtWGtNaHlGOXdFVmE1bEFpc0EyOWpBemF3aFFCUUxZSEJtcWRhZDNqWkcxMkNjQ1hKOHp2LWxVcXFTVHdFaXBja3ZJMWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRC16aDNHVlFLSDBkTXBUM0NrMGZtUE1QQmpCbFI0RzdOb2o1Ni1ibkFfOXFZcmtKSUtKTVNqYWlpcGZ3RWw0X1RlQnIzaThtbUExLWlpMmpteTFhcloxejhsVHNrZ0t5MUJHNXktUTUwYmFWTUtMODNEdXJUQVFYTFZjaU14OF95VGtzSWM2VVVwUU5fZFpnZ3pZZGJ1TFpTWnc?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:16:06Z",
-      "published_at_ist": "2026-10-09 23:46 IST",
-      "first_seen_utc": "2026-10-09T10:46:18Z",
-      "age_minutes": 7,
-      "trend_score": 15,
-      "rank_score": 0.9242,
-      "category": "crypto",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "US spot ETFs on Bitcoin and Ether see nearly $1B outflows in two days amid rising trading volumes.",
-        "Bitcoin and Ether ETFs see major outflows with 3,412 BTC and 38,576 ETH withdrawn on Oct 9.",
-        "Bitcoin and Ether ETFs see nearly $1B outflows in 2 days amid institutional selling pressure.",
-        "Bitcoin ETFs see $729M outflows as price holds near $81,500, signaling cautious investor sentiment."
-      ],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "a052fbb229",
-      "key": "deal-experience-home-joe-rogan-spotify-stay",
-      "headline": "Joe Rogan Experience Stays Home on Spotify in New Deal",
-      "summary": "https://mmasucka.com/news/joe-rogan-signs-massive-new-contract-extension-with-spotify-for-popular-podcast/Joe Rogan won't be leaving Spotify anytime soon. The two parties came to terms on an extension for Rogan's contract Thursday:",
-      "sources": [
-        "MMA Sucka",
-        "Washington Times",
-        "Plataforma Media",
-        "Telecompaper",
-        "TheMix.net",
-        "UNILAD Tech",
-        "Music Business Worldwide",
-        "Hiru News",
-        "The Courier"
-      ],
-      "article_urls": [
-        "https://mmasucka.com/news/joe-rogan-signs-massive-new-contract-extension-with-spotify-for-popular-podcast/",
-        "https://www.washingtontimes.com/news/2026/oct/9/joe-rogan-signs-new-250-million-deal-spotify/",
-        "https://www.plataformamedia.com/en/2026/10/09/spotify-secures-multiyear-extension-joe-rogan-experience/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQnlxOHN2NlpUS0ZaZ3ZjTlJ1QTRxR0o3Ymx4c2M3UUhHVEoyU25wSmU0aUVmWmNMc2IxMWRLV051VmU0eFQ1dzAzMDhDMHpMUDdCWnU2ZWUzMmpDeXFNdmk0UWtQVklSTEgwaFVQZjQzaXlwN2dzd1dKOV9wRmNpRGpIQ2dXTElvcWdLTFZlLUxZSlg3SXZ5YmhwQWRpaEt5ZzM4amVBZGxiUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxON2lHR1c0ZU1NeGRMX2l1Wi1ZUDA2eFFiU1pOYmVFdENva2JjRUxPMTlPLUlpcjl4SmhBaWZOQ0p0VGgzOXd0WS1ia0MzMzFLS0k4Q1ZoQlJyU21TR0d1Wm5vUEMtNjVnY0JUTzAwZ2FmSEZlYnZpQVFSNGZqcE15SzFfbVc2ZnVRWVNucmlHQjZaY1JEUnNtMw?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlBYUDB0TDBpMS03SFBqT3UzZlk4VXpsUzNfUUJsLWU0dXZ6MjFKNUkyWlVmS1dobWZqVVZhWFJVZ2JoX0pJM1U2SXQ1aDVPTl9FaVRxaUVGMjd1dFZnMWJ6Vnlwa2pfMzctb3UwX0tkN0JiSnJQUDhFclNhaF9WbmUyT2ktWGFhWTZDMEFJYjBkcVg0bE1tQ3NyS2VLM1JYVVQ4UWNR?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX0VFRng3cjYwa3k0QjhoMVJ3blZKN3pyaV9xZWlpUnNSZE5hMVd1T3VsS1RQamJfVkhQQ3ZNb1dnUGRtY0ozRmowUkV3eWROV1hDTERSbVBadm9ManhHUFlVeXBrLUFJTU5uWldqVVM3ZXdUeXBfVDJWeHBXcjB1Sm5FOWdpUzg4azJySkVNZ1BMdEJaYUxhbg?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SS2dUbWNmNkQxeGticW1qckVQZ0RKeHRWd1Y4VXpVQlY5cnRCSzNWcDZFOWI3cThibzlETXpyMzZOYUNvQjhDanBFM0RjdGVMZG9HdnNDUG1QY2pkWGtkaklNeVlYczJoQm44OTctang2SGxBT3M2N182NXJqdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:55:27Z",
-      "published_at_ist": "2026-10-09 23:25 IST",
-      "first_seen_utc": "2026-10-09T09:35:32Z",
-      "age_minutes": 28,
-      "trend_score": 14,
-      "rank_score": 0.9223,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Joe Rogan"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Joe Rogan signs new $250 million deal with Spotify",
-        "Spotify secures new multiyear extension for Joe Rogan Experience",
-        "Spotify extends podcast partnership with Joe Rogan",
-        "Joe Rogan Reportedly Lands Monster Spotify Renewal Worth Nine Figures"
-      ],
-      "image_urls": [
-        "https://mmasucka.com/api/media/file/Joe%20Rogan.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "9270bfa534",
-      "key": "exclusive-former-hour-icc-impose-judge-nobel-peace-prize-sanction-wins",
-      "headline": "EXCLUSIVE: US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
-      "summary": "https://www.bbc.co.uk/news/articles/Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-      "sources": [
-        "Reuters",
-        "NBC News",
-        "The New York Times",
-        "The Hill",
-        "BBC",
-        "The Guardian",
-        "GOV.UK",
-        "Courthouse News"
-      ],
-      "article_urls": [
-        "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
-        "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo",
-        "https://www.nytimes.com/2026/10/09/us/politics/trump-international-criminal-court-sanctions.html",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLXU4YU9BUnl0d1dlTGlaSmdhcFBDcS1lRDFaeGRhbjNPaVFXU0NCQVlabFRhMXRFVVJER2gtclFYWE5hdHR4bXM1N245MWNKeS0yVkNkWFE0S0d5aDFaNmptQUlGWEtCZk4ySXJfWjU1ODczRTUxd2VwS19lTHc5ZTlMQ0hyZ09kOFRPUkVfcUdja3pjY0hGUXZvdWNiS1NEYms3c0I5UlpRX3Q4LUV2Z3d5QkkydkZiRmxXMUZB?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmVRSkM5ZTJjWFZtZXdjYld5eF9iMlJmZldwalZyVG5iTUlwdXlHbWsxY0gxWmlwRVh5eC1oaDdaWmRCZkJZWW1ZMWNIMkZJNDdWcXBHb0RSRWNNdzd4alhYZ2hIWmcyQlBmd0RXcTNnQ0Y0dThuc1NCMnlRaGFaX2EwQm10V1VJTEdHaVVrZE5TWl9tcmoxNlhhcmhnMU1taHhkUmV2NDZVaUVLM3U5WklKM043bUxFRkVr?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcHBFOGx1NzFvVkdzQWlHbm5vTGFlNFNBSm5fWWVPWC1EYXNoVmgtd2ZXSWJnaFZtSjhvRU5pd1YtMUVUV1FMYllka1hZQm5pck04N2pza0hZRU5NZXZtSEVnQWFGemMzWk00WlJaeVlDajNmQk0zNUg0RlhGYVBRX0dlYzBVS0w5aEJXLVdSMVdjZUxQalpnemtrRlg?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVRkSjNWRmtoa0tVLTA2QjEzYmlFUU05a0xtY2ozVGJtdUx5eFUxdEh0c0tESTBDUkFiSDZVWXVBekw1WUVfMjd0RjRjeWxZcUtiN0gxd2oyZGpTZkhITlkyVjFPQVBjWGZDMENuVTh4b1E1UG1La3JWcnZiODVxaGRzbEt4Qk83TkJtRG1pdThRLVXSAZgBQVVfeXFMTnZfWFlyY1owazNlRWpJbW9tb19GdDJwWUFYbUY0VEtIcGlDZUxuTFd6RGVSaUtpQXR4NVFBSEc1VlAwb0NoT2NxV3Vpc3VhRkZISlZXNzNnOGF1S0tFbWZsQy1Fb1o4S09pLXlKVG9tQjU3LUsyRnFRMzZySjF1RXRpaTNXTUVKMXJSbEluMEtqV0lTOUtIT1M?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WSElxQ2l1VzJ2ZTNTQ2N1VHFLbXNzbmRvV3FMOEVyMm83ZDFxMmdxWmZuWHM5TmtGbXIya3c3U0kyYTcySW8yTzY2VGF1Q0h3TlAyVmZPbmp6d2s?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:03:47Z",
-      "published_at_ist": "2026-10-09 23:33 IST",
-      "first_seen_utc": "2026-10-09T14:39:34Z",
-      "age_minutes": 19,
-      "trend_score": 17,
-      "rank_score": 0.9217,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Trump"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
-        "Trump Administration Hits International Criminal Court With Severe Sanctions",
-        "Trump escalates war on International Criminal Court with deep sanctions"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/70c6/live/7c05c3c0-c401-11f1-9a39-31b474234113.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "608806b27c",
-      "key": "15-18-apple-component-cuts-disappoint-iphone-order-pro-reportedly-sale",
-      "headline": "iPhone 18 Pro Sales Disappoint? Apple Reportedly Cuts Component Orders By 15%",
-      "summary": "",
-      "sources": [
-        "YouTube: CNBC Television",
-        "Investing.com India",
-        "Yahoo Finance",
-        "Reuters",
-        "FOX 4 News Dallas-Fort Worth",
-        "Barron's",
-        "NDTV Profit",
-        "SamMobile",
-        "Mezha",
-        "Seeking Alpha"
-      ],
-      "article_urls": [
-        "https://www.ndtvprofit.com/technology/iphone-18-pro-sales-disappoint-apple-reportedly-cuts-component-orders-by-15-12162068",
-        "https://www.youtube.com/watch?v=dWP6nwn_me8",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR3pDN18zMTdrbENRU1RQMUVuT3pwV1k1NV9xVXJyaF9GdFdIeWZpdVF6U1AzM2UwZVRSeF9wblRvY1BhbVk2SDVaQVNWSE9Ec2dtYWpVWG5VcDNpckgyNXlTNlVQdzNiT3REWXExd2dCM2NDWDBGbUN6RmZXd2ktX3M1c3A2SXEtWmp3UDdvUVhEOW0yTXZmclptNzd1SHY4bXl4b1BzcHRGNmZ1MFMtdGVrMkxrRTV0OU5kcjRUZDRjeHN4eHNZ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQ0w2RWFyWllaNVRBeUdXbXJpTklOdjI1WHlvdjhIZEJibUtiejVPTUp0bFU0Sl90MEpKb1Y2T2Z2ZXZWTjF6LWM4V01pY25Ja01aZjhPZ0h2VUNDZ1RsdGJyOTFzZERpRGtfOXl4UGxoODJPUi1renBFdldLT01nSk43M2NreXBkTDZ2UzM3Z1hXSWhINWpDQWJhQXhwd2NFa0syRGRqZFZkc2wtYlJOSWVjeGh1Nkl3WE1SRnd0M0N3Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdXRZODhUOUdIaGhYOXRmVnZLWGJCWlgtX0NacXhXYWxkalFkYXZPbEtjOEo3S3FhT0VMd3B2NktuOENFaThPOXAzUDBEOXpzSEdtcnJQNmpkZmh3RGtsdEVoRzEwSUY1ZnR3dThmcXh1cjBWTUhUTHBHRWtJOXRPSTVkanhWbVdCcVJTVUdyejZwSUlhQjBjS1ZvbXZwOVlSRWRMWk9vSzZ4bU0yQzExcGxOQjREdV96WURCbHBHWEt5QmxNeUFSYTRpVFpsbHY1LUN1OEpfcmlQRm9FODZFM0FfTjhNVG5WUVhSbUNB?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWxvbWdzenJKeF9PdGppTmNVeTQySGx4dzNaREdmbktzZzVUc3UtZVdXRUVxT1d6eDA0MGE5UGYxRi1rbXdEYW96ZVRRWXUtS3BialZSa0l0dWVKQzhNVVVfRUlfWk4zM2g1anhLUmpmaUg5VWR3eHcybnJsVE8yVFJWZTl4ZnpQa2xWUm1wN2k4X2llWWVoTHZoRjBnVmkwYjBzdE5ON0VSalY4ZVVrUmVGTkRsUVNHWERuZFV4Z3ZXVlgxekFr?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRb3hTOGd0Vkdrc3VyZnZTQ0l1dHRqTHUyMmxtbVRpRG84MTdHT0RiQU5FUnVheEZyd0lOanVCNlNNNkZ4bzJ3X3JjLWNuZHd0MlFnYi1TcWUwUmNBSjNtMHdlWWJBa29LRzIzcnBlQUtyTEozWDlCMEFyMC0zeEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjFzQ0gzVjFFVnFMMFhkcVBPV2F6N21DTVBDM3lVREdMbExtVHN1QVdEaXYzd0JhS2VucVU2ZElHUjRkbXRMTGFXaTNXNXU4VzNNT3VubGdzVG9qcUdMdGtnVXBYQWRkZW1Cdk1jLVhsajY2M0tuZWczUUU3eHFVM3ZPOTVXU0pvclE?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:00:01Z",
-      "published_at_ist": "2026-10-09 23:30 IST",
-      "first_seen_utc": "2026-10-09T09:49:50Z",
-      "age_minutes": 23,
-      "trend_score": 17,
-      "rank_score": 0.9169,
-      "category": "tech",
-      "section": "technology",
-      "source_type": "news+youtube",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US",
-        "YT"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [
-        "Apple shares under pressure on concerns about iPhone 18 Pro demand",
-        "Apple stock outlook: iPhone 18 Pro order cut report weighs on shares",
-        "Evercore ISI reiterates Apple stock rating on iPhone lead times By Investing.com",
-        "Apple stock falls on report that company is cutting component orders on soft iPhone 18 Pro demand"
-      ],
-      "image_urls": [
-        "https://i1.ytimg.com/vi/dWP6nwn_me8/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=dWP6nwn_me8"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "Apple shares under pressure on concerns about iPhone 18 Pro demand",
-          "channel": "CNBC Television",
-          "url": "https://www.youtube.com/watch?v=dWP6nwn_me8",
-          "published_at_ist": "2026-10-09 23:30 IST",
-          "thumbnail": "https://i1.ytimg.com/vi/dWP6nwn_me8/hqdefault.jpg",
-          "is_short": false
-        }
-      ]
-    },
-    {
-      "id": "ea8e51e467",
-      "key": "city-guilty-league-man-manager-premier-verdict",
-      "headline": "Man City guilty verdict: More Premier League managers have their say",
-      "summary": "https://www.bbc.co.uk/sport/football/videos/Manchester City manager Enzo Maresca says he 'completely trusts his club' as he spoke for the first time since City were found guilty of breaching Premier League financial rules.",
-      "sources": [
-        "The Mirror",
-        "The Independent",
-        "Al Jazeera",
-        "BBC",
-        "Sky Sports",
-        "The Times",
-        "The Telegraph"
-      ],
-      "article_urls": [
-        "https://www.bbc.co.uk/sport/football/videos/cmwy9edkgyn9o",
-        "https://www.bbc.com/sport/football/articles/cmzxjdvv784xo",
-        "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHpEOEJuNmdGRGY4WDdkOF9rdVB6N085dEFhWU50ejdWUjRXMVRsc2UwWmc1TE4wdmk3Nkh2RXZSVUhVc29XT2JkVVI1QVFRdWRPbUh3UU50aVRDZDlwTjdILUdYT2ZaeElHWG9lMGc2dVZ2VXY3Ti1EUzZBb1p6UkRGVDNFM0lQODVZQ1VOZEJtdDVFSVRfNnAyTdIBoAFBVV95cUxPZzR2Zk1EMV9UYkVwNnlWeHlMT0V1R0xQbUx3NkMzd0xQRWYtbmwzMWJzRlI0X1FvSGdvbWZGNk1rQUo5SlcyRWh0bkNCNjdmU0dud1RnVmJwbWlpV215aXhNdTVYNmMyY2NZZTl5N1NUcDBuRXJaMERKeENpMzc2T2VqREVma3E4eVN6R0ZZWURwOXhKd00tNEZHUU9kWnZ1?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeWtoN0FnU2VvazJVRFB2SGlRVjN2Nk9rUHNPbjRGTV9vOTZsZVF4dXRmeXpwTUsyT1NVMlN2MmxkaUJpYUdrMVZaV2JGV2lkaVp0OGEzLVp4YXl4S2pYbDFvVlplcmFrUkYwdDJpcUlobkFINEctcURRbjF4V0pTbWlWRWhGWTFaM2dEZWYyc0hQdExGLXJpdTQxd3N4SUc5TDFQVU1mN2tBQzM4TDV6a2pleEZpZ0R6Z21qeA?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTRFQ1ZBS0Rnc1F5SmZxU1VQTW91MGdUQTVnR3pGa01BYkt5cldFVUhmUzB1Y2tCQVRjQ2ZnZjQzOW8tUzZsclIzZDRvSzQwQk9pRUp5SndiXzBCMWMxS0lKc3I1UUp4ZWMzRzNONjZlWENKa2piVGNDUTdqeFNvc2d2dzlzYnBhRkUtc0VfX0sySmo4M0dUU0ZiYXdwc1lSV2NnOEhIYm1kMGNlWExTNC1n0gG3AUFVX3lxTE8wWE9Xa0FRMTgtNE9wRGRKRU9ZWExibUJmNGRjZXJwQjJ5dDRYOVNMRjFGbTB4QnA5NFB6dDhmVnlfZy1zOUpYdjFpSUZFd29DN2hnNm84VlloOWN1dFRjWlVCcFJYQVRraVYyR0dmeUUzNGRlVU1VbXY1S1VNT3JKazE2dkNDMTJKc2t3cU0tdlR3eUozZUZuOGw4Vzlka3FIZ0ZMS1VwUG1MOTFuMHVobDhUcHBqWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUZ6enQzcWp6a0hGTkdaNE9lcmFCUTNaZW96VjcwSjgyWUtuM0dLRC1qbXZlMllpb0pUSVVEUHNXNjVjSl9ZS2lTYmYwOGhtR19IM0xfc0hEcnczbzl5U2ZDR0dyM1daeUFZZlJsMzZ6OXF0WnBZNHB5WDVqejdmaThyX2VHcVo5MjBJTzlGeUdXbURsYU1NVlBiTlpUQURFTVk0bFBOaHB2OHRUajlKTUZxZ9IBuAFBVV95cUxNSjVxZlEya3lOaHNLQmJPRGlUam5uTWl1cnMtVjFmWlVfTGFxSWE1MDhJaUhhWmtvOFFIZnhuNWcyS01rTzcxbXUtS0JZYVNoeEpveFRYMEJWcno5RmRqSXBpMTFkNTI2RjRrcG54b0VtOGxjZndoeDJkTkZNZWJSNUY5Ymh5MllhdUkxb1dVOUwtUm13dmR3Z09vb0s2eTRmd1Q1T2lWS2xZcTdQSWR6WmxKZ1FNVmxM?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1xTmJtaDFuQVNyZURJcGFYTUtRdlROV3RVelJRWG9jU1FwV3djWFBQcDRQc3pYUmN4X2hvRW1NaDhZb3BoYkVvdTNrMmJyME9QQzY0LW5SSzB3SWdMRzJzLW1pNThkcUFV?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:52:00Z",
-      "published_at_ist": "2026-10-09 23:22 IST",
-      "first_seen_utc": "2026-10-09T13:30:43Z",
-      "age_minutes": 31,
-      "trend_score": 18,
-      "rank_score": 0.9128,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "football"
-      ],
-      "google_trends": [
-        "manchester (GB 1000+)"
-      ],
-      "other_headlines": [
-        "Premier League executives name one Man City punishment they're 'not expecting'",
-        "What every Premier League manager said about the Man City verdict",
-        "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
-        "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/09bb/live/0c156cc0-c404-11f1-a64c-550be9e3c66b.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBUwIdg5jUA2BK6VPBs2b2YQw_CMshLClVB16AMYzXib8WDef_MU9oCod6qk",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7JwSlnwwbEScT5JahQ-c-5h-ItvjUi7yd11RIIwLA7xV3VuxMUpG2WPhtbfw",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS5Qg7Yox2808c1lggmHYL_W0OH6Brf6ogRChYJlc8cqjqsMFSFQ76aLL03W0"
-      ],
-      "video_urls": [
-        "https://youtu.be/acmHKbP0Ua0?si=o1QlEvGA2gEVjdLb"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "247d0fdb30",
-      "key": "2nd-bat-india-indie-put-ranchi-t20-west",
-      "headline": "2nd T20 | West Indies put India to bat at Ranchi",
-      "summary": "https://sports.yahoo.com/articles/Sanju Samson roared back to form with a blistering 82 off 41 balls in the 2nd T20I against West Indies in Ranchi, silencing critics and leaving fans thrilled.",
-      "sources": [
-        "TNT Sports",
-        "www.olympics.com",
-        "The Times of India",
-        "India Today",
-        "India.com",
-        "The News Mill",
-        "Deccan Herald",
-        "NDTV Sports",
-        "Yahoo Sports"
-      ],
-      "article_urls": [
-        "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-2nd-t20i-1529231/ball-by-ball-commentary",
-        "https://sports.yahoo.com/articles/vaibhav-sooryavanshi-wait-sanju-storm-162243329.html",
-        "https://www.deccanherald.com/amp/story/sports/cricket/2nd-t20-west-indies-put-india-to-bat-at-ranchi-4176770",
-        "https://www.icc-cricket.com/news/hope-rutherford-power-west-indies-to-record-chase",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ3lPOGtKc1VLLVlnTjRRaTVYa2NnenloOG5TcU1WZnhEcTBXYTJFVHdOWF9TSjhTOHpRTzdESkRyeXVqejRGQ0dRWE9CRUk0dkVkd01JU3hpMW1DY2Z1a0xRLUMtVkFHdURneTBtNm5DUUpja0Mwdm5yU0JaMERqSHVUUzV3MGZmbGpuckU2YUt5MEtzRTlsallobGFHS2lBT29LdHBmNkRqZ2kyQ3BFeFF1d2Uzb1JqOGQtbF84Q0p6QlEtMi1YRTR6aXZYcjI3SGNZNVgxcjQ5MzdoTm9rQzRn?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbGpweFMwdVNDNlFjYWNnT0J6WXlpZWpOVlBtSmVaUzRrd1JVNTlkaW1JS3NBQ2swSEp5Qmg4ZWZKQnNEQU1lbThadHUwWFhSeXNVcURpZ1psRW9VTDUxTXhGS1BJdE93OUpsSWdtcGpJZTRwRFVoUkpGZVRLY000bTVMQ0VKUFhsSWJHWC1R?oc=5",
-        "https://news.google.com/rss/articles/CBMipwJBVV95cUxPLU9Vd2I1aTdScF9sWjZKTlVrMFZOcTdDVEwwY3pLNzRLQ0xTaWJPZmFRZndUZFhlYnBCR25XWnhiU1RIYkNDNUdWYlV1amJrMDR4dXAweUZsdXM3WkxmbldHaXphN29TdTU1NmFibUdTYnFRbnhQeE5ycE0xMXkyR0poUGRzWm96U3FDN3lKVlJEZXRVSlRKNXJpSWxncWh2aWVkbE80YTBaQmdCWlk1b1hlV0hiaTdNWjlBLVB5aXRZbktZazNBVmNfdjhEOENPT2ZEZjBSUloxX28yYzRYR3RIOWFSZVNCM1RxR1dpbVpIUlBEYU0wd1hWcWJ6Y1Y1YXYxSEg0SVIwWFN5UVBVV3E5YUxjdUdMSENQa1VqT01udDBpX1BR?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSlR6MldUSDdWYTBmTFJYQm9wMzBSR1hfYlp0TjJ5cTBWQWx4ejZzaDZFeGphSlhwT0VFSG9scFp3V01zM0VHcXpTeFZ4RnEwN0VwNlJzVkxMd1VlemZHUDktcTlmTWJsV1oyNVV3UnAzSGtoTERtYWVNTmNQVFF1dGVOMk9qa2REaW9UNkNnRklrREEwa3MzSXRZNGJJS1E3VUx5TF9vbjN1TlprbVlETVVEQmZDT1VrQzNuNkV6LWdfLTVPcktaMVNnSzlhM1pwWGdHV3N3d2FLT2JuSVhVOQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:40:25Z",
-      "published_at_ist": "2026-10-09 23:10 IST",
-      "first_seen_utc": "2026-10-09T11:30:18Z",
-      "age_minutes": 43,
-      "trend_score": 20,
-      "rank_score": 0.9085,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [
-        "india vs west indies (JP 200+)"
-      ],
-      "other_headlines": [
-        "Shai Hope seals record run chase against India with century-clinching six to level T20 series for West Indies",
-        "IND vs WI T20 2026: India stunned in Ranchi as West Indies pull off record chase",
-        "149.5kmph thunderbolt! Mayank Yadav leaves West Indies reeling after India’s record T20I total in Ranchi",
-        "India vs West Indies Live Streaming, 2nd T20I Live Telecast: When And Where To Watch"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/a424c4d979b11d1b823a67934a8ac836e60520245f071a6dbcf43303700425e8/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fa346c3644ad40acca28cb699db59c947",
-        "https://cf-images.assettype.com/deccanherald%2F2026-10-09%2F0uug6wts%2Ffile87yenoelq3p1aaxkknb7.jpg?rect=0%2C35%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhcCsvMMuJ1HAQnz1AypyV2sBooG1OL1Ebtb2Od3vN7V6-bH5e75YLQz3Nsz4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTslLD020fLzRzHoAtYfCCYc8HYUcxL9vk1W1uOqWvjBCKeDDNOmjTUX66okXM",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRyhmcJk3Bas_8P_6zf61zT6WSKMpBZNwPHzkjqITsKQLV5HEUU20bj4NXIQ94"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "28662e5d00",
-      "key": "bezo-household-income-jeff-single-three-usher-workweek",
-      "headline": "Jeff Bezos Says AI Could Usher in a Three-Day Workweek and Single-Income Households",
-      "summary": "https://finance.biggo.com/news/Jeff Bezos argued in a Fox News interview that AI-driven productivity gains could enable a three-day workweek and push many households toward…",
-      "sources": [
-        "BigGo Finance",
-        "Crypto Briefing",
-        "YourStory.com"
-      ],
-      "article_urls": [
-        "https://finance.biggo.com/news/ad855fe4-cf66-46e3-a65f-0e3c30c1bfa9",
-        "https://cryptobriefing.com/jeff-bezos-ai-three-day-workweek/",
-        "https://yourstory.com/ai-story/ai-three-day-work-week-jeff-bezos",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mSVJlQy1BQW9seV91dlFMRU52dzJRTENGbGxKZ25Ub0x1N2FxZ1piLUtFMGFmZUYzcUFTdklrLW1hSjlyUC1XY3hzUlR2M0hsMzc4aFdiNHYtTHhPc1J2T1gxZGF6d05KZE5tSW9JemFlOVh1eVE?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTFBYV0hMcnR5Nml6bTN2N2t5eXZrNW90dEZYLUIzWHF2U3FwSVIzMm51VHZBa3VUZ29UODI4eEtaZkoxdlhaM3NYdjh2VGFQUzdVY1EzbTRiamVLUC1Kb2xNS0lRejhFbml0ZkJXNw?oc=5",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQW1EMFVUQ19qai1SYm5mMzl3a1BlbHBIZExPX19VOG1Sell4MFJyYlV2N2FMaTlhb3RWMGtwcm8tSmlYekVfall0VU1jZGdJOEhObm1nalp4Sjk3X25yOWlnWjBLaUYyZG9JN0FYdkpKdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:07:00Z",
-      "published_at_ist": "2026-10-09 23:37 IST",
-      "first_seen_utc": "2026-10-09T10:22:20Z",
-      "age_minutes": 16,
-      "trend_score": 10,
-      "rank_score": 0.9051,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Jeff Bezos"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Jeff Bezos predicts AI could bring a three-day workweek and single-income households",
-        "AI three-day work week: Why Jeff Bezos thinks it could happen"
-      ],
-      "image_urls": [
-        "https://img.biggo.com/S7sO-mkOSeBynQalRpghfyrXfxBbb4ltt88TMwjp6XM/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2FkODU1ZmU0LWNmNjYtNDZlMy1hNjVmLTBlM2MzMGMxYmZhOV8xNzkxNTY5Nzc5X2RlZmF1bHQuanBn.jpg",
-        "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg",
-        "https://images.yourstory.com/cs/2/220356402d6d11e9aa979329348d4c3e/Jeff-final-1612337472858.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e4abc91e72",
-      "key": "arkansa-football-game-prediction-score-tennessee",
-      "headline": "Tennessee-Arkansas football game score predictions",
-      "summary": "https://timesofindia.indiatimes.com/city/dehradun/uttarkashi-youth-to-captain-indian-blind-football-team-at-asian-para-games/articleshow/Sovendra Bhandari, a resident of Chinyalisaur town in Uttarkashi district, has been named captain of the Indian blind football team for the 5th Asian Para Games, scheduled to be held in Nagoya, Japan, from Oct 18 to 24.",
-      "sources": [
-        "Vols Wire",
-        "The Times of India",
-        "The Press Democrat",
-        "USA Today",
-        "CBS Sports",
-        "ESPN",
-        "CNN",
-        "The New York Times",
-        "NFL.com",
-        "Yahoo Sports"
-      ],
-      "article_urls": [
-        "https://volswire.usatoday.com/story/sports/college/volunteers/football/2026/10/09/tennessee-vols-arkansas-razorbacks-football-score-predictions-week-6/92169262007/",
-        "https://volswire.usatoday.com/story/sports/college/volunteers/football/2026/10/09/tennessee-vols-captains-arkansas-football-game-week-6/92173498007/",
-        "https://timesofindia.indiatimes.com/city/dehradun/uttarkashi-youth-to-captain-indian-blind-football-team-at-asian-para-games/articleshow/134839290.cms",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNFBCeTBISHdNQ2ZURUJJVG5pYXlqYW52MG1kUHUwQ01EZGxLcW9FUnd1VzR5QjR0ZEEwQzBkSGZJWmNTN0NMc0lZUUp2bkVkc1ROdl9FRnJMYkUyS2FuY0d2aTFPeG50TWVJOEwxUnV2cXUxS2dJT0ZHUV9CMjNwZ2Yzb0NvOVZxMTk0dHFjNnBHQ003VXdFZ2NDbV9KTWZMVVVGNEpaVGpkMW9oeVdCMGZwX2hzX2NhcFhhVGNZN3ktRVRkOEh2aFB3N1ZjT0tkajVpN2FIeTJxbk80d2VtTEtXSXRWaWZvMC1CZXk2TlAxSmpDRHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVDJibnRCSFAxckVFRjBTRTRtMEJSR1hsNVM4bUNDWDVaUUlEczF4TGdQa05UZjlxcXBlVzZKWE55MTI1Nld1UmNocWNGWGpManlkNFdVZ09HNzZKWXBrdUtkSmhIQ2VKOEl6UzdRRmxmQW4yY1JaQkl2YW1VYUJ1Q210Y01FX0h5YUl2bEd1cFB3cHJxVWNYcXloNXlLelA3ZzUyOUdTVGplelVpMHlTb3BFcmlUM0JqUHNxSjJ5RG5WYW42d29GcFZmM3pFTFEwRXViRTNKWHJHRjhDLWFZbUdn?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMVhwUmJTWWRZV054SHR4WDFSU0lXQ2lSbm9KY0hVU1llYV9hZmdBaGctM19Ea2xiQm9hNjRqOFZUbE4yaGpkdjdTMlo3UTkwWlhPc0lBb25fQjF2N3ZQcF9LOG1JcTYyczRZTHU3QTVFcFhhNkVMLXN5ZlEtR2tTcjhLVDg2ZkZJcHlDMFl5aTQzYnpTNHBaWC13MHV0VzNzRTNjcTVjX014RVI4a3NOMzhMLVFJSFRrMjY4QnBRaGhZcl9FNzN3QjY5dHlaMEpRUzNjbUJnZnpGWlgwX19aRzNncmnSAeoBQVVfeXFMTzlTMElsbF80clVjdkpxMGpESndLMXpfSW1jNU5Ga2ExYWU0dVdKNW9kMW0wbGx0eWNlUHhJMG9VbWt5dHN6SnRwZnVGX1VINGpVNUQ0Uk5FVUhzVFVOcGpTUWF6QU5uTlJGN056Xzg5VFFQSWljVGNUU1Q5R3R6czdUYWhzVVlVaXhYSEpnRGFLQi15a09YY0ttRVpBWWJpRGNLaGs2cnZXQ2ktWlIzZU9OYzNDalZIQ0ZXTy1CUFRjRU5zSEZWeDZTenFkR0tEdEVYemlFYmJSY1dRSHgxVG5jOXhTbW0zNkdR?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmZoTGExU0xCWEd2YkcwQlZkYi1QMWZWaE9QZXloWmtsZkk0SkFzOXREWi1rMzJMRzhkQXFVZWJaSlFXZXRrTXBQX0d4RWZqZ2pPT1dERFZUVFhoRnhDanVtQS0teVFUWF8xRDB3VzJrVUVEUHlzeGJ4U3FUZUNtYzdaenRGbkRzWFp6UDYxN0otRHNYdXJR?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbEkzNWdBZjhWb05JVVJ1b2UyU2JQclU5TWp4QmFMbU1IQkdjZ0xJVDVVQ2l1SHFlM0hJRVFXa2xQVmFDRDZaamFCcWE3QTBGS2daZENiRWg2Z0xucWY0S1FpX1ZyRmVKU2p3c29GTk1BYWpoeEs0S2JQQzRSTDIwLW9FNVlNTnNIWlY2bjF6TDZ2SEV5dGhDSFQ5QnZzbkdRd01LblR3aE9tNHRxRGp1OUJlTjMtVU52bVlYdA?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:00:00Z",
-      "published_at_ist": "2026-10-09 23:30 IST",
-      "first_seen_utc": "2026-10-09T10:02:50Z",
-      "age_minutes": 23,
-      "trend_score": 15,
-      "rank_score": 0.9049,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "football"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Tennessee football game captains at Arkansas",
-        "Uttarkashi youth to captain Indian blind football team at Asian Para Games",
-        "Prep football: Predictions for this week’s top games",
-        "Texas, Tennessee on upset alert in college football bold predictions for Week 6 schedule"
-      ],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134839288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "5753a973fe",
-      "key": "critic-mercede-teletubbie-toto-wolff-‘-’",
-      "headline": "Toto Wolff to Mercedes F1 Critics: ‘Go Watch Teletubbies’",
-      "summary": "https://www.autoweek.com/racing/formula-1/a74091910/toto-wolff-slams-mercedes-f1-critics/The team boss ridiculed claims Mercedes is favoring Kimi Antonelli over George Russell, calling the accusations “brainless.”",
-      "sources": [
-        "Formula 1",
-        "SB Nation",
-        "The Guardian",
-        "Autoweek",
-        "ESPN",
-        "Motorsport.com",
-        "BBC",
-        "Yahoo Sports",
-        "Sky Sports"
-      ],
-      "article_urls": [
-        "https://www.autoweek.com/racing/formula-1/a74091910/toto-wolff-slams-mercedes-f1-critics/",
-        "https://www.formula1.com/en/latest/article/brainless-wolff-fires-back-at-lunatics-over-antonelli-russell-treatment-rumours.71hf65gv03AdyQO9yiSbGU",
-        "https://www.sbnation.com/formula-one/1131853/toto-wolff-mercedes-f1",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOZHV6VGN6c0lJVzlmQ3JQMDhQem5GU0ljcG91Y1Q5Q245b0xrUU5ETGlIdVhnUTNpR3FUcE5GUGhKd2w3Vkl1RWk0REdUOVdpZ2ZFUVVPRThFMEtKWGpxWjZRRi1adEtyMkdsTlptVU0tME9ZamZhWGVPYldKZTVuNVlRXzEwdkJRX2ViTDJNWU1CZW54TU9VY2hoZFF1YmwzUVpTaGNEQVB2ZTdVUkZfVkRORDdZWGMyamVrWFdtOWtPcmNyZVBGd2d1QzFHV1Uxb1R1S1ZwUkJoXzB3dGc?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SXB1ZUZLN2hqM1Q5OEtaeFY0TTVMb0txQmlJS21HakNsWVVPVVNXYTJGTFJyczQ1VVhYc255QlZaeTVJcEFiT1VYNU1LbEozMXlmVlY4SWRYbDVackZPbktfSmMwZlZfZFhsV2RpNVVkdDBhWHc?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0twMDZJcDB0cWlKV3k1MExoeU54dEtyX0dteEhUYUNXako3YnJveVphS04yVjZlUHNVMENxM2hXSERXVzlRTHlycW5ZNnVubDI0Mm9MMjdvX3h6T19UNTVTWFhNQlh2RWxGdjlGYnB3NEFZOTA5TUt3QkVuYTh0bTdoRVNITEdORXU0ajBCdlQtMGstLTJ0RGNrT1VpX0NRR2tJZWd1SDJpVjhtNWZ4Zk9lT2E0Q0lMME02a1JwbnFHU0RWbENJ?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnJuTXhNY3R1RExqZlY5NndOdGtnNXN5V1BXb0RWYTI4Uk40emd3NGpCZDFKZEdmMmtrWVVNM2M5LVhxRUVtRVg3b1ZBSDJ4MzN5M29obDloVmVKc2FONEs2TmU0QmxWZmdTOTA3QlZ4Mld5Wm9kMDhLWVBpdlIyQUhQY0ZmdEc1a2dmblNKd1hSSjQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRThyRlR1V2V1RnE5M1E2d1dDOUxJN1QyY3FGblpfbzUxWnZFNzVxcXNLQlJvbDkxdU5vR21XeU9oOUQ0V2EyX2hUWDNkc25ZNkZsb1gtWktIR01WaDFNVWlndmRwX21rNHEwdnAwZzVNdzNzanU0WWFmU3BiUkNZalhnWDlONjRHemNlYU5RTmdudlIyVlNULWIyeXJwcVpibjgweGJzVThBNGs4dmpieVo5RGk3QWdtSWtGMWJVT2NQZDN2Uk1OOTFPbG9WTUhFVERsT3dTbk4xbTVUNWxPQmVuendnSjZzdHF3?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:58:00Z",
-      "published_at_ist": "2026-10-09 23:28 IST",
-      "first_seen_utc": "2026-10-09T11:51:17Z",
-      "age_minutes": 25,
-      "trend_score": 15,
-      "rank_score": 0.9025,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "'Brainless' – Toto Wolff fires back at 'lunatics' over Kimi Antonelli/George Russell treatment rumours",
-        "Toto Wolff blasts ‘Mickey Mouse’ speculation about Mercedes F1",
-        "Wolff tells critics to ‘watch Teletubbies or Mickey Mouse not F1’ as he defends Mercedes’ strategy",
-        "'Watch Teletubbies, not F1': Toto Wolff hits back at 'brainless' Kimi Antonelli driver favouritism claims"
-      ],
-      "image_urls": [
-        "https://hips.hearstapps.com/hmg-prod/images/2e0bdf49-aa19-4c51-b2a4-d670158cd920.jpeg?crop=1xw:0.75xh;0xw,0.103xh&resize=1200:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2e0bdf49-aa19-4c51-b2a4-d670158cd920.jpeg?crop=1xw:0.75xh;0xw,0.103xh&resize=640:*",
-        "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_Of_Singapore___Practice__Sprint_Qualifying/2299353917.webp",
-        "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299353917.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "bd2673d839",
-      "key": "boosting-confidence-farhan-lanka-lead-pakistan-sahibzada-sri-win",
-      "headline": "Sahibzada Farhan Leads Pakistan To Confidence-Boosting Win Over Sri Lanka",
-      "summary": "https://www.outlookindia.com/sports/cricket/Lahiru Udara is a resilient wicketkeeper-batter who has transitioned from a long domestic stint into a key pillar of Sri Lanka's batting across formats. With recent milestones like a maiden Test century and a brilliant 91 against Pakistan, he has firmly established himself as a vital match-winner for the national team",
-      "sources": [
-        "News18",
-        "The Times of India",
-        "www.the-messenger.com"
-      ],
-      "article_urls": [
-        "https://www.cricinfo.com/series/sri-lanka-in-pakistan-2026-27-1550703/pakistan-vs-sri-lanka-1st-t20i-1550708/match-preview",
-        "https://www.outlookindia.com/sports/cricket/pakistan-vs-sri-lanka-1st-t20i-2026-who-is-lahiru-udara-profile",
-        "https://www.news18.com/cricket/sahibzada-farhan-leads-pakistan-to-confidence-boosting-win-over-sri-lanka-ws-l-10375332.html",
-        "https://www.wusa9.com/article/syndication/associatedpress/farhan-and-sadaqat-half-centuries-lead-pakistan-to-victory-over-sri-lanka-in-1st-t20/616-0249c192-e771-431a-93ce-3db7152115e8",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbWJaZWdJaHVRR0JjQXU2YXV5dTJsR2hyVUh6V1o4WU9HNjR0ZGhyc2h4Y2dEdmJ6dXc3TmRFRUxmb0dmQkxvU1J4VXFHSk93LUUtdTRrTHMwQlMyRm5rQ3Q4TmJZQzNuYVQwOXV6UDBxZWxDUGdpb2xVcFh2ZEdzUF8zTFV0am5heEFHZ2lTTk1nNXRFRkFsNE9YRHJraDBOdXZJU3RJdUNDVG9jMFlvY0puT1RNVmlnTk9TUFp3VHDSAcYBQVVfeXFMTkI4NUZCRTdIRFNsSHRfVmlqZ2tKUjB0SENQcGx5Vm1BSnRCbVAwa2c0SHVzb1Fma3o4YnZQNkJ5SXZTZ3NiQ1hGUElUSDdvVmdwUUlqNkJnQ0psTXhSYzBmWTRMejR0TzV3TElQOWJvdFJ0SDZ5VzJtTk1vVWM1TmJxX0N5OC1IeTZkUEp5QUtYSEVqbFNxNzFGYmp4VTJfVUxsSm5sRnFfd3EtN05JWFpRZUdfdDlpX05KZ01IUl92Y0xCYnVB?oc=5",
-        "https://news.google.com/rss/articles/CBMilwJBVV95cUxQVDhuWk1XN1QxVXJDVXloWFpwbWl4S3lpYzZkT1ZLTWRsa215dmxCc1BMbFZnZ085V2hwb2VNeDgxLW82VlJPUDN6bjhzSHpYV2JMS05mdlUxY2tiUWp6WnQ4akc3Z3hQQTNzUUo1Rko1el9ncnFDRWZyeUFHdkhBMUpXVUJmTzl2ZG9rSUw4eWRPRGU0TE01SzY4R0ZvX0ZzYXk5akZ4b3BLSmtsM3l2c3lrbHVJZjNWeEFtTm40dk5nVDI2WGJPdzlEZ1VacHplQWRFdzNWdFVfVmxDODczSFdVWHZJTDRyRWIxdkdtY1VfQmpzOTNMQkNiaFJKd1N0RGx5dndDcE5GTDlra0lTVGpfbWVwV1nSAZwCQVVfeXFMT0VGdy1zTnItQzlla2NjRjcwOUFmUmFqUXZZZkNRMHFfeVJwSno1eXp4Q21lSnlOMUxYZndDcHlxMEtRbWdUMm9sdUppX0hfbkRuZnZjRjRhMmRtandVMVV1MHdEYU9UbnZ6ZDV5UWpXYTkyNUtiQXdTQnRfcDNEeUkxdmNzOU9yTkRrbDlZWVhvWnY5c01FWWVKR1FuT2ZPckNESGFFQ2hMWkczMzVqQ2hnUDhnYVk0clprblNQRThSbW0ySTRVazU3QUdqaWRjaHp1dHRwNk1HckZWUjJac0s5ZVlYTnc4X2syeGlDQV9uOVFIc2V2ZzVQVFZWaEJtVzVsM0NFak9xMHNhU1daRHNOS3B3NDRseldPS3U?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRHlOY2hCWm5UMHZxNm55UkM0TmRkWGRfNkRIS1czdmJDSGtqTXhNdDFNQWp2dnlnNVRsZUlEYzg1c2pFdWwxR0xtOEQyZlRmNFdaLXVoYVBpSk9zZEZyanByelc0N1JCdHpIeFQ0cEhUN3ZzbjVyLTBNTVlKbzhCdmQ2cXJRY2tXRlZQbE44cGNJSk9udkljQUl2NEZrREZaWjVBcFdNNmJMSXowNDdYZXowRXAyOTQxcDVJ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:07:40Z",
-      "published_at_ist": "2026-10-09 23:37 IST",
-      "first_seen_utc": "2026-10-09T17:16:14Z",
-      "age_minutes": 16,
-      "trend_score": 13,
-      "rank_score": 0.8997,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [
-        "sri lanka vs pakistan (JP 1000+)"
-      ],
-      "other_headlines": [
-        "Match-winning knock on captaincy debut! Sahibzada Farhan leads Pakistan to stunning chase against Sri Lan",
-        "Farhan and Sadaqat half-centuries lead Pakistan to victory over Sri Lanka in 1st T20"
-      ],
-      "image_urls": [
-        "https://cf-images.assettype.com/outlookindia/2026-10-09/12hkblr9/Lahiru-Udara.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSabB6XELT-otb9B9eYxlWe0xs_UPLi25dBhw02eWaSpMnh0gJDQxdPxFBLeE",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSt8unB4AM6JKEYdw_RogYdUZPPPx1wRIE2tfts1wXv-wjz5kLQIgJw-aLeEvo"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
     },
     {
       "id": "5450b4842a",
@@ -1369,9 +118,9 @@
       "published_at_utc": "2026-10-09T15:16:47Z",
       "published_at_ist": "2026-10-09 20:46 IST",
       "first_seen_utc": "2026-10-09T15:16:47Z",
-      "age_minutes": 186,
+      "age_minutes": 283,
       "trend_score": 5,
-      "rank_score": 0.8987,
+      "rank_score": 0.8549,
       "category": "famous_clip",
       "section": "sports",
       "source_type": "youtube",
@@ -1406,416 +155,6 @@
       ]
     },
     {
-      "id": "b3a1eb8a48",
-      "key": "approval-blockchain-com-crypto-derivative-market-prediction-seek",
-      "headline": "Blockchain.com Seeks Approval for US Prediction Markets and Crypto Derivatives",
-      "summary": "https://decrypt.co/380612/Blockchain.com is making a bid to join the U.S. prediction-market boom, filing for licenses to offer event contracts and crypto derivatives.",
-      "sources": [
-        "Decrypt News",
-        "TradingView",
-        "FinanceFeeds",
-        "CoinGape",
-        "Seeking Alpha",
-        "Yahoo Finance",
-        "Quartz",
-        "CNBC"
-      ],
-      "article_urls": [
-        "https://decrypt.co/380612/blockchain-cftc-prediction-markets-crypto-derivatives",
-        "https://www.tradingview.com/news/cointelegraph:5e11d0179094b:0-blockchain-com-pursues-cftc-approval-for-prediction-markets-cnbc/",
-        "https://financefeeds.com/blockchain-com-seeks-cftc-prediction-approval/",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZk50MU5NYUJBcTZnLVZsakFmVmpvTkFDN3ZYOTdwbXZ4UFZyRV9FNDA1dHdyS0xnYXRpbE44c3ZQQTk5NGJlNURSVU11Y2NLWmh5Z2dQV0FoRmdXbVE2dGo3a1cwVUM1X20xb29tTTJVRnMtRUhOdTZ5ajhOQTZvNFdtc2lQQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1J2WFNGeFVDbDdHMEpiaVJCNENtZ1NxRUFnUFBJTGdfSGxBRzRFbkZwREgtaTNkdTV6RkZYQUp4a04tSXBKQnFNMmNjV08wWGVGQXZfdzcyZ1pfMkN1TnlQMnRpOENDcUlLOWJzZkdwX0M0QS1pNV9JelpIM25FUVpMM3BUQmJ1VDFsamhteGpXY2JSOUsxTGFzUlBYYXRVb0t0cnFyY0dWaEJIeHZIeWNuU1AyUEFvWW1YSTVud1JvQTZiLUVZ?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lb1BRNGxldFFzSUlpYmhNUWtFQzdEbFpHUVBwQ0VCWWhvMTdhMjNqS3RDZVVYMFFlOUJZV0dpbmhXTmJudUFjOFNpa2hJQzNDMXVQOWhrZGhNOE5MSXJ1SE9vSDRwX0dhV3k2N1VPUWpIZnNrNHQyVlI4Yw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbjlldFIwNkxOM0ZpWnpjS2twMkhUczJqU29udWoyWVdKcnFhRFJuU1MwMlFqbDdLQVNuWHIwd3FvOHRQcWtocnhNSmVKc1c4UE40Q2RUSzYxSUw5cUUyM01NNDFfTGdZeE1aVU5ubmREM1daY2dnekJyZ05TUENZZkRsbllnVk05VzZOUXF0ZG5xZVMwb2pkVy1Tc2I2ZnR3c29qem5vcllNSDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeVRJUUdDa2FOcHhZcl9lSWZxYnVhOTItMmZnREd1VzZCOWNrbUM5b09UdlpWWmFTM1BrUlB2b1ViaWVETDRkcThqbU55bVMxdTBCdWExT2tab1hnLXB6OVg0Q1hUOTRtQW83eGpISk5idDNtN040dTh3LVhUeHFRTjdKRlh3RTJVTnVUcFAwX3BHY2dWN3AtSGUyMWJ3SUpUbFUxcE1UQzRWY3h0RGkyajFiLUlfUlE?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:06:03Z",
-      "published_at_ist": "2026-10-09 23:36 IST",
-      "first_seen_utc": "2026-10-09T12:01:26Z",
-      "age_minutes": 17,
-      "trend_score": 13,
-      "rank_score": 0.8985,
-      "category": "crypto",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-        "Blockchain.com Seeks CFTC Approval for U.S. Prediction Markets",
-        "Blockchain.com Pushes for Prediction Markets and Crypto Derivatives Trading in the US",
-        "Blockchain.com wants to get into prediction markets, crypto derivatives - report (POLYMARKET:Private)"
-      ],
-      "image_urls": [
-        "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg",
-        "https://static.tradingview.com/static/images/logo-preview.png",
-        "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-        "https://financefeeds.com/wp-content/uploads/2022/10/Blockchain.com_.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "3c65deb3fc",
-      "key": "along-category-coast-evacuation-gulf-hurricane-isaia-issued-order-strengthen-three",
-      "headline": "Hurricane Isaias strengthens to category three as evacuations orders issued along US Gulf Coast",
-      "summary": "https://www.bbc.com/news/live/States of emergency have been issued in parts of Alabama, Florida and Georgia, with evacuation orders in place for some in those coastal communities.",
-      "sources": [
-        "BBC",
-        "CNN",
-        "The Guardian",
-        "WSJ",
-        "The New York Times",
-        "Yahoo",
-        "WSFA",
-        "CNBC"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/news/live/cmkge3x2x969t",
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PLWZWeUtka1ZvUnMweGlhV1hkU1NLTFpJdkxOWncwZ01sNFk1VWNabVRfYy1ZLUp3SkVTejVDOWxtWEZPS0VSd0c5V29laVJFS2ZTZENB?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQV1NBeTFjTDRZUnEwVWpOMk13ZEZaSk5JSVlnelFiNFU3bWxrYUJWc3c0UkxPT2VZdHFwSjNNTFFrd1VTT2FHN3RTN29kbjNlb2QxMHNJa3g0TnhGbFJCanpBV0hrN0w1czE2c3hwVmdnTjl2SnMxRnFJb2o5SldOdDJB?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVV82MnZkTnFOblZ5Rk40U0RKM0tBbTFteFNFYW1nV3QxQ0EwZVhkRGNNdHFwZTJuWHNnMVN5UHBIVS1tTjB5YmhuM0o0SzFwaEFuOWg2LXd3VjhPbG5GMUNOWEpjZjBKMVV1dk1zdjFTd2xoSlZjTU93SmNaZGFNaXlSa0x6UC1MMks1dF9iLWRKYmNENXhKY2RnYTdYZDZCMWc?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa0h1aFI0T1A0VjlXbGNNM1VoaktZME1DYUp4dmlTZXNnbkF0dWM5S3JieVlST1lzVWJYTWJLN2tWblAxbWp5VWUwZjc4NEdvaTJiY2VEelB5SlJqcUJvX2dxVWlwYzltd2dUTTVkRDAyVUJ3MDZpV1hNTnp5alBTVUY3RG45MUtnbE02d3o0SlBiV1BJdDFFSXB6anFCZ0FwMXhfVWNlUUFVYlduVkJPdjIyZU1mQzZGVlc0VW81U2loMDhzZ1E?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9lb0l5LXpsa2JNVDE0aXdCMHU1R09feEdOQklWSHlPNXNmcmV1cnNzRnZhb3FkcjRZVlBYSlk5X2phb2JfSkUwa1hBU2VITEVlcXRFLVNBbDI4ME02OFZ5T19tRUFxRXZLWXhvYWNZSDhYMHFuUnRzalIwc1Y?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOZnpNWkxsdXNNeVZGSFNFOHVNRzZnQ3V3MXNFbjBvQUFGUWp4em1mTEhvSVBLaV9IVE5sd3Jfbk05MkF3dHBxNFN6VklyTUhXejUteW85LWlGYl9SVDdGdkdtazc1TkZucGxrZzliNzRVNU5wd25NX2RJTUhWRkNMZnpwV1N4bmNMQmNpMXF5UVBHT014ZHN5aXh5eXFlMnFkaGNFbHYwUHV5MnJ6dGUxTkVYLUxEMjEwTWRUZjNJejJ5dHVKaU9ZYkNoWXRMQlFpWndlblFKSVIwOWxyWE5ZREdQTTlsSWhjOWY5YjJaRnFFemdheGZnU3lTT08zOTVpdERreGVhSmJvX3A1UTc4ZzBNYUtzcDQ1MEJTX29TbW5SS0lhdXJzMnFQYzZCeUpaTnh1VTBZQzc?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBc25id0p5TDhKOHhpU1NMQkFBNEx1NTcxbFhYbTZwdXcyUGE2YmtjZnBLZm1YcnIwSXB4N2lneGZuYmxXMWpCdEdaaEZrVVBraW1fUTQxUlJHS211V1c4WmRaUU8yNWNGQW9LQkEyenNsT1BUU1FpSC1kNlM?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T18:20:04Z",
-      "published_at_ist": "2026-10-09 23:50 IST",
-      "first_seen_utc": "2026-10-09T18:11:08Z",
-      "age_minutes": 3,
-      "trend_score": 10,
-      "rank_score": 0.8908,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7715/live/861b7f90-c338-11f1-9981-cf94ea240e40.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e88a7a21c6",
-      "key": "concern-denie-firing-openai-raising-researcher-safety",
-      "headline": "OpenAI denies firing researchers for raising safety concerns",
-      "summary": "https://www.upi.com/Top_News/US/2026/10/09/openai-denies-firing-researchers-over-safety-concerns/9721791553563/Three former OpenAI researchers who say they were fired last week for raising safety concerns about the company's AI models, which OpenAI denies.",
-      "sources": [
-        "Fortune",
-        "New York Post",
-        "CBS News",
-        "BigGo Finance",
-        "upi",
-        "Firstpost",
-        "Yahoo Finance UK",
-        "ABC News - Breaking News, Latest News and Videos",
-        "NDTV Profit",
-        "Al Jazeera"
-      ],
-      "article_urls": [
-        "https://www.upi.com/Top_News/US/2026/10/09/openai-denies-firing-researchers-over-safety-concerns/9721791553563/",
-        "https://fortune.com/2026/10/09/openai-fired-researchers-questions-stattements-hugging-face/",
-        "https://nypost.com/2026/10/09/business/openai-rejects-researchers-claim-they-were-fired-over-safety-warnings-says-they-committed-breach-of-trust/",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxONzZQeFJQRXFQcUVSOXRrUnpKZjZiUjVBZWNsU1BubjYzTlpLWW12bmRZYzNmcV9rbGFvMGxIeGJkM2hHdlFlMml0VGU3dGpSWVJlRklXV0F0Y2txZWE3M29xWkxGZXU2OTBXTjVtbmpwcmUtTzNlTDRtQTc5ajRBTXRDbmlQU3VzYzFJTTdBZGJpQW4xcVE?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObE80VkRUQVJFZDVIWWIwRkt2NXNUeHlYcUxNclNacjRnNXl2d2JWTXM4M3N1QkJoajVPUWJGX2xDTVowRmFwbG5wcnl5bXZ6Sjc3RHFZWERWUXhpNjhVVFVGNl9LTjI3SjJrNy1aU0NlSUcyMk9SZkpyeFlsdW9aM1lsMS0yOGowS0lBZlloQ2pSREZxeGE5ZVVIQWJzSjJ1b2hHZ0Z4QmdCZVFDTTZhdFFpVC0xTlQ3TkVHYWdKdUhrM1hOdWIxQ2xsTHh6ZUdNZXg2b29iX0JpckdTQ3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjWHg5R1p6MmdiUFRyYldTVHZkTk1nOENpM0JEaVNPeEx6eVJ3ZDZqUS1seXZ5RzY1ZVlsbVNfUnJfZVpDazhVOEViWXY5Y1VzbFB1emhvd182TlNKN0J4Uno2NEh6TUdoN25TTUdzR2FoMU1saG9LX2JB?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xZXVBM09rNzFnMWxRcGVkR1A1UFZscXJ0MmdMaHRxUWVyQ3hkY0ZpX2NmQzFwWEV3UDFIcUFpMXltSGhJb05nQlBUQjBkRUtNVXdQUnFXMXZLY1lGdFV5eUtaQV9SMEtnLXB3Ym82LXZjWENQdHc?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdGlwX3VmdEJiaklodkFDZW9MTjQ4MEZ6Qk43NS1VVjJuaFgyVXZGek0tQVhRaDJPT1FYbVZSWTl5RGJNdGhlNzBJc19HNWFRejR6dHN3dEoxSU0yemFnY2ljYVRveFk1VXp3WlU4TUtGSXdIY3c1NDNKSDN5Q3ZsVWZjc3BmaC1FTm84eVZWRXFaV2REWHEzdzUybVMxdFNjM0lxTE8wTjhubmFEYndwNdIBtgFBVV95cUxQUFhHd21vdlF0ejBNLTRZSE1vQnpaUjVFQU1DaU4zY3pzNjVKTV9md1NwYVZBS3E5dU9HYWZkQmoxQm9GTkVLU2FMU2J0Zkh6WEUzUVZfazdtczFXdl9yc1ppMGNBVjk2LTVBbjktLUZvRFJhQVNfX29ybG9yVEROMHFFTGRDejFlUFQ3Wm5wWW1NbTU4ZDFhaWctUF9EVHdmaGZ4U3ZNVGEzeFJvNVV6R296aW5IUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:21:00Z",
-      "published_at_ist": "2026-10-09 22:51 IST",
-      "first_seen_utc": "2026-10-09T09:48:26Z",
-      "age_minutes": 62,
-      "trend_score": 21,
-      "rank_score": 0.8904,
-      "category": "ai",
-      "section": "business",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Controversy swirls over ‘abrupt’ firing of OpenAI safety team members involved in the Hugging Face hack investigation",
-        "OpenAI rejects researchers' claim they were fired over safety warnings, says they committed 'breach of trust'",
-        "OpenAI defends firing AI safety researchers over alleged \"breach of trust\"",
-        "OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns"
-      ],
-      "image_urls": [
-        "https://cdnph.upi.com/sv/ph/og/upi_com/9721791553563/2026/1/1a0b5fa73f2c6935446867be8d4c89d2/v1.5/OpenAI-denies-firing-researchers-for-raising-safety-concerns.jpg",
-        "https://cdnph.upi.com/ph/st/th/9721791553563/2026/upi_com/1a0b5fa73f2c6935446867be8d4c89d2/v2.1/OpenAI-denies-firing-researchers-for-raising-safety-concerns.jpg?lg=4",
-        "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2281249262-e1791564726634.jpg?resize=1200,600",
-        "https://nypost.com/wp-content/uploads/sites/2/2026/10/144391527.jpg?quality=75&strip=all&w=1200",
-        "https://nypost.com/wp-content/uploads/sites/2/2026/10/144391527.jpg?quality=75&strip=all&w=1024"
-      ],
-      "video_urls": [
-        "https://content.jwplatform.com/players/hRJzoLXq-SPdDOYds.html",
-        "https://cdn.jwplayer.com/videos/hRJzoLXq-RyIcpnTz.mp4"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "5ee8c023d0",
-      "key": "affected-boss-carrick-case-charge-city-financial-man-michael-personally-utd",
-      "headline": "Man City charges: Man Utd boss Michael Carrick 'personally affected' by financial case",
-      "summary": "https://www.bbc.co.uk/sport/football/videos/Manchester City manager Enzo Maresca says he 'completely trusts his club' as he spoke for the first time since City were found guilty of breaching Premier League financial rules.",
-      "sources": [
-        "The Guardian",
-        "BBC",
-        "Arsenal.com",
-        "Sky Sports",
-        "TNT Sports",
-        "The Mirror",
-        "ESPN India",
-        "This Is Anfield"
-      ],
-      "article_urls": [
-        "https://www.bbc.co.uk/sport/football/videos/cmwy9edkgyn9o",
-        "https://www.bbc.com/sport/football/articles/cmzxjdvv784xo",
-        "https://www.theguardian.com/football/live/2026/oct/09/premier-league-resumes-manchester-city-in-spotlight-football-news-live",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2I0WC1LZ3ZSME1qYWhsT2xGY1dYdzQ5TldYSWYxbmxGOXBKWmVobWEtSExHc1pfSnNBMUotdWRVZW45SFJxS2JOT3RCSE85SzFVOVRJVGVGdVpLRS03Z1FNNnBOUTVxSTRncmZQcWk1VGdnQVhTM19jYS1xZnFCMFRxc1RDUVZIYVBrelFpdUhZeGNsZ28zZWtKdVc1czZ5MkZuM21tZWs?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rSGM5X3VBUF9Qb2pTOVlQMUhDamwtcEpSUjE1cHZBRDVkalphRDlLdDdXZm5WdkVzM2gzQ3FQNWFPNDlwVzJMZTQ0ckVUZ2NKSEpfLVFrUnVDamF2M3p6M3o5NFdfNkluQjBZ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOV9JcnFBMkdhalBwS2dJejFUdWV2dmljQXFFT1RWOFpYTVpQWnZyZmRCNXVia1FtUGhsamUxbmVVZ0c4Ql9VclNRdmNfZ3pmbWVMUUVQdmp1MGFpZmdxZ1NraWMwSVFnalFTN0xtMnBuN1JXSng1OElUUGxTLUpRWkJLZGhvYk5Lc1dQQzRlN1ZJVHkw?oc=5",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbjlTMTNOUUM2YUdmdVBUalVIVlo4dGpadHk0UEhRLVdhMVR6YnNOV3VDY2hVZnI3UGp1NU5BZXBWYW9PZlI0T3haeW5MRWg5dFlTcG9hakprSmxMV0daS1JqX0VlbEV3aTVHSWI5Q2c4TTBhckNMdXlJTkQxMllBamw1Qmc2enQwdTdMQy1pNENaSUVUUFl2Ymo0eGxFSGYyV2RJUndaVWZwRGt0MGdQbGtnUkNrUDRTNDY3VTRleGppTDJXS1F5aFlmbnRwai04TEpuWVUtcE5NNTJtbVRRcDBRWS01azJ1T3V0V01HZWl0YWp4NUxPa19n?oc=5",
-        "https://news.google.com/rss/articles/CBMirwJBVV95cUxQRVBjM0FRODBZYWtpQl9IVklPQkIxRFNaei1wbXRwZlh0ZDZDWDFjM2R5TDh3Y2RfQXhuOFd4QzBtTWhjcWYtb1hVLUNYcGZzM2hycE5FU2N2akxpRm5XS29vamNUSEVPRFB1RnlmSmxYdElNaHluTHFnMnMxcWZRei1qaGVVdnFwSzZmNnNvVkVIVVpaVUt3VndfOU44TVdEZk5EaTZSLVhpUWJ0elVUZGFTaUk4Mm9sbUlIeFRDVHJzX2pIQjNRSEk0a19PbVpjRDZVVi1rcFZnTlRySzRIQ3NTenFDQjF4T0pySjAyMy1mZ1NvNEVvb1hDSUlSdHlWQlFtbXN0RktOTmZPanZIU2pvVVF2M3hEajZWNzBzU1FMd1NGM0stNVhaUU50N28?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:29:00Z",
-      "published_at_ist": "2026-10-09 22:59 IST",
-      "first_seen_utc": "2026-10-09T13:01:25Z",
-      "age_minutes": 54,
-      "trend_score": 17,
-      "rank_score": 0.8796,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "manchester (GB 1000+)"
-      ],
-      "other_headlines": [
-        "Managers react to Manchester City’s guilty verdict: ‘Uncertainty is not good for anyone’",
-        "Michael Carrick takes Man City charges 'personally' as Man Utd boss makes appeal demand",
-        "Andoni Iraola reacts to Man City cheating verdict: “Uncertainty is not good for anyone”"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/09bb/live/0c156cc0-c404-11f1-a64c-550be9e3c66b.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBUwIdg5jUA2BK6VPBs2b2YQw_CMshLClVB16AMYzXib8WDef_MU9oCod6qk",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7JwSlnwwbEScT5JahQ-c-5h-ItvjUi7yd11RIIwLA7xV3VuxMUpG2WPhtbfw",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS5Qg7Yox2808c1lggmHYL_W0OH6Brf6ogRChYJlc8cqjqsMFSFQ76aLL03W0"
-      ],
-      "video_urls": [
-        "https://youtu.be/acmHKbP0Ua0?si=o1QlEvGA2gEVjdLb"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "49685796d2",
-      "key": "agent-collapse-enterprise-gemini-google-single-work",
-      "headline": "Google Collapses Enterprise AI Into a Single Gemini Agent at Gemini at Work 2026",
-      "summary": "https://futurumgroup.com/insights/google-collapses-enterprise-ai-into-a-single-gemini-agent-at-gemini-at-work-2026/Google's new Gemini agent unifies chat, tasks, and code in one interface and gives coworker agents their own Workspace identity and spend controls.",
-      "sources": [
-        "TradingView",
-        "The Futurum Group",
-        "TechRepublic",
-        "Yahoo Finance",
-        "TahawulTech.com",
-        "entARABI",
-        "TechGig",
-        "Technology Org"
-      ],
-      "article_urls": [
-        "https://futurumgroup.com/insights/google-collapses-enterprise-ai-into-a-single-gemini-agent-at-gemini-at-work-2026/",
-        "https://www.tradingview.com/news/gurufocus:aed05be03094b:0-google-wants-gemini-to-do-the-work/",
-        "https://www.techrepublic.com/article/news-google-gemini-agent-workplace-apps/",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUHkzR3FQOHV1Z2JkSEFLR3N4Y2VmWm41OGtMc3JnMFpXQV9hdE14STdRUWN2YUJmLUhXajRzVGItZ2RUcHVOR3FEeGF4QVUwV2tlS0NTdTBmSDRhN25nWXVBUHRsT3ptUHZ4a2s1Y0cwYnV2R2tvV3RpZ2lId1lSWHJXNGdtd0RmdEdvMGcxdmc4bTE4NTJEc1d3?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0NrQjBBdkh0ZkZxMlNKUnJxMlRlQjZCMndQa3Bxb3pTUnFVSkItQU5PRGtybG9KM3ZMOEhoVTQyMTZ2YmVpSlFLbk5SUzkzbU8zMUpxclBoR2FSQV9nNUtnekdnVjhIOUJEZkdMRnZrN2xqYk5VbHRHOGJMUmtHemFrQWx4LTk5Q1kwYzJSd250TE1iMS1Rc2VTUnYtZm83YzlDUmJUWjd5VkdOc1dFUDhXZE5iUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTDBtQ1BpLVo4dXFucW91cF9OcmN0eWFLX0liSEJPTUpmc0RrQTdhdHpBQk9HcXlzeG9rSWkzNHpBV05MTV95bEl1MW55ZHZoN2RFQ19fTXNlRU9lanRPTEFwMjNoTWhKakVWbDdvQ0x2NlluUnB6UTYybWhtVHRBUjVOYw?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY0FIVmhIVHltcm9YWTVMSnVWbk85N3hIRXItczdlcUdXMmxWQlB5Mzd1czBBVTVBc3l0MkN5bnNaTHM2RGdwM1Q2YlQ4X0FjTzRvbkR0X1Fla0hWaXl3bFhyX2htbV9hYUpPVWxhclZWc3cyVVNBRHE1bDBRdU9sQUR2YTVoeEtuNWdBb3U2OGRrVXozWXNZQWJGMGlpTkk?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHprVUNzdTdOVmxuSXN4dmhwUFBYLUNIT1ZDZzlJRS1aRHJYTjB3QnFIbmM4OGpIdFdKLTlSRGJaT0tjcWZxWFQ0ZnJaTTFraGlySnJxVFhoRWpEU1RhV0d2cHBfUjIwSDkzbXJJODUzVzRaekh0ME9zRHB3TXFqTVh6SlVPY19TQUdta3g3WUZFY3U5emNWT0s1c2FubVky?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:12:46Z",
-      "published_at_ist": "2026-10-09 22:42 IST",
-      "first_seen_utc": "2026-10-09T10:18:00Z",
-      "age_minutes": 70,
-      "trend_score": 19,
-      "rank_score": 0.8711,
-      "category": "ai",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents",
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Google Wants Gemini to Do the Work",
-        "Google’s New Gemini Agent Can Handle Work Across Multiple Apps",
-        "Google’s Gemini Agent Launch Signals a Consolidation Play for Enterprise AI Infrastructure",
-        "Welcome to Gemini at Work 2026: Introducing the Gemini agent"
-      ],
-      "image_urls": [
-        "https://futurumgroup.com/wp-content/uploads/2026/10/Google-Collapses-Enterprise-AI-Into-a-Single-Gemini-Agent-at-Gemini-at-Work-2026.jpg",
-        "https://static.tradingview.com/static/images/logo-preview.png",
-        "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "52df2802d0",
-      "key": "90-aged-dies-engineer-hamilton-margaret-pioneering-software",
-      "headline": "Margaret Hamilton, Pioneering Software Engineer, Dies Aged 90",
-      "summary": "https://hackaday.com/2026/10/09/margaret-hamilton-pioneering-software-engineer-dies-aged-90/As Director of the Software Engineering Division at the MIT Instrumentation Laboratory, Margaret Hamilton was responsible for the software for the Apollo program. The code she was responsible for r…",
-      "sources": [
-        "HPCwire",
-        "Hackaday",
-        "BBC",
-        "The New York Times",
-        "CNN",
-        "MIT News"
-      ],
-      "article_urls": [
-        "https://hackaday.com/2026/10/09/margaret-hamilton-pioneering-software-engineer-dies-aged-90/",
-        "https://www.hpcwire.com/off-the-wire/margaret-hamilton-computing-pioneer-who-led-software-development-for-the-apollo-program-dies-at-90/",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSTJGaGlCSUNVQzk0cnV3bVFnZjJJYjJpNmQ0Y3FwOFFzeEdya3RqWS16RUZmU2tzVVV4ZDVmNVFyempaNlRHazlOSnBwU2dReDFhVjZNdjlSUEplSXlFOVdlTEppb05sa0RyQ2NVOVRXcEJZdF84akRJbjJHVGR6RnhINkZXV091cXhIbnBtSmpXUkNXM2hxWTV6cEthMlAyU0hGbnRLVlJwSUJWNmFOTWFzamNKb1M5LUhhYmFiU1A2Zm5RbGMyMURCc2U0NTRld3c?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd3BQZE5oeTlQcEYtSlh5Mm9TR1ZUaHFWbGNyQzBzV2d5RkdpWXRvUlUzTkphaXNDTFR3bDJ1VDBVZ0ZEMjhWM1Y0ckNWQ21uSU9HSHZxakJTdHFBazFNOFVsYU45YnFnZTZHdjMxQWs0UzNKVnlEMXhMODFJOV9WTklpWmVvSDhnQVhOZ0tiV1JYTGlKd1ZJ?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wenhsTFZQaDIyYURaZ1R4Rng1VlNCSzlxbXBMX01WWXBlMTNRT0stS0N2ZU4yR2ZMWWJZSXVTYWhraTZnMml6OGF1b1BjTVRTMndVMjZGa3djT21hNWc?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMFR2ZlpwRkYtTDJmOGFnc0ZPY1VzOTZ2bWZXV25PRkxMMTdrMXJkUHdXVmlzLURJV29DTmZIdlNUVXFVZ2hDcU1rblVUczBLdm1Xb3NLWFcwdHNjTmR0Slc2U0MxY2NKN2J6TmZIaG43d29fSk5fTDZJSUNUbWlwOUtDc2YzeVJWb1hSMHlaaE5QUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWjFuWllfdmhqSC1MX3dGRGFOVkRQZ1JjOG1YbHpYVEFZRm92ZGJ3OE9oRW5ZaWo1SkluYnE2a0FUTHhkcUFXcHFlTFR5OWlyblQ1d3h1VHdpcTFYRFQzQTMwNkt3cXcxdzRxc0RCdExSbjREV2FGNzFKdmhJLWVFeHJuSHZ1N0hC?oc=5",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE10TGFYS3RlcVRrbURhOENrTkIwRHBVbV9OYkh3ZWd3c0FUTTBjX0JhSU1rTU1BLVI4eUVlNmFscHM2RV9IcjRYZk9UWUVMdG1PVU9Uc2pmYmVTaGRuM3REZEJ6NFBjMmxZRG1rdFF1SEg4R0ZmM3lhREJfVQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:54:54Z",
-      "published_at_ist": "2026-10-09 23:24 IST",
-      "first_seen_utc": "2026-10-09T11:00:00Z",
-      "age_minutes": 28,
-      "trend_score": 11,
-      "rank_score": 0.8696,
-      "category": "sports",
-      "section": "technology",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "other_headlines": [
-        "Margaret Hamilton, Computing Pioneer Who Led Software Development for the Apollo Program, Dies at 90"
-      ],
-      "image_urls": [
-        "https://hackaday.com/wp-content/uploads/2018/04/margarethamilton.jpg",
-        "https://hackaday.com/wp-content/uploads/2018/04/margarethamilton.jpg?w=640",
-        "https://www.hpcwire.com/wp-content/uploads/2026/10/margaret-hamilton-portrait-toan-trinh-mit-technology-review-00.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "827d38f02f",
-      "key": "execution-fort-hood-legal-livestream-shooter-​",
-      "headline": "US to livestream Fort Hood shooter’s execution: Is that legal?​",
-      "summary": "https://www.aljazeera.com/news/2026/10/9/Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.",
-      "sources": [
-        "The Guardian",
-        "BBC",
-        "AP News",
-        "The New York Times",
-        "ITVX",
-        "Politico",
-        "Axios",
-        "The Washington Post",
-        "CNN",
-        "Al Jazeera"
-      ],
-      "article_urls": [
-        "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVFhLRVpYSUNkb1daaHVUdVFlZ21NTkxBOS0ybGVfOVdvVHhsZ05GWGY2TWlCekdDM01xUWRuc3hJQ2xYWkZNRUlOYTFjOVlCZzR0OXFuSkhpbGd3TW5NTmZCbF91V1YzRTlfNnZ2WjVZbGFkTlFwVzV5VEdsbTlzTXk2amxjcU5TM3V1OXlCbFhjRGdhR1pURFFNY2ZDS1dQMkpQWWVYcDN3LVp5bHJlbmktRVRkaW8yT3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9KRlNtTGtLc1lsck9YU3Iwb0pFTTZkMXNlandxcWFMdmlmUXBfNV9XVll0d19iV2dSbTVlalhFLW41Q2liTHpha0FzODNNZlVSczhBN2U1Z0ZCdXNfdXc?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTjRNSjlTdFRRc09mRVdBcUJwTnNDYzRFZUtzdHV2NFk3VHdzb2F4LVlHcEsxRm00NloxZGRobC1uZjlNZlA0bEctMDU2ZGlnRnhDRGwxMXJoYUdKcTVEWkUweGk3eVc5WkZIOVlpZ0xRZllYcEdtcEg1bG9NclNkQnVQTGQwNWprcWxMZ3I2akVYb1gyMkRuaGd5dUxfMnlUTWluUHo5TVM5N0JH?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aWVd1WkRDc1FWS2dyeHdKY0NzNHZ4Z0R0SGxoUExrZXpRcThiczNlOGt4bTlBX1BNOUlSaTdxeEgwQWRMZmtwNllpRDQ0ZFFueFlMeDlObHMtUVFzMXhST3JWdTJheWZYbjFiZnUtWG9TQzJfb2c?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdlFRMUR5a1dfU1JZR3A5dzA1cVBqRVFTcWNEcFY2ZEdKQWlNNUI3QnNEN3AyQTFYd2FXeEtzYm9KV1p0Wk9UcTJ4NDZ1ZHh2TDloQUhyVTM0cVVXWTBmUTFxdmFIdGR1bkhUd3ZrV0hEU2tRR1pmc2F6MnNFbmZBcU9uR1ZMbGdicTFaSGJ5OFE3VWJ6elFjRlFwODJicnlOQ2dycTZwclFsb1JMMzVzbzVBc0VoTldCSERjXw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDIwaTRCOHN1SlFETUR2WEtqVkh5VXBlMWJuZ25rcG5MeTE1anJQdENHcHgyYUl0MFJaRmU3UUczbmg0bkFQQzVyamE1dE9ra3c1OG9JZ3VsMTd4MnVabWVKSHVGNHFOWDVzd2cyRUpmXzVSQVR1MUlkc2xFOWR1M1NuOWhHSG85WVRv?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29GaWlaWjVIek81VDNFancwa2ZzeFBmRzl3UGtIWmRVUXVxS1dUdUdVanJaR2Z2WDZRWk1YbWNOTWV2NHdVMEVzNlFSMGhHZ01sc1hyMDQ1eU9uaG9zTjZGaGpkbWIzbmoyUC1SWlBIbDNEcUM0YmlvYlFUb25mT2N5cmhQd1U?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:27:00Z",
-      "published_at_ist": "2026-10-09 22:57 IST",
-      "first_seen_utc": "2026-10-09T10:02:14Z",
-      "age_minutes": 56,
-      "trend_score": 15,
-      "rank_score": 0.8652,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [
-        "‘Barbaric’: firing squad livestream ordered by Pete Hegseth - The Latest",
-        "Hegseth faces bipartisan backlash over public execution for Fort Hood shooter",
-        "Firing squad execution of mass killer Nidal Hasan to be livestreamed, Pentagon says"
-      ],
-      "image_urls": [
-        "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-06T043047Z_1593930106_RC2GXNARUYD2_RTRMADP_3_USA-MILITARY-EXECUTION-1791275079.jpg?resize=1200%2C675"
-      ],
-      "video_urls": [
-        "https://players.brightcove.net/665003303001/6tKQRAx7lu_default/index.html?videoId=6404778626112"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
       "id": "a656124e4d",
       "key": "david-economy-sack-stronger-think",
       "headline": "David Sacks: The Economy Is Stronger Than You Think",
@@ -1829,9 +168,9 @@
       "published_at_utc": "2026-10-09T14:00:36Z",
       "published_at_ist": "2026-10-09 19:30 IST",
       "first_seen_utc": "2026-10-09T14:00:36Z",
-      "age_minutes": 263,
+      "age_minutes": 359,
       "trend_score": 5,
-      "rank_score": 0.8639,
+      "rank_score": 0.8206,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -1866,500 +205,152 @@
       ]
     },
     {
-      "id": "1d448bdef2",
-      "key": "agent-ahead-gemini-google-model-puts",
-      "headline": "Google Gemini Agent Puts the Agent Ahead of the Model",
-      "summary": "https://futurumgroup.com/insights/google-gemini-agent-puts-the-agent-ahead-of-the-model/The Google Gemini agent routes work across Gemini and Claude models and gives coworker agents their own identities. Futurum assesses what it means.",
+      "id": "0af2a3c57e",
+      "key": "bernstein-buy-good-madison-operator-plan-portfolio-rezaei-spacex-spectrum-tower",
+      "headline": "Bernstein's Madison Rezaei: SpaceX plan to buy spectrum portfolio is good for tower operators",
+      "summary": "SpaceX announced on Friday an agreement to purchase a nationwide spectrum portfolio. Madison Rezaei, Bernstein Communications Infrastructure senior analyst, joins 'The Exchange' to discuss how that announcement is impacting telecom stocks.",
       "sources": [
-        "AI Insider",
-        "The Futurum Group",
-        "Observer",
-        "Inkorr",
-        "LinkedIn",
-        "TechJuice"
+        "YouTube: CNBC Television"
       ],
       "article_urls": [
-        "https://futurumgroup.com/insights/google-gemini-agent-puts-the-agent-ahead-of-the-model/",
-        "https://theaiinsider.tech/2026/10/09/google-brings-unified-gemini-agent-to-enterprises-letting-ai-act-as-a-workspace-co-worker/",
-        "https://observer.com/2026/10/enterprise-ai-models-think-less/",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxONW5EQ3ZfZ3NPbTk2ekI5R2lKYXZjenloektIWG0zbzVud212enVyNVpxX3FrMmdBcXprT3kxRG9qRW56OF9GbS0wY2YzTldwdzhpeWN2VGVTS3hjYzI1STQtVmtJcmxITzliUkdMZ3ZnTTVseWFWTUpXZ0ZIVmZNZmVfenV4NlRpcGM2cDlOc0lqcWlUc1MxRU54MGp3a29yU3JkVXNJeXo4dGN2aGFIZUgtOV9YcmFNNTJMMWlRdktHOVp4UVE?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdFA4MWN3ME1TUlJJWVpBVGZDcmdCUll0d0ZTOC1MUDZSZHVQcThGSnlOR2VfTG5WekJmRmx6Y0dTb05teTFPdGV6bVh6UFM4MmJLMkFqcXl2OEMtRVMtTW1mOEJtRlc3em1WZUItXzFtcjZvSmJwQmJZVWJ5aUg4UmI0dUlXeVVmUTA0R0huWGwtdw?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IaDZmcWp2UVZ6SUxRXzhsZ3dlTTgwQzF0OGRNcUgtR2Y3RzVMbUN2Vk1fTUJEeUdmbE94bV9XVkxhQVgzS2ZnRVV5ZXhSbDNiTXpfT3NhQUd5NzdrR0FveU9MVzFNZ0hzTFozNmhn?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTG10anhBYmJINFVjSTNIR3pQcnRNdVA3dkNWZTZWUDBweUpVM1dBTnkzaG9jMTlKd0oyYUJzaFB2Y3ZGem5MRURUMGFhbS1IeWtBTkZ5cHd3WnRmcEprRG5TUVFyRWlUbnhMMUxrYUFFR2Vad1pnUks5cUdNMmktQjd3Z0ZaQzcxelZiSUgtT2hZaFJsaWdQUlVoOHNBWlJyaEkwNTh3S01oOFJuV0pabGNZQ2RJRVU3Q19QdFlnQmpfcmZUSF8zbzE0aG9PMWxPQUpBTWJ0d2lRYTEwdVhNVmFR0gHiAUFVX3lxTFBMbXRqeEFiYkg0VWNJM0hHelBydE11UDd2Q1ZlNlZQMHB5SlUzV0FOeTNob2MxOUp3SjJhQnNoUHZjdkZ6bkxFRFQwYWFtLUh5a0FORnlwd3dadGZwSmtEblNRUXJFaVRueEwxTGthQUVHZVp3WmdSSzlxR00yaS1CN3dnRlpDNzF6VmJJSC1PaFloUmxpZ1BSVWg4c0FaUnJoSTA1OHdLTWg4Um5XSlpsY1lDZElFVTdDX1B0WWdCal9yZlRIXzNvMTRob08xbE9BSkFNYnR3aVFhMTB1WE1WYVE?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxNUk4tbHZlT2Zjbjd4Y2o0WTM0UWJIZVhBRFBwY2NlNmZEWU5HUVBDeVd5d1p1OFRQY1lpdlBCM19jU2tHalZqZDZYTzNDeEExLUlwalFyVmhBa0NfcTl6ejd3WjVVTVFJZmlBaWpNS1VXSnM1MFE5M21UaHUwVXRNLUhDbi0tYkFjMl9MaGNVblJZa0dpMDhuaDk0RkR5QQ?oc=5"
+        "https://www.youtube.com/watch?v=UT596VT8wmo"
       ],
-      "published_at_utc": "2026-10-09T17:10:20Z",
-      "published_at_ist": "2026-10-09 22:40 IST",
-      "first_seen_utc": "2026-10-09T11:26:49Z",
-      "age_minutes": 73,
-      "trend_score": 17,
-      "rank_score": 0.8567,
-      "category": "ai",
-      "section": "top",
-      "source_type": "news",
+      "published_at_utc": "2026-10-09T19:15:53Z",
+      "published_at_ist": "2026-10-10 00:45 IST",
+      "first_seen_utc": "2026-10-09T19:15:53Z",
+      "age_minutes": 44,
+      "trend_score": 5,
+      "rank_score": 0.8128,
+      "category": "tech",
+      "section": "business",
+      "source_type": "youtube",
       "famous_names": [],
       "region": [
-        "IN",
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents",
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+        "Elon Musk"
       ],
       "google_trends": [],
-      "other_headlines": [
-        "Google Brings Unified Gemini Agent to Enterprises, Letting AI Act as a Workspace Co-Worker",
-        "As Google, OpenAI and Meta Push A.I. Agents, Enterprises Need Models That Think Less",
-        "Google Unveils Gemini AI Agent: Streamlined Task Automation and Seamless Corporate System Integration",
-        "CNBC-TV18 #AIPulse | OpenAI Revenue Concerns, Google’s Gemini Agent & SpaceX’s Spectrum Deal * OpenAI tells investors annualised revenue approaching $50 bn vs earlier reports of $70 bn * Google Cloud launches Gemini Agent for tasks, content and"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://futurumgroup.com/wp-content/uploads/2026/10/Google-Gemini-Agent-Puts-the-Agent-Ahead-of-the-Model.jpg",
-        "https://theaiinsider.tech/wp-content/uploads/2026/10/Screenshot-2026-10-09-at-11.09.00.png",
-        "https://observer.com/wp-content/uploads/sites/2/2026/10/GettyImages-2297747498.jpg?quality=80",
-        "https://observer.com/wp-content/uploads/sites/2/2026/10/GettyImages-2297747498.jpg?quality=80&w=876&h=438&crop=1"
+        "https://i2.ytimg.com/vi/UT596VT8wmo/hqdefault.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
+      "video_urls": [
+        "https://www.youtube.com/watch?v=UT596VT8wmo"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Bernstein's Madison Rezaei: SpaceX plan to buy spectrum portfolio is good for tower operators",
+          "channel": "CNBC Television",
+          "url": "https://www.youtube.com/watch?v=UT596VT8wmo",
+          "published_at_ist": "2026-10-10 00:45 IST",
+          "thumbnail": "https://i2.ytimg.com/vi/UT596VT8wmo/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
     },
     {
-      "id": "9b6f8608fd",
-      "key": "19m-bank-bots-fraud-hack-korea-wikipedia",
-      "headline": "Korea Bank Hacks, Wikipedia AI Bots, $19M Fraud [2026]",
+      "id": "c10e044b6e",
+      "key": "celebration-columbu-host-president-trump",
+      "headline": "President Trump Hosts a Columbus Day Celebration",
+      "summary": "The White House",
+      "sources": [
+        "YouTube: The White House"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=noI4BbQ2wZQ"
+      ],
+      "published_at_utc": "2026-10-09T16:30:50Z",
+      "published_at_ist": "2026-10-09 22:00 IST",
+      "first_seen_utc": "2026-10-09T16:30:50Z",
+      "age_minutes": 209,
+      "trend_score": 5,
+      "rank_score": 0.7833,
+      "category": "world",
+      "section": "world",
+      "source_type": "youtube",
+      "famous_names": [
+        "Donald Trump"
+      ],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Trump"
+      ],
+      "google_trends": [],
+      "other_headlines": [],
+      "image_urls": [
+        "https://i3.ytimg.com/vi/noI4BbQ2wZQ/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=noI4BbQ2wZQ"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "President Trump Hosts a Columbus Day Celebration",
+          "channel": "The White House",
+          "url": "https://www.youtube.com/watch?v=noI4BbQ2wZQ",
+          "published_at_ist": "2026-10-09 22:00 IST",
+          "thumbnail": "https://i3.ytimg.com/vi/noI4BbQ2wZQ/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "767b537e73",
+      "key": "account-dream-possibilitie-trump-turn",
+      "headline": "Trump Accounts Turn Dreams Into Possibilities",
       "summary": "",
       "sources": [
-        "tech-insider.org"
+        "YouTube: The White House"
       ],
       "article_urls": [
-        "https://tech-insider.org/korea-bank-hacks-wikipedia-ai-bots-19m-fraud-2026/",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZGx1UWR2RGhWS3VGLTgybGRWMzdsQTc1SlVtSzVBaUhfOVpzS0VTdjFjQlpEQXZMVDhwODRvLTZtMXhHMTR4VlBTX3JxUXVoNUlFRDRrcE1fNjdMelo2QXQ0ZkxLNjdxOW1ENktIeUJQYWwwMlN0ZlFldUxpa1VqUA?oc=5"
+        "https://www.youtube.com/watch?v=7YPNA4ZHa1o"
       ],
-      "published_at_utc": "2026-10-09T18:13:42Z",
-      "published_at_ist": "2026-10-09 23:43 IST",
-      "first_seen_utc": "2026-10-09T18:13:42Z",
-      "age_minutes": 10,
-      "trend_score": 7,
-      "rank_score": 0.8499,
-      "category": "ai",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
+      "published_at_utc": "2026-10-09T13:24:20Z",
+      "published_at_ist": "2026-10-09 18:54 IST",
+      "first_seen_utc": "2026-10-09T13:24:20Z",
+      "age_minutes": 395,
+      "trend_score": 5,
+      "rank_score": 0.6993,
+      "category": "world",
+      "section": "world",
+      "source_type": "youtube",
+      "famous_names": [
+        "Donald Trump"
+      ],
       "region": [
-        "IN",
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Trump"
       ],
       "google_trends": [],
       "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "5427f6081c",
-      "key": "11-9-airport-claim-crash-flydubai-inspired-israeli-jet-omani-pilot-planned",
-      "headline": "'Inspired by 9/11’: Omani flydubai co-pilot planned to crash jet into Israeli airport, claims UAE",
-      "summary": "https://timesofindia.indiatimes.com/world/middle-east/inspired-by-9/11-omani-flydubai-co-pilot-planned-to-crash-jet-into-israeli-airport-claims-uae/articleshow/The Omani co-pilot of a Flydubai passenger aircraft planned to seize control of a Dubai-Tel Aviv flight and crash it into a terminal at Israelâs Ben Gurion Airport in a suicide attack inspired by the September 11, 2001, terrorist attacks,",
-      "sources": [
-        "The Times of India",
-        "The Hindu",
-        "NDTV",
-        "Deccan Herald",
-        "The Indian Express",
-        "Sky News",
-        "Reuters",
-        "BBC",
-        "The Economist",
-        "Financial Times"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/world/middle-east/inspired-by-9/11-omani-flydubai-co-pilot-planned-to-crash-jet-into-israeli-airport-claims-uae/articleshow/134839501.cms",
-        "https://news.sky.com/story/flydubai-co-pilot-planned-to-crash-aircraft-into-ben-gurion-airport-uae-says-13597009",
-        "https://www.cnn.com/2026/10/09/middleeast/flydubai-attack-alleged-hijacker-investigation-israel-latam-intl",
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdFNpR0dRN3NFVURCcXA5bmtMU01ILWpVbkx4eXhhQmotai1jZ2pmYldHeEpaaG9NVC1ScnRwUkJWLVh3ME5ONU8yM3JjSnY0M3YwRFRXcXNDWDh1YnF6dmJvYktaZFU2akZkaVQ2ZE52Z1FGZEFlSXVNSDNJU0dIX3JDelRUVzI2a28tSU9lYUpGV2g1T0RaaHEtUnFhMjdEUExHODU1alZ6VkFhMHhVYkF1d19fd0VGZ3JHM1p3SHBjY0lSNWs0NkIxbnE4NjBib2VEUU1PNzB2ZGJycnFVckNwWVkwd3BINm9kbkRGMWdxd2YxaFlTWm5VRjI3R1dQdGJn?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTnZieTQySndIREg2anQ0N0JLRXZ3UUhhanpwVW1oeUVYd2piWmEtelNNQ3cxM1cyc25jSHJfRm5hOUxTXzhjUGZLbnRHR212WXVFMmJ0YjR3R2RScW5MWmttc2ZicExPZWczaVFlQXg0cmdKbU84V3ItWXNtT0tXaVYwYXBzMFc1UEZjTXZQY2haSWxIenZaQktBSTdHWEZiZzRlR0VIVWdHTW5RM2kzUFR2Yjc3MFZpNm9TTDdRMU5YMWRLVlc4RVVESTIxZHJjV0hsX1ZNRFdsVUNNZ1ltVlRYWjNxYmJvMC1iZnRR0gH0AUFVX3lxTE5WTUVCMDJYNFY2VEVNNkZ5XzJvbWZiU0wzSU1SOWxUcUdxb3VXRE91V1BOblp5V1ZLY05ZeElVY3MzSl9sRnptaDJxbk9Pbi01MzBuS0VoMFhCcHNaa1J2d2VpeUFXWG1LQnhlMWVZODZ3ZVNPVTJPa25BV2c2TFZDQ3pLZzlJR0J2ZmxmRnhvempNN2U1VGVWdTE4ZnBFSzBuTHB0MU5ReEdKckVlRzlVVDREYnhXaXhwVFMyTFBwS0g3b2JvWE8zaTJsWTVLZTFUMl9NVjFnMmM3LVNFcVAzT1JwWTN0eFZLWXpDaE9tbmNOVV8?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1lkeENlU3ZEUUlYMWFzWnFQRkxoYVpwZ1lYZU5ocEg1U1AwcFdLdGNWc3FVY21LVmJBTzY0c29zMmRQQjZuYUVfbXpOSlpNQmUtcVp2QWxpWEhWRlliemRMTThQdWstS2JlY2JFVGxNRkw0SU1XLUIwTFZWSVp3SlBxSkQwbWFqaHBST3BVM2o1dUVNSXZLODE5VEFFNmZfenhWenpUQkNVbFkxQnVVUUl1Y9IBuwFBVV95cUxQYmlWVkFubF9NUm9laS1JTVhkd2c3QTB5NTJpQWZIUklZSkVUNS1xc3lDMktfcllsZWg1eVA0UXJPQWtuVTdCcEtST3R1QVM1bXdpTGg1TExQazlZb3VtZ2NFUWJSd01aYTViUFg5QVFhNmxSeVFVYzhleVU0ZVAwNFljUEVUYThkcHZBRzlDSDlHNjExQ2pTdjFRcWFmX3VfcmdlUVZFVm5uaXBWXzhWZUVIVFNUbDhtMDk0?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWndzZG1oRHlNV1FtWWJvd2JJMnZoLUFab0tBSUFwTDZzZEQ0N2YxbVhFemdsVnMzOVpIY1pGSDNoR2tNUjYzNl9OeTQ1MmxZUWRlZC1NQmQxZVJWQlJRblpmbjdIeWEyQ0xoMERjSGlMRkpjTUY4UGVWQ1ZmYnFTcmhETGh4T2VoVG1zRURneEV2aWZxR2JjU25nejBlMEtNMWtDdE55QTk2QVFu?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZXhyZjRUVUMtLTV4YV9wTXdyTEV4RVh6TXl4RTNYOEMzY2JNd1Q1RFRnUEV4dEg3UlNZNHZaR1d0TlktRFRCME4yLWo5OEJJUjJIMUI4RG9rbEVNeGE2N1RGSDNxT2ZWdmVBWmlDWVJpdmhYS05HdXAtVFU3UENLZzh3OXdLb2hZU05zSTNJNG1ndHRZOEtBTm45Uk5zZTBqOGl3eWd3?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:04:00Z",
-      "published_at_ist": "2026-10-09 22:34 IST",
-      "first_seen_utc": "2026-10-09T16:48:40Z",
-      "age_minutes": 79,
-      "trend_score": 17,
-      "rank_score": 0.8495,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [
-        "Flydubai co-pilot planned to crash aircraft into Ben Gurion airport, UAE says",
-        "Alleged Flydubai hijacker said 9/11 attacks spurred him to become a pilot, early investigation finds",
-        "Alleged Flydubai hijacker planned ‘suicide attack’ on Tel Aviv’s airport, early investigation finds"
-      ],
       "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134839552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://media.cnn.com/api/v1/images/stellar/prod/linkedin-image-flydubai-3-copy.jpg?c=16x9&q=w_800,c_fill"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "8624c30080",
-      "key": "life-microsoft-spark-trie-window",
-      "headline": "Microsoft tries to spark new life into Windows",
-      "summary": "https://www.vogue.in/content/See what the stars have in store for your sign",
-      "sources": [
-        "The Verge",
-        "Microsoft",
-        "Windows Blog",
-        "PCMag",
-        "The New Stack",
-        "The Register",
-        "Computer Weekly"
-      ],
-      "article_urls": [
-        "https://www.vogue.in/content/virgo-horoscope-today-october-8-2026",
-        "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-october-8-2026-money-looks-promising-for-some-but-three-zodiac-animals-need-extra-care/articleshow/134755815.cms",
-        "https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad",
-        "https://www.hindustantimes.com/lifestyle/spiritual/chakra-horoscope-today-october-8-2026-listen-to-your-intuition-and-consider-what-your-past-has-already-taught-you-101791379978548.html",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcTVaU1IweDlZNEZxNm1zNG8zckpTRDFGRUFYcm5wVl9SZ3lob1NScXl1RHVfQ2t3MGhoQl9JNnVPcm8tY3AyWkhQWElzdXpJNVc4MmltOTJQMTdVSHJfbnY3LXF5RHBkQlpiYTNuYnA3d3RjbGJBNld5bkQxd0xzd3JhcGg2aEwxWGRCOTlhSVc?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVW05WkZFd2M3R2dUR3AxWW04b0lSQkU0MktkODhyWTJtejlnM1lGR21xcmJybHc2TnVsWDc2NDFpS0FoYTl3U3JjZWZZX0t4aUR2cndmMzlmMXhzS1ZXN3YwdWQzQm5QWlBqRkVYdTEtWU42TWx0Z0NhcGZsU2xpcmxBTDk?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMHhKel95eVdnemQzSkZ6Y3dSZFRwdzNsVTQyYnNxRlBac3NPXzl6TENvUExvOHpUdlRlMlpJdS0zVGREbkkwWEFzUUhmdjB1YWlBX0RNV2xCbEd4elZqTEd0OGx3R1c4MWhUVnV5TEVoeVg3SEdYUlJyTFBqLUVSZkt2dFptQ3pXV1pwZ0U5bG9Zeko0R2xEaHo5VFhnTFhOWjNacm1tbmhCMHlCY0RhbFVaM2o0U2V6U1F6Tm1nTFJvb1k?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHZCSU1RakgwcHFHWFRHQW9lYlZ0SjlOQVlUTklSS2RGNVJyb2UycjhZTjhITVdPVlhzTGxsc2tvVnFianVjbUNESUtTMlE5XzFQSkdaeGQ0V1BnV2ZhWHpBcVAwQ2lHRlBCb1JxOFJXcHVVZFpPSldnWEl6TG1HODJmMGN1MWg2OHNQdHlBYUVlT1k5UkRuTUpZWUlDYVdhOG8tSw?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:00:00Z",
-      "published_at_ist": "2026-10-09 22:30 IST",
-      "first_seen_utc": "2026-10-09T11:31:05Z",
-      "age_minutes": 83,
-      "trend_score": 15,
-      "rank_score": 0.8327,
-      "category": "tech",
-      "section": "technology",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "life today (2026) (IN 200+)"
-      ],
-      "other_headlines": [
-        "Microsoft tweaks Windows to secure agentic AI"
-      ],
-      "image_urls": [
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png?mbid=social_retweet",
-        "https://static.toiimg.com/thumb/msid-134755815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwtj3TBgH7Rq3EbmlNycEulIW_5-jBMaFH5PTu8vkw0p7R3RfduhiezKVHnKg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7KZcDWd9L0bgxVv3OzwbxBoT_2arJ97gavJfbfbfGXkJgDPAjgLc5DryPAIw",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3BbBuu3IBsgUZs5njxbdFRqs4pgZh6Fok5t2SeoNLqpPy_NrQ8GYsYZJGm3c"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e69854bb7c",
-      "key": "car-china-clinch-curb-deal-export-hybrid",
-      "headline": "EU and China clinch deal to curb hybrid car exports",
-      "summary": "https://www.politico.eu/article/china-says-it-reaches-understanding-with-eu-on-hybrid-cars/Trade Commissioner Maroš Šefčovič says the agreement could prevent millions of Chinese vehicles from entering the European market over the next four years.",
-      "sources": [
-        "Reuters",
-        "The Economist",
-        "The Hindu",
-        "CGTN Radio",
-        "Global Times",
-        "South China Morning Post",
-        "The New York Times",
-        "Atlantic Council",
-        "POLITICO.eu",
-        "The Guardian"
-      ],
-      "article_urls": [
-        "https://www.politico.eu/article/china-says-it-reaches-understanding-with-eu-on-hybrid-cars/",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3MyTS1sT2VmV1p1NmNianVURjZIY3pkRnF5R3lYSjRUZUVsNzM5aXBwaVpTaHJGa0E4RGtBNGJtZDVyYXRBTXE2NGp1Y0I3UFpaMUh2a19VS0JXUHFqRk1OZTJnM0NhMzB1bU9xOU1BTXl3THJGeHpXdU5acjdkX1F6Yy1pZDhyX3l1SklOeXZ2UTV5TDBN?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWlp6bGFJX3NRT3BjRG1SWGNkeVFhcnktblpKVjZrc3R2dmlmV2tpdW52Q0xrZW5GczVZZ29keFdEQnFTRm1vMXp1Tm9nUzNDQ2NGWkRwbUt3ODhBdktkNHBSX3FJa1dNRG1XVHdWWnY0RXNTckljQk1jdzJJUHc4cFNfMDcwcVBBVGpmTUtJS25IN3VjRXNocElFUmY5cHBZTVdtY041R0kyYmhNQVNxZkV6TnFVcF9pRlE4aFQyQkdRaGtsbGhud1dUWHA4T2J0ME5RczgybHHSAd8BQVVfeXFMTkdGb0dMMXd1UWFjQTF6dzF5dnhxdEVwNVBLYTNBLTR3N2RSLVh3QmJ4aXJhNFpXZFRBcVJVUzQ3VXBCb3VOdjQ2QzNRLTU2amRlMXVpN2JtQ1o0cHpvbU8tNDNUSzA1SWJyaFljYmJjZ2hnb0d0Qkp1bWI1dHpudk9NOHlPTTZJVThKUkplUUF1anlSdENPYktBaWVxVFFtWXJiam9Wd2VsZlFobGduOGpIS2diOEZkbVFIY25LTVVCaU8xcTl3R18zRldMQXdheTg1TFc1bUdSZWJ1T3hVTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcXFfTGFrcnJZemNoMVJ2enNnNnFUSVVFYWZIQ1JMMHdvQnJTU25FNzhjaEtLTElBcGNvaDdVSkJ5Q01RMHpNUGJVWTU3Um9UU0NVdm8xenA0T3hINlg1dnk4NkJwMGhBQUFZQ3I1b0t2SjZMMmQyNUpkcEgzYlpLeDVfZ1FrdTZINnl4QzBMV3A2UDVCTjR0MGRVVzVtYm1hVWVTSnJFTVlxZDBlblcyLUp3?oc=5",
-        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9fZ2xLcjVKRWUwNXBZWWVEVzlEUDFqX3ZBWDRnZXZnY3RYUW1wczh3eG9TSHFReUZOOG9OTXZ0bXlBX3EwYXFRUlBoUVd5aEZFLTg2bHNCWUFHYkU0S3NhSGtR?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa2RCM0lJTlZrVnhlMmdjbldmMXpIekU5QzFIRzNqT25lNzNld25selhNcl9oYjFCWjRaX3ZSUzdGNDBrTmU0YzJJaUZneHRkQ2JZUmF4eUlSWG52QzE3VzBhLUFma0dqSG1wN1daLUd0Y0c0Q3NCblBKOV9sby1pQU1aUU1XWU1IbG1iQ2JiQUlrSzAwbDlFYnd5ZXkyblFYVjlxS1hVMFRRWVZmcmZ3OVpTekhjMnB6MW9rZ1BBYWg3eXJ4Yk1OM0d2NWTSAcwBQVVfeXFMTWk5X2h5SXFHS0JMQjVla2RTd0lUTC0ta0hWRVdVMzJHRU1FSlp2bUcyZkhTQlZ5UUktYW1BdFhuZ0pYX2ZDaFd3SmYteUNaRUhBbVBwelFfODBvMFhmeE1Lbmx1ZWdDSWVBRWlKRzJjMmVDbmp2c1VodGlXNGI4aDhFTDhuNUlQVjRjeUNIWXpaNzNuY1dBdkhGY3dwWklPMG9VT0wtZ3FUSEQxRzhtREkyV3JRRjF3TXlaYUxZWHpPVDVTamt0QWc4RDNo?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMkR3MUJWaDBNRi1Cb0h4VkthVGF0blptSkcyTk9DME1XNzVvMmFMdFVKYm81XzRZNkdDYk1IdGhFVS10d2FuVWI1TTVUUy1Ea2hWYktlVDVlLWJRb2l3aVViMnlZNzdGeEFfc2NaNy14aFhCOWt6Ti0zbkNrWm1BTQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T16:58:00Z",
-      "published_at_ist": "2026-10-09 22:28 IST",
-      "first_seen_utc": "2026-10-09T12:50:00Z",
-      "age_minutes": 85,
-      "trend_score": 15,
-      "rank_score": 0.8303,
-      "category": "world",
-      "section": "world",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [
-        "China, EU strike deal to halve Chinese hybrid exports",
-        "China agrees to slash EU hybrid car exports in half, putting brake on trade war"
-      ],
-      "image_urls": [
-        "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/09/GettyImages-2289472316-scaled.jpg"
+        "https://i4.ytimg.com/vi/7YPNA4ZHa1o/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://politico-wp-text-to-speech-prod.s3.eu-west-1.amazonaws.com/speech-9135836.mp3"
+        "https://www.youtube.com/watch?v=7YPNA4ZHa1o"
       ],
       "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "39dbc828b1",
-      "key": "9-950-answer-hint-nyt-spangram-strand",
-      "headline": "Today’s NYT Strands Hints, Spangram and Answers for Friday, Oct. 9, #950",
-      "summary": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-spangram-and-answers-for-friday-oct-9-950-2/Need a Strands hint today? Get the theme hint, the spangram and every answer for NYT Strands No. 950 on Friday, Oct. 9, plus yesterday's answers.",
-      "sources": [
-        "CNET",
-        "Forbes",
-        "Mashable SEA",
-        "Gadget Bridge",
-        "PC Guide"
-      ],
-      "article_urls": [
-        "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-spangram-and-answers-for-friday-oct-9-950-2/",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzBZT0pvVGJXYmZYcWlmYThtX01wemNLREZ5X2QzWVplY2hTSGdBQjNsTlZEdFF3R0tjRlVLWFVjWTFkNEo0TUwySjlSeFZtc3JPbkFYWjBSS3doR2VyWjMxUnBjX0Z4OXBpOEFHa3Q0TGZJZGtWTkpWMFlHcXhxbWI5c2RYT3A1eWdDODZobnBVRi03RjVKMVM4YzlST3ZES3J1VA?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXhmZ2RBRlF3aHNNLTlVaVFMQTNFb0xUY0dNSGYxX21BR245YVdLbDFIY2M5dUh1Q1pkRXIxWW5CRDhZdlZjdlVUUVFvVmpfRFZqTFFZN202dzRxcHlMLTJGSTgxY2xDbmpLNUgzZE9LTXdXcFc0MVE5R0Uxa2pwdS1wVTlqUWt1R3dlOFBwMW1QdFVuclp5UFJJRzhkTkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFZfTWdtbmV3eUVTMVN1ZTVfSE54UWFVTl9CMnBCMFh4NUJ5VHYzRUVrVnBMRVM4djVhNnYyai01QTFPdnpXdWRCb1NCOFZsZWdtQi1JalBuTmNncVhic0hSUU9wWlVBT2U0a3Z2QWFrVzdva3JaekRqamhNNjNhTlJ3aHpZbG5K?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTmdQdElxWnhRaTR3LTRBSlNLQ0ZlUmRtRXQwdzlSNGlzd0NYbzBQckx1T2xUX3BZeXk5aWV4MnJ3bzEzdVlRZjZ3dG5ISDlKeWt4QVczMm5UN1lET2p5cElDQkRvMEhVeUxEakFLUUlpU1cxdGFuY0pTc0J5OTVxR05PTWFtcEtPY3Q4SnpEMmNLWVZRNnJydFZ3emFQQTdyTjQxVGg0dFI2eldsQUJBUnRaRThKamJGYWV2VTZRMVdlUl9XRnfSAcsBQVVfeXFMTzJGQTNEam9aREhELVU2eExNYXM1dFZGUXktSFZmNUJaT18wd0NfR0lPanFKMDlZLWRxUWlSWThVbHpORVhPamw3YTRnd3dVV1RES0lBMzFkMk5DbDhnM2R4N3Z2ZXg0am9ONmtiZDhwczdzdV9yUmQxX1g3bFBOYzhpbkNLbVFmVjBEcWZQaXlUdWJ1V29Zd0xwOWJ5Y2hiVlAzTkNiSUt6SHJIdXVMU1BTWUR1OUk0d0xwWnFmRWlZMnFoclcwQXVsSXM?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMFEyYUlKWWJUdzNQektiYVJ3RFlyU25HcWhrN3hfTnprenp1YTdseTVwdnlIY3RQZ0tETWU2UkZwVG9heWNDWUpHcVRneFo5QlZ0aklhb0RFUG9vUUpmc2NDZS1qRko3Tm8tNGZJOHVWUFFLSnNyTGMzUzZ1bkdfOVZpcERoSm43MXFaUXYwY1FaQXFyWjJWWHdaVVI?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:50:00Z",
-      "published_at_ist": "2026-10-09 23:20 IST",
-      "first_seen_utc": "2026-10-09T17:50:00Z",
-      "age_minutes": 33,
-      "trend_score": 7,
-      "rank_score": 0.8222,
-      "category": "tech",
-      "section": "technology",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.cnet.com/wp-content/uploads/sites/2/859c9110-e596-432b-8690-95e6102759c9.jpg"
-      ],
-      "video_urls": [
-        "https://cdn.ex.co/transformations-account/production/bf6379df-047b-4e0a-b804-89ce1cc89281/27f75b3a-84af-4e1e-bfe7-0dae59ec5b70/master.m3u8"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "04b6df96e9",
-      "key": "cave-hunt-mission-moon-nasa-newly-selected",
-      "headline": "Newly selected NASA mission will hunt for caves on the Moon",
-      "summary": "https://www.astronomy.com/science/newly-selected-nasa-mission-will-hunt-for-caves-on-the-moon/GIMLI will probe the Marius Hills Pit for a hidden lava tube that could shelter astronauts and reveal the Moon's volcanic past.",
-      "sources": [
-        "Astronomy.com",
-        "Space",
-        "ScienceDaily",
-        "Universe Today",
-        "Yahoo News New Zealand"
-      ],
-      "article_urls": [
-        "https://www.astronomy.com/science/newly-selected-nasa-mission-will-hunt-for-caves-on-the-moon/",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcXpXa2I2Yjd5aklKZElpVUJkaEU2TXpNTENrM2Z1My1VMnF4S1Rkd1NQZHFXQWw1Tmc3QVJ0am5iTUNnelNDVDdRN3dtZEJiY0tBVWY4Z0k1Q01Uck9XeHI4TWExd0Z2My1oQlhxanA0XzdBdzFnX3JTaUp3OFNQclVza25uZjhuN3BMMDNLd2doOFAwbkJiR0tR?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTlVGaHlJT21jWkpUNEE2MktMdmlHeHlnU1YzNXZSZnVfc2FUTlNGaTRHQldzQWdvWHlKRGVGbkxXUlJWeUxaTVh2czJFbGszMVFVUmVtTlBTNnppc3d0T1BSeDgwdFVQRFpidTdReWJ6ZDQ1eHlUN2MwUnBmQTdJQzRsRnNKZTJCcVVDbldMbUVObmVfQWln?oc=5",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBoeVRDajBydFJIY1FsdThidkFXdTJrNlBEcmMxZ0R4QU1OaFFTTDJyVE1PY1BLRVNTTF8yZEFIME9DV1ctY3VwMGhYcDVYblA5MGEzak5YSWdpTS1rMXZ4ZkhUUUNGYkZMUEs3QWZaMA?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEZwTGJ6Q0hCOVpmQndKdFVEVWtnbi0tdDJEcWUyTng4VldUMXlwdG1wNUkyMGZHUnd6OGNpa0JobjJzOVNXdUEwZ2hrWkhOV2tXd0hENmVkbHp6cWwzdTFiSTJKbGF0a1Q5ckUyeEpvdWJXdFd1elBVZUNrTHFEQXhId01qcDljTGt2d05mbjVjSVBiZWVnbFlOd2k1MURqdTJEaHRMYTJzeDhvbGNJT0ZxcFRidXlnLUNNUA?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSak5BVUh5RWlHU3RnTlJES2VocEpEX1B5NmRlVmZNT2dIZWZkWUNGRGcyYjdVcC1XTHA2WVdjYkM2TTBXRUtnRUQ3eWlPNmpJX3p1NUNnQzJfcTc1R3FfNXh5TjRrbFVnT3gyS2U4VG1kMVhpWi1qWm9R?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:51:07Z",
-      "published_at_ist": "2026-10-09 23:21 IST",
-      "first_seen_utc": "2026-10-09T17:51:07Z",
-      "age_minutes": 32,
-      "trend_score": 6,
-      "rank_score": 0.8098,
-      "category": "tech",
-      "section": "science",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.astronomy.com/wp-content/uploads/2026/10/PIA12954.jpg?resize=1200,630"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "02f608426e",
-      "key": "born-died-found-hubble-planet-space-star-telescope",
-      "headline": "Hubble Space Telescope may have found a planet born after its star died",
-      "summary": "https://www.sciencedaily.com/releases/2026/10/A strange chemical signature in old Hubble observations may point to a planet that formed after its star had already died. Astronomers found unusually high levels of niobium around the white dwarf HS 0209+0832, suggesting some of the starâs expelled material may have assembled into a new gas giant. TESS data also hints at a Jupiter-sized planet orbit",
-      "sources": [
-        "ScienceDaily",
-        "Smithsonian Magazine",
-        "NASA Science (.gov)",
-        "Nature",
-        "NDTV"
-      ],
-      "article_urls": [
-        "https://www.sciencedaily.com/releases/2026/10/261007042106.htm",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XNDhaVjhDY1pNRVVWVXN4SGJCU1hFb1BvVGE1blBXdlJMWkl5c28xckoxaV9mWTFmd0tPZG5tY0xrcDFnRjN1cFAzTXFvcTFXek85SFU0R2U2NzE1enpLQmp3alQ5US1WcEpVekpaYw?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdGNDWW53c3NVb1hCVWczWllrUldkSlhVcGs5Y2RuMi1pRE1ZM3hOa2FCb0V3cVNRVHpyOVlFb3N5dkpHTnJUN1l2UElSTzJldzlFOGJWMWEzT3J4cWNzVldiMFpzQkFVNjVEZVpwVmctX3NtOC1hMUk4UGFBZXpyc09UcmRldVJQZHBPUjN2OER4X3RheVlYbmh6QzFMYW12cUV6ODdFUkl3MVRyZVZQX3g4eVNpemNUMElzbk16bUFoSjZNckh1aURPbkpJZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWpkSW5nZU1VZHBQU25jV0IzUFpCS1A1UDd4MjJuY3p4WFdwOWxKV3lrZlE1SDRjRVFoZGdsVUlDV19CdXFscVNyc1p0OGdaMjdPano2OTU3cEFkdVZMWEs2MzMtU3R0QXE1V290eVZhSXBjSU00ZjRIVHRUbGd3YkhubWpyN2RBenlLWHV3Yi1KcEJxMGgtS1JwUUw4WTd4TWpLVXZXa0Y?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB0Tm1QNG5Zd3hUMWhMSXc5MWV3UDRZV1k4MGtwQTNvZVZNdDdrbFJKNlVzSHJPazlReXNHRWtId3hoUEN1ZFFraDd2cnVSaE1nVU1NSG9LLUxUcFdaVHJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFVHOVJFTjVjNTVKSjN5MUtaWE1TZ1dKWml4ME5RVXQtZFVocFdfTGtYQXRnYTI4ZlJ6VEhBYTFOMk9JZ0FnZHQ0ZlBXdGU3V2Q5VWR4SzlVYl8zQVhFc1d5S0dKdW5WXzRuM2JDcllXbnlGR0VtdjZ4ejRhNnAzLUJqSDBfbzNUZVVSR2huUEFYMW5uOXlib3BIVHc1U3JvY3cxaFVpeWkwenPSAbMBQVVfeXFMUHlranRyOENqcUZEdnpBUzRsOXUtMG55RHh1VHltbVZXUzVuRVZtVGg1US05ZkZWeFdsOUlBdFV2TWRQbE1zYldLN3NHNGF3NXJzX3VlUS1rU3lXbFZYOFVReGU2eU0zdTBIci0xYjhzWUNFeWFUNENFZUR2VTZ3OUluUUFVY2U0Qm1DV2c0UEZ5N2pRSnFCUWpMUlpTMXBoOUlleDhBZ21mei1jaENfVzVZU1E?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:32:45Z",
-      "published_at_ist": "2026-10-09 23:02 IST",
-      "first_seen_utc": "2026-10-09T17:32:45Z",
-      "age_minutes": 50,
-      "trend_score": 6,
-      "rank_score": 0.7881,
-      "category": "tech",
-      "section": "science",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.sciencedaily.com/images/1920/hs-02090832-system.webp"
-      ],
-      "video_urls": [
-        "https://youtu.be/_aaWHIYtSUk"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "ffd528aa12",
-      "key": "crossroad-does-green-holborn-pancra-polanski",
-      "headline": "Does Polanski have to go? Greens at the crossroads after Holborn and St Pancras",
-      "summary": "https://www.theguardian.com/politics/2026/oct/09/Pressure is building on the party leader after byelection defeat, a damaging row over Zionism and polls that show him less popular than Nigel Farage",
-      "sources": [
-        "The Guardian",
-        "BBC",
-        "Sky News",
-        "The Times"
-      ],
-      "article_urls": [
-        "https://www.theguardian.com/politics/2026/oct/09/zack-polanski-future-as-green-party-leader-holborn-st-pancras-byelection-defeat",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNclV1UjBlWWdUVGM2aGQ5VkNMU0FmN0cxdXdwVjZmUTdYZHhiNFRQVmZpYWx3N05FTm5OMGZEeDZwRF9saFlaMWtJSFZxTTltV2JoUUx4OEh0MGJvTmxBa181WUFoY2xXVndlbDVwU1Z1eV80X3Q0b3dUM196WkgxVlFUXzBHVnNKb2pkZVpNdVZ4ZkZPRDNUazY4U3RkQ0p3aEFNN3NmZlZWQ0E0VElqNl90QVQ4b0pSUFV4TzIwOHg4R3p5dWVJ?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMTVVIODZPWFItSmNlbGFXUWJQZ3hia3pwSE50dTNuaFRDQzdDUUs3NHcydWt2M2xscUJ4Tm1zNWhRcWZvWVNuazMwNU9CZi02NDk0dFZSQjNURHJEdEE?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkhhRHphdzh0WUVud2NZSWZHdjUySmo4RE1WU0tBeTR0QWt1bDZlM2ZSa2ZYZk5hTmVmdEhLNVZiYWVPYUpSWVQyOF9fOVByUDJUc1diSjZNbUFmdmdhNGpiNDZ2ZmFSVWtBX1J2bVY3bTBMaGQzaUE5RkVackRtLVRwTFUycnRQSG12ZElIY3BLcjF5U2Fr?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZWZkaDlGUkVCcXZSUF8tMy02c012M3ZfLW1OUE9NWHhSTkRoYl80bTRCYWtNQzR3RmdBbldndnhFbk5TU04zdmctcWo2X0pSUXgtSXYtcjNTVmdzR21MUjFiU2lVZ1ZVVjMxNnlMOWVMVmk1QUNPUnI3MUh1N1FWRnpldTVuOWdSYnAyQ3J1US1hUXQ2a2wwd0poM0EzOU56LTAtRTZXNUJKMi01djJ1UWhn?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:38:00Z",
-      "published_at_ist": "2026-10-09 23:08 IST",
-      "first_seen_utc": "2026-10-09T17:38:00Z",
-      "age_minutes": 45,
-      "trend_score": 5,
-      "rank_score": 0.7785,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://i.guim.co.uk/img/media/7aea2eba83a830d2641f37f3a2a4b154d9a3074c/595_61_3818_3054/master/3818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dbb8761b2738b0465be4d2906bea4f2",
-        "https://i.guim.co.uk/img/media/7aea2eba83a830d2641f37f3a2a4b154d9a3074c/595_61_3818_3054/master/3818.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=04d238301ac8b47a5b5cc63e445cb99d"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "072a09ac35",
-      "key": "avenger-doctor-does-doom-endgame-footage-reveal-stark-truth-warning-–",
-      "headline": "Stark warning – does new footage in Avengers: Endgame reveal the truth about Doctor Doom?",
-      "summary": "Warning: contains spoilersThe four short scenes added to the new version has made the film the highest-grossing of all time – but the only people really enjoying this are the Disney accountants",
-      "sources": [
-        "The Guardian",
-        "The Quinnipiac Chronicle",
-        "The Lancer Feed",
-        "The Movie Blog",
-        "AOL.com"
-      ],
-      "article_urls": [
-        "https://www.theguardian.com/film/2026/oct/09/stark-warning-does-new-footage-in-avengers-endgame-reveal-the-truth-about-doctor-doom",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGlrd2p4NEtmQWdmYWthQWJjTl9kb1ZzWWRBb09XRzVnbFMyUHhKZFItNEdKUnVxdThFdDY4VGVVNW83SXJINkRyU2NBd0dTUzhsRTdKTFRzWElmbUZueEwzeDhYTmpxLU1fOGczTW1JbnNsRG9mVFRWQ3BHaHVmU2FpZHRFanpaYWlxb0lYeHVnVWc2WjRaaTZ3WHZaYmdYMnFzOXQ1ZjZ3MVRkNzNkNXBNLXh4dGhRSEN4TDFPQ3oxU1EzeTJlREl3?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWnVaRHV6YmZtbTBlU0tYR3d3akJjWS0zcGJabFZGVl96eWZSYTN1V0ZxdXlnVnNUeTA0anJQbzhTWE5QU3AzSmtHTUFLbi1ZZ0ljYzB5YnBRckwtSjkyOS1MTkcxclFCd1dGRjJxUVR3SHQ5UndBVHNlZm1VY1BSWEVBdTVLN1hIdFRrS3ItazBwaEE5REQ4SERWZ3V6RzBuMGc?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVk9DVHM5bVg4WThic0VyVUVPUVhpSFltUk52UlVwUWt1Q1dBUFNXSzVEQ0ZTZHRZbHdXQmFmcXBpYVdIOWswel84RmlZdU1od0l3cnc4N1VFSW03VHV2SXNsWE9JN3V5QW5vV2hlemdkNmZOQUxpbjJpUVFxeE96Nm5paS02TDNoSjY3eVVtZmtzaUtQamFteFB4T2RIZjVKdG1PVXZjTjd4M3NydFp0N0lsNA?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVB1V2hoaWpPVzQwRWctUWtVOGR4ck92QUwteEFBVUJiOXQ1OVRYZDlmcmNBM0FVOTdnTXNlR1VCYlc1M0dYTk55RDE2UzBRRUdPbkJGNmM0SmFiR0RzdDhtMDQ5cXhyeWZwb1dkM29mN0hFcWNPQ21hTEx5bVdMelZYeHcyX2RhZXN0ZVNLbG8wTjg5?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd0RHR2paNlM3UEJUeUY4WjNsSGo2Mkc4RkhnaFR0eTZhWHh2aXYzM3Vna1lTZ3ZaaXk5N2Vrc0RPczVoN3EweUFXb2h4WDhLMFNPWWZ4aWdNZHdwa2hadmh6TW9XYVdZUC1Sb1VJcFFqOGZHX3V5WjROSzk3YUYzdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-09T17:10:00Z",
-      "published_at_ist": "2026-10-09 22:40 IST",
-      "first_seen_utc": "2026-10-09T17:10:00Z",
-      "age_minutes": 73,
-      "trend_score": 7,
-      "rank_score": 0.7741,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "other_headlines": [],
-      "image_urls": [
-        "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1023_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=fc917c1ed7aaa74abf7fe8246bea6b43",
-        "https://i.guim.co.uk/img/media/67874a5873faee28fb5e16172791f27ad40b9c71/1023_0_3099_2480/master/3099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&s=9bccd4a098ae29576125a3f5d45d2a46"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
+      "youtube_videos": [
+        {
+          "title": "Trump Accounts Turn Dreams Into Possibilities",
+          "channel": "The White House",
+          "url": "https://www.youtube.com/watch?v=7YPNA4ZHa1o",
+          "published_at_ist": "2026-10-09 18:54 IST",
+          "thumbnail": "https://i4.ytimg.com/vi/7YPNA4ZHa1o/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
     }
   ]
 }
