@@ -1,0 +1,52 @@
+name: Collect news candidates
+
+on:
+  workflow_dispatch:
+  schedule:
+    # ~25 min before each posting slot (slots: 05:00, 09:00, 15:00, 19:00, 00:00 IST)
+    - cron: "5 23 * * *"   # 04:35 IST  -> for the 05:00 IST slot
+    - cron: "5 3 * * *"    # 08:35 IST  -> for the 09:00 IST slot
+    - cron: "5 9 * * *"    # 14:35 IST  -> for the 15:00 IST slot
+    - cron: "5 13 * * *"   # 18:35 IST  -> for the 19:00 IST slot
+    - cron: "5 18 * * *"   # 23:35 IST  -> for the 00:00 IST slot
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect news
+        run: python collector.py
+
+      - name: Commit data files
+        run: |
+          git config user.name "x-news-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/candidates.json data/candidates.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Update news candidates $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs origin main && git push origin HEAD:main && exit 0
+            echo "Push failed, retrying ($i)..."; sleep 5
+          done
+          exit 1
