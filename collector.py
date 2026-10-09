@@ -6,6 +6,7 @@ and writes data/candidates.json + data/candidates.md.
 Free sources only, no API keys:
   * Google News RSS (top stories + topic feeds + priority search queries)
   * Google Trends daily-trends RSS
+  * YouTube channel RSS feeds (big interview/podcast + official channels)
 
 Dependencies: feedparser, requests, beautifulsoup4 (plus stdlib).
 """
@@ -32,6 +33,7 @@ from bs4 import BeautifulSoup
 # Settings
 # --------------------------------------------------------------------------
 MAX_AGE_HOURS = 9
+YT_MAX_AGE_HOURS = 24       # YouTube uploads are kept a bit longer (podcast clips trend slower)
 TOP_N = 40                  # enough for ~20 posts/day across 7 slots
 FEED_TIMEOUT = 12           # seconds per RSS fetch
 PAGE_TIMEOUT = 8            # seconds per article/page fetch
@@ -69,6 +71,8 @@ NON_EN_PENALTY = 0.6
 # Priority topics: label -> search queries (each with the editions to search in),
 # keywords used to tag stories from other feeds, and the output category.
 # The label is what shows up in each item's `priority_queries`.
+FAMOUS_LABEL = "Famous people clips"
+
 PRIORITY_TOPICS = {
     "Elon Musk": dict(
         queries=[("Elon Musk", ["US", "IN"])],
@@ -94,8 +98,9 @@ PRIORITY_TOPICS = {
                   "messi", "ronaldo", "la liga", "uefa"], category="sports"),
     # --- new topics ---
     "Celebrities & music": dict(
-        queries=[("Taylor Swift OR Drake OR BTS OR Bad Bunny OR The Weeknd OR Beyonce "
-                  "OR Arijit Singh OR Diljit Dosanjh", ["US", "IN"]),
+        # multi-word names are quoted (unquoted, Google News returned 0 results)
+        queries=[('"Taylor Swift" OR Drake OR BTS OR "Bad Bunny" OR "The Weeknd" OR Beyonce '
+                  'OR "Arijit Singh" OR "Diljit Dosanjh"', ["US", "IN"]),
                  ("album release OR world tour OR concert", ["US", "IN"]),
                  ("Bollywood", ["IN"]),
                  ("Hollywood trailer", ["US"]),
@@ -133,6 +138,27 @@ PRIORITY_TOPICS = {
         keywords=["bitcoin", "ethereum", "crypto", "cryptocurrency", "solana", "xrp", "btc",
                   "dogecoin", "stablecoin", "binance", "coinbase", "memecoin"],
         category="crypto"),
+    # Video clips of famous people: interviews, podcasts, speeches, keynotes, ceremonies.
+    # Keywords stay empty: stories are tagged by is_famous_clip() (famous name + clip word).
+    FAMOUS_LABEL: dict(
+        queries=[
+            ('podcast OR interview ("Elon Musk" OR "Jensen Huang" OR "Sam Altman" OR '
+             '"Mark Zuckerberg" OR "Jeff Bezos" OR "Bill Gates")', ["US", "IN"]),
+            ('says interview ("Elon Musk" OR "Sam Altman" OR "Jensen Huang" OR '
+             '"Warren Buffett" OR "Sundar Pichai" OR "Satya Nadella" OR "Mark Cuban")', ["US"]),
+            ('podcast ("Cristiano Ronaldo" OR "Lionel Messi" OR "Virat Kohli" OR "LeBron James" '
+             'OR "Eileen Gu")', ["US", "IN", "GB"]),
+            ('podcast OR interview ("Taylor Swift" OR "Shah Rukh Khan" OR "Priyanka Chopra" OR '
+             '"Kim Kardashian" OR "Dwayne Johnson")', ["US", "IN"]),
+            ('keynote ("Jensen Huang" OR "Tim Cook" OR "Sundar Pichai" OR "Satya Nadella" OR '
+             '"Elon Musk" OR "Sam Altman" OR "Lisa Su")', ["US"]),
+            ('speech ("Elon Musk" OR "Bill Gates" OR "Warren Buffett" OR "Virat Kohli" OR '
+             '"Shah Rukh Khan" OR "Barack Obama")', ["US", "IN"]),
+            ('awarded OR ceremony ("Elon Musk" OR "Jensen Huang" OR "Lisa Su" OR "Sergey Brin" '
+             'OR "Bill Gates" OR "Sam Altman")', ["US"]),
+            ('"Joe Rogan" OR "Lex Fridman" OR "Diary of a CEO" OR "On Purpose" podcast', ["US", "GB"]),
+        ],
+        keywords=[], category="famous_clip"),
 }
 # Backwards-compatible view: label -> keywords
 PRIORITY_QUERIES = {k: v["keywords"] for k, v in PRIORITY_TOPICS.items()}
@@ -141,9 +167,118 @@ PRIORITY_QUERIES = {k: v["keywords"] for k, v in PRIORITY_TOPICS.items()}
 MAX_PER_QUERY = 3          # per priority topic (each topic gets its own cap)
 MAX_PER_CATEGORY = 8       # per output category
 MIN_PER_TOPIC = 2          # reserve up to this many of each priority topic's best stories
+TOPIC_CAPS = {FAMOUS_LABEL: 4}      # per-topic overrides of MAX_PER_QUERY
+CATEGORY_CAPS = {"famous_clip": 4}  # per-category overrides of MAX_PER_CATEGORY (never relaxed)
+CATEGORY_MIN = {"famous_clip": 2}   # reserve at least this many when available
+MIN_YOUTUBE = 2            # reserve up to this many YouTube uploads ...
+MAX_YOUTUBE = 6            # ... and cap them
+FAMOUS_BOOST = 0.03        # rank bonus when a big name is in the headline
+VIDEO_FAMOUS_BOOST = 0.12  # extra bonus when the story also has a video
+POLITICIAN_WEIGHT = 0.3    # boosts are scaled down when the only names are politicians
 
 # Output categories (the `category` field of each item)
-CATEGORIES = ["ai", "celebrity_music", "finance", "crypto", "sports", "tech", "world", "other"]
+CATEGORIES = ["famous_clip", "ai", "celebrity_music", "finance", "crypto", "sports", "tech",
+              "world", "other"]
+
+# --------------------------------------------------------------------------
+# Famous people (for `famous_names`, the famous_clip category and the video boost).
+# canonical name -> regex (matched on the lower-cased headline). Politicians count as
+# famous names but with a smaller ranking boost, and alone they only make a famous_clip with an
+# event word (ceremony, speech, ...), so ordinary politics doesn't flood the category.
+# --------------------------------------------------------------------------
+FAMOUS = {
+    # tech / business
+    "Elon Musk": r"elon musk|musk", "Jensen Huang": r"jensen huang|jensen",
+    "Sam Altman": r"sam altman|altman", "Mark Zuckerberg": r"mark zuckerberg|zuckerberg",
+    "Jeff Bezos": r"jeff bezos|bezos", "Bill Gates": r"bill gates",
+    "Sundar Pichai": r"sundar pichai|pichai", "Satya Nadella": r"satya nadella|nadella",
+    "Tim Cook": r"tim cook", "Sergey Brin": r"sergey brin", "Larry Page": r"larry page",
+    "Lisa Su": r"lisa su", "Larry Ellison": r"larry ellison", "Warren Buffett": r"warren buffett|buffett",
+    "Jack Ma": r"jack ma", "Mukesh Ambani": r"mukesh ambani|ambani", "Gautam Adani": r"gautam adani",
+    "Ratan Tata": r"ratan tata", "Dario Amodei": r"dario amodei|amodei",
+    "Demis Hassabis": r"demis hassabis|hassabis", "Marc Andreessen": r"marc andreessen",
+    "Peter Thiel": r"peter thiel", "Michael Saylor": r"michael saylor|saylor",
+    "Vitalik Buterin": r"vitalik buterin|vitalik", "Changpeng Zhao": r"changpeng zhao",
+    "Jamie Dimon": r"jamie dimon", "Mark Cuban": r"mark cuban", "MrBeast": r"mrbeast|mr\.? beast",
+    "Steve Jobs": r"steve jobs", "Nikhil Kamath": r"nikhil kamath", "Naval Ravikant": r"naval ravikant",
+    "Masayoshi Son": r"masayoshi son", "Ilya Sutskever": r"ilya sutskever|sutskever",
+    "Andrej Karpathy": r"karpathy", "Mustafa Suleyman": r"mustafa suleyman",
+    "Daniel Ek": r"daniel ek", "David Sacks": r"david sacks", "Andrew Ng": r"andrew ng",
+    "Melinda French Gates": r"melinda (?:french )?gates", "Reed Hastings": r"reed hastings",
+    # athletes
+    "Cristiano Ronaldo": r"cristiano ronaldo|ronaldo", "Lionel Messi": r"lionel messi|messi",
+    "Virat Kohli": r"virat kohli|kohli", "MS Dhoni": r"ms dhoni|dhoni",
+    "Rohit Sharma": r"rohit sharma", "Sachin Tendulkar": r"sachin tendulkar|tendulkar",
+    "LeBron James": r"lebron", "Stephen Curry": r"stephen curry|steph curry",
+    "Michael Jordan": r"michael jordan", "Eileen Gu": r"eileen gu",
+    "Lewis Hamilton": r"lewis hamilton", "Max Verstappen": r"verstappen",
+    "Lando Norris": r"lando norris", "Serena Williams": r"serena williams",
+    "Novak Djokovic": r"djokovic", "Roger Federer": r"federer", "Rafael Nadal": r"rafael nadal|nadal",
+    "Carlos Alcaraz": r"alcaraz", "Usain Bolt": r"usain bolt", "Neymar": r"neymar",
+    "Kylian Mbappe": r"mbapp[eé]", "Erling Haaland": r"haaland", "Conor McGregor": r"mcgregor",
+    "Tiger Woods": r"tiger woods", "Simone Biles": r"simone biles", "Neeraj Chopra": r"neeraj chopra",
+    "Tom Brady": r"tom brady", "Shohei Ohtani": r"ohtani", "David Beckham": r"beckham",
+    "Kevin Durant": r"kevin durant", "Dwyane Wade": r"dwyane wade", "Yao Ming": r"yao ming",
+    "Jackie Chan": r"jackie chan",
+    # entertainment / creators
+    "Taylor Swift": r"taylor swift", "Shah Rukh Khan": r"shah rukh khan|shahrukh khan|srk",
+    "Salman Khan": r"salman khan", "Amitabh Bachchan": r"amitabh bachchan",
+    "Priyanka Chopra": r"priyanka chopra", "Deepika Padukone": r"deepika padukone",
+    "Ranveer Singh": r"ranveer singh", "Alia Bhatt": r"alia bhatt", "Kim Kardashian": r"kim kardashian",
+    "Kanye West": r"kanye west|kanye", "Drake": r"drake(?! maye)", "Beyonce": r"beyonc[eé]",
+    "Rihanna": r"rihanna", "Selena Gomez": r"selena gomez", "Justin Bieber": r"justin bieber|bieber",
+    "Oprah Winfrey": r"oprah", "Will Smith": r"will smith", "Dwayne Johnson": r"dwayne johnson",
+    "Leonardo DiCaprio": r"dicaprio", "Tom Cruise": r"tom cruise", "Keanu Reeves": r"keanu reeves",
+    "Zendaya": r"zendaya", "Harry Styles": r"harry styles", "Ariana Grande": r"ariana grande",
+    "Lady Gaga": r"lady gaga", "Billie Eilish": r"billie eilish", "Sabrina Carpenter": r"sabrina carpenter",
+    "Travis Kelce": r"travis kelce", "Jake Paul": r"jake paul", "Bad Bunny": r"bad bunny", "Ed Sheeran": r"ed sheeran",
+    "Joe Rogan": r"joe rogan|rogan", "Jay Shetty": r"jay shetty", "Steven Bartlett": r"steven bartlett",
+    "Lex Fridman": r"lex fridman", "Andrew Huberman": r"huberman",
+    # world leaders (smaller boost, see POLITICIANS)
+    "Donald Trump": r"donald trump|trump", "Narendra Modi": r"narendra modi|modi",
+    "Barack Obama": r"barack obama|obama", "Xi Jinping": r"xi jinping", "Vladimir Putin": r"putin",
+}
+POLITICIANS = {"Donald Trump", "Narendra Modi", "Barack Obama", "Xi Jinping", "Vladimir Putin"}
+FAMOUS_RE = {n: re.compile(r"(?<![\w])(?:" + rx + r")(?![\w])", re.I) for n, rx in FAMOUS.items()}
+# YouTube titles often carry the guest only as a hashtag (#eileengu, #elonmusk)
+FAMOUS_TAG = {n: "#" + re.sub(r"[^a-z0-9]", "", n.lower()) for n in FAMOUS}
+# words that suggest a clip of the person speaking / an event moment
+CLIP_RE = re.compile(
+    r"\b(interview\w*|podcasts?|keynote|speech|ceremony|awarded|awards?|medal|honou?red|"
+    r"commencement|fireside|on stage|opens? up|reveals?|advice|lessons?|conversation|episode|"
+    r"documentary|address(?:es|ed)?|talks? about|explains?|tells|in conversation|"
+    r"diary of a ceo|on purpose|60 minutes|ted talk|"
+    r"clip|full video|watch)\b", re.I)
+# event-style words that make even a politician-only headline a famous_clip
+EVENT_RE = re.compile(r"\b(ceremony|awarded|medal|honou?red|presents?|presented|commencement|keynote)\b", re.I)
+
+
+def famous_names(text: str) -> list[str]:
+    """Recognised big names in a headline (canonical spelling, in order of appearance)."""
+    hits = []
+    text = text or ""
+    low = text.lower()
+    for name, rx in FAMOUS_RE.items():
+        m = rx.search(text)
+        if m:
+            hits.append((m.start(), name))
+        elif "#" in low:
+            tag = FAMOUS_TAG[name]
+            pos = low.find(tag)
+            if pos >= 0 and not low[pos + len(tag):pos + len(tag) + 1].isalnum():
+                hits.append((pos, name))
+    return [n for _, n in sorted(hits)]
+
+
+def is_famous_clip(title: str, from_youtube: bool = False, names: list | None = None) -> bool:
+    names = famous_names(title) if names is None else names
+    if not names:
+        return False
+    stars = [n for n in names if n not in POLITICIANS]
+    if stars:
+        return from_youtube or bool(CLIP_RE.search(title))
+    return bool(EVENT_RE.search(title)) and (from_youtube or bool(CLIP_RE.search(title)))
+
 
 # Keyword patterns (regex, matched on lower-cased headlines) for the output category.
 CATEGORY_PATTERNS = {
@@ -176,6 +311,47 @@ SECTION_CATEGORY = {"WORLD": "world", "BUSINESS": "finance", "TECHNOLOGY": "tech
                     "ENTERTAINMENT": "celebrity_music", "SPORTS": "sports", "SCIENCE": "tech"}
 
 TRENDS_GEOS = ["US", "IN", "GB", "JP"]
+
+# YouTube channel RSS feeds (free, no key): https://www.youtube.com/feeds/videos.xml?channel_id=...
+# All IDs verified against the feed's channel title. kind: podcast = interview/podcast shows
+# (the guest is usually in the video title, so a famous name alone makes a famous_clip),
+# news = TV/interview channels and official = company / league / org channels (these need
+# a clip word like interview/keynote/speech/ceremony in the title to count as famous_clip).
+# The host's own name (e.g. Joe Rogan on PowerfulJRE) is not counted as a famous name.
+# These are for the assistant to find the moment or the official clip; reuse is its call.
+# name -> (channel_id, kind, Google News-style section hint or None)
+YOUTUBE_CHANNELS = {
+    "Lex Fridman": ("UCSHZKyawb77ixDdsGog4iWA", "podcast", None),
+    "The Diary Of A CEO": ("UCGq-a57w-aPwyi3pW7XLiHw", "podcast", None),
+    "PowerfulJRE": ("UCzQUP1qoWDoEbmsQxvdjxgQ", "podcast", None),
+    "JRE Clips": ("UCnxGkOGNMqQEUMvroOWps6Q", "podcast", None),
+    "Jay Shetty Podcast": ("UCbk_QsfaFZG6PdQeCvaYXJQ", "podcast", None),
+    "All-In Podcast": ("UCESLZhusAkFfsNsApnjF_Cg", "podcast", None),
+    "Dwarkesh Patel": ("UCXl4i9dYBrFOabk0xGmbkRA", "podcast", None),
+    "Y Combinator": ("UCcefcZRL2oaA_uBNeo5UOWg", "podcast", "TECHNOLOGY"),
+    "Stanford GSB": ("UCGwuxdEeCf0TIA2RbPOj-8g", "podcast", None),
+    "TED": ("UCAuUUnT6oDeKwE6v1NGQxug", "podcast", None),
+    "60 Minutes": ("UCsN32BtMd0IoByjJRNF12cw", "news", None),
+    "Bloomberg Originals": ("UCUMZ7gohGI9HcU9VNsr2FJQ", "news", "BUSINESS"),
+    "Bloomberg Television": ("UCIALMKvObZNtJ6AmdCLP7Lg", "news", "BUSINESS"),
+    "CNBC Television": ("UCrp_UI8XtuYfpiqluWLD7Lw", "news", "BUSINESS"),
+    "OpenAI": ("UCXZCJLdBC09xxGZ6gcdrc6A", "official", "TECHNOLOGY"),
+    "Google": ("UCK8sQmJBp8GCxrOtXWBpyEA", "official", "TECHNOLOGY"),
+    "NVIDIA": ("UCHuiy8bXnmK5nisYHUd1J5g", "official", "TECHNOLOGY"),
+    "Microsoft": ("UCFtEEv80fQVKkD4h1PF-Xqw", "official", "TECHNOLOGY"),
+    "Apple": ("UCE_M8A5yxnLfW0KghEeajjw", "official", "TECHNOLOGY"),
+    "Tesla": ("UC5WjFrtBdufl6CZojX3D8dQ", "official", "TECHNOLOGY"),
+    "SpaceX": ("UCtI0Hodo5o5dUb67FeUjDeA", "official", "TECHNOLOGY"),
+    "The White House": ("UCYxRlFDqcWM4y7FfpiAN3KQ", "official", "WORLD"),
+    "Formula 1": ("UCB_qr75-ydFVKSF9Dmo6izg", "official", "SPORTS"),
+    "ICC": ("UCt2JXOLNxqry7B_4rRZME3Q", "official", "SPORTS"),
+    "Royal Challengers Bengaluru": ("UCCq1xDJMBRF61kiOgU90_kw", "official", "SPORTS"),
+    "NBA": ("UCWJ2lWNubArHWmf3FIHbfcQ", "official", "SPORTS"),
+    "Olympic Games": ("UCTl3QQTvqHFjurroKxexy2Q", "official", "SPORTS"),
+    "Real Madrid": ("UCWV3obpZVGgJ3j9FVhEjF2Q", "official", "SPORTS"),
+    "FC Barcelona": ("UC14UlmYlSNiQCBe9Eookf_A", "official", "SPORTS"),
+    "UR Cristiano": ("UCtxD0x6AuNNqdXO9Wp5GHew", "official", "SPORTS"),
+}
 
 STOPWORDS = set("""
 a an the and or but of to in on at for from by with as is are was were be been being
@@ -246,6 +422,14 @@ def tokens(text: str) -> set[str]:
 def headline_key(text: str) -> str:
     t = sorted(tokens(text))
     return "-".join(t[:12])
+
+
+def strict_similar(a: set, b: set) -> bool:
+    """Tighter test used when a YouTube upload is involved (titles are short / generic)."""
+    if not a or not b:
+        return False
+    inter = len(a & b)
+    return inter >= 3 and inter / min(len(a), len(b)) >= 0.6 and inter / len(a | b) >= 0.3
 
 
 def similar(a: set, b: set) -> bool:
@@ -393,6 +577,53 @@ def collect_trends() -> list[dict]:
     return out
 
 
+YOUTUBE_HOSTS = {"Lex Fridman": "Lex Fridman", "The Diary Of A CEO": "Steven Bartlett",
+                 "PowerfulJRE": "Joe Rogan", "JRE Clips": "Joe Rogan",
+                 "Jay Shetty Podcast": "Jay Shetty"}
+
+
+def collect_youtube() -> tuple[list[dict], dict]:
+    """Latest uploads of the YOUTUBE_CHANNELS (RSS, ~15 newest per channel)."""
+    items, stats = [], {"yt_feeds_ok": 0, "yt_feeds_failed": 0}
+
+    def work(name):
+        cid, kind, section = YOUTUBE_CHANNELS[name]
+        raw = fetch(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
+        if raw is None:
+            return name, None
+        try:
+            return name, feedparser.parse(raw)
+        except Exception:  # noqa: BLE001
+            return name, None
+
+    with ThreadPoolExecutor(WORKERS) as ex:
+        for name, parsed in ex.map(work, list(YOUTUBE_CHANNELS)):
+            if not parsed or not parsed.entries:
+                stats["yt_feeds_failed"] += 1
+                continue
+            stats["yt_feeds_ok"] += 1
+            cid, kind, section = YOUTUBE_CHANNELS[name]
+            for e in parsed.entries:
+                title = html.unescape(e.get("title", "")).strip()
+                vid = e.get("yt_videoid") or ""
+                url = f"https://www.youtube.com/watch?v={vid}" if vid else e.get("link")
+                if not title or not url:
+                    continue
+                thumbs = [t.get("url") for t in (e.get("media_thumbnail") or []) if t.get("url")]
+                if not thumbs and vid:
+                    thumbs = [f"https://i.ytimg.com/vi/{vid}/hqdefault.jpg"]
+                desc = html.unescape(e.get("summary", "") or "").strip()
+                items.append(dict(
+                    title=title, source=f"YouTube: {name}", url=url, published=entry_time(e),
+                    feed=f"YT {name}", edition="YT", category=section, lang="en", query=None,
+                    related=[], source_type="youtube", yt_channel=name, yt_kind=kind,
+                    video_url=url, thumb=thumbs[0] if thumbs else None,
+                    is_short=bool(re.search(r"#shorts?\b", title, re.I)),
+                    description=re.sub(r"\s+", " ", desc)[:400],
+                ))
+    return items, stats
+
+
 # --------------------------------------------------------------------------
 # Clustering + scoring
 # --------------------------------------------------------------------------
@@ -417,17 +648,20 @@ def cluster(items: list[dict]) -> list[dict]:
             if u in url_owner:
                 target = url_owner[u]
                 break
+        is_yt = it.get("source_type") == "youtube"
         if target is None:
             for n, c in enumerate(clusters):
                 if c["lang"] != it["lang"]:
                     continue
-                if any(similar(tk, m) for m in c["token_sets"]):
+                test = strict_similar if (is_yt or not c["has_news"]) else similar
+                if any(test(tk, m) for m in c["token_sets"]):
                     target = n
                     break
         if target is None:
-            clusters.append(dict(items=[], token_sets=[], lang=it["lang"], urls=set()))
+            clusters.append(dict(items=[], token_sets=[], lang=it["lang"], urls=set(), has_news=False))
             target = len(clusters) - 1
         c = clusters[target]
+        c["has_news"] = c["has_news"] or not is_yt
         c["items"].append(it)
         c["urls"] |= urls
         for u in urls:
@@ -471,7 +705,7 @@ def pick_headline(its: list[dict]) -> dict:
     for i in its:
         for t in i["tokens"]:
             freq[t] = freq.get(t, 0) + 1
-    bad = re.compile(r"\b(live|commentary|newsletter|highlights|preview|morning|evening|briefing|podcast)\b|\band, and\b", re.I)
+    bad = re.compile(r"\b(live|commentary|newsletter|highlights|preview|morning|evening|briefing)\b|\band, and\b", re.I)
     best, best_s = its[0], -1.0
     for rank, i in enumerate(its[:30]):
         if not i["tokens"]:
@@ -489,7 +723,7 @@ def pick_headline(its: list[dict]) -> dict:
     return best
 
 
-def priority_match(text_tokens: set, title: str) -> list[str]:
+def priority_match(text_tokens: set, title: str, from_youtube: bool = False) -> list[str]:
     low = title.lower()
     hits = []
     for q, kws in PRIORITY_QUERIES.items():
@@ -497,6 +731,8 @@ def priority_match(text_tokens: set, title: str) -> list[str]:
             if k in text_tokens or re.search(r"(?<!\w)" + re.escape(k) + r"(?!\w)", low):
                 hits.append(q)
                 break
+    if FAMOUS_LABEL not in hits and is_famous_clip(title, from_youtube):
+        hits.append(FAMOUS_LABEL)
     return hits
 
 
@@ -506,12 +742,12 @@ def cluster_topics(its: list[dict], lead: dict) -> set:
     (loose clusters would otherwise collect every topic)."""
     counts: dict[str, int] = {}
     for i in its:
-        labels = set(priority_match(i["tokens"], i["title"]))
+        labels = set(priority_match(i["tokens"], i["title"], i.get("yt_kind") == "podcast"))
         if i["query"]:
             labels.add(i["query"])
         for l in labels:
             counts[l] = counts.get(l, 0) + 1
-    lead_labels = set(priority_match(lead["tokens"], lead["title"]))
+    lead_labels = set(priority_match(lead["tokens"], lead["title"], lead.get("yt_kind") == "podcast"))
     need = max(2, math.ceil(0.4 * len(its)))
     if len(its) == 1:
         need = 1
@@ -527,8 +763,16 @@ def guess_section(c_items: list[dict]) -> str | None:
     return max(votes, key=votes.get) if votes else None
 
 
-def guess_category(c_items: list[dict], lead_title: str, queries=(), section=None) -> str:
-    """Output category: ai, celebrity_music, finance, crypto, sports, tech, world, other."""
+def guess_category(c_items: list[dict], lead_title: str, queries=(), section=None,
+                   names=(), from_youtube=False) -> str:
+    """Output category: famous_clip, ai, celebrity_music, finance, crypto, sports, tech, world, other."""
+    # Famous person speaking / big moment: clip-style headline, or a YouTube upload
+    # from an interview/podcast channel naming the star.
+    if names and is_famous_clip(lead_title, from_youtube, list(names)):
+        return "famous_clip"
+    if names and FAMOUS_LABEL in queries and any(n not in POLITICIANS for n in names) and \
+            re.search(r"\b(says?|said|tells?|on)\b", lead_title, re.I):
+        return "famous_clip"
     text = " ".join([lead_title] + [i["title"] for i in c_items[:6] if i["lang"] == "en"]).lower()
     lead = lead_title.lower()
     hits = {k: len(rx.findall(text)) for k, rx in CATEGORY_RE.items()}
@@ -605,11 +849,32 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
         if queries:
             trend_score += 3
 
+        yt_items = [i for i in its if i.get("source_type") == "youtube"]
+        news_items = [i for i in its if i.get("source_type") != "youtube"]
+        from_youtube = bool(yt_items)
+        # interview/podcast uploads are clip evidence by themselves; official-channel
+        # uploads (F1, NBA, Tesla ...) still need a clip word in the headline
+        from_podcast = any(y["yt_kind"] == "podcast" for y in yt_items)
+        source_type = "youtube" if not news_items else ("news+youtube" if yt_items else "news")
+        names = famous_names(lead["title"])
+        # names in a YouTube title when a news headline leads (same story, video attached)
+        for y in yt_items[:2]:
+            names += [n for n in famous_names(y["title"]) if n not in names]
+        hosts = {YOUTUBE_HOSTS.get(y["yt_channel"]) for y in yt_items}
+        if not news_items:  # the podcast host is always in the title; not a reason by itself
+            names = [n for n in names if n not in hosts]
+
         age_min = int((now - newest).total_seconds() // 60)
-        recency = max(0.0, 1 - age_min / (MAX_AGE_HOURS * 60))
+        window = YT_MAX_AGE_HOURS if source_type == "youtube" else MAX_AGE_HOURS
+        recency = max(0.0, 1 - age_min / (window * 60))
         rank = 0.65 * recency + 0.35 * min(1.0, math.log1p(trend_score) / math.log1p(30))
         if c["lang"] != "en":
             rank *= NON_EN_PENALTY
+        if names:
+            weight = 1.0 if any(n not in POLITICIANS for n in names) else POLITICIAN_WEIGHT
+            rank += FAMOUS_BOOST * weight
+            if from_youtube:  # video already known -> full video+famous boost now
+                rank += VIDEO_FAMOUS_BOOST * weight
 
         # skip ticker-style / too-short headlines ("$Bitcoin (BTC.CC)$", "Gold gains 1.2%")
         if c["lang"] == "en" and len(re.findall(r"[A-Za-z]{2,}", lead["title"])) < 4:
@@ -620,11 +885,18 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             continue
 
         direct_urls = [d["url"] for d in direct if d.get("url")]
+        yt_videos = [dict(title=y["title"], channel=y["yt_channel"], url=y["video_url"],
+                          published_at_ist=ist(y["published"]), thumbnail=y.get("thumb"),
+                          is_short=y["is_short"])
+                     for y in yt_items[:4]]
+        section = guess_section(news_items or its)
+        summary = next((y["description"] for y in yt_items if y.get("description")), "") \
+            if source_type == "youtube" else ""
         out.append(dict(
             id=hashlib.sha1(key.encode()).hexdigest()[:10],
             key=key,
             headline=lead["title"],
-            summary="",
+            summary=summary,
             sources=sources[:10],
             article_urls=list(dict.fromkeys(direct_urls[:3] + urls))[:8],
             published_at_utc=iso(newest),
@@ -633,17 +905,24 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             age_minutes=age_min,
             trend_score=trend_score,
             rank_score=round(rank, 4),
-            category=guess_category(its, lead["title"], queries, guess_section(its)),
-            section=(guess_section(its) or "TOP").lower(),
+            category=guess_category(its, lead["title"], queries, section, names, from_podcast),
+            section=(section or "TOP").lower(),
+            source_type=source_type,
+            famous_names=names,
             region=sorted(editions),
             language=c["lang"],
             priority_queries=sorted(queries),
             google_trends=trend_hits[:5],
             other_headlines=[t for t in dict.fromkeys(i["title"] for i in its) if t != lead["title"]][:4],
-            image_urls=[d["picture"] for d in direct if d.get("picture")][:2],
-            video_urls=[],
-            has_video=False,
-            _gn_urls=list(dict.fromkeys([lead["url"]] + [i["url"] for i in its if i["url"]]))[:MAX_URLS_PER_CLUSTER + 2],
+            image_urls=([y["thumbnail"] for y in yt_videos if y["thumbnail"]][:1] +
+                        [d["picture"] for d in direct if d.get("picture")])[:3],
+            video_urls=[y["url"] for y in yt_videos],
+            has_video=bool(yt_videos),
+            youtube_videos=yt_videos,
+            _boosted=from_youtube,
+            _gn_urls=list(dict.fromkeys(
+                ([lead["url"]] if lead.get("source_type") != "youtube" else []) +
+                [i["url"] for i in news_items if i["url"]]))[:MAX_URLS_PER_CLUSTER + 2],
             _direct_urls=direct_urls[:2],
         ))
     out.sort(key=lambda x: x["rank_score"], reverse=True)
@@ -795,8 +1074,12 @@ def enrich_cluster(c: dict) -> dict:
     # resolved publisher URLs go first, then any remaining (Google News) links
     c["article_urls"] = list(dict.fromkeys(resolved + c["article_urls"]))[:8]
     # og images first (bigger), trends thumbnails last
-    c["image_urls"].sort(key=lambda u: "gstatic.com" in u)
+    c["image_urls"].sort(key=lambda u: ("gstatic.com" in u, "ytimg.com" in u))
     c["has_video"] = bool(c["video_urls"])
+    # video + famous name boost for news stories (YouTube ones got it before selection)
+    if c["has_video"] and c["famous_names"] and not c.get("_boosted"):
+        weight = 1.0 if any(n not in POLITICIANS for n in c["famous_names"]) else POLITICIAN_WEIGHT
+        c["rank_score"] = round(c["rank_score"] + VIDEO_FAMOUS_BOOST * weight, 4)
     return c
 
 
@@ -818,11 +1101,14 @@ def write_outputs(items: list[dict], meta: dict) -> None:
         "",
         f"Generated: **{meta['generated_at_ist']}** ({meta['generated_at_utc']})  ",
         f"Window: last {MAX_AGE_HOURS} h · {len(items)} stories · "
-        f"{sum(1 for i in items if i['has_video'])} with video  ",
+        f"{sum(1 for i in items if i['has_video'])} with video · "
+        f"{sum(1 for i in items if i['category'] == 'famous_clip')} famous_clip · "
+        f"{sum(1 for i in items if i['source_type'] != 'news')} from YouTube "
+        f"(YouTube window {YT_MAX_AGE_HOURS} h)  ",
         "Sorted newest first. `rank` = ranking order in candidates.json (1 = best).",
         "",
-        "| # | rank | age | published (IST) | headline | cat | region | trend | video | image | sources |",
-        "|---|---|---|---|---|---|---|---|---|---|---|",
+        "| # | rank | age | published (IST) | headline | cat | famous | src | region | trend | video | image | sources |",
+        "|---|---|---|---|---|---|---|---|---|---|---|---|---|",
     ]
     rank_of = {it["id"]: n + 1 for n, it in enumerate(items)}
     for n, it in enumerate(by_new, 1):
@@ -833,7 +1119,8 @@ def write_outputs(items: list[dict], meta: dict) -> None:
         age = f"{it['age_minutes'] // 60}h{it['age_minutes'] % 60:02d}m"
         lines.append(
             f"| {n} | {rank_of[it['id']]} | {age} | {it['published_at_ist'][11:16]} | {head} | "
-            f"{it['category']} | {','.join(it['region'])} | {it['trend_score']} | {vid} | {img} | "
+            f"{it['category']} | {md_escape(', '.join(it['famous_names'][:3])) or '—'} | {it['source_type']} | "
+            f"{','.join(it['region'])} | {it['trend_score']} | {vid} | {img} | "
             f"{md_escape(', '.join(it['sources'][:4]))} |"
         )
     lines.append("")
@@ -849,12 +1136,20 @@ def select_top(ranked: list[dict]) -> list[dict]:
     per_q: dict[str, int] = {}
     per_cat: dict[str, int] = {}
 
+    n_yt = [0]
+
+    def is_yt(c):
+        return c.get("source_type") == "youtube"
+
     def ok(c, cat_cap):
         if c["id"] in ids:
             return False
-        if any(per_q.get(q, 0) >= MAX_PER_QUERY for q in c["priority_queries"]):
+        if any(per_q.get(q, 0) >= TOPIC_CAPS.get(q, MAX_PER_QUERY) for q in c["priority_queries"]):
             return False
-        return per_cat.get(c["category"], 0) < cat_cap
+        if is_yt(c) and n_yt[0] >= MAX_YOUTUBE:
+            return False
+        cap = min(cat_cap, CATEGORY_CAPS.get(c["category"], cat_cap))
+        return per_cat.get(c["category"], 0) < cap
 
     def take(c):
         chosen.append(c)
@@ -862,7 +1157,25 @@ def select_top(ranked: list[dict]) -> list[dict]:
         for q in c["priority_queries"]:
             per_q[q] = per_q.get(q, 0) + 1
         per_cat[c["category"]] = per_cat.get(c["category"], 0) + 1
+        n_yt[0] += is_yt(c)
 
+    # 0a) reserve categories with a minimum (famous_clip), best-ranked first
+    for cat, need in CATEGORY_MIN.items():
+        for c in ranked:
+            if per_cat.get(cat, 0) >= need:
+                break
+            if c["category"] == cat and ok(c, MAX_PER_CATEGORY):
+                take(c)
+    # 0b) reserve a few YouTube uploads. They are older and less covered than news, so
+    #     they rank lower; prefer famous-person clips, then stars, then ready-made shorts.
+    yt_pref = sorted((c for c in ranked if is_yt(c)), key=lambda c: (
+        c["category"] == "famous_clip", any(n not in POLITICIANS for n in c["famous_names"]),
+        any(y.get("is_short") for y in c["youtube_videos"]), c["rank_score"]), reverse=True)
+    for c in yt_pref:
+        if n_yt[0] >= MIN_YOUTUBE:
+            break
+        if ok(c, MAX_PER_CATEGORY):
+            take(c)
     # 1) reservation pass per priority topic
     for label in PRIORITY_TOPICS:
         n = 0
@@ -888,17 +1201,25 @@ def main() -> int:
     now = now_utc()
     cutoff = now - timedelta(hours=MAX_AGE_HOURS)
 
+    yt_cutoff = now - timedelta(hours=YT_MAX_AGE_HOURS)
+
     feeds = build_feeds()
-    log(f"Fetching {len(feeds)} news feeds + {len(TRENDS_GEOS)} trends feeds ...")
-    with ThreadPoolExecutor(2) as ex:
+    log(f"Fetching {len(feeds)} news feeds + {len(TRENDS_GEOS)} trends feeds + "
+        f"{len(YOUTUBE_CHANNELS)} YouTube channels ...")
+    with ThreadPoolExecutor(3) as ex:
         f_items = ex.submit(collect_items, feeds)
         f_trends = ex.submit(collect_trends)
+        f_yt = ex.submit(collect_youtube)
         items, stats = f_items.result()
         trends = f_trends.result()
+        yt_items, yt_stats = f_yt.result()
     log(f"  feeds ok={stats['feeds_ok']} failed={stats['feeds_failed']} raw items={len(items)} trends={len(trends)}")
+    log(f"  youtube feeds ok={yt_stats['yt_feeds_ok']} failed={yt_stats['yt_feeds_failed']} uploads={len(yt_items)}")
 
     fresh = [i for i in items if i["published"] and cutoff <= i["published"] <= now + timedelta(minutes=10)]
-    log(f"  fresh (<= {MAX_AGE_HOURS}h) items: {len(fresh)}")
+    yt_fresh = [i for i in yt_items if i["published"] and yt_cutoff <= i["published"] <= now + timedelta(minutes=10)]
+    log(f"  fresh (<= {MAX_AGE_HOURS}h) items: {len(fresh)}  youtube (<= {YT_MAX_AGE_HOURS}h): {len(yt_fresh)}")
+    fresh += yt_fresh
 
     clusters = cluster(fresh)
     posted = load_posted()
@@ -914,13 +1235,20 @@ def main() -> int:
     for c in top:
         c.pop("_gn_urls", None)
         c.pop("_direct_urls", None)
+        c.pop("_boosted", None)
+    top.sort(key=lambda x: x["rank_score"], reverse=True)  # after the video+famous boost
 
     meta = dict(
         generated_at_utc=iso(now),
         generated_at_ist=ist(now),
         window_hours=MAX_AGE_HOURS,
+        youtube_window_hours=YT_MAX_AGE_HOURS,
         stats=dict(feeds=len(feeds), feeds_ok=stats["feeds_ok"], feeds_failed=stats["feeds_failed"],
-                   raw_items=len(items), fresh_items=len(fresh), clusters=len(clusters),
+                   raw_items=len(items), fresh_items=len(fresh) - len(yt_fresh), clusters=len(clusters),
+                   youtube_feeds_ok=yt_stats["yt_feeds_ok"], youtube_feeds_failed=yt_stats["yt_feeds_failed"],
+                   youtube_uploads_fresh=len(yt_fresh),
+                   youtube_items=sum(1 for c in top if c["source_type"] != "news"),
+                   famous_items=sum(1 for c in top if c["famous_names"]),
                    trends_terms=len(trends), page_fetches=_page_fetches,
                    with_video=sum(1 for c in top if c["has_video"]),
                    runtime_sec=round(time.time() - t0, 1)),

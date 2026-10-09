@@ -17,17 +17,30 @@ This repo does **not** post anything and needs **no secrets or API keys**.
    - **AI tools & agents**: AI agents, AI automation, new AI tools, AI launches, no-code AI
    - **Finance & markets**: stock market, Sensex/Nifty, Dow/Nasdaq/S&P 500, Fed rate, gold price, RBI
    - **Crypto**: Bitcoin, Ethereum, crypto market, Solana/XRP
-2. Keeps only stories published in the **last 9 hours**.
+   - **Famous people clips**: fresh interviews, podcasts, speeches, keynotes, awards and ceremonies
+     of big names (Elon Musk, Jensen Huang, Sam Altman, Zuckerberg, Bezos, Bill Gates, Ronaldo, Messi,
+     Virat Kohli, LeBron, Eileen Gu, Taylor Swift, Shah Rukh Khan ...), plus Joe Rogan / Lex Fridman /
+     Diary of a CEO / On Purpose podcast news
+   - **YouTube channel feeds** (free RSS, no key) for big interview/podcast shows and official
+     channels: Lex Fridman, The Diary Of A CEO, PowerfulJRE, JRE Clips, Jay Shetty, All-In, Dwarkesh
+     Patel, Y Combinator, Stanford GSB, TED, 60 Minutes, Bloomberg, CNBC, OpenAI, Google, NVIDIA,
+     Microsoft, Apple, Tesla, SpaceX, The White House, Formula 1, ICC, RCB, NBA, Olympics, Real Madrid,
+     FC Barcelona and UR Cristiano. These help the assistant find the actual moment or the official
+     clip; the assistant decides whether a clip can be reused.
+2. Keeps only stories published in the **last 9 hours** (YouTube uploads: last **24 hours**).
 3. Groups headlines about the same story and scores them by how many outlets and feeds carry them,
    with a bonus for Google Trends and priority topics. Ranking is mostly by how recent the story is.
-   Each story gets a `category`: `ai`, `celebrity_music`, `finance`, `crypto`, `sports`, `tech`,
-   `world` or `other`.
+   Each story gets a `category`: `famous_clip`, `ai`, `celebrity_music`, `finance`, `crypto`,
+   `sports`, `tech`, `world` or `other`. `famous_clip` = a famous person speaking or a big moment
+   (interview, podcast, keynote, speech, award, ceremony), or a podcast-channel upload naming a star.
+   Stories naming a famous person get a small boost, and a bigger one when they also have a video.
 4. Opens the top articles and collects **image links** and **video links** (og:image, og:video,
    YouTube embeds and similar).
 5. Skips anything already listed in `data/posted.json`.
 6. Saves the top **40** stories (enough for ~20 posts a day). To keep the mix balanced, the best
    2 stories of every priority topic are reserved first, each priority topic is capped at 3 and
-   each category at 8.
+   each category at 8. `famous_clip` is capped at 4 with at least 2 reserved when available, and
+   2-6 YouTube uploads are included (famous-person clips and shorts first).
 
 ## Schedule (IST)
 
@@ -44,16 +57,16 @@ This repo does **not** post anything and needs **no secrets or API keys**.
 | 20:35 | 21:00 | `5 15 * * *` |
 | 23:35 | 00:00 | `5 18 * * *` |
 
-There is also a `0 12 * * *` (17:30 IST) test run in the workflow.
-
 You can also run it any time: **Actions → Collect news candidates → Run workflow**.
 
 ## Output files
 
 - `data/candidates.json`: full data for the assistant. Each item has id, headline, summary, sources,
   article_urls, published_at_utc / published_at_ist, age_minutes, trend_score, category
-  (ai / celebrity_music / finance / crypto / sports / tech / world / other), section (Google News
-  section), priority_queries (matched priority topics), region, image_urls, video_urls and has_video.
+  (famous_clip / ai / celebrity_music / finance / crypto / sports / tech / world / other), section (Google News
+  section), priority_queries (matched priority topics), region, image_urls, video_urls, has_video,
+  `famous_names` (big names recognised in the headline), `source_type` (`news`, `youtube` or
+  `news+youtube`) and `youtube_videos` (title, channel, url, published time, thumbnail, is_short).
   The top-level `categories` field counts stories per category. Items are in ranking order (best first), and `generated_at_ist` shows when the file was made.
 - `data/candidates.md`: the same list as an easy-to-read table, newest first.
 - `data/posted.json`: a list of headlines (or the `key` field from candidates.json) that were already
