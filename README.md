@@ -44,17 +44,18 @@ This repo does **not** post anything and needs **no secrets or API keys**.
 
 ## Schedule (IST)
 
-20 posts a day across 7 posting slots. The collector runs about 25 minutes before each slot
-(cron `5 23,2,5,8,12,15,18 * * *` in UTC):
+20 posts a day across 8 posting slots. The collector runs about 25 minutes before each slot
+(cron `5 23,2,4,5,8,15,17,18 * * *` in UTC):
 
 | Run time (IST) | For slot | Cron (UTC) |
 |---|---|---|
 | 04:35 | 05:00 | `5 23 * * *` |
 | 07:35 | 08:00 | `5 2 * * *` |
+| 09:35 | 10:00 | `5 4 * * *` |
 | 10:35 | 11:00 | `5 5 * * *` |
 | 13:35 | 14:00 | `5 8 * * *` |
-| 17:35 | 18:00 | `5 12 * * *` |
 | 20:35 | 21:00 | `5 15 * * *` |
+| 22:35 | 23:00 | `5 17 * * *` |
 | 23:35 | 00:00 | `5 18 * * *` |
 
 You can also run it any time: **Actions → Collect news candidates → Run workflow**.
@@ -85,7 +86,7 @@ GitHub sometimes skips or delays scheduled runs, especially on new private repos
    - Generate it and copy the token. You won't see it again.
 2. **On cron-job.org**, create a free account, then *Create cronjob*:
    - URL: `https://api.github.com/repos/chatgpt820970/x-news-collector/actions/workflows/collect.yml/dispatches`
-   - Schedule: *Custom*, time zone **Asia/Kolkata**, at 04:35, 07:35, 10:35, 13:35, 17:35, 20:35 and 23:35.
+   - Schedule: *Custom*, time zone **Asia/Kolkata**, at 04:35, 07:35, 09:35, 10:35, 13:35, 20:35, 22:35 and 23:35.
    - Advanced → Request method: **POST**
    - Headers:
      - `Authorization: Bearer YOUR_TOKEN`
