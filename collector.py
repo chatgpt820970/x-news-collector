@@ -199,6 +199,25 @@ SUPER_MOMENT_RE = re.compile(r"\b(super bowl|world series|stanley cup|nba finals
                              r"record[- ]breaking|historic)\b", re.I)
 US_LEAGUE_RE = re.compile(r"\b(nfl|mlb|nhl|nba|rugby|super bowl|touchdown|quarterback|"
                           r"bills|rams|chiefs|dodgers|yankees|lakers|celtics)\b", re.I)
+BANNED_CATEGORIES = {"ai", "tech", "world", "crypto", "finance"}  # nobody engages: never select
+BANNED_RE = re.compile(r"\b(election|midterms?|senate|parliament|president|prime minister|"
+                       r"bitcoin|crypto|tokens?|erc-20|coin|blockchain|stocks?|bonds?|etf|ai|openai|chatgpt|nvidia|"
+                       r"software|rust|app|trump|biden|government|minister|market)\b", re.I)
+LOW_CRICKET_RE = re.compile(r"\b(afghanistan|bangladesh|zimbabwe|ireland|nepal|uae|scotland|"
+                            r"netherlands|namibia|oman|usa|west indies|sri lanka)\b", re.I)
+BIG3_CRICKET_RE = re.compile(r"\b(india|australia|england|kohli|rohit)\b", re.I)
+BIG_CRICKET_MOMENT_RE = re.compile(r"\b(world cup|final|ashes|record|historic|semi-?final)\b", re.I)
+LOW_CRICKET_PENALTY = 0.5
+ENTERTAINMENT_QUERIES = [
+    '"Taylor Swift" OR "Sabrina Carpenter" OR "Billie Eilish" OR "Dua Lipa" OR "Ariana Grande"',
+    'BTS OR Blackpink OR Jennie OR Jungkook OR "Stray Kids" OR aespa',
+    'Zendaya OR "Sydney Sweeney" OR Marvel OR "red carpet" OR premiere',
+    'Kardashian OR "Selena Gomez" OR Rihanna OR "Lady Gaga" OR "Bad Bunny"',
+    'anime OR Ohtani OR UFC OR "viral video"',
+]
+COMPANY_RE = re.compile(r"\b(meta|google|apple|microsoft|amazon|tesla|spacex|openai|netflix|"
+                        r"disney|marvel|nike|samsung|x|twitter)\b", re.I)
+MATCH_RE = re.compile(r"\b([A-Z][a-z]+)\s+(?:vs?\.?|v)\s+([A-Z][a-z]+)")
 MIN_VIDEO_SIDE = 720       # 720p minimum (shorter side) for videos
 MIN_PHOTO_SIDE = 1080      # minimum shorter side for photos
 MIN_PER_TOPIC = 2          # reserve up to this many of each priority topic's best stories
@@ -513,6 +532,18 @@ def build_feeds() -> list[dict]:
     for code, ed in LOCAL_EDITIONS.items():
         feeds.append(dict(name=f"GN top {code} ({ed[3]})", url=gn_url("", ed), edition=code,
                           category=None, lang=ed[3], query=None))
+    # extra entertainment / pop-culture supply (account niche: celebs, music, anime, viral)
+    for code, ed in LOCAL_EDITIONS.items():
+        if code == "JP":
+            feeds.append(dict(name=f"GN entertainment JP ({ed[3]})",
+                              url=gn_url("/headlines/section/topic/ENTERTAINMENT", ed),
+                              edition=code, category="ENTERTAINMENT", lang=ed[3], query=None))
+    for q in ENTERTAINMENT_QUERIES:
+        for code in ("US", "GB"):
+            ed = EN_EDITIONS[code]
+            path = f"/search?q={quote_plus(q + ' when:' + str(MAX_AGE_HOURS) + 'h')}"
+            feeds.append(dict(name=f"GN ent '{q[:30]}' {code}", url=gn_url(path, ed),
+                              edition=code, category="ENTERTAINMENT", lang="en", query=None))
     for label, topic in PRIORITY_TOPICS.items():
         for q, codes in topic["queries"]:
             for code in codes:
@@ -910,7 +941,9 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
         if global_pop:
             trend_score += GLOBAL_POP_BONUS
         rank = 0.45 * recency + 0.55 * min(1.0, math.log1p(trend_score) / math.log1p(30))
-        trend_geos = {g for g in ("US", "IN", "GB", "JP") for h in trend_hits if f" ({g} " in h}
+        # geo boost only for specific (multi-word) trend terms, not "bond" / "rams"
+        trend_geos = {g for g in ("US", "IN", "GB", "JP") for h in trend_hits
+                      if f" ({g} " in h and len(h.split(" (")[0].split()) >= 2}
         if trend_geos & set(GLOBAL_GEOS):
             rank *= GLOBAL_GEO_BOOST
         local = bool(LOCAL_RE.search(lead["title"])) and not global_pop and not india_topic
@@ -923,6 +956,9 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             us_league = False  # huge moment: no penalty, no daily cap
         if us_league:
             rank *= US_LEAGUE_PENALTY
+        if (re.search(r"\b(cricket|test|odi|t20)\b", text_all, re.I) and LOW_CRICKET_RE.search(lead["title"])
+                and not (BIG3_CRICKET_RE.search(lead["title"]) and BIG_CRICKET_MOMENT_RE.search(text_all))):
+            rank *= LOW_CRICKET_PENALTY
         if trend_score < MIN_TREND_SCORE:
             continue
         if c["lang"] != "en":
@@ -1217,7 +1253,11 @@ def select_top(ranked: list[dict]) -> list[dict]:
     n_us = [0]
 
     def ents(c):
-        return [n.lower() for n in c.get("famous_names", [])]
+        h = c["headline"]
+        e = [n.lower() for n in c.get("famous_names", [])]
+        e += ["co:" + m.lower() for m in COMPANY_RE.findall(h)]
+        e += ["match:" + "-".join(sorted(m)).lower() for m in MATCH_RE.findall(h)]
+        return e
 
     def is_yt(c):
         return c.get("source_type") == "youtube"
@@ -1312,6 +1352,8 @@ def main() -> int:
     clusters = cluster(fresh)
     posted = load_posted()
     ranked = summarize_clusters(clusters, trends, posted, now)
+    ranked = [c for c in ranked if c["category"] not in BANNED_CATEGORIES
+              and not BANNED_RE.search(c["headline"])]
     log(f"  clusters: {len(clusters)}  after posted-filter: {len(ranked)}")
     top = select_top(ranked)
     log("  selected per category: " + ", ".join(
