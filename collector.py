@@ -165,10 +165,28 @@ PRIORITY_QUERIES = {k: v["keywords"] for k, v in PRIORITY_TOPICS.items()}
 
 # Diversity caps for the final top list
 MAX_PER_QUERY = 3          # per priority topic (each topic gets its own cap)
-MAX_PER_CATEGORY = 8       # per output category
+MAX_PER_CATEGORY = 4       # per output category
+MAX_PER_ENTITY = 1         # same famous person / entity at most once per slot
+MAX_US_LEAGUE = 1          # NFL/MLB/NHL/NBA/rugby: at most 1 per run (runs feed ~1 slot each)
+MIN_TREND_SCORE = 3        # engagement floor: need >=2 outlets/feeds or a trend hit
+INDIA_BOOST = 1.4          # rank multiplier when a story matches an IN Google Trend
+INDIA_TOPIC_BONUS = 5      # trend_score bonus for India-relevant topics
+US_LEAGUE_PENALTY = 0.5    # rank multiplier for US-league / rugby unless trending in IN
+INDIA_TOPICS = ["bollywood", "shah rukh", "srk", "salman khan", "aamir khan", "ajay devgn",
+                "akshay kumar", "ranveer singh", "ranbir kapoor", "deepika", "alia bhatt",
+                "katrina kaif", "priyanka chopra", "amitabh", "hrithik", "kartik aaryan",
+                "mohanlal", "prabhas", "allu arjun", "rajinikanth", "vijay", "drishyam",
+                "arijit", "diljit", "cricket", "ipl", "bcci", "kohli", "rohit sharma",
+                "shubman gill", "bumrah", "dhoni", "team india", "isro", "mumbai", "delhi",
+                "india viral", "viral video india", "indigo", "modi"]
+INDIA_RE = re.compile(r"\b(" + "|".join(re.escape(k) for k in INDIA_TOPICS) + r")\b", re.I)
+US_LEAGUE_RE = re.compile(r"\b(nfl|mlb|nhl|nba|rugby|super bowl|touchdown|quarterback|"
+                          r"bills|rams|chiefs|dodgers|yankees|lakers|celtics)\b", re.I)
+MIN_VIDEO_SIDE = 720       # 720p minimum (shorter side) for videos
+MIN_PHOTO_SIDE = 1080      # minimum shorter side for photos
 MIN_PER_TOPIC = 2          # reserve up to this many of each priority topic's best stories
 TOPIC_CAPS = {FAMOUS_LABEL: 4}      # per-topic overrides of MAX_PER_QUERY
-CATEGORY_CAPS = {"famous_clip": 4}  # per-category overrides of MAX_PER_CATEGORY (never relaxed)
+CATEGORY_CAPS = {"famous_clip": 4, "sports": 4}  # per-category overrides of MAX_PER_CATEGORY (never relaxed)
 CATEGORY_MIN = {"famous_clip": 2}   # reserve at least this many when available
 MIN_YOUTUBE = 2            # reserve up to this many YouTube uploads ...
 MAX_YOUTUBE = 6            # ... and cap them
@@ -287,7 +305,7 @@ CATEGORY_PATTERNS = {
     "ai": r"\b(ai|a\.i\.|artificial intelligence|openai|chatgpt|gpt-?\d\w*|gemini|claude|grok|"
           r"anthropic|llms?|agentic|copilot|deepseek|perplexity|midjourney|mistral|chatbots?|"
           r"machine learning|altman|no-code|automation)\b",
-    "sports": r"\b(cricket|football|soccer|f1|formula 1|grand prix|nba|nfl|mlb|nhl|tennis|"
+    "sports": r"\b(cricket|football|soccer|f1|formula 1|grand prix|tennis|"
               r"golf|ipl|t20|odi|wicket|premier league|champions league|la liga|uefa|fifa|"
               r"olympics?|world cup|match|innings|goalkeeper|striker|batter|bowler)\b",
     "celebrity_music": r"\b(singer|rapper|album|songs?|concerts?|world tour|tour dates|"
@@ -867,7 +885,19 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
         age_min = int((now - newest).total_seconds() // 60)
         window = YT_MAX_AGE_HOURS if source_type == "youtube" else MAX_AGE_HOURS
         recency = max(0.0, 1 - age_min / (window * 60))
-        rank = 0.65 * recency + 0.35 * min(1.0, math.log1p(trend_score) / math.log1p(30))
+        text_all = " ".join([lead["title"]] + [i["title"] for i in its[:10]])
+        india_topic = bool(INDIA_RE.search(text_all))
+        if india_topic:
+            trend_score += INDIA_TOPIC_BONUS
+        rank = 0.45 * recency + 0.55 * min(1.0, math.log1p(trend_score) / math.log1p(30))
+        in_trend = any(" (IN " in h for h in trend_hits)
+        if in_trend:
+            rank *= INDIA_BOOST
+        us_league = bool(US_LEAGUE_RE.search(text_all))
+        if us_league and not in_trend:
+            rank *= US_LEAGUE_PENALTY
+        if trend_score < MIN_TREND_SCORE:
+            continue
         if c["lang"] != "en":
             rank *= NON_EN_PENALTY
         if names:
@@ -913,6 +943,8 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             language=c["lang"],
             priority_queries=sorted(queries),
             google_trends=trend_hits[:5],
+            india_topic=india_topic,
+            us_league=us_league,
             other_headlines=[t for t in dict.fromkeys(i["title"] for i in its) if t != lead["title"]][:4],
             image_urls=([y["thumbnail"] for y in yt_videos if y["thumbnail"]][:1] +
                         [d["picture"] for d in direct if d.get("picture")])[:3],
@@ -1075,6 +1107,8 @@ def enrich_cluster(c: dict) -> dict:
     c["article_urls"] = list(dict.fromkeys(resolved + c["article_urls"]))[:8]
     # og images first (bigger), trends thumbnails last
     c["image_urls"].sort(key=lambda u: ("gstatic.com" in u, "ytimg.com" in u))
+    c["video_urls"] = [u for u in c["video_urls"] if media_ok(u, True)]
+    c["image_urls"] = [u for u in c["image_urls"] if media_ok(u, False)]
     c["has_video"] = bool(c["video_urls"])
     # video + famous name boost for news stories (YouTube ones got it before selection)
     if c["has_video"] and c["famous_names"] and not c.get("_boosted"):
@@ -1127,6 +1161,19 @@ def write_outputs(items: list[dict], meta: dict) -> None:
     (DATA / "candidates.md").write_text("\n".join(lines), encoding="utf-8")
 
 
+TWIMG_RES_RE = re.compile(r"/(\d{2,4})x(\d{2,4})/")
+
+
+def media_ok(url: str, is_video: bool) -> bool:
+    """720p gate for media whose size is in the URL (twimg variants: /vid/WxH/).
+    Unknown sizes pass here; the routine verifies with check_media.py (ffprobe)."""
+    m = TWIMG_RES_RE.search(url or "")
+    if not m:
+        return True
+    side = min(int(m.group(1)), int(m.group(2)))
+    return side >= (MIN_VIDEO_SIDE if is_video else MIN_PHOTO_SIDE)
+
+
 def select_top(ranked: list[dict]) -> list[dict]:
     """Pick TOP_N stories. First reserve the best MIN_PER_TOPIC stories of every
     priority topic (so each topic/category is represented), then fill by rank.
@@ -1137,6 +1184,11 @@ def select_top(ranked: list[dict]) -> list[dict]:
     per_cat: dict[str, int] = {}
 
     n_yt = [0]
+    per_ent: dict[str, int] = {}
+    n_us = [0]
+
+    def ents(c):
+        return [n.lower() for n in c.get("famous_names", [])]
 
     def is_yt(c):
         return c.get("source_type") == "youtube"
@@ -1148,6 +1200,10 @@ def select_top(ranked: list[dict]) -> list[dict]:
             return False
         if is_yt(c) and n_yt[0] >= MAX_YOUTUBE:
             return False
+        if c.get("us_league") and n_us[0] >= MAX_US_LEAGUE:
+            return False
+        if any(per_ent.get(e, 0) >= MAX_PER_ENTITY for e in ents(c)):
+            return False
         cap = min(cat_cap, CATEGORY_CAPS.get(c["category"], cat_cap))
         return per_cat.get(c["category"], 0) < cap
 
@@ -1158,6 +1214,9 @@ def select_top(ranked: list[dict]) -> list[dict]:
             per_q[q] = per_q.get(q, 0) + 1
         per_cat[c["category"]] = per_cat.get(c["category"], 0) + 1
         n_yt[0] += is_yt(c)
+        n_us[0] += bool(c.get("us_league"))
+        for e in ents(c):
+            per_ent[e] = per_ent.get(e, 0) + 1
 
     # 0a) reserve categories with a minimum (famous_clip), best-ranked first
     for cat, need in CATEGORY_MIN.items():
@@ -1186,7 +1245,7 @@ def select_top(ranked: list[dict]) -> list[dict]:
                 take(c)
                 n += 1
     # 2) fill by rank, then 3) relax the category cap if still short
-    for cat_cap in (MAX_PER_CATEGORY, MAX_PER_CATEGORY + 4):
+    for cat_cap in (MAX_PER_CATEGORY, MAX_PER_CATEGORY + 2):
         for c in ranked:
             if len(chosen) >= TOP_N:
                 break
