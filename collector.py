@@ -169,17 +169,34 @@ MAX_PER_CATEGORY = 4       # per output category
 MAX_PER_ENTITY = 1         # same famous person / entity at most once per slot
 MAX_US_LEAGUE = 1          # NFL/MLB/NHL/NBA/rugby: at most 1 per run (runs feed ~1 slot each)
 MIN_TREND_SCORE = 3        # engagement floor: need >=2 outlets/feeds or a trend hit
-INDIA_BOOST = 1.4          # rank multiplier when a story matches an IN Google Trend
-INDIA_TOPIC_BONUS = 5      # trend_score bonus for India-relevant topics
-US_LEAGUE_PENALTY = 0.5    # rank multiplier for US-league / rugby unless trending in IN
-INDIA_TOPICS = ["bollywood", "shah rukh", "srk", "salman khan", "aamir khan", "ajay devgn",
-                "akshay kumar", "ranveer singh", "ranbir kapoor", "deepika", "alia bhatt",
-                "katrina kaif", "priyanka chopra", "amitabh", "hrithik", "kartik aaryan",
-                "mohanlal", "prabhas", "allu arjun", "rajinikanth", "vijay", "drishyam",
-                "arijit", "diljit", "cricket", "ipl", "bcci", "kohli", "rohit sharma",
-                "shubman gill", "bumrah", "dhoni", "team india", "isro", "mumbai", "delhi",
-                "india viral", "viral video india", "indigo", "modi"]
-INDIA_RE = re.compile(r"\b(" + "|".join(re.escape(k) for k in INDIA_TOPICS) + r")\b", re.I)
+GLOBAL_GEO_BOOST = 1.3     # rank multiplier when trending in US / JP / GB (top X markets)
+GLOBAL_GEOS = ("US", "JP", "GB")
+INDIA_STAR_BONUS = 2       # only globally huge Indian names
+GLOBAL_POP_BONUS = 5
+LOCAL_PENALTY = 0.4        # local-only news (regional India policy, airline incidents, local prices)
+US_LEAGUE_PENALTY = 0.5    # NFL/MLB/NHL/NBA/rugby unless a huge moment
+def _kw_re(words):
+    return re.compile(r"\b(" + "|".join(re.escape(k) for k in words) + r")\b", re.I)
+INDIA_STARS = ["shah rukh", "srk", "kohli", "rohit sharma", "ar rahman", "a.r. rahman",
+               "a r rahman", "diljit"]
+INDIA_RE = _kw_re(INDIA_STARS)
+GLOBAL_POP = ["dua lipa", "taylor swift", "sabrina carpenter", "billie eilish", "rihanna",
+              "beyonce", "beyoncé", "bad bunny", "the weeknd", "ariana grande", "selena gomez",
+              "doja cat", "olivia rodrigo", "chappell roan", "lady gaga",
+              "bts", "blackpink", "jennie", "lisa", "jungkook", "stray kids", "newjeans", "aespa",
+              "marvel", "zendaya", "sydney sweeney", "timothée", "timothee", "chalamet",
+              "messi", "ronaldo", "mbappé", "mbappe", "haaland", "yamal",
+              "f1", "formula 1", "ufc", "kardashian", "kardashians", "kim kardashian",
+              "anime", "ohtani"]
+GLOBAL_POP_RE = _kw_re(GLOBAL_POP)
+LOCAL_RE = re.compile(r"\b(indigo|air india|akasa|spicejet|gold (price|rate)|silver (price|rate)|"
+                      r"petrol|diesel|sensex|india(n)? (bonds?|stocks?|shares)|horoscope|nifty|stock markets? today|rupee|"
+                      r"chennai|bengaluru|hyderabad|kolkata|lucknow|patna|jaipur|pune|"
+                      r"state govt|state government|chief minister|cm |assembly|panchayat|"
+                      r"municipal|district|high court|lok sabha|rajya sabha|bjp|congress)\b", re.I)
+MAJOR_CRASH_RE = re.compile(r"\b(crash(es|ed)?|dead|killed|fatalities)\b", re.I)
+SUPER_MOMENT_RE = re.compile(r"\b(super bowl|world series|stanley cup|nba finals|game 7|"
+                             r"record[- ]breaking|historic)\b", re.I)
 US_LEAGUE_RE = re.compile(r"\b(nfl|mlb|nhl|nba|rugby|super bowl|touchdown|quarterback|"
                           r"bills|rams|chiefs|dodgers|yankees|lakers|celtics)\b", re.I)
 MIN_VIDEO_SIDE = 720       # 720p minimum (shorter side) for videos
@@ -887,14 +904,24 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
         recency = max(0.0, 1 - age_min / (window * 60))
         text_all = " ".join([lead["title"]] + [i["title"] for i in its[:10]])
         india_topic = bool(INDIA_RE.search(text_all))
+        global_pop = bool(GLOBAL_POP_RE.search(text_all))
         if india_topic:
-            trend_score += INDIA_TOPIC_BONUS
+            trend_score += INDIA_STAR_BONUS
+        if global_pop:
+            trend_score += GLOBAL_POP_BONUS
         rank = 0.45 * recency + 0.55 * min(1.0, math.log1p(trend_score) / math.log1p(30))
-        in_trend = any(" (IN " in h for h in trend_hits)
-        if in_trend:
-            rank *= INDIA_BOOST
+        trend_geos = {g for g in ("US", "IN", "GB", "JP") for h in trend_hits if f" ({g} " in h}
+        if trend_geos & set(GLOBAL_GEOS):
+            rank *= GLOBAL_GEO_BOOST
+        local = bool(LOCAL_RE.search(lead["title"])) and not global_pop and not india_topic
+        if local and not (re.search(r"indigo|air india|akasa|spicejet", lead["title"], re.I)
+                          and MAJOR_CRASH_RE.search(lead["title"])):
+            rank *= LOCAL_PENALTY
         us_league = bool(US_LEAGUE_RE.search(text_all))
-        if us_league and not in_trend:
+        huge = bool(SUPER_MOMENT_RE.search(text_all)) or len(trend_geos) >= 2
+        if us_league and huge:
+            us_league = False  # huge moment: no penalty, no daily cap
+        if us_league:
             rank *= US_LEAGUE_PENALTY
         if trend_score < MIN_TREND_SCORE:
             continue
@@ -944,6 +971,8 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
             priority_queries=sorted(queries),
             google_trends=trend_hits[:5],
             india_topic=india_topic,
+            global_pop=global_pop,
+            local_only=local,
             us_league=us_league,
             other_headlines=[t for t in dict.fromkeys(i["title"] for i in its) if t != lead["title"]][:4],
             image_urls=([y["thumbnail"] for y in yt_videos if y["thumbnail"]][:1] +
