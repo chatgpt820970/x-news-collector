@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-14T20:37:51Z",
-  "generated_at_ist": "2026-10-15 02:07 IST",
+  "generated_at_utc": "2026-10-14T21:34:39Z",
+  "generated_at_ist": "2026-10-15 03:04 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5851,
-    "fresh_items": 4945,
-    "clusters": 2193,
+    "raw_items": 5794,
+    "fresh_items": 4862,
+    "clusters": 2142,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 107,
-    "youtube_items": 3,
-    "famous_items": 7,
+    "youtube_uploads_fresh": 105,
+    "youtube_items": 2,
+    "famous_items": 4,
     "trends_terms": 40,
-    "page_fetches": 68,
-    "with_video": 9,
-    "runtime_sec": 28.0
+    "page_fetches": 66,
+    "with_video": 6,
+    "runtime_sec": 27.3
   },
   "categories": {
     "famous_clip": 3,
@@ -32,169 +32,66 @@
     "other": 6
   },
   "top_trends": [
-    "week 6 start 'em, sit 'em (US 5000+)",
-    "donyell malen (US 1000+)",
-    "fc porto (US 200+)",
-    "associazione sportiva roma (US 200+)",
-    "winston salem state field markings (US 500+)",
-    "dortmund (US 2000+)",
-    "mta (US 500+)",
-    "nicolas jackson (US 500+)",
-    "psg vs barcelona (US 200+)",
-    "donnarumma (US 200+)",
-    "pep guardiola (IN 100+)",
-    "dortmund (IN 100+)",
-    "prahaar (IN 100+)",
-    "gianluigi donnarumma (IN 200+)",
-    "real (IN 100+)",
-    "nicolas jackson (IN 200+)",
-    "thibaut courtois (IN 200+)",
-    "bigg boss 20 (IN 1000+)",
-    "ibrahima konaté (IN 100+)",
-    "cl (IN 100+)"
+    "man city vs psg standings (US 5000+)",
+    "posiciones de manchester city contra psg (US 2000+)",
+    "western kentucky football (US 1000+)",
+    "missouri state football (US 500+)",
+    "alex pereira (US 1000+)",
+    "katie hobbs (US 200+)",
+    "erling haaland (US 2000+)",
+    "fire weather watch (US 500+)",
+    "arda güler (US 500+)",
+    "europa league (US 500+)",
+    "ayyoub bouaddi (IN 100+)",
+    "bernardo silva (IN 100+)",
+    "aston villa vs fenerbahçe standings (IN 1000+)",
+    "endrick (IN 200+)",
+    "arda güler (IN 200+)",
+    "antonio rüdiger (IN 200+)",
+    "vinícius júnior (IN 200+)",
+    "weather jammu (IN 500+)",
+    "railway bonus (IN 100+)",
+    "pep guardiola (IN 100+)"
   ],
   "items": [
     {
-      "id": "29d305cfbf",
-      "key": "confirmed-grand-granted-hamilton-lewi-prix-wish",
-      "headline": "Lewis Hamilton wish granted as new F1 grand prix confirmed",
-      "summary": "https://racingnews365.com/F1 is heading back to the continent of Africa with a new purpose-built racetrack to host African Grand Prix in Rwanda.",
+      "id": "487b0b8f17",
+      "key": "3-batting-dodger-game-nlcs-ohtani-shohei-sixth",
+      "headline": "Dodgers' Shohei Ohtani: Batting sixth in NLCS Game 3",
+      "summary": "https://www.cbssports.com/fantasy/baseball/news/dodgers-shohei-ohtani-batting-sixth-in-nlcs-game-3/Dodgers' Shohei Ohtani: Batting sixth in NLCS Game 3",
       "sources": [
-        "RacingNews365",
-        "Formula 1",
-        "BBC",
-        "ESPN India",
-        "The Guardian"
+        "Bleacher Report",
+        "Larry Brown Sports",
+        "New York Post",
+        "Yahoo Sports",
+        "FOX Sports",
+        "The Big Lead",
+        "CBS Sports",
+        "RotoWire",
+        "Dodgers Nation",
+        "Dodgers Way"
       ],
       "article_urls": [
-        "https://racingnews365.com/breaking-lewis-hamilton-wish-granted-as-new-f1-grand-prix-confirmed",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpqTTQ4cTYzdUR1aUtNQm4xYVpZV1JCX3UteURpb2FseFZKM1BKV1NTeXJZbTZ2RWNwUi15V3hkOFQtdDlTaUlzQ0ZhVW11Z21wMkliRmxXY2QwaXd2M0VyWEQxeGlZeHZoQnBnTmV0Sk82WnlQMEFOVndFSjZKaFRXTTFfelAwVXlsWHM2VzFZaDRtRDYtaA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPckloVmwzeEpNRGtyaUdOelNHVGdNSXVybUNVSUVET0Y5UERvUzhYaTZPbnRXUmhKOElrbndTanREeG5tRW1tdWlJYllsZEFxT3VuTFpRR1U5ZlpMS18ybjFmUnZTNlpsWWhzZE0ycmQzTkRYY1hPYTFqY1BPUWNGbU15R0xvZm5mU3dZUnpVTW56eXgyZ05lRk1hS0tScmtvWVkwUVNZUC1UYUZ0VWdGdW82cHYzcjZZRXVUMENFaDVpUVBoMkhSYURUM0gxN1Vlb2dHXy15dlBSUTBCLTk4?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01VDBhVjFxenRiQlR1RWN3RmNReUFzTm52RURuZXI4QTJKSXFFNWJkOVNRdThYTkhsTmtqU3FBY2JNNmdCbDRlZXYyaFRKMGs0TWZFTDhubkJ1UW5uSGd6bE5NS01acGVh?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2NITW12ZXZHOWhvWnlEd3ZaQmh1NnhLZkQ2SjdtYUdneGlzSUlfbEJUUFdITS14ODJ1UUJhMzViR0hVMFRVdHlUOThYNUdUVUpBWXUzWFNBVG1QTV9SQ0xSYnhjaHhLUmt3dTlvamNqVFJseGh6akR6a1doSXpFdGFkcU9hbDk1ZDlENktHcldQRWJ6bVhLYWsteGRzZzlxYWc?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkl6TE1tWXkxeHlvMHRjOXY4aXp2Z1l3N2ZfYmxmaEtCQ0JiU1BleWFRZmhmM3lYVFc5SVpUdkpEY2dlTlB1TUJwNmo2SGV2dDVLckVmaDdid3VtTTdlSFRZbWludkF3OVQ4Ri04THVwc2x1RmpPSjBvWm9jWHhLY0YtLW5ZbU56ZnpfRm9xNDlaRnhhU1I5amdqX2lTaWlXUndXTGFWNkRzbVdtUE85Um9ibVdmazBaM2E4WWlGT2EtZjNlaVdZd0U1bWh6QTQ?oc=5"
+        "https://www.cbssports.com/fantasy/baseball/news/dodgers-shohei-ohtani-batting-sixth-in-nlcs-game-3/",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOek05VDlDY01mVWVVWEZJTk1UbVdfazJ1U1hlNGtWTWpKWl83NnEzQlM2VEY0OGlPaXFySGt5OTBpaHdQam00NFhBR2FtMGNrRFoxUDlRUzFXVy1Ld2d3ZlZQcENnSnpOalhDTFdLZkV1czRPbldPNEhYdWJBeGtlMDFXeHhiZmFVeTQwbng4eGhHOXVmRE1rR2hxc1o1SGhyMDdCUHkzcmZpU0lpRkUwNGhlVnZ3aWJZRzRhWHM0MWFwalBU?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMlFfWnVuQUlxdF9pZEJDbERkdzJkYUR5YXRPOEVqdEJLLWFJX0ZTQXBzSTJ2TjlHamFVVHhwaVo0NzZVM21XQjF6V1FGNDlDWXFZeG1lSmdsQk11RXQ0YzJvaklCOGxCVkNsWXBGRXltdi1GZm9aME5xX0JfTW5RTXp1SQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTkxmTkpXSmN4NkxiRmNJaUJXZDE2aXpzbWY4Vkh4WGpGZjJOV0p2SUU5Yy15NWJPSGZkM0VVb2ljZWZ3eWJGdzZSWVRWX0M4SHdrLTRDeTdlbVN4QVBDZmgzS0I1NFI0LUxmWUt5b1hqOGI4UXlLaVljOGZndG1Vak93Ykdzd1JxYkt2UUxwWGUxdU1tQ2dNejZQN0c1VFB3X1RMV1lFRmhETnV0clFucTYyVzNFVXdyN2FaWFJOTHlUdUU?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNXJBeVBMdFo3Y0NTSENrSHhhcDNJVWxyNjdUbjBJNGd4VWxjbFROOUlKM1YzMzY0NDFJcGlZVnFqTWdxNG1EeF91QkdSX1poc1RYb1FaV0RVZUh1bTJjNjRCTUFBdDdTSXpRUG9NNUdXUjFmczZwXzZJTjJfcVVzN19BSG9aNlFYVVV0Qk5uMjYzNlZTMTg1Mld4UlN5OWNpTVc0MXptUHhtbnFQNjJySTJGWjRITTdQTkFOM0dPUlZlYjE2ZEFGSlZQYmprNGhKd2FlMmFqQ2dLQTlDOFh1dDFGNTg3Qk1HbVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMmVZMW9uVVF4NDJMMV9IMzN2WHNwSE9YM3lGYTZGOWhvRkphUV9YRFB1TVNPMmhJYnoxYm5TLV84QWtNMmt4dGs4SlRVY3dQZl9KOFFvZ2FjbjlrMmVXWXBnOE9YaXRUcTRYRGVOX3pXMEg4NS1VTkd5XzZKSUZodVFPRV9lLVg1Y0I3Qm80YmJuYTVYRGR4c2picnV0MEhLQ3NR0gGjAUFVX3lxTE5zZEZkaEZ1MHJZRTFqdEdxekZNVjEtckYyNERiNDZUbDRSc1haMFhxYTlUSC1kU2V4WGJveXNINEtqZEJwS2JlUXc5bVJmRXV0R2xTRkIxMDZCbEVFUDVLTTlJRTRObjNJcEZ4M01NdU93WkVfM3YxZDUxb1Q2andRbWZUSjR1dm1kMkdxMmR3MDAwRFJCcFlJaV9lY25GcUNDb2s?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzRUbnRHZHU0UC1NckliSmxVa21pd2UtVExMN2pqXzk3TVU2WGJtU3IwOThsSVpQREI1SVR2NjBWcEZFMkptRS1aYndMZHl6d0JxSUh4RWFDUEpqOHBrVWU5WnQyeUhnUzV2VjhZREt0aVRMUkx3VFFKVzdkQzdhcXhQSXZHQTEtVWkwdFVrVmE?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEpsdVVZQ1dJZy10cFBLTG1Ca3RVVWFldlc3Q0xCLTVsUm1zLVZxN2stc1JvSG9wNDBsZk1hWDM0QlF4U1NHdXlfVTNwRDRkWldLaEd6Wmg2QjBCRlRHUkdobkhWVmJTVXN2NFpMLS0zYlB4UklITWh5ZGhSRHFsTkRrMEJxU1hIMHBla1A4X25tMkQ0Tmxva0N2em9xVzlM?oc=5"
       ],
-      "published_at_utc": "2026-10-14T18:50:47Z",
-      "published_at_ist": "2026-10-15 00:20 IST",
-      "first_seen_utc": "2026-10-14T18:50:47Z",
-      "age_minutes": 107,
-      "trend_score": 16,
-      "rank_score": 0.9646,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [
-        "Lewis Hamilton"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://cdn.racingnews365.com/2026/XPB_1399899_HiRes.jpg?v=1772965817&width=1800&height=945&quality=75&crop=3168%2C1664%2C0%2C57"
-      ],
-      "video_urls": [
-        "https://youtu.be/jZ0ZtWqEu2s"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "25574daf4e",
-      "key": "1-album-drake-hip-hop-most-record-sets",
-      "headline": "Drake sets record for most No. 1 R&B/hip-hop albums",
-      "summary": "https://www.thebeat925.ca/news/808426/Drake has set a new record for the most chart topping R B hip hop albums.",
-      "sources": [
-        "Billboard",
-        "The Beat 92.5",
-        "Rolling Stone Canada"
-      ],
-      "article_urls": [
-        "https://www.thebeat925.ca/news/808426/drake-sets-record-for-most-no-1-r-b-hip-hop-albums",
-        "https://ca.billboard.com/music/chart-beat/drake-habibti-solar-eclipse-number-1-rb-hip-hop-album-chart",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaGlITEY4TE5uNHNEMUF5UUtVWHBteFluMjlJMkxYVkk4d0F4alNDSFNVTVNET2pOMmRqMndMa3NGUGhnSV9GeVMydkpsMXB6Z3Bvb1RObkdGbFBxcmhMc1pHeUZJOXVGLVA3OU1zMERyM2Z4NTBuTU5hbms4US1oc21sWTJPQzZ1NEppZHh6c0Y1TzBFbEVpc1Q4LVNrUHk1Ni1B?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSjJYVkN4cXB5a3llSkFxQ05zT2VhbVhmRjhvcEhiUi1ta2dWQlF3azhmeENTUnM5RWFGSk1tWW5uZjJYUGF1dmhzTnFieGNaa0Q5bTAwMFhFVG10U2FmZVhlSGRhR3d4UDZzc3FDM0JhNnByWkZQbTAxTmlwTmtHLTRicTBWcFNaVFVCRGl1SGMzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmEtSG00TXJMTXlvczhhQVEtMjhMWE1TZmJIekQyazA2ck5iVkg2UDRZNURjRDBYNWcwTkpRYlc0V01ZaEFOTHNhT1VEd0E1QzdxRmNHNkkwQnlsNlZxeXJMa1RKRWdWZ2U2RmZrcHRoTnNvcUF6cnNUdVBjTndVUg?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T20:03:45Z",
-      "published_at_ist": "2026-10-15 01:33 IST",
-      "first_seen_utc": "2026-10-14T16:09:58Z",
-      "age_minutes": 34,
-      "trend_score": 10,
-      "rank_score": 0.9557,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Drake"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "With ‘HABIBTI,’ Drake Sets New Record For Most No. 1 Albums on R&B/Hip-Hop Chart",
-        "Drake Makes Billboard History With 18th No. 1 R&B/Hip-Hop Album"
-      ],
-      "image_urls": [
-        "https://cdn.cogecolive.com/prod-20261014/article_1791985003147235_ori.jpeg",
-        "https://ca.billboard.com/media-library/drake.webp?id=67813472&width=1200&height=600&coordinates=0%2C78%2C0%2C79"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=vBk30V8AukM",
-        "https://www.youtube.com/embed/vBk30V8AukM?rel=0"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "081829b0f3",
-      "key": "30-battle-edited-family-kanye-kardashian-kim-kuwtk-minute-west-‘-’",
-      "headline": "Kanye West’s ‘30 Minute Battle’ with Kim Kardashian’s Family Was ‘Edited Out’ of ‘KUWTK’",
-      "summary": "https://www.yahoo.com/entertainment/tv/articles/A 2020 episode of Keeping Up with the Kardashians showed Kim Kardashian in tears over the state of her marriage with Kanye West. Now, thanks to a new biography, the fight that allegedly went down befo...",
-      "sources": [
-        "AOL.com",
-        "Yahoo"
-      ],
-      "article_urls": [
-        "https://www.yahoo.com/entertainment/tv/articles/kanye-west-30-minute-battle-155155584.html",
-        "https://www.aol.com/articles/kuwtk-producer-says-edited-30-201356000.html",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rbmZJb1FLLXRNSTFLTVJzQlVlOE13TEhVSEVnREJYWG81NDN3dFFoUTBCOHI2aDY1SVR6X0xod3ZMd0RsX1k1RkpJcEx0SlB5MVJaUGtmQ2NFWWVwYUpfZXp5anRZZER1enJWUFpRODY1Y1Y4cDlzZ294M2NkUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1dzaU5Ha2pXWTlYSUVQeVVGRGVyTTh5ZXpjMW43VDhsNi1WU0syVUVHalhndk9RSUgxbE13WjdMS2ozMEdDNGZ3NExDeWNKNHVETnVVQ1N1M2Zha3NjclVuZm9sZ202Ui0wSGxJb1dmX0NkMHljNkFkMVJVc2U3UnY3Rzk3ZEU3Q25VU1hndDhpWGVG?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTllpV2ZIekFTWXR6NUJKQUJDMl8wV3gzZ3ZqZkFYZDlITTNRNzdob3pZdVV2dDBGMGZFMVE0Yno5YWJTNHZJZGJyUWpkcTkyc0g1YXFpRDRpMnJkZGhTSTJKSmUxTFVCdGpHQmVCaDBvM3dDUjUwbV9oTlRYbVFtNnFlOXBWSU1CdlMxVU5fNm1VRTRUVmg5NDN3WjJKaHdSZXhZUFlDRQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T20:13:56Z",
-      "published_at_ist": "2026-10-15 01:43 IST",
-      "first_seen_utc": "2026-10-14T13:12:41Z",
-      "age_minutes": 23,
-      "trend_score": 9,
-      "rank_score": 0.9496,
+      "published_at_utc": "2026-10-14T21:31:44Z",
+      "published_at_ist": "2026-10-15 03:01 IST",
+      "first_seen_utc": "2026-10-14T12:55:00Z",
+      "age_minutes": 2,
+      "trend_score": 31,
+      "rank_score": 1.1483,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "Kanye West",
-        "Kim Kardashian"
+        "Shohei Ohtani"
       ],
       "region": [
         "GB",
@@ -208,54 +105,176 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "“KUWTK” producer says they edited out ‘30-minute battle’ of Kayne West ‘ripping into’ the Kardashian family",
-        "Kim Kardashian’s Marriage to Kanye West ‘Completely Changed’ Her Life — Report"
+        "Dodgers' Shohei Ohtani Stayed Late to Work on Swing as Benching Buzz Grew Amid Slump, Injury",
+        "Dodgers make unprecedented move with Shohei Ohtani",
+        "Former Dodgers World Series champ scoffs at Shohei Ohtani drama with bold prediction",
+        "Shohei Ohtani is in fact in the Dodgers' NLCS Game 3 lineup, but batting a career-low sixth in the order"
       ],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/84863fadae0aac30a4c2f5477086108f7f795feebe56315c0875e5a77bf24140/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fba5766e2b783720554f6835d99aba55d.jpg",
-        "https://s.yimg.com/lo/mysterio/api/e98b72302d66491ff2bc09a952f2278b08fdc75d5470ac996b11d1afa2706c60/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstar_860%2Fba5766e2b783720554f6835d99aba55d.jpg",
-        "https://hermes.media.static.aol.com/media/2026/10/14/90895935-023d-3032-b0e1-1c4986188e62/d834e63e-22ed-42ee-afae-43d28ac87543.jpg"
+        "https://sportsfly.cbsistatic.com/fly-845/bundles/sportsmediacss/images/fantasy/default-article-image-large.png"
       ],
       "video_urls": [
-        "https://youtu.be/MNGKQgqlkjc?si=MZJL8jWoXapnnARx&t=164",
-        "https://youtu.be/MNGKQgqlkjc?si=MZJL8jWoXapnnARx"
+        "https://sports.play.cbsi.video/h/1.3Pk4txWLKVu8VhWcTIplGhSoaOW1aTetpfGL4jE6JIlWjtN26yYLVCUZ4xbk7Fe1FeWBiIUuzUZHc6bYEIkMAeoFJgA1oMx7dLYMXl5Sg0b1UPMtEUuzcqNHIqnZCOQxtkrwz9ftpJukePU9YVk9ixI8JjTxBvDCkQ8NZh3UBIMB9TAibTQXZAb9SgPvuzmq9eyllODD7VyaYgdt6GBovDi6RsycKqxORKmWBsWvUKvJaXvpFiX9QU70npR0lm0E7LeMVFCqOA8e/master.m3u8"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "4f5e1d8819",
-      "key": "boss-bull-contract-extend-mekie-red-through",
-      "headline": "Red Bull extend F1 boss Mekies' contract through 2031",
-      "summary": "https://www.gpblog.com/en/analysis/Laurent Mekies has extended his contract with Red Bull through the end of 2031, bringing calm and stability - a vital foundation for Max Verstappen and the team.",
+      "id": "2dfa6f70c9",
+      "key": "3-52-announce-baby-hilary-pregnant-swank",
+      "headline": "Hilary Swank, 52, announces she’s pregnant with baby No. 3",
+      "summary": "https://people.com/Hilary Swank, 52, is pregnant and expecting her third baby with husband Philip Schneider. Swank shared the exciting news with an adorable video on Instagram.",
       "sources": [
+        "Page Six",
+        "People.com",
+        "Yahoo",
+        "Just Jared",
+        "Us Weekly"
+      ],
+      "article_urls": [
+        "https://people.com/hilary-swank-pregnant-expecting-third-baby-12173967",
+        "https://www.justjared.com/2026/10/14/hilary-swank-52-is-pregnant-with-third-child/",
+        "https://pagesix.com/2026/10/14/parents/hilary-swank-announces-shes-pregnant-with-baby-no-3/",
+        "https://www.hellomagazine.com/us/929072/hilary-swank-52-drops-surprise-pregnancy-announcement-with-new-family-video/",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0UyYTFHQ2g4TlJHaTRZTjN0NWh4R2V3YXMzdU83VEc2SEs5X0JwLUwwd2FJbzRDX3hZMDQtLWI4Q2VwbEo1bk9IZ2xPVk1FZzNKbmg1NXJMY05zR2tILWNGRkFwZy1RN25qaGtRdlZQVm55MDFaakhmajN1bHJpeC1mTGVFOXREbkZVY1BIVWhyRFJMbmc?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hNGI2UUVWY0xmaFU0X0ZOY2tyaUFNcFBpTFJXR3I1OTZmbldjd3ZnSjlMdzRfbWFUS0ZGeDQyNFZQdGRzbUlacVJxM3ViLWk0bnNGamtTMEFrS1FqTWhvSU1FajVJUTZqRU4yOUhWZFE4aUoxTF9QSFJB?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcDI5RldpZll4SzkxcDVKTEJvVFd3cUM1RGFuZzBKRzNaZGp0QUcwTXRsbmp3dmc2VUQ2cjgtSld6RkJSajg0R0dlaXlsMDZiZkw5YjI1STdQU0Y1YnRYQ2lWTXgzUDFUVEMydzVqQVhUQnNnbXVIZ1J1YnE0YWVudzV5V2F2SnIxcXg0Uw?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3ZET0YtaVU3TGdBM2ZLdE5EZndPOXZVSld1ckkwS0pxLUQ3RWM5a1BLYjdVcUd2VVY2Z1huSGgtdzl3cG5heFhGMXV3bldWNUVnTzVoMUkwajVpb1ozd0RuQ2lLc3NHdVNnNW5ab1NYeGx5cmY1VUJPMWJ3Z2Y0emlhX1JzU3I1ZWc?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T20:21:00Z",
+      "published_at_ist": "2026-10-15 01:51 IST",
+      "first_seen_utc": "2026-10-14T20:21:00Z",
+      "age_minutes": 73,
+      "trend_score": 11,
+      "rank_score": 1.0233,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "hilary swank (GB 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://people.com/thmb/pdIiLkOkFSVnsl-4-1XFZnTL6c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(762x309:764x311)/hilary-swank-Philip-Schneider-101426-91d6f2a678c249ff812fb066d1c88b3f.jpg",
+        "https://www.justjared.com/wp-content/uploads/2026/10/hilary-swank-and-husband-pregnant.jpg",
+        "https://pagesix.com/wp-content/uploads/sites/3/2026/10/Hilary-Swank-pregnant.jpg?quality=75&strip=all&w=1200",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThvTfNz01WfbWOgYvhU_85F9IWDxYdFeetGWtPwx2My2WUdgT9r6rwugRHeBw",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGTycAGHYZSwSYy4TnbL_-Lr01rQ7zUGBDMvDEaTzMorkfpN0TOkjpEfl4drc",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStL37Dm95ldKAC31rUVQB5ZyT1e0n6dNXFgsL3ToATRovB8tjvWDotkgZZYq8"
+      ],
+      "video_urls": [
+        "https://content.jwplatform.com/players/OwOOAKzj-TjhEzkCS.html",
+        "https://cdn.jwplayer.com/videos/OwOOAKzj-guILbWnz.mp4"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "1ce8c79ade",
+      "key": "102-cricket-fourth-give-hope-india-indie-leveling-serie-shai-t20-west",
+      "headline": "Shai Hope’s 102 gives West Indies series-leveling win over India in fourth cricket T20",
+      "summary": "https://www.aljazeera.com/sports/2026/10/14/Shai Hope’s 102 gives West Indies a 24-run series-leveling win over India in fourth cricket T20 as another record falls.",
+      "sources": [
+        "Al Jazeera",
+        "Alton Telegraph",
+        "Toronto Star",
+        "Bozeman Daily Chronicle",
+        "Oskaloosa Herald",
+        "KVUE",
+        "Outlook India",
+        "Idaho State Journal",
+        "The Indian Express",
+        "Devdiscourse"
+      ],
+      "article_urls": [
+        "https://www.thetelegraph.com/sports/article/shai-hope-s-102-gives-west-indies-22477295.php",
+        "https://www.aljazeera.com/sports/2026/10/14/west-indies-beat-india-to-level-series-as-hope-continues-record-run",
+        "https://www.thestar.com/sports/cricket/shai-hope-s-102-gives-west-indies-series-leveling-win-over-india-in-fourth-cricket-t20/article_bcb96ebc-aa4f-5604-9e6a-3e9c71f9bbb9.html",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUs3WEF4M0UzMW1kUWk5MHh5cXNtcGZpRm42MXp5VTNpZUpRX1ZCTFpZY0JKYTNadUlSWXBkOGw2RGtwc0hqWTNnYzhDdVBCTVFJZEhCSE85X0pfbkp1RU16RXFWMmVpampEVFZnTWJONGZHbW5MZVFtTDBtUU5mNnByVXZIdEZSZXhzVHRDZVhvbG05UTFkWWQ3ci03MDV2TWNSNG5odVM3UXJOUk5qa9IBtgFBVV95cUxOXzNhNnh1UjZMYmpPRjV2UUZ6ZjZCaG1ZS0dkcU1HbWdnYXNrck5CazlBSllBOFRUeHRZM2dwTEdNS1BqSFhid2xMbVJTUWpIdTlpT1UyRjZocE9fa1U2T3ZUaDM4eVRGRm9tZm9pVVFDNEJvMzFqWllBTUFncHFNREhqNEdjZmY2ZnZGQjdIbW5JSEdqZ2JaNDR5VWJOazZHWGh5UGtIM05KRkZQTHZBYm1DVHlMQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNVhoTjlHN0ZJcUhIRU5BUWtJNFFFblY4TG03aE5sZWw4c2JENU4zbTlIcGc0ZkwwOEhBLVNKY1Zic1Q5WHg4dFJtUVZFdW54SGdhaTdIYU9jb3dud2FxX1VzSjluUjJFZl9qSXRraWtxOWx0NzVkZzhuUE9SWXMtdnVrX3c0YWZ0eGJYc21IMHJlOUVY?oc=5",
+        "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNE1QZDhxRHdveUc5Y3RYLXhPYXg2bW5tOU5yMFNvUlZOeF9DRkxYV21FcTQtQ2YzNk1wX1l0RHlTZ0pJZG5iN0toc01pTTNOZEI3ZnZoZnNkc19rWW8yUERTT1p0MEFfYkxDTk84bkgyNDJ5RndwaGJBU3lrYnhfR0RsRTdKSFFURVgzdDFwMVRlNXAyQjFoc1FmSjQzS2V4Wmt2NHZONUhLeGxTVkM3eHo2Ri1fcTlXdjZiRkRlSjFObjBnNThCa0lFcHJQQnhUM3lZeENfdTlBOGlUZjFuZjYxOGl3NmxTUlN5bW5Fb2lXWDVLbUZwTGx5aUxCd2lZZXV6clhn?oc=5",
+        "https://news.google.com/rss/articles/CBMijwJBVV95cUxQN09KcFNiT3pVdjFLZ3pTQ1JCM1NEQW4zX0s4WU1qQ285UjJOaFlLLVNfbDlwb0VhdzBwbmxBNlZ3TGxld1MxYzE3UDBvdmduWjlyUThzdmV3bUhway02RTZfd2xSTGsxa1I5aWVtU0Ywak0xNmk3ekEyQUdDYXdVcTQtbVBHcmVYdzlFQ2tWalJQdjg3TFcxVTZrdTNnYldHN3ljYnZXb3N0OHE0MVBPcDdmZmJWa3U0a1VZTDdLdUI2NzRqbkJSNjdPLUFYallrdl9odDEwN3c5a1F6YnlVdlVHRkpFazc3YkE5aHhiZFZWY1htZFRCOVNCdlIwbXRrVFctWEh4cnRJMm5jOUJB?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdWF2Q3QtWWxnVWNHc1pwdHE2d0psSXpjQ0hoajUxczdzaXQ4eGRUMU44aHJUOVJXdXJTUm1oT21LWDBQSGx1dVhzSmtUaWotYVZGVC1PbVJzZnkxQlduQ0liT1l0M2E0dHhPdnktVXp4M01FN3JQQ282VEY0X1Y0b2pCWXRFVE15QnVwUlhrVkMyS084cjRqd0thaHAtWTFZZWpyTmpfbFJRNVVpZEZOcTN4Z08xamFqNUN2aWUxOVJJV0dFZDM2aUJEVmY4c0xpS19xWUdCNWZoTkdnYTBoZUxwSVh0Z0REbEhoeVZaTnloZFpCbU11czJ0N2xWYzlRZnN5ZG10aFctNVlxOHc?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T20:55:17Z",
+      "published_at_ist": "2026-10-15 02:25 IST",
+      "first_seen_utc": "2026-10-14T13:30:00Z",
+      "age_minutes": 39,
+      "trend_score": 31,
+      "rank_score": 0.9675,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "West Indies beat India to level T20 series as Hope continues record run",
+        "India Pay The Price For Bowling Lapses As Shai Hope, Keemo Paul Power West Indies To 24-Run Win, Level Series 2-2",
+        "India West Indies Cricket",
+        "Skipper Shai the only reason for Hope for West Indies"
+      ],
+      "image_urls": [
+        "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26287548497616-1792009433.jpg?resize=1920%2C1310"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "4d83d893b5",
+      "key": "bull-contract-extend-laurent-mekie-red-through",
+      "headline": "Red Bull Extends Laurent Mekies Contract Through 2031",
+      "summary": "https://www.autoweek.com/racing/formula-1/a74136152/red-bull-extends-mekies-contract-through-2031/Mekies will remain CEO and Team Principal as Red Bull builds on its recent resurgence with Max Verstappen.",
+      "sources": [
+        "Autoweek",
         "GPblog",
         "NewsCord",
         "GPFans",
         "The New York Times",
-        "PlanetF1",
+        "Bozeman Daily Chronicle",
         "Oskaloosa Herald",
-        "The Killeen Daily Herald",
+        "dailyadvance.com",
         "Yahoo",
-        "BBC",
-        "MotorBiscuit"
+        "BBC"
       ],
       "article_urls": [
-        "https://www.reuters.com/sports/formula1/red-bull-extend-f1-boss-mekies-contract-through-2031-2026-10-14/",
+        "https://www.autoweek.com/racing/formula-1/a74136152/red-bull-extends-mekies-contract-through-2031/",
         "https://www.gpblog.com/en/analysis/red-bull-has-regained-something-with-mekies-that-is-vital-for-verstappen",
         "https://newscord.org/article/red-bull-extends-laurent-mekies-contract-through-end-of-2031-f1-season--Story_20261014_RedBullF1bossMekiesg9c5b1cee",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVVMtal8xQVBOcVRYNlVLWXI2c3Utc01oNEtodmQxWjY0cVRfb0VFOXpjeE05LWRCc09YRHZYaTEzZ0Y1SGlENXBYMVVqbEx2Um82TVU0NktuYWpWVURfN0tSS0pVU29WMzlnVHphY1FSQW80REZtN1lJUXlqZnNoX0p1M05sX3RGR29PNHExSEZLWWFVaXFqaTVYQTl3TWM?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTVp0MjRBNWJaZ1NlcTQ3OUpfVzd0VENtYmY4clRKQWl0dFk0OHlWS214MDJ4dUttbUY5bzRaX3AyOEJSQTFvbVdpQVlzOEVuYlo2WHlIVW41LXRBam5WOXI1VjQydGt5ZHZuU3ptR0RYenZ1Y28yMEV6cTFhRUlMQzEtREtLMHdsUkNTZVFWT3BMbkdfOW9BeGZqdHl5TlZvNjZyMUlHY3JLT3c?oc=5",
         "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUC1mOUdERDVpeGZRbk1jaXBpcHk4UE5nMko2NHl1aWp3S0c4V0ZvMFltYUozams4U3VRdjBaemVXREhabTJFenhwZEVTOVZreFNabHdVOEpwWnRPaTBHY21KMV9vd2VIZG45eDlFbHVmTzg3eFVkdTVRbS1UXzFiSXp1U3JnV013UzhfREZTQ1ZQMlZLYlF4TldyQ09NNmNhSkl4UEdsbU5xenRUR3lWUzNWd1pkdzE3Mk4tcDVsWTFuN05LemJIY3FLdEZRWVczeGxiMG1mNXNrT0Fx?oc=5",
         "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFpUa1RvZHVkSmxSTllJQld3WTdZSHdfdmtEb3Znb3dReGY3T1BFOC1jaUY4ZVZMOHpwYUE2NC1lWmpKSGx1MUxOMFpRNzZGY0tRai1fRUh4clhXVWhWZ1RPSm10MFpwMnQ4a2dDb2lUNmQxcnh4RlRtU01ERHpfNWk2SmRaWkxaZDFfZWN3aTg1VE1WZ29vTmNwSDJWeVE?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlI2MXNWWE8yQWpLTDc2eld0by1xazdsZ2dKemZBTlY1bHR3dDlQdEFlLWdpdnlidUFPUUpSaTlsMDd4V3dOZzhnLXNUczAwV3hFMVNBX3VZcGR2c243dnBtbS1WOTF2V1dDVmFGeTN2aXk1T3B3Zm1FUnlOX3FBTnFkU042NzNWTDM4WjBR?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkptS0FlOVMydXBtOFdFVjJVS1dYUXhkcmR4WUgxRVJUWDQwMDhNQnhZaG5hZTBxVUJVSS1iNVJhVDdKWC1UTmpjY2xqZTdLLXJDSTJ2TjFtekgyOEcwVEdvNEVnSDFQNFp6cDdTeG9jOTlPaFVYOGdJZF8xOWhvSm9FV2dRUkJ2Y1l5MzFjUTFEVlcyYkpV?oc=5"
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYlI2MXNWWE8yQWpLTDc2eld0by1xazdsZ2dKemZBTlY1bHR3dDlQdEFlLWdpdnlidUFPUUpSaTlsMDd4V3dOZzhnLXNUczAwV3hFMVNBX3VZcGR2c243dnBtbS1WOTF2V1dDVmFGeTN2aXk1T3B3Zm1FUnlOX3FBTnFkU042NzNWTDM4WjBR?oc=5"
       ],
-      "published_at_utc": "2026-10-14T19:01:00Z",
-      "published_at_ist": "2026-10-15 00:31 IST",
-      "first_seen_utc": "2026-10-14T13:45:00Z",
-      "age_minutes": 96,
-      "trend_score": 31,
-      "rank_score": 0.92,
+      "published_at_utc": "2026-10-14T19:24:00Z",
+      "published_at_ist": "2026-10-15 00:54 IST",
+      "first_seen_utc": "2026-10-14T16:37:00Z",
+      "age_minutes": 130,
+      "trend_score": 30,
+      "rank_score": 0.8917,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -280,6 +299,8 @@
         "Red Bull extends F1 team principal Laurent Mekies’ contract through 2031"
       ],
       "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod/images/433575f4-14d8-4f48-ad19-c552f1380dd7.jpeg?crop=1.000000000000xw:0.749771411155xh;0.000000000000xw,0.000000000000xh&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/433575f4-14d8-4f48-ad19-c552f1380dd7.jpeg?crop=1.000000000000xw:0.749771411155xh;0.000000000000xw,0.000000000000xh&resize=640:*",
         "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-10%2Fmekies-6acfc3c4b2ba0.jpg",
         "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-10/mekies-6acfc3c4b2ba0.jpg@webp",
         "https://www.motortime.es/wp-content/uploads/2026/10/SI202610140296.jpg"
@@ -289,63 +310,165 @@
       "youtube_videos": []
     },
     {
-      "id": "409ef165df",
-      "key": "cricket-india-indie-west",
-      "headline": "India West Indies Cricket",
-      "summary": "https://gulfnews.com/sport/cricket/Shai Hope breaks Chris Gayle's T20I century record and joins Virat Kohli in an elite list as West Indies defeat India by 24 runs in Hyderabad.",
+      "id": "3da9df9d9f",
+      "key": "american-announce-core-date-north-tour-world-‘-’",
+      "headline": "XG Announces 2026 North American Dates for ‘The Core’ World Tour",
+      "summary": "https://www.ticketnews.com/2026/05/xg-announces-2026-north-american-dates-for-the-core-world-tour/XG has announced a seven-date North American arena tour for November 2026 in support of their latest album, “The Core.”",
       "sources": [
-        "The News Mill",
-        "Idaho State Journal",
-        "Gulf News",
-        "Livemint",
-        "Yahoo Sports",
-        "Idaho Press",
-        "Mid Florida Newspapers",
-        "Caribbean Today",
-        "Cricinfo",
-        "ICC"
+        "foxy99.com",
+        "TicketNews",
+        "103.9 Wayne FM"
       ],
       "article_urls": [
-        "https://www.idahostatejournal.com/sports/national/india-west-indies-cricket/image_aa7bddce-9297-5fb2-b0a1-3d07b8d6df59.html",
-        "https://thenewsmill.com/2026/10/shreyas-iyer-cites-bowling-execution-for-indias-23-run-loss-to-west-indies-in-4th-t20i/",
-        "https://gulfnews.com/sport/cricket/shai-hope-breaks-gayles-record-joins-kohli-in-elite-list-as-west-indies-stun-india-1.500710886",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRFJYaUxReGJIMEh6Y1FHckJ3b2dUb3dVVlBXTDRWMFVkT2dORGVxTEREU3V5YlAwTHlVZl9rSm91UVNTSC1HY0NVQ1hGenNvZXdueG5aYmRGWHVMY24zZS1KVGd0aHJKSDd5TFB2UXRBWUV3cGNITlRuRlZYbmw5VFJpNmstMmZSblJ2enJCOG1NXzh6M0hNRGtYbllMNkdYREtET3YwTWZPZUx4V0p4VEtHOUR1N0dJQzhz?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNakNHREw5MUd2aHRjNVU4Vl9BT25RY3l6aXp2ZmJOdXZMMnlhM1A4dDZDcVpOanRxRGhieHZ2Z0Z5YklfME9vLVNoREtVUjN1Y3JrNGt3aVBZZHF6SnNXSVljeEY5bmhKZ3c0Yl9PUDJPeHM5QmtZVVFUZkdkQVhISFdlZEtoYklfMzg5V0poTENmMUtMRHREV2pvSklWX01pbG1lb0k0Y08taVFOTEVKSkJYc09wck1vYVdTWHAzakY?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUXVPMy1WYlh5NzBNQmRocU5iM2tSMkx3UnVQRGl2SjN2eHptaFZpNDhrYlRCRlYtUzlXWUdpZDQ3S1lfTy1YYjR5aG4tSjdQZkcySmlHYk5nMTZyZ3JTVXdjQWh0TGk0dUxLbEZZQWpWR2tRWWN6VUE4TzYwM0hNRmlpdTIwRVc0X2pubm1kRXE3ZDBINlVSTGVObm5uaFpvRFRXR3k0VDJzcngxMHFSMlQwRENFbFBnYkpMckxPTlJyRHgySWJtaA?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3R6MU5Lem03b2lCY05FdXpsT19kTVpGa2VNdF9hR2pSOTZleDJITWZ6N3dLZkZheVp0RGtKcy1ucjctQ0kxalVfbE5HTWlIMXRoMGpNSU9zUGpXZUpQc2xnWDMyMG9rb05CcFVPRW1fYmFwMnlwYUtGazF1MUpuX0lDVno3UW1VYTNaOGpEdXdZMTl1SVdMM2dTS0MzT0x0d0RfR0tBRG5pYkEyQ2htaU5qVjdvZTc0ODg3RUdmZGE?oc=5",
-        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPN0tieEExT0RpLTA2ZXZTT0szQ09aYXpTLWNLNzlCTnFNTVFQcnhmaE9GODNCTFQ5Q0U1NHpwTnhmQjBkaHJiQ3AzU3hjdjBfd2dsd1pMSE9xcmotR0pydnRIWDJUX0xHeTRtUFBLSlozZF9BaWpHRlFZUU1YNGloWDNaTEpLTGg4bWNyWlc2MnhxYzM0LUViZnJGTUdrclp1UzdLMFF1RHFQVGJJamduNU44V01UOVNNZjVBb3NMYndDaERrWHYyanI2cUFGdGxhUVlnMjdZYW0xYXpxdkxTcTZzY3lWRk9Xd2RsNkRpMnVvZHFlUWxkQ1Bic0NvUnBDeVVN0gGIAkFVX3lxTE5LUG45cm5pdEJCU1l6YUY0UmhkWUc2YjFRQkxfRU5iV2pQa0dPUmRhdVY2WnBCSGxtOEJvTzZYZ0dXbzlDTXZwMDZGN1J6aFV4VFA2ZFR2WmhLYm5MN1RlQzlBUVRrSFZYdFE4UUxFVnpvZE8yc3J1dldaTE1UXzhOejRLVzcwMG51Umtnc3g4amh5V1VMbTgwb3V5Y2RGek1YNHBTTU9yNWZGSktLX09Ca2p6Y0VzeGR5NlBwVHYxdjY4Z1dTQUo4OXlfZmQzajU5SXhibERHVkFNV3pyQ0UwNUtoN2hha01JaVFpZlhFbk5KMDlUVk0yeWxQTDNLbnJjcGNMQlpkSQ?oc=5"
+        "https://www.ticketnews.com/2026/05/xg-announces-2026-north-american-dates-for-the-core-world-tour/",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxObndvaUxTX0hnNG5ZSlM5bFVwUUV0eXBzUkJyVlhnS2lONDlOR2RHOGlNYV9VcXNlMVlKcDBHLURLa0FFUFdib3loY2xHR1d4Ni01Y05xbzVQd2FDRWw4VmtPUkRvOGlweklBUF83VTJ0VXl2YWJDM2l1QzF4UE5SYmVJdzdnTnlFOVdtdUVTVUV4MWdQVkRoVVZUcVlYdmdkRlRZYUYwZTNTNzhONDVaeWtR?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOXdZRmE1b25LazJJSUg1blRWa3RXV0xMazZzUkJ4cm9IOW1IOTFGSkt3dkZNaGFad2xEZ1ZWR2ZXTFhfcDg2ZnR3WVlZUGtVZG5BQmllMmNkaHB6YU4xYjl5ajJYNGZVQlNMSWlZWjM0THBLY0dadl9fZFlFamFxWEU5dmhfd1FyZExoTHdxbE5mbDBkMkVPU1JNbUg2UEk?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGNHTC04OGlCWDB2VFBWakZiX2N1NGdLWGV0SFY4b2draXg4MUZSV0VoSkFXQmJkckdKeTduZEFnT0x1bGk3ZDM5RkFPVDFKeHZ4cEU3UVpvZDUtblFJenZONENOS19zcDhuUGRUQ2pMY3FvaDBvdlRqbVVMUXlOcXNwVjMtaFlkWWgzY2g5SmRyZEw0YUE?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaW1wamphWHZ2cUxONlo4OVp2elJjX2VBaEJ5R2lheGtTR09uVlNETUlpQ044TEV2aXdfX0d2RzVsQldqTF9ab29QdmZmN2pjZDNkNTkzV1BSekRKY1hvWjdOUWVVbDZ5ZV82WGFYbHQ4VHplNGZ2c2hUSzl4b2pSNjRVTEZqSWdCN3dYU01YRHpDcUtNOGc?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanJxcm5mcE90c3FyeWp6SXdNVTRMczlIeFByOWlZU1ZqSk1FVjdySTh0NkZhV3owX2dNVUZlVzgwM1FMZmduWERNemd4dzdZRWFVZ0JhcC1wR2ZJTl9fNHVkcDVZM2JMQ0dNMmlzRjF4LW04SjUtd0NGR0xHU09QUzVxc1NDbDIwb1Y1Mmp1TlJHcDM4?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMk9wTmNRdWNqOURBRzhtNU1abWRFVE9oOVZMcFhXU1pjQzZvYVNTVjgtVkZSZWpxdGV2QU9Jb2xZUVhSaHEzNkdDdEtwZC12eFNRNU05djBXUlRyM21KYW4xLXNFR2M0TGcwd2RxQUtPZS1uVnJrV3R5MlpTbEo1Q3I3VzRHMEprdmJqZjhraGpKbHN5VlFOTS1iSTZtQTFodjh0eFlpUVZGem4tNHdMMmc5Y08?oc=5"
       ],
-      "published_at_utc": "2026-10-14T19:42:14Z",
-      "published_at_ist": "2026-10-15 01:12 IST",
-      "first_seen_utc": "2026-10-14T13:30:00Z",
-      "age_minutes": 55,
-      "trend_score": 22,
-      "rank_score": 0.9064,
-      "category": "sports",
-      "section": "sports",
+      "published_at_utc": "2026-10-14T20:52:02Z",
+      "published_at_ist": "2026-10-15 02:22 IST",
+      "first_seen_utc": "2026-10-14T13:48:22Z",
+      "age_minutes": 42,
+      "trend_score": 15,
+      "rank_score": 0.8591,
+      "category": "celebrity_music",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
         "GB",
-        "IN"
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "cricket"
+        "Celebrities & music"
       ],
       "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
+      "india_topic": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Shreyas Iyer cites bowling execution after India’s 23-run West Indies loss",
-        "Shai Hope breaks Gayle's record, joins Kohli in elite list as West Indies stun India",
-        "Shai Hope's love affair with India: West Indies captain re-writes record books with fourth hundred on the tour",
-        "India vs. West Indies 4th T20I: Shai Hope stars as WI remain alive in the series"
+        "Ayra Starr Announces 20-Date Starrgirl World Tour Across Europe and North America",
+        "K-pop aespa Announces ‘SYNK : COMPLæXITY’ World Tour Dates",
+        "Don Omar Unveils 2026 ‘The Last King’ North American Tour",
+        "Jason Aldean Announces 2026 ‘Songs About Us’ Summer Tour"
       ],
       "image_urls": [
-        "https://media.assettype.com/gulfnews%2F2026-10-14%2Ftsuuuqgt%2Fnewsml_afp_com_20261014T155351Z_doc_d3af28p.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        "https://www.ticketnews.com/wp-content/uploads/2026/05/XG-World-Tour.webp"
+      ],
+      "video_urls": [
+        "https://www.ticketnews.com/wp-content/uploads/2026/10/prqx-webinar-oct22-2026.webm",
+        "https://www.ticketnews.com/wp-content/uploads/2026/10/prqx-webinar-oct22-2026.mp4",
+        "https://www.ticketnews.com/wp-content/uploads/2026/08/broker-copilot-ticketnews-banner-728x90-1.webm",
+        "https://www.ticketnews.com/wp-content/uploads/2026/08/broker-copilot-ticketnews-banner-728x90-1.mp4"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "061193a250",
+      "key": "christian-crash-fury-horner-max-mclaren-message-reveal-singapore-verstappen",
+      "headline": "F1 Today | Christian Horner reveals Max Verstappen messages, McLaren's fury after Singapore crash",
+      "summary": "https://www.gpblog.com/en/news/From Christian Horner's recent messages to Max Verstappen, to Laurent Mekies' new deal at Red Bull - here are today's top stories.",
+      "sources": [
+        "GPblog"
+      ],
+      "article_urls": [
+        "https://www.gpblog.com/en/news/f1-today-christian-horner-still-in-contact-with-max-verstappen-laurent-mekies-extends-red-bull-deal",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdWgxeVRIZ3IyRXVvSzY4MTNMX3lHWGg1YzRrWi1fTUctdnNvM01TUEltem5ITDNwOHpLT1ZGblFFVjJpUllydl9vRjhOZmt1Z1preHFSbGNPNXFfUnNia1RjNlo2ejMyTHMwaXFHc21pWmVCU1RfbC1hRUo4V0E1YTk4LTZwTXlYSlZOemJKWUg0TEl4U2NwSG9Kc2ZkdkstSWd4UnJONWRmRUJwWUY1TWZRa2ItRl96dW9aSkZXRVpqMEw2TmpoMDdR?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T21:01:38Z",
+      "published_at_ist": "2026-10-15 02:31 IST",
+      "first_seen_utc": "2026-10-14T21:01:38Z",
+      "age_minutes": 33,
+      "trend_score": 11,
+      "rank_score": 0.8505,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Max Verstappen"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2025-12%2Fverstappen-en-horner-6932f6428f698.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2025-12/verstappen-en-horner-6932f6428f698.jpg@webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "b4e76f476a",
+      "key": "explained-marvel-paladin-villain-visionquest",
+      "headline": "Who Is VisionQuest's Paladin? The New Marvel Villain Explained",
+      "summary": "https://www.slashfilm.com/2285482/vision-quest-paladin-marvel-villain-explained/While Paladin is an established character in the Marvel Universe, VisionQuest takes some serious liberties with the villain.",
+      "sources": [
+        "IMDb",
+        "SlashFilm",
+        "The Direct",
+        "Polygon.com",
+        "TVLine"
+      ],
+      "article_urls": [
+        "https://www.slashfilm.com/2285482/vision-quest-paladin-marvel-villain-explained/",
+        "https://www.imdb.com/news/ni66063140/?ref_=ttnw_art_perm",
+        "https://thedirect.com/article/visionquest-paladin-client-marvel-characters",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBckhnUXpsaEg1M0NfTXMxOExyZ2VnVEpXNDg1V2FJdHZ2T0hIeno4cWFYa2taUklPbC1nd3lZSTU2WXgxVmpDVklNaU5kTVV2ZDRlTWdweEJYZGRjUjM2WmRwMkxFb3M?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMzNueVVubGJ5MEU0aHJ3SUJRRHhPVjNqclk0Y25HQ1Rmcmo3NnJTeTZycV9IdVZJUk9obmtZdnRtWlVNZ2wtbDZKeVFFUW40eGt0amZjWndYQzBrLUI2YUppNFhpQkV3b3lVdEJZTU4zQnpYM2kzVllXYVRVN3hNQkRJMFNsdmc?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RGlORkJLOU9mdVFVcmxKempNTVdVZGFISGh0YWlITmhmM3N0VGt6SUx3dFFhMUQ4ZkFpbUctc0xNS0Y1Zl9TRk8xUWVEeks5X2RySnF6Vk9DaW5QaXhaa1o0VlNkcTJDNVhuMkxnTzE1ODhRbW02NHJNOWtfaW8?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYl9TcVg3MWJLbElodGZmWnJ0UTM1UC1MazY0Z2tCaWxwNlhTZ1VxcG9XV3pUaE93b00zX2xhMkRsTWpNQVNLNGdyd1dUdVNNNF8tVVdvMXI5TnExQ04tUnR0eTc?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWZNajBuR1R6ekZJN1N5TEJ1bHBldTJuNEFLaE4ybFpHcUhpZmtJc3pNT3JPYVRaU3VsbUZFVkFwaFN2V2VTZFJZU0ItY0h4YWJRcFFDRTBnOXlRRnlmU1lCZXBBcFhCc2o1QnRfTzI0TDdUblZRRmhSbTZKZ3FIME1nT3N3SDdrZXc?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T21:21:27Z",
+      "published_at_ist": "2026-10-15 02:51 IST",
+      "first_seen_utc": "2026-10-14T13:48:34Z",
+      "age_minutes": 13,
+      "trend_score": 12,
+      "rank_score": 0.85,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Who Plays Paladin On Marvel's VisionQuest?",
+        "VisionQuest: Paladin's Mysterious ‘Client’ Could Be 1 of These 7 Marvel Characters",
+        "Why Paladin From Marvel's VisionQuest Looks So Familiar",
+        "'VisionQuest's New Villain Is a Wild Fusion of Marvel and Star Wars, 49 Years in the Making"
+      ],
+      "image_urls": [
+        "https://www.slashfilm.com/img/gallery/vision-quest-paladin-marvel-villain-explained/l-intro-1791920710.jpg",
+        "https://images.thedirect.com/media/article_full/visionmystery.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -376,9 +499,9 @@
       "published_at_utc": "2026-10-14T20:22:58Z",
       "published_at_ist": "2026-10-15 01:52 IST",
       "first_seen_utc": "2026-10-14T13:00:06Z",
-      "age_minutes": 14,
+      "age_minutes": 71,
       "trend_score": 16,
-      "rank_score": 0.8921,
+      "rank_score": 0.8446,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -413,312 +536,157 @@
       "youtube_videos": []
     },
     {
-      "id": "e73b0d8031",
-      "key": "buy-huang-jensen-make-taiwan",
-      "headline": "Jensen Huang in Taiwan: \"the more you buy, the more you make\"",
-      "summary": "https://app.dealroom.co/news/note/Key takeaways from a Lex Fridman podcast episode with Nvidia fou…",
+      "id": "b48bb8b07e",
+      "key": "announce-bull-contract-extension-laurent-mekie-red",
+      "headline": "Red Bull F1 and Laurent Mekies announce contract extension",
+      "summary": "https://www.sbnation.com/formula-one/1132425/Laurent Mekies has a new long-term deal at Red Bull F1",
       "sources": [
-        "Dealroom",
-        "YouTube: Lex Fridman"
+        "autoX",
+        "PlanetF1",
+        "MotorBiscuit",
+        "Motorsport.com",
+        "SB Nation",
+        "Crash.net",
+        "Motorsport Week"
       ],
       "article_urls": [
-        "https://app.dealroom.co/news/note/jensen-huang-in-taiwan-the-more-you-buy-the-more-you-make",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc042SHFoUkFLTVY4eGdPOUFhZG5wbjVUTDFZT1RpQk5QZW5HdzJWQzJMa3ZueFZiMlNRYUdfSWctVzBncENLUU9jSjkyZXFCUDRFSXJsT1I4WVUzZEs4X0N3bjJrd1BEcWI4ZnAydDh0Rl82MERaNXBRZEJjaTZKTTRmUnZISktWYXhSbTRCa05ycjhPNWc?oc=5",
-        "https://www.youtube.com/watch?v=FGCP2F_7rQk"
+        "https://www.sbnation.com/formula-one/1132425/red-bull-f1-news-laurent-mekies",
+        "https://www.autox.com/formula-one-sports/f1-max-verstappen-wins-singapore-gp-ahead-of-charles-leclerc-and-kimi-antonelli-124719/",
+        "https://www.planetf1.com/news/red-bull-max-verstappen-singapore-grand-prix-2026-announcement",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNjJRWllSVkZiVnloR0poaDFzUGJIVWtVMUV1NFRRSnI0VUM2NkNpVU9LS2NpNkd6TTd6QUNNVWgybGxEUWxCdXBVVXcyVHZ4c1loT0VsUjNjdTNFYkhSUXR1Y0psSE9Sd0dBcUFsSDg3d1hwYW44aTB5blVkaF9rOTFWcmpVQzlIZFFWa1BOWFVjNFk3V0ZPZDBCcnZoWTJlNkZzbU5fRE9HLUZfTF95NmRGSzZzVzlHaXdqaU1hdWdFWmxkaWlv?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkptS0FlOVMydXBtOFdFVjJVS1dYUXhkcmR4WUgxRVJUWDQwMDhNQnhZaG5hZTBxVUJVSS1iNVJhVDdKWC1UTmpjY2xqZTdLLXJDSTJ2TjFtekgyOEcwVEdvNEVnSDFQNFp6cDdTeG9jOTlPaFVYOGdJZF8xOWhvSm9FV2dRUkJ2Y1l5MzFjUTFEVlcyYkpV?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLXZxZm1jZDRvYkt2aWVrdmZfN2pUSzZTUmwyOTJoZHB0T1FsS1hHN1NKSkRNSy02Q0tGYXVscURSN2RkUnlRcloxNTBoMXVrQ3c5X1JtU3pJSFRMV3BYbVNrajdSZWJpOHpBVEswN0pMOWVORS11UW5tRzZKU014U2RCbDdHNGJ4dTA3cGZLOXk5bG50clpscTVJdXVQcHpDeFI2MHN4MUQzYlg4aEE?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaTRfMlc5MXJ3VFZQcUJLTDJTTmpGeWFvQ1A5QWNFV1dsb0U0akNULUlZWWtjUGpVMzdZWjZUNmViUGVMdVNxcEMyU1NkaExlNTZJaHpMV3Q3bWdWSmhJSU1IUGJsRUhmUHg4TlBLeWpndzN2TGNKWXpQbkVyYms5TlkyS21uTW9HaW9maDBMaDV1blZWZ1JvMjhseUtmNEJFR1V5bQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQXN5eUF2Yk5Sal9OeUU3dUJxaU14d1MtVmV1Y2FWSWpkRGgtNjgxb3E3Q1FDdzhhd3ZZbldhd3plN3ZOM1l0MmM1VGtja19rbjRKRDlMb1ZkYlViVmtOQ3pEcjc5Zzk4R2ZhZzVONlctY0E3UUNNcDZVWE5UNllDOXBR?oc=5"
       ],
-      "published_at_utc": "2026-10-14T18:44:32Z",
-      "published_at_ist": "2026-10-15 00:14 IST",
-      "first_seen_utc": "2026-10-13T21:26:16Z",
-      "age_minutes": 113,
-      "trend_score": 10,
-      "rank_score": 0.8899,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-14T20:06:48Z",
+      "published_at_ist": "2026-10-15 01:36 IST",
+      "first_seen_utc": "2026-10-14T13:45:00Z",
+      "age_minutes": 87,
+      "trend_score": 17,
+      "rank_score": 0.8404,
+      "category": "sports",
       "section": "top",
-      "source_type": "news+youtube",
-      "famous_names": [
-        "Jensen Huang",
-        "Lex Fridman"
-      ],
+      "source_type": "news",
+      "famous_names": [],
       "region": [
         "GB",
-        "IN",
-        "US",
-        "YT"
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips"
+        "F1"
       ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Visiting Taiwan w/ Jensen Huang | Lex Fridman"
-      ],
-      "image_urls": [
-        "https://webshotter.dealroom.co/?width=1600&height=800&wait_until=networkidle0&url=https%3A%2F%2Fapp.dealroom.co%2Fnews%2Fnote%2Fjensen-huang-in-taiwan-the-more-you-buy-the-more-you-make%3Fscreenshot%3Dtrue",
-        "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=FGCP2F_7rQk"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
-          "channel": "Lex Fridman",
-          "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
-          "published_at_ist": "2026-10-14 02:56 IST",
-          "thumbnail": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
-          "is_short": false
-        }
-      ]
-    },
-    {
-      "id": "9e85bb6bd0",
-      "key": "familiar-look-marvel-paladin-visionquest",
-      "headline": "Why Paladin From Marvel's VisionQuest Looks So Familiar",
-      "summary": "https://decider.com/2026/10/14/visionquest-how-many-episodes-release-date-disney-plus-visionquest-schedule/What does the future hold for Vision",
-      "sources": [
-        "IMDb",
-        "Decider",
-        "The Direct",
-        "SlashFilm",
-        "The Playlist",
-        "TVLine",
-        "The Ringer",
-        "Y105FM",
-        "The Independent",
-        "D23"
-      ],
-      "article_urls": [
-        "https://www.imdb.com/de/news/ni66062354/?ref_=tt_nwr_1",
-        "https://www.imdb.com/fr/news/ni66063001/?ref_=nmnw_art_perm",
-        "https://decider.com/2026/10/14/visionquest-how-many-episodes-release-date-disney-plus-visionquest-schedule/",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jS19mQ1pucER5SUp1eXZqWTlZYlJxRGtReEtZMGpnV3BQMUxNck9fam9ubXVJQ2FTN3JsQkFlam4wU0RhVVg0Y2JVTXV0UWlvLWtsamlHTzE2UnBEd2ZwREx3clVmamF6V3lv?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbE9Ud0pDMG5WQUJid0ZubDBSdU5LazU3LVFQSmQwRXQ1V3BueGhfWGk4ZkpFdHZ6RWF1ZmJ6MlFQb0xJV004SDFTYmpvMHVuWE9LSEhoMnlMaWNDTE9tdDYzeWg4SEQzejV4YjJNclM0MU03QXNCb1lONGlJTG1KZG1Xb1ZOLS02Zkp2czR3UDMwZHRfZW11RDRaaGQzLVpPME1ydXBETzZ0cHM?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE83RGlORkJLOU9mdVFVcmxKempNTVdVZGFISGh0YWlITmhmM3N0VGt6SUx3dFFhMUQ4ZkFpbUctc0xNS0Y1Zl9TRk8xUWVEeks5X2RySnF6Vk9DaW5QaXhaa1o0VlNkcTJDNVhuMkxnTzE1ODhRbW02NHJNOWtfaW8?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IYl9TcVg3MWJLbElodGZmWnJ0UTM1UC1MazY0Z2tCaWxwNlhTZ1VxcG9XV3pUaE93b00zX2xhMkRsTWpNQVNLNGdyd1dUdVNNNF8tVVdvMXI5TnExQ04tUnR0eTc?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWZNajBuR1R6ekZJN1N5TEJ1bHBldTJuNEFLaE4ybFpHcUhpZmtJc3pNT3JPYVRaU3VsbUZFVkFwaFN2V2VTZFJZU0ItY0h4YWJRcFFDRTBnOXlRRnlmU1lCZXBBcFhCc2o1QnRfTzI0TDdUblZRRmhSbTZKZ3FIME1nT3N3SDdrZXc?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T20:09:42Z",
-      "published_at_ist": "2026-10-15 01:39 IST",
-      "first_seen_utc": "2026-10-14T11:59:43Z",
-      "age_minutes": 28,
-      "trend_score": 17,
-      "rank_score": 0.8896,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "7 Best Shows Like Marvel’s ‘VisionQuest’ To Watch If You Loved the Series",
-        "How Many Episodes Are In Marvel’s ‘VisionQuest’? When Do New Episodes Come Out?",
-        "VisionQuest: Paladin's Mysterious ‘Client’ Could Be 1 of These 7 Marvel Characters",
-        "Who Plays Paladin On Marvel's VisionQuest?"
+        "F1: Max Verstappen Wins Singapore GP Ahead of Charles Leclerc and Kimi Antonelli",
+        "Red Bull makes new announcement after Max Verstappen wins Singapore GP",
+        "Historic F1 Wins for Red Bull Helps Them Make Decision Regarding Laurent Mekies",
+        "Laurent Mekies extends contract as Red Bull's F1 team boss"
       ],
       "image_urls": [
-        "https://decider.com/wp-content/uploads/2026/10/visionquest.jpg?quality=75&strip=all&w=1200",
-        "https://decider.com/wp-content/uploads/2026/10/visionquest.jpg?quality=75&strip=all&w=680&h=356&crop=1"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/sXKnmgmbkoE?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://content.jwplatform.com/players/mPxOuo0d-K0oOLQ9M.html",
-        "https://cdn.jwplayer.com/videos/mPxOuo0d-QVS3bn7S.mp4",
-        "https://www.youtube.com/embed/sXKnmgmbkoE?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "a835dd3fff",
-      "key": "ghost-premiere-staind-“-”",
-      "headline": "Staind Premiere “Ghosts” Video",
-      "summary": "https://killthemusic.net/blog/Staind have shared an official video for their new single “Ghosts.”",
-      "sources": [
-        "killthemusic.net",
-        "Kill The Music",
-        "Relix",
-        "The Mosh Network",
-        "chorus.fm",
-        "Rock & Blues Muse",
-        "The Rock Revival",
-        "Decibel Magazine",
-        "Americana Highways",
-        "Folk Alley"
-      ],
-      "article_urls": [
-        "https://killthemusic.net/blog/staind-premiere-ghosts-video",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRWThLaWJjaFJfUTFxWkJZRVRlNDM3a01KeVhoM0h6aFItX1BJeWo5bUp0WHZvajVCeHhpTHdNVlBhLVBSOEZSMVJybldneXBYNFFxc2tEVW5LNktaOFlMVHFVWnYxRlpfWWdqZ3cxWnBxWjQxYTdlbldB?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DUHBJT0psR2xoYV9FQXVubXAxRW9iLTVvbm8xTVNhMEJxU1BjS19pd1d3SFRhLUlBejA0Q1dyZ21OTTFXcG5rMDRYLXdSSjhCNnFKNVloMWE0TTlSVmpNQWM1QzRMUXhHaHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQWdxRzhNNWw1MHBXZUhMNWxpYUdCSXJYT2lUZ1RHeWtGbFZKc3ZBRGRoamk4RzhCVVJUQkd2N3Y0a1EwWTM4d1E4T0tsS0pmcWFtaEg2V2s2b3VwZkZPRGxXamNkUUlGeTN1b2t2VS0wVmxwVW1ENHM0bWVwZEpCdzRtbEM0Qmtjbk82azBOaXh2SjU4czZBc3pzSngzUXF2R3ZyUFlQUlhXOWo5bV9OQkMwcmVjcWhxQTJTOXhPMDRGYXE1ZGdubzhvTzdHWWRxRnVNNEp1NUNzRVJYLVNVNnA3TE5ON28?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE14MXFtcmRJTEdRRlQ1RWlzTk9UQmtQUzg0SDJEdXdBcjlzeklnb1Bmb1M1dnoyZGJWeDZkb2lEYlE3QThaTGxnZUdpR3pwamhuWTVkOHZlSzR2elZ6UHgtMVF3N1B4NzhIeW5TRm12SnZOTHAtcWc?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wTmQyQlVndjBNOWhCX0lUSkRGU0FraDI0bElZTzE4bVo2YVppZjVlei1tOVlPTmlucGJaT0JNMXNfNDQ0ejZDNXBEal9JMUYyOXN2cHRncnhKWXdOYVluaTdCUWEtUnJZQWxVOEpVYmduUXpkU0ww?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmRxZFZTNk1hWUxEdXRHb0ZBOTBuRHRkTlJERkFDS1hGVTVpVEtHVm5WMWlpR2xYX2pWS1RhQ2VPLWRtbmxGV0hwV0d0VkQxY1gyUjM4V2ZBc2JicDFGMVo2NUg2cTFYUU8tWnFlMkpaYm4xcHZ2VWxWeXhvSDNuRmEwLVcweEhRRUpwUW9JY2diYThROFow?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY24tWXdERW1uYTB3QlQzdXFjakF5T2htVmRheUk1VVNqTk9zY0RtX296UklkN0JCZER1QVlMcVVnWFNOR21GTE14V2h3aVpqYzZRclU5anAxamVweDUwMUcyN1EtUlVmRXZtT1BCZlpoekhFYkNVWllyZTlzalAtT0JYc0RyZWlZa2JhTlAweUpuZ29KWkEw?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T19:55:00Z",
-      "published_at_ist": "2026-10-15 01:25 IST",
-      "first_seen_utc": "2026-10-14T13:00:18Z",
-      "age_minutes": 42,
-      "trend_score": 14,
-      "rank_score": 0.8487,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Satanic Planet Premiere “Antichrist” Video",
-        "Premiere: Watch the Jimi Hendrix Experience Perform “Johnny B. Goode” Ahead of 'Jimi Plays Berkeley' Streaming Event on Thursday",
-        "Staind Share “Ghosts” Video And Extend Break The Cycle Anniversary Tour",
-        "Winterforever – “Stutterstep” (Video Premiere)"
-      ],
-      "image_urls": [
-        "http://static1.squarespace.com/static/5282904fe4b06dd1d21607b7/t/6acfcb5bafa0fd341980bdc4/1792002908020/7087.webp?format=1500w"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/CiMMFk5PhaU?feature=oembed"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "b1f3672ce0",
-      "key": "early-fenty-happy-holiday-rihanna-savage",
-      "headline": "Happy (Early) Holidays from Savage X Fenty x Rihanna",
-      "summary": "https://vmagazine.com/article/happy-early-holidays-from-savage-x-fenty-x-rihanna/Cozy up with Rihanna and her kids for Christmas",
-      "sources": [
-        "V Magazine",
-        "Yahoo",
-        "Hypebae"
-      ],
-      "article_urls": [
-        "https://vmagazine.com/article/happy-early-holidays-from-savage-x-fenty-x-rihanna/",
-        "https://www.yahoo.com/entertainment/celebrity/articles/rihanna-joined-rza-riot-rocki-175142509.html",
-        "https://hypebae.com/2026/10/rihanna-savage-x-fenty-new-campaign-holiday-rza-riot-rocki-info-where-to-buy",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2xieTQ1NmpZS1N4OW8tcFNYNmtKX21XM3RXMXFEREMzMFV3bldJYUo4RFpBWUYtV1VvcEpVMEJCcC1sVDl0UElfZFZOcVplY0VBUlFCbDZnT1EzTEZvRk9DalU0ekJNYVVUek0tWk9uUnZ3bnRRWGktR3M1R1Mxdm9ISGhnUFdo?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS04eXAzMUprcTdiZWt3T0YzcG1OVTVnV0tEZGgwR3Jab2V6N0ZFM3N3UFFSUTNWZW84bTBTQ0JjQ2l6MTcxYk9xU19oOHBCRnN4bjRCR2N5di14QV82Q0ZGNXEtZjZQZ0VKZk5lWlA4eWY2cFBzX3FIWkFXUWlSZC1DNndId0ZfLTlBd1Z2US1STUtQSG10cXRTMy1wal9u?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTU5pY0xKdzN5SzRqV0RvYk9NT2hGbGcwZ1FGQmFFQXc1RUZ6U0N6UUp3NnNYQTNEUjNCeUNxclpaZFpWM1RjdTlTRGgwLUNJTWtMaHB6c2RzVmdJYWd6N3dpY2lnalRENUp2V3lSYWNZa1ZKdTRhWE9OTHA5SlMwMzgzelNxeEN1QW1KM3U2V2cyZmJxYkQwbW1sYy04UzI4YjVzbXBYYw?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T20:04:36Z",
-      "published_at_ist": "2026-10-15 01:34 IST",
-      "first_seen_utc": "2026-10-14T16:49:27Z",
-      "age_minutes": 33,
-      "trend_score": 10,
-      "rank_score": 0.8366,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Rihanna"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Rihanna Joined by RZA, Riot, and Rocki for New Savage X Fenty Campaign",
-        "Rihanna Turned Savage X Fenty's New Campaign Into a Family Affair"
-      ],
-      "image_urls": [
-        "https://vmagazine.com/wp-content/uploads/2026/10/SXF_H26_RRF_SET_03_FORT_1989_v2_FINAL_sRGB_72dpi-1024x643.jpg",
-        "https://s.yimg.com/lo/mysterio/api/be33322dc86302191aaa023df23bf128b0b41428d200c75ad3db26649df5b35e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F35c163e6ad254151abca8a89d2e9a459.jpg",
-        "https://s.yimg.com/lo/mysterio/api/49f20d06c2165c5166fea654f50798cbe56e427a7e9fa3ca23fef5cff3aa21ca/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F35c163e6ad254151abca8a89d2e9a459.jpg",
-        "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F10%2F14%2Frihanna-savage-x-fenty-new-campaign-holiday-rza-riot-rocki-info-where-to-buy-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-        "https://image-cdn.hypb.st/https%3A%2F%2Fbae.hypebeast.com%2Ffiles%2F2026%2F10%2F14%2Frihanna-savage-x-fenty-new-campaign-holiday-rza-riot-rocki-info-where-to-buy-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        "https://platform.sbnation.com/wp-content/uploads/sites/2/2026/10/gettyimages-2299671610.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F14173234%2Fmax-verstappen-red-bull-laurent-mekies-f1-2026-bahrain-grand-prix-malaysia.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F14173234%2Fmax-verstappen-red-bull-laurent-mekies-f1-2026-bahrain-grand-prix-malaysia-1320x742.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "817329cb67",
-      "key": "caitlin-clark-effect-explain-popularity-swift-taylor-transcendent-wnba",
-      "headline": "How 'Taylor Swift effect' explains Caitlin Clark's transcendent WNBA popularity",
-      "summary": "https://www.sportingnews.com/us/wnba/indiana-fever/news/how-taylor-swift-effect-explains-caitlin-clarks-transcendent-wnba-popularity/The Fever superstar continues to drive the conversation.",
+      "id": "e398505f0d",
+      "key": "alex-beef-between-cormier-dana-daniel-pereira-react-white",
+      "headline": "Dana White Reacts to Beef Between Alex Pereira & Daniel Cormier",
+      "summary": "https://sports.yahoo.com/articles/UFC president Dana White shared his reaction to the beef between superstar MMA fighter Alex Pereira and UFC commentator Daniel Cormier. Pereira has made accusations that Cormier of pushing a narrative for the UFC to book a heavyweight title bout between Ciryl Gane and Josh Hokit instead of giving Pereira the rematch against Gane for […] The post Dana White Reacts ",
       "sources": [
-        "Fadeaway World",
-        "Sporting News",
-        "NDTV Sports",
-        "EssentiallySports"
+        "Yahoo Sports"
       ],
       "article_urls": [
-        "https://www.sportingnews.com/us/wnba/indiana-fever/news/how-taylor-swift-effect-explains-caitlin-clarks-transcendent-wnba-popularity/0e99aa0ee168c8e88e0752a3",
-        "https://fadeawayworld.net/wnba/caitlin-clarks-taylor-swift-effect-has-the-wnba-winning-big-on-social-media",
-        "https://sports.ndtv.com/us/nba/taylor-swift-effect-indiana-professor-explains-caitlin-clark-s-huge-wnba-social-media-impact-12186098",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc21hT2FHWHZyd3d5dEVVYmhjTUVVUDNtNFNQUldyTE9zS0JHYkxJandUQXJOZl9sbXBSQzh4Y3NWYzhBbFUtZ0lrSmxlQW1Wd3pFTGhTZGlqUHcxTUpxLUFtdld3eEU2Q0sxR0tnQm1WMXQzMTM5YUQxRmpOZno2cnYtcTF0R0JaRlc2WVBzUXVQcXFHTVlUVlFIUGVBcmtXN18wVmJrc1h2UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPb3pYVG40LWdSZmZvVG5VaHJFYXEzMnlHU0pVdXZObHVNX05HSDczTmdjT1AzNmtCcmpfR0NvcXU2YU84WldScWFoM0thbDYxc3VDM3FHdkRVeUxzT1JPM3hobzVJV1N0dHcxRDdueGtmcjhLLWFvcnNOQ3NsNm95MlluZzVUTll5emw1bk1jekFEZ29KcExpd3FMYWV0d1JxTXN3YlpOdEJjTUR5cW9uQW93YlQ2RjVzY2E3dlN6Z0ZBSkF2NVc0bngyYko3Qi1WT3dRSlhmMzNuQmMxaG5yc0ZJVDJlbTVlSE12c0RB?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3RweXpCd1VQcHRicU5oTThYa25ad0o4UG13Rmw2cTljcmsyd05taGRKVGFUbDFtNE9uMFFzemh5QU9NU2tLS0l4UUxOVUp1QU5hUU45N0YyZEpaNjFUQ2x4VldBSkV2Qkd6OGJ5cWpVVDNFUHBlTEpiMEZ5bGF1Z0Z4OGxQQVRCNzVyd0M4VE1GaFZvVFhXQVhYZFJBX0lEb1dnN2d0dFpmTkJTVUJNNDE4S2ZUX04xRkI2T0VWR3FHMFJvb0FHZF9BaDc?oc=5",
-        "https://news.google.com/rss/articles/CBMivwJBVV95cUxPX1pGUGhBekRZN2JDOEhaNHRZS2trS3JlT3FPc0ItZ1BFa1BtZHJmWlZ6VTVyWmtCcnBMc3ZfWEk0ancxZTlPa1VVMGFWNGhoZVVBOWU0Nkp6bzhTRXBrNUNtY3FwR3UyRlRGUlRMUDd3V0xaT25XQ2g2Z2pxUGNyNVRxRl9kV1ZZbWJNNktmOWRPYWFUS29EQk44SFg4RkJmN0dSUWxHaU5QbDVXVXRWeGdrZU9xSTJ0dVZtQjlNbXN3bVhZTEVoZ0x1MlpDaTVhVThsaUhCOGt2Mk5DS29NcV96WlFibTRFcXVxaFJWOEFjQ29hNy1pUlkyeXpCQnRPeW5SSnM1aFhjZk54bHlPbFVNbS1VNEEtM0VvZE96NFliY0lRWnZIaHg5WlV1Umt5cC1TTGlsVlJRZDlhLW9J?oc=5"
+        "https://sports.yahoo.com/articles/dana-white-reacts-beef-between-184910944.html",
+        "https://www.sherdog.com/news/news/Daniel-Cormier-denies-Alex-Pereiras-UFC-claim-hopes-friendship-survives-203204",
+        "https://www.mmamania.com/ufc-news/479017/alex-pereiras-paranoid-conspiracy-refuted-by-dana-white-daniel-cormier",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYm96VmxfRXZycW5ZeHEwUnp1Y0JFcFRFU1NmOWJXNmVvR2Z6TVI1ZVA1ai1kMzN6a3l3MzZuLUhxOXJPWDZpb1cxdFpnV3VIUnlVR1hWM2VSbVl4SzZTdGxYM2h4VFBkaXl3a3dTRnVJMGo2N1QtMGRKQkM4YUdEbEJGUVpiUQ?oc=5"
       ],
-      "published_at_utc": "2026-10-14T18:02:03Z",
-      "published_at_ist": "2026-10-14 23:32 IST",
-      "first_seen_utc": "2026-10-14T11:55:00Z",
-      "age_minutes": 155,
-      "trend_score": 16,
-      "rank_score": 0.8046,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-14T18:49:10Z",
+      "published_at_ist": "2026-10-15 00:19 IST",
+      "first_seen_utc": "2026-10-14T18:49:10Z",
+      "age_minutes": 165,
+      "trend_score": 7,
+      "rank_score": 0.8392,
+      "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
-      "famous_names": [
-        "Taylor Swift"
-      ],
+      "famous_names": [],
       "region": [
-        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "alex pereira (US 1000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/2939c52d2b8df40332b743561bbe1a06c8b6bea9da558ac083ab513a73f7ad20/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fheavy_214%2Fadf70cf90f39c65f61507647bf238fb1.jpg",
+        "https://www1-cdn.sherdog.com/_images/headers/20261014035105_cormier.JPEG",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1gA11l6YgF2sOMFqrzaKcOj3VYxqJg6gVIH3ApI0AqP8HMsZ_xzDEccDjTk",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4SB3mBkLxex02Oegv3nXnTqwO6ONkV1ShkViPGiC8a3_qlJ2Y1NNbacqpz_Q",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTTbzQaxK0b8-GPcSJelpVQMO72MX8h4KdbrRJUL3lWXFpJSZYa0DFeFvxc0-g"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "8e054f1e7c",
+      "key": "17-all-buying-dip-fell-here-high-hyperliquid-time",
+      "headline": "Hyperliquid Just Fell 17% From Its All-Time High. Here's Why I'm Not Buying the Dip.",
+      "summary": "https://www.fool.com/investing/2026/10/14/hyperliquid-just-fell-17-from-its-all-time-high/After hitting a new all-time high in September, Hyperliquid has cooled off considerably.",
+      "sources": [
+        "The Motley Fool",
+        "Yahoo Finance"
+      ],
+      "article_urls": [
+        "https://www.fool.com/investing/2026/10/14/hyperliquid-just-fell-17-from-its-all-time-high/",
+        "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-just-fell-17-time-210300460.html",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcUhjRjV2bjlXS3h4aU5nWDVTZFdlRWpManQzN0dWRW9DazJfUi1jMlJUS3JGTjNQQUhXYzZkQ0kxT2dLWURKWE1FWldsM2F2eXNkVDFIREN1ZnVmRTcwcEQxalpxbklOcklWWl9jUUwyVkNvYVVYanZaMWFqTW1OQW5zVExXR1I1Y0ZkQURjcFhtRDkx?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaTh3RThqRFRkbXEyREktVERyWFdSTHNSbFhGWEVPVDZoRUxlN1NDMXdEY0VVNzFPMHZEY0NBaG15Rnc4aGNyQjlZX05OQjFCYzV1MlNsS180d1Z6VjQ5Y0wwbHZ4Y0J4cmFrUm9HM2ZVT0tmLUN2emdTVVVlS0xxN1BPdjBaS1BXZTloNTlueWtSS1QyUndqS1ln?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T21:11:59Z",
+      "published_at_ist": "2026-10-15 02:41 IST",
+      "first_seen_utc": "2026-10-14T21:03:00Z",
+      "age_minutes": 22,
+      "trend_score": 8,
+      "rank_score": 0.7836,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music",
-        "Famous people clips"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Caitlin Clark’s ‘Taylor Swift Effect’ Has The WNBA Winning Big On Social Media",
-        "\"Taylor Swift Effect\": Indiana Professor Explains Caitlin Clark’s Huge WNBA Social Media Impact",
-        "“Taylor Swift Effect”: Indiana Professor Weighs In As WNBA Social Media Views Climbed 436% to 1.96 Billion Views After Caitlin Clark’s Rookie Season"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-10/2026-10-02T042758Z_1995937010_MT1USATODAY29971622_RTRMADP_3_WNBA-PLAYOFFS-INDIANA-FEVER-AT-LAS-VEGAS-ACES.JPG.webp?itok=1WQehi77",
-        "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-10/2026-10-02T042758Z_1995937010_MT1USATODAY29971622_RTRMADP_3_WNBA-PLAYOFFS-INDIANA-FEVER-AT-LAS-VEGAS-ACES.JPG?itok=igc9nTOH",
-        "https://fadeawayworld.net/wp-content/uploads/2026/09/2026-08-29T020320Z_155326787_MT1USATODAY29684728_RTRMADP_3_WNBA-CONNECTICUT-SUN-AT-INDIANA-FEVER-2-1024x682.jpg"
+        "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F890564%2Finvestor-digital-charts.jpg&w=1200&op=resize",
+        "https://s.yimg.com/lo/mysterio/api/8b9379603f285637a9c7062857f9515a1fb2f4f8f37a1a6c833950f08ec82e3b/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fa8dbae13e7f49f4826951c68b4ff5b5f.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -738,9 +706,9 @@
       "published_at_utc": "2026-10-14T16:00:12Z",
       "published_at_ist": "2026-10-14 21:30 IST",
       "first_seen_utc": "2026-10-14T16:00:12Z",
-      "age_minutes": 277,
+      "age_minutes": 334,
       "trend_score": 5,
-      "rank_score": 0.8004,
+      "rank_score": 0.7826,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -779,44 +747,84 @@
       ]
     },
     {
-      "id": "7f5ab9ac25",
-      "key": "africa-conrad-defeat-durban-need-singlebloodymindedness-south",
-      "headline": "South Africa need 'singlebloodymindedness': Conrad after Durban defeat",
-      "summary": "https://www.cricbuzz.com/cricket-news/140521/Shukri Conrad refused to hit the panic button after the Kingsmead loss, saying they team doesn't need to go 'soul-searching'",
+      "id": "1b6c279817",
+      "key": "32-balderton-capital-duvo-enterprise-execution-led-million-raise-serie",
+      "headline": "Duvo Raises $32 Million Series A Led By Balderton Capital For Enterprise Execution OS",
+      "summary": "https://pulse2.com/duvo-raises-32-million-series-a/Duvo has raised $32 million in Series A funding to expand its Enterprise Execution OS, a platform designed to let employees and AI agents run business processes together across existing enterprise systems. The round was led by Balderton Capital, with participation from existing investors Index Ventures, Northzone, and Credo Ventures. The financing",
       "sources": [
-        "Cricbuzz",
-        "ICC",
-        "Cricinfo",
-        "The Hindu",
-        "The Times of India",
-        "The Star"
+        "Pulse 2.0",
+        "citybiz"
       ],
       "article_urls": [
-        "https://www.cricbuzz.com/cricket-news/140521/south-africa-need-singlebloodymindedness-shukri-conrad-cricbuzzcom",
-        "https://timesofindia.indiatimes.com/sports/cricket/news/we-need-to-get-bloody-better-south-africa-warned-after-first-test-defeat-to-australia/amp_articleshow/134945857.cms",
-        "https://www.thestar.com.my/sport/cricket/2026/10/14/cricket-no-need-for-knee-jerk-reaction-warns-south-africa-coach-after-test-defeat",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQTJiOWNNZHRxaXJsQ2FTMHJwWmxaOWwwZ2VTbFN4bmZHeWxXX3RpZUdpYW5wcENjc2FQUll3ZGxCVExNc1hBcUdldVVlbVZqaEhkN0RrN3h3OUFQYkZiandhYzRUc2FjVWVMUE0xQ0lpanZiNk1JTjR5bTJETWtmV1ludF9VZTB1UGhUbXVVSFVRYkhLZFFKQVJpMUEzYzZkLVFsU1dNbnJHNGdrelJaZw?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTTFSd2NkNjhydmlONXFHNndJb2Y5MkZLNWdTb2ktT3ZWaWVMOXV5OVVja2pKSS1JUzJtZ3NvZC1iTWJHbjA1NGx5Wk4wX1Y3WDV4R0psNEM4akFfbWlHY0VJSzVpTUdzQ05Ia2pLd01TYU5Bdjl3cjExaXVvaWRFOUVvTG5VUnFxbG9RVG5pbmMtQllP?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxONGRYUzFhN1RJaUNEazhfLUQzVkl4bVhBanVRTUpNeG1iQ2szeDZxT2xkeTJvekhPNnlrbzRLUjRiQU9tM0luVzZ6TmJNTVRxMUFtYjdRSzFzYVhsekRITWsyMFZhcmQ4YnN2Qm5KVWdWb3hLNmk1V193TDFHWE5MUE92RWZMRjllMlFDYklETTRyckRYTlNmdEZudDdKaFZZZWfSAbMBQVVfeXFMTkNJQnBoM0RDTU12Z3c4Y3NiU3l0ZlVfZHJ1M0x6Q3hUQURPaFhoV1FQVWlXWGdwaHRINmpELW93STVSMDJvbFVwaGxrcXFqU3FGcS1DbzlWb044RFluYzhncXVObTFJV3VHaU5DelNoNjhzSDFfVGpsb0xBczczTzd1NkNRTFJJQ0U2aVF3NWtCcmhkbDVsVEVaR3ZXLXUtckEyVTFqN2dVanhRNm90bzFBbWM?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlV5d3FWU250M1YtZnBfQzBtbi1PR3ZVaXVHVjFISkZDYU1LM0VaczZfWnV6REdMZ0ZBNWhOYW92UnItLWNfZV83a3BTN2xGSUM4dTdaUDlIdllsdUpxT2lIWWstZDA2d3JyRFgxeng3Um41M0MzQ1kyRHJtSUdhLWdxb3ByZkM1VnphMERSTTRiaTRrdnR0S2ppOWxOdzRjT3k4WnBrOXdlczFoVmdoZEFiQlkyZlR1TVpKeUhn0gHEAUFVX3lxTE5HVkdDQVVuc3FYVUt5dU50MEo1MG96Q3lYYzFudDZCZXJ4RFZXR0hGTEgtOFBVSldaVGc2a0Q0LW5CNVZFQW02Nlh6ZzJLZnRVVkRuSzVtT2ROUWhodGJ4SWNsUFdsNklFQ1phSlFaQkZHQ0NOTjJKSGRrTkxlbzk4SGlBSDR4ejRpaE5hVkhDcXBwZjVUN0N6blNiTkVtSERPaEluQTczb3cxV2FsMlNuTVZocVFTYktPRWk1NEJrQWNHTkg?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbzFnZktoMmZPVkFrNkJPczNmc0I5azVqbERldU1Cd19acVRhUExYcF9FRGpPWVh4QTdKZXEyU0R1R3pmd2hlNzJQc0ZOZlp3clBWMklrT2E2Nlp1MWlNSHZjQnpTUlRkRjZiYUV4UUthT0ViUFB6UFhaSHJadi11NlJGM0pfcUNjOUJFTnhBZzFybHlLbFpDdmFiRi1XaUtJcnpyX251bDdINkp3YTJLbkVacWxXbUk4TnBHOTVpQUd0NWV1eWFQM3ZZM2hUclZTNmFzVXlTeExFYnNvcXFyQ3o4RklMQVJWUmkzcmFOd19LdHNZMm9RcTA3dzlvUGdDcFE3YXRrWlBkcE4wdGtOcA?oc=5"
+        "https://pulse2.com/duvo-raises-32-million-series-a/",
+        "https://www.citybiz.co/article/918388/duvo-raises-32m-series-a-led-by-balderton-capital-appoints-michael-green-and-spencer-insolia/",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hQk1tUHlZdXNjOE90MUdVLXg0TXJBRmJCeW11allzNFhpbXJBbTh0clJ3aVlxUk9pNlZKdmM3UGhOSndBRm8teHJ3SXBrdnZoSVlwRnQtTXlEeTFDaDJOVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaUJydE9aR1EzVUVyR2NSbE5TTDZlQWlBdFY4NC1yZ2xzYTFnUFphNFVCOEZaSU5Wa0tIOVpmclZtWko1U3k3X3VDMzlSaURyTDR3Zk9NYWwxcTlfeUxQYlBIMmdpaVBiWEJ1MENLTXhIc05WamxDRFNlWUtGdWF4MWwweGQtSFBHTThGNEs3SDRzOUVMR1JkUEk4b2o0Rm5FZ1J5Sl9udVJhc21QMGk2SkFVdFZ1NzZQazFzeGtpNjRVZnA5dlk4NEpSWQ?oc=5"
       ],
-      "published_at_utc": "2026-10-14T18:45:00Z",
-      "published_at_ist": "2026-10-15 00:15 IST",
-      "first_seen_utc": "2026-10-14T11:45:01Z",
-      "age_minutes": 112,
-      "trend_score": 13,
-      "rank_score": 0.7793,
-      "category": "sports",
-      "section": "sports",
+      "published_at_utc": "2026-10-14T21:22:49Z",
+      "published_at_ist": "2026-10-15 02:52 IST",
+      "first_seen_utc": "2026-10-14T14:07:57Z",
+      "age_minutes": 11,
+      "trend_score": 6,
+      "rank_score": 0.7525,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "AI tools & agents"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Duvo Raises $32M Series A Led by Balderton Capital, Appoints Michael Green and Spencer Insolia"
+      ],
+      "image_urls": [
+        "https://cdn.pulse2.com/cdn/2026/10/Duvo-Logo.jpg",
+        "https://www.citybiz.co/wp-content/uploads/2026/10/Duvo.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "cf6d297b21",
+      "key": "backed-bollywood-debut-hum-krithi-make-mein-pyaar-rohit-shetty-tere",
+      "headline": "Krithi Shetty to make her Bollywood debut with Rohit Shetty backed 'Hum Tere Pyaar Mein'",
+      "summary": "https://www.indiatribune.com/public/Mumbai, Oct 14 (IANS) Southern beauty Krithi Shetty is all set to step into Bollywood with Rohit Shetty backed forthcoming romantic entertainer, 'Hum Tere Pyaar Mein'. The film is directed by Vidhi Ghodgaonkar, who has spent the last 17 years as a protégé of filmmaker Rohit Shetty. She has served as the assistant director in a...",
+      "sources": [
+        "India Tribune - Chicago",
+        "Telangana Today"
+      ],
+      "article_urls": [
+        "https://www.indiatribune.com/public/krithi-shetty-to-make-her-bollywood-debut-with-rohit-shetty-backed-hum-tere-pyaar-mein",
+        "https://telanganatoday.com/1604399-2",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxObjZnTHY2LXhjUlNJZE1fUkwwX2xPY1liNGpORjJidjhwMUI2eTlEcGVleTcxSTA3ZHlaVjliNVJjVnBfbVlFZ2pqRzVPMWFzdXNoM3VVdDQwb21WcmdCM19jMXlwck1xZzVKZTdRZ1QyVUNaVG5NelNBa2ljTmxVUWhzcWtYT053VWxVanpua3BRd1ZPSDVFWlpULVpRbWRmM2t3R3NVYy0yMUVUakpKa3ZLTGNUaDFJa2ktRkdHbw?oc=5",
+        "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50dkhTQzZzQWVacGhGQWJtTm1vUFJCTHFpcWttd0xXTWtESTBPMjZHOFpENGpOakRaLTBsSkJjdVZuV1NKWlM0ckkxX3Q?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T21:07:12Z",
+      "published_at_ist": "2026-10-15 02:37 IST",
+      "first_seen_utc": "2026-10-14T15:00:04Z",
+      "age_minutes": 27,
+      "trend_score": 6,
+      "rank_score": 0.7392,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "IN"
       ],
       "language": "en",
       "priority_queries": [
+        "Celebrities & music",
         "cricket"
       ],
       "google_trends": [],
@@ -825,42 +833,34 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "'We need to get bloody better': South Africa warned after first Test defeat to Australia",
-        "Cricket-No need for knee-jerk reaction warns South Africa coach after test defeat",
-        "'Singlebloodymindedness': Shukri Conrad's fiery wake-up call after South Africa's 214-run defeat to Austr"
+        "Krithi Shetty’s Bollywood debut film ‘Hum Tere Pyaar Mein’ goes on floors"
       ],
       "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134946140,width-1280,height-720,imgsize-136348,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://apicms.thestar.com.my/uploads/images/2026/10/14/4162261.jpg"
+        "https://www.indiatribune.com/public/images/no-image.png",
+        "https://media.telanganatoday.com/wp-content/uploads/2026/10/Krithi-Shetty.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "026d75f9a4",
-      "key": "chart-fold-interfold-marketcap-usd",
-      "headline": "The Interfold price today, FOLD to USD live price, marketcap and chart",
-      "summary": "https://coinmarketcap.com/currencies/interfold/The live The Interfold price today is $0.05394 USD with a 24-hour trading volume of $3,801,616.08 USD. We update our FOLD to USD price in real-time.",
+      "id": "17eadf2274",
+      "key": "4-billion-finance-locked-ondo-topped-total-value",
+      "headline": "Ondo Finance Says Total Value Locked Has Topped $4 Billion",
+      "summary": "https://finance.yahoo.com/markets/crypto/articles/Ondo Finance said the total value locked across its products has crossed $4 billion, a milestone driven by growth i...",
       "sources": [
-        "CoinMarketCap"
+        "Yahoo Finance"
       ],
       "article_urls": [
-        "https://coinmarketcap.com/currencies/interfold/",
-        "https://coinmarketcap.com/currencies/canopy/",
-        "https://coinmarketcap.com/currencies/kamirai/",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRnZKOG11U0hyblJwd3l0Z3VKRGlxc3l3a3RnczVBbGstMGtLbTlSU0gyRGVULWp5WGNGc2VCNG5rcmtseDhEbnA5Q0FIVTUzWkNMWjBudw?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRS1IOEt4Uzg1TFBKeXMtRE9BbzJVVkJHZXVZVnlwS1hpQ3lBSDgzNFpUWFFQdlYyT2JpUHJnaWtRMWIwZXBsajVXaUpoRTF2TE0wVmotSjA?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xUXhFc1RDNTIxRk5iNnFhQUgzTXFVcWZWTDl5clkweWpOb054SW01amtMWGt6VFJ6OEJuRUpndF81N2huNDZ5WmNtMmtJUWFRYmotTFAtTWRUZDA?oc=5",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2X04tb1RaOURMTE1tZC02eUFXOXBJeXNkWndWNWlMdXkzMEdkdFlLXzk4ZExSdzRqNDFKZDFWQWh2eE5xdnJKRGF1Ri1LWkUwbnBUV3lJSTlPNzQ5WG1Z?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcGtQajlKczdGSmlzRXN5R2F5bjRZLXpXNWxuWmNQS1RfVWRQMnFaaGJ1d0IxRDEteWJ1blFvVC0zUThsYWVWUjBhZGpvUG9YZWhsOEtjOERRZWpEVXc?oc=5"
+        "https://finance.yahoo.com/markets/crypto/articles/ondo-finance-says-total-value-205100806.html",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVJ4c2VoaFc4ZThkalY4ejBUbUxyX2l5RkFkQXdwV3pQQzRHWUFuUXRmQThNLWI3cXpvMVhMQjg3d0ZIZFpIbEU0d0FoNVlVU3hzLW9UbzllX200dm5PRmUzNmR1dDBJaTFHVUh1LUhCdVFXSjJub290VTVVUnM4c09IcG8zbHFseVl6RFYxNnlKU2hXYW9qX0Fn?oc=5"
       ],
-      "published_at_utc": "2026-10-14T19:35:24Z",
-      "published_at_ist": "2026-10-15 01:05 IST",
-      "first_seen_utc": "2026-10-14T13:39:09Z",
-      "age_minutes": 62,
+      "published_at_utc": "2026-10-14T20:51:00Z",
+      "published_at_ist": "2026-10-15 02:21 IST",
+      "first_seen_utc": "2026-10-14T20:51:00Z",
+      "age_minutes": 43,
       "trend_score": 6,
-      "rank_score": 0.71,
+      "rank_score": 0.7258,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -878,103 +878,69 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Canopy price today, CNPY to USD live price, marketcap and chart",
-        "Kamirai price today, KAMIRAI to USD live price, marketcap and chart",
-        "Monstro DeFi price today, MONSTRO to USD live price, marketcap and chart",
-        "Re price today, RE to USD live price, marketcap and chart"
-      ],
-      "image_urls": [
-        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b0d7946b5c",
-      "key": "california-governor-history-make-played-safe",
-      "headline": "He’s Played It Safe. But He Could Make California History as Governor.",
-      "summary": "",
-      "sources": [
-        "The New York Times",
-        "KQED",
-        "cbs8.com",
-        "LAist",
-        "ABC7 Bay Area"
-      ],
-      "article_urls": [
-        "https://www.nytimes.com/2026/10/14/us/xavier-becerra-latino-california-governor.html",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3RSNkhoUVF2QXNLT1RSYmRMbmNMTHVMWlNxQzUyN1AxUGNUMlZEcFQ0U2Vhb29lamtiX3d3SmVNZ1VYNkFTc2lyZkZfa2xTa1lkcG1KZk1yWVk3UWFIaG11RXBvcVpQOHNJUTRiU2QxMUdJMEM0ZlNYTDQ5eEp0M0ZfVWJkbThFYkdUbQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnI4X1Q5Q3A1eFRMR2FtcTFKeldFMWtDMi1kLXc0a3dpWEZDSUdXU0w0QVMzZ2dWSUhPSmM5MEU5VDJYdkZkVmRjVXFWdk13Q2xXcWNsbU5QNXJ4NGxRRU1paGRscDJPaWhwdi1UOWZfUFIwTkNsallTNWNiZC1HX1ZzMFB2T29jXzBIdFA2SVQ1V3UxMFBnWE53?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUG5uWC15U09mX2xWalNuZlI0QTdLOWRNNlZTeEtMWGhMek9pcHlYaEg5blctSlk5UUEtU0RrZE9sOU1Td1JkSFlwbXF6R0FxR0Q5U0xIa3Z6cEVwOUE0ckpQVEVxaG04MVZRNWxvY2haTjVHVXZhZXhWbEd5QWl6S28zUXdaNmU4TmNiUHZ1eHRDOXAxOEwxakZUYWZoUm04OFNnUHdadkZ1YzlhcU1ucndvOTNiM09JOVhjLTJ6MjBzM3RrUlVpU25pZXhNcTZ2Y1JsNTBnMk4?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQSm9JRU1yNUs2Z09lT1NWd1pWTDJQRUZkbTdBcTZpT2ZhSEtwRV95d2J2UzlvMnNEbzNWMEdYYUNlSzdmcFlwV0FhMFViWWNYeEV5enBVOWZvQzhFZlh1cDFsZy1qcGtWdGE5TEduWDZKak41d3MzYjVhZmJYdkZSdmtHVWp6RkVVM09QTy1xUUlCLTlOeW5UamxmaW51dw?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcU9NQ2k1dTM2SHEtZkxnUXJSX0JQam1pemhrQmhZMy11WFc0alVLTV9jdl9pRlFHOFhxQTJYUkZ2dnBZcktyU1NHM2RxY1c1ZXphM28zQ2NTelZ2dVhRTGhfZ3lGekY0VHJtMjRXdHpGeFAzTWR2NlBfc01CVWZPXzB3ZjZhTGRfcUY2N1o2aFVNWld3ZDViVHVPcGRUTVVuNjYtMWZISGNZaER4ZkkwSWFJTE1GcWdxdjdKZmlHX3JNd1p2dGc?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T19:26:59Z",
-      "published_at_ist": "2026-10-15 00:56 IST",
-      "first_seen_utc": "2026-10-14T19:26:59Z",
-      "age_minutes": 70,
-      "trend_score": 6,
-      "rank_score": 0.7033,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
       "other_headlines": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/e400817558e76f98689eeb7a2bd584b817b0a23b5871c31e5dcfbaaed19d79c8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcryptoprowl_304%2F9ac7e398e05f149ab8dfc19d00c20c1c.jpg"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "25de18d50c",
-      "key": "14-adds-feron-group-move-signal-wed",
-      "headline": "PR News | On the Move: Signal Group Adds Feron - Wed., Oct. 14, 2026",
-      "summary": "https://www.odwyerpr.com/story/public/25454/2026-10-14/Signal Group, a DC-based public affairs firm, hires Josie Feron as director. Feron was most recently communications director for the Office of Congresswoman Deborah Ross (D-NC)....Moburst, a mobile-first digital agency driven by a proprietary AI program, appoints Etgar Shpivak as VP of marketing....Howard University hires Jasmine Gurley as sen",
+      "id": "bd9c22a969",
+      "key": "again-elon-musk-reveal-roadster-—",
+      "headline": "Elon Musk Is About to Reveal the New Roadster — Again",
+      "summary": "https://www.businessinsider.com/In November 2017, CEO Elon Musk announced Tesla's plans to reboot the Roadster as a hyper-powered EV and took $50,000 reservations.",
       "sources": [
-        "O'Dwyer's PR News"
+        "Sun TCI",
+        "Business Insider",
+        "Yahoo Finance",
+        "India Weekly"
       ],
       "article_urls": [
-        "https://www.odwyerpr.com/story/public/25454/2026-10-14/move-signal-group-adds-feron.html",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmpyVXBfVkVtaEd5S2toRXU5QWNxLWIzNGZhVFRBblVoR01FOVZjbWpIM3l1dDV3cExxM1pTdENySWlXMUhOMnJWczhhNF9mamljVHZiTVFtZW4tczNJUU16cEdDTDd2VXcwaFcydmk2Y2Z6aHNSOS04S0RBeW1sVmp5eldKMkM0R0Z1SVdWUW5TUQ?oc=5"
+        "https://www.businessinsider.com/tesla-roadster-reveal-date-october-2026-9",
+        "https://suntci.com/elon-musk-abruptly-dumps-mother-of-of-his-kids-with-no-warning-days-after-saying-love-you-p14811-131.htm",
+        "https://finance.yahoo.com/technology/ai/articles/alexandr-wang-brought-elon-musk-143027717.html",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdDhRbThqSjFjOXhFMWNpSWlFQWRCYnE4Q05ROGVoM2hycXQydjBNZ1pPbnZOVkpLd2sxX0lPWUlOeXRLNHJuVjZQRDMzVWdEc0IyQ01RT0RXRXd4b1FkUGtDSzBuZVdMN2ROdFVqVW83VmtmRlpqS0NwYnExRUxRNllIdkJKcU9qOF9weGRBa1N5TkRTUEZ1VWdPRm5iSEVYYmdmemVSVm9BMUtQTzVIbGJMTHZBbXFkdzB1TDhsZUc?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE8weTNzU1VkaTJ2TUltV01tV0hpeUhTWFhkUE0wMXRVWUMwN3gtZ2oxSDI0eDFQZEl4WDJ4enFOUGhWRHc2UzF3ZktzMUI1S2t1STR3Q0JEbGJhYUoxYXdSQjNYRXdVWnYyVzNLejYxTzZHZkVESlBjSnAyaHg3dw?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNXzdYZjNkcTg2cnBmV290N3dMMFF1dnJ4U0llbDNYeTlpMWw2SEEtdnRQekhCcjNGMzhMZlBqWUZQZF93SjV0YXA4VW92d2p3dGR2S0pKQVdYczRJdzdSczdfQXdVUjdrSFNveVY4UlBQUmRLSFU0dUQ0Wlc5dkYyd1NGcDBtZzJjaEh3Ty1MWnZEbXR5SHFfX0dFWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaExJeURhRWdFZUF5WlVxbTJNUm1mYWFHSmpLS1NaWTZwTVA1c3ZUNG1CMy1LWDVvRGxiczZvSjZmNVdaTk53eGNaczhld3JpT2ZaR2l5LXVweC1PTGFoVFA2VE53eWwxWEZPRS1jTHQydUlvVGhMS0Qtb1hrRU9fVldxQllyMDlqSDNTVw?oc=5"
       ],
-      "published_at_utc": "2026-10-14T19:07:30Z",
-      "published_at_ist": "2026-10-15 00:37 IST",
-      "first_seen_utc": "2026-10-14T19:07:30Z",
-      "age_minutes": 90,
-      "trend_score": 6,
-      "rank_score": 0.6867,
-      "category": "other",
+      "published_at_utc": "2026-10-14T18:30:23Z",
+      "published_at_ist": "2026-10-15 00:00 IST",
+      "first_seen_utc": "2026-10-14T13:18:53Z",
+      "age_minutes": 184,
+      "trend_score": 9,
+      "rank_score": 0.6955,
+      "category": "famous_clip",
       "section": "top",
       "source_type": "news",
-      "famous_names": [],
+      "famous_names": [
+        "Elon Musk"
+      ],
       "region": [
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Elon Musk",
+        "Famous people clips"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Elon Musk abruptly dumps mother of 4 of his kids with no warning — days after saying love you",
+        "Alexandr Wang Brought Elon Musk’s Lean-Team Playbook to Mark Zuckerberg — It’s Now One of the ‘Tentpoles’ of Meta’s AI Strategy",
+        "Musk: Alex Gibney’s Explosive Elon Musk Documentary — Where to Watch, Streaming, & Exclusive Details"
+      ],
       "image_urls": [
-        "http://www.odwyerpr.com/site_images/20261014154045_101426on-the-move-social.jpg"
+        "https://i.insider.com/6aa7ff48ec15fe2d3cf16f13?width=1200&format=jpeg",
+        "https://suntci.com/articles-2026-10-14-18-11-22-853.png",
+        "https://s.yimg.com/lo/mysterio/api/039f5302c53ca1adb32e9011571ac2f79d32e562ee36b0e1019c803ff07bbb48/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbenzinga_79%2Fd9418ba5229665c9db8cce3bf53ee1e8.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -995,9 +961,9 @@
       "published_at_utc": "2026-10-14T17:32:53Z",
       "published_at_ist": "2026-10-14 23:02 IST",
       "first_seen_utc": "2026-10-14T17:32:53Z",
-      "age_minutes": 184,
+      "age_minutes": 241,
       "trend_score": 6,
-      "rank_score": 0.6083,
+      "rank_score": 0.5608,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1024,49 +990,6 @@
       "youtube_videos": []
     },
     {
-      "id": "248a9d3dbc",
-      "key": "000-10-36-agent-hour-moment-research-runs-third",
-      "headline": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "https://openai.com/index/third-moment-research/With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "sources": [
-        "OpenAI"
-      ],
-      "article_urls": [
-        "https://openai.com/index/third-moment-research/",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T15:19:43Z",
-      "published_at_ist": "2026-10-14 20:49 IST",
-      "first_seen_utc": "2026-10-14T15:19:43Z",
-      "age_minutes": 318,
-      "trend_score": 7,
-      "rank_score": 0.5181,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://images.ctfassets.net/kftzwdyauwt9/m0YDNMUPfmBJYf8nw2LGR/202c3cb46da0506d77cce90027c1ef9c/third-moment-research-first-light-social-1920x1080.png?w=1600&h=900&fit=fill"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "ab7b0e5a5c",
       "key": "argue-benny-bennyblanco-blanco-don-jayshetty-like-short",
       "headline": "Benny Blanco: we don't argue like that #jayshetty #bennyblanco #shorts",
@@ -1080,9 +1003,9 @@
       "published_at_utc": "2026-10-14T08:00:15Z",
       "published_at_ist": "2026-10-14 13:30 IST",
       "first_seen_utc": "2026-10-14T08:00:15Z",
-      "age_minutes": 757,
+      "age_minutes": 814,
       "trend_score": 5,
-      "rank_score": 0.5004,
+      "rank_score": 0.4826,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -1117,6 +1040,49 @@
           "is_short": true
         }
       ]
+    },
+    {
+      "id": "248a9d3dbc",
+      "key": "000-10-36-agent-hour-moment-research-runs-third",
+      "headline": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "https://openai.com/index/third-moment-research/With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "sources": [
+        "OpenAI"
+      ],
+      "article_urls": [
+        "https://openai.com/index/third-moment-research/",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMX0c2UGZGcXdhWnY1ampSMHJhUW9ZWUVGSGpVQWx3eTlGUzliVUQ1N3NVXzZXaGtkTkR0LW9uUDNpNjM4YWEyaVkxZlhwSGdPbHFhZ1d2cjF2ZjA?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T15:19:43Z",
+      "published_at_ist": "2026-10-14 20:49 IST",
+      "first_seen_utc": "2026-10-14T15:19:43Z",
+      "age_minutes": 374,
+      "trend_score": 7,
+      "rank_score": 0.4714,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://images.ctfassets.net/kftzwdyauwt9/m0YDNMUPfmBJYf8nw2LGR/202c3cb46da0506d77cce90027c1ef9c/third-moment-research-first-light-social-1920x1080.png?w=1600&h=900&fit=fill"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
     }
   ]
 }
