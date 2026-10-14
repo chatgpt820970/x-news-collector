@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-10-14T05:26:48Z",
-  "generated_at_ist": "2026-10-14 10:56 IST",
+  "generated_at_utc": "2026-10-14T07:16:44Z",
+  "generated_at_ist": "2026-10-14 12:46 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5573,
-    "fresh_items": 4539,
-    "clusters": 1853,
-    "youtube_feeds_ok": 0,
-    "youtube_feeds_failed": 30,
-    "youtube_uploads_fresh": 0,
-    "youtube_items": 0,
+    "raw_items": 5614,
+    "fresh_items": 4517,
+    "clusters": 1931,
+    "youtube_feeds_ok": 30,
+    "youtube_feeds_failed": 0,
+    "youtube_uploads_fresh": 112,
+    "youtube_items": 2,
     "famous_items": 7,
     "trends_terms": 40,
-    "page_fetches": 74,
-    "with_video": 1,
-    "runtime_sec": 25.2
+    "page_fetches": 66,
+    "with_video": 6,
+    "runtime_sec": 24.9
   },
   "categories": {
-    "famous_clip": 4,
+    "famous_clip": 3,
     "ai": 0,
     "celebrity_music": 6,
     "finance": 0,
@@ -32,113 +32,121 @@
     "other": 6
   },
   "top_trends": [
-    "asml stock (US 200+)",
-    "jodar (US 200+)",
-    "bob mackie (US 200+)",
-    "macklin celebrini (US 500+)",
-    "kansas city tornado warning (US 5000+)",
-    "marie bouzkova (US 200+)",
-    "chicago weather (US 1000+)",
-    "dalton knecht (US 200+)",
-    "botic van de zandschulp (US 200+)",
-    "the punisher (US 200+)",
-    "hk vs sin (IN 1000+)",
-    "డోనాల్డ్ ట్రంప్ (IN 200+)",
-    "pm kisan yojana (IN 2000+)",
-    "భారతి ఎయిర్టెల్ (IN 200+)",
-    "rafael jodar (IN 200+)",
-    "aquarius horoscope today (IN 1000+)",
-    "botic van de zandschulp (IN 200+)",
-    "കോക്രോച്ച് ജനതാ പാര്ട്ടി (IN 2000+)",
-    "ಭವಿಷ್ಯ (IN 200+)",
-    "idbi share price (IN 200+)"
+    "forex factory (US 500+)",
+    "ipad mini (US 1000+)",
+    "russia strikes american brands ukraine (US 200+)",
+    "caty mcnally (US 200+)",
+    "planet (US 200+)",
+    "bleach (US 100+)",
+    "arrow (US 100+)",
+    "karolina muchova (US 2000+)",
+    "dayana yastremska (US 200+)",
+    "felix auger aliassime (US 500+)",
+    "uidai aadhaar (IN 200+)",
+    "ellyse perry (IN 1000+)",
+    "canara bank share (IN 1000+)",
+    "সাবিনা ইয়াসমিন (IN 200+)",
+    "தீபாவளி (IN 200+)",
+    "అనుపమ పరమేశ్వరన్ (IN 500+)",
+    "saurav das ashutosh ranka custody (IN 2000+)",
+    "robot (IN 200+)",
+    "తెంబా బవుమా (IN 200+)",
+    "जयपुर इंटरनेशनल एयरपोर्ट (IN 1000+)"
   ],
   "items": [
     {
-      "id": "caa87699f9",
-      "key": "amitabh-bachchan-iconic-landed-multiple-rejection-role-zanjeer",
-      "headline": "How Amitabh Bachchan Landed The Iconic Role In Zanjeer After Multiple Rejections",
-      "summary": "https://inshorts.com/en/news/Amitabh Bachchan revealed on KBC 18 that hurtful agerelated comments on social media prompted him to post less frequently. Despite cutting back, his follower count kept rising. He humorously noted, 'Jab se kam likhna kar diya hai, humara follower badhta chala ja raha hai Ever since I started writing less, my follower count has been increasing.'",
+      "id": "29d305cfbf",
+      "key": "confirmed-grand-granted-hamilton-lewi-prix-wish",
+      "headline": "Lewis Hamilton wish granted as new F1 grand prix confirmed",
+      "summary": "https://racingnews365.com/F1 is heading back to the continent of Africa with a new purpose-built racetrack to host African Grand Prix in Rwanda.",
       "sources": [
-        "Zoom TV"
+        "RacingNews365",
+        "BBC",
+        "Formula 1",
+        "The Guardian",
+        "ESPN India",
+        "ABS-CBN"
       ],
       "article_urls": [
-        "https://www.ndtv.com/entertainment/apne-aap-ko-kya-samajhta-hai-re-tu-budhau-amitabh-bachchan-recalls-being-trolled-over-his-age-12173683",
-        "https://inshorts.com/en/news/amitabh-bachchan-reduced-posts-after-age-related-trolling-1791876816532",
-        "https://www.zoomtventertainment.com/bollywood/how-amitabh-bachchan-landed-the-iconic-role-in-zanjeer-article-156332935",
-        "https://m.economictimes.com/magazines/panache/amitabh-bachchan-tells-kbc-contestant-how-he-handles-criticism-how-he-dealt-with-budhau-jibe/articleshow/134884727.cms",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaWN3c0FwdHNsNkRNZVNwNWo4OXpldXkzTHRWenJ1MTM3cFNRR1NkZXVIV0JmT0Rjcm9Ma1JIcTZGdEI3YmRCenlEQkcyeTZIRUhDMWM1MXZ4N215VmlSVldJOENsbXFqVThIcnFnLV9DRV9rT1VLQzNNaHFtc3AtMjZHeHc1YVF2VXBKTXBLbjYzR1B2aWk1WFVGREpCV2FGamtFOWtYV0w0dnFhZV9YYXl5ZmwxUV9iRmc?oc=5"
+        "https://racingnews365.com/breaking-lewis-hamilton-wish-granted-as-new-f1-grand-prix-confirmed",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpqTTQ4cTYzdUR1aUtNQm4xYVpZV1JCX3UteURpb2FseFZKM1BKV1NTeXJZbTZ2RWNwUi15V3hkOFQtdDlTaUlzQ0ZhVW11Z21wMkliRmxXY2QwaXd2M0VyWEQxeGlZeHZoQnBnTmV0Sk82WnlQMEFOVndFSjZKaFRXTTFfelAwVXlsWHM2VzFZaDRtRDYtaA?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01VDBhVjFxenRiQlR1RWN3RmNReUFzTm52RURuZXI4QTJKSXFFNWJkOVNRdThYTkhsTmtqU3FBY2JNNmdCbDRlZXYyaFRKMGs0TWZFTDhubkJ1UW5uSGd6bE5NS01acGVh?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFIwQ0E1bDhWMzhkWjFxUHpWc2ZIS0ItMGtTdWNOOEo2STNNenZ0ZjIyUHVLS3UyUUFtaExySFhXZFFzYzZueEdnR3hPUnprMDlJck4tam03OVpjaVdUT0pnTjZkMmVXT0hUOTJ1c2JRNXBkYnA3R3NwRGpQOGw1MHQ1NEhHdWdhM3lRa3hNMktQdU83ekNJaVBLdHVza19wenhWWVhsUTRBN3V4cGJyQTBXWnVURXE0TXVKaFJkNzhvYjVpY215OFJNdTZXWlk?oc=5",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkl6TE1tWXkxeHlvMHRjOXY4aXp2Z1l3N2ZfYmxmaEtCQ0JiU1BleWFRZmhmM3lYVFc5SVpUdkpEY2dlTlB1TUJwNmo2SGV2dDVLckVmaDdid3VtTTdlSFRZbWludkF3OVQ4Ri04THVwc2x1RmpPSjBvWm9jWHhLY0YtLW5ZbU56ZnpfRm9xNDlaRnhhU1I5amdqX2lTaWlXUndXTGFWNkRzbVdtUE85Um9ibVdmazBaM2E4WWlGT2EtZjNlaVdZd0U1bWh6QTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2NITW12ZXZHOWhvWnlEd3ZaQmh1NnhLZkQ2SjdtYUdneGlzSUlfbEJUUFdITS14ODJ1UUJhMzViR0hVMFRVdHlUOThYNUdUVUpBWXUzWFNBVG1QTV9SQ0xSYnhjaHhLUmt3dTlvamNqVFJseGh6akR6a1doSXpFdGFkcU9hbDk1ZDlENktHcldQRWJ6bVhLYWsteGRzZzlxYWc?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYU02d0xsV2RzY0FDcFA2ZkF2Z1dNdHFVM0VyN0ZpemN0VWdoRjZydHJmY0NCZ0wxdjNkZ1hsYmVDb21JR2lZTEN6QVcxa0tqYjVDODhDR1hoN3dmQlZvS3AwZmhZdzBGcDN3NXZNUm5tcUFwUXU5WFpSeVdjaVdVTlJFV0YzTTdCR3doVjJVdkdIb3VvWlE4?oc=5"
       ],
-      "published_at_utc": "2026-10-14T04:38:43Z",
-      "published_at_ist": "2026-10-14 10:08 IST",
-      "first_seen_utc": "2026-10-14T04:38:43Z",
-      "age_minutes": 48,
-      "trend_score": 10,
-      "rank_score": 1.0623,
-      "category": "celebrity_music",
-      "section": "top",
+      "published_at_utc": "2026-10-14T06:27:39Z",
+      "published_at_ist": "2026-10-14 11:57 IST",
+      "first_seen_utc": "2026-10-14T02:29:03Z",
+      "age_minutes": 49,
+      "trend_score": 17,
+      "rank_score": 1.0221,
+      "category": "sports",
+      "section": "sports",
       "source_type": "news",
       "famous_names": [
-        "Amitabh Bachchan"
+        "Lewis Hamilton"
       ],
       "region": [
-        "IN"
+        "GB",
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music"
+        "F1"
       ],
-      "google_trends": [
-        "amitabh bachchan (GB 100+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://media.inshorts.com/inshorts/images/v1/variants/webp/m/2026/10_oct/13_tue/img_1791876816037_121.webp",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQffbFKz2R7X8T-o6S0y7X86N4Gv2JC-Zd6nmi0geRZ-wxA-gccaSIFn_FsIHE",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9PzEjdmuRJsU3KrvaOPt76lNr2BC0woGnubpJ0dnIj6r0sjUT4peoVOqZjfU",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQimyGiCya5TPLduC8ZB1yfn0Pez6ccIpV_Me7uozp-xxeZ85veylRY6B9vbX4"
+      "other_headlines": [
+        "F1: Lewis Hamilton grateful for Grand Prix 'sabbatical'"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://cdn.racingnews365.com/2026/XPB_1399899_HiRes.jpg?v=1772965817&width=1800&height=945&quality=75&crop=3168%2C1664%2C0%2C57"
+      ],
+      "video_urls": [
+        "https://youtu.be/jZ0ZtWqEu2s"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "7d39744242",
-      "key": "does-place-take-visionquest-‘-’",
-      "headline": "When Does ‘VisionQuest’ Take Place?",
-      "summary": "https://www.thewrap.com/creative-content/tv-shows/when-does-visionquest-take-place-marvel-timeline/Here's how and when the story of \"VisionQuest\" factors into the Marvel Cinematic Universe, after \"WandaVision\" and \"Agatha All Along\"",
+      "id": "38cf1b8697",
+      "key": "aesthetic-disappointing-fans-gerwig-greta-magician-marvel-narnia-nephew-trailer-‘-’",
+      "headline": "Greta Gerwig’s Narnia: The Magician’s Nephew Trailer is Disappointing Fans with ‘Marvel Aesthetics’",
+      "summary": "Narnia: The Magician’s Nephew is releasing on February 12.",
       "sources": [
+        "IGN Africa",
+        "iDiva",
+        "India Today",
+        "Bollywood Hungama",
+        "Gulf News",
         "IMDb",
-        "SlashFilm",
-        "GamesRadar+",
-        "TheWrap",
-        "Los Angeles Times",
-        "Syracuse.com",
-        "That Eric Alper",
-        "miixtapechiick",
-        "The Mercury News",
-        "Billboard"
+        "ANI News",
+        "Moneycontrol.com",
+        "India TV News",
+        "The Statesman"
       ],
       "article_urls": [
-        "https://www.thewrap.com/creative-content/tv-shows/when-does-visionquest-take-place-marvel-timeline/",
-        "https://www.imdb.com/fr/news/ni66061821/?ref_=nwc_art_perm",
-        "https://www.slashfilm.com/2285543/visionquest-marvel-timeline-explained/",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFAyV1VNVFliZVlfMGs3WE9zUzc2R1Y1OE1uVnBITVVBNkpIME15Z3VlN0o2dmNoV1U1c0EwYnBkblNXTW55RXB1MTRJV2VuaEpsOVJOVFVMMVhNdkFLNkxQSlFZak1FTnhjZFE?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKeHg1ZEZyMnB0cENCdG1GRlhQLXd4amNJODkteVA4dUFHd3BHa0hTeVZkWHFwZW5CSXBINTRlbC1VWHZUTnZobmoxTHdIaXFseVRNemhUTlY3Sk43cDJ1UFNPT0RiQXltNEp0OGxSX3hMaVdJem1sdlpkSzA?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUFoUWx0X2xFODlRWWlqVFZvX1dIX0lKTlpwVkJkNU5CUjhEb1dRbkdQUF9sZWJkZFAzRDBrUVlQQWdCTlEyRVFydmFtODlYVzRNT2x1ZlFmTThDZUhteks5WENOaDNFczRkcEMzdG5rYnBrZWJ1SHNGV25VcW9VYkRwWjV1SWtSSWhjbmZR?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ2lMQzhyUnBtV1NkaUkzbUJoLW9qNjhVZHNXcVhVaTd0NEpWWVBTZzN3eXNGZ3dWeWVIbXlFZC11LU11NDJGQ2RaaF9zV3pMRUlTTDhTN1dULUxmWkY2X2R4VWRmQkQybllOcFYzS3ZxTlh6R055VHRRdjFydnJURDNUbVU3Q2xCdnUzSGtlamlGNjFwMngxOWhaSDdNSnZm?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzViRDZmOU5IdFlYRDFBb0ZQc2M2dnltaGY0ZHc5QVhDZVNtQTQtSW52cnpXVGxhM1VqVmVmdjE0U1Q2dkpEV0daZ3dZb1ZWcWF1b3RQN0hsSUpwUlJLWjZLTzJUVHRMM2FBbGVldjlaX3FTR0hqMjBzWWlSaVktR3pMc3FYdHRlcmY1YXJsLWVPNmZ3aXZUY2Z0ekJtOGZuamptOFBB?oc=5"
+        "https://www.idiva.com/entertainment/hollywood/greta-gerwig-narnia-the-magician-s-nephew-disappoints-fans-marvel-aesthetics/18098547",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOVnBmMVhzS0NyZE5ub3RmeGgwOEYtNzFBbGZGN2g5bGt4c1FXUU42Yi1HN0x0OWZsdHJGOUdsamhCMktHTFZCZHV3cFlaQm1tSDNpN0E3NVZ1RFdBUmFYaTNvZVBtZVBkUE1RUXR6SnNyZXhQWEYxeUtCUHV6RkpubzE1N1VaYTFGYjVwaGI0bVBEZ3ZUR3FTamVJRFlLeVFRUFg3VmtQWS1yeVQyVlpfTFdlNVNRTGgtNnB5RmlpeDNQMFdFb0ozZ2lEOGJnYXhaUlpxRWU3Y2puRklCQW9RNE1PVzRJWDBURHJfOUpn?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNklrZ2JtVFZVNXg3UmZ0NnpaWEFiOWJ4MElqM1ptV3hGTmlNVGFGRFVCZnFsVkFqdzI3Rk9UQXAtX2xyZ0JBQWl5WFFOSDUzQXk5QzR0bENhR3VMYVFqd1VVak9BUXhmN194RS1GckE0YXJIcEE4cEpsaTNGb3hucHlhMnFKYi1fMnJxYThQMzlPZzUwX0N4cEY3Y1ZaQm5tYUZFT3dVeEZVaXVKRFZfNlJ4LVd6Y3hsUi02RF9STFRfTzBfaUFCc2drY9IB0AFBVV95cUxOcnc2TW1CcDhRZWhxNHZwTkRKbHdsbEtETm5CaWpZX1N2OHJkUWlRdWZYbGp0dE5EMjNhRE1BRHNrVjFwZEk3T1poWG9sVjhOc1FrWDFCb3BkeVlBWS1tSkJSVWRMZ29oZmY5Uk5qcGZsVnVCZ05YdHIzTzhlV2RqM0Fpd09hR3YtS1ZhcjdNSDR2dUYxQzFXQ012NGU2NDVPRkZIeURUT2lxSUEyMkpxRnFLei1XYnhrWWhQVGYxWjdVZWNCNnlBUzd6UFdoMmcz?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPazczdDczWWpzTDM4Ty0yTUhHY0dnT3YtWVpseWNIS1pGYjlBMXhZaEpULVNhSWRMMEU0c25nVVBFUGd3NmhTZm5DNEhQZGxXTWNlNU1GWkI3aG1wOEI4UGhjRHdONU44MFdPMGlmRUJWa0ZkalRQcDRHLUxnVTZIc2NHYnVlZG50cldQNDN3aHFwUlFINkswV2lMTmxiNjBLQkVZY2toRFN6TWZZbVVmNE1FYnVKTHBKX3M1MVVGR2ZyMnpfNW83UEFTbm5pRi1KOFRIY1BUTnJBcXZhUXFYei1R0gHnAUFVX3lxTE9DWGxwZmc1V1ZfR0p6VEhIUW1ZYUNSUVhQdk9IN0xyWW5kTDRFb3VSWXNjNmdIbmFFN0NpUlZOOVhOQzZ2YndhNWVDNDFSNjdYeE9vVm1wQWRWbnBybC1Wd3JiWDBZTFBkem1NeWtfQmtibU56UmxXZnVRTWZDdzl2bjVmcVZLT1k2SXFRYTdjX3g0Vm1ub2luVE1Kc1R4RVVHaUQyMnpzUEtES1NqQ3J0MTI4cnFidHh0MkwweVkybEJVd0hTazBkMFVsbTJZWTRiMFRtbkNueW9fMU01NFFoZXk1U3BEdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPQ1hscGZnNVdWX0dKelRISFFtWWFDUlFYUHZPSDdMclluZEw0RW91UllzYzZnSG5hRTdDaVJWTjlYTkM2dmJ3YTVlQzQxUjY3WHhPb1ZtcEFkVm5wcmwtVndyYlgwWUxQZHptTXlrX0JrYm1OelJsV2Z1UU1mQ3c5dm41ZnFWS09ZNklxUWE3Y194NFZtbm9pblRNSnNUeEVVR2lEMjJ6c1BLREtTakNydDEyOHJxYnR4dDJMMHlZMmxCVXdIU2swZDBVbG0yWVk0YjBUbW5DbnlvXzFNNTRRaGV5NVNwRHfSAecBQVVfeXFMT0NYbHBmZzVXVl9HSnpUSEhRbVlhQ1JRWFB2T0g3THJZbmRMNEVvdVJZc2M2Z0huYUU3Q2lSVk45WE5DNnZid2E1ZUM0MVI2N1h4T29WbXBBZFZucHJsLVZ3cmJYMFlMUGR6bU15a19Ca2JtTnpSbFdmdVFNZkN3OXZuNWZxVktPWTZJcVFhN2NfeDRWbW5vaW5UTUpzVHhFVUdpRDIyenNQS0RLU2pDcnQxMjhycWJ0eHQyTDB5WTJsQlV3SFNrMGQwVWxtMllZNGIwVG1uQ255b18xTTU0UWhleTVTcER3?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMXlIZ2dSS1RRdWY3Uk42M2dDbVBtZVpRSXdRRG02czhPVnVJZmMwR2JCRUZvQ19iMnJuQ0U3MkhWTWlUWXZ4b0JkZXp4MWNCbk42cXh4cXZSdXI4azlUMUxQeFZNUHBBdENoY0xjMXlmMGNwci1OY1cyRWhMZUhZekZSakQwcTJqRnBUUUNuYXlsTjA4aGttT3VfSVdMTDhGVFhXdk9TUnFuUVZqT0h1eElsNG1nSllIUlFvM1l6UFpIbU1uX2x2RjBxdnZzTjZHWS1QMkptT0VtN3lUbjJQTWs5cy1Ld1RBQ0VTRXhBb3bSAfYBQVVfeXFMTXRSUVZMUkdaTnVmNFBoYWJsdlBrbVBCOEQzdmtQWUxNRlAzTkd6VUVVSERSQ0U4eXp3QV9qMU5kd01rTzk1amF0MVFSRHhKYldXV0xhWHFvdjZRYXp0Qk0zbkhZdE5CM0hmNzVzN0thN1pxa0NqSjFFT2lpdWRvVXFBVXpVbWN4Rzl0Y2pqVnJQYUtlSzdudDZJY082M2pRTWg3Qmk5eHlOVWdoRURsczBGUzEwaEhXZ3JOMTBPRXl6Q0piZmJtclJfTmJXVHNIRWdWbGVlMHBfbG9qVEhhRUZucFpBaHYwVEgwS0x1czBudjZJREl3?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOanZBUVNsUFM1cXoxZld4M1pOVVZPbWtYM09UeFZSOUhZNGRuVXlQODVSOGdLZmhZVnFEenM4VHZFMW9OZVA2cWhybzU0TGpKdTRrYnVvSjQ5WlI0N0JTNU9aN3NNbkh0amhlaTc0Zmd4LUtMdXQ5R2dLOC1qb3pMWVBnZUg1WVZLZ1dJRDhob2V4dXlwMS1zc3JERW9HVkpvaXYtVTl6ODJ2OUQyVEpGU3BrVUxvM1ZLbzBWQUtiVURLZkFZdkVuQmdnUy1EM1pfX2ZrNVlfYUtHcFNvLTlwR1FBajFhcThucFNYTnRn0gHuAUFVX3lxTE5qdkFRU2xQUzVxejFmV3gzWk5VVk9ta1gzT1R4VlI5SFk0ZG5VeVA4NVI4Z0tmaFlWcUR6czhUdkUxb05lUDZxaHJvNTRMakp1NGtidW9KNDlaUjQ3QlM1T1o3c01uSHRqaGVpNzRmZ3gtS0x1dDlHZ0s4LWpvekxZUGdlSDVZVktnV0lEOGhvZXh1eXAxLXNzckRFb0dWSm9pdi1VOXo4MnY5RDJUSkZTcGtVTG8zVktvMFZBS2JVREtmQVl2RW5CZ2dTLUQzWl9fZms1WV9hS0dwU28tOXBHUUFqMWFxOG5wU1hOdGc?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNREp5dng0RjFDdm5INU1KQ19LR3hXdzF3UnZSSjdpXy1XZ01BV3Bqc21PaEo5ZGNjSVJ5ajRwR25BOGMxdXplczRaMnhRWnJhR0JZRnZlZG1RcU1sdXRJZ2hoS1ljUTVOWDJXODc3VjhfUktMcFVYSlNXWHZWdEdvSjR0T1RIYkdsRWRtYVVYOUYxQzBsa1hKUHVpYU5NNVVNTk1EMDVXLTZYU3phcGtKTk50Z3VHS1ZNSnFVSkwyWnBDUlRYV0RwaU42VFJMeUFFbG54RXNwa2NnVUdxYVHSAe4BQVVfeXFMTmp2QVFTbFBTNXF6MWZXeDNaTlVWT21rWDNPVHhWUjlIWTRkblV5UDg1UjhnS2ZoWVZxRHpzOFR2RTFvTmVQNnFocm81NExqSnU0a2J1b0o0OVpSNDdCUzVPWjdzTW5IdGpoZWk3NGZneC1LTHV0OUdnSzgtam96TFlQZ2VINVlWS2dXSUQ4aG9leHV5cDEtc3NyREVvR1ZKb2l2LVU5ejgydjlEMlRKRlNwa1VMbzNWS28wVkFLYlVES2ZBWXZFbkJnZ1MtRDNaX19mazVZX2FLR3BTby05cEdRQWoxYXE4bnBTWE50Zw?oc=5"
       ],
-      "published_at_utc": "2026-10-14T04:59:27Z",
-      "published_at_ist": "2026-10-14 10:29 IST",
-      "first_seen_utc": "2026-10-13T20:58:03Z",
-      "age_minutes": 27,
-      "trend_score": 22,
-      "rank_score": 0.9297,
+      "published_at_utc": "2026-10-14T06:34:21Z",
+      "published_at_ist": "2026-10-14 12:04 IST",
+      "first_seen_utc": "2026-10-13T22:23:00Z",
+      "age_minutes": 42,
+      "trend_score": 24,
+      "rank_score": 0.9305,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -149,122 +157,62 @@
         "US"
       ],
       "language": "en",
-      "priority_queries": [],
+      "priority_queries": [
+        "Celebrities & music"
+      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "When Does VisionQuest Take Place In The Marvel Timeline?",
-        "When does VisionQuest take place on the Marvel timeline?",
-        "No time for a ‘WandaVision’ rewatch? What to know before starting ‘VisionQuest’",
-        "Marvel’s ‘VisionQuest’ is here: How to watch the 2-episode premiere for free"
+        "I Didn't Want a Greta Gerwig Narnia Movie... Until I Watched the Magician's Nephew Trailer",
+        "Narnia trailer: Greta Gerwig's fantasy gets Marvel comparisons, leaves fans divided",
+        "Narnia: The Magician’s Nephew trailer out: Greta Gerwig’s fantasy film to release in India on February 12, 2027",
+        "Greta Gerwig’s sparkly Magician’s Nephew trailer sends Narnia through the wardrobe to the red carpet"
       ],
       "image_urls": [
-        "https://www.thewrap.com/wp-content/uploads/2026/10/visionquest-paul-bettany.jpg",
-        "https://www.slashfilm.com/img/gallery/when-does-visionquest-take-place-in-the-marvel-timeline/l-intro-1791910579.jpg"
+        "https://idiva-media.ilnmedia.com/content/2026/Oct/Header-netflix_20261014_104930_0000_6acf18dede96e.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/embed/gDJ-ini7fF0?rel=0"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "44baa444e9",
-      "key": "action-against-dhawan-franchise-league-legal-name-permission-shikhar-take-used-without",
-      "headline": "'My name used without permission': Shikhar Dhawan to take legal action against franchise league",
-      "summary": "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-franchise-league/articleshow/Former India cricketer Shikhar Dhawan has denied being part of a franchise league, saying the organisers used his name without his knowledge or permission.",
+      "id": "2df03c0fa3",
+      "key": "24th-ahaan-alia-aneet-bhatt-birthday-celebrate-padda-panday",
+      "headline": "Aneet Padda Celebrates 24th Birthday With Ahaan Panday And Alia Bhatt",
+      "summary": "https://pragativadi.com/inside-aneet-paddas-fairytale-themed-24th-birthday-bash-ahaan-panday-alia-bhatt-and-star-studded-celebrations-light-up-the-night/Celebrate Aneet Padda's 24th birthday with a magical party featuring a fairytale theme and star-studded guests.",
       "sources": [
-        "India Today",
-        "The Tribune",
+        "Pragativadi",
+        "NDTV",
         "Mid-Day",
-        "Moneycontrol.com",
-        "The Times of India",
-        "The Economic Times",
-        "NDTV Sports",
-        "India.com",
         "Gulf News",
-        "ANI News"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/sports/cricket/news/my-name-used-without-permission-shikhar-dhawan-to-take-legal-action-against-franchise-league/articleshow/134930585.cms",
-        "https://www.indiatoday.in/amp/sports/cricket/story/shikhar-dhawan-denies-world-t20-continent-cup-participation-threatens-legal-action-3016899-2026-10-14",
-        "https://www.tribuneindia.com/news/cricket/my-name-has-been-used-without-my-knowledge-or-permission-shikhar-dhawan-denies-participation-in-world-t20-continent-cup/amp/?utm=relatedarticles",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdE1zNkJzN0lsTVhJdFdmTnZWZ0VpVWdTeVpydEZiUGwtS1dja1p2N1F4dGZrS2ZEdE05MVZqdGZBT2FzeGM0eGw5cnFtemNYUHoza3gySFRHU0VpalBhY1l4czgxWUt2OHNQdDRJUG9YZFNoQzRzUVE5QXdwMUNpVndVdnE4Tkt1UkhaOHVwUUVsU1dhcHJuWDhuZkdKMDdaQW5fY0t2bHVkaUxpNENLRGM0Q09rc204cmQzZjJMcm55RUxsZ3VkVDF0eEExZHlUcEpLemFVUWZoU3NUS2tRMnFfUFFNcHPSAecBQVVfeXFMTXRNczZCczdJbE1YSXRXZk52VmdFaVVnU3lacnRGYlBsLUtXY2tadjdReHRma0tmRHRNOTFWanRmQU9hc3hjNHhsOXJxbXpjWFB6M2t4MkhUR1NFaWpQYWNZeHM4MVlLdjhzUHQ0SVBvWGRTaEM0c1FROUF3cDFDaVZ3VXZxOE5LdVJIWjh1cFFFbFNXYXByblg4bmZHSjA3WkFuX2NLdmx1ZGlMaTRDS0RjNENPa3NtOHJkM2YyTHJueUVMbGd1ZFQxdHhBMWR5VHBKS3phVVFmaFNzVEtrUTJxX1BRTXBz?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxPX1hPS2hQTFlBRHFlWjZTaUpPVWhNcUZNWTY0SWxlbjhCZ0JjMmZ6R01sQUlnVnNkMlNvVXh4WnplUU5ULUR5aWNNN2ZqX2JlejdkVkpkYWZJM2tnOW9yVG5wa2R1ekttcF9BMWFJOUxVSGh2c3A1SGJOMHlHaVZQRGtaaUZSRmV6c255cnlmdkJhZjFHWUNpVkduMHExUFdWZXVaQUR4emtqNmt6bHBZQVpQTW9Mdzc1VmdlX3ZZZTV2c0d6UnVQUGxLVXhMOVltZWhJZUV5Ti16dXA2c1NzV0ZNNWRmT3Y1NHdVMzdLbTFYSUg4R3VxNk5xSnptY2FPcktwRE5iVWxWeWpKdVhDdUk5V0XSAZQCQVVfeXFMT19YT0toUExZQURxZVo2U2lKT1VoTXFGTVk2NElsZW44QmdCYzJmekdNbEFJZ1ZzZDJTb1V4eFp6ZVFOVC1EeWljTTdmal9iZXo3ZFZKZGFmSTNrZzlvclRucGtkdXpLbXBfQTFhSTlMVUhodnNwNUhiTjB5R2lWUERrWmlGUkZlenNueXJ5ZnZCYWYxR1lDaVZHbjBxMVBXVmV1WkFEeHprajZremxwWUFaUE1vTHc3NVZnZV92WWU1dnNHelJ1UFBsS1V4TDlZbWVoSWVFeU4tenVwNnNTc1dGTTVkZk92NTR3VTM3S20xWElIOEd1cTZOcUp6bWNhT3JLcEROYlVsVnlqSnVYQ3VJOVdF?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU3h2WlUzbzM2QnJzSkVCV3M2R3luQ05yZlFNYTdKVFd0SmZOY3Z2RVJoNngwMkJmTWNBUm9lZ29fMDZEcF9jWDlrSlRtTVJ1aUFuQ25BUWRHOEluSTNTWUVfMUM0bV9wVFhPc1Blcnc0VllndWhueW1ORzIyLTYzdWZhZTItSV9ncHZnSDY1QS1OUkEzeTdpT2ljLWxSaGN4Z3VHYXZpMmIxeVBxdHdzWmZvOEkwSkg3V3fSAb8BQVVfeXFMTmZ1bW81dDBzSUdWcnBFVldTNm9VdWh4Zmp2bVJvZTU4MmFacFdJUDNJRWo1QXdySWdLVWxLV0JfejFkX2xIdV9sZW5SNEVNLTVjVFF6UW00U2ZKNjJHcEJQb2FyOVNBLUp6ZWNISHpXWlU1bkQtOGdLWE1GWUhPV0wzb2ZnVFlJaE9HLVhuS19zdFlMa0JJaFhTQjFwU0xIR1NzbTRNRExEaU9UZ3RPVUVlVjJZN1NTZTZLOXlvM00?oc=5",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcXZob2VDYU5TcnQwYm1UekJjT3ZDNHZMWk5QNmdrVmFabTd0M3BEdlBRd3cxVW42MTNtRGY2S09fNlpBaS14V3pfQlcySmtkOEI3RW54eHlHVi1kckFrZmdfTVRQX1RqeG5CYWZ4QlVPVVBmYkJVel9mVzJISjVlZHkwNnVzdFRUUkZEY0JhcWNZSkxDUUQ2dVlwYnVEaEIwZG9kbHhmdDR3OFlsMGR1akNOdF9uMWR3bzZwTWhobThNLUt3QjgtbURsck1UMDJocjFHMElWVFh4QjBSVTdLSEJjbmI5Q2tZUkY4azVJUGlfQTU3VUE?oc=5",
-        "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYldHSDJzdzBxeTdFSVhvOEtnSHRVWFVxdVpWaHdDUEJHYi1NUGZCTnZJWmpWY0VseFFCa1VaSHFFMWFoOWgwdi0zYlAwU2VNSENhZkUwSHRmaFdLcWhkMEk5MUUzeGNmbnJUUjJhVXNBVFlGVlJRbXVnOW1jaEotS0ZkMGFMSWlFaXlPajdJeE9mSGVVS1hwcG1kNTNEN3NFenkxSFdEMkx1ZVJ0X09neFdFZW9sQmdvVmtDSkc2U2laR25pSnQ4cE56TFFqdEJPa00wSDE0RFNqZVEzUFBPLU56V3JiUlJuWEU0YkVnVEE3WkxDNFB4VVRORGgxd3Q3UWFNUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T05:19:51Z",
-      "published_at_ist": "2026-10-14 10:49 IST",
-      "first_seen_utc": "2026-10-14T02:06:40Z",
-      "age_minutes": 6,
-      "trend_score": 18,
-      "rank_score": 0.9166,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Shikhar Dhawan threatens legal action over unauthorised World T20 Continent Cup listing",
-        "‘My name has been used without my knowledge or permission’: Shikhar Dhawan denies World T20 Continent Cup participation",
-        "Shikhar Dhawan denies participation in World T20 Continent Cup",
-        "Shikhar Dhawan threatens legal action against World T20 Continent Cup for unauthorise use of name"
-      ],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134930769,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/sports-044523302-16x9.jpg?VersionId=8Snz7b3yy8.hLYYuZn8n9wiNIl5_vm4c",
-        "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRmZjI4MmEwLWM3OGYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "c7f744464a",
-      "key": "ahaan-alia-aneet-appeara-bash-bhatt-birthday-fairytale-gesture-inside-padda-panday",
-      "headline": "INSIDE Aneet Padda's Fairytale-Themed Birthday Bash Ft Ahaan Panday's Special Gesture, Alia Bhatt's Appeara",
-      "summary": "https://www.mid-day.com/amp/entertainment/bollywood-news/article/Pictures from Aneet Padda`s 24th birthday bash showed her celebrating with Ahaan Panday, Deanne Panday and Alia Bhatt.",
-      "sources": [
-        "Mid-Day",
         "News18",
         "Moneycontrol.com",
-        "Bollywood Mascot",
         "Hindustan Times",
-        "NDTV",
+        "Telegraph India",
         "The Times of India",
         "Inshorts"
       ],
       "article_urls": [
-        "https://www.news18.com/amp/movies/bollywood/inside-aneet-paddas-fairytale-themed-birthday-bash-ft-ahaan-pandays-special-gesture-alia-bhatts-appearance-10380858.html",
+        "https://www.ndtv.com/entertainment/aneet-padda-s-fairytale-birthday-party-with-ahaan-panday-and-alia-bhatt-12182644",
+        "https://pragativadi.com/inside-aneet-paddas-fairytale-themed-24th-birthday-bash-ahaan-panday-alia-bhatt-and-star-studded-celebrations-light-up-the-night/",
         "https://www.mid-day.com/amp/entertainment/bollywood-news/article/aneet-padda-fairytale-themed-birthday-bash-sees-ahaan-panday-alia-bhatt-23654988",
-        "https://www.moneycontrol.com/entertainment/bollywood/aneet-padda-turns-24-ahaan-panday-deanne-panday-and-alia-bhatt-join-the-saiyaara-actress-fairytale-themed-birthday-celebration-article-14051528.html/amp",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMEx3ZXFoV0tSczB6R3AxUFRPaFdTbnFEdlprRDBqS2xoaXVsVm93RWI4YzEwVFlGZGlRMGhkNzFOaGlkam5rclFYMXBFZlg0d2V3bm1oVjVxZWVTUzUyc054Mlh2ajBsY1JkNWNWM0VXdG1BaEI5YTU0b1BseFhWalU3bkRBeEllWGJoNWR6SkdSQ010STdvTWZqbHl1S2F5N1Y3dnVNcnVZUklYM3RfMEJYdDM0dy1QNF85WEpyNXNIZEkzQzRhR3k1VGZET05zX1RDeXY4Rmhpc1dNR3hiOEhYdGFQcmNj?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTUtvYzN1cXlTckZRNnRfWktrbkl1QVg0Vl83YUs5YkhURjRRWm9HdUE0MkQ1dmhocFBvcHc0UHlyS1Ezb0Z5d1paRkhvbExkTTdfSWxDR1Y3SDdxclpWeDUwdVVyM05wTmRFY2h6ek53ZDhEVkxBdzkwRWdjZ0RaZVlFbjhMcC0xaURhQ1lSZ3cyaUdOdEpxUERtQUdWdHFmZ1hrc0hkTEhZVmpVMW96cENsS0NNQdIBvgFBVV95cUxPdlY2eFFXOUNFZHpxVENudWx2d1FYelpDSnV0ajkwSTgtenNpcEZwcXhuTEtiWEVwTDZrNFJzeWpWOS1NUkdQTEY5d0Z2SVU1UmRfcEkycThtcG0xenhwTmxlcDdnZkl2anVQUWhaeGVvUy1RUnhvemFIS0xoZ29BRWdvUzB0YlBBUVY0RF9uRlpOcWhJMkZicUo3R0VHVnF3dTJJT1Z5N1hlREFwRVhmVG1zaDZyTlU1TDBOMWZn?oc=5",
         "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbHAtUUFXQVdfcjJ0YzI1djJfUEg0ZmQ5U1BvRjdKSVZTNURLOW1IVm14UmJ3TXU5dTNWRGxiWGVpZTZzQXpCVnRrWXZYdThtckYtSmdPdnFldXNwOUtyWTY0QmliaXVzSUNkRmVUX2c5TUZTSEF1WXFiel8ySlhLRklWaGhienVkcTZtZkQ3QmtBYnVjelhiUU04QlpCakpOdHRyRk1Qc2R3SzExODZib2dCeGw2b1NoTk9KLXhrTm1DRGNTcEJRcWVpdW9qZThxSFY0RmdMaDlMR3FhQVHSAd4BQVVfeXFMUGxwLVFBV0FXX3IydGMyNXYyX1BINGZkOVNQb0Y3SklWUzVESzltSFZteFJid011OXUzVkRsYlhlaWU2c0F6QlZ0a1l2WHU4bXJGLUpnT3ZxZXVzcDlLclk2NEJpYml1c0lDZEZlVF9nOU1GU0hBdVlxYnpfMkpYS0ZJVmhoYnp1ZHE2bWZEN0JrQWJ1Y3pYYlFNOEJaQmpKTnR0ckZNUHNkd0sxMTg2Ym9nQnhsNm9TaE5PSi14a05tQ0RjU3BCUXFlaXVvamU4cUhWNEZnTGg5TEdxYUFR?oc=5",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNWxiUmUxVVlLaVBvTGtfZE1HWFluMzlyLTdyUkxwWnJNaGFOdE9Xa3k4YUJCVXRzZkFxX3A1NUsxWVRHLTlfdGQ2bkdXLWRxb1NncjhrZ3kzbE81aEVtQ0luR2pBMlhCUDhRY0tDeFNMR1pIUm90eHRKYzVjOXpNOU1FTk5rWnJ1ZWFESFN0eXFFNzlQMlhjMGRfU1hsU3JraDhSaXhJcUNCUldtY1JlR0FxMFplYjFXenBycUlYaDRLMnJtc296eDlGYzBucmQ0M1RwZEdmTWVPYlYtMHVTMkZ2YmlTOGp4TjVDcHVndUlvUVAtWFlR0gH3AUFVX3lxTFA1bGJSZTFVWUtpUG9Ma19kTUdYWW4zOXItN3JSTHBack1oYU50T1dreThhQkJVdHNmQXFfcDU1SzFZVEctOV90ZDZuR1ctZHFvU2dyOGtneTNsTzVoRW1DSW5HakEyWEJQOFFjS0N4U0xHWkhSb3R4dEpjNWM5ek05TUVOTmtacnVlYURIU3R5cUU3OVAyWGMwZF9TWGxTcmtoOFJpeElxQ0JSV21jUmVHQXEwWmViMVd6cHJxSVhoNEsycm1zb3p4OUZjMG5yZDQzVHBkR2ZNZU9iVi0wdVMyRnZiaVM4anhONUNwdWd1SW9RUC1YWVE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgJBVV95cUxOZEdWeXMwOUV5MG9KVXJvVGh6cTVTZVpiVDlsZ29TZXNWZExSV0UxeDVpSklHcVI2WWtaNk9pajZiV2NNRS1kMG5XcHdnS284YTVTcHdpWFp2RlRObTVmZV92ZGU3UUh2ZTF3N1B5OGJVamYzb3cxTzMzdjlrdTBZWjFxQmhkVzNlVHQybzhQX2gtcFUycE5GeWtrNHZkbjZFNGwzR0trbkRlQWg2OGNqVTk3akk2ZVNlbGx0MzlGNEIyUWdfNGdqeTBTNEM2QUNuTGd1ZjI3UmF1dVEwSjVtRDdscExRR3ZHN1BBdkFmNTFCY0tVamJ2cHpoVi1VaVQxMEtlSWMtTVZYcDdxVU9TTmM0UjcwcjlYUXZ3OWdOTWRCWTJPN0ZVNkNKNGRjUdIBrgJBVV95cUxOZEdWeXMwOUV5MG9KVXJvVGh6cTVTZVpiVDlsZ29TZXNWZExSV0UxeDVpSklHcVI2WWtaNk9pajZiV2NNRS1kMG5XcHdnS284YTVTcHdpWFp2RlRObTVmZV92ZGU3UUh2ZTF3N1B5OGJVamYzb3cxTzMzdjlrdTBZWjFxQmhkVzNlVHQybzhQX2gtcFUycE5GeWtrNHZkbjZFNGwzR0trbkRlQWg2OGNqVTk3akk2ZVNlbGx0MzlGNEIyUWdfNGdqeTBTNEM2QUNuTGd1ZjI3UmF1dVEwSjVtRDdscExRR3ZHN1BBdkFmNTFCY0tVamJ2cHpoVi1VaVQxMEtlSWMtTVZYcDdxVU9TTmM0UjcwcjlYUXZ3OWdOTWRCWTJPN0ZVNkNKNGRjUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNREJrNU5Qd0hVVHVMa0c1azZsTEo2ajdUX0JNbmwwdUpXVDdfZHVYYVBPeGVTaXFlWG1lcWpzNk9qZXJGd1RvT2w3X2tMSmRnNVJiQXFGb2NKbWZ6cmlqckl5cDkxOWZVYkItdzRPTXlCNGxBVEUtTWtpYmxNV2hjeGp4aElxWnQtdWNEVnpVcS03X19QYVJVYUZvTmxpQU9FM1BQN3lTaUg0NnFGYnc?oc=5",
-        "https://news.google.com/rss/articles/CBMixgJBVV95cUxPSk43N2QwVWNRU1J6LVE5Q2drMTZGLXAtb3FJbjNlWTNnSUFNaE1jWWdlWmRuZXJZMHZVM2s2aEplc0ZNeTBXR0FpTjcwWkdRRUJYUlp1aXpDNmxkb05vSXRrQWhJMGl2Wm4zRzRtUF9lNmgxMElmZ3ZMQm5RdmdYcFNmeXI2Z3czaWFVbzhNUGFmODZzWmtMNmcxaVVwRi1wS0FpM2RjOFZyVW92NUdYbWYtNXlqSVIzbWF3T1AtQTRNcHlsbG5LZEV2U3dCWVYyN2h6SmxIZ2kzZmhGZFp6U1A0U3ZNeVVTeGd5dEkxTDAwd1BXczl3WWN6NGhHejhjcjNibUd1eUQ3M2dmUl9ZVlpET0lZQzMxNzJ6U1pyd2hWUm0xRnhGdDJNemY3VjlsbXBPLVlOdEI4TmlHbGNDSlBXS2w2d9IBywJBVV95cUxPR2Z0TFU0VlQxMFVNZ3NaMWFoWUQ5dXhxZW1yMzd3eWpjTll2dUE1T3JUc2JQQmZlbzFnUUFuNWJkUTNVUWQ0Vi1kdV9hS3RUUUkxWS1XTEdZMGJhTTBRX0hIYXU4YVEtb3FkTFhobTdTc1oyNy1TNVpET2R0a1ZYQmxUWC1vaXhvQ2tFeTVQSWJKWFBydzM3QVlHbnZNcWtOY3loZ3BuS183cVJGc05rcW9KR2FVYVp4QWZDcXdIenB6dEFQMFVaVzNGVjJabkVVWV82dkJjTHZjOGI5SnRzOFdvWjVEZVp1czI2bnZsVnZRT1ZwMk95YnBkbjlUSE1NWGpkc0tGTDhUUl9GeVRUV3VCYU44SWdCN0E3WXJYZDdralVrR1dkRm9UU1JYcTZFRTh4QURGcTNhWkdfRzZucF9vTWtNN2dCUkxJ?oc=5"
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQVRxY1kyX19GZWJTS3BBNTBSMTBnLTNJQms3T2Z5MGdRM3NHRjlWOG9RenRObVR3alFqZF9EU0lKU0g4TWRQdVBxOTZvUmN6aC03eHJ3XzBfN1VYR1BFZlcteGRRRjV4RFdacEQyejFQTFkyR2VzTS1RM0RGb0pxcFptMHRXc2JMMjhpMkItR1BYaHJxSTBLc21Qd3VkYTY1QzNHaTc2eXhrekRIQllSVFpGY0JsamxYQ2t1RExNR01JWkRxLUhVUjdibkctUzlrajlZTDN4Y2ZFa0l50gHcAUFVX3lxTFBBVHFjWTJfX0ZlYlNLcEE1MFIxMGctM0lCazdPZnkwZ1Ezc0dGOVY4b1F6dE5tVHdqUWpkX0RTSUpTSDhNZFB1UHE5Nm9SY3poLTd4cndfMF83VVhHUEVmVy14ZFFGNXhEV1pwRDJ6MVBMWTJHZXNNLVEzREZvSnFwWm0wdFdzYkwyOGkyQi1HUFhocnFJMEtzbVB3dWRhNjVDM0dpNzZ5eGt6REhCWVJUWkZjQmxqbFhDa3VETE1HTUlaRHEtSFVSN2JuRy1TOWtqOVlMM3hjZkVrSXk?oc=5",
+        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNWxiUmUxVVlLaVBvTGtfZE1HWFluMzlyLTdyUkxwWnJNaGFOdE9Xa3k4YUJCVXRzZkFxX3A1NUsxWVRHLTlfdGQ2bkdXLWRxb1NncjhrZ3kzbE81aEVtQ0luR2pBMlhCUDhRY0tDeFNMR1pIUm90eHRKYzVjOXpNOU1FTk5rWnJ1ZWFESFN0eXFFNzlQMlhjMGRfU1hsU3JraDhSaXhJcUNCUldtY1JlR0FxMFplYjFXenBycUlYaDRLMnJtc296eDlGYzBucmQ0M1RwZEdmTWVPYlYtMHVTMkZ2YmlTOGp4TjVDcHVndUlvUVAtWFlR0gH3AUFVX3lxTFA1bGJSZTFVWUtpUG9Ma19kTUdYWW4zOXItN3JSTHBack1oYU50T1dreThhQkJVdHNmQXFfcDU1SzFZVEctOV90ZDZuR1ctZHFvU2dyOGtneTNsTzVoRW1DSW5HakEyWEJQOFFjS0N4U0xHWkhSb3R4dEpjNWM5ek05TUVOTmtacnVlYURIU3R5cUU3OVAyWGMwZF9TWGxTcmtoOFJpeElxQ0JSV21jUmVHQXEwWmViMVd6cHJxSVhoNEsycm1zb3p4OUZjMG5yZDQzVHBkR2ZNZU9iVi0wdVMyRnZiaVM4anhONUNwdWd1SW9RUC1YWVE?oc=5"
       ],
-      "published_at_utc": "2026-10-14T04:59:00Z",
-      "published_at_ist": "2026-10-14 10:29 IST",
+      "published_at_utc": "2026-10-14T07:06:30Z",
+      "published_at_ist": "2026-10-14 12:36 IST",
       "first_seen_utc": "2026-10-13T23:30:00Z",
-      "age_minutes": 27,
-      "trend_score": 13,
-      "rank_score": 0.8802,
+      "age_minutes": 10,
+      "trend_score": 16,
+      "rank_score": 0.9254,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -284,195 +232,118 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Inside Aneet Padda's Fairytale-Themed 24th Birthday Bash: Ahaan Panday, Alia Bhatt and Star-Studded Celebrations Light Up the Night",
         "Aneet Padda celebrates 24th birthday with Ahaan Panday; Alia Bhatt makes special appearance",
-        "Aneet Padda turns 24: Ahaan Panday, Deanne Panday and Alia Bhatt join the Saiyaara actress'...",
-        "Aneet Padda Turns 24: 5 Highlights From Her Fairytale Birthday Bash",
-        "Aneet Padda’s fairytale-themed birthday bash with Ahaan Panday featured goofy selfies with Deanne Panday and a special appearance by Alia Bhatt. | Bollywood"
+        "Ahaan Panday calls Saiyaara co-star Aneet Padda ‘a gift to the cosmos’ in birthday post",
+        "INSIDE Aneet Padda's Fairytale-Themed Birthday Bash Ft Ahaan Panday's Special Gesture, Alia Bhatt's Appeara"
       ],
       "image_urls": [
-        "https://images.mid-day.com/images/images/2026/oct/Is_it_really_a_Pakistani_film_Why_does_the_scene_resemble_Salaar_59_1791954384052_d.jpg",
-        "https://images.moneycontrol.com/static-mcnews/2026/10/20261014030236_aneet-bday.jpg"
+        "https://pragativadi.com/wp-content/uploads/2026/10/aneet-padda.jpg",
+        "https://images.mid-day.com/images/images/2026/oct/Is_it_really_a_Pakistani_film_Why_does_the_scene_resemble_Salaar_59_1791954384052_d.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "eeed1f8043",
-      "key": "10-2030-confirm-deal-early-race-rwanda",
-      "headline": "F1 Confirms 10-Year Deal to Race in Rwanda From Early 2030s",
-      "summary": "https://sports.yahoo.com/articles/Formula 1 is heading back to Africa for the first time in more than three decades, after agreeing a 10-year deal to stage the Formula 1 African Grand Prix, presented by Visit Rwanda, from the early 2030s. The race joins the calendar once a newly constructed Bugesera circuit is complete, roughly 30 miles south of Kigali and beside the new Kigali International Airpo",
+      "id": "cb6bf424ea",
+      "key": "9-featuring-final-hosted-johar-karan-khan-koffee-salman-season-‘-’",
+      "headline": "‘Koffee With Karan 9’: When and where to watch the Karan Johar hosted final season featuring Salman Khan",
+      "summary": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/koffee-with-karan-9-when-and-where-to-watch-the-karan-johar-hosted-final-season-featuring-salman-khan-and-karisma-kapoor-in-special-appearance-in-premiere-episode-online/articleshow/View this post on Instagram A post shared by Karan Johar (@karanjohar)",
       "sources": [
-        "Johannesburg Sunday World",
-        "Magzter",
-        "The Nation Newspaper",
-        "Yahoo Sports"
+        "The Times of India",
+        "India News Network",
+        "News18",
+        "Deccan Chronicle"
       ],
       "article_urls": [
-        "https://sports.yahoo.com/articles/f1-confirms-10-deal-race-012600660.html",
-        "https://sundayworld.co.za/news/f1-returns-to-africa-as-rwanda-signs-10-year-deal-to-host-from-early-2030s/",
-        "https://www.magzter.com/stories/newspaper/The-Straits-Times/RWANDA-INKS-10YEAR-DEAL-AS-F1-RETURNS-TO-AFRICA",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWVRWM1RaV2xGZmdGX3pxbzVsTVE3NlJTdkI1RGVBb1BZWWxUX3JUMFZSQXAtZEI0bUMtX3ZCMUtaRGQzTllrRVpxbEptenFudVd2WUN4Q3luc3FjYXplaXppbk1KWTdHZlZlblBlLTR4OVMtVHJCUVlKY3p3Rnp6VzV0bnY0SWd3eENlWmNnODdaWV9ZdWJjNGZsZnJmSXdSeGZLLWs5VDZsZw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVR6Vk0zdVg0Y1pzRzFxV2RnV1Q4Mng3ODhNMGVaMVFHSTlQc0Y2Xy1MV2tJbkY0UDRRZGs1eEFwdE9rQ0M3QUF6S29UVFpIZTI4cGp5eXdOV01vcHNqMGw4cWUzWDYtNXlfUGR4Ukxlb3lZNnJiYTl0X19UaDVOS2h5T2VYc1oxeEQxQWdfVHhrT0FldnZkS25hSnk0NUIzekRsck1XWllwc2M?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU2EyT2REYXI0OUgxWEJGNVB4bmNXMVcxY2JXSS1rTmR1U3lqV3JkRXJFV0lCZmJESnVvRXljMDkzaWIxTWZfRUREU3VEaC15UVFpc3BEREE4N3VfYjNxdExNcjhjcTVHYks5eTdibFFvWUJGZkwtQkx3ZTZPSHFiclNHZ3N0emVCNkVhZlFGWGQ2X0dDTTBKc001SGc3U21TcXg00gGjAUFVX3lxTE1TYTJPZERhcjQ5SDFYQkY1UHhuY1cxVzFjYldJLWtOZHVTeWpXcmRFckVXSUJmYkRKdW9FeWMwOTNpYjFNZl9FRERTdURoLXlRUWlzcEREQTg3dV9iM3F0TE1yOGNxNUdiSzl5N2JsUW9ZQkZmTC1CTHdlNk9IcWJyU0dnc3R6ZUI2RWFmUUZYZDZfR0NNMEpzTTVIZzdTbVNxeDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zNjRzSDZqVUc0VHRIZGlHQk1ERnI2NkFCN3d2azdVUUVScjd4dGZYOGM4ZDVKSlIyMW5SN2FRVmNuREljQndQcFhEQ3pqVEczWDBmaFFyZDlZZWQtWlc3dTNickhVU3MtOW9VZl9tOFZnOEVROFJEdm5nbmJEZw?oc=5"
+        "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/koffee-with-karan-9-when-and-where-to-watch-the-karan-johar-hosted-final-season-featuring-salman-khan-and-karisma-kapoor-in-special-appearance-in-premiere-episode-online/articleshow/134934006.cms",
+        "https://www.indianewsnetwork.com/en/karan-johar-interviews-salman-khan-koffee-karan-premier-20261014",
+        "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-koffee-with-karan-9-premiere-episode-to-feature-surprise-appearance-by-karisma-kapoor-as-the-karan-johar-hosted-talk-show-returns-with-its-final-season-starting-october-14/amp_articleshow/134932815.cms",
+        "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPQUwxRXlOVFM3TmpwZnFSd1VUQVlJRmdubWZpT0lzNkJXcTZxQXN2S0ZHSUlWVTQ4am9RUnhLS2txTnFwUVRkQWI3ZTIwaDVpazZlN0ZqLW83MERVOXVONl9RaFpWZi11d055YmpyakVVaDAzdDBkMXVpUk9fb3AwMG85VllqM29YSU8weWF2c205MTY2RGJ3bkEtOW9UVVhaWTFNcUZNQmttS3pySGg4cTlyV0hzRGMtMDVVV3R2RWtsUTdrN0JIMjZnZmQwMUR3LUJOX04zMWkxUk5lZmZoVXZGSmhJc3dweHdONHpfOHhCOURLakVueWRRMWpVTVlRZllZOHFLNFFtdktVdjNSUE9LZ2ZWeTVNVGFRb0pzcXFveDJxS2U2b2hFZjVwQnZJNWVCaWdUYWdSSDRhcHFkXzhjTUJQczFWLXk1bVI4Y1FjZGRLR3hxVHlpcmNrSzlabkZZcHZSbGd0amdpZ0FQdFFUaUwwd2lUN0hMOUdDQdIBhANBVV95cUxPQWRDeXVydkhfOTdNWFN1TzZmR3V0M0R5LVlaczJrbndZN0VnUzhkTmhMS2xhMkdaS1JLSHdyaE1iSWxfMjZ5V2Qxd295VlBINmRxbFhVWlNXRnUzcGtidHVIbzBibFgwV3QteFRSM1NnbTNOWFVCcjFoWnpacUZjc0Uwdjh0MlVoaldwVFJxTEpwLVdRYmlEc0pNa3BnTWVjNXNNTnpwT3pCR1dRUGE1bnBoSzVnNGt5dFBRSnBXcGJWaDBtOFZjeFozUlRDZXJaS2hxNUZmS3VOU3F0dzFEQ0NsYWhJYW55TU5uVzJwRktjdVJ2TmVvRFk5Y2psX2lwZU1TU01SdGZFTmVGQWJ4dzRJOTNXY2FQN2lFU3gyZ0pDVkx0TXZGQURrSjBpUmZHZVVsMXY4bFNrQ0xKdFItUXQ3OE5EcUZZZ2dYZXd4bnhnaFpZN1V1TGNiVldCdzFDOFFyNlBpVjVIN2dQd3NCVTV2SkVIaHNoZW5LRllyNmtWczMy?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVNyMlZrcHpqMnZCOHpRNDRNRDFNT1dEQjVGYndfN2tZQUhNOWVLMlBXb1BDVFNEbEtSUkpmc3VhaDQxeEVzc1lSQlEwM2VVQ3N6cTRnTjNXQW9ZZlFnS2JpMWxrT3N5WkFvaTJrLTk0WUdtb1YtWGxidFhkaXQwWEozMFVVekJ3djJFYV9XbVNpMXc5ZFExX09DbFZUVXBlOHc?oc=5",
+        "https://news.google.com/rss/articles/CBMimANBVV95cUxOMjlMTFpPNzFIcHB4UUVHRm9LU0ZXcjVNc29Sb2pIUVEtcVdwcGVZYkhfenVWNnI5QTJZMUItbHdRTHBXQUdfLTlka0RYblFDRkZsZXdoLWFIQ0VoOXNHRlprV1hzUjE0SExFY0VUdlR6WjJlM0MwRjRxOTJHT0FpeGZaQUJnaGZIby1Gc2FvcHZ4bkdLSEduYjA4Y2Znb2NodFJLRnJMVVBDaFRQMlRvSzZ6Z043aWZXcUdfalVXdEF6YURuZTVoOWZTUTBSMndWOGZTbnNmTGxyOFdGWHpUa0g1Y3RQRThvYlA1a0p1dTZtaEpnNlNKNTI2el9wUTJZVFJEN0IyTThzSXg1bW9RYVFqelJjUlotRzRNQUNteS1Rcm5TM2xBV3hVZ2Q5QWtzWGtWdWg4cVFFLUZPT0paeWdEeUpBYW1rN0Vsa3k0eHRta0RSc1BuNlVfMWdyUzl2TEhRa2ZjbzNLOXdWaW1mdnVPYlJhQUNlc3hJekhzNDltMk9BU3dCVUVxNTl0aUZaakVGTEVmajjSAZgDQVVfeXFMTjI5TExaTzcxSHBweFFFR0ZvS1NGV3I1TXNvUm9qSFFRLXFXcHBlWWJIX3p1VjZyOUEyWTFCLWx3UUxwV0FHXy05ZGtEWG5RQ0ZGbGV3aC1hSENFaDlzR0Zaa1dYc1IxNEhMRWNFVHZUeloyZTNDMEY0cTkyR09BaXhmWkFCZ2hmSG8tRnNhb3B2eG5HS0hHbmIwOGNmZ29jaHRSS0ZyTFVQQ2hUUDJUb0s2emdON2lmV3FHX2pVV3RBemFEbmU1aDlmU1EwUjJ3VjhmU25zZkxscjhXRlh6VGtINWN0UEU4b2JQNWtKdXU2bWhKZzZTSjUyNnpfcFEyWVRSRDdCMk04c0l4NW1vUWFRanpSY1JaLUc0TUFDbXktUXJuUzNsQVd4VWdkOUFrc1hrVnVoOHFRRS1GT09KWnlnRHlKQWFtazdFbGt5NHh0bWtEUnNQbjZVXzFnclM5dkxIUWtmY28zSzl3VmltZnZ1T2JSYUFDZXN4SXpIczQ5bTJPQVN3QlVFcTU5dGlGWmpFRkxFZmo4?oc=5",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMnBCZWZQQ0ZjNHpkenlsbXFwaXYycnYybXFxWVg1QUxwUmlDeW1qLUxPQ1lzbUtvOVBGVG5CRTVYdkdmSF82S04wRUR6VnMzS0ZJcVV4Rm9UbThSYlJNSjdCcWptUkRiZVRjS1BDVk5TcmUxZDdIMTV4UnJZejVGSS1KWW5WOVB4UlJoTzBMSjRoZGlpUkdEQm1TZmhvYzRieThIR1FpTGZVYW1lQTd0Njk1TmtYdG5ua1Q0UWNxVTdrRG9FTU9fZzRDMWloREhWSkxTR3hlUEFkd0FLQ21vcjN4b05xaFFUdnhJR3BR0gHuAUFVX3lxTFAycEJlZlBDRmM0emR6eWxtcXBpdjJydjJtcXFZWDVBTHBSaUN5bWotTE9DWXNtS285UEZUbkJFNVh2R2ZIXzZLTjBFRHpWczNLRklxVXhGb1RtOFJiUk1KN0Jxam1SRGJlVGNLUENWTlNyZTFkN0gxNXhScll6NUZJLUpZblY5UHhSUmhPMExKNGhkaWlSR0RCbVNmaG9jNGJ5OEhHUWlMZlVhbWVBN3Q2OTVOa1h0bm5rVDRRY3FVN2tEb0VNT19nNEMxaWhESFZKTFNHeGVQQWR3QUtDbW9yM3hvTnFoUVR2eElHcFE?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbUhSOTVSU3JNeUw1TmNqd3BqdGkwaG9oNFZhSnk4Zm5LNms1ZEIybzRzWnhNN0g0UHZxazhoc1NyUHk3Wjc1alVsMXNWTTBWRTRMeDYxTVdIb0ZSUXBHS2k5dU9iZzluUFJVTmVzeF9pTk82V1pseC1QNGJfQk1QNGZrLTVBdGhXeGpkbGt6UEJKV1I0UXlNZzFuLXVaemprRG0teUFFRHl1MERobDJCRnFhWEVuMXIxMXNYQlVxc2dYUHpUWGEwOEN0aERMZUJ4ZklKSTA0ZjEzd0V6ZEh6S0UtUTfSAeQBQVVfeXFMT21IUjk1UlNyTXlMNU5jandwanRpMGhvaDRWYUp5OGZuSzZrNWRCMm80c1p4TTdINFB2cWs4aHNTclB5N1o3NWpVbDFzVk0wVkU0THg2MU1XSG9GUlFwR0tpOXVPYmc5blBSVU5lc3hfaU5PNldabHgtUDRiX0JNUDRmay01QXRoV3hqZGxrelBCSldSNFF5TWcxbi11Wnpqa0RtLXlBRUR5dTBEaGwyQkZxYVhFbjFyMTFzWEJVcXNnWFB6VFhhMDhDdGhETGVCeGZJSkkwNGYxM3dFemRIektFLVE3?oc=5"
       ],
-      "published_at_utc": "2026-10-14T05:00:12Z",
-      "published_at_ist": "2026-10-14 10:30 IST",
-      "first_seen_utc": "2026-10-14T01:26:00Z",
-      "age_minutes": 26,
-      "trend_score": 14,
-      "rank_score": 0.8621,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "F1 returns to Africa as Rwanda signs 10-year deal to host from ‘early 2030s’",
-        "RWANDA INKS 10-YEAR DEAL AS F1 RETURNS TO AFRICA | The Straits Times - newspaper",
-        "Rwanda to host Africa’s first Formula One since 1993 in ‘early 2030s’"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/f8a1aac07206c138a7f039912c79d848d6959d2ec6c434cb5daba361238d1b81/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fautoguide_com_450%2F4e7e4a7253632a2cb325f7548c4a181f.jpg",
-        "https://media.sundayworld.co.za/wp-content/uploads/2026/10/F1-returns-to-Africa-scaled.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e4bd4d5e93",
-      "key": "change-controversial-debate-fans-fume-hakkinen-mika-weigh",
-      "headline": "Mika Hakkinen weighs in on F1 debate as fans fume over controversial changes",
-      "summary": "EXCLUSIVE: F1 has embraced street circuits in recent years, turning away from many of its traditional circuits, and Mika Hakkinen gives his thoughts.",
-      "sources": [
-        "AOL.co.uk"
-      ],
-      "article_urls": [
-        "https://www.aol.co.uk/articles/mika-hakkinen-weighs-f1-debate-050000000.html",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbmx2RDV0YmRZUl90cVNUcmdjUWVIYl9ZVFhndC0zOGZEUjRwQlEzdjcxWXJvRGtnV2plV1hJLXo1akRBNV9sM25fUDhzbFNxbzRPc0UxYXZmc1lZazB5c1l0MlpNdDY0d0ZhdEtqdWZRTmNPaXNsTWhsb05tTXREV3BB?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T05:00:00Z",
-      "published_at_ist": "2026-10-14 10:30 IST",
-      "first_seen_utc": "2026-10-14T05:00:00Z",
-      "age_minutes": 26,
-      "trend_score": 11,
-      "rank_score": 0.8263,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://hermes.media.transform.aol.com/7891501e458b598e89e9c4cab77d9a6464ff0a95/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/14/514585d1-dd8e-3de7-aea0-eb5a43437b61/3e59a3f5-ba8f-4f67-9f38-3719a6d47ff4.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "9f5b247949",
-      "key": "1-changed-khan-late-life-mother-reveal-rukh-shah-wish",
-      "headline": "Shah Rukh Khan Reveals 1 Wish of His Late Mother That Changed His Life",
-      "summary": "https://bollywoodmascot.com/bollywood-news/Shah Rukh Khan reveals how his late mother’s wish inspired him to enter films despite once believing it was too late to pursue Bollywood.",
-      "sources": [
-        "Bollywood Mascot"
-      ],
-      "article_urls": [
-        "https://bollywoodmascot.com/bollywood-news/shah-rukh-khan-reveals-1-wish-of-his-late-mother-that-changed-his-life",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWi1UWnRrSVNyWkdwZlBTeXlJY2dwZjdwUFFXaU1JLWpKWmlvUHBDRWw5U3hjUDZJUDdCbzNlOGMyMlltUDlXYzBMNW5WdjJVc0I1bEZNcDhfS0xuWm1GZTRUYi1ydmsxTVl2bG82eFVfTlMxUnRYQThYQ2w5Nml0U3pUeHFrLVRxUkc5cF9SNFd6b0ZZSGVZejBHZ2lvRGV4dGo5S2lKNjRXUlBYMWFueUktZw?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T04:55:27Z",
-      "published_at_ist": "2026-10-14 10:25 IST",
-      "first_seen_utc": "2026-10-14T04:55:27Z",
-      "age_minutes": 31,
+      "published_at_utc": "2026-10-14T06:15:00Z",
+      "published_at_ist": "2026-10-14 11:45 IST",
+      "first_seen_utc": "2026-10-14T01:42:56Z",
+      "age_minutes": 61,
       "trend_score": 9,
-      "rank_score": 0.823,
+      "rank_score": 0.918,
       "category": "famous_clip",
-      "section": "top",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "Shah Rukh Khan"
+        "Salman Khan"
       ],
       "region": [
-        "IN",
-        "US"
+        "GB",
+        "IN"
       ],
       "language": "en",
       "priority_queries": [
+        "Celebrities & music",
         "Famous people clips"
       ],
       "google_trends": [],
-      "india_topic": true,
+      "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://bollywoodmascot.com/assets/uploads/news/2026/10/shah-rukh-khan-6acf0bd13cd25.jpg"
+      "other_headlines": [
+        "Karan Johar Interviews Salman Khan on Koffee With Karan Premier",
+        "Salman Khan’s ‘Koffee With Karan 9’ premiere episode to feature surprise appearance by Karisma Kapoor as",
+        "Koffee With Karan Season 9: When And Where To Watch The Final Chapter Of Karan Johar's Chat Show",
+        "You Still A Virgin?: Karan Johar To Salman Khan On Final Season Of Koffee With Karan"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://static.toiimg.com/thumb/msid-134934218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202610/20261014-img-20261014-6fcc0fd5a9ddf9de.jpg",
+        "https://static.toiimg.com/thumb/msid-134933022,width-1280,height-720,imgsize-120646,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=tqxxenlT3Z4",
+        "https://www.youtube.com/watch?v=-fdoJAvbX_k",
+        "https://www.youtube.com/watch?v=UMhDjKBOCmo"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "226125a767",
-      "key": "clayface-premiere",
-      "headline": "LA Premiere of \"Clayface\"",
-      "summary": "https://www.rutlandherald.com/ap/national/la-premiere-of-clayface/James Morosini arrives at the premiere of \"Clayface\" on Tuesday, Oct. 13, 2026, at the Hollywood Legion Theater in Los Angeles. (Photo by Richard Shotwell/Invision/AP)",
+      "id": "0111daaa72",
+      "key": "5-bowl-dancing-night-revealed-score-star-super-‘-’",
+      "headline": "‘Dancing with the Stars’ 2026 Scores Revealed for Week 5: ‘Super Bowl Night’",
+      "summary": "https://www.usmagazine.com/entertainment/pictures/dancing-with-the-stars-super-bowl-night-who-went-home/The 'Dancing With the Stars' couples performed routines to iconic Super Bowl halftime show performances on Tuesday, October 13",
       "sources": [
-        "Cosmic Book News",
-        "Rutland Herald",
-        "Times Argus",
+        "Us Weekly",
         "IMDb",
-        "The Grand Junction Daily Sentinel",
-        "Goshen News",
-        "Deadline",
-        "The Batesville Daily Guard",
-        "WV News"
+        "The Express Tribune",
+        "Daily Mail",
+        "The Hollywood Reporter",
+        "LateNighter",
+        "Entertainment Weekly",
+        "Yahoo",
+        "The Palm Beach Post",
+        "Deadline"
       ],
       "article_urls": [
-        "https://www.rutlandherald.com/ap/national/la-premiere-of-clayface/image_ed570fb7-9dbf-5e96-81f7-ad14a609802b.html",
-        "https://cosmicbook.news/clayface-first-review",
-        "https://www.timesargus.com/news/national/la-premiere-of-clayface/image_21edd4ab-e1b0-5ff0-b737-1762d8e76f5e.html",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBtUGxUSy1KZEV5RVRkdTZxSlFoTGRacVFtRkFsc2ktQUFSUUN6bUVtV25SWE9PWkwyMm8xODBhM045VS1uWnFrQml5UnNRenRSNEN2aktReG4?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZnRlUWZLUndFbnpSenFocjNQU2E1MzdlREw3WWFJaEUxeWVLRnJDNEtyZkdqTTYzRUExN3VlLWdOdXotdTd1bTJQUm1aYjRDWDVpX080UHNXaGtnV1haX0xtUlM2Z1Fzd0RlY3JfektCd0lQTERCc3Q2N2xaOUEyX3dfaTZiTXNTTmtJQjlqa3Z3a1lqS1VNNXhNUGgwVG5Fbnp3T0R4dHNyMmsxRXJ0ZU1zSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTy1ybEl4SlFzNWoza2xqU2dUdXVWTHVnSzR1Z1hrSjZKWXlkLWd0TXhQR1dqTFJjYVg0VXRYLTJEWlY4bnZtWXhtYmtmSkhST2pOVmxmRlZqODFITEE0bG5ieThIbDRKbmVhS2Z2bjloT2NiUWdnVkZCMkhaMlpjYmRjejM3MTdqVHJjMzdld1FMallCRkhJNTZSc3hSX2RNaFZpQnFsMk9lRlFLUjZzV2dR?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nN0pOUWF0NUNLLUpOZWc1cEpQdkNZMHdWc3ZDRkpqUEpzT1JQY2pSYzYzRktrNEstNE9adGFDYVphSUdtVWc4b0EwbHpkVGR5YnV3MUFCQkQwVjUwWV9faEtWQTFSNk0?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZEZQQ0lIRnR2OTJRenNlbngwOUg3R2ZjY0NSbzZHTW9SRmxJeDZlLXBScVNCYTlub1FzY0ZrSHY5OVpGdVlEejItNU1NYTNGYm01dk5SYTFScy15TmZZVGtQY001bERMY2VpamxtdlQxQ2pRU3ZQR194TjlURmg0UmFXM29mUm43eXF4TkpyNm8wQXFjRlNNclQtbmpfOHg2SnRfTXh1MGRQZw?oc=5"
+        "https://www.imdb.com/news/ni66061754/?ref_=nmnw_art_perm",
+        "https://www.usmagazine.com/entertainment/pictures/dancing-with-the-stars-super-bowl-night-who-went-home/",
+        "https://www.imdb.com/de/news/ni66061751/?ref_=nm_nwr_2",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxObktkMVQ4UlVPUzlpMUdrWnMwWlcwV0NLSzFTYVJ4a2hJNWQ0WF9wc3BZNlhJSXJXbGRxUGRnVWtncXhtRkdFVGRlQXE5R2g1SlpvYzd3Sm5JeFJPc3hGNWs0ZXdZY2lXNGIyM3ZKejlJbnFKM29ILVprdFA4UV82Qm51T19vYURTZGxUWkQxWE40YWFrNTc2ZEFSWTB2VEdRZUFUSDBFcw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1URVJwY1MwMFo1elNJTnBJY0IzX21PckM3THNycFRkTkt0MlpHY3pzZk56N0o1M3pLOGRkeE52cE9uaVVEOVYyQnZXaWhkZVVHOUhtYXJEaUQtblNvandjanFvVlc?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcjE1MDBfR0hfWFhCa1NHRzhGVTd1VXVtbkVocklQaWpROTZLMllqQkFjWGxWWk9mTnNnVldGS3ZWLXk3S2RfZk1RYUxwY3FtMDFyR2VJSE5NcUYxQno2VWZpdGNFUmFSN3NwX3JhY3dxUThBN2JrcC1pZUIyV0Vib0dma1BzNHBZMGRfLWtHOEItLXFsd3JYcFNQajBiU1pySEV0c0J6WE5yY0MwYzFDYTZUZEJqQnVOS3kzekhiZm10djh5Q01uMm9UX1F3UdIB1gFBVV95cUxQZC1DcGZoX3oxYUhWQXhpV1lIRTRyTHl6OTRKR3lDUTRBSm93RGxnN24yQWN5TTV2TXc3emJWU3JWbGhiYUJnSURxTFFaSnJRWk0yNk9UcFpYYTlOWTlGVGx2dUV4QTZ4MENDcmdldDIyTWk3M0c5S1V1cWNTY25rbGJhQ0Q4a0hZdDlKSnZrbEdUaUVxOUxaRGprekRfZ0dfRlVaWkRmbnJJVF9UYy10V3J4cVE5aXNMalF3YTBrYTdnLUVza1dpMUpUdjd6WDRHZWFnSkxn?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0FXSFdON3RyVkl1djd2NlRTMlBFU3ZiNHFlS0VpckoxR1dERmV3M1dRcnFacDZRb1NlajlONDduQVR5RGsxaWp5WHk1Ujg5dnRURUNUMjUtQnNtSG5tSXVERmFjbENzX2VIYXpuR0JCenFMZjJvelVjdUtPb3BCemdxRzdGdVFwaTVEUDBNTTE0ZUVjVy1LbXVFakVvbEtGTkh5RFNHenEyWUZq0gGyAUFVX3lxTE9PR19JY21BdjJjbzBzeG9YYlh2V0ZQaldnYjN1S2lLc1A1ckg3Nmg4QUh3ck9XYm4xc0FEeC1vdFdGR3lDbDB0ZFo5NVlyendTLXRNaWR5bzBSbm5ZU0RwdDlyVlZkRDF3VW8wSXZMN1BVYmpBaF9jQmV0aWNHYmo1U1pXQUdEUmtvekpJQjBSV1oyOXliQ0JwUjNYc1J1SFpiWVM5MFg0ak5WZVZBTEYwb1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WcUd3TlE1VWxVZG1QU1dJV1lvUHY1dk5qR2pMQnUyb1NnNVRZWWM0Nm9zZXV2V3lHeHFyem1GaVh0VWY0aHRkMGNsVDB5TmlxLXFqTnN1WFptRUpNa3djYw?oc=5"
       ],
-      "published_at_utc": "2026-10-14T04:44:51Z",
-      "published_at_ist": "2026-10-14 10:14 IST",
-      "first_seen_utc": "2026-10-14T03:11:54Z",
-      "age_minutes": 41,
-      "trend_score": 11,
-      "rank_score": 0.8138,
+      "published_at_utc": "2026-10-14T06:26:48Z",
+      "published_at_ist": "2026-10-14 11:56 IST",
+      "first_seen_utc": "2026-10-13T22:25:20Z",
+      "age_minutes": 49,
+      "trend_score": 19,
+      "rank_score": 0.889,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -489,13 +360,270 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "First Clayface Review Hits After LA Premiere: 4 Stars, ‘A Little Bit Of Everything’",
-        "‘Clayface’ Red Carpet Premiere Photos: Tom Rhys Harries, Naomi Ackie & More"
+        "‘Dancing With the Stars’ Scores Touchdown With Super Bowl Night — But 1 Couple Fumbled: Recap",
+        "‘Dancing With The Stars’ Recap: Super Bowl Night Sends Home A Fan Favorite",
+        "'Dancing With the Stars' Season 35 Night Week 5 recap: Super Bowl Night delivers highest scores yet",
+        "Jenna Dewan ties for highest score yet on Dancing with the Stars season 35 as fan-favorite is eliminated"
       ],
       "image_urls": [
-        "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/e/d5/ed570fb7-9dbf-5e96-81f7-ad14a609802b/6acf012924779.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-        "https://cosmicbook.news/wp-content/uploads/2026/10/clayface-reactions.webp",
-        "https://bloximages.chicago2.vip.townnews.com/timesargus.com/content/tncms/assets/v3/editorial/2/1e/21edd4ab-e1b0-5ff0-b737-1762d8e76f5e/6aceff0dcb1ae.image.jpg?crop=1766%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
+        "https://www.usmagazine.com/wp-content/uploads/2026/10/DWTS-Super-Bowl-Night-Recap-183731_EM204986.jpg?crop=0px%2C297px%2C1333px%2C700px&resize=1200%2C630&quality=40&strip=all"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "360ddca22b",
+      "key": "comeback-dream-dwindle-important-set-test-tsunoda-yuki",
+      "headline": "Yuki Tsunoda set for important test as dreams of F1 comeback dwindle",
+      "summary": "https://racingnews365.com/Yuki Tsunoda's hopes of a full-time return to F1 appear slim.",
+      "sources": [
+        "racingnews365.com"
+      ],
+      "article_urls": [
+        "https://racingnews365.com/yuki-tsunoda-set-for-important-test-as-dreams-of-f1-comeback-dwindle",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcXlKMzVQNU51WS14RU1uN1VzTmtvckVvWFVPN0FaSF9yNGw3dnhSajJlNy1zQVhTWlQ3SzJCZHBId25zemhEOEpLTnlSS1pMQW1pcTIwV3RwWVB6ZFNGcFJ5eHp1cWV4c2FIWTNSbzlCY2plYzJ6TWtVY1lTV0x1X0p1VUlPcllqY0RYSGdXZGQzM2hKMnJvOWtR?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T07:15:00Z",
+      "published_at_ist": "2026-10-14 12:45 IST",
+      "first_seen_utc": "2026-10-14T07:15:00Z",
+      "age_minutes": 1,
+      "trend_score": 11,
+      "rank_score": 0.8472,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cdn.racingnews365.com/2026/Tsunoda/XPB_1442854_HiRes.jpg?v=1791535062&width=1800&height=945&quality=75&crop=5462%2C2868%2C0%2C386"
+      ],
+      "video_urls": [
+        "https://youtu.be/jZ0ZtWqEu2s"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "a61decc358",
+      "key": "100-6-billboard-dracula-hot-jennie-rebound",
+      "headline": "'Dracula (with Jennie)' rebounds to No. 6 on Billboard Hot 100",
+      "summary": "https://www.koreajoongangdaily.com/entertainment/dracula-with-jennie-rebounds-to-no-6-on-billboard-hot-100/'Dracula (with Jennie),' a collaborative single between Australian act Tame Impala and Black Pink's Jennie, climbed six spots from the previous week and extended its run in the top 10 to 20 consecutive weeks.",
+      "sources": [
+        "allkpop",
+        "Korea JoongAng Daily",
+        "The Korea Times"
+      ],
+      "article_urls": [
+        "https://www.koreajoongangdaily.com/entertainment/dracula-with-jennie-rebounds-to-no-6-on-billboard-hot-100/12919865",
+        "https://www.allkpop.com/article/2026/10/jennies-dracula-rebounds-to-no-6-on-billboard-hot-100-logging-20-weeks-in-top-10",
+        "https://www.koreatimes.co.kr/entertainment/k-pop/20261014/dracula-featuring-jennie-rebounds-to-no-6-on-hot-100",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFVKZ0JyOHpkNU95NWZRQ3k3WGpDN1NWYzBGSWJ5Um9jMmRVazJlcUFIUE9vSVNZNGFwRkpIdlRNQW1SeGtaQ3g5TU5FYU9yXzVGMEc0VkJkZzZZdEdwSTVhc3YxUXZsMFhDNFNtZXh3WEN2V0RmMkJQZnBFSVVySFc2Y0lhX3JMVUxDRGgxNWdSaExsSFR5cGNJYjhVZEwzT1o0Ul9IYmdSdTFIOVAxVmxMZkpBM3UxaUFFRg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaWswaHRHVWNzdVczRUpvV3l6c1JjWE5vd1dIaVdKYWVKeUxwYktFZnFzaTIwT2RUUjg4Z3UyMUJKb0J0X0JPMUdhb255S3EzMFRtTEJyWGRqa2NNMDJzcm1kQmZ6SDFUOThLbEZ0WXhsdlVfYlVmNWQzMUlUY3BLQ3BoNjBQMUx0VlJKbmxiUlZmVlRpZVNnaWsxdndSN194ZWF6YU1RNDZNZ2FRTkZGQlVObnFkQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUmxLYm1pOXE1QUxTNWxYTVdDNHRzZGU5SFpPOU16dzA3V05HN1ZFRXB5Y2RUbTRtQ28tUEFGMDV6ZC1NN2QtZUpkZnA3a1RuMzBaWEY3SVhhRlpXNDVYdFF0eS03Zmtqd2V2bnB2anowWUNjUUtiUkZyYlNoVzkxVG9RU1A2aHN1MzdRSlZwVjViMVBNUk9GNlM5S19rWDlNVG5oekdRbkN6UHdIX1NV0gG0AUFVX3lxTE9ueS01c0dHSXdBeEhOMG1NNkpNX2V1TFh5aXJyMjZZeWZrSzRVYkgteWtIZVZ2M1g0QzdVZ2ZER1g4TXlJZkpGaDNuQWd3YUpLNWl5dlkzLXVobW5qR2pjMkRfai1IczhuUmVETC10ajZ0ZEhLbVZfNjVocUl1SXJIYlBjX2Z4Ync1QzBpakprUkg2RENNalNhS2ttUlA3bEVWUU9kTGNmV1pnMlZfYlVpWVZmTg?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T07:00:00Z",
+      "published_at_ist": "2026-10-14 12:30 IST",
+      "first_seen_utc": "2026-10-14T02:25:03Z",
+      "age_minutes": 16,
+      "trend_score": 10,
+      "rank_score": 0.8207,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Jennie's 'Dracula' rebounds to No. 6 on Billboard Hot 100, logging 20 weeks in top 10",
+        "'Dracula' featuring Jennie rebounds to No. 6 on Hot 100"
+      ],
+      "image_urls": [
+        "https://image.koreajoongangdaily.com/12755429.jpg?imageId=12755429&x=0&y=5.83&cropw=100&croph=71.67&panox=0&panoy=5.83&panow=100&panoh=71.67&width=1200&height=683",
+        "https://newsimg.koreatimes.co.kr/2026/10/14/b9f3fa81-07a0-4a56-a550-26767d8b5c8e.png"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "6ca988df10",
+      "key": "action-dhawan-legal-shikhar-threatening",
+      "headline": "Why Shikhar Dhawan is threatening legal action",
+      "summary": "https://m.rediff.com/amp/cricket/report/why-shikhar-dhawan-is-threatening-legal-action/Former India opener Shikhar Dhawan has announced he will take legal action against the organisers of the World T20 Continent Cup for using his name as a participant without his permission. Dhawan urged media and fans to disregard any unauthorised announcements regarding his involvement in the tournament, which i",
+      "sources": [
+        "ETV Bharat",
+        "India Today",
+        "Rediff",
+        "Mid-Day",
+        "The Times of India",
+        "The Economic Times",
+        "NDTV Sports",
+        "Gulf News",
+        "The News Mill",
+        "ANI News"
+      ],
+      "article_urls": [
+        "https://m.rediff.com/amp/cricket/report/why-shikhar-dhawan-is-threatening-legal-action/20261014.htm",
+        "https://www.etvbharat.com/amp/en/sports/shikhar-dhawan-threatens-legal-action-against-world-t20-continent-cup-after-unauthorised-use-of-his-name-enn26101401804",
+        "https://www.indiatoday.in/sports/cricket/story/shikhar-dhawan-denies-world-t20-continent-cup-participation-threatens-legal-action-3016899-2026-10-14",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM0JDTzRIUzJHY1FZZlFGa3hEX1dOSGJuQ2JIOWJLZVhjek1Qa3BMaHVkbU1CVzQzTmo0a2JCc0Zpc1VrYlRNZnd1YzFBQVJJTjE3QUp2MjkxYUx6SmdIQTdYYVZVejZ2bDZ6N3dUR2swQk1pbm1TcThpS2g0WGViajRyb0N0UlB0QmFUeW1qem5fcUhsQktwTnB0bTRlXzl1V2d2UUtBZDJCLXM2cXU2Z3RZUF9fYjRCd2s4S0JTMnRoOU91eVlyblpyNU9EUUtkVTRzUHlNRW44RVpZb3lFVkV5X1UxcFNBTlhXTkVOY27SAfABQVVfeXFMUDNCQ080SFMyR2NRWWZRRmt4RF9XTkhibkNiSDliS2VYY3pNUGtwTGh1ZG1NQlc0M05qNGtiQnNGaXNVa2JUTWZ3dWMxQUFSSU4xN0FKdjI5MWFMekpnSEE3WGFWVXo2dmw2ejd3VEdrMEJNaW5tU3E4aUtoNFhlYmo0cm9DdFJQdEJhVHltanpuX3FIbEJLcE5wdG00ZV85dVdndlFLQWQyQi1zNnF1Nmd0WVBfX2I0QndrOEtCUzJ0aDlPdXlZcm5acjVPRFFLZFU0c1B5TUVuOEVaWW95RVZFeV9VMXBTQU5YV05FTmNu?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTklhRS1zMmppVXlldEhaakRiQlpfSlFMcG4wdUNDN3FpT0p1cWs3TExqVnpXQzhhU1lSRXlMa2tUOGh2aGhIdzktLTJhdHJPUDdzZ0ZHM0hoQnF5WF9WS2w1RWtXUkFyZWt5aGI1ekxFLXNxSDRTWFVpSDZWeVYwREFHb2RCZHYwcVVGQ2s3UUJWX2NYQTVCazh0LTQyWFhKVC1XaVZOWGlNVUhlenJvWHUzVklHN29JczVScVF2NWRiSzFZamI1QUxhY09neGp1eF9IUHJzMVhqcVA2UVVwMUhn0gHnAUFVX3lxTE10TXM2QnM3SWxNWEl0V2ZOdlZnRWlVZ1N5WnJ0RmJQbC1LV2NrWnY3UXh0ZmtLZkR0TTkxVmp0ZkFPYXN4YzR4bDlycW16Y1hQejNreDJIVEdTRWlqUGFjWXhzODFZS3Y4c1B0NElQb1hkU2hDNHNRUTlBd3AxQ2lWd1V2cThOS3VSSFo4dXBRRWxTV2Fwcm5YOG5mR0owN1pBbl9jS3ZsdWRpTGk0Q0tEYzRDT2tzbThyZDNmMkxybnlFTGxndWRUMXR4QTFkeVRwSkt6YVVRZmhTc1RLa1EycV9QUU1wcw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0Z1V1lsRjF6aGxNME1vQVp3c0RCREQwMTJyWS05NHQ5M1pDWHlLM1ZTSDIyMEdMaEtUVE40RW9qX0hGNkF4UEVLZC1pTENCbE9pcHo2NVAtUWplS0pFWXJ0Z2hOS0EtSmRwMUhjbHQxMlpDWHpZNzFpZXc3YWdvdUpWaXJVdmQ1YjAzZ3pudXo2ZFBxVkR3Yl9GLXpJWlRS0gGgAUFVX3lxTE5HRnVXWWxGMXpobE0wTW9BWndzREJERDAxMnJZLTk0dDkzWkNYeUszVlNIMjIwR0xoS1RUTjRFb2pfSEY2QXhQRUtkLWlMQ0JsT2lwejY1UC1RamVLSkVZcnRnaE5LQS1KZHAxSGNsdDEyWkNYelk3MWlldzdhZ291SlZpclV2ZDViMDNnem51ejZkUHFWRHdiX0YteklaVFI?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZnVtbzV0MHNJR1ZycEVWV1M2b1V1aHhmanZtUm9lNTgyYVpwV0lQM0lFajVBd3JJZ0tVbEtXQl96MWRfbEh1X2xlblI0RU0tNWNUUXpRbTRTZko2MkdwQlBvYXI5U0EtSnplY0hIeldaVTVuRC04Z0tYTUZZSE9XTDNvZmdUWUloT0ctWG5LX3N0WUxrQkloWFNCMXBTTEhHU3NtNE1ETERpT1RndE9VRWVWMlk3U1NlNks5eW8zTdIBvwFBVV95cUxOZnVtbzV0MHNJR1ZycEVWV1M2b1V1aHhmanZtUm9lNTgyYVpwV0lQM0lFajVBd3JJZ0tVbEtXQl96MWRfbEh1X2xlblI0RU0tNWNUUXpRbTRTZko2MkdwQlBvYXI5U0EtSnplY0hIeldaVTVuRC04Z0tYTUZZSE9XTDNvZmdUWUloT0ctWG5LX3N0WUxrQkloWFNCMXBTTEhHU3NtNE1ETERpT1RndE9VRWVWMlk3U1NlNks5eW8zTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYldHSDJzdzBxeTdFSVhvOEtnSHRVWFVxdVpWaHdDUEJHYi1NUGZCTnZJWmpWY0VseFFCa1VaSHFFMWFoOWgwdi0zYlAwU2VNSENhZkUwSHRmaFdLcWhkMEk5MUUzeGNmbnJUUjJhVXNBVFlGVlJRbXVnOW1jaEotS0ZkMGFMSWlFaXlPajdJeE9mSGVVS1hwcG1kNTNEN3NFenkxSFdEMkx1ZVJ0X09neFdFZW9sQmdvVmtDSkc2U2laR25pSnQ4cE56TFFqdEJPa00wSDE0RFNqZVEzUFBPLU56V3JiUlJuWEU0YkVnVEE3WkxDNFB4VVRORGgxd3Q3UWFNUQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T05:31:33Z",
+      "published_at_ist": "2026-10-14 11:01 IST",
+      "first_seen_utc": "2026-10-14T02:14:42Z",
+      "age_minutes": 105,
+      "trend_score": 16,
+      "rank_score": 0.8163,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Shikhar Dhawan Warns Of Legal Action Against World T20 Continent Cup After Unauthorised Use Of His Name",
+        "Shikhar Dhawan threatens legal action over unauthorised World T20 Continent Cup listing",
+        "Shikhar Dhawan denies participation in World T20 Continent Cup",
+        "'My name used without permission': Shikhar Dhawan to take legal action against franchise league"
+      ],
+      "image_urls": [
+        "https://im.rediff.com/1200-630/cricket/2024/apr/13dhawan.jpg",
+        "https://im.rediff.com/300-300/cricket/2024/apr/13dhawan.jpg",
+        "https://imgs.etvbharat.com/etvbharat/prod-images/14-10-2026/1200-675-27866586-297-27866586-1791955773419.jpg",
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/sports-044523302-16x9.jpg?VersionId=8Snz7b3yy8.hLYYuZn8n9wiNIl5_vm4c"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c3a2f47fba",
+      "key": "23rd-birthday-kardashian-kourtney-landon-sexy-stepson-turn-vampire",
+      "headline": "Kourtney Kardashian Turns Into a Sexy Vampire for Stepson Landon’s 23rd Birthday",
+      "summary": "https://www.usmagazine.com/stylish/news/kourtney-kardashian-is-a-sexy-vampire-for-stepsons-birthday/Kourtney Kardashian rocked a vampire-inspired look to mark stepson Landon Barker's birthday, featuring a low cut lace ensemble",
+      "sources": [
+        "Crave Online",
+        "Us Weekly",
+        "InStyle"
+      ],
+      "article_urls": [
+        "https://www.usmagazine.com/stylish/news/kourtney-kardashian-is-a-sexy-vampire-for-stepsons-birthday/",
+        "https://www.mandatory.com/celebrities/1870972-kourtney-kardashian-stepson-landon-barker-vampire-photos",
+        "https://www.instyle.com/kourtney-kardashian-gets-vampy-lingerie-stepson-landon-birthday-party-12172644",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0txX095REs0SU1KUF9sMVp5b1hORVBDcVBQdjU2aldENlEzcFdVYlRqVHgyR1h0XzNHOWduWGlGdmF1MzZwdXVCY25sUU9mbzFXSEladHlMczJkLXd4MlJKelF5bWNRTk52aGtSTzZTWUxYTEx4VnFIbFRNWDRRalhZWktrUmlLckk1VGFnLW1SdmRDaXJwU0NHc19fcW8xdlJGaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSTB0X0ZmRGVrdHNVSGE3c0hfR2xMb1gxSzFqNHlnM2N3MWlKajhhWnBIODFtcHdyYWVzT0VmLU84Y0FVWkNuZUxYUnZSRGlZaEdremV6QmpWY2I3eWlxeGplcnd4TndETlhPWU1ZQUVDY0NKMlR0VEtPMm40SXNnY2dnU2V5Qi1ZVVduUFFSd2lZZzRSdkFNQl9YWmw2elhlR0E?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNejV3UFpsQm1OdURYbGZPcnYyQkRlTWtrY2tuNThLdHktbUlZSDU2UWpxdVJQNy14MC03aG11ck5LWkRodGRSNm5sWjRRQU1Uby10LUkxZmF0SFU3RlQzRHlUUWJvV0tJR0dNZGRmc014LUpFY3I4aWcxRU1qTFdFR2pDV2ppM2ktdWVheUFjbGZ3SW9oVDlybVBaajFvYlBCUHRsaA?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T06:50:48Z",
+      "published_at_ist": "2026-10-14 12:20 IST",
+      "first_seen_utc": "2026-10-14T00:52:40Z",
+      "age_minutes": 25,
+      "trend_score": 10,
+      "rank_score": 0.8132,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Kourtney Kardashian & Stepson Landon Barker Are a ‘Fang-Tastic’ Vampire Duo",
+        "Kourtney Kardashian Gets Vampy in Lingerie for Stepson Landon’s Spooky Birthday Party"
+      ],
+      "image_urls": [
+        "https://www.usmagazine.com/wp-content/uploads/2026/10/SnapInsta-Kourtney-Kardashian-Is-a-Sexy-Vampire-for-Stepsons-Birthday.jpg?crop=0px%2C906px%2C4032px%2C2118px&resize=1200%2C630&quality=86&strip=all",
+        "https://www.instyle.com/thmb/z5d66AjcSVB1Ht58zM1rnAKQQuE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Kourtney-Kardashian-Lead-226667d3335a4b83895f698bdc0e5af4.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "21031e530c",
+      "key": "future-global-goes-help-india-kohli-linkedin-post-shape-sport-viral-virat",
+      "headline": "'India can help shape the future of global sport': Virat Kohli's first post on LinkedIn goes viral",
+      "summary": "https://timesofindia.indiatimes.com/sports/cricket/news/india-can-help-shape-the-future-of-global-sport-virat-kohlis-first-post-on-linkedin-goes-viral/articleshow/Indian cricket superstar Virat Kohli has made his debut on LinkedIn, using the professional networking platform to share his plans to build Indian sports businesses and brands for a global audience.",
+      "sources": [
+        "The Times of India"
+      ],
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/sports/cricket/news/india-can-help-shape-the-future-of-global-sport-virat-kohlis-first-post-on-linkedin-goes-viral/articleshow/134934244.cms",
+        "https://news.google.com/rss/articles/CBMihwJBVV95cUxOMkhIeHhKenlrMnY5aWo5N1Y5SzU4eXNUMFkyUF93bXBPdUhPMDZKSzFaVkh2akVrd2dDdi1ENFhHN2F2QzRKZVVVQWRJbGpBbUItdTRiVFM5MGtnbTY3bnQ3ZThMSkdZNXFmdTQ0ZjBoLThvREQ1eUttZzNwOGJHZndpaHFlUnZWZ2tQTXhYWEYxSFQtYUxtRDUtTUYwLURJMG9fbDVyb0Ntdzl6cEgxejlON2NWV3k0TkwxYUNQamlrNl93SmhYd0J4VzhmelRPTlI0TzNWMFlOZUtWbmxjSXlVYi1fTHBScFN6MXhtSEpZT0JSV1M1SXZXcDd4a2pFWkNHR2dONNIBjAJBVV95cUxOb091VkFmTkswSVNXTWpCcFFheVZ1bEg2MFZ6a1Z3dzRQQjI0U3R4TjhHOWw2VHFtUEhGRno4b1Jnd3pyLU5Vem0yZzFwR1lEZDh2MVlhLXdTSGtfUGhBM0hLYzhrSDVaZ0tXcUVja2pmRGF3VnFwOVBzbjUwQzQzNTlWUFBORHAyc1lWRHdsclp0bmhQYkduQWRtUDY0cnAySkFyZDFodDRDbEgtYXUwb1ZpaWV0YXIyUWJUUWVKeThpMVRCandfaV93U2wyc3d3ajBNSEJtRE84MHF0d3p2bDBFaDhCSlVkTHlyRERLNkdoWi15LTJKSFRRdnZnWmpwcl9hNFl0Q1ZZWG04?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T06:44:00Z",
+      "published_at_ist": "2026-10-14 12:14 IST",
+      "first_seen_utc": "2026-10-14T06:44:00Z",
+      "age_minutes": 32,
+      "trend_score": 8,
+      "rank_score": 0.8052,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Virat Kohli"
+      ],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": true,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://static.toiimg.com/thumb/msid-134934838,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -507,21 +635,23 @@
       "headline": "Max Verstappen opens up on tough year with Red Bull: 'Sometimes I've been harsh'",
       "summary": "https://racingnews365.com/It's been a rough ride for Max Verstappen and Red Bull this season, to such an extent that he has \"erased\" certain grands prix from his \"hard drive\".",
       "sources": [
-        "racingnews365.com",
+        "GPblog",
         "RacingNews365"
       ],
       "article_urls": [
         "https://racingnews365.com/verstappen-opens-up-about-tension-at-red-bull-sometimes-ive-been-harsh",
+        "https://www.gpblog.com/en/news/verstappen-reveals-the-best-part-of-being-a-father-to-lily",
         "https://racingnews365.com/red-bull-deliver-faultless-claim-as-max-verstappen-conquers-bogey-track",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVUJESmVBTkhlUm83c3ByaW1BS3ZmZzBNU05ROUFmbHlHZWhpUnJ5Y0w4LWR3Z0tCZHlTNTdIOUZDeGdKSnhNeVJNQ0ZBOWlqOHNMamV5R2taUmZtLUYyTGRFREFENEtIaFRJVXVjYmw1S19Sa1hXYTFnUWdPanFQSkpIV2oxNGpyZEt4U3A2RnBGTW8?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVUthakNGczd0cVFlek5nT2NaMV8xZkpRV0FXQVA4S2Z1eWZrOXJpcmhOZlA4bG5MeXpUdVN3Q0Jpd0lTSXBScUdXUVZNUHRMQ082MFpLMDMyc0E2Wmw3dUJ6d1lpTWczUkVVMWJvdkI0XzA5R2Rha1k2ck16OVFNbnFpVHJranN1S0xwdWVYVFgzU2lURXFUSmt1cGY?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQYWEzSUVNNDF4b202a2NBZjVDV0hIVkxScU5kYXYzck53aWRQcmthdWdPZjgxQjc1d2lGWDVmUkMwVnZMNzdxV2J6Y09QS3cxQ1UzQlItQmRuczJoMmhqZ3lqcUpjdzBCdDdibnlzN3VYOUtoR21INTRZVkpIaFUtWGxLS0ExRkZjZ0NUSEt1ZWpTMnMyZk5aWklxbjU5QQ?oc=5"
       ],
-      "published_at_utc": "2026-10-14T05:25:00Z",
-      "published_at_ist": "2026-10-14 10:55 IST",
+      "published_at_utc": "2026-10-14T06:11:21Z",
+      "published_at_ist": "2026-10-14 11:41 IST",
       "first_seen_utc": "2026-10-14T00:33:10Z",
-      "age_minutes": 1,
+      "age_minutes": 65,
       "trend_score": 7,
-      "rank_score": 0.8122,
+      "rank_score": 0.7589,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -543,10 +673,13 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Max Verstappen opens up on the best part of being a dad",
         "Red Bull deliver 'faultless' claim as Max Verstappen conquers bogey track"
       ],
       "image_urls": [
         "https://cdn.racingnews365.com/2026/Verstappen/SI202610090449.jpg?v=1791544245&width=1200&height=630&quality=75&crop=2370%2C1245%2C0%2C43",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-10%2Fverstappen-6ac7c9e744efa.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-10/verstappen-6ac7c9e744efa.jpg@webp",
         "https://cdn.racingnews365.com/2026/Verstappen/XPB_1444482_HiRes.jpg?v=1791728174&width=1800&height=945&quality=75&crop=6000%2C3150%2C0%2C425"
       ],
       "video_urls": [],
@@ -554,351 +687,30 @@
       "youtube_videos": []
     },
     {
-      "id": "c0426b716b",
-      "key": "australia-england-schedule-squad-ticket-tour",
-      "headline": "England Tour of Australia 2026 Schedule, Tickets and Squads",
-      "summary": "https://sportstralia.com.au/cricket/eng-tour-of-aus-2026/Get the England tour of Australia 2026 schedule with match dates, venues, AEDT start times, tickets and live streaming details.",
+      "id": "62b061d001",
+      "key": "chart-marketcap-marscoin-usd-volume",
+      "headline": "MarsCoin price today, MARSCOIN to USD chart, marketcap and volume",
+      "summary": "https://cryptoslate.com/coins/marscoin-meme-bsc/MarsCoin is a meme coin on BNB Smart Chain focused on community engagement, blockchain accessibility, and Web3 participation.",
       "sources": [
-        "The Cricketer",
-        "sportstralia.com.au",
-        "ELLE Australia"
+        "CoinMarketCap",
+        "CryptoSlate"
       ],
       "article_urls": [
-        "https://sportstralia.com.au/cricket/eng-tour-of-aus-2026/",
-        "https://www.thecricketer.com/Topics/england-premium/jacob_bethell_new_callups_england_announce_squads_australia_return.html?t=639275550861930469",
-        "https://www.elle.com.au/culture/asap-rocky-australian-tour-dates-pre-sale-tickets/",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSkdwaTAzUGVJQllIdjBnek9oMk52V3NqclhzMDBXUmtVY0xuV1hkbF9rWTNycmgySHlTbzZZNU9tYXlzamx6Qm1tRHZlOFp4M2ZpTDJwVmVLTkNjZUVrZXlqMkluamlLalE1OHUzMGdtcWpjM1o4cTRIYmo2VkJDeGdQU2drcHFsUkNIVldfYVZCRmVWRlhLR3ozTE1XWURCMm5fOHF2SWcyR3lqZ1FlMk1sSjNEak9KOGdjR012R295YkpLZmxNOHZJZmNrV3hLa2hfMkhFS2ltVERG?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsQm5iRHQxTlY2bXJwNzEtR3dYXzJBUjRLVzhvZzlqX1AxZW5hcjZpRXc1Vm1yU21LV05oekc3WXNTT09tTlJvak1Zb3ZYRnlDN216UllFcmt3OVBIb0JUOWdtRnd4RlI4?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY3ZkN1E5S0MtZnV4OGZZT011XzhJbWdpaTBCeG5pb0JhVF93VWU1c3l6UnBKOVp5Uy1FLUJua3hKdzJReE5CLUs3cVQtQXhobXdtcUhZMW5PUzFsQzJWWDNOYXNtQVBPaS1VdTFETnZxSG9YOVBaNF9VYmxEc3k4SjluNEtaUjZmUGc?oc=5"
+        "https://cryptoslate.com/coins/marscoin-meme-bsc/",
+        "https://coinmarketcap.com/currencies/kiichain/",
+        "https://coinmarketcap.com/currencies/kamirai/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRVNmemluY3UxQU93eG5Iem9qWnFUVmZPTHdFZ0wyRDZFWEYwOTBSX3huMEh3VUc3bTRPUDBldGpUWEh0UjRFdFRwZVBQbTlHTnZwZ3Z4RGZqUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRS1IOEt4Uzg1TFBKeXMtRE9BbzJVVkJHZXVZVnlwS1hpQ3lBSDgzNFpUWFFQdlYyT2JpUHJnaWtRMWIwZXBsajVXaUpoRTF2TE0wVmotSjA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5QmtkdUp4V3JUdklxandyOVNFeXY5RVlHVjNRbC1kampGZ0NiQzdFbWw1ZXRWbmF0QWlqRW95VEVybzZVYnRpRTZsV1Q5MjlQOGo1bmh3TTI2OFRYRHpxTjBrdTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HMEdKVXI1UlVOVndITU5CSFJHV1JNdG1nelAxcnd6RkpGTHV1c29La1otV2J1M015dHhwNVRpVWlDYUoyWmlzNVFvd1p4ZjhFakF3UThPNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LSWNMQnpBVjI4b2Y2QXVLN3liTGN4NmFNbnlTNTAycWNjMWVRMkhHMW5OVzVTdmVsR1M3TXZBX0FfRU1YTmJvR0J3VkVMRTFFN1A2cDN2MA?oc=5"
       ],
-      "published_at_utc": "2026-10-14T05:12:02Z",
-      "published_at_ist": "2026-10-14 10:42 IST",
-      "first_seen_utc": "2026-10-13T23:52:37Z",
-      "age_minutes": 14,
-      "trend_score": 9,
-      "rank_score": 0.8071,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music",
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Jacob Bethell joined by two new call-ups as England announce squads for Australia return",
-        "Your Guide To Securing Pre-Sale Tickets To A$AP Rocky's 'Don't Be Dumb' Australia Tour Today"
-      ],
-      "image_urls": [
-        "https://sportstralia.com.au/wp-content/uploads/2026/10/England-Tour-of-Australia-2026.jpeg",
-        "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/rewjack131001.webp",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/6/2026/10/asap-rocky-dont-be-dumb-tour-tickets-australia-6acd8fcabcf9f.jpg?resize=1200%2C630&format=auto"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "c1ba8d7669",
-      "key": "big-chance-cup-kohli-make-manha-mithun-rohit-sharma-statement-virat-world",
-      "headline": "Mithun Manhas makes big statement on Virat Kohli and Rohit Sharma’s 2027 World Cup chances",
-      "summary": "https://crickettimes.com/2026/10/mithun-manhas-makes-big-statement-on-virat-kohli-and-rohit-sharmas-2027-world-cup-chances/BCCI president Mithun Manhas believes fitness and performance should determine Virat Kohli and Rohit Sharma’s chances of playing in the 2027 ODI World Cup. Mohammad Kaif feels India’s bowling and fielding will be crucial to their chances of winning the tournament in South Afri",
-      "sources": [
-        "Cricket Times",
-        "Outlook India"
-      ],
-      "article_urls": [
-        "https://crickettimes.com/2026/10/mithun-manhas-makes-big-statement-on-virat-kohli-and-rohit-sharmas-2027-world-cup-chances/",
-        "https://www.outlookindia.com/amp/story/sports/cricket/rohit-sharma-virat-kohli-2027-odi-world-cup-future-mithun-manhas-age-fitness-performance-selection",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmp2UDNZcFFoWnBKcE9GcE5xZ2hZVG4xSDEwdy1qR0hGa2VpU0I4VWJMZ1JHa01CTFVKbTNXY0dseUpmUXB0NHQ3QU5wTkZMRG9Ic0FlZEM0c3lVMHhGUGhCN01qUFl6dU8xeTZDZmZHRW5pUHd5bE04OUlBM3ZUUE45UzRvdnVtVk01a2RpQnhMVDM2Vk1wV2ZzQUZsMDJTbjc4R1psVUxtRE9LQTFaRjgtLXNsWklORUxNN09ieUg?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNGxreWVlZUNwblYwZVZYZmNBekhneS1zNTZPanU0M202My01TXdsMkV2bXRpdVJUSDQyZ0toeGNqNFlCcnh4QUdaOENZNjlkajZCV1QzQjh4aDNYWGFsLVk0dnFWRkNadm1ocTM2aW8zY2tJOXRSSmp6SXRQaDRxamZBbGJkcmJsOWJsaS1iSkpKaGt3RjR5S2pNWDFSUm9obWc2eVhvNm1LWm1wQ195TUl3bXFnWmhQT3BNTTdHZUJXZmFoemo1dTBMdGhscUFEb25IbUdQaUh1SFFZM0ZGOVpfQXlVeFnSAecBQVVfeXFMTTRsa3llZWVDcG5WMGVWWGZjQXpIZ3ktczU2T2p1NDNtNjMtNU13bDJFdm10aXVSVEg0MmdLaHhjajRZQnJ4eEFHWjhDWTY5ZGo2QldUM0I4eGgzWFhhbC1ZNHZxVkZDWnZtaHEzNmlvM2NrSTl0Ukpqekl0UGg0cWpmQWxiZHJibDlibGktYkpKSmhrd0Y0eUtqTVgxUlJvaG1nNnlYbzZtS1ptcENfeU1Jd21xZ1poUE9wTU03R2VCV2ZhaHpqNXUwTHRobHFBRG9uSG1HUGlIdUhRWTNGRjlaX0F5VXhZ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T03:30:53Z",
-      "published_at_ist": "2026-10-14 09:00 IST",
-      "first_seen_utc": "2026-10-14T03:12:43Z",
-      "age_minutes": 115,
-      "trend_score": 10,
-      "rank_score": 0.7682,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Virat Kohli",
-        "Rohit Sharma"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Rohit Sharma, Virat Kohli’s 2027 World Cup Future: BCCI President’s Big Take On Age Vs Performance"
-      ],
-      "image_urls": [
-        "https://crickettimes.com/wp-content/uploads/2026/10/Mithun-Manhas-makes-big-statement-on-Virat-Kohli-and-Rohit-Sharmas-2027-World-Cup-chances.webp",
-        "https://cf-images.assettype.com/outlookindia/2026-10-05/6xiybhdg/India-vs-West-Indies-3rd-ODI-2026-highlights-8.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "0272205367",
-      "key": "17-coloro-full-get-here-launched-list-oppo-phone",
-      "headline": "Oppo ColorOS 17 launched, check if your phone will get it, full list here",
-      "summary": "https://www.indiatoday.in/technology/news/story/OPPO has unveiled ColorOS 17 globally, introducing a redesigned interface, improved system performance and AI agents that can manage files, edit photographs and organise information.",
-      "sources": [
-        "India Today"
-      ],
-      "article_urls": [
-        "https://www.indiatoday.in/technology/news/story/oppo-coloros-17-launched-check-if-your-phone-will-get-it-full-list-here-3016883-2026-10-14",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejBMd3htemdBT0VENkJ3enl5cl9uV2FpTk52WnFISXR0eXp3ejNxekxITVBwektkck5DbFFhUDZHVFVhRE5Cby14SWlNX0xveXJpY19CX2lMbDJoNnU0U2ktX1RPR2FySXd6OTE0bktiLVN4Vk5xd2tUU2RFM2tHTmtnSnpWRFNWT2dKZ3ctYmJkRHlJMDNBOFVXLWo1c0lOTnJaVUZIVmc5dUpYeGhJZmY0eGUzYjhNU3hOa0JlNGpYSDg0SmpLMVR5MkFRT3JKTWtGLdIB2gFBVV95cUxQV2V0UmVhRmJqQVMtRzdSanFxTVpwSkZUcGtQQUhKNmRrRUc1U08yZWp0dC1OeC1YSDQxa2Rwald5ZmZmNlpKTmxwdXp5WW1Pd1dmSlNqc1lNT0M5Nl9sMzNmQTFFZE1LYjFaTDhWOURiWnJQSklVSDRPMENJRHp0d1MyUXd4QVRLaEVWNFpva2RxQXJkeFQtaGZjcnBHN0pXcUxCVTBwVUExbFdUU25CUllsc0NWdGh6ZHBTck5XR0l5S2g5S1hoQkVpRjNPODBCc0UybXlZSmtLUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T05:02:54Z",
-      "published_at_ist": "2026-10-14 10:32 IST",
-      "first_seen_utc": "2026-10-14T05:02:54Z",
-      "age_minutes": 23,
-      "trend_score": 6,
-      "rank_score": 0.7425,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/oppo-coloros-17-145644579-16x9_0.png?VersionId=4fh_mKli4xEycDbhlLzeNwucoe8gkos."
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/PAIPDvryll0?si=ZGDPjF4MPlcAey8o"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "a49def222c",
-      "key": "companie-ctos-discuss-impact-technology-three",
-      "headline": "Three CTOs Discuss Technology’s Impact on Their Companies",
-      "summary": "",
-      "sources": [
-        "Time Magazine"
-      ],
-      "article_urls": [
-        "https://time.com/article/2026/10/13/execs-of-the-year-cto-panel/",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE9oVTBIRFRmQXF4UEI1UURPaW9IaS1xc3QzWmxSbWx2M1lwNzFfTkF2LVdjM3ZoY2djaG9OWUswRWkwRzdtUDduWnpycy1VTXJZSkhlYnBhM292dEcxMnR3Y2NCdzNZZU13MF9RT1FCN3V2Zw?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T04:45:00Z",
-      "published_at_ist": "2026-10-14 10:15 IST",
-      "first_seen_utc": "2026-10-14T04:45:00Z",
-      "age_minutes": 41,
-      "trend_score": 6,
-      "rank_score": 0.7275,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "caa0244a93",
-      "key": "allegation-asset-coin-compliance-customer-intact-license-rebut-safe",
-      "headline": "Coins.ph Rebuts Compliance Allegations, Says Customer Assets Safe and License Intact",
-      "summary": "https://en.bloomingbit.io/feed/news/Philippine cryptocurrency exchange Coins.ph has issued a formal response to allegations related to offshore gambling transactions and the possibility",
-      "sources": [
-        "bloomingbit"
-      ],
-      "article_urls": [
-        "https://en.bloomingbit.io/feed/news/122185",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84QlRFRWF5amtwaVhJNlhSMGlLU1JyVXRBVk0zcFRycFdPT1Y2b3Zob2lfWnIxMEcxamdDc0szT25qdWxTaHpCYnh3aXR4QVdlVzh3TQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T05:06:44Z",
-      "published_at_ist": "2026-10-14 10:36 IST",
-      "first_seen_utc": "2026-10-14T05:06:44Z",
-      "age_minutes": 20,
-      "trend_score": 5,
-      "rank_score": 0.7203,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://media.bloomingbit.io/news/e0c3de8f-6c66-4c07-a02e-2881e10cd724.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e85a956e58",
-      "key": "becoming-cfo-concern-fatigue-finance-transformation",
-      "headline": "Why finance transformation fatigue is becoming a CFO concern",
-      "summary": "https://www.ey.com/en_in/services/consulting/finance-transformation/Discover how CFOs can overcome finance transformation fatigue through better prioritization, governance and outcome-focused change strategies.",
-      "sources": [
-        "EY"
-      ],
-      "article_urls": [
-        "https://www.ey.com/en_in/services/consulting/finance-transformation/why-finance-transformation-fatigue-is-becoming-a-cfo-concern",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZW5NVml0SDI0WGI1YWF5Wm5MTEtQem01UnBiNmU1MkhHbjNfX2ZZNVpuUTRya2NhLW9XNWhNdFZ6QWlOSW9HaXdZWGc4QnFEaUxGZ3JEdWo4Q3ppeHg0WFk4d2FzSUxtNmRpTVJESE44em9MbXgxSlJzdFR3alM0aXI4RlU4dEN3NlhIWDIzQTJia1dIektqSjlZMjRObzBLNHBRUmx5V25wX0xra0hSSVM4dmxxOFIycTgwS0s4djIyeEtMdl8w?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T05:03:45Z",
-      "published_at_ist": "2026-10-14 10:33 IST",
-      "first_seen_utc": "2026-10-14T05:03:45Z",
-      "age_minutes": 23,
-      "trend_score": 5,
-      "rank_score": 0.7178,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-in/services/consulting/finance-transformation-consulting/ey-jenga-blocks-being-carefully-removed.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "462c2d5620",
-      "key": "announce-bitmine-buyback-lee-record-share-tom",
-      "headline": "Tom Lee Announces BitMine’s Record Share Buyback",
-      "summary": "https://coinfomania.com/tom-lee-announces-bitmines-record-share-buyback/BitMine's $350M share buyback and 6M ETH accumulation highlight its bullish Ethereum strategy. Here's why investors should pay attention.",
-      "sources": [
-        "Coinfomania"
-      ],
-      "article_urls": [
-        "https://coinfomania.com/tom-lee-announces-bitmines-record-share-buyback/",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTFB5VkhBNWJ5M21iSS1DaHlJMGhLWC00Zl81SHRXLTkySnBHU0tnQTJFQnlEQTVuSUhfN3VlWTZVVDZnY1ZiZHJsMXRJZG5JZWp0eGw0TjhwSm9BTEpQR2pVeVRNYmV0bl82UHU1M3ZPbTFBZGZGekRHTWJLaXg?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T04:55:47Z",
-      "published_at_ist": "2026-10-14 10:25 IST",
-      "first_seen_utc": "2026-10-14T04:55:47Z",
-      "age_minutes": 31,
-      "trend_score": 5,
-      "rank_score": 0.7111,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://coinfomania.com/wp-content/uploads/trend-banner-b8e93512-38cc-4cd8-95d2-59fda449decc-1791953051801.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "8a3ec239d2",
-      "key": "canopy-chart-cnpy-marketcap-usd",
-      "headline": "Canopy price today, CNPY to USD live price, marketcap and chart",
-      "summary": "https://coinmarketcap.com/currencies/canopy/The live Canopy price today is $0.3077 USD with a 24-hour trading volume of $34,958,755.50 USD. We update our CNPY to USD price in real-time.",
-      "sources": [
-        "CoinMarketCap"
-      ],
-      "article_urls": [
-        "https://coinmarketcap.com/currencies/canopy/",
-        "https://coinmarketcap.com/currencies/jggl/",
-        "https://coinmarketcap.com/currencies/teller/",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QMElMcXcxN3NzNmt6Y000bVdIdWpMZjJLdWlSaUg5Zm5qaXJrTEs3a1B5VW0zaURsdTNmYlVMRHR1cWJzb0laMnBfc25zeW5Ed0oxWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRnZKOG11U0hyblJwd3l0Z3VKRGlxc3l3a3RnczVBbGstMGtLbTlSU0gyRGVULWp5WGNGc2VCNG5rcmtseDhEbnA5Q0FIVTUzWkNMWjBudw?oc=5",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1aTGxrUm5hR0RHMWxwcWJzMFJhLVJ5OU00aHZIdDU1bjFZbmc4YjFQVTBzRGxVdmJhOUNDMzV3TnV0WW84ZnVGblZ5OV9kZ0RfcjZmUkhTYw?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBFc1hJSzlmb09sRTdwXzdEWUFfZU1IV2RlWWVGczZjSnAzOE5pRzFINXl5X0IwZmhyMjJfQ3pNMnozQnhZUzd1WFBqTkV2blM3bThNVUdpWVk4ejg?oc=5",
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JdmJlbk9WVGVfdkQ5a1dlUkZrYXNDNEIzQ3p3UlRYN0ptaXBtVmhNakVQeUlpVWI1S3p6REJVemVQZVYzZ3hWN0V6aEhKZkc0SHJzdmt3?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T03:24:29Z",
-      "published_at_ist": "2026-10-14 08:54 IST",
-      "first_seen_utc": "2026-10-13T20:29:58Z",
-      "age_minutes": 122,
-      "trend_score": 7,
-      "rank_score": 0.6814,
+      "published_at_utc": "2026-10-14T06:13:26Z",
+      "published_at_ist": "2026-10-14 11:43 IST",
+      "first_seen_utc": "2026-10-13T23:17:00Z",
+      "age_minutes": 63,
+      "trend_score": 8,
+      "rank_score": 0.7494,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -917,12 +729,13 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "JGGL price today, JGGL to USD live price, marketcap and chart",
-        "Teller price today, DEBIT to USD live price, marketcap and chart",
-        "Cortik AI price today, CTK to USD live price, marketcap and chart",
-        "SODAX price today, SODA to USD live price, marketcap and chart"
+        "KiiChain price today, KII to USD live price, marketcap and chart",
+        "Kamirai price today, KAMIRAI to USD live price, marketcap and chart",
+        "Centric Swap (new) price today, CNS to USD live price, marketcap and chart",
+        "Centel price today, CNT to USD live price, marketcap and chart"
       ],
       "image_urls": [
+        "https://cryptoslate.com/wp-content/uploads/2026/08/default-token-cover.jpg",
         "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
       ],
       "video_urls": [],
@@ -930,46 +743,223 @@
       "youtube_videos": []
     },
     {
-      "id": "0e7cd53bf0",
-      "key": "cristiano-retirement-ronaldo-rooney-struggle-uncomfortable-wayne-“-”",
-      "headline": "Wayne Rooney Says It’s “Uncomfortable” to Watch Cristiano Ronaldo Struggle With Retirement",
+      "id": "dacd356e76",
+      "key": "agent-chainguard-coding-hardened-isolate-microvm-own",
+      "headline": "Chainguard isolates coding agents in their own hardened microVMs",
       "summary": "",
       "sources": [
-        "Athlon Sports"
+        "Techzine Global"
       ],
       "article_urls": [
-        "https://athlonsports.com/soccer/wayne-rooney-cristiano-ronaldo-portugal-retirement",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVW82Y3FGYXpuSlJGZXozeG1XS0lsS3hPS045R0Zpekk0V1N0dW9BV1Z4ZXlQYzMzWFp1ZVJSOHRjN2VkMTdTSzFCRHB3czZQajBuQmFISjZ6TGNVM3VRa0ZWRUlLN0hGRXVXX0xaNUtPMkdnQlJFQ1I1OWxoVE9uYTNwMGtWZENrb1E?oc=5"
+        "https://www.techzine.eu/news/devops/144953/chainguard-isolates-coding-agents-in-their-own-hardened-microvms/",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYklYVHg1YklKbXpSTG90em1pSnY1amw2cGF3T1hDMjVtMXNSUVBhakx6TWdEUHdKRDlOV19iaTJVRFhhbS04LS00cXZFNnBfRURndFRQaHRVcmZGSVk2R216cWJrd280VEI2akhUcEtPRjZ0SkxuUkt2UnUzOHRDTGNIQTVoS0JhdWphbGQ4azB2cTZoS0FxazRzQTczMkpQUGt4T3BXdTZUWTZY?oc=5"
       ],
-      "published_at_utc": "2026-10-13T21:24:38Z",
-      "published_at_ist": "2026-10-14 02:54 IST",
-      "first_seen_utc": "2026-10-13T21:24:38Z",
-      "age_minutes": 482,
-      "trend_score": 12,
-      "rank_score": 0.4891,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-14T06:59:00Z",
+      "published_at_ist": "2026-10-14 12:29 IST",
+      "first_seen_utc": "2026-10-14T06:59:00Z",
+      "age_minutes": 17,
+      "trend_score": 6,
+      "rank_score": 0.7475,
+      "category": "other",
       "section": "top",
       "source_type": "news",
-      "famous_names": [
-        "Cristiano Ronaldo"
-      ],
+      "famous_names": [],
       "region": [
-        "GB",
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips",
-        "football"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c054f3e4a8",
+      "key": "asset-digital-indice-institutional-launche-marex-qis",
+      "headline": "Marex launches the first Institutional QIS indices on digital assets",
+      "summary": "https://www.marex.com/news/2026/10/Marex launches Crypto Volatility Carry Indices for Bitcoin and Ethereum, offering institutional investors systematic exposure to volatility risk premia.",
+      "sources": [
+        "Marex"
+      ],
+      "article_urls": [
+        "https://www.marex.com/news/2026/10/marex-crypto-volatility-carry-indices",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VdEhXbDFYU3g1Ni1mb2dsRnR3S1Vnem9SSHR3WjNRWC1TVng4cVV5SUE5Vzc3QzhuSkYta3VHcWI3VmtEOGdjaVZYMlBnbmFIOUlKZWpmaEZXUUhhZm8wczJHVHJhbGJkc29ucGZEZXlIU3VUMnNGcGZDRFo?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T07:00:39Z",
+      "published_at_ist": "2026-10-14 12:30 IST",
+      "first_seen_utc": "2026-10-14T07:00:39Z",
+      "age_minutes": 16,
+      "trend_score": 5,
+      "rank_score": 0.7236,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://ds5s82hcegdl8.cloudfront.net/uploads/2026/10/bitcoin-coin-circuit-board.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "cf10e622b2",
+      "key": "fridman-huang-jensen-lex-taiwan-visiting",
+      "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+      "summary": "I've been traveling the world a bit. One of the most incredible experiences was getting to visit Taiwan with Jensen Huang. It was wild 🤯 Huge crowds, insanely good street food at night markets, and of course a lot of good conversations across many days. I caught some of it on video, this is it. Thanks for watching. Love you all ❤ Check out our sponsors: https://lexfridman.com/sponsors/mv589-sb See",
+      "sources": [
+        "YouTube: Lex Fridman"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=FGCP2F_7rQk"
+      ],
+      "published_at_utc": "2026-10-13T21:26:16Z",
+      "published_at_ist": "2026-10-14 02:56 IST",
+      "first_seen_utc": "2026-10-13T21:26:16Z",
+      "age_minutes": 590,
+      "trend_score": 5,
+      "rank_score": 0.7026,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "youtube",
+      "famous_names": [
+        "Jensen Huang"
+      ],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=FGCP2F_7rQk"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
+          "channel": "Lex Fridman",
+          "url": "https://www.youtube.com/watch?v=FGCP2F_7rQk",
+          "published_at_ist": "2026-10-14 02:56 IST",
+          "thumbnail": "https://i3.ytimg.com/vi/FGCP2F_7rQk/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "a9c7250a3f",
+      "key": "accelerate-defi-dex-growth-influencer-rise-volume",
+      "headline": "DeFi Growth Accelerates as DEX Volume Rises, Says Influencer",
+      "summary": "https://cryptonews.net/news/defi/33587938/Decentralized finance (DeFi) is increasingly becoming a significant player in the crypto market as DEX volume continues to rise. Influencer @buffalu__ pointed out that this uptick in",
+      "sources": [
+        "Cryptonews.net"
+      ],
+      "article_urls": [
+        "https://cryptonews.net/news/defi/33587938/",
+        "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12NG5zemlkYk9VeFBmRi16bFRkTWFiTUZNckpBYmJvZThNc1d5U0lPUjliWUJOcUNITEp0T2Q5T2tLRW1UWWxZeU0xYlJBWTlNUWgzUQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T05:53:13Z",
+      "published_at_ist": "2026-10-14 11:23 IST",
+      "first_seen_utc": "2026-10-14T05:53:13Z",
+      "age_minutes": 83,
+      "trend_score": 6,
+      "rank_score": 0.6925,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cnews24.ru/uploads/68b/68b1a86f6e663de8a6ed7d2060c92ebccdd7f3d5.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "deccbd317c",
+      "key": "ccma-centre-contact-educational-launche-professional-serie-support",
+      "headline": "CCMA Launches Educational Series to Support Contact Centre Professionals",
+      "summary": "https://contact-centres.com/ccma-launches-educational-series-to-support-contact-centre-professionals/CCMA Launches Educational Series to Support Contact Centre Professionals with Operational Challenges of AI Deployment.",
+      "sources": [
+        "contact-centres.com"
+      ],
+      "article_urls": [
+        "https://contact-centres.com/ccma-launches-educational-series-to-support-contact-centre-professionals/",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGUzWVE3OC1XRE9mLVVIQTVxbG9pdGVYM0l5SHJIQWJKV3VMQ1pZek9La3NMeHVhWjNUdXh1OVM2YnM4c2plaHVtRnRPRmlteUcwb2pPYXVtNkJlU012SVFnM0lsN2F4dXNGamRQQnMybDV5WXhCbWxCVVlPMEFNMFF5WGNJcWd5SnZSXzNvRjJyb0swalY2MkxVcFA0MklTOXVB?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T06:02:01Z",
+      "published_at_ist": "2026-10-14 11:32 IST",
+      "first_seen_utc": "2026-10-14T06:02:01Z",
+      "age_minutes": 74,
+      "trend_score": 5,
+      "rank_score": 0.6753,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "AI tools & agents"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://contact-centres.com/wp-content/uploads/2026/10/CCMA-Banner-777x437-training-oct-2026111.png"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -989,9 +979,9 @@
       "published_at_utc": "2026-10-13T22:43:34Z",
       "published_at_ist": "2026-10-14 04:13 IST",
       "first_seen_utc": "2026-10-13T22:43:34Z",
-      "age_minutes": 403,
+      "age_minutes": 513,
       "trend_score": 7,
-      "rank_score": 0.4772,
+      "rank_score": 0.3856,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
@@ -1020,44 +1010,56 @@
       "youtube_videos": []
     },
     {
-      "id": "1cbddeeef3",
-      "key": "aspen-black-during-greenwood-idea-marvel-resilience-street-tour-visitor-wall",
-      "headline": "Aspen Ideas visitors marvel at resilience of Greenwood during Black Wall Street tour",
-      "summary": "",
+      "id": "3205bbf71e",
+      "key": "jayshetty-problem-project-short-turn",
+      "headline": "Turn your problems into a project #jayshetty #shorts",
+      "summary": "The difference between passive meditation and active meditation: one asks you to let the problem go, the other turns it into something you work on. Watch the FULL episode today on Netflix & Spotify. #jayshetty #shorts #onpurpose #podcast",
       "sources": [
-        "Tulsa Flyer"
+        "YouTube: Jay Shetty Podcast"
       ],
       "article_urls": [
-        "https://tulsaflyer.org/2026/10/13/north-tulsa/post/aspen-ideas-black-wall-street-greenwood-tours/",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxPcFQ2ZHBoRE1kY25ZcFByZFNpbGhHNWpIeXdLS2RnWDVFM3NMLTAyRVR2MXNfTlFQSHhoT3FRQ19pLXMzazl4aklDRWU3SEx2ME1Fa1Q3enlJbDNLb2JNbFpXWEpUNEFBaVp1bDU4MzVPbzZuOTFRdDRGSjFmN1diNFM1YkJORUZPYTltRUZNaklVcGlpc0hoUFNHTWpPdw?oc=5"
+        "https://www.youtube.com/watch?v=zswjwR-jD7k"
       ],
-      "published_at_utc": "2026-10-13T22:12:52Z",
-      "published_at_ist": "2026-10-14 03:42 IST",
-      "first_seen_utc": "2026-10-13T22:12:52Z",
-      "age_minutes": 433,
-      "trend_score": 10,
-      "rank_score": 0.4732,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
+      "published_at_utc": "2026-10-13T08:00:29Z",
+      "published_at_ist": "2026-10-13 13:30 IST",
+      "first_seen_utc": "2026-10-13T08:00:29Z",
+      "age_minutes": 1396,
+      "trend_score": 5,
+      "rank_score": 0.3007,
+      "category": "other",
+      "section": "top",
+      "source_type": "youtube",
       "famous_names": [],
       "region": [
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "Finance & markets"
+        "Famous people clips"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
+      "image_urls": [
+        "https://i3.ytimg.com/vi/zswjwR-jD7k/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=zswjwR-jD7k"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Turn your problems into a project #jayshetty #shorts",
+          "channel": "Jay Shetty Podcast",
+          "url": "https://www.youtube.com/watch?v=zswjwR-jD7k",
+          "published_at_ist": "2026-10-13 13:30 IST",
+          "thumbnail": "https://i3.ytimg.com/vi/zswjwR-jD7k/hqdefault.jpg",
+          "is_short": true
+        }
+      ]
     }
   ]
 }
