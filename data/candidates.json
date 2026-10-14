@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-14T10:03:27Z",
-  "generated_at_ist": "2026-10-14 15:33 IST",
+  "generated_at_utc": "2026-10-14T13:37:05Z",
+  "generated_at_ist": "2026-10-14 19:07 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5629,
-    "fresh_items": 4539,
-    "clusters": 2047,
+    "raw_items": 5850,
+    "fresh_items": 4867,
+    "clusters": 2215,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 112,
+    "youtube_uploads_fresh": 106,
     "youtube_items": 2,
     "famous_items": 6,
     "trends_terms": 40,
     "page_fetches": 62,
     "with_video": 5,
-    "runtime_sec": 20.7
+    "runtime_sec": 33.1
   },
   "categories": {
     "famous_clip": 3,
@@ -32,107 +32,127 @@
     "other": 6
   },
   "top_trends": [
-    "guardians game (US 10000+)",
-    "russell brand (US 100+)",
-    "week 6 kicker rankings (US 100+)",
-    "google play store (US 100+)",
-    "servicio de ciudadanía e inmigración de los estados unidos (US 100+)",
-    "infection (US 500+)",
-    "cruise passenger rescued ionian sea (US 500+)",
-    "weather forecast (US 100+)",
-    "marco rubio (US 100+)",
-    "aj brown (US 100+)",
-    "मोहन यादव (IN 500+)",
-    "ദിയ കൃഷ്ണ (IN 200+)",
-    "ekta kapoor (IN 200+)",
-    "സൗദി അറേബ്യ (IN 200+)",
-    "नितिन गडकरी (IN 200+)",
-    "వార్త (IN 1000+)",
-    "বর্ধমান (IN 200+)",
-    "directorate of school education, kashmir (IN 200+)",
-    "மேட்டூர் (IN 200+)",
-    "म्हाडा पुणे (IN 1000+)"
+    "ind vs wi (US 5000+)",
+    "house republican conference (US 200+)",
+    "nflx stock (US 200+)",
+    "today show (US 200+)",
+    "10 year treasury (US 200+)",
+    "eli lilly retatrutide phase iii results (US 1000+)",
+    "obama presidential center (US 200+)",
+    "don mattingly (US 500+)",
+    "lisa vanderpump (US 500+)",
+    "eugenio derbez (US 200+)",
+    "west indies vs india (IN 200000+)",
+    "ind बनाम wi (IN 5000+)",
+    "ಮಳೆ (IN 1000+)",
+    "పింఛను (IN 500+)",
+    "असदुद्दीन ओवैसी (IN 200+)",
+    "fast radio burst news (IN 200+)",
+    "ind vs wi 3rd t20i (IN 200+)",
+    "വോട്ടര് (IN 200+)",
+    "west indies cricket team vs india national cricket team match scorecard (IN 50000+)",
+    "वेस्टइंडीज़ क्रिकेट टीम बनाम भारतीय क्रिकेट टीम के मैच का स्कोरकार्ड (IN 5000+)"
   ],
   "items": [
     {
-      "id": "5057209e42",
-      "key": "assault-begin-brand-calculated-jury-prosecutor-rape-russell-ruthless-sexual-tell-trial",
-      "headline": "Russell Brand was ‘ruthless and calculated’, prosecutors tell jury as rape and sexual assault trial begins – live",
-      "summary": "https://www.bbc.com/news/live/The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.",
+      "id": "31764f919b",
+      "key": "biggest-billie-career-eilish-planning-show",
+      "headline": "Billie Eilish Planning 'Biggest Shows' Of Her Career",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
       "sources": [
-        "The Guardian",
-        "BBC",
-        "London Evening Standard",
-        "The Telegraph"
+        "Bol News",
+        "News.com.au",
+        "NT News",
+        "Yahoo",
+        "Female First"
       ],
       "article_urls": [
-        "https://www.bbc.com/news/live/c52e9xd9mvk2t",
-        "https://apnews.com/article/russell-brand-sexual-assault-trial-prosecution-women-a7f49e8cd37644c9d519ebe32a958a54",
-        "https://www.theguardian.com/uk-news/live/2026/oct/14/russell-brand-trial-latest-news-updates",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTDN5LWo0YWRLNERsNGFnUG1lWG13QlJCYjdVLU9RbEJSVHZ0QjR1UkpIcmJXWG5OU0RON1lpLVBDcVN6UWpaZ004Ui1LenMyeWRWaFVMNE5mYVU1NWpHaUlqck9ZWXd3MUJqME81WllvWnVEV3dqc2o5YUltRThsNGgxQVNUeDlhMnhYNGtCbHNRc3hmZXJj?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EZDdZeV8ydm0wTFdzZUp2ckdIRUlnM3pzQTBnd3pGNld5b1lITU5kOVhPUmVXYlh2V2pwU3NxN2lBMnB6ZGpfX2cxeWh4bkpHWmEzdUJzR2U?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaUpKdHRqLTFCSURDdU1BdU50SlBqY2hudjlHRjh2MXdqU1l6dFdUb1k5Uzh1UHU4cnktWERORDNDQ3B5eDI0M19GRUdDZ25oOUlRcWpwazBCUjFOVVdsMjJENERBaG5uem90WlU0eDNERkFlZEpYLUswRXpmRUpmRHJGU0xQMklOM29RMW5LZFdqT3VSOFFidF9FN1doX2pfeHc1OTBJOVRpeTgtVU8yN0ItRkxCc0pLT3hIc09HTjBHeFAtOHhZSWtERjQwQWV6WWt3em1oSkx5MzV6?oc=5",
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBadHFyb3ZOZWlZM2p5d2hEdWZ2UkFpeVVwRXVsMTFhQVNJc1JCME10VlZHNkhpR1ZJRUk3b3M1ZXZCWGRuaGloTllITmNzS1JaNEJsaGtR?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeXBvSU1WOUpZLUIta3hQRHd0a1B6RXJiX2diQmo3cmFLNXdoOGY2ZEt6OGpibEZ2U2g2SDlIZ29wb0c3SDZQaVItMHhkMkxvczZqTDBHa0F2WHREM2tCMHl4bTBaTFB4Q2d3TUt2Tnp3NWdQd2w0UEtESDh6clNJMmVuSkxhTXhzUEVfdWJRbGREYURMWWlncHQzTDZYSElZ?oc=5"
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.yahoo.com/entertainment/videos/billie-eilish-planning-biggest-shows-104100213.html",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNekpFVGpsekZJUUJEblNaQUV2cU9kVzhWZUV5bHFPN0hxbVNta01zQV91NVo0bC1vYm5LVEJEQ1o3WlpZS3piRmdaYjhDWk1tR2g2R29KQ0laNHpYejhsZ0NTVVpJWk1kM0E1dURLd1Zjb2J3aW9JLXNmMzFEbGJBaG1MY2NMX2YycUZzVEV0Qkw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUU9ta1Y5OUQwRDZTWEdrTVp5VllQX2tHbTlRd0ViT2NNSmVhSlpfcVRTXzdWeTQwN2ZzVFN2Z21GN3RkZ0pDRjh4cThxX3JOTllMSFFGbjlFNXRKalJKRDJBMXRhUUNWRW5fT2E4MTNLU051dG5Lci1rajBUa2IyOG81UnlvSmNaT2JCMnkxbnJ2a0xSUFpjdU5LZUM0aXR4NjlrS2tOaTZpUVpBeWRjaGFyMjJxVDBKVEhmSk1HZ0k5LURFdjE1VXk0SGswUDl0Rmg0QWM1WWx5d9IB3wFBVV95cUxNV2JWdWdjQVZrLWRsSjktU3NCd24zUjY2NmxrSDdYLWVhWEdldlJyWjZqV0JjN05TYzdYUVZ3amprdHA0LTUySFVOS1VJM0RGRDB6WG9OTURpQkU1OS1qQjNUUkRzRThwQUZyRVBmci1EdzBwTTBUQkgtOVVCLUw3bzN2djFkbkdwLWh5VF8zbmk4dk5hZFZzTm9PUk9hT0VuS0M4VXBOTzJwZHhRVDc2Qk5NaWVLQ1pjWFlzeXNnY1ZscWZXbi0tMll5OHc1dnB5LUltS09WRlNwcXpRbllz?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUlRrN1ktcUxXdUZpRGVxVHBZRlNPaVNfdjNCSEMza0Z6WGQwSnVNc01Wa25Cd2FaMjZLY182LU1mWWJRQkFFcWhQLTF4dnF6MXZ0Z2FveUNPdVgyN1M3UWN2c2tnRGlaaFRPMlBtUWhxQmxYQXVfbG4tREV5aUdNNThtendDSFlIWTFTZ2V3UWw2RTNiMkVUckxyaC1qMDdRcnFsT1lZXzJnQ05jMmVRR0t2U241dm0wRGwya3Fac2pjYWdiVzZIajRHOUEtczEyU2VlS3lHTnZJQWlh?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSGk5UFBlOG9CVjZ1VVpSX3NZZFFDcGJyTk5sWkhSYVdfQUZHaEhNZ01LbmlyT0FlRldhMEttREEzV0ctN3RaX2E4MUdFQVpFS0pFNGxWVXVkaXM0WTl3WktLNEhVcXlPUERyRENJbzVtejluTzlQakM4UWdyTjVOQkJic0hEaTlWd2FON3FKMU9udFlEUWVteGdR?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:56:15Z",
-      "published_at_ist": "2026-10-14 15:26 IST",
-      "first_seen_utc": "2026-10-14T09:56:15Z",
-      "age_minutes": 7,
-      "trend_score": 12,
-      "rank_score": 1.1115,
+      "published_at_utc": "2026-10-14T11:24:30Z",
+      "published_at_ist": "2026-10-14 16:54 IST",
+      "first_seen_utc": "2026-10-14T07:00:07Z",
+      "age_minutes": 132,
+      "trend_score": 19,
+      "rank_score": 1.2157,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
-      "famous_names": [],
+      "famous_names": [
+        "Billie Eilish"
+      ],
       "region": [
-        "GB"
+        "GB",
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [],
       "google_trends": [
-        "russell brand (US 100+)",
-        "laura brand (GB 2000+)"
+        "today show (US 200+)"
       ],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/e358/live/9db5c430-c7b1-11f1-b41f-d7a6cb474575.jpg",
-        "https://i.guim.co.uk/img/media/68a5ec4d8d28ec9e3f70464b34e7f59a0cda4196/444_50_4102_3283/master/4102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=cb4d10774013a39e0c0071c406761e47",
-        "https://i.guim.co.uk/img/media/68a5ec4d8d28ec9e3f70464b34e7f59a0cda4196/444_50_4102_3283/master/4102.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&s=69be003edafca0fc39f2da7faf7357ab",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKs5xIwfi2BUEn372sP1TrVyvPxRm9XA55uvvMtu4fFMpnMA-JxaFI-rNacyY",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRK05wLGPEbKuR5PPbkVXATowgku2QIvTa-tiucJFx2RQj13qs5K0XEx76wfOo",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUhJN8l-_fzjNmKfOiGRz0nVFGF43VcJo3fIM204z3geAI0lzpkeiF5bzoQo4"
+      "other_headlines": [
+        "Billie Eilish Plans Biggest Career Shows & 4th Album Rollout",
+        "Billie Eilish planning ‘biggest shows’ of her career",
+        "Billie Eilish planning 'biggest shows' of her career"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://s.yimg.com/lo/mysterio/api/bcb9c9d38f85177d47ce4c786624d61389054757e3970bf804f88c81f958dc1a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftheblast_video_719%2Fa03632f1e74e45e53d00dd676b62467e.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [
+        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/74f25a72-98cc-3978-944e-aff0016fcfad.m3u8?site=entertainment&region=US&lang=en-US&devtype=desktop",
+        "https://www.yahoo.com/entertainment/videos/billie-eilish-planning-biggest-shows-104100213.html?format=embed"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "879d8f0db7",
-      "key": "angry-brown-clash-driver-furiou-insider-left-seeing-singapore-zak",
-      "headline": "F1 insider says Zak Brown was left furious and angry after seeing his drivers clash in Singapore",
-      "summary": "https://www.bostonherald.com/2026/10/12/what-this-week-means-for-patriots-injured-wide-receiver-a-j-brown/Patriots wide receiver A.J. Brown is eligible to return off of injured reserve this week. Mike Vrabel said the team will check his ankle injury on Monday.",
+      "id": "1ef72c75b7",
+      "key": "cinematic-land-marvel-timeline-universe-visionquest-‘-’",
+      "headline": "Where ‘VisionQuest’ Lands on the Marvel Cinematic Universe Timeline",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
       "sources": [
-        "GPblog"
+        "JustWatch",
+        "AOL.com",
+        "IMDb",
+        "Forbes",
+        "HOLR Magazine",
+        "Murphy's Multiverse"
       ],
       "article_urls": [
-        "https://www.bostonherald.com/2026/10/12/what-this-week-means-for-patriots-injured-wide-receiver-a-j-brown/",
-        "https://www.bostonglobe.com/2026/10/12/sports/mike-vrabel-monday-patriots-raiders/",
-        "https://www.masslive.com/patriots/2026/10/aj-browns-pending-return-now-feels-more-like-a-bonus-than-a-rescue-mission-karen-guregian.html",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU3MzRk51M29zYWI1VncweUNaaTNGbWc3QW9SeG9faDlUaTc0YmRmZHlqdDhna2FsWURSWEJ3WDNGN2liZzV6S3VOZVBhLW51cXFQNWwycWJ3MkVNOGVwdFV0b2NNUDZwRHl2QzRWMm9HTmNCVXVxQXZLaU95NmxLT0hkd29CR0dhNTJoalNWd3hzeno5VWJJNGZNaU4tNHlNRlJtTk9UZFlnRklyVWFWMi1nUlV3MmJGLV9TLXJhVDFrUDcxb1Fz?oc=5"
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.imdb.com/news/ni66062268/?ref_=nmnw_art_perm",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeXg5Q195QXo0YTViazUzLTZRNEkxLUx6WVBXMGpGOWJhVFU1ZXRvWnNPbmx0QzZpTkZnVjlTVXMyTzEtVXExLVpCTkZKTElPQWxrdlo5eHkxcUdNOHlEb3kxV19ubzFRS2x6WXNZQjFzY244VG9aZUxEZU1BUHBUSUF3?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSUt6MVhMeEYtelFaUjEzMXJlYUE4RlNKM0FRWTZpTXNzUHBMTUtEc3dpQm8zX2h5ZWNycVh5aXROZzRfZFdGQjZCRy00eFFLa3lPOFZTUjVnWW9tQ09maXExS20xSjg1OWpJbEJEcEtUNzBnR0oxcVdVbWdMUEUwbjIwazFodw?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYTktTSlliNHI3UVQ0eUFFYjRUTk1CRHpqeDd5ajV3dkdCYzlYb29oclViSlBZOHllNmNjYUlLOFhid00xbEVrRDJscWEtVEc1eHphUXJUTi1DbzJRei1HUTRvQ2lMZ28?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xU1ZHalpkanhrSjRMZHUtVkpaYkhRVGdmQTVjLU1JaFFjVmg4cl9aN1pncWYwWmRQUXNvUzRMeVBkWE1nNEU4Zy1nWTZqU3NUQ1pVQVZyNTBBQ2hSTmpBWi0ta1dXVFU?oc=5"
       ],
-      "published_at_utc": "2026-10-14T08:01:09Z",
-      "published_at_ist": "2026-10-14 13:31 IST",
-      "first_seen_utc": "2026-10-14T08:01:09Z",
-      "age_minutes": 122,
-      "trend_score": 16,
-      "rank_score": 1.0427,
-      "category": "sports",
-      "section": "top",
+      "published_at_utc": "2026-10-14T13:29:46Z",
+      "published_at_ist": "2026-10-14 18:59 IST",
+      "first_seen_utc": "2026-10-14T04:38:44Z",
+      "age_minutes": 7,
+      "trend_score": 20,
+      "rank_score": 1.2113,
+      "category": "celebrity_music",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
@@ -140,30 +160,85 @@
         "US"
       ],
       "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
+      "priority_queries": [],
       "google_trends": [
-        "aj brown (US 100+)"
+        "today show (US 200+)"
       ],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
+      "other_headlines": [
+        "VisionQuest Season 1, Episodes 1 & 2, Explained",
+        "‘VisionQuest’ Episode 1: Breaking Down All the Marvel Easter Eggs",
+        "How Ultron Returns on Marvel’s ‘VisionQuest’ After a Decade of Being Dead",
+        "‘VisionQuest’ Episodes 1 And 2 Recap: An Excellent Series Premiere"
+      ],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "f5af35a29a",
+      "key": "4th-cricket-ind-match-streaming-t20i",
+      "headline": "IND vs WI 4th T20I live streaming: Where to watch today's cricket match?",
+      "summary": "https://www.bcci.tv/videos/Official website of the Board of Control for Cricket in India - Governing body for Indian cricket",
+      "sources": [
+        "Business Standard"
+      ],
+      "article_urls": [
+        "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-4th-t20i-1529233/match-preview",
+        "https://www.bcci.tv/videos/s-ind-vs-wi-2026-3rd-t20i-match-highlights-u5zkej",
+        "https://www.business-standard.com/cricket/news/ind-vs-wi-4th-t20i-live-streaming-where-to-watch-today-s-cricket-match-126101300704_1.html",
+        "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/more-runs-on-the-board-india-eye-t20i-series-win-against-west-indies/articleshow/134930421.cms",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWVlDc1ZtWC02QWRaMmExWVlMblRBRTVIZEF3SlhzX29rRlVLLTRjUFgwYWxnMkw0eHFCclFuZzZsZ2VqZVI3RExyZi01bWRLR295cmVqOTVHdWtaZVNMZkJuNVc3MEF6Wld2WlBEVGtORW5BTDJ0TXRVR3JpTVowR0RfSlBMY0pnSG16T1gtYm8yRlpMczlTVXBYOXdFQ3J3UWpzb2IydldpWUtaWjFqa0VQUGZqbVVKUG96d3A0OWtWalZNZm5ESmt3RzFJLXdTY29V0gHYAUFVX3lxTE5WX3BtOU9MbTd3ZWxCUnA5WjVzLTViRDRwVkdiRnh3R2ZwaWF5Y0xXMHNjTW95bU1Zd1kxWDhSOUEyZUxodXRySTYxV19PVDJBTWpTQ1BkSWVlblpyX2x3bTAxbEo0STV4YUJYU2Zxdmdnazd3UzVFbTI2ZC1pSHRWQUtlNWFjSjhmUFVIZTJBX3lNMWxQMkZLdUhYQmxPTXExYnk0UjN1ZV9JOWVvWFdrdlRsOEowRmNBVWl3WWJtSVBNdURNOGczc3h6TG9UZ1NIdkNSMWJsUw?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T12:59:29Z",
+      "published_at_ist": "2026-10-14 18:29 IST",
+      "first_seen_utc": "2026-10-14T12:59:29Z",
+      "age_minutes": 37,
+      "trend_score": 13,
+      "rank_score": 1.0944,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [
+        "ind vs wi (US 5000+)",
+        "west indies vs india (IN 200000+)",
+        "ind बनाम wi (IN 5000+)",
+        "ind vs wi (GB 5000+)",
+        "ind vs wi (JP 500+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.bostonherald.com/wp-content/uploads/2026/09/GettyImages-2294428336.jpg?w=4070&h=2718",
-        "https://www.bostonherald.com/wp-content/uploads/2026/09/GettyImages-2294428336.jpg?w=640",
-        "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/SSI7MQC654L2IBNI5LU2TRY2GI.jpg?auth=eb70433a2cad433bcaaeb2eea3e03ab43c9a8ed3ab2768190ab149b3c2d45328&width=1440",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDdx6nmVKpHgDQjb8jGKfR4FWnpMEK-zmG31zQVBtUcU8oj1U1N5or7hKKkS4",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjrTR9ygAQr68GqKQ3UO11WGNWb6jl8SNGfOWNZRurq_riUfWWBsYXRQ5NOwo",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTozZBbwImaE6GwCQfnJU-9TCWi8qqRWj0rOuMc6bFSt6A8wc0vPEIrCW5iqOs"
+        "https://video-images-cdn.staylive.tv/a0363l/thumbnail.jpg",
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/13/thumb/featurecrop/1200X628/1791884553-31.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-2C7KqbhH4kdowP-8D1VFfLHruHC5PG-duzCFGDst4s0WfTVkYAGpsNfQuFA",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6xytqFJPCvdR-mYeT2gyKtr_jRdYaVkVaspliefQH0O9tMNGQLcxkq8HIx44",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQc9d6e_wIpoVoyt-XcLATZJGhAIEBcHcTwu5f-XlteVI7T6QrtOdiG3r6EJM"
       ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=CJqP732RyTw&t=77s",
-        "https://www.youtube.com/watch?v=MHO1rZ07BBM"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -175,23 +250,28 @@
         "RacingNews365",
         "Formula 1",
         "BBC",
+        "ESPN India",
         "The Guardian",
-        "ESPN India"
+        "The Race",
+        "Bloomberg.com",
+        "Sky News"
       ],
       "article_urls": [
         "https://racingnews365.com/breaking-lewis-hamilton-wish-granted-as-new-f1-grand-prix-confirmed",
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpqTTQ4cTYzdUR1aUtNQm4xYVpZV1JCX3UteURpb2FseFZKM1BKV1NTeXJZbTZ2RWNwUi15V3hkOFQtdDlTaUlzQ0ZhVW11Z21wMkliRmxXY2QwaXd2M0VyWEQxeGlZeHZoQnBnTmV0Sk82WnlQMEFOVndFSjZKaFRXTTFfelAwVXlsWHM2VzFZaDRtRDYtaA?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVFIwQ0E1bDhWMzhkWjFxUHpWc2ZIS0ItMGtTdWNOOEo2STNNenZ0ZjIyUHVLS3UyUUFtaExySFhXZFFzYzZueEdnR3hPUnprMDlJck4tam03OVpjaVdUT0pnTjZkMmVXT0hUOTJ1c2JRNXBkYnA3R3NwRGpQOGw1MHQ1NEhHdWdhM3lRa3hNMktQdU83ekNJaVBLdHVza19wenhWWVhsUTRBN3V4cGJyQTBXWnVURXE0TXVKaFJkNzhvYjVpY215OFJNdTZXWlk?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPckloVmwzeEpNRGtyaUdOelNHVGdNSXVybUNVSUVET0Y5UERvUzhYaTZPbnRXUmhKOElrbndTanREeG5tRW1tdWlJYllsZEFxT3VuTFpRR1U5ZlpMS18ybjFmUnZTNlpsWWhzZE0ycmQzTkRYY1hPYTFqY1BPUWNGbU15R0xvZm5mU3dZUnpVTW56eXgyZ05lRk1hS0tScmtvWVkwUVNZUC1UYUZ0VWdGdW82cHYzcjZZRXVUMENFaDVpUVBoMkhSYURUM0gxN1Vlb2dHXy15dlBSUTBCLTk4?oc=5",
         "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01VDBhVjFxenRiQlR1RWN3RmNReUFzTm52RURuZXI4QTJKSXFFNWJkOVNRdThYTkhsTmtqU3FBY2JNNmdCbDRlZXYyaFRKMGs0TWZFTDhubkJ1UW5uSGd6bE5NS01acGVh?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2NITW12ZXZHOWhvWnlEd3ZaQmh1NnhLZkQ2SjdtYUdneGlzSUlfbEJUUFdITS14ODJ1UUJhMzViR0hVMFRVdHlUOThYNUdUVUpBWXUzWFNBVG1QTV9SQ0xSYnhjaHhLUmt3dTlvamNqVFJseGh6akR6a1doSXpFdGFkcU9hbDk1ZDlENktHcldQRWJ6bVhLYWsteGRzZzlxYWc?oc=5",
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxONkl6TE1tWXkxeHlvMHRjOXY4aXp2Z1l3N2ZfYmxmaEtCQ0JiU1BleWFRZmhmM3lYVFc5SVpUdkpEY2dlTlB1TUJwNmo2SGV2dDVLckVmaDdid3VtTTdlSFRZbWludkF3OVQ4Ri04THVwc2x1RmpPSjBvWm9jWHhLY0YtLW5ZbU56ZnpfRm9xNDlaRnhhU1I5amdqX2lTaWlXUndXTGFWNkRzbVdtUE85Um9ibVdmazBaM2E4WWlGT2EtZjNlaVdZd0U1bWh6QTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOR2NITW12ZXZHOWhvWnlEd3ZaQmh1NnhLZkQ2SjdtYUdneGlzSUlfbEJUUFdITS14ODJ1UUJhMzViR0hVMFRVdHlUOThYNUdUVUpBWXUzWFNBVG1QTV9SQ0xSYnhjaHhLUmt3dTlvamNqVFJseGh6akR6a1doSXpFdGFkcU9hbDk1ZDlENktHcldQRWJ6bVhLYWsteGRzZzlxYWc?oc=5"
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmFDNTM5WnFkYV9rYUYwbDdiek1PZVVYUkRPOTFOT2dBdFRvSFRPWWNjSmdKTWpLSGIwX1pYQW02M2xYVy1iRjhHWkZ2a3pSLWFNUzRJTFZncFhKblF5WWZJalQ1alBjZVE4UTlEamM2UEVKbFdRRlNhc3ZyLWRqNmU0UkNZYk45c0RrREFYaw?oc=5",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDRlphTm1iVkltM19hRjNzRG5SRnBZajJ0ZWNHUDJoTUZRMEtuX1Zlb3hwU1RRV1pibWxyc1JUSU9VWjZ5bzVsMUl3VnZHcjZESER2bDFQUTA1VEJsUDJ1WTVqcXhZTjh2QXdF?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:43:19Z",
-      "published_at_ist": "2026-10-14 15:13 IST",
-      "first_seen_utc": "2026-10-14T09:43:19Z",
-      "age_minutes": 20,
-      "trend_score": 16,
-      "rank_score": 1.0371,
+      "published_at_utc": "2026-10-14T12:44:05Z",
+      "published_at_ist": "2026-10-14 18:14 IST",
+      "first_seen_utc": "2026-10-14T09:59:12Z",
+      "age_minutes": 53,
+      "trend_score": 20,
+      "rank_score": 1.0435,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -212,7 +292,9 @@
       "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Visiting F1's new Rwanda track - everything we learned"
+      ],
       "image_urls": [
         "https://cdn.racingnews365.com/2026/XPB_1399899_HiRes.jpg?v=1772965817&width=1800&height=945&quality=75&crop=3168%2C1664%2C0%2C57"
       ],
@@ -223,520 +305,509 @@
       "youtube_videos": []
     },
     {
-      "id": "03349b7622",
-      "key": "gerwig-greta-magician-narnia-nephew-trailer",
-      "headline": "Trailer for Greta Gerwig’s Narnia: The Magician’s Nephew",
-      "summary": "https://www.dailyfly.com/2026/10/14/season-2-of-hulus-alls-fair-sets-nov-4-premiere-date-see-the-trailer/Ryan Murphyâs âAllâs Fairâ is returning to Hulu for its second season, and Hulu has released the first trailer and key art for the new season, giving viewers a preview of the latest turmoil surrounding the attorneys",
+      "id": "9ab3279898",
+      "key": "1988-audience-drama-fantastic-indian-kiran-rao-remake-reply-show-want",
+      "headline": "'Fantastic Show': Kiran Rao Wants To Remake K-Drama Reply 1988 For Indian Audiences",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
       "sources": [
-        "Dailyfly News",
-        "The Hollywood News",
-        "Hindustan Times",
-        "jay-ho.com",
-        "iDiva",
-        "IMDb",
-        "Mathrubhumi English",
-        "Awards Daily",
-        "Koimoi",
-        "IGN Africa"
+        "NDTV"
       ],
       "article_urls": [
-        "https://www.awardsdaily.com/2026/10/13/trailer-for-greta-gerwigs-narnia-the-magicians-nephew/",
-        "https://www.dailyfly.com/2026/10/14/season-2-of-hulus-alls-fair-sets-nov-4-premiere-date-see-the-trailer/",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOXN6SDNjRUVveWxsTzhJS19zMllTQTQ0SXZWUWhRNXB0WUdfWXZYV3o5NHFUSHF4WkUzXzFBZC1OREpDUTFFbExoWGx1ZWNnelQ5MjY4Q1lkRmxIWkE3SE9oeGFlY2hNa0Jtc3JmWDdNVUtGalF5bC1Yb1JvX3Jad2xVWFM1cndWTVZ1QXNLN2VRd19SSXhsYmEwclpHZ2ZDSU1JM2pfUFU?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRHpaLXNsck80Qjh1TUJMeW0yd3RUYUdscTJnMS1ySmE3YTBSWGQtQjI0X29xQWk2ZHVnb04wZFhTNThYNkduTDBOcUxacm9jNUI2M09KTEJxLVJCcWI4aUNLOFZ4RUJsRkh3dG5RVkg3cFpkaXBScWlkR04wZ3pMX3dUXzhmOW96Z0E?oc=5",
-        "https://news.google.com/rss/articles/CBMixAJBVV95cUxOc0tpUTEwc21zaG90cVlVVkx1U1RKZ0diMHB1VEdlRk42d3ZKQTQ3enFrMkNJSXk3akpIeWg1YUgtVEVWYnk4elZ3SkU2NDAySUMtUWR6YmVrZUZmZHphN0xxYkQ1RUpZZzM0a1N3ZEstd0xmVC1lNDE0NXBKVURhcXRxbi0yMnVaakdWdTRZM3FfbTg2S1lic3VnT1JFWHVxeFpXR1JaLXN4VWZsM0t2dlNZQjhkYno4QmxQNWFPbEYzNUhfeHI5NmgtRTV5b2VtUnFlanoxVmVqY29MNzhuRzFCT3pfZzV0SkdBMm1MNTdzT2VzTXh0YnNtaFhpb0xVZWY2YWhTTkI5bGtDelpmamFHTE5KVVpMekFtYnpMcGNaRXpxTU1JYk1ocDcxbjkzUlo1alJJV0h5aEpwQzJ2T2o5VFHSAcQCQVVfeXFMTnNLaVExMHNtc2hvdHFZVVZMdVNUSmdHYjBwdVRHZUZONnd2SkE0N3pxazJDSUl5N2pKSHloNWFILVRFVmJ5OHpWd0pFNjQwMklDLVFkemJla2VGZmR6YTdMcWJENUVKWWczNGtTd2RLLXdMZlQtZTQxNDVwSlVEYXF0cW4tMjJ1WmpHVnU0WTNxX204NktZYnN1Z09SRVh1cXhaV0dSWi1zeFVmbDNLdnZTWUI4ZGJ6OEJsUDVhT2xGMzVIX3hyOTZoLUU1eW9lbVJxZWp6MVZlamNvTDc4bkcxQk96X2c1dEpHQTJtTDU3c09lc014dGJzbWhYaW9MVWVmNmFoU05COWxrQ3paZmphR0xOSlVaTHpBbWJ6THBjWkV6cU1NSWJNaHA3MW45M1JaNWpSSVdIeWhKcEMydk9qOVRR?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE11VlFoUk1URzlfemlQNUpkUEdlTUdZZW9iTHhCbGZjM29QZmdZM0Z1LWxMVEhQZUR2Y0o0TjNKcEFIZzNlS2hwQnRybjRpYll6RjlreklvN2FBOEEyQm0wWnNNZkhZUm5FZXNMQ2pLLVpaOG8xM2R3?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNklrZ2JtVFZVNXg3UmZ0NnpaWEFiOWJ4MElqM1ptV3hGTmlNVGFGRFVCZnFsVkFqdzI3Rk9UQXAtX2xyZ0JBQWl5WFFOSDUzQXk5QzR0bENhR3VMYVFqd1VVak9BUXhmN194RS1GckE0YXJIcEE4cEpsaTNGb3hucHlhMnFKYi1fMnJxYThQMzlPZzUwX0N4cEY3Y1ZaQm5tYUZFT3dVeEZVaXVKRFZfNlJ4LVd6Y3hsUi02RF9STFRfTzBfaUFCc2drY9IB0AFBVV95cUxOcnc2TW1CcDhRZWhxNHZwTkRKbHdsbEtETm5CaWpZX1N2OHJkUWlRdWZYbGp0dE5EMjNhRE1BRHNrVjFwZEk3T1poWG9sVjhOc1FrWDFCb3BkeVlBWS1tSkJSVWRMZ29oZmY5Uk5qcGZsVnVCZ05YdHIzTzhlV2RqM0Fpd09hR3YtS1ZhcjdNSDR2dUYxQzFXQ012NGU2NDVPRkZIeURUT2lxSUEyMkpxRnFLei1XYnhrWWhQVGYxWjdVZWNCNnlBUzd6UFdoMmcz?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uYzFLNk55VHVBWTNNX0kzdUozRUdGalpIdmZEY3NmTjJHaU55M0N0c18yOENicm5wSWFZcjZMb1hRUVpQME9kN3pGZU5ndnZ0QW94SjhWVERKb19oUTd3ajVOeUdSSFk?oc=5"
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.ndtv.com/entertainment/kiran-rao-wants-to-make-a-remake-of-this-korean-drama-for-indian-audiences-12184742",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWVJsT1FuekY4ZXpuTjE4cnhxNEpTUWFPYnp1M09oRFJnTko5OUM1X1A4NVdjdUdpaTVnOUFRWFk3YWgzWW95QXRFTEVqWklKbGFEcWtfRmp3bEVEQl8zTlpfbTZMT1kzM3BsUTdfbTdCSzNaYUpVeXdLX2RFZFl4WmhXbEpCY0lKbi1YZ19hZ0NGcEUzM1RmN1RUbnFOUnBYeTdRMjZLRkRjOVNKWlZlNEdBZnVNX0w3dmfSAcIBQVVfeXFMTUl1a0JidDFIeUctM25KNG5malJETFJDVVJZRTJ1dGdXcVo5QmZhdnV0WDhlS043NkZkOXVlcHJxbndqdkVqMmR0THBVOFh6eXpmVW5UaDJuWGUzMmpUMjBCTmZPT0FXRW1iWkVRV3Ryd2hmeDJ4VHpNOU9PYlJ2V2pjMnNiWmdXV0hEQUp5akZCeHZoYWpxZXBPQlBnS1JfVE10dERyYnc1ZGJsem50NmdDQVVrdlRJQ0pZWWRJallzaHc?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:59:43Z",
-      "published_at_ist": "2026-10-14 15:29 IST",
-      "first_seen_utc": "2026-10-14T02:19:43Z",
-      "age_minutes": 3,
-      "trend_score": 35,
-      "rank_score": 0.9975,
+      "published_at_utc": "2026-10-14T12:48:39Z",
+      "published_at_ist": "2026-10-14 18:18 IST",
+      "first_seen_utc": "2026-10-14T12:48:39Z",
+      "age_minutes": 48,
+      "trend_score": 10,
+      "rank_score": 1.0323,
       "category": "celebrity_music",
-      "section": "entertainment",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "322e45d4ff",
+      "key": "beyonce-blue-daughter-girl-ivy-rumi-show-’",
+      "headline": "Beyonce’s Daughters Blue Ivy & Rumi Show What Being Girls’ Girls Is About",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
+      "sources": [
+        "AOL.com"
+      ],
+      "article_urls": [
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.aol.com/articles/beyonce-daughters-blue-ivy-rumi-101411000.html",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUJiN0daZzBKUXRQOUl6VjkyamwtQXVNNmlsLUdtcE5PTXpETkgtcjY1SFp5bjJIRk5HRWM5SzM5V3ZtdXVyaEhDXzFRbV9rMk8wU04taEVaaTZoNTJEbDVYLWE3aVQyblB0bnFoeWxPR2Z1cDRPTTNUcFBjblRiUw?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T10:14:11Z",
+      "published_at_ist": "2026-10-14 15:44 IST",
+      "first_seen_utc": "2026-10-14T10:14:11Z",
+      "age_minutes": 202,
+      "trend_score": 16,
+      "rank_score": 0.9861,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Beyonce"
+      ],
+      "region": [
+        "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
         "Celebrities & music"
       ],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://hermes.media.transform.aol.com/c87fc2ec7e9ea0fc98925f7a8817bad55692ff20/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/14/76b65db0-6431-3a58-992e-ae1725946456/b28f306e-56a0-4afb-8cac-94146cee1edd.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "8a19a25c23",
+      "key": "applaud-bernie-bull-collin-give-high-max-podcast-red-show-singapore-strategy",
+      "headline": "F1 Show Podcast: Bernie Collins gives high applaud for Red Bull strategy after Max Verstappen won in Singapore",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
+      "sources": [
+        "Sky Sports"
+      ],
+      "article_urls": [
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.skysports.com/f1/video/13599166/f1-show-podcast-bernie-collins-gives-high-applaud-for-red-bull-strategy-after-max-verstappen-won-in-singapore",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM2syMUpDei1ZdTdNTnNwSmpTTU5ZOXR6b3lsQ3JWWUhnTG41ZVJHWjZDZUFNTXFQelp6LWhrQjQxU3ZCMjBNMEh1RDlZU3R4dGZqQ0pMUEVkU1pTU21qeEt1QWdGR1BESXVJem0wckh2aFp5Qnl4NW1XMi1BeS1TeDBEaGlqbGRoTXo3cFVMNUpQMXg5MVVUWG80U3E0MkVJV0NiWnhNM296ajdCcHVjU0RncHJhekhEeVZNQlZJaDZJa2Fha1oyQ2NWaW1pLUg0aUMxVVAxWkgxczRYSTJPOHhkZ1pMNTFS?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T09:45:24Z",
+      "published_at_ist": "2026-10-14 15:15 IST",
+      "first_seen_utc": "2026-10-14T09:45:24Z",
+      "age_minutes": 231,
+      "trend_score": 16,
+      "rank_score": 0.9547,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Max Verstappen"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1",
+        "Famous people clips"
+      ],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "350807c8e0",
+      "key": "bull-cars-chandhok-fastest-giving-karun-one-podcast-red-show-significance-them",
+      "headline": "F1 Show Podcast: Karun Chandhok on the significance of Red Bull's upgrades giving them one of the fastest F1 cars",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
+      "sources": [
+        "Sky Sports"
+      ],
+      "article_urls": [
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.skysports.com/f1/video/13599167/f1-show-podcast-karun-chandhok-on-the-significance-of-red-bulls-upgrades-giving-them-one-of-the-fastest-f1-cars",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONGNRcTVWU3R5c1hpZWpsUmJheWU3dFgzSVRRSkpob3NHMkhqaWtiOUV5X3RFNzJfa0JTSFpCd1VqeVA1VGZRUExXRmNtNTdES3VERjUycU9xR3NWeUFFQ3F5aXF6RHltRVdORnVaYzVPMXlsTlVpcS11dm9TY2dsQV9QdzlNbTE5YTRCSFdlLThPOHNYUzRZRzdHQVA3b243eElEcE5fNGRwOHBDR1VkS0MyeElXc3VMckdwYmw2ZWJ6TlU2QUR5UXBheUlfS0ZKOTN6YnBfb0xNZUxpa1huQ3R2QVA4WWg1aElF?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T10:02:17Z",
+      "published_at_ist": "2026-10-14 15:32 IST",
+      "first_seen_utc": "2026-10-14T10:02:17Z",
+      "age_minutes": 214,
+      "trend_score": 16,
+      "rank_score": 0.9431,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "47f2ca21c1",
+      "key": "ahead-approval-bharti-mittal-queue-starlink-sunil",
+      "headline": "We are ahead of Starlink in approval queue, says Sunil Bharti Mittal",
+      "summary": "https://www.business-standard.com/industry/news/Bharti Enterprises' chairman said OneWeb applied five years ago and has had its ground network ready for three years, arguing it is ahead of Starlink in the queue",
+      "sources": [
+        "WETALKSOUND",
+        "LinkedIn",
+        "Business Standard",
+        "The New York Times",
+        "NDTV Profit",
+        "The Times of India",
+        "Business Today",
+        "Rediff MoneyWiz",
+        "Vocal"
+      ],
+      "article_urls": [
+        "https://www.business-standard.com/industry/news/eutelsat-oneweb-starlink-india-approval-sunil-mittal-elon-musk-126101400522_1.html",
+        "https://www.wetalksound.co/blog/Music/tc-dope-is-back-with-rihanna",
+        "https://www.linkedin.com/posts/moneycontrol_watch-i-am-significantly-ahead-of-him-activity-7516039777507532800-dvhd",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaZ0dmbXdWNGVkdnZSMWluY1pFV2poTlJlYmRtS3dZMUMzUXpUcEdIT1JxUE5UYjdqUk9tNElITDlhT2pBRG9pMHlvSnpJQjQzcWRPR2VET3V3WDhTSy1ZODFPSDJvdFlLYTFfZFJ6TTRIRGRK?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxORy1qTnhZQlltY0RheDdLQW12M2E3UUVCUGhjWXpTNEhXS1ViMm9qcDVEZlJuQ2hzTVZtUHppQ0ZPZk5zY0Y0bFU1cW9URjNNY1FraEF5VlpqWjFTaEhRV280QjkwT0ktT3JiRXJkWjZJZjNfM05DNnFmTklIV3ZITC1nazhGZm9OdUtzaTA4WTZrMWZsMzg4ajdoZERXY0JMVTZRdTIzQ3E3NERnYUdBZ2xEZmFHdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV0pNcGVfLURSRHQwX0YxNy01NzNnQjRrSFk3TDQxS1B1aDBRNzNSbVlIV2tNR3JHaExnRTVmb2J0SWVkd0N6VEpDd29XN1N0c3VKTElncjBuWG5ZTXNYazZEaU80WDlzR2xYcGJvWkF4WUxmQklFMWl3MjVlQTRZSlhEN0Z5dDczcWIxbU8zZVhDOGJWekFadE9xX2U4MF9vVXE0bTFDeVdYczNacTQtaVBJaXdWbmxxWkR6M0NXU3c3MklMWnFNelBn0gHPAUFVX3lxTE02bFk5ODlaTG9CT1JpUXBMSi1yU2NrSGxYejA2WWRrRmxiVlR1emVTY1FzOVAxMWxjdXNDdlNuRHFfTVBsNlYxR2pNNjJNRGQ5ajBDRmU2RmcxNlRQdlRyby1CVTFISjR4Y2dJNXh3MWNqVHhlNjQyTl80SzA0LU00N080RGctbEJGT1FGR1NCaGx1Zk9FY1lBdV9tOWk5blNTaFVjN05qYzF6TEtUYVNMSERSaEU4RzAtajNUaGQ0S0lCSENGVzdhWVp4TVVuVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VRVplTDhjV0xsdkg3RHhic3UwaUdnYWd2TUh1eE1mT01iWkhXbGlZZktJbFc5ZllZTVJhOVJtWmo2cEp5MnBCNXZwbGhlUjBNWlhyYmJjMURTZkh6Ni1vWFlvTXNfOHhNZGo4YzZNWlNtQk95ZG5TNDNPYVRjZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYmJteWw2WUkzVi1nY3l6bXlBRDU5TEYzSlZGU0pRNUhHYkVhRDhUeDNEeGg2LXBVNzdRcTNCSTNvMUVCZGtFdFNna3kteDNTQ0NialF3LWs2Wl9tU1VFU0hyekp6dnRYT2RKSWw1TUF3V2I4WkNadS1xX2traEp3bS1QUXRldjEwMDRnSzF4VlBWYkp1Y29KSEpVSkh0Q2QzVk1WeFowZ1NNYXkybkJzOW5qZzVoSDhOQ21VTU9KZ1E1Q09QLTFrdms1TkpvRmZLTmJDYnA2VGgtQdIB4gFBVV95cUxQRUZwNXotV21fUzNhbUZIeXhMT1FuWlZUem5FUXBuRTdiMXh2VFM4dXdsZ0FERTgxQkNEVlhfVHRQQnpsYjVtYU1LajFqdGVXRDFCRUlybkhEeU1wNUFNLVN4dlgtVW9kaVFsRmtQNjNYVFRXQTBuMmc5aVdPZmI1alJWc28ydUduQVpRVnk1M2VzSkZSWUNHVGtQNGowNnRLMjBiT0RKTzBjQkpnNmhuU2F4d0NQbkNTbDhiSEswVGVjOC1JNUpDNUYtbkRFZmZsb2plWUlLQi1hbEFiRmZCSFV3?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T12:26:19Z",
+      "published_at_ist": "2026-10-14 17:56 IST",
+      "first_seen_utc": "2026-10-14T05:19:57Z",
+      "age_minutes": 70,
+      "trend_score": 23,
+      "rank_score": 0.9007,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk"
+      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Season 2 of Hulu’s ‘All’s Fair’ sets Nov. 4 premiere date: see the trailer",
-        "First trailer: ‘Narnia: The Magician’s Nephew’",
-        "Narnia The Magician’s Nephew trailer breakdown: Greta Gerwig reimagines C.S. Lewis’ fantasy world with rock ’n’ roll, Meryl Streep’s Aslan | Hollywood",
-        "Narnia: The Magician’s Nephew Trailer Out, Release Date"
+        "TC Dope Is Back With “Rihanna”",
+        "WATCH 🎥 | “I am significantly ahead of him in the queue. I applied five years back,” says Bharti Enterprises Chairman Sunil Bharti Mittal, referring to Elon Musk’s Starlink as the battle over satellite internet approvals in India intensifies. Speaking at the Bloomber",
+        "Musk Blames Tycoon for Stalling Satellite Internet Access in India",
+        "'Applied Five Years Back': Bharti Airtel's Sunil Mittal Says He's Ahead of Musk in India's Satcom Queue"
       ],
       "image_urls": [
-        "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2472/2026/10/14091016/shutterstock_2694485867-1115355.jpg"
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/01/thumb/fitandfill/1200X628/1685642761-7021.jpg",
+        "https://blog-admin.wetalksound.co/wp-content/uploads/2026/10/D38A6004-scaled-e1791980827387-300x169.jpg",
+        "https://dms.licdn.com/playlist/vid/v2/D5605AQEC03-o7mfugg/thumbnail-with-play-button-overlay-high/B56aE5WULMK4C0-/0/1791963515359?e=2147483647&v=beta&t=5ZfGFcPNseHGJjNT2xQbIA2imKuQR8IeHNzwMzJJ7RU"
       ],
       "video_urls": [
-        "https://www.youtube.com/embed/gDJ-ini7fF0?feature=oembed",
-        "https://www.youtube.com/watch?v=4jaAI0O1z9g"
+        "https://dms.licdn.com/playlist/vid/v2/D5605AQEC03-o7mfugg/video-auto-caption-srt-acs-singleton/B56aE5WULMK4D8-/0/1791963527771?e=2147483647&v=beta&t=sFmHiAOAPK2e1g7cx-_RM66E3-jSiClZhaRGbiRJMeM",
+        "https://dms.licdn.com/playlist/vid/v2/D5605AQEC03-o7mfugg/mp4-720p-30fp-crf28/B56aE5WULMK4B8-/0/1791963517585?e=2147483647&v=beta&t=9aexgGSRblM54Y2V_m-3HyVelvDjakhM-XglOBSEfmg",
+        "https://www.linkedin.com/embed/feed/update/urn:li:activity:7516039777507532800?compact=true"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "a1cb45f72e",
-      "key": "bowl-dancing-fan-favorite-home-night-recap-send-star-super-‘-’",
-      "headline": "‘Dancing With The Stars’ Recap: Super Bowl Night Sends Home A Fan Favorite",
-      "summary": "https://news.ssbcrack.com/dancing-with-the-stars-celebrates-first-ever-super-bowl-night-guillermo-rodriguez-eliminated/In a groundbreaking episode, \"Dancing With the Stars\" celebrated its first-ever Super Bowl Night, inviting viewers to relish memorable halftime show musical",
+      "id": "398a417035",
+      "key": "aditi-blue-bollywood-dia-hydari-mirza-navratri-rao-rohit-saraf-show-slay",
+      "headline": "Dia Mirza, Aditi Rao Hydari to Rohit Saraf: Bollywood Show Ways to Slay in Blue this Navratri",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
       "sources": [
-        "SSBCrack",
-        "Yahoo Sports",
-        "ABC11 News",
-        "ABC30 Fresno",
-        "Us Weekly",
-        "IMDb",
-        "The Express Tribune",
-        "The Hollywood Reporter",
-        "Entertainment Weekly",
-        "Sports Illustrated Lifestyle"
+        "BollySpice.com"
       ],
       "article_urls": [
-        "https://www.imdb.com/de/news/ni66061751/?ref_=nm_nwr_2",
-        "https://news.ssbcrack.com/dancing-with-the-stars-celebrates-first-ever-super-bowl-night-guillermo-rodriguez-eliminated/",
-        "https://sports.yahoo.com/articles/peak-football-guy-energy-feels-090249151.html",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQakFqWXJFbmNyWVRxWF9rN2hHNmc0Q3VjdENQMC1VZmpwbHF6NzBGS1RmMzNLcld6QmpDZ2RDUl9lY01hMzdzREhOcVJXbTgweVZ6b3Nwb2RqTGxDNDNDRTAyOU1KX3p3SFJCOG13OW5MNkRHZHEyQUQ1dnFtMUEyVTZ3NUFwOFlrZU9kN19NdFQyMW1uaU1CRW44VWpEZXFCMC1FdTVkY2JGZm8wTkJ1UUNubWVjLTdnRHJF?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxORklpV0ZUNnV5V2RqNU1Sb1E5TERfZFl3RC1JcGRoU3FwajRzT2tidWdCSnZpdnNFTlFsa1ZWeE9LZ1hrRGNTd0tqNjJkNFRRU3k0UFlfbTFYQi1MRGg5Y1JDc3hDQ1d6TFhsdG9iLUYxZHd6QjRQR3p5Qjhxc2IxWUJCNGl6dw?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN2hnTEVwZ3RpUlB3UVBqQy1mdHFMMkkxeExKRmt1TGI4ckg5MW1NQjBwRnlfM3FRSHoxX05oTjRsQnhTRk4xRWFXZGNwSVI5T28zdm0zWFlQcHpNM0ZaSXMtaER3V1Y5QThkNU1ZWVJHNkZQTWZLdE10VkRRWi1wYmFQTDlrVEU0QzE3OURzU2M5Q0QwNzBBZHFSUlVNODE5Zm5ZQU93aDJQV2JfQnZodG5n0gGyAUFVX3lxTE83aGdMRXBndGlSUHdRUGpDLWZ0cUwySTF4TEpGa3VMYjhySDkxbU1CMHBGeV8zcVFIejFfTmhONGxCeFNGTjFFYVdkY3BJUjlPbzN2bTNYWVBwek0zRlpJcy1oRHdXVjlBOGQ1TVlZUkc2RlBNZkt0TXRWRFFaLXBiYVBMOWtURTRDMTc5RHNTYzlDRDA3MEFkcVJSVU04MTlmbllBT3doMlBXYl9Cdmh0bmc?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS2dhaGdUT0xJa1RtQlBYQk1fb3FOc3V6R0NIRTJ2OHVtblNHanIyVlVpQnBQbTlDYzloN05Cc1V6akUtOTFvWFlkRE8tck9DUzRMSFluNUV4dWZXdU1HMHYtWTFtdXYtS0JiSGZacERDeTlpb1gwSC1IVjY1TktJRnJBUlk3bVJfZ201d0dhUnpqZFo1bUxjSjRERVh0cm5iT0JTbUFSYV9HdjdOUm9fbHF30gGyAUFVX3lxTE9LZ2FoZ1RPTElrVG1CUFhCTV9vcU5zdXpHQ0hFMnY4dW1uU0dqcjJWVWlCcFBtOUNjOWg3TkJzVXpqRS05MW9YWWRETy1yT0NTNExIWW41RXh1Zld1TUcwdi1ZMW11di1LQmJIZlpwREN5OWlvWDBILUhWNjVOS0lGckFSWTdtUl9nbTV3R2FSempkWjVtTGNKNERFWHRybmJPQlNtQVJhX0d2N05Sb19scXc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxObktkMVQ4UlVPUzlpMUdrWnMwWlcwV0NLSzFTYVJ4a2hJNWQ0WF9wc3BZNlhJSXJXbGRxUGRnVWtncXhtRkdFVGRlQXE5R2g1SlpvYzd3Sm5JeFJPc3hGNWs0ZXdZY2lXNGIyM3ZKejlJbnFKM29ILVprdFA4UV82Qm51T19vYURTZGxUWkQxWE40YWFrNTc2ZEFSWTB2VEdRZUFUSDBFcw?oc=5"
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://bollyspice.com/dia-mirza-aditi-rao-hydari-to-rohit-saraf-bollywood-show-ways-to-slay-in-blue-this-navratri/",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclBaWmxLTi1XcFRjOVJ6eDZfOHRsWVBWSGpqV3pGbzJqejFYT0dLODRlVVBYVkl6dk1wVE5kWlBDYTEtNzAxZWI4TkxRSm5FZDRJOFpqUjkxOWU1SXU2N2JyQ2pSNU96YmhTYzR1WXdpa0dWWkttWWlNWDV1Q1I3VnE3Q3dhZDdyZHRMNTF1amc3OW5fLTlVc0FzTTZtODJiMHNTb2l6c0gyaHNHNGVSTkhLSkh5UQ?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:35:17Z",
-      "published_at_ist": "2026-10-14 15:05 IST",
-      "first_seen_utc": "2026-10-14T01:59:00Z",
-      "age_minutes": 28,
-      "trend_score": 17,
-      "rank_score": 0.8896,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-10-14T10:28:04Z",
+      "published_at_ist": "2026-10-14 15:58 IST",
+      "first_seen_utc": "2026-10-14T10:28:04Z",
+      "age_minutes": 189,
+      "trend_score": 10,
+      "rank_score": 0.8795,
+      "category": "sports",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "IN",
-        "US"
+        "IN"
       ],
       "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
+      "priority_queries": [
+        "Celebrities & music",
+        "cricket"
+      ],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Dancing With the Stars Celebrates First-Ever Super Bowl Night, Guillermo Rodriguez Eliminated",
-        "‘Peak Football Guy Energy’ ‘Feels Very (Pat) McAfee’ — NFL Fans React to ESPN Star Joe Buck’s Unexpected Appearance on ‘Dancing With the Stars’",
-        "'Dancing with the Stars' sees high-scoring Super Bowl Night as fan favorite is eliminated",
-        "‘Dancing With the Stars’ Scores Touchdown With Super Bowl Night — But 1 Couple Fumbled: Recap"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://news.ssbcrack.com/wp-content/uploads/2026/10/Dancing-With-the-Stars-Celebrates-First-Ever-Super-Bowl-Night-Guillermo.jpg",
-        "https://s.yimg.com/lo/mysterio/api/9930152b52b5301a8cb42d411d698ca7fcd132b444d981bca7cb204adfdab822/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpro_football_network_512%2F4d23779e71f9b27a6bb38dd65fa85a6e.jpg"
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://bollyspice.com/wp-content/uploads/2026/10/IMG_4868.jpeg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "ee4d11a4ba",
-      "key": "9-bts-johar-karan-khan-koffee-photo-premiere-salman-season-tease-‘",
-      "headline": "Karan Johar teases Koffee With Karan Season 9 premiere with Salman Khan with BTS photos, says ‘This...",
-      "summary": "https://www.moneycontrol.com/entertainment/karan-johar-teases-koffee-with-karan-season-9-premiere-with-salman-khan-with-bts-photos-says-this-episode-was-such-a-ball-article-14051867.html/Karan Johar shares behind-the-scenes pictures with Salman Khan ahead of the Koffee With Karan Season 9 premiere, streaming on October 14 at 7 PM.",
+      "id": "15543e4f1c",
+      "key": "fans-highlight-mcu-show-think-ultron-visionquest",
+      "headline": "VisionQuest fans think Ultron is \"the highlight\" of the new MCU show",
+      "summary": "https://www.instyle.com/Savannah Guthrie was unexpectedly absent from her ‘Today’ show morning slot on October 12, marking the second day in a row she’d missed her hosting duties.",
       "sources": [
-        "Bollywood Bubble",
-        "Moneycontrol.com",
-        "The Times of India",
-        "India News Network",
-        "News18"
+        "GamesRadar+"
       ],
       "article_urls": [
-        "https://www.moneycontrol.com/entertainment/karan-johar-teases-koffee-with-karan-season-9-premiere-with-salman-khan-with-bts-photos-says-this-episode-was-such-a-ball-article-14051867.html/amp",
-        "https://www.bollywoodbubble.com/bollywood-news/koffee-with-karan-9-salman-khan-premiere-episode-to-feature-special-appearance-by-karisma-kapoor/",
-        "https://www.moneycontrol.com/entertainment/karan-johar-teases-koffee-with-karan-season-9-premiere-with-salman-khan-with-bts-photos-says-this-episode-was-such-a-ball-article-14051867.html",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVWhmTV9GZ1lwdEc2ZVZFXzdLM0p5MWJsX09wdG1FTzJNXzdUajhYbFZVeWJWaWVQdFQtU3NJUnR2LTI5dERocXNWRFlnZVRucGRhWER1NTE0VHhwdlg0RmpzaHJqcWFzcUNWaFF1YWw0eDJIUmZzY3NxWWM2VUpsZC1PRjg0LUl0d2xiWjhLYUJCWVp3Y3pVam91M0NjbzRiU1lHUWpTWWpUYlAxTkRYVXVXNGRCSWNWaUxuZTdmUDlVd242VW9rUFNqOUlQa0tFZWhYVTExTF93WDg4?oc=5",
-        "https://news.google.com/rss/articles/CBMimgJBVV95cUxOYXJUa3J4Qmh6WGN1OVpHRWktTEZDWHFKMm9zNjhWUEJIZjIzZmhXWEVSd3o2NWhHbFRlZXVlNzY4R2tFQXN4MFhOblY4T2FGRjcxYXdCek50U0wxSWVoU0QyZDB1dmhmNExtc3Z2aDdfcFlQbTdLZjByTFFFeXA4bUFjRDZDWGJmSndNRWVNVnRkMUl1NkQ5MFh2LXdZM1NJRlFsQnBvZEwtaWg1OTFVakQtUXV6V1JEVGY4aElQV2gzZVY3X1llUEhjeXQ5QkEyYm82RWxCWE9KakxRWkF3TzNBUUtyY1A0UEhzMDNRUUZyYUdCQjZ6UUpTLTRLcGxzaXl3d3d2VnVnQXQ5VkF4OGtmZ2JXNVlWT1HSAZoCQVVfeXFMTmFyVGtyeEJoelhjdTlaR0VpLUxGQ1hxSjJvczY4VlBCSGYyM2ZoV1hFUnd6NjVoR2xUZWV1ZTc2OEdrRUFzeDBYTm5WOE9hRkY3MWF3QnpOdFNMMUllaFNEMmQwdXZoZjRMbXN2dmg3X3BZUG03S2YwckxRRXlwOG1BY0Q2Q1hiZkp3TUVlTVZ0ZDFJdTZEOTBYdi13WTNTSUZRbEJwb2RMLWloNTkxVWpELVF1eldSRFRmOGhJUFdoM2VWN19ZZVBIY3l0OUJBMmJvNkVsQlhPSmpMUVpBd08zQVFLcmNQNFBIczAzUVFGcmFHQkI2elFKUy00S3Bsc2l5d3d3dlZ1Z0F0OVZBeDhrZmdiVzVZVk9R?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxQWHhGam1fZUt3czBIU3ZXM1psSUIxcFdKRmF4NlNYU0VfVE51ZmJ6VnMxaE9yTUpldWl5TWhaeFk1RVVPcUZnS1ZPUzg5X1g2MHhpVnhYOW1Xb0syY1dxazJxY3poUHZJbHBHN19WRkRLcEZSbkpiNHBhWDV4TTBZV0QwdW12aVlEanJVcEVyMlUwMFZjQWl5MWNnUXF5SjBvUG1Kc0dHMUVsZFZQdVphM0UzdUtnV2xsd2RsdkpZQS1HV0o3UWkzZFFwUndOX1NWa0JYX2xqd0IyUWJpaFE1ZTRZNFU0TGdmQVg4eTJGamp6QXlnZDV6OFVNaGRGSTdUR0FQUzJTSXNxV3hqcVU0bUNHcW_SAZoCQVVfeXFMTmFyVGtyeEJoelhjdTlaR0VpLUxGQ1hxSjJvczY4VlBCSGYyM2ZoV1hFUnd6NjVoR2xUZWV1ZTc2OEdrRUFzeDBYTm5WOE9hRkY3MWF3QnpOdFNMMUllaFNEMmQwdXZoZjRMbXN2dmg3X3BZUG03S2YwckxRRXlwOG1BY0Q2Q1hiZkp3TUVlTVZ0ZDFJdTZEOTBYdi13WTNTSUZRbEJwb2RMLWloNTkxVWpELVF1eldSRFRmOGhJUFdoM2VWN19ZZVBIY3l0OUJBMmJvNkVsQlhPSmpMUVpBd08zQVFLcmNQNFBIczAzUVFGcmFHQkI2elFKUy00S3Bsc2l5d3d3dlZ1Z0F0OVZBeDhrZmdiVzVZVk9R?oc=5",
-        "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPQUwxRXlOVFM3TmpwZnFSd1VUQVlJRmdubWZpT0lzNkJXcTZxQXN2S0ZHSUlWVTQ4am9RUnhLS2txTnFwUVRkQWI3ZTIwaDVpazZlN0ZqLW83MERVOXVONl9RaFpWZi11d055YmpyakVVaDAzdDBkMXVpUk9fb3AwMG85VllqM29YSU8weWF2c205MTY2RGJ3bkEtOW9UVVhaWTFNcUZNQmttS3pySGg4cTlyV0hzRGMtMDVVV3R2RWtsUTdrN0JIMjZnZmQwMUR3LUJOX04zMWkxUk5lZmZoVXZGSmhJc3dweHdONHpfOHhCOURLakVueWRRMWpVTVlRZllZOHFLNFFtdktVdjNSUE9LZ2ZWeTVNVGFRb0pzcXFveDJxS2U2b2hFZjVwQnZJNWVCaWdUYWdSSDRhcHFkXzhjTUJQczFWLXk1bVI4Y1FjZGRLR3hxVHlpcmNrSzlabkZZcHZSbGd0amdpZ0FQdFFUaUwwd2lUN0hMOUdDQdIBhANBVV95cUxPQWRDeXVydkhfOTdNWFN1TzZmR3V0M0R5LVlaczJrbndZN0VnUzhkTmhMS2xhMkdaS1JLSHdyaE1iSWxfMjZ5V2Qxd295VlBINmRxbFhVWlNXRnUzcGtidHVIbzBibFgwV3QteFRSM1NnbTNOWFVCcjFoWnpacUZjc0Uwdjh0MlVoaldwVFJxTEpwLVdRYmlEc0pNa3BnTWVjNXNNTnpwT3pCR1dRUGE1bnBoSzVnNGt5dFBRSnBXcGJWaDBtOFZjeFozUlRDZXJaS2hxNUZmS3VOU3F0dzFEQ0NsYWhJYW55TU5uVzJwRktjdVJ2TmVvRFk5Y2psX2lwZU1TU01SdGZFTmVGQWJ4dzRJOTNXY2FQN2lFU3gyZ0pDVkx0TXZGQURrSjBpUmZHZVVsMXY4bFNrQ0xKdFItUXQ3OE5EcUZZZ2dYZXd4bnhnaFpZN1V1TGNiVldCdzFDOFFyNlBpVjVIN2dQd3NCVTV2SkVIaHNoZW5LRllyNmtWczMy?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVVNyMlZrcHpqMnZCOHpRNDRNRDFNT1dEQjVGYndfN2tZQUhNOWVLMlBXb1BDVFNEbEtSUkpmc3VhaDQxeEVzc1lSQlEwM2VVQ3N6cTRnTjNXQW9ZZlFnS2JpMWxrT3N5WkFvaTJrLTk0WUdtb1YtWGxidFhkaXQwWEozMFVVekJ3djJFYV9XbVNpMXc5ZFExX09DbFZUVXBlOHc?oc=5"
+        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/12/where-is-savannah-guthrie-today-misses-show-return-date/92214498007/",
+        "https://www.instyle.com/savannah-guthrie-misses-today-show-again-8-month-search-for-missing-mom-nancy-12171601",
+        "https://www.gamesradar.com/entertainment/marvel-tv-shows/visionquest-fans-think-ultron-is-the-highlight-of-the-new-mcu-show/",
+        "https://m.economictimes.com/world/us/where-is-savannah-guthrie-on-today-when-is-she-returning-to-today-and-what-has-been-behind-her-recent-absences/articleshow/134926402.cms",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNczd4bzBwMklqRkt1aGRPOFYtUkYxNlgxdmVRMms1YS1TWUJhT1VSTVE3elE3ckFlS0hBcnpNc2p1SlZTYTBWRUdfVXJTb3FmR2pNQ0xBSkJLRVVfRkM3dXZLcjMzY1ZnYXdPYnBqRmtWQXhtMWh6NDZNSjJST3JmMC1GMTRWQXA4akpZTWJ2OUZGcTgxMkFZb0JlT1hINm03UFlwNmd0alhBUzlCSjQwdTlKYWVmMVc1RWtjT09tOFlfUQ?oc=5"
       ],
-      "published_at_utc": "2026-10-14T08:36:18Z",
-      "published_at_ist": "2026-10-14 14:06 IST",
-      "first_seen_utc": "2026-10-14T03:42:41Z",
-      "age_minutes": 87,
-      "trend_score": 19,
-      "rank_score": 0.8873,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-14T10:46:36Z",
+      "published_at_ist": "2026-10-14 16:16 IST",
+      "first_seen_utc": "2026-10-14T10:46:36Z",
+      "age_minutes": 170,
+      "trend_score": 8,
+      "rank_score": 0.8583,
+      "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
-      "famous_names": [
-        "Salman Khan"
-      ],
+      "famous_names": [],
       "region": [
         "GB",
-        "IN",
         "US"
       ],
       "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "today show (US 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.instyle.com/thmb/HX_T7aeA_Jx_-19jThTQXlRzK0U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://www.instyle.com/thmb/HafIUj1t_0rig7zHZZEZA6N5xoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1086x427:1088x429)/GettyImages-227458184332-e6c05202e8b14e73815398f7159febe3.jpg",
+        "https://cdn.mos.cms.futurecdn.net/bjN2boScFFVxATT6kNuySU-1920-80.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcSgdgLab1q8PSLOKyfCxhFcVPkvlw6YDNe0gz5yC3m5fhMsg1aa7LAbDOo2U",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSnZG1V82KKdd4_-5ae3he1K0VKq7KrCBd5XkuT-9WJ5mhYVFuBmUKIE8TnG0",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNcPIYc4jANtboKwxGCs7s9DHC0SzB_P72AMgC5c2NIzVkM-JT2XLnGRc8eUs"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "d2e28989ca",
+      "key": "brand-documentary-elon-grow-highlight-influence-musk-political-risk-wealth",
+      "headline": "Elon Musk documentary highlights brand risks as wealth and political influence grow",
+      "summary": "https://www.bbva.com/en/economy-and-finance/bbva-launches-global-wealth-its-new-global-offering-for-high-net-worth-clients/BBVA is strengthening its commitment to high-net-worth clients with the launch of Global Wealth, a new umbrella brand bringing together the Premium, Private Banking and Ultra High Net Worth (UHN) segments.",
+      "sources": [
+        "Traders Union"
+      ],
+      "article_urls": [
+        "https://www.bbva.com/en/economy-and-finance/bbva-launches-global-wealth-its-new-global-offering-for-high-net-worth-clients/",
+        "https://www.finews.com/news/english-news/73963-bbva-global-wealth-private-banking-initiative-david-conde-ceo-swizerland",
+        "https://tradersunion.com/news/billionaires/show/3805639-elon-musk-documentary-brand-risks/",
+        "https://finance.yahoo.com/markets/stocks/articles/bbva-consolidates-wealth-division-under-114457652.html",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWm1oSFh4WmQxcWkybS1NdVdfZ280QmtjVmVDYjVBS0s3LTZHTDVPOEZ2Q3JkaHhfYzhSSmdMUm9xSjNXbHFzYl9UN212cFJscVRwZXU1VmVyQTJkSXJRaTItay16clh6cl9YcGkwVXp5TkZhVjNVZEJNREJuVDJnOW1CYTJEWjYtaTA2MU5kLW5vUUw4?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T12:14:15Z",
+      "published_at_ist": "2026-10-14 17:44 IST",
+      "first_seen_utc": "2026-10-14T12:14:15Z",
+      "age_minutes": 82,
+      "trend_score": 10,
+      "rank_score": 0.7957,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Elon Musk"
+      ],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
       "priority_queries": [
-        "Celebrities & music",
+        "Elon Musk",
         "Famous people clips"
       ],
-      "google_trends": [],
+      "google_trends": [
+        "wealth (GB 200+)"
+      ],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Koffee With Karan 9: Salman Khan's Premiere Episode To Feature Special Appearance By Karisma Kapoor",
-        "‘Koffee With Karan 9’: When and where to watch the Karan Johar hosted final season featuring Salman Khan",
-        "Karan Johar Interviews Salman Khan on Koffee With Karan Premier",
-        "Salman Khan’s ‘Koffee With Karan 9’ premiere episode to feature surprise appearance by Karisma Kapoor as"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://images.moneycontrol.com/static-mcnews/2026/10/20261014074150_karan-new.jpg"
+        "https://www.bbva.com/wp-content/uploads/2026/10/Global-Wealth.png",
+        "https://www.finews.ch/images/news/2026/10/bbva.jpg",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNE0fxwndqmKOI0Wxa21WmJWxA_ysr-GGmZ2-Ub7iEuIgCRGxG6rZMwAJ6QB0",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf7StTcAYDlJCp0-lBRsXI9ChCTVRfLSxwoZmuWB180KyMXIlLl5dsuAK5s5g",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR9ik5Vdq_EQ3NEAMPTwtj6l6_gowcMj-am7_IltKcHJMYBZSBPPk8hILDpfQk"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "5d69fdadfc",
-      "key": "15-like-marvel-show-visionquest-‘-’",
-      "headline": "15 Shows Like Marvel’s ‘VisionQuest’ You Have to Check Out",
-      "summary": "https://www.theguardian.com/tv-and-radio/2026/oct/14/Paul Bettany stars in a WandaVision spinoff that’s a visually striking, genre-bending package – of fighting and tediously wordy dialogue. What an odd confection",
+      "id": "7b86c5c3bb",
+      "key": "demo-industry-internet-leader-open-standard",
+      "headline": "Industry leaders demo open internet standards e...",
+      "summary": "",
       "sources": [
-        "IMDb",
-        "The Guardian",
-        "Murphy's Multiverse",
-        "Collider",
-        "Nerdist",
-        "Yahoo",
-        "SlashFilm",
-        "Inverse"
+        "Pluang"
       ],
       "article_urls": [
-        "https://www.imdb.com/news/ni66061888/?ref_=ttnw_art_perm",
-        "https://www.imdb.com/fr/news/ni66062034/?ref_=nmnw_art_perm",
-        "https://www.theguardian.com/tv-and-radio/2026/oct/14/visionquest-review-marvel-paul-bettany-wandavision-disney",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TeVBWbXpBZDBxNmdXdmEySXFtSjZsXzlaT29GSElCZ2lHaVp0VDF0ekZVQS1rckdSN1ZtaHdraUJQaGdmc2RuME1mWG9KZGZPODFBTnhmRnhhRVgxSTk4ZHgwYmozMzRDWjdn?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YSVR3TlY4a0txUTNTTzJSTmFxM25DUXJQY1Y5VFg3Si1SNHZmTGtKSkdMZmdxeTBXcXdPY0dVVm1DV24xT3VQYXhQTUhLdWlLM1M3UDRlSVk1M0RobGdXTlVmc1BHamM?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNREEtazFrcWN5d2ZtSzlIX09fTGxUZGZ2ZEt0b3gxaGhueno1dGc5SFBTbTVSMUlleTIzRkcwQ3JzR3lvSDhhLTNQS1AtLVN5Q0FweEE1aUF0cFJraWxCOXJRakdQUzVKWUxuQTFDa0R4c2RHbXhzVXo4cG5xUnlBQnBYa3h6UjNYQ1dYS0xlWlVtMEt6T2FpZFBrN2NBUWl1SThwMGRrSkJJN1VHVnln?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMTlXcXZwNXRIMjJBaFlfWDVYRUx5Q1RVSzFLd0Z6eDRkcWV4SHBycWJiVUhKUmJHcm9TR2sySHhCVjZsLTd6V2U3aUtXdnZ0Y1doMTdOMUV6S3kxaXVBNWxWX3QxajBKUlpLUHdFMVhfS0dYdWEyU3BhS2MxOHNEUmpnTUVQTWN5d0xn?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JTUZ1S0dXS1J5UEFiQ3BqUlpXRVZmamdLcUVWM3FrdnRWM1dueENhRnVhanJUWmd0TWNiMkdfWldiR2t5OTB5YndSSHlhUklSR0UzYVEzQWUyQkF2V0FKZ0drdm4?oc=5"
+        "https://pluang.com/en/news-feed/godaddy-infoblox-google-dan-cloudflare-tunjukkan-transaksi-ai-aman",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkk4NzN5MDdmNllsUkNmRGJ3akF3eHg5U1dNbnY0MHlBakZpdFJNRklqZWFIU2FZQ3ItX19fd0JqbXpVaE5oWEdFNWx5a0ZZRDhUVTdkeFdRQk16QlFIc1ppNm9YcFlBV3B6X01QTWwtRi01RjM1TDBDeHJEcVRaYXlMalNRcm1MaFRrQVN2WDJzdGJjbm9KQVFqNzVCNGs?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:34:31Z",
-      "published_at_ist": "2026-10-14 15:04 IST",
-      "first_seen_utc": "2026-10-14T01:28:54Z",
-      "age_minutes": 28,
-      "trend_score": 15,
-      "rank_score": 0.8707,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-10-14T13:20:05Z",
+      "published_at_ist": "2026-10-14 18:50 IST",
+      "first_seen_utc": "2026-10-14T13:20:05Z",
+      "age_minutes": 17,
+      "trend_score": 5,
+      "rank_score": 0.7228,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Disney+ Reveals the Marvel Homework You Need Before Watching ‘VisionQuest’",
-        "VisionQuest review – Marvel’s latest TV show feels like it could have been made by a computer",
-        "‘VisionQuest’: Who is Paladin? Todd Stashwick’s Marvel Character Explained",
-        "Paul Bettany Talks Marvel Journey to ‘VisionQuest’"
-      ],
-      "image_urls": [
-        "https://i.guim.co.uk/img/media/e70bfd6326b26f1ace5a86a5fc12ab7fcfee1de5/535_0_1557_1246/master/1557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&enable=upscale&s=01f5dfa9c2ba4b316996421ed49be1b8",
-        "https://i.guim.co.uk/img/media/e70bfd6326b26f1ace5a86a5fc12ab7fcfee1de5/535_0_1557_1246/master/1557.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctcmV2aWV3LTMucG5n&s=508057b9bd93c08788e3e0e9dca171c0"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "0305acd4e5",
-      "key": "birthday-kardashian-kourtney-landon-look-vampire",
-      "headline": "Kourtney Kardashian’s Vampire Look for Landon’s Birthday",
-      "summary": "https://holrmagazine.com/kourtney-kardashian-vampire-look-landon-birthday/Kourtney Kardashian embraces gothic glamour in black lace and faux blood for stepson Landon Barker’s 23rd vampire-themed birthday party.",
-      "sources": [
-        "HOLR Magazine",
-        "NEWS.am STYLE",
-        "Yahoo Creators",
-        "Crave Online",
-        "Us Weekly"
-      ],
-      "article_urls": [
-        "https://holrmagazine.com/kourtney-kardashian-vampire-look-landon-birthday/",
-        "https://style.news.am/eng/news/116638/blood-on-her-lips-and-black-lace-kourtney-kardashian-turns-vampire-for-stepsons-birthday-party.html",
-        "https://creators.yahoo.com/lifestyle/story/kourtney-kardashian-dressed-as-a-vampire-for-landon-barkers-birthday-party-and-her-black-lace-outfit-is-perfect-for-halloween-073000870.html",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fUWRYMTJJYlJPQzZieURHaTJRSXhvcXFXT1JxS3Boby1LZW9yXzR6M3J0eWtobS15bFNGQy1tZHQ4Q1FLOU5MNmlLcHlLdEIwN3Ffb3RjNFQ3dlo0c29Vc0VHalJ6UU5aZ2tudEc2UWZLdGhLeW0xbXhJQlFzTjQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWVhEczFvc1ZvR1ZRaXlWYmRpcVdiUHBJNTNfZnlIUzV5OUNVdmdmcnlKSlo4RXJDNGlqendBSUx3RGlscVpTTEFTajVqUmNzcmxRSTQ3Y0JjNE1pTy1yeW9rU1oxZ190U3piOC1ENld5emZDMHFDVHNwMEYtQVFsZU1BM3hnM1hCZHFyYjhMaVF5ZVRmZTFaVDVERFRBRUZTdkVYd0wtWlpvOGlZWVNoc25nemlsVm9HU2dLZGZ0ZFRSbkwtV05hRy1XYmZXM3l2ODM4?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxOUy1aVTF6dTc4TEpEX0FsOS1pVHM5MVppZm1YaWp1SnBScFhZSXAyQkRiX1ZkTF9HczBxR0dKazA4MWJjZHU1OTRBdng5MTFUZl9EUXJEVXZMX1RBTEJLMkdQMmNtemRGbGVCNGV6eVRUdVVZNGV6eUlnZDlyQW8yb1VzMG10YWZKUl91OG1Db3ZWUEhfd0tNcnBieFpJT3VIdXZfX0x2c2pVdVhIdUwxZlEyZ3dZUjc0T1RibUNBZGNHbVAyUm1ZXzFtVnlIV2xsQkhXWF9ZRjE4ZFhFZHNwM3VOUHFSbnNNZEdCaS1yT09LZnFQdEsxWVlQNzJhM0pKNjlmVkhld3RmSXVGSUYxWg?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0txX095REs0SU1KUF9sMVp5b1hORVBDcVBQdjU2aldENlEzcFdVYlRqVHgyR1h0XzNHOWduWGlGdmF1MzZwdXVCY25sUU9mbzFXSEladHlMczJkLXd4MlJKelF5bWNRTk52aGtSTzZTWUxYTEx4VnFIbFRNWDRRalhZWktrUmlLckk1VGFnLW1SdmRDaXJwU0NHc19fcW8xdlJGaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSTB0X0ZmRGVrdHNVSGE3c0hfR2xMb1gxSzFqNHlnM2N3MWlKajhhWnBIODFtcHdyYWVzT0VmLU84Y0FVWkNuZUxYUnZSRGlZaEdremV6QmpWY2I3eWlxeGplcnd4TndETlhPWU1ZQUVDY0NKMlR0VEtPMm40SXNnY2dnU2V5Qi1ZVVduUFFSd2lZZzRSdkFNQl9YWmw2elhlR0E?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:50:52Z",
-      "published_at_ist": "2026-10-14 15:20 IST",
-      "first_seen_utc": "2026-10-14T04:11:26Z",
-      "age_minutes": 12,
-      "trend_score": 12,
-      "rank_score": 0.8508,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Blood on Her Lips and Black Lace: Kourtney Kardashian Turns Vampire for Stepson’s Birthday Party",
-        "Kourtney Kardashian dressed as a vampire for Landon Barker's birthday party, and her black lace outfit is perfect for Halloween",
-        "Kourtney Kardashian & Stepson Landon Barker Are a ‘Fang-Tastic’ Vampire Duo",
-        "Kourtney Kardashian Turns Into a Sexy Vampire for Stepson Landon’s 23rd Birthday"
-      ],
-      "image_urls": [
-        "https://holrmagazine.com/wp-content/uploads/2026/10/instagram-@kourtneykardash.jpg",
-        "https://www.holrmagazine.com/wp-content/uploads/2019/02/HOLR_logo-blk.jpg",
-        "http://style.news.am/static/news/b/2026/10/116638.jpg",
-        "https://s.yimg.com/lo/mysterio/api/91705d8a22c47958bc691a20a05668a3c2e6c93b532a5d6e7acba280380e90f1/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fkourtney-kardashian-vampire-costume_8510.png",
-        "https://s.yimg.com/lo/mysterio/api/e25b3a6f85e877be994bfdbb4c1d15f069375393695556b0b1625fc947aaa5fc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2Fuser-uploaded%2Fkourtney-kardashian-vampire-costume_8510.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "5d9eb78ee4",
-      "key": "blessing-cup-home-play-raza-retirement-sikandar-world",
-      "headline": "'A blessing' to play a home World Cup before retirement: Sikandar Raza",
-      "summary": "https://www.cricbuzz.com/cricket-news/140517/The 40-year-old also opined that Zimbabwe's inclusion into the WTC could accelerate the country's cricket development",
-      "sources": [
-        "ESPN India",
-        "ESPN",
-        "Cricbuzz",
-        "3-mob.com",
-        "CAJ News Africa",
-        "Herald.co.zw"
-      ],
-      "article_urls": [
-        "https://www.cricbuzz.com/cricket-news/140517/a-blessing-to-play-a-home-world-cup-before-retirement-sikandar-raza",
-        "https://www.espn.in/cricket/story/_/id/50180278/home-odi-world-cup-retiring-certainly-blessing-sikandar-raza",
-        "https://africa.espn.com/cricket/story/_/id/50180278/home-odi-world-cup-retiring-certainly-blessing-sikandar-raza",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWkJCdEltUDVOMkNBWDEtaUxhbTFTTS1uYWE4Nk9ldDZVSEdJRW15Z2tuWkVlSzFBeV9lRlNKUF9DYkZNelltMU5TcEd5Z0VLSXNOc1BVTzVGVVlxQXRUSjZnT1p4SVIyV0UwRENqUnRNaFRjMkNwNVZ4cEw2MEZIbEg0OWJXR2ZRa3ZORjlpOV9pMk9lR2Q2OHJUdWlUNEsteVI1N1A4RGpBOW1D?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN3dvRkdkWlhNbEJ1ZXR0eDJWMDBJbEl1aXJRMjRpYW1TeXE2eTZjY3dGRlhzWW91VVJhNVo5OVlLMG1rSUxyWW5Ib3cweVozYTczUmVDZFVGbVkzdm05LWRmamhnNFcxT0xhUUJFMGxDM2RsUlZpQkVlMUlRY25nOFBsd040c2V4amVORkxTXzZ3WS1zRHEtMGNlc3Axend5dGxrNzNuWnh5ZHNvRzZvSFl3?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTMtN3hfWHcxNUZwNGhmeFpzSzZpNXFkY3NON0xVYk5EanJHZGRZUUd5UnhZNkFkYk1VSFpFeDlvRTRRN0p3RjdseU9PMm5XT3BhWUkwRjNJbnpYNUJQOVVKMk9kSlNCU2kzcm93T1lVOUV2bG9DUFFYVjFBdGdReHk2Q1BuN01GS0w3YS1rQVBOQlduOW12d0x1LURkTkNCN2I4d2wyRVdmcGZfRGtuTTBn?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0RIaTVPWWdxRFVhcVNwS0VrUG5CV0lybTN6bVNEaVlxYTJnMXNkUnJVMWdwSDlQbjB1MzYzS1lWanliVHVnaC1RTXMwNEpJSnltMjBMdzFqX0cydXZBZXlsUDRFbHd1Y2swSWMtN3kzVnBFaWN1SFRZTy1rVi1PUTVKeFNuV21MbjZ6TDRGbVd4UFg4djVvX29CNkQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFB1ZFZfWTRfeTJMRkZIUkdjQnVlSVF4cjZfUEhyNmZmazZ1TndBaGtPMndjQjY3bkNRX3dHRGhEWW01YkZPRmNFbE5ONWVldENGOEVyTDJFdjhxZWRqcEI4MkV4M0lyaGpfb0pkTGRMbWt6Mk1jc0tWNUFOSGdDd2c?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:31:00Z",
-      "published_at_ist": "2026-10-14 15:01 IST",
-      "first_seen_utc": "2026-10-14T08:41:35Z",
-      "age_minutes": 32,
-      "trend_score": 12,
-      "rank_score": 0.8341,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
         "IN"
       ],
       "language": "en",
       "priority_queries": [
-        "cricket"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Home ODI World Cup before retiring 'certainly a blessing' for Sikandar Raza"
-      ],
+      "other_headlines": [],
       "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "50767e3f5b",
-      "key": "big-camp-leaving-made-mikel-mistake-portugal-ronaldo",
-      "headline": "Mikel Says Ronaldo Made a Big Mistake by Leaving Portugal Camp",
-      "summary": "https://www.tori.ng/amp/326741/Cristiano Ronaldo is facing fresh criticism after a decision involving his national team sparked controversy.",
+      "id": "8a3ec239d2",
+      "key": "canopy-chart-cnpy-marketcap-usd",
+      "headline": "Canopy price today, CNPY to USD live price, marketcap and chart",
+      "summary": "https://coinmarketcap.com/currencies/canopy/The live Canopy price today is $0.2662 USD with a 24-hour trading volume of $38,569,004.34 USD. We update our CNPY to USD price in real-time.",
       "sources": [
-        "Tori News"
+        "CoinMarketCap"
       ],
       "article_urls": [
-        "https://www.tori.ng/amp/326741/mikel-says-ronaldo-made-a-big-mistake-by-leaving-p.html",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZ1h0MU9GSTh6d0hMYXVUZi1KTDB5OEEzZ2w5ZkJ1Q2FreWx6N1Fod19JbXBGQll3MkZFZUR1OUdLbFY4el9hdUlVdjhwOGliOWVnWElfQUVNSXVlNERLMjdjeHZ6UEhwbjJ2NDJHQTZTNUwzSE1Nb1JPOHVUNFNPaDZKSFE2ajdGNEx0RVhWVdIBjwFBVV95cUxQZ1h0MU9GSTh6d0hMYXVUZi1KTDB5OEEzZ2w5ZkJ1Q2FreWx6N1Fod19JbXBGQll3MkZFZUR1OUdLbFY4el9hdUlVdjhwOGliOWVnWElfQUVNSXVlNERLMjdjeHZ6UEhwbjJ2NDJHQTZTNUwzSE1Nb1JPOHVUNFNPaDZKSFE2ajdGNEx0RVhWVQ?oc=5"
+        "https://coinmarketcap.com/currencies/canopy/",
+        "https://coinmarketcap.com/currencies/kamirai/",
+        "https://coinmarketcap.com/currencies/pearlresearch/",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zRS1IOEt4Uzg1TFBKeXMtRE9BbzJVVkJHZXVZVnlwS1hpQ3lBSDgzNFpUWFFQdlYyT2JpUHJnaWtRMWIwZXBsajVXaUpoRTF2TE0wVmotSjA?oc=5",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42Q3FGb2NpalhpR19ZSUlwUi04dWJhM3R0c0hCV3NGYi0xSHNvakNLcm1PTG9aV19ILTZWaFphbWM5NzVZTU9GZ1BjWmlaVm5CakdpcjkzR0NJTzdMdVJXbA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQWxRZm1VamZ0UVhLTHM2TEJMbG9BbjZpUGlCNmI3TndQSHhZS3czdzRqMHk5LTdqWjE4cS10QmhtVVd2MjRUMmxDM2RuNi1DaTNmWV9WWFJGaTU2ZG5mUlFHQ0pRbnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIVEJ4V3oyZ3FWczlDSTFWSWotYzhDUm56U2drX084TTVPODNGQ3dTdVdJemdDVEF3aVJsVC1FQV9BMmliQkRYN29GV2dTbjFRUl9aWnFoRXl5UHZyR2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRnZKOG11U0hyblJwd3l0Z3VKRGlxc3l3a3RnczVBbGstMGtLbTlSU0gyRGVULWp5WGNGc2VCNG5rcmtseDhEbnA5Q0FIVTUzWkNMWjBudw?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:02:37Z",
-      "published_at_ist": "2026-10-14 14:32 IST",
-      "first_seen_utc": "2026-10-14T09:02:37Z",
-      "age_minutes": 60,
-      "trend_score": 11,
-      "rank_score": 0.828,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Cristiano Ronaldo"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.tori.ng/userfiles/thumb/2026/oct/14/bb/b_326741.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "41f4bf13d4",
-      "key": "1-75-barbado-buy-cancer-equipment-gave-gra-hospital-memory-million-rihanna",
-      "headline": "Rihanna gave $1.75 million to buy cancer-treatment equipment for a Barbados hospital in memory of her gra",
-      "summary": "https://timesofindia.indiatimes.com/world/rest-of-world/rihanna-gave-1-75-million-to-buy-cancer-treatment-equipment-for-a-barbados-hospital-in-memory-of-her-grandmother-14-years-later-the-oncology-centre-is-still-delivering-radiotherapy-and-chemotherapy/articleshow/In 2012, Rihanna donated $1.75 million worth of medical equipment to Barbadosâ Queen Elizabeth Hospital in memory of her grandmother",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/world/rest-of-world/rihanna-gave-1-75-million-to-buy-cancer-treatment-equipment-for-a-barbados-hospital-in-memory-of-her-grandmother-14-years-later-the-oncology-centre-is-still-delivering-radiotherapy-and-chemotherapy/articleshow/134937410.cms",
-        "https://news.google.com/rss/articles/CBMikANBVV95cUxOa1dDbjlLR0Y0bEVzSlc3VGpoRUJYekFLNFVJYlFtQV9PVXZ2MFZnMk5VZzk4U1RwbjRfOWIyTUZJM3EwUlB6LU9MS25talNlX0cyc0RxdUdyMGhPem5TaTNjb3NjNldMaEVQejRfSERFQXhsdWR4dWIwU1IyN1haZ0IydnF5UWdHSGhqdU5HbWRka0tFQlB3RklWU3RpeGVwUFZLXzBKVHNIX1ZSRHZKZkVzdHFENmJvdW82eHdNS2QycU5jOFkyQWpORU1Oc3NMSGlWVklkMlI3WC1EREY1MC11aWtUZkhRVlpSd2ZfODlpX1NvRnRleE9Vc25EUVBIdWxMLTYzNmxMSHc4Y0dIbERWZDdoaUhJNnI1TkRTTEE2V2ppNVNwbTNNVVR0WmtLTXZuU2VMQmtoMWR1bk12c2t1V3hna0tzNlRlaG1KUjFFQmtYSjhJMFpETUFmUEFITGJqU0U0Zk8yVkprdldUZV9jaHZ5SngxN3ZQVHJ5b29kXzdPcVBRcVMwZWVrMlJ10gGWA0FVX3lxTE90VmhwY0c3bmllbG15bFJLSERKZEtSa1dVVGFtTXczVGZ6LVAtNm54SWQ1b2MwNEhYOWd4MzhlYS1rWjNsczN0b0RCb0p0bDhwVFpoNVVJRWRleU1NTWZWczZvMDFaNzFTOHZFekxvaFl3WV82dWdadUlFSlo2X3I2VVVQUFU2UGlvU1hwT3ZrUGRodG44aGNhWGhSNzI0RkdMM2R0YnM3a3NrcUR6XzZhRl9oVHI0c0NxaU82cUJaaEhFczUxZ1NCN0k3ZTZmYk9PUUt6bVNsUnBQZzNhc3lwVTBCN1g3YklmOUZTeEFjVkE1azQ0TklXYWp1bmVtYVl1Tl9LbHdnQ294SEJpUWdUb3owWjNUbFFJa09xblJGME1JMXljcTRRVjkzc3JSNVNsaDE3eUE4SFJGT29qZnlSWGdNdDhjcDV4dm83TE8weGhCb2VJMkFLVXNSQWJ6blg5U01tZUdLZzJhWjVQS09EaWh5elliRGlpYkUxb2x6NFJqaGN0V05JMjZ4akh0SW1YWC16eXc?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:42:00Z",
-      "published_at_ist": "2026-10-14 15:12 IST",
-      "first_seen_utc": "2026-10-14T09:42:00Z",
-      "age_minutes": 21,
-      "trend_score": 8,
-      "rank_score": 0.8144,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Rihanna"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134937486,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "34d427f631",
-      "key": "bagga-bhatt-join-kohli-mahesh-naam-narayanan-pahariya-prashant-sharma-shefali-starring",
-      "headline": "Prashant Narayanan, Vijayant Kohli, Shefali Bagga Join Mahesh Bhatt’s Naam: To Live Is War Starring Veer Pahariya, Varun Sharma",
-      "summary": "",
-      "sources": [
-        "Bollywood Bubble"
-      ],
-      "article_urls": [
-        "https://www.bollywoodbubble.com/bollywood-news/prashant-narayanan-vijayant-kohli-shefali-bagga-join-mahesh-bhatts-naam-to-live-is-war-starring-veer-pahariya-varun-sharma/",
-        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZWRQc2VKLXZrVW5NWS1xRjgta1pLODZ6cVNNS20yMW1HY01qOU9Lb3VUem84YkxPcTJiaDFmWnJqTHpRNFQxOGZkbTVyeDJxakFUSnBzOWl1ZXh2ek40MGIyTkxWYzU0SHR3ZTFHdlphdFNybnRmMWhzS1BpamtDTlZuY0FPNHpFZVp6dTdSS1lDbUtBVVpST2xQU3p5Vk9ZalFXRGNIRTJNbTRtUkVhclJJUWxKdXpBaVVVYnU4U2VRc1ByRVBWM1kyYWdJV2tJMWljYXZwOWpUcDV5Y05NVDktNnQ1ZDVVVVZVRFROd3lnbEtZVk5JZGY3RU5FTFU?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:51:50Z",
-      "published_at_ist": "2026-10-14 15:21 IST",
-      "first_seen_utc": "2026-10-14T09:51:50Z",
-      "age_minutes": 11,
+      "published_at_utc": "2026-10-14T12:15:16Z",
+      "published_at_ist": "2026-10-14 17:45 IST",
+      "first_seen_utc": "2026-10-14T05:00:09Z",
+      "age_minutes": 81,
       "trend_score": 7,
-      "rank_score": 0.8039,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Virat Kohli"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music",
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "ee5e052254",
-      "key": "0-10-agent-auth-aws-bypass-cvss-loom-plane",
-      "headline": "Loom for AWS: a CVSS 10.0 auth bypass in the agent plane",
-      "summary": "https://www.orcarouter.ai/blog/A missing authentication check in Loom for AWS gave any network client super-admin over the agent control plane. NVD scores CVE-2026-103956 at 10.0.",
-      "sources": [
-        "OrcaRouter"
-      ],
-      "article_urls": [
-        "https://www.orcarouter.ai/blog/2026-10-02-loom-aws-agent-control-plane-cve-2026-103956",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX0t3T0x3ZzNBRzA5SXFYNEEzNVJWancyYVJueHl4TW9YYzRWWE1GTUl1em5SbFY2U0VWcE1hOTFIc0ZjSXVPRUxMa3VWOThaanlRVUE2T2p2Z0dPSkxLWXVhZ2dJNmkzYk8ySmVCbEpMM1B4SnVfYzNVaDREZTRxWHE1VkdDYm90QnB0Nzdzdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:40:05Z",
-      "published_at_ist": "2026-10-14 15:10 IST",
-      "first_seen_utc": "2026-10-14T09:40:05Z",
-      "age_minutes": 23,
-      "trend_score": 6,
-      "rank_score": 0.7425,
+      "rank_score": 0.7156,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -747,87 +818,95 @@
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Kamirai price today, KAMIRAI to USD live price, marketcap and chart",
+        "Pearl (pearlresearch.ai) price today, PRL to USD live price, marketcap and chart",
+        "Catecoin (cate.meme) price today, CATE to USD live price, marketcap and chart",
+        "o1.exchange price today, O to USD live price, marketcap and chart"
+      ],
       "image_urls": [
-        "https://cms.orcarouter.ai/api/media/file/1-2096-1200x630.png"
+        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "3893e69fc6",
-      "key": "hormuz-intellectual-strait-survive",
-      "headline": "How to Survive the Intellectual Strait of Hormuz",
-      "summary": "https://www.christianitytoday.com/2026/10/artificial-intelligence-human-training-bias/Don’t think AI is just a kind and excellent librarian merely serving you.",
-      "sources": [
-        "Christianity Today"
-      ],
-      "article_urls": [
-        "https://www.christianitytoday.com/2026/10/artificial-intelligence-human-training-bias/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUl9OZzlDRG9Oa2gwM2lZdGlpNjZjTEh4TFAyNXJDNGJLTGN4d0NpYXhjeUdIS1VfbHVfX3NjY2l3UGU5eE01SWdjajJLYUw4OWVPWFdDNDZhMGUxa3NzS1hWaE5uaVZseDVqdjFoVV9vajlJaEJpNmEzRUNtajFnVnFweVRrTXVnbXV2OFZ2UQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T10:01:06Z",
-      "published_at_ist": "2026-10-14 15:31 IST",
-      "first_seen_utc": "2026-10-14T10:01:06Z",
-      "age_minutes": 2,
-      "trend_score": 5,
-      "rank_score": 0.7353,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.christianitytoday.com/wp-content/uploads/2026/10/survive-ai-strait-hormuz-intellectual.jpg?resize=1200,628"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "1dea290ddf",
-      "key": "22-agent-did-dinner-got-party-people-together",
-      "headline": "22 People Got Together For a Dinner Party. So Did Their A.I. Agents.",
+      "id": "5afb0a3f52",
+      "key": "cancer-cause-common-here-infection-lower-risk",
+      "headline": "These common infections can cause cancer. Here’s what can lower your risk.",
       "summary": "",
       "sources": [
-        "The New York Times"
+        "The Washington Post",
+        "Time Magazine",
+        "Clarin.com",
+        "Bonner County Daily Bee",
+        "Oncodaily"
       ],
       "article_urls": [
-        "https://www.nytimes.com/2026/10/14/technology/22-people-got-together-for-a-dinner-party-so-did-their-ai-agents.html",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQam5va0RybFhNSkFfTTlkQno5bU5QQjZ1bnZKcTNwWlVIN3gzdWd3blZSRXEwaHhsZS1oMndfNDJybEJ2R3VfU2RqZzM3ZGxObS1FQmY0bk80RmVSMjNTMklzRmZlaHJaN0ZYb0hwZDAwaVNCTkd6eXlTU1M1TWM0WEpCX29FWUh3Tl9RVFpGeE5oeG04TE9sbzk0VDN5NXpYWjZXNGxKdkM5ZS03YWxyQ2NHckJ6UQ?oc=5"
+        "https://www.washingtonpost.com/health/2026/10/13/these-common-infections-can-cause-cancer-heres-what-can-lower-risk/",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YdjBmbkdOaVdZeHBsR1FnRUpoVU55Y2lnbGktaHU4MXdOQlRNNjRXUWk1VzF0ZW1HUl9NMVFtZjYwY05acXJ3SElvVUMtdkFpTXpfby1MMXRGRHhxTlVtLURZdm9fS2VEcUhjU2RfMFVrS2VFQUUzT0ctR2w2QnM?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVnJLVkRYQlBYc3k4U0h6a1ByMXk1a29YRDRGWWJmbk52bFNZaDR1RFpGcjlZLWlVd2ZFN2FTWUJScEltMVVvN2gxRlRxV2hhU194RWFjSEZJTXlaLXY2VkYzdmFzckphNk9TV1BMb1pTSldicjU5anFlQXNTeHU1MFR0SjFSdXhkTlNMemZVX2NxSGF2UFJMX0FvQTF1SDlEVkJOcHFldGRxdWpFWHh6VFFCN1F1TmNrYlhXM1dQcnVWc0F4V1V6aXNaeF9QLVhiZ3ZDcW9BMkxWOFVrYklGeS1VbHfSAeoBQVVfeXFMUHlYTUh1WUczd0QxUG9pUk1ab0JLN2JBUG5BX0NBZUg0NHZLdmNXTmZkTkJUdDc2anVNb01zdzhsZ2NNZVNqS0FmZW5VbVItWjhsSGJVRExLTHZQc01aSEdlSG5zclV5d0NZT1N2TW9PVTRNRE5pWUpNa0lnRTI4eVk3SnlQUmFaTml5eFJUcm1VVzB3emVuQi0yNEhGTmQtbUJyQ09xY1BHTEtTbTlTSXdGdXhqYkZQR29rZkhLLUk0SkZrQ2VWSklZLTZrZXpZU01GTXd1eGhNRTBtTEs4S0twOWtUQk8zUVh3?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVEJWNERNV29QakZPbTdpLWVLZ19ZZHl5d1RST1NhS3dvbUxKZnpDa0lzV3FDRVJ2QUJseEwwWXBDb3FwYldLVndpcEVYQ0ctVFVrMzdKRkU1RkdqTm9XNTlPNFljNE9mSXpIaldZR2dUTHNoSXFGaURYNmRRaXozOENEeVF3VXVvbXBMd0dRTS1VWFhsMFBQYTFfMGxhajc1ckNXMDdNd05QUEtURzExTHpXYVowMm45?oc=5",
+        "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVWVsaEN6MnpNdDRzRjcxZ2FIOFhUQW9BcVhXU0QycXp4eXRpZTY4NWdNcDBfRTNIcG9wMzN0MUZBT05qbTl6Z2xMSTduMlJiazVOS0c2eFdQeGNnX2p5akp3?oc=5"
       ],
-      "published_at_utc": "2026-10-14T09:01:19Z",
-      "published_at_ist": "2026-10-14 14:31 IST",
-      "first_seen_utc": "2026-10-14T09:01:19Z",
-      "age_minutes": 62,
+      "published_at_utc": "2026-10-14T12:31:32Z",
+      "published_at_ist": "2026-10-14 18:01 IST",
+      "first_seen_utc": "2026-10-14T12:31:32Z",
+      "age_minutes": 65,
       "trend_score": 6,
-      "rank_score": 0.71,
+      "rank_score": 0.7075,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "5e75411103",
+      "key": "1-back-code-inditex-open-platform-source-€",
+      "headline": "Inditex Open-Sources Code, Backs €1.7B Platform [2026]",
+      "summary": "",
+      "sources": [
+        "https://tech-insider.org/"
+      ],
+      "article_urls": [
+        "https://tech-insider.org/inditex-open-source-software-strategy-2026/",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrdWVUMWVRa1FlSXZyNUFGb28tMWFTSWdCdTlJcWhQZF9zOThLZ3FKb1k1VmtxaWNkOEwwa2lyaG01aVlKZTJvSVI1eXVpR1oteUN3LXVqTGJQUHpIUHZKcnUwT3g5UU5JYkcyTlczNkJEeGJnX2lj?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T12:38:18Z",
+      "published_at_ist": "2026-10-14 18:08 IST",
+      "first_seen_utc": "2026-10-14T12:38:18Z",
+      "age_minutes": 58,
+      "trend_score": 5,
+      "rank_score": 0.6886,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "US"
       ],
       "language": "en",
@@ -841,48 +920,6 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "8cb262c0a7",
-      "key": "agent-core-criticized-harness-integrate-long-mcp-system-unveil",
-      "headline": "Pi Unveils New Agent Harness: Integrates Long-Criticized MCP Into Its Core System",
-      "summary": "https://eu.36kr.com/en/p/The Pi platform, which previously publicly declared \"no support for MCP\", has officially launched the MCP (Model Control Protocol) feature alongside a brand-new Harness suite to expand its ecosystem capabilities. This latest update marks a major strategic shift for the platform, delivering a more integrated, efficient operation and development workflow for global tech deve",
-      "sources": [
-        "36Kr"
-      ],
-      "article_urls": [
-        "https://eu.36kr.com/en/p/4025329229631363",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40d040S1dXOG9hMWUyRXVucTBfSkQ0eEsyeHpXdjQ1d19qbFRvNTJyY3h1TUE5YVVXdnh2MTM1MXVBaVpjYWhzMk9hQzE0ZnhvalRn?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T09:30:21Z",
-      "published_at_ist": "2026-10-14 15:00 IST",
-      "first_seen_utc": "2026-10-14T09:30:21Z",
-      "age_minutes": 33,
-      "trend_score": 5,
-      "rank_score": 0.7095,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://img.36krcdn.com/hsossms/20261014/v2_7af2b3af5edb4215ba9bcce79fe6a9de@000000@ai_oswg536323oswg2304oswg1728_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg"
-      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -901,9 +938,9 @@
       "published_at_utc": "2026-10-14T08:00:15Z",
       "published_at_ist": "2026-10-14 13:30 IST",
       "first_seen_utc": "2026-10-14T08:00:15Z",
-      "age_minutes": 123,
+      "age_minutes": 336,
       "trend_score": 5,
-      "rank_score": 0.6985,
+      "rank_score": 0.632,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -940,59 +977,6 @@
       ]
     },
     {
-      "id": "8a3ec239d2",
-      "key": "canopy-chart-cnpy-marketcap-usd",
-      "headline": "Canopy price today, CNPY to USD live price, marketcap and chart",
-      "summary": "https://coinmarketcap.com/currencies/canopy/The live Canopy price today is $0.285 USD with a 24-hour trading volume of $38,836,997.25 USD. We update our CNPY to USD price in real-time.",
-      "sources": [
-        "CoinMarketCap"
-      ],
-      "article_urls": [
-        "https://coinmarketcap.com/currencies/canopy/",
-        "https://coinmarketcap.com/currencies/o1-exchange/",
-        "https://coinmarketcap.com/currencies/gensyn/",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zRnZKOG11U0hyblJwd3l0Z3VKRGlxc3l3a3RnczVBbGstMGtLbTlSU0gyRGVULWp5WGNGc2VCNG5rcmtseDhEbnA5Q0FIVTUzWkNMWjBudw?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIVEJ4V3oyZ3FWczlDSTFWSWotYzhDUm56U2drX084TTVPODNGQ3dTdVdJemdDVEF3aVJsVC1FQV9BMmliQkRYN29GV2dTbjFRUl9aWnFoRXl5UHZyR2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE84bHQ0QVZPS3pKVDVZZUFkZWJtcGNhZGNIcFpBRnA3TW1LeDZVZzJ2S0xyZDdfLWRwN003X1VOVWR0WW9YTnVuN29vYU1wUzhIcHFCbUJqMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Yc2stZ2EwWGVjWVhMQjFOS0ptX1AzLVc2aVpIbUhNS3I1NWRvNldvUllBMmQ3dTVZV1h6RV8yYTVqcDdLNnRfUjRrYjNFbFlxQjlCdktMOWZ1YXFvSGo1Ng?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRVNmemluY3UxQU93eG5Iem9qWnFUVmZPTHdFZ0wyRDZFWEYwOTBSX3huMEh3VUc3bTRPUDBldGpUWEh0UjRFdFRwZVBQbTlHTnZwZ3Z4RGZqUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T08:49:58Z",
-      "published_at_ist": "2026-10-14 14:19 IST",
-      "first_seen_utc": "2026-10-14T03:24:29Z",
-      "age_minutes": 73,
-      "trend_score": 5,
-      "rank_score": 0.6761,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "o1.exchange price today, O to USD live price, marketcap and chart",
-        "Gensyn price today, AI to USD live price, marketcap and chart",
-        "Zest Protocol price today, ZEST to USD live price, marketcap and chart",
-        "KiiChain price today, KII to USD live price, marketcap and chart"
-      ],
-      "image_urls": [
-        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "cf10e622b2",
       "key": "fridman-huang-jensen-lex-taiwan-visiting",
       "headline": "Visiting Taiwan w/ Jensen Huang | Lex Fridman",
@@ -1006,9 +990,9 @@
       "published_at_utc": "2026-10-13T21:26:16Z",
       "published_at_ist": "2026-10-14 02:56 IST",
       "first_seen_utc": "2026-10-13T21:26:16Z",
-      "age_minutes": 757,
+      "age_minutes": 970,
       "trend_score": 5,
-      "rank_score": 0.6504,
+      "rank_score": 0.5838,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -1045,6 +1029,48 @@
           "is_short": false
         }
       ]
+    },
+    {
+      "id": "3893e69fc6",
+      "key": "hormuz-intellectual-strait-survive",
+      "headline": "How to Survive the Intellectual Strait of Hormuz",
+      "summary": "https://www.christianitytoday.com/2026/10/artificial-intelligence-human-training-bias/Don’t think AI is just a kind and excellent librarian merely serving you.",
+      "sources": [
+        "Christianity Today"
+      ],
+      "article_urls": [
+        "https://www.christianitytoday.com/2026/10/artificial-intelligence-human-training-bias/",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUl9OZzlDRG9Oa2gwM2lZdGlpNjZjTEh4TFAyNXJDNGJLTGN4d0NpYXhjeUdIS1VfbHVfX3NjY2l3UGU5eE01SWdjajJLYUw4OWVPWFdDNDZhMGUxa3NzS1hWaE5uaVZseDVqdjFoVV9vajlJaEJpNmEzRUNtajFnVnFweVRrTXVnbXV2OFZ2UQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-14T10:01:48Z",
+      "published_at_ist": "2026-10-14 15:31 IST",
+      "first_seen_utc": "2026-10-14T10:01:48Z",
+      "age_minutes": 215,
+      "trend_score": 5,
+      "rank_score": 0.5578,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.christianitytoday.com/wp-content/uploads/2026/10/survive-ai-strait-hormuz-intellectual.jpg?resize=1200,628"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
     }
   ]
 }
