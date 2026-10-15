@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-15T21:16:23Z",
-  "generated_at_ist": "2026-10-16 02:46 IST",
+  "generated_at_utc": "2026-10-15T23:19:45Z",
+  "generated_at_ist": "2026-10-16 04:49 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
-    "feeds_ok": 88,
-    "feeds_failed": 1,
-    "raw_items": 5949,
-    "fresh_items": 5023,
-    "clusters": 2252,
+    "feeds_ok": 89,
+    "feeds_failed": 0,
+    "raw_items": 5796,
+    "fresh_items": 4859,
+    "clusters": 2149,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 102,
+    "youtube_uploads_fresh": 98,
     "youtube_items": 3,
-    "famous_items": 6,
+    "famous_items": 4,
     "trends_terms": 40,
-    "page_fetches": 48,
+    "page_fetches": 44,
     "with_video": 8,
-    "runtime_sec": 34.1
+    "runtime_sec": 32.4
   },
   "categories": {
     "famous_clip": 3,
@@ -32,134 +32,291 @@
     "other": 6
   },
   "top_trends": [
-    "tyler ulrich injury (US 200+)",
-    "azusa fire (US 200+)",
-    "siameses (US 200+)",
-    "fire near me (US 200+)",
-    "ranabaali review (US 200+)",
-    "dinamo zagreb (US 200+)",
-    "europa league standings (US 200+)",
-    "varonis (US 200+)",
-    "green bay packers running back trade (US 1000+)",
-    "mcdonalds boo buckets 2026 (US 500+)",
+    "tsunami (US 500+)",
+    "911 (US 200+)",
+    "cnn news (US 20000+)",
+    "juju smith-schuster (US 200+)",
+    "fire (US 500+)",
+    "east carolina vs uab (US 5000+)",
+    "ga southern vs old dominion (US 2000+)",
+    "flyers vs red wings (US 1000+)",
+    "islanders vs senators (US 500+)",
+    "aatu raty (US 500+)",
+    "up (IN 1000+)",
+    "shah rukh khan (IN 500+)",
+    "flash flood risk (IN 200+)",
+    "समाचार खबरें (IN 100+)",
     "character ai (IN 100+)",
-    "mp (IN 1000+)",
-    "from (IN 100+)",
-    "mantar jantar game (IN 100+)",
+    "dow jones share bazar (IN 100+)",
     "cole palmer (IN 100+)",
-    "mammootty (IN 100+)",
+    "mantar jantar game (IN 100+)",
     "marseille vs olympiacos (IN 200+)",
-    "juventus (IN 500+)",
-    "roadies (IN 200+)",
-    "dil padosi (IN 200+)"
+    "juventus (IN 200+)"
   ],
   "items": [
     {
-      "id": "c0a143c56d",
-      "key": "a24-alex-film-garland-sci-star-zendaya",
-      "headline": "Zendaya Will Star in Alex Garland Sci-Fi A24 Film",
-      "summary": "https://nerdist.com/article/zendaya-will-star-in-alex-garland-sci-fi-a24-film/Zendaya is apparently not taking a break, because she will star in an A24 sci-fi film by Alex Garland, which is set to shoot in 2027.",
+      "id": "37ec171aa3",
+      "key": "batman-matt-part-reeve-replacing-soderbergh-steven",
+      "headline": "'The Batman Part II: Steven Soderbergh Replacing Matt Reeves",
+      "summary": "https://deadline.com/2026/10/steven-soderbergh-the-batman-part-ii-1237158482/Steven Soderbergh will work with Matt Reeves to help finish principal photography on The Batman Part II.",
       "sources": [
-        "GeekTyrant",
-        "Nerdist",
-        "Gold Derby",
-        "IMDb",
-        "Film-News.co.uk",
-        "KS95 94.5",
-        "Facebook",
+        "The Hollywood Reporter",
+        "Deadline",
         "Dark Horizons",
         "IGN",
-        "MovieWeb"
+        "Variety",
+        "IndieWire",
+        "People.com"
       ],
       "article_urls": [
-        "https://nerdist.com/article/zendaya-will-star-in-alex-garland-sci-fi-a24-film/",
-        "https://geektyrant.com/news/zendaya-teams-up-with-alex-garland-for-a-mysterious-new-sci-fi-movie-at-a24",
-        "https://www.goldderby.com/film/2026/zendaya-a24-oscars-alex-garland-barry-jenkins-ronnie-spector/",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYjBSLWNwYWZVdHJVdklneUF0LUJRdHBNRkpWR2hxUkIzYmY4WEhTVFZEX3hDb0ctZVViRkRid1ZOdFZ4QmdLUG0yci1kd3dDM1dNcnRfTDktMllIRVlyb1Fva2Eza25GLUIxck9xVmFsVWM1QVdtVnBTYzhuZHAtMWFrdEhlWF9IbU54ZVVsNWVoY1IxR0ZqcGM5X3lyV2Ntby1Bc0pB?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjM1T0RJSTM5WEwyTTlsNDZYYm5HZU95NG42UE5VYURTczc2ek1OMWpSTlB5MHBWYjl3SkRYSWhnZE5HZVFSdnVZajUxSlNObW84VnF1N0RFaTRjVDYxTXdkRXFVOWo4YllFQW9faUtIM091QVBaaG9PRUN3ZkNybTR1ZGs?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0ppOWNRckwzaXd1TTgtYzdkZHlhVlRiVFJkNkROMW5TOEN5WHdGbTFEc1RreXlYTmhwZ29xWFJQMS14Z1FrWE5pWlFuUkRQZHpBT1hCbU1KRlhUdUNabGhuVThmdG5MUkFrQ0ZHdjl5UDlGQXd6OHU1Z1hqQVdqdWwwTDk4R2ZmRl9DOXhUUWdaTHpfVndqeXY1UG5XQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rQVBQMWZrR3EwelctMGsyUXZ6M3psNnJwS2FsWFNpTXUzSEVGcVpyS0pSNFBELUZoWTVyRGVSdnpZR0RmN1RFVVRPeUNab0J6Nl9YclN1eV85UXFkaThON0FiWnM?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGVXV3JQcDVTdklpR1lVbDV2U3BVSUk0NnlnSjBBTkxmMG93Tms5MS1DTmFYWFdPbXVIWUpuVkFkNW1IQWFQbzE3aXdzZFc5SElpN3gyVVhjUFZ2RmlTODVEN0Y3eW9DaTVFMjNhbW1mUUtDSEE1cURaRUswWXo3Mm4yQUF5V1lWam5fZGJnOWZaR0NNWmZFREEyMnN6aFF0dV9z?oc=5"
+        "https://deadline.com/2026/10/steven-soderbergh-the-batman-part-ii-1237158482/",
+        "https://www.hollywoodreporter.com/movies/movie-news/the-batman-2-steven-soderbergh-replacing-matt-reeves-1236732936/",
+        "https://www.darkhorizons.com/soderbergh-to-finish-the-batman-part-ii-filming/",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd2gzaU1IeFNYRlRCbWZLQ2p6SV9Mc2JRdlFKYnJRRVl6a0JBOGo1WE84aS1iZ0pRb04tVS01Q3F1TG1sc1F2bWFsWGhQaEtaM0lFZVdiWUZVSW91M2NILVBpN0hSa3l3cGNvWjhMZmVRbWNmRm5iQ25lQTZGQ2xUZU82S2x0NHJ0OTAtNXlpX1NwZ1d4OFJiRW53MVFaRnViQmFqT293NWxkSTdmSzJpSUFzM0FEXzQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeFJMS1BwMVNVN3JrXy1MN3ZLRzAwRWNPVHBONU5lVmlEQUJCd1hfSjc0M0psVjF4N2FqanQ0dUdORVE2ZU5OX1FqM29XN294THNwamtuamhNXzdXYXZSb1FURDhLTlVkYVhxWmdKcklqLUd1Z3puUnI3Qm1QZmpIOTFXRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdkhiRjk4X0RYMGpOck42SnRVbzVFTXk1akR2RXJ6UW1aY3FpRFRBMVg4NlpLN2tlVzlRWTBRbnE3OXd6TWdqbmlnYW9hWnkzZDJ2dHl5ZExMcHNPQzBsQi1jUHcxV1V6MDRKZFdlczBEZjFGZEY0eWZJZFAwWXJlZ3dLVQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXZOYW1MeU1YelZmd2h5ZTVzRXBSUzhOTVk2LW53SFNJTWl6Tk04bGNUb2RGUW9DTmdxTmJ5blhoWDRBVHBpN2R5LXRTcjZ4ZDJzU3MxZTljYVRMSkt5R3hFTUkyZ1FNbWw2QjRNcHQtMk5INkZpeXpUNVJSY3pJSkFvTldERWhJNGFDZzlfSWs?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOXy1oSW5MUnQ1dFFWN1lYUkI5U0k2SXBLd0Z3eVhKRjZmcVNWSm1UNk9XZ0hZUE9aSlItV1JPeVhybTVpOFJWd1B2d2VVSVNYT2c3Z0pwbkFKWFdxSkpyTzVsYUlUSlh2c19Cc0I4S3czOElIdHYtbzZ3Z3BTS2syaTJ5X3NlX3BLT3ZNRVZfVW1pRkM0Z2VOeDIwbkhuS2dfQkR3MkJ3cks?oc=5"
       ],
-      "published_at_utc": "2026-10-15T21:00:00Z",
-      "published_at_ist": "2026-10-16 02:30 IST",
-      "first_seen_utc": "2026-10-15T13:00:00Z",
-      "age_minutes": 16,
-      "trend_score": 35,
-      "rank_score": 1.1367,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Zendaya"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Zendaya Teams Up With Alex Garland for a Mysterious New Sci-Fi Movie at A24",
-        "Zendaya + A24 = Oscar? How her upcoming films with Alex Garland and Barry Jenkins could be a path to gold",
-        "Zendaya lands mystery sci-fi blockbuster with Alex Garland",
-        "Zendaya to star in A24 sci-fi film from director Alex Garland"
-      ],
-      "image_urls": [
-        "https://cdn.nerdist.com/wp-content/uploads/2026/07/30080823/Spider-Man-Brand-New-Day-MJ.webp",
-        "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6ad0d7566dfc4d7c1af8b2f4/1792098059577/Zendaya+Teams+Up+With+Alex+Garland+for+a+Mysterious+New+Sci-Fi+Movie+at+A24.jpg?format=1500w",
-        "https://www.goldderby.com/wp-content/uploads/2023/08/93rd-Academy-Awards_Zendaya.jpg?w=650"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=wBPA9uw7WGM"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "14240fe307",
-      "key": "announce-earth-greatest-show-tour-world",
-      "headline": "U2 Announces The Greatest Show on Earth World Tour 2027",
-      "summary": "https://www.premierguitar.com/news/U2 Announces The Greatest Show on Earth World Tour 2027",
-      "sources": [
-        "BroadwayWorld",
-        "Umusic",
-        "Music-News.com",
-        "Premier Guitar",
-        "Billboard",
-        "Far Out Magazine",
-        "Rolling Stone",
-        "New York Post",
-        "TicketNews",
-        "Irish Independent"
-      ],
-      "article_urls": [
-        "https://www.premierguitar.com/news/u2-announces-the-greatest-show-on-earth-world-tour-2027",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQX291UjlRWDhhT2IwNmgwcTBLc2o2T2c5VnBHWV9FVWVvNTFxOElidG52bzJtUXU2LTNrVVZRblpuVEl3X3FQYTFxTC1iNk9vTVZUSXl4cWExcllHRlptOXYtUlNVa1I2YmdSVkxyS2hfQ0xHMVV6MmxSZUVCcnBSazI2Q0FINkhORU5qTUc1XzBzempmcUROc2FFN3J3WmNfMDNVSVRBRmgycW5MUGxJMlBQLVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxPejZ4SWFOV2VwOEpieTdEcERqOXZwb2xadzFoYmFIc0FseVpYeG1RYjdkX2FlRkc4UlFGdXA0S2ttMU04Ti1aNDJRM1BpbS1QUlN1NzdRTThvemNhOThzaWEwWDBaYXppLXlCbEtLMXZwWHdxa1NXSjRXOWRTVGRGTXg1T2JwRkxYaGF6Q2Q1WGVYaWM0cWpBUW1CRTBILWkxajhlM2x0SkU5bzRoTkVKemRra21iTTgzWmJTOFVXWmlRQ3ZuMmUwSFRYUHo5Q3hmUDFRd0Vad241QlVXSDZQeDJUZF9DTkx6RkhFMFJubHhIN21sek1DNkVzSDNfdGhGTU8tWDBuWTA1YmVzODdpdQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTFJxRjdyaE1hNE5ELWxHRVQwVTM4RzNON29sNklhOEN1dU1aME9UT3E3VWd2NHE3U2dwWms1blVOdlVhV05xZVpJcXROQlRWaTdIRkcwQXRYU2dPMVZSb0Via2ZtX2ZXZF80d3Bobkd1ZHQyUEhMSVRTNjhxOGRRNGx5Z2pLaVAw?oc=5",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYm9FdkhKR3ktYllZTEptbmFaWmhnMl9UNWxVal9VM0dMN183NHZkWTNaUnRJbDZ4dHhQaldYNGxpWHc3Z3dDNW1zdm9YQzNqUWF5UnNfdkdJWlBpNFN5SDVicmFUVkZabTFxRUpLczhMcEl4QzUwN2VWVERlRXpDVFZDejFxcFJfeEFBekZPZ3dTamJH?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcEVBU0I4Vy1FNlZXZHhiUWphbDM1Z3NKWTVNcjZxRk9sMDkwNEFBeV9JWUQ0MHpQME5reUptN1ZPc0laSFZvblZkbnBMSXQ2OE4zeDhUMVhYVzA0ZVFxS0swdVl0N2tjeDd5SWtGUVpaQTQyUDliaW9FMlVhZ3ZTM3JMckVkQWJ3QVpEY2t4UWR4aUI2QnZVQ0FiRjVNTmR0SThsMlBDYnZEUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdHdndVNaekt2eWN1ZTktT1pZdkh4VXpHeFVRbHl2eUZMS2RVaEt3UVphQ1RZTDdHTzM0MDRaOWh1cEl5NER4ZWoxV3hzS0ZISHZXRnkzNUJsQUhYTV9mZ2o2Ukh2XzlaekZzZGxRZDhFMlc4WUZFWHdhU18?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3RyMGJjcDNKWDVCTjExa3pmX2dRR3MtWm0xZGFkWE1fM25oRVpFV0RkdzVDdkVMd2FCYlNrcEVqYTRiX0hXV3VKX0pfaDNWc3c3eUZPS2ZQeno4LXNVWnVPdnZNM0tYTWl1cXJtZW1HT3ZqbDVXbUNFZjQ0TDBFWEtVb3h5eThFQkZLY1o2N3VmeFJoT05MRnQyVkRiMU5PYVg4UDVlYnlRUEFTc0NtRl93?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T20:18:22Z",
-      "published_at_ist": "2026-10-16 01:48 IST",
-      "first_seen_utc": "2026-10-15T15:07:18Z",
-      "age_minutes": 58,
-      "trend_score": 35,
-      "rank_score": 0.9517,
+      "published_at_utc": "2026-10-15T22:23:51Z",
+      "published_at_ist": "2026-10-16 03:53 IST",
+      "first_seen_utc": "2026-10-15T22:16:00Z",
+      "age_minutes": 55,
+      "trend_score": 14,
+      "rank_score": 1.0893,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
         "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "steven soderbergh (GB 1000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Steven Soderbergh To Help Finish 'The Batman Part II' Production"
+      ],
+      "image_urls": [
+        "https://deadline.com/wp-content/uploads/2026/10/Steven-Soderbergh-Batman-and-Matt-Reeves.jpg?w=1024",
+        "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/MCDBATM_WB060-H-2026.jpg?w=1296&h=730&crop=1",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgbzQJo9sWu36kEamXXjQND56vNYkaKiJ8QJR3hjkep4mOEZKZjz3Q2ggEYkw",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwsVJzA_XQVbH05WpSxO8RTxHGe6QXaouGHgI20SsTiqJ0OUetadKWvosW3mA",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmQ0XEsZ9bIhT2gqQ6cqsVjpt468pTcOpMR59GOj2VxRpWuWihbS1QRHaej3c"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "49a4983766",
+      "key": "cast-fourth-prime-reportedly-serie-violet-wing-xaden",
+      "headline": "Prime Video's 'Fourth Wing' Series Reportedly Casts Violet and Xaden",
+      "summary": "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221/Prime Video's 'Fourth Wing' has found its lead stars with Esther McGregor set to play Violet Sorrengail and Emilio Sakraya playing Xaden Riorson.",
+      "sources": [
+        "Collider",
+        "Deadline",
+        "IMDb",
+        "The Hollywood Reporter",
+        "Variety",
+        "E! News"
+      ],
+      "article_urls": [
+        "https://deadline.com/2026/10/xaden-violet-fourth-wing-cast-leads-prime-video-adaptation-1237156221/",
+        "https://variety.com/2026/tv/news/fourth-wing-tv-series-xaden-riorson-emilio-sakraya-1236905893/",
+        "https://collider.com/prime-video-fourth-wing-series-cast-violet-xaden-esther-mcgregor-emilio-sakraya/",
+        "https://www.hollywoodreporter.com/tv/tv-news/fourth-wing-violet-xaden-esther-mcgregor-emilio-sakraya-1236733258/",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdVlucEtETzlSWXMwY0ZxQmx2c0JhY2xuT3NFbElOV2ZkZGhjLUZRM0FLSjNvd09XRDhQNTZBOWViR19Cd3p2OUdZR0JZeHcxYUxTb2xKdEZQcjVmSkJCeThIaDkxVXg3Z1BQRlhvZERwcmdZRG5OYXlQNko5MEJSb3pMUmh3RUo2M3BSZG4tVnA4OWZZOXBBT2NlbU5rbFBRck84?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHUtc1h6YzV1WUsxeG5BbHFXZkpJaTB3NTY0THBFYl9WOGYxZ09waW04cGV2MGd3UnVTbUpTbXRObnZTS2NEd0N3YXJDbFFseXVSUzlNbUptOWJvWVh5eXhiVDRvaUx4TS1DcUdwN0lZaEpLVjF0QV9Ub2VKWmliX1M3UldSQWVtWV9NYzVRSEdTTlpBNTJRckFlQ05UNXFr?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83RFRaU3VZN3E2NkE0YTlnN0hmbjN6WGVjZmtlR3dmbFREV3JhY0xjTnhGak5KWHY1UVRzMThGcW9MdVc3SXNmNzRLbS1KRG9JWTRvdkp2WTlMSjd1WHhOWmE3bVFKeDA?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc01GZ1JhMGNOX3N0YjdiUnhVcmdhTXJsQVRpZmx4dkhfRUFmMTBZWFI2bjAyNzIzMGJrazN4ZGsxcFNYZDJhcFUxdlF5Nlh1NzZUWEZ4cmdQd1BpdjIwdE84Vlk4M1c2RDIySGJmTDB1Q1JQVmxxZmh4WGpfQnBsdnNjWXJOQzB3cm9uRkdOYjV5MnJkZDdsTGE5SnhyYUQtUGpoS3hfdV9yX2VESUdfTzl3?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T21:15:54Z",
+      "published_at_ist": "2026-10-16 02:45 IST",
+      "first_seen_utc": "2026-10-15T21:00:00Z",
+      "age_minutes": 123,
+      "trend_score": 13,
+      "rank_score": 1.0012,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "fourth wing (GB 2000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‘Fourth Wing’ Finds Its Violet & Xaden: Esther McGregor & Emilio Sakraya To Lead Prime Video Series"
+      ],
+      "image_urls": [
+        "https://deadline.com/wp-content/uploads/2026/10/Esther-McGregor-Fourth-Wing-and-Emilio-Sakraya.jpg?w=1024",
+        "https://variety.com/wp-content/uploads/2026/10/we-were-liars-premiere-2025-tribeca-festival-53rd-internatio-1000x667-1.jpg?w=1000&h=563&crop=1",
+        "https://static0.colliderimages.com/wordpress/wp-content/uploads/2026/07/the-fourth-wing.jpg?w=1600&h=900&fit=crop",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4-ylRqccdlXf5r-eTFsDDeTCmnzUxJi1jAz8dV072yFtI10S8S0szCt5yhFY",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSwWYcLJtg_enNpIGs_yqy1hRxnQ9YAv9t1LH11LNbrRDXA7EKYa8IcsaNJdA8",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9-33xnIdUDjfPDhoFhdXTo8i3kz69J5JAJ4Ro26doPjrAj4tPT6sNAiFtafI"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "2e2e975e36",
+      "key": "ahead-brendan-fraser-gets-mummy-release-sequel-title-‘-’",
+      "headline": "‘The Mummy’: Brendan Fraser Sequel Gets New Title Ahead of 2027 Release",
+      "summary": "https://www.hollywoodreporter.com/movies/movie-news/the-mummy-brendan-fraser-sequel-new-title-2027-release-1236733141/Rachel Weisz and John Hannah also reprise their roles in the latest installment in the Universal franchise.",
+      "sources": [
+        "The Hollywood Reporter",
+        "People.com",
+        "Variety",
+        "Deadline",
+        "Yahoo",
+        "Page Six"
+      ],
+      "article_urls": [
+        "https://www.hollywoodreporter.com/movies/movie-news/the-mummy-brendan-fraser-sequel-new-title-2027-release-1236733141/",
+        "https://variety.com/2026/film/news/the-mummy-4-title-book-of-the-dead-brendan-fraser-rachel-weisz-1236913372/",
+        "https://deadline.com/2026/10/the-mummy-movie-title-brendan-fraser-rachel-weisz-1237158648/",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEdUUUVUQlVoSWs2WG9NWnoxbkdyVFgxcV9mRWpBejNXM0tpenI3dzgxak5uS3BBZmo0VjZLa0lPa0NfN0RROWVkTGJXLTF4MXRUMGlIM0RyY3phVGktSDNBVC1sTWFwQXJIOGdPc0NsY25VY0JQeks4S19ScmFXSFlndEpMQTRldXlkX1RTcUxOb3laaUVPd2pET0lkOWtRYjE5Z0szd2Nia3JEVDJ4bzBKbGdjcXJlekE?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUlZadzUzVS1WYzZZNlFXTkFsZzg0aU00STFNck9lZndveTItbjRiMFlxUkVQU25HUlhyNEEzZ1pjOFVsWlVCQWM3Ykx1N3ctYWx3b2swRzhUTTBodU9GSWswWkt2dk5sdUpaSjkxQ20yLUQxRXRTckJ0WGhjbTVYTW13YW9sY0JBaVktUmhTa2dvLU5JVld4LQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWDFyLWZFeDhMckdQM0IxZDNSdFRFX2NOaFlBXzlWcWpZWHVxWjEwOW5WWGdTQU5ZNHFkaTI5T2I0RXhDQWJRRnhESzV0NDdZb2lKOU5wZ29wUnkwZ28wcVlhOU9Pbjd0d1N1VDhYXzhkdW1jMFgybF9SQnkxSnNNa0FoTFdtYmhJMXZJcUU1OWtSbUo0RXV0THJpMTc4ZTJRWFhveXgzZ0lsY2hYSnc?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQnQ4RDlTVklWVWhDdWg0OXlSM2pBZFFleS03aWpqOEhOa2hxVHA1cjA1b0VzNFNoRXBkM1VlQmZhT0QxLVhINUdZckFaVjdjTDdZbVJMUVFPblZqal8zeTV5N0I3S0Q3aWhKdTNSdFd2SWlrd0xUYkdVMDQ1SWRUbU5Qb2tqZEx0NURZZ2N1N0l4cFdi?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQTEtYXRrOVlob296OGNzUWNQUWJYdHo1QVdEcHV0TlFfVU16clpnX2l4WjNhZ3VuT2ZKM1B1LU1XZVgyOTRDbG9QSWw2eDZDa0tJWm44THdnVXRUZVRLdlFFaWFTajBfbXZHS0lNZ1Bya3dTXzRmYng5T2ZTVVNFc21SMXl3aUlpSlVrTkpfOWFrclVoTE9wbzllM0Ffbzhp?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T20:51:16Z",
+      "published_at_ist": "2026-10-16 02:21 IST",
+      "first_seen_utc": "2026-10-15T19:34:04Z",
+      "age_minutes": 148,
+      "trend_score": 13,
+      "rank_score": 0.9742,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "the mummy 4 (GB 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.hollywoodreporter.com/wp-content/uploads/2025/11/MSDMUMM_EC007-H-2025.jpg?w=1296&h=730&crop=1",
+        "https://variety.com/wp-content/uploads/2026/03/MCDMURE_EC021-e1772484328873.jpg?w=1000&h=563&crop=1",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXzYVwywr0kdWQzuuIx0AqSWvjxyOqI_daloIY8Bt3hysNQMeinhFuXQjsrrE",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyR09-tOI2BOrLcsbt7k0ttXn6-pP9P5CAFfEOkC-9v5hhwpgeGhyTXT1V_Pw",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTr4dtvfmaIAKKjOpK8Oc9KlntY4uJuSXT1I7yY_MyXnK0lNI-puX7bUPuzBN0"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "0ac4d5ca89",
+      "key": "calipari-final-john-moment-nba-nervou-reveal-scared-swift-taylor-too-‘",
+      "headline": "John Calipari reveals nervous Taylor Swift moment at NBA Finals: ‘Too scared’",
+      "summary": "https://nypost.com/2026/10/15/sports/john-calipari-reveals-nervous-taylor-swift-moment-at-nba-finals/Calipari previously shared a photo he took with Sandler and his wife while sitting on Celebrity Row for the Game 4 thriller at MSG.",
+      "sources": [
+        "New York Post",
+        "College Sports Network"
+      ],
+      "article_urls": [
+        "https://nypost.com/2026/10/15/sports/john-calipari-reveals-nervous-taylor-swift-moment-at-nba-finals/",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXktTTlYZjdPY2JWNVp3RXJoNExha0NneTVSWHdmTDM0UVBRdFBoV2MyUl83a1d2cEZ5NkIySFhxVjJIbDRPc2JqTmVSaHBPNUhKYmxjbl9oOGotQ1dJY3NfZVh2NlhRdGNjOEktdGxkRmlCbmVzQ2lMbDhSMU9xcEpuWFY0R0M4ZWt1RVpleS04Z2RyN3lXZlE0bHlmWUVFWW00?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPajlOMEJOZHpZVER5cXJ3MzBVRkZQOHRoSmVMX2Z5dmdTcXlscHlZZnl1X0xabnR6cjVXcmZaQlNPN3pPUnN1R25FMlBORzdBRFZTR21lc0liWnE2bzR2REhNNHpyY2N4a21VSGNIdUpxUTIyWmYtNTRJQWNXdGtGdlpJMHRkYXJEQ2ZpdWowSXYzT1dSRmxlNkJ6TU5ZTWY3TW54ZFlkS2pLSkJFSEFuMlBKYk1abGc1LXJ2VnVVU0FEeGc2VWYyNWNrRmo4OXBBbjgtNTRtNA?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T21:32:00Z",
+      "published_at_ist": "2026-10-16 03:02 IST",
+      "first_seen_utc": "2026-10-15T19:15:52Z",
+      "age_minutes": 107,
+      "trend_score": 16,
+      "rank_score": 0.9646,
+      "category": "famous_clip",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Taylor Swift"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "“I Was Embarrassed”: John Calipari Recounts Being “Scared” of Talking to Taylor Swift"
+      ],
+      "image_urls": [
+        "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-5xa8evok1-1792098508240.jpg?quality=75&strip=all&1792084145&w=1200",
+        "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-5xa8evok1-1792098508240.jpg?quality=75&strip=all&1792084145&w=1024"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=ygM4WOpsSDQ"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "4e979df348",
+      "key": "alarm-appearance-beyonc-blue-carter-daughter-ivy-rare-ringing-rumi-é",
+      "headline": "Beyoncé's Rare Appearance With Daughters Blue Ivy, Rumi Carter Will Have You Ringing the Alarm",
+      "summary": "https://www.eonline.com/news/1437127/Beyoncé was joined by daughters Blue Ivy, 14, and Rumi Carter, 9, as she, mom Tina Knowles and Kelly Rowland celebrated the opening of the Knowles-Rowland House in Houston on Oct. 13.",
+      "sources": [
+        "USA Today",
+        "People.com",
+        "E! News"
+      ],
+      "article_urls": [
+        "https://www.eonline.com/news/1437127/beyonce-makes-rare-appearance-with-daughters-blue-ivy-rumi-carter",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSGY2U0tYeVVhb3lIaVZoT0gxYkF6YjRXZVlQSGRUM3FZU2V0N0UtQklBR19fU25FR1NhakZQNXhmYnl3eGxVdHZPWWw4NDZNSWpqOTJFZ0ZlWkU5SFl4c1huLWVxdG1lNkE0Sm1STGJsVXVaLWJVQTZUMlNsQmFPd2lhSkVYd3dzT05FNlhGMmhlRXNVUllhVFhSZHBrb2NmOV9iMEVzbWVQTlA0RDhfdGRmTndJdVYzOHhLeFNn?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQY3FYSUsyellrQWM5Y1VtNldrLVVzejR4d1NwRjhzdk9vaGVmSGVuRVBJdTZqTXFQdkpfVmJGdE5pSEZKazVYbWtLZnNudVlsVjRwMDZrbmZ3Qkx0SnN2LS1VOE80SUNPV3BsdE5jRU41Q2g5Z200bUU5aElNNlMyUFphVGNCZ3JhVWF3eUFhMkxKeGtTSXVMaWduWEltYWhLWm5NLVJtTWs0MXZ0c0dkZWt3ZkFlWXFCMnc?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM1E1eEZPcjYyYmt5WjNsRHBtQjhqLTByVklUMnhvdlpZU2Vub2VSOWo0OEFpYlA4Zmc2WXl5TEVrcUYyYk8tR3BZTlhDckIxRGgtcjhBeWwzWnk2bjdNek9Ga1VDZ3cwTVkzeTY2YzBOZEczc0dkMDBndHRIdUtocVlGdkp4dUF6c3F4SVBva0lqSjBSNk9NWjEtVUhyb3YwemhMeg?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T22:07:00Z",
+      "published_at_ist": "2026-10-16 03:37 IST",
+      "first_seen_utc": "2026-10-15T19:13:00Z",
+      "age_minutes": 72,
+      "trend_score": 13,
+      "rank_score": 0.9627,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Beyonce"
+      ],
+      "region": [
         "IN",
         "US"
       ],
@@ -169,165 +326,113 @@
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Photos: U2 to Launch THE GREATEST SHOW ON EARTH World Tour in 2027",
-        "U2 RELEASES NEW TRACK TITLED “THE GREATEST SHOW ON EARTH” OUT NOW & ANNOUNCES CARNAVAL DE LUZ PRESENTS: THE GREATEST SHOW ON EARTH WORLD TOUR 2027",
-        "U2 announce spectacular 2027 world tour",
-        "U2 Is Bringing ‘The Greatest Show on Earth’ to Stadiums: See the Tour Dates & Listen to New Song"
+        "Blue Ivy, 14, towers over Beyoncé at Houston event – See the moment",
+        "Beyoncé’s Daughters Blue Ivy, 14, and Rumi, 9, Make Rare Public Appearance at Special Event with Mom in Hometown"
       ],
       "image_urls": [
-        "https://www.premierguitar.com/media-library/image.jpg?id=68441638&width=980"
+        "https://akns-images.eonline.com/eol_images/Entire_Site/20261015/2ac2bab7-3cbb-49fe-82cc-4ed8f2696b57_1792091248.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+        "https://akns-images.eonline.com/eol_images/Entire_Site/20261015/2ac2bab7-3cbb-49fe-82cc-4ed8f2696b57_1792091248.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top"
       ],
       "video_urls": [
-        "https://www.youtube.com/embed/Ndx4H-a9y5c?rel=0",
-        "https://www.youtube.com/embed/joOb8aDp_gc?rel=0&start=1"
+        "https://www.youtube.com/embed/kYZtLHFrqtk?feature=oembed"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "6053f4e5f4",
-      "key": "accused-against-candidate-david-farage-lammy-protecting-racist-reform-slur-‘-’",
-      "headline": "Farage accused of ‘protecting’ Reform candidate over racist slurs against David Lammy",
-      "summary": "Exclusive: ITV investigation shows leader stood by mayoral candidate who said Labour MP should ‘go home to the Caribbean’",
+      "id": "5969ae4cd5",
+      "key": "alex-director-documentary-funeral-gibney-musk-terrifying-warning",
+      "headline": "Director Alex Gibney on terrifying Musk documentary: 'It's not a funeral; it's a warning'",
+      "summary": "https://www.cbc.ca/news/entertainment/Alex Gibney's nearly four-hour, fire-and-brimstone documentary Musk — on tech oligarch, worlds-richest-man Elon Musk — is not uplifting. Instead, it is one of the most depressing and terrifying pieces of public media since An Inconvenient Truth alerted a mostly unaware public to its imminent annihilation by climate change.",
       "sources": [
-        "The Guardian",
-        "BBC",
-        "Reuters",
-        "The Telegraph"
+        "CBC",
+        "Yahoo News Canada"
       ],
       "article_urls": [
-        "https://www.theguardian.com/politics/2026/oct/15/farage-accused-protecting-reform-candidate-racist-slurs-david-lammy-itv-film",
-        "https://www.bbc.co.uk/news/articles/cw3dj458re1vo",
-        "https://www.itv.com/watch/news/nigel-farage-responds-as-itv-undercover-investigation-finds-major-gaps-in-partys-checks/fkrdmv5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeExfbzExX1owWTR3Zm5PMlJITEdMSU9Qd2l2REx1MUxNMnNmNXh6amxsbDRaOS13elhWVFFyQVBybm9mUng1bkRySUFia2xrMWpfRDRldUdsMFp0TEYzZEdzMHk2aDRCMXgyUjVjRkFmSWJROEROMUtJOVFac0ZhTnoxMW1tZ0UzaE92QjI4UlpPNldJREJqNlRmMTVLODN0SVBDVHFmMXN3Yzdfd1VPNmdOUHVGYXRNOXdlZGwyVEhfZk0?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yQTYxd19LWWkzX0EtNEZvdTVTd09RQ0R6WFhUZ2pDS05KRGFnZE1PQ2F3NDhLNEZmcmVqYmxOTjk2R2g3X05NSDFEREp3OVdOZE10Z2M3V190RDg1Q0E?oc=5",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlbmduSTgtWGs3OU96ZzNHYjBUUUc1TWd0Sm53UDBOVW9jNEp1dXZpcEhNUmdZVm5MakViYXBHN1hsajNHSloyLVlDRzVFNmFsTXZwTzluaUdFenM?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV25GbEw0QVBaM1AzWEtoWkNiM0dMQVRUa3lTaVhfUzlYeGp0b2lGWmhQODNvS0dBSG9QcjNWYk1OdzFIRTJFdGNDb25oVUI3MndVTjNCQUNhamdXQ0NWQVN1OWVOb2hMazgwOXlnb1F5bmZEZ3lMR3dMSkpzeUZGbjgtblFMajJXeEJYQTB4dS00NVZWcWlYcTdZaTRUVmxSVXhOYkNpT0gtR25Kbk1wZ3I2SnVxQnZJWDNiS2hEOEM?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Ka3pIbWlzVENZWHczQWxsVXdTelZ5ZGhjVkhnU0ttSW91aTRzMXBjR0tnN3duUXdnbld1QXo2NVNsb1BpaVhfLVJybFFVNkd0MklQZXpGdmpPU0ZiYThNTS1kOEpGNXlYX3BtbFI0azhRNnozVE9CUzFkUGk?oc=5"
+        "https://www.cbc.ca/news/entertainment/alex-gibney-musk-documentary-9.7381024",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlR3OFN5aUFaaHdYV3FudTNpbkRxOFJZQVRYZ3hsWExBSnJoYlJEUnlmTjA5aGVNMEw2TzZIWTJMemxSem1qU0JxVHZOLXVvOFgyQ0dBR0NteXc4Q2huS2hIT2ZyR3BFTUVoNjBXalNDdl9mRnZpSnF6UlpBeW54Tktn?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE43aWZCQUlHSUNpUnFtRzJ1bEhaREZfdmtxeXVGSmEyTl9Bc3VJV1dyZFRCXzZHamV5YzhPV1c0WmNON3k3azJxWHlOMHEzV0F1dXlFUl9LaE1YVHg4THhjSXVXZmExVXVTbTRLU19PeGxkbzJTcmtDS295dFE?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2RFJRcjE2REZuQ01yeDk1SzFFVjdpODZCRHo2eXZuQnNkaDdZblh4ZE9lZHZtbWNKYXdPUENTYjhxeC1FbXd1dFgzekRlcFdUdy1BczhPUUpKZw?oc=5"
       ],
-      "published_at_utc": "2026-10-15T19:11:00Z",
-      "published_at_ist": "2026-10-16 00:41 IST",
-      "first_seen_utc": "2026-10-15T19:11:00Z",
-      "age_minutes": 125,
+      "published_at_utc": "2026-10-15T22:47:53Z",
+      "published_at_ist": "2026-10-16 04:17 IST",
+      "first_seen_utc": "2026-10-15T22:44:18Z",
+      "age_minutes": 31,
       "trend_score": 10,
-      "rank_score": 0.9489,
-      "category": "other",
+      "rank_score": 0.9582,
+      "category": "famous_clip",
       "section": "top",
       "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "sarah pochin (GB 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://i.guim.co.uk/img/media/e24c3b4e4243b011cbee7ad838b3b392b3495c1f/573_0_5330_4264/master/5330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15e2f862f284ff5e62f74820205068b4",
-        "https://i.guim.co.uk/img/media/e24c3b4e4243b011cbee7ad838b3b392b3495c1f/573_0_5330_4264/master/5330.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=564ae3b34bd52d28a58d7736fcf4ff83",
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/6d6c/live/f9b9cb20-c85e-11f1-bc2e-018d645d8d21.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_wijZ6xY1VwoRyEdBVV4uIZhrd8C32xOfTGted6nAyFgPqcCM0o0k-Yr4hZ0",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxsH7Fee9-VLY-SIyWCGLpt8m7QLu-deSBl6oayt24a-WwBOD3mUOZmF0vj50",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTd9dgo8pLyh4ROx2Ne8d4-Mfm83cZRnH-SUxv_lJTd-3oObOZfUVpR0anWGM"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "aa4ce83169",
-      "key": "belly-billie-button-crop-eilish-photo-piercing-reveal-tattoo-tiny",
-      "headline": "Billie Eilish reveals ab tattoos and belly button piercing in tiny crop top for latest photos",
-      "summary": "https://www.hellomagazine.com/us/929330/billie-eilish-ab-tattoos-belly-button-piercing-crop-top-photo/Billie Eilish shared a rare glimpse of her ab tattoos in her latest social media post, take a look…",
-      "sources": [
-        "HELLO! Magazine"
-      ],
-      "article_urls": [
-        "https://www.hellomagazine.com/us/929330/billie-eilish-ab-tattoos-belly-button-piercing-crop-top-photo/",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxObWxhRFowMVJ5QWFuNW5NZ0Q1TmhVd2RjWTFOdnZ4WnpsbXBlTHFFcG1HeVU4clVYZ2duT0Y3NFFudjE0dFJPX0NlQ01qdVd4UlVweWZMSHZZSzhOb2dqVEU2cWZvaTNrZXFNM1VTbEpDVVBEQmpfcEJlOHljUHBaYi1KSVpjaU5SaTlJbUl1R0lLdm9ld0tEeW84b1JEZ1h4MU5TUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T20:16:25Z",
-      "published_at_ist": "2026-10-16 01:46 IST",
-      "first_seen_utc": "2026-10-15T20:16:25Z",
-      "age_minutes": 59,
-      "trend_score": 11,
-      "rank_score": 0.9488,
-      "category": "famous_clip",
-      "section": "entertainment",
-      "source_type": "news",
       "famous_names": [
-        "Billie Eilish"
+        "Elon Musk"
       ],
       "region": [
-        "GB",
+        "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
+        "Elon Musk",
         "Famous people clips"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Director Alex Gibney warns of Elon Musk's 'unchecked power' in new documentary"
+      ],
       "image_urls": [
-        "https://images.hellomagazine.com/horizon/landscape/1200/e702c735d14f-gettyimages-1486934046.jpg"
+        "https://i.cbc.ca/ais/939d3d8e-2242-4544-8906-65c29bee21f1,1792013463201/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C387%2C7513%2C4226%29%3BResize%3D620"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=PsHx7bMIFC4",
-        "https://cdndirector.dailymotion.com/cdn/H264-1280x720/video/xawmmri.mp4?download=1&sec=F98nPfPs-XTH8bUmWrsKpviyJygPrqSzJM32x0fx9JnCMHl37JSrBYoQyqIZZzNi-ECrO5XyT1p33zLjpFhRTSiVNGiXE47BNxSmhBn3N13uPC7Dn0VoIoVspgkPm7RS",
-        "https://www.dailymotion.com/video/xawmmri"
+        "https://www.youtube.com/embed/FFTf1lzcs28",
+        "https://www.cbc.ca/i/phoenix/player/syndicate/?autoPlay=true&sourceId=9.7382695",
+        "https://www.cbc.ca/player/play/video/9.7382695"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "3abca58c6c",
-      "key": "camara-haas-race-rafael-signing",
-      "headline": "Rafael Camara to race in F1 in 2027 after signing for Haas",
-      "summary": "https://formulascout.com/rafael-camara-to-race-in-f1-in-2027-after-signing-for-haas/Ending weeks of speculation, Haas F1 has confirmed its signing of Rafael Camara to replace Esteban Ocon for the 2027 Formula 1 season. He will team up with a fellow…",
+      "id": "02fcff41aa",
+      "key": "haas-mara-rafael-season-sign-â",
+      "headline": "Rafael Câmara signs with Haas for 2027 F1 season",
+      "summary": "https://driven.site/news/The 21-year-old will replace Esteban Ocon at Haas, after it was recently announced that the Frenchman would leave the team at the end of the current season.",
       "sources": [
-        "Motor Sport Magazine",
-        "grandprix247",
-        "myMotherLode.com",
-        "Formula 1",
-        "F1i.com",
-        "Reuters",
+        "Grande Prêmio",
         "Ottumwa Courier",
-        "PlanetF1",
-        "Sportscape Magazine",
-        "Formula Scout"
+        "Road & Track",
+        "Crash.net",
+        "The Driven Chat Podcast",
+        "Sky Sports",
+        "MotorBiscuit",
+        "Frontstretch",
+        "YouTube: Formula 1",
+        "theScore"
       ],
       "article_urls": [
-        "https://formulascout.com/rafael-camara-to-race-in-f1-in-2027-after-signing-for-haas/140601",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSkhvazYtaE1CY0dtZWs3Mk1XRWVBOW9EREdWVndsUHpraUhpNm04YkpGSW5WRE5XMnNGSTh2dEx0ZEdVQzQ4VHdfTDRuNFpVbFhuMkw2bFZhSlpfUXJXZGZJOW1lbUVNeU9yVzk3SlQ4cThncmN4MHVDMlhkSGMyaHhaUVdPcjFPc2hRVFlnWkY4OXpoYmc3THpSem1UTWNiQmV0TWtvYWJvN1ZYMDZOeWpLOHJNVXc?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQT2czMnhJYVBORjhQaGU2WGNRM0haaTRlRHlmZkxyMnFxdXhWdEUxQ0tFdjdNUmRkbzY1TERqRXRDOGMzR0YwLTh0U1RyX3NLOEdaWEZreFZ2QTdacG56STJ0elFvbUJETEVLQkZEUk14YS1fOXczdHFnUDJ6Z19iZl80U2xYdERJOWkyQ0hzMG5TazFJMTRYdDNqZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxORHVYNVBEb09Uc3JkUnU5Rjlaa0NpRWQzQW9fSko2V1lvNkFGWEUzRWNVX3hiVTZ1RWJyd29QOFJ2R2NqS3U4SmdEQTFNbE9CUFE0LVE5TmVDT0FVbUg4YUFZZ0xBOEpBcDZvWEZUSHVERklhM0ZuMFp1T1hRWWYwbUh5X3R2WE8waHNFWksyNF80WWxfcXgxblhJZDlmVm5YMk12VkJldWJicGFPR2dMcnRqRkZ1cTBFQVVKakxnbm03NWUzYzY0N3NaanRUNkkyWTN5Qmo4RldmUW8zRXd5ejQ5MnNVbEg30gHuAUFVX3lxTE8tX3Z3SkhPNXhFTWpkQzE4WHFfZ19EcXItd3hjaF9KamU1aG10b1VDY0hsb1oxbTVVMHpYVUFmbVg4aFlYdHQzcUNhS29kaEY2U0lLcDBBLTI5RnUzVDl5Z3BvbXY1SUFDR1oxWENYNTNPSFlJa1VJZ1kzU3M2UnhPYWw0RUVmcktYdnQtazdkYjB3anA2V0ZpTUNzZTF0Y1JLQnNpdWtib2YyZ3A4UnZmNTVsbW9uWDRYb25Nc3huTmcyM1VoaS1MdnNDaDNTV0pNQVZ6cTh4SXl0bXFwWjd4clFKWXFPUm9Nb29EbHc?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdlhUaWh0b1JMVWRJalFoQmE1VWJvQUdITC0tNE5tekVfX1hWc2N5TTlwTFBYNEZ6dmFrLWhucHFHbW5ZZ3Rwc05YYy1JZG5BZmRQTFhtVWRWaFRkY0ZWYXk2OHoyWWlwWUZIY3lleGpSZ3hFSlpFa29DWi1xNXBjc0FadmwyUFNnSVA4Sy1CWG1kRTVNY2U2ZUtvUFZBcWNNN21ZeFUzSEN0RC1nM0lsXzI1YTJQY011NmVTV3Nabw?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHhjTzZlOWhUU0RpUk1MLXlXNGgydHh3a3R4S0Z6NTBFSFVwOGdwM21tUDJIZ0JGMk9hdWVfTXpiMjZKemdpdFlPMks5NExsWEtfSHAxM3FzVUNzZlN5ZzZvMV8xdDNvYkdhakJLOUxXdjFzQjMwb0VZMHJvR3I5VkNob19SWVRHaXM1UWRyWTRrX3FBaEHSAZYBQVVfeXFMUDR4Y082ZTloVFNEaVJNTC15VzRoMnR4d2t0eEtGejUwRUhVcDhncDNtbVAySGdCRjJPYXVlX016YjI2SnpnaXRZTzJLOTRMbFhLX0hwMTNxc1VDc2ZTeWc2bzFfMXQzb2JHYWpCSzlMV3Yxc0IzMG9FWTByb0dyOVZDaG9fUllUR2lzNVFkclk0a19xQWhB?oc=5",
-        "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbHdOOTVNcVV6Q0llTWlDMHpTdHpJZ2luM0JhVUhLNW9UOS1lc0NXVVNRMlJPRW5LMDdjTEhacVNEOF9pR21tNGJqMkJuYkZyZ1E0SWNqMEhsYzhQdll6SERmaWVWRWw5NV90ek9zQjYzYVI4dHBWM1VxbmlTRUNwdC1kRmcwRG50R3c2Z1k5VG5vcnd5M2YyWmJ2YmxablA0Wk5VVDFSNHRRVFZ3RmRpR1VuVzR3TkNCemtqM1VWejh5OGI5eWl5Q3VDWEdWSW83SS16NFh6eDhwRmJqQzZpR2c2c2VobXRoVExkUUdXNzNkRUNleWFVdUdxMUpzR3R2R0Fzc2J6RzRqdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZmFBUEFDLUZRNy1MM0xyLUJkeV9GS0NJN2MxU2Z2bmE4MmpndlhreE15VkNOcUtTbHFNSDZPUmllMTBnVDh3Ql9GcUYzaWdjc0xIUl81RjJleVprTjRoNDBwSHVKbU1jWUZ2VVBBOE44bXZVZ0VYWk5xOFNoSVlMdkJuSG9uLWtiSEJwYXVWN2xVTnZVc0diaDVueWtyZk5NeHhtQkZLaHJadw?oc=5"
+        "https://driven.site/news/rafael-camara-signs-with-haas-for-2027-f1-season",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxObGFkZG1HTWl0d0xzSXB2SFRLUmZCaWFlODM1UUxnMm9JTE53MUlTZFYzWGJNM2Vid2RqUlhqM2d6NmRjUnNRSjY3dkpnMmNfM0llVHo1bDBiWDhvNjJYeTgyS3NleV83VTZhc1RFazNGOEI1VUlrQzk0MlNua2pjYmxwRllBaGZhd0J5YjFBdUxKR0c2WUxrbEFNOE0yVlVkVDlaMzM2S2FCSG9JdzNEWTZHeXVyRWRnQnFyMmRB?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZ3pXNjJEdzU0M09HM2pjQnc1bHpGclFIWWRBM0gxaHRGTlFzSGtMSldGZlFKc0IzYURPTG9rajFVYXkwUVhRR3ZIRWtTSlBoZ2ZaRENQU25LRm9KeTFsV28zdDdaQmJlU29sRWxTOFBTMXZYaXVQYVM2VWpOeWJRdEFFVnpubE5WM3dBOVBOUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAJBVV95cUxQWDhycVZxNXZ2cGYxWlVmNzBzVTc4N21MaGxGWHZoOXVFeFBwUHJYQklueXQ1UnZrc3VMbGlZbURZbGF4a3hzdE1seE4wckpXbHlpX3UtQ3FiNm40bTFTNHQyTzMwV2VsUnJvM0N3aEZZX0tqWmRTZmNzNG05YklhS3JJd1NOemgxWXpNQXFhSGNzenQ0MDJwOUlqb2NtLTBxOHR5S3lxYXBjU2JPNjZVQXdtb1NRQ2MtY2lkaU1WUlBxdGlzdDlyQVRud1dmdnVOSGcwN25MQ1pSemNaOFpadHM3M3JiTGhuMFdqZnRiaEFMckFCdFVWLVhxM0ktaXZ0cERkZTljVEc0VUpr?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM0YtUWp0OXhwZUpOek9SV05ZUUdGRWJuSG43SjNUNHdhOXdfdDNDcHJLTlZON09pWTFqZWNZc2JhWkN0UWJ2Z0J2RGlGREFqc1QySGJMSXJ5TklLUlBiVVJoQmJmb1Nha0JybDM5dW5FTjFuazJBMnpDWU9zMWFkWl9tMnV0NU9jT0pacWdROUNGU25ZVVgtYW5EU3g?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYzZzRTFLb2R5NlA4LTJmWmpFR1pTbzJobGFuMGhjUzJVRk9pdl81amRJcEpNSVh3YkkxOEZuM0RPeERZX095VzFJN3Y1S2h4a2tEQkt5X2VaQnVOaldlb3VvQ2RBUGxtcENpeUlLb0l3ZTVndE1xd1hDcW9tNzcwdnN6WWR3YmdGU1lNMHYwRXM1RTYyU0x2R0Fvb05QbG9jWFE?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHeU1IeG9fRVlfOGFpSWgxS1FPeEpLdVdIR0E3a3VYbFRJSXIxcU9YNE9LNE1pM0RyQnRNelpoNnlaMVRNQTZkQ0tJVGFydUxZMkc5dXJ1N3ZOdS1VU0VOMjFENVJXVlNvcHg5Z1pNVDJFNVRCT1ItalNmMko5dw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcGc3ZkZUajZlUHcxMVNxUEZNUHhkTE05S21BZVlySEhsWXZKb1ktMlZrZm5ndG9TSE9GTkVUSmNZRHNhbVIyX0duNFRud2tGcGFDSU1TQWNuVzRzelI1bFBXQlBFelczSVF1UEt6VWZBT1NOUXkwZGpkS1EySVVQTjBsdlZza0FrZkhxQ254eEtxVHlxNmJuak9CUkoyeURpemVUUkxhWVJFWXB0ZW44SEhad0JXdHFpa3lkODNRSmUwcGdjQ0tMR2xzTi1WWUZzNzRCNGtuRTYza2JSaEZtbDQtMC16VUU?oc=5"
       ],
-      "published_at_utc": "2026-10-15T20:10:58Z",
-      "published_at_ist": "2026-10-16 01:40 IST",
-      "first_seen_utc": "2026-10-15T14:00:00Z",
-      "age_minutes": 65,
-      "trend_score": 49,
-      "rank_score": 0.9458,
+      "published_at_utc": "2026-10-15T21:45:00Z",
+      "published_at_ist": "2026-10-16 03:15 IST",
+      "first_seen_utc": "2026-10-15T14:20:29Z",
+      "age_minutes": 94,
+      "trend_score": 29,
+      "rank_score": 0.9164,
       "category": "sports",
-      "section": "sports",
+      "section": "top",
       "source_type": "news+youtube",
       "famous_names": [],
       "region": [
@@ -345,13 +450,13 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Speed over experience: what Haas sees in Rafael Câmara",
-        "Rafael Câmara Confirmed at TGR Haas F1 Team for 2027",
+        "F1 today, October 15: Câmara joins Haas, Horner and Verstappen news",
+        "Haas explains why Câmara was the clear choice for 2027",
         "Haas signs Formula 2 leader Rafael Câmara to replace Esteban Ocon in F1 next season",
-        "Interview with Rafael Câmara as he announces he is signing with Haas"
+        "Haas F1 Signs Formula 2 Points Leader Rafael Câmara"
       ],
       "image_urls": [
-        "http://formulascout.com/wp-content/uploads/2026/06/camaraf2.jpeg",
+        "http://static1.squarespace.com/static/612f4f7e00611a662fb50b92/642563357a06415fa49b4f3a/6ad0e69033894f3c5d4835f5/1792077298879/piloti-fda-2026-camara_desk_2f5a43ef-cfa8-40e1-b7eb-e79c90cde1b3.jpg?format=1500w",
         "https://i1.ytimg.com/vi/4FMOXQHonSo/hqdefault.jpg"
       ],
       "video_urls": [
@@ -370,95 +475,38 @@
       ]
     },
     {
-      "id": "b4b289b1a3",
-      "key": "celebrity-episode-five-traitor-–",
-      "headline": "The Celebrity Traitors: episode five – live",
-      "summary": "https://www.bbc.co.uk/mediacentre/2026/Four new celebrity pairings are taking on the wildest race yet...",
-      "sources": [
-        "The Guardian",
-        "The Independent",
-        "The Times",
-        "Wales Online",
-        "Esquire"
-      ],
-      "article_urls": [
-        "https://www.bbc.co.uk/mediacentre/2026/celebrity-race-across-the-world-trailer-launch-date",
-        "https://www.digitalspy.com/tv/reality-tv/a74141345/celebrity-race-across-the-world-2026-release-date/",
-        "https://www.theguardian.com/tv-and-radio/live/2026/oct/15/the-celebrity-traitors-episode-five-live",
-        "https://uk.style.yahoo.com/traitors-step-aside-bbc-epic-140600267.html",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV29paU8tRzBNYW91ZkF1LTF3anlQdXN5YlNsdTJ6UEUxcFptMGFnRkQtSjdFbXB1U0hTcHBjOVc3LWh2NGtRSEVadUprN3poWkNxbjJiUXAxMm1OU0xnQTFVRHNlSnZIWmJQOXRQYkw3STNtS0FtZ09ldWJpSC1wNmJRZjFfRlBoQ2s4ci1CaDd2T0lPdFppMTBJS3dKb1U?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmJuTjB3UlB0aFhEeXdRYlpFVW9rOXB6M3ZFbUJmaVZBUEh4bEw4R2VZZ1F4QUU2ZzdtajJIZmxtQXNHOGhFT3V6RHk5VDZ6b2xkTUJFdk94X3ROSkJHbEJRUUdlNmNJanA3dThqcl9jYlZXaFNMYjJyT2JDNW10dTY2Y1NFME9UMnpqZE1zSllkdTh5a21aemZQZDNjZW4ya1RDZkxkUUVMUEhOUE1BeHpn?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUlNzaEh5bE5YVFRRbW5vSkRRZ1NNZGxuOVVfa1RrdDdZa1dGNThDdjZrS3d1VkVCZzZxTmNsZWlsMEF1TUp2V3VSR0VldjhZRkRwbEtEMGtPZ2hDNldFS3kyS1pGczVQcmcyYXJOSHFrd2tUbGJ2ckZxRUVyNms0SzNoQmJVUzR1MmpPaG03R2Z6dmJEYVJ0TEVB?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHBmVEt6TkZBSlRQazlPVnMyenN0NGptaktWREZTUnNWcEtfMDcyYmRTVkhIaG5BZXhKUkJHX3lWQjVPQkZaLTBDVkkzekJZcjRmV0ZKcUxQRFp1a1F0cDk0aFhNNUUybFhKMHFZWGFUUUllOS1fcjYyNjhJZF8xeFlqWXhZa2pBR3AtNFJVb9IBlAFBVV95cUxNby00TkhCaFhXM0ExN1dPUGd4WjhzWmdoelk5SUtHX0Qza3ltUzRmMFpUQTVoc2ZnMS1ySkZSVnJTY09hWEFLaERNNkVfaXVRRW1IVmotSk9FUlp6NWkwREJHbHRlTDIwNGJLbWdDWmpZbi1EcHk1S1hKOGxXVGtGV2Q2dWVoUDE5cXowSGtoZUd1ZjQ5?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T18:30:00Z",
-      "published_at_ist": "2026-10-16 00:00 IST",
-      "first_seen_utc": "2026-10-15T18:30:00Z",
-      "age_minutes": 166,
-      "trend_score": 12,
-      "rank_score": 0.9392,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "race across the world (GB 500+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/images/ic/1920x1080/p0pgmmdw.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b92842da-5021-447a-bb0a-ac67713d0492.jpg?crop=0.993xw:0.331xh;0,0.550xh&resize=1200:*",
-        "https://hips.hearstapps.com/hmg-prod/images/b92842da-5021-447a-bb0a-ac67713d0492.jpg?crop=0.993xw:0.331xh;0,0.550xh&resize=640:*",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT4N-LAQHTi7rAzXR-kt4LAuEduSdPPtuEdLbl08tLFd9gCqkUDTH3v_nuewU",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVB1tvuJzjpGUUg2WaqyjB-M1A3GjvV7B6SwNmqOWQQjXsayA4rl9Q9alINDs",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTBlZvEVx5iX1bnZa2jVEHGc2cTM3Fyxyr4asDvAQvX57L_TexF8-nLjah4US4"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "7dae47538c",
       "key": "cricket-international-punam-raut-retire",
       "headline": "Punam Raut retires from international cricket",
-      "summary": "https://www.tribuneindia.com/news/sports/indian-batter-punam-raut-announces-retirement-from-international-cricket/From 2009 to 2021, Raut represented the Indian tricolour in four Tests, 73 ODIs and 35 T20Is.",
+      "summary": "https://www.livemint.com/sports/From 2009 to 2021, Raut represented the Indian tricolour in four Tests, 73 ODIs and 35 T20Is.",
       "sources": [
-        "The News Mill",
+        "Livemint",
         "The Tribune",
         "The Indian Express",
         "www.olympics.com",
         "The New Indian Express",
         "Cricinfo",
         "India Today",
-        "Deccan Herald",
-        "Yardbarker",
-        "The Times of India"
+        "The Times of India",
+        "Rediff",
+        "Revsportz"
       ],
       "article_urls": [
         "https://www.olympics.com/en/news/punam-raut-retirement-india-women-cricket-2026",
-        "https://thenewsmill.com/2026/10/indian-cricketer-punam-raut-retires-from-international-cricket/",
-        "https://www.tribuneindia.com/news/sports/indian-batter-punam-raut-announces-retirement-from-international-cricket/",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYk9oMjBFclRvR0pnMEwteFJRdTB1ZDg3emlVSkFnV2RLUVViRWZsQzZaaHZZVmJfUC1kNVpjVTdoRWxpTm00ckpFZVpMa0swdUNaMDNtb3ljNnZ0ZEs3YUY5ZWk5a2lPTkxEX1VCbzZoRkVFRHQyUDBRUktjMWxJLVcxR21YQWg4WDU3ZXh1a3BqcVc3ckZiTm01aw?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTVKOEtPWTZlZmRXZEwwYjQtMkR6cVZTWmt1RkxwS1o2Uk5iMTR0NXJPX1NhOVpMMU9CMUhIMjNtbEdPc1A2dlAwaTdTSDhDMzNJbXUtVlpPeUtjQ0s2bHJrZy03Z2ZhM2QxM2dfdFlxYlhNc1ZXSkR6OUE0clZJRW13NWtycWppY2ZEeDNIcW9QNWxaNmtXRnlCTy1uTmtvZzBhVlUzMng4YkhfdmN1dHMtekHSAbgBQVVfeXFMUENTd3pqa0x6UWpsZEdnLWxvNzBTNHNidUlKNzlRUEd0Q3drckt2TWxtYkpROU1mbXROdUhkNXRpUFlXRE5pOEk2ejJ3RWU4bWYxeTV1dkhRRXFnaW9sOFZwVTV0V0Vja21FTkZCRi1Gc3h4RFhxeHBlTU1BX1otVlpPelBJMzA3MEI4TUI4ajAxb2UtQWd0S3JSbklhODRZLXdkOTFMUEZjekFRaG1icDRYTGVFZjZ1eA?oc=5",
+        "https://www.livemint.com/sports/indian-batter-punam-raut-announces-retirement-from-international-cricket-11792103621663.html",
+        "https://www.tribuneindia.com/news/sports/indian-batter-punam-raut-announces-retirement-from-international-cricket/amp",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd0hwQ0tvQkNMRU85NHJFajNpSGMtOFNORHFwb1JDLTgwbHJzZE96Y3VKOW9VUHFnVDFZcDExRFJuTm9jOWJ2Q2dRVmJUY3VYUWpaNjNFS0lNWW9EWmVLRENnRlFwSEVDYlFwUjFOOV9SMXlnTS1TaWxoV0FWS3B4UWJqRUZub09WcDlHakhST0pPNUtmdEItNW5McGJDc3h5cTFNMHo2Z1JkSjNzNzdQZ2xyY1BZN2RUdXpGUE51UHhwUdIBxwFBVV95cUxQdm41aFlhYlpzVm85TEQ3VnpQcWtidkhmTnQyeU5UT0NuUUczVzU4NzNoeWYtZlNNdXdJbTd1cXZSTXFOeW1YWkFESmkzSTFzV0lSNVk5OHNzcTljUFMtZTRwQWhuV2JZQTVrUmEyTUhzNmlrcmh1bHpTT0VqWWQ0VHVmM0dPbHh0NjBVY0FjNUpVeVdfYjllSlZuQlBHT0M1OUlicEVVeEx3Sm9qTGh1U2J1Y3FsRktWd09hYlU3bEJtR19XNmpv?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ1N3emprTHpRamxkR2ctbG83MFM0c2J1SUo3OVFQR3RDd2tyS3ZNbG1iSlE5TWZtdE51SGQ1dGlQWVdETmk4STZ6MndFZThtZjF5NXV2SFFFcWdpb2w4VnBVNXRXRWNrbUVORkJGLUZzeHhEWHF4cGVNTUFfWi1WWk96UEkzMDcwQjhNQjhqMDFvZS1BZ3RLclJuSWE4NFktd2Q5MUxQRmN6QVFobWJwNFhMZUVmNnV40gG4AUFVX3lxTFBDU3d6amtMelFqbGRHZy1sbzcwUzRzYnVJSjc5UVBHdEN3a3JLdk1sbWJKUTlNZm10TnVIZDV0aVBZV0ROaThJNnoyd0VlOG1mMXk1dXZIUUVxZ2lvbDhWcFU1dFdFY2ttRU5GQkYtRnN4eERYcXhwZU1NQV9aLVZaT3pQSTMwNzBCOE1COGowMW9lLUFndEtyUm5JYTg0WS13ZDkxTFBGY3pBUWhtYnA0WExlRWY2dXg?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT2NrbExadHIxWjdfbFkyYmZTWndfYXgxdTNFc2ItRDZMV1pYUWc5NktsNWxESmFRWlJicFI0S010Y1QyVmw3UlN5ZU9LVVluLXd2eXBBaXJRRlhzd05jZ2FLMEJaS1ZsTWtIOGNjWkZ4UHctVXh4dHA1YWo4Vm5wLXRDNlNTMG13NTlPQ0ZSSkl2X1Via0lHeFdMdncyb1kzdW9oRXdkN3dwazExZ05DbnhkR2XSAbsBQVVfeXFMUDRJWWNOQklMWXZNa29PbDA0SE9lWTM1MzB6MzdWWjdVcW05blhwLUxTNzJRWlF5TmhoZVQyQ0lqSTdiOFc3TlB2dEFMLW9GNUV5VW8wTVJHOHRITUN6Mzl5VDFidFl2dEREd3hFdG44OTRySldUamhhTzdYT2tKZ1RCTTNaajMxUUZhX3ZLZXZOVVlVNEtNdDZiVENwc3M0RVpHUDl6Rml4aE14ekJKZFlJcHVwSzZ4X29POA?oc=5",
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWW9QdTA0amF3bXQ3QU9BU1M0alRoNU8tZ1F1SUR1REsxOWVvNjdzTkw2RXZoZGpaTDNvcjFXQlZLYzZJNElUWnl0ZjJSOFBtRG1HMGh5TnUxeXIwaGo3RTVJMUR1a0pPRWNMVkltSDNKaHpaY2pIaXh6ZGZ6TmNEekRDdkhwZw?oc=5",
         "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZGJYY08yaWtMM1BBUGFTTTBoUDEzVF9tenE3dUZhVGJobnJWcFJaZXVXYklOYnFSaHdfemo5UTVaM1NaS0lLcTNLN215NVE4R1JQWk8xVjJFS18yZjJxNXZZRk5nUWFfVW52Uk4yQVpKa08taU9lZWhhelNYVFJPSlN3LUdpN2Rkb1FmZ1cxQWY5eHhVcG03QUFjRTkwdW1WbUdkMFRsWkNnb2FaTjBmY00xVVk4OEHSAcQBQVVfeXFMT1M2a09CaXEtbTB2WTdoZTFIejhYT3dOWHhiTFNMSGs0ZjF3NzExRjJQS20yaVgzVFpwUk5RQjVVQ1JGUm9JcW5BMi1hSnA0V1VFMkFISWFWVmt2dFJSLTNnTkFiZ1ZGYUVBQUJKTG9QN2I0U1pkZUpsQXpyb0xXYVNzQTdGaVRvVzZOeFdKcVdMNFplbVl0V0dhWlJxSms5SGlNVlRLLUROR1NwNTA4SlA4bUNQUTd1eld0OUFyVFZHNXljZg?oc=5"
       ],
-      "published_at_utc": "2026-10-15T20:12:42Z",
-      "published_at_ist": "2026-10-16 01:42 IST",
+      "published_at_utc": "2026-10-15T22:33:41Z",
+      "published_at_ist": "2026-10-16 04:03 IST",
       "first_seen_utc": "2026-10-15T15:57:41Z",
-      "age_minutes": 63,
-      "trend_score": 23,
-      "rank_score": 0.9065,
+      "age_minutes": 46,
+      "trend_score": 22,
+      "rank_score": 0.9139,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -477,10 +525,10 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Indian cricketer Punam Raut retires from international cricket",
         "Indian batter Punam Raut announces retirement from international cricket",
         "India batter Punam Raut retires from all forms of international cricket",
-        "Punam Raut announces her retirement from international cricket"
+        "Punam Raut announces her retirement from international cricket",
+        "India women's team batter Punam Raut announces international cricket retirement"
       ],
       "image_urls": [
         "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk3NmVhOWIwLWM4ZDQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
@@ -490,69 +538,90 @@
       "youtube_videos": []
     },
     {
-      "id": "9c965a8504",
-      "key": "campaign-elon-engaged-fema-find-judge-kristi-musk-noem-official-premeditated-smear",
-      "headline": "Judge finds Elon Musk, Kristi Noem engaged in premeditated campaign to smear ex-FEMA official",
-      "summary": "https://www.cbsnews.com/news/elon-musk-kristi-noem-mary-comans-fema-official/A federal magistrate judge said Elon Musk and former Homeland Security Secretary Kristi Noem knowingly spread false information about Mary Comans, the former CFO of FEMA.",
+      "id": "aec623b967",
+      "key": "announce-earth-greatest-share-show-song-tour-world-‘-’",
+      "headline": "U2 Share New Song ‘The Greatest Show on Earth,’ Announce 2027 World Tour",
+      "summary": "https://www.rollingstone.com/music/music-news/u2-new-song-the-greatest-show-on-earth-2027-world-tour-1235643257/U2 take fans to \"The Greatest Show on Earth\" on the latest single from the band’s upcoming album 'Carnaval De Luz.'",
       "sources": [
-        "CBS News"
+        "That Eric Alper",
+        "Far Out Magazine",
+        "Rolling Stone",
+        "TicketNews",
+        "Irish Independent",
+        "XS Noize",
+        "The Line of Best Fit",
+        "SSBCrack",
+        "Ultimate Classic Rock",
+        "Consequence of Sound"
       ],
       "article_urls": [
-        "https://www.cbsnews.com/news/elon-musk-kristi-noem-mary-comans-fema-official/",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYjRDMU5JeUMzc2JGTWppcTNya3BvYTJkZGJYdl9HQkd4SHlJQldxaTdMTnlibWpRV0lmMDhuOEpaNmpSVkg2d3NpZi1JZmE2eTBsdXNkRWdneE11QXVGdDZHVG5tQUMxdHVpdDN5YVkwd2N2ZVRGSzA2YjV2NnlfMmhMNA?oc=5"
+        "https://www.rollingstone.com/music/music-news/u2-new-song-the-greatest-show-on-earth-2027-world-tour-1235643257/",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmc3VlBLMWktT1g2ZkNXOHk1UmlwRmZTZ1NJUjk5REdCOWROb1d0cUNTR29ESFAzRThjZUlHUno3WG13UWF4b3BjN2NiZDBQeXY0OWoxZXduaExqMkhxQm9xZnQxZnpiTmZ6R3NLZ1FfczRoNjRweGx6aFFMZFZCUWYtZ0VlWkhpek1yWEZDQ2w1ekQ2eVAxNUtHMGx5d3JFckZqN1lXU0Y4VWkyUlFSZ2s0eGVxZ0xzNzRMdVVDYzY?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xdHdndVNaekt2eWN1ZTktT1pZdkh4VXpHeFVRbHl2eUZMS2RVaEt3UVphQ1RZTDdHTzM0MDRaOWh1cEl5NER4ZWoxV3hzS0ZISHZXRnkzNUJsQUhYTV9mZ2o2Ukh2XzlaekZzZGxRZDhFMlc4WUZFWHdhU18?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPX3RyMGJjcDNKWDVCTjExa3pmX2dRR3MtWm0xZGFkWE1fM25oRVpFV0RkdzVDdkVMd2FCYlNrcEVqYTRiX0hXV3VKX0pfaDNWc3c3eUZPS2ZQeno4LXNVWnVPdnZNM0tYTWl1cXJtZW1HT3ZqbDVXbUNFZjQ0TDBFWEtVb3h5eThFQkZLY1o2N3VmeFJoT05MRnQyVkRiMU5PYVg4UDVlYnlRUEFTc0NtRl93?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUGNHTC04OGlCWDB2VFBWakZiX2N1NGdLWGV0SFY4b2draXg4MUZSV0VoSkFXQmJkckdKeTduZEFnT0x1bGk3ZDM5RkFPVDFKeHZ4cEU3UVpvZDUtblFJenZONENOS19zcDhuUGRUQ2pMY3FvaDBvdlRqbVVMUXlOcXNwVjMtaFlkWWgzY2g5SmRyZEw0YUE?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOOFhHVUNKNHpSaVhQWHJONW5vbUxCSU85OUJEZjIyMGszdE44VDEyV1NvN3NPQnZhdTd1UVhFQmtTRUtzeWdhaENBT2o5OFgxLWRsdUlROG93WEVGMFNRTXFSTF81SXlFQ1FwSm1yVDJZdFkwNmtyYUgzYWhfZUdjYUlB?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSDYyU2N1S3lyQ0h5Ym9Ud0lCcVNhSXRfOVFndm5sNXl4ei1zbTVpZkVtMWg4djlEQlE1aFU0Uk9JU29LZ01SX2pybDZhb1VublJ2dGNOTzl3WTV6QzZjMG5SbWNBUFV2VUthbkZYanplNjZzeFBSdU0tWGE3QVR6OWVmMUVpZTU0bDFHTzluV0E4UFZVRjRrb3JwWDFqTVI0em5UcG5JY0UyLTM4Q1Nnb25YaFJ3d013Y3E3T29RZzVjR2VtblJyRmxIUGdCcGlPRzl6OUdn?oc=5",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tQlM2dlppOWNNLWlKLVZqQVM0Q3RqVmM2VklKVS1MUU8zNTZ5M2tueEJjQ2k5STRvNG52R0RCVnBGTnd3MFAyYVRzVmxZVFFvRUwtVWoyNk52aXZMS1hIcDBlTHlKamRtcFZsZlNmSlBlS29z?oc=5"
       ],
-      "published_at_utc": "2026-10-15T20:25:48Z",
-      "published_at_ist": "2026-10-16 01:55 IST",
-      "first_seen_utc": "2026-10-15T20:25:48Z",
-      "age_minutes": 50,
-      "trend_score": 6,
-      "rank_score": 0.87,
+      "published_at_utc": "2026-10-15T20:06:18Z",
+      "published_at_ist": "2026-10-16 01:36 IST",
+      "first_seen_utc": "2026-10-15T15:50:20Z",
+      "age_minutes": 193,
+      "trend_score": 29,
+      "rank_score": 0.8339,
       "category": "celebrity_music",
-      "section": "top",
+      "section": "entertainment",
       "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
+      "famous_names": [],
       "region": [
+        "GB",
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Elon Musk"
+        "Celebrities & music"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
+      "other_headlines": [
+        "Beck Shares Orchestral \"Ride Lonesome\" Performance And Announces 2027 U2 Tour Dates",
+        "U2 announce first dates of 2027 world tour",
+        "K-pop aespa Announces ‘SYNK : COMPLæXITY’ World Tour Dates",
+        "U2 Announces First 2027 World Tour Dates"
+      ],
+      "image_urls": [
+        "https://www.rollingstone.com/wp-content/uploads/2026/09/PHOTO-U2-Photo-Credit-Viviane-Sassen.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900"
+      ],
       "video_urls": [
-        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/3591584_hls/master.m3u8",
-        "https://www.cbsnews.com/video/ex-fema-chief-financial-officer-says-shes-gotten-threats-after-being-fired/?embed=1&ftag=CNM-00-10aag7j"
+        "https://www.youtube.com/embed/TUuVOW7XogA?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
+        "https://www.youtube.com/embed/TUuVOW7XogA?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "f22d6dfc46",
-      "key": "1992-manual-mclaren-needed-since-throwback",
-      "headline": "McLaren's First Manual Since The 1992 F1 Is The Throwback We Needed",
-      "summary": "https://www.topspeed.com/mclaren-first-manual-since-f1/The McLaren McL 6GT concept brings back three pedals for the first time since 1992—500 units, ~$1.5M, arriving in 2028.",
+      "id": "472651be73",
+      "key": "aussie-axed-career-decision-devastating-door-shut-slam",
+      "headline": "Devastating decision slams door shut on axed Aussie’s F1 career",
+      "summary": "https://www.nine.com.au/sport/motorsport/‘That’s still an open question’",
       "sources": [
-        "Top Speed"
+        "Nine.com.au"
       ],
       "article_urls": [
-        "https://www.topspeed.com/mclaren-first-manual-since-f1/",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04NFhMRFhXeVZGSFBPSERURDRaLTlZQk1jSUE2d3l4eFFRNWpudnhVY2JDU1ZILTlXeGRmSy1OYVVENGktMXNzeXpfbE1OZTZyeDFmTlg5eWZvU0QybGcyTzNndWRIUQ?oc=5"
+        "https://www.nine.com.au/sport/motorsport/jack-doohan-misses-haas-seat-signing-rafael-camara-ferrari-b-team-links-brazilian-driver-sponsorship-2027-20261016-p6161w.html",
+        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONF9hNVVvbFdPR0pwRm0wR2dyR2NQTmZrajlaUkRIXzdDZHNHOFVLLWJ0T2Z1ZHRZMlpxTDNOS1hKeHpCN1dYRnZSNXA3M3AwaFdOV0FzYV8tWjZSdV93UVFnWENRcHBEUVZMdy1uVHdjZnBsZmF6ckZ4VEtpbFktZkFEQktCSkxzSGt1MjlvdTI4Zno1bVJ2b09Ic1VBVW5HZXJKckp5Q2VTZVFocVlxSVFpQUFjUEVEWXBCSkMwa0pkTUhxNGZSNVpRS2RiR2JZVDlkcmlLT3BEOS1NeXYxQXhMVS1pVS1OblNwUDFoQWY1UnN1RDdOWlFyNA?oc=5"
       ],
-      "published_at_utc": "2026-10-15T21:00:17Z",
-      "published_at_ist": "2026-10-16 02:30 IST",
-      "first_seen_utc": "2026-10-15T21:00:17Z",
-      "age_minutes": 16,
+      "published_at_utc": "2026-10-15T23:01:26Z",
+      "published_at_ist": "2026-10-16 04:31 IST",
+      "first_seen_utc": "2026-10-15T23:01:26Z",
+      "age_minutes": 18,
       "trend_score": 11,
-      "rank_score": 0.8347,
+      "rank_score": 0.833,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -572,55 +641,139 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/2028-mclaren-mcl-6gt-front-view.jpg?w=1600&h=900&fit=crop",
-        "https://static0.topspeedimages.com/wordpress/wp-content/uploads/2026/10/2028-mclaren-mcl-6gt-front-view.jpg?q=70&fit=crop&w=1200&h=628&dpr=1"
+        "https://static.ffx.io/images/$zoom_0.181%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_23/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/eeef8b6814beda502203625a3c21c5605523ca2d58cfd1d32b3582bf1d7b5c0d"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "cb60384014",
-      "key": "000-6-68-book-donated-library-pennsylvania-struggling-swift-taylor-worth",
-      "headline": "In 2011, Taylor Swift donated 6,000 books worth $68,000 to a Pennsylvania library that was struggling to",
-      "summary": "https://timesofindia.indiatimes.com/world/us/in-2011-taylor-swift-donated-6000-books-worth-68000-to-a-pennsylvania-library-that-was-struggling-to-stay-open-15-years-later-it-circulated-182228-items-and-drew-27452-program-participants-in-2025/articleshow/When financial problems threatened to close public library branches across Berks County, Pennsylvania, a major donation from local native Taylor S",
+      "id": "59c79ee045",
+      "key": "all-buying-coded-plugin-vibe",
+      "headline": "Who’s Buying All These Vibe-Coded Plugins?",
+      "summary": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/Vibe-coded plugins are everywhere but does that mean that they’re actually taking over the market? We look at the trend and speak with two developers working with AI as part of their process.",
       "sources": [
-        "The Times of India"
+        "Attack Magazine"
       ],
       "article_urls": [
-        "https://timesofindia.indiatimes.com/world/us/in-2011-taylor-swift-donated-6000-books-worth-68000-to-a-pennsylvania-library-that-was-struggling-to-stay-open-15-years-later-it-circulated-182228-items-and-drew-27452-program-participants-in-2025/articleshow/134976044.cms",
-        "https://news.google.com/rss/articles/CBMigANBVV95cUxQRHU4SFBZYW5qeVpPWU5GS1JJNGVmY3FPSWZGR2pjLTRUSjhXODB5UERqRzA3YzV3eldZNzAzX2JmcUlsZnMtdEtRRFZ2aEJXLXZfV2tLV2dLeURLWGllWjBzZHVjMHNNOEYyMUFZX1RlUFJQbnZJWmJjM0o1N3R4cjNBdkJmNTdLYTFnX0NwMWpIUmtoNTJCYUJYN1J1Z1EycC15bVVkQXFoTmdJVU02dmZMQlQzb29sMWZIYzhRdG0ydnhaSGtlaEhPc0JfR1haWXZmRW92LUJrd3ZyZlJqZEl1TkM4MDIzQ0g4UXo2SWlRbWstdWdOWnh6ZXJVTGt3RFAyZHZ1clZRcTM2TVVtYnoyUGRrZ29ZX3BYZVBXQTN2UEV4LVNFcXVOY045em4tcU1xUHpTamNjeTNYanMwMkljR185RkhZQlMtQTZaek9WUmhrb3B4ZXJhUkQ0UW1TSThJYTJhMF9NMUpIWU9JcVlQY01LYm56UF9OYktvM1jSAYYDQVVfeXFMT3dTWXl0UXkxaGR6eWhEa3p5VlZSUVFaelBpZU4tWE1CT0IyRzdMUWZqSzZHYmdxMlB0YkxFYXJNLW5MamxVbERRblVCNTZoeldzV1c5S1p6NEI5RWNDX3FmZll3LTJPT1dBU2Y5aGRhdlNZZDVkZU9MWjM5N19SSGFYTW9kNGFsa0pscnJXbjZvUkl6WGNFUC1CRGhlcXctenZmdml0Q1ZEMVg1NmpUUnlJNy03bG1VZlIzMFQ4OGlmTUU5Y3JhdnRYazR5SU9vRGU3WFVPc3JpTGd0bVBqMUlTOXBDdlBrTlBNRjZQcmxnb3pxdGdpZHBWcjdSUElQR19YUTNsX21LdGdKU1hwVGtHVnFfUy1oTFRXc056Zi1yWUQ0ZjRtOUJPejcwN0pVdjNrRjQzdm9IbG5rcDIwc2hicXMtVlhHMmV4aGtXWGx3SE9MZDFQMkE5ZG1YUXZsMFJfb0I5bTJscmpKckFpdWQyZFlxMFZzUlNJeVJ1eXYteFp6ZVB3?oc=5"
+        "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNXlOTW1DUEVaRVpvRk51ZklhSEpCajlmNUEzNGhNdUdxcll0ME12M3NwUGR6eFVDemZlREdpQ1FTNVpVdFJpaXFUZ1o1OXVWdnpzVW12VDNZSWF0UXdhcURGdTFZS1lJZnJxbkNSNERjNGNrc2pPaHRvYTB0ZTh0NWREMmpINEtNcl9ySGg4S1JyU2xkMGc?oc=5"
       ],
-      "published_at_utc": "2026-10-15T19:38:00Z",
-      "published_at_ist": "2026-10-16 01:08 IST",
-      "first_seen_utc": "2026-10-15T19:38:00Z",
-      "age_minutes": 98,
-      "trend_score": 13,
-      "rank_score": 0.821,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-10-15T23:05:35Z",
+      "published_at_ist": "2026-10-16 04:35 IST",
+      "first_seen_utc": "2026-10-15T23:05:35Z",
+      "age_minutes": 14,
+      "trend_score": 5,
+      "rank_score": 0.7253,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
-      "famous_names": [
-        "Taylor Swift"
-      ],
+      "famous_names": [],
       "region": [
-        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "AI tools & agents"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.attackmagazine.com/wp-content/uploads/2026/10/3b83c303-dcf6-4d40-bb9a-7def2f026386-800x274.png"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "96743eeec2",
+      "key": "tech-trend",
+      "headline": "Tech News and Trends",
+      "summary": "https://www.techbrew.com/issues/Oct 15th, 2026 - Plus, new spyware that could be on your phone right now.",
+      "sources": [
+        "Tech Brew"
+      ],
+      "article_urls": [
+        "https://www.techbrew.com/issues/openais-going-through-it",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OU3huRTdETDJXNTFYckJrNnJQSnlWQWxxcU9Kd21rdmpQaFJ4OEtvcGg0N2sxUTVsWjlXUUgxUmg2dU9oZkc1VEtXblBSMkYzQ1pYQmRoYmFWQzRkZGcxRks5UFg3aEk?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T21:30:09Z",
+      "published_at_ist": "2026-10-16 03:00 IST",
+      "first_seen_utc": "2026-10-15T21:30:09Z",
+      "age_minutes": 109,
+      "trend_score": 6,
+      "rank_score": 0.6708,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music"
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://static.toiimg.com/thumb/msid-134976073,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "https://storage.morningbrew.com/image/2026-10-15/image-d62cdf46958f58ef059bf0e7a86d7405f3347864-3000x2000-jpg/TB-OpenAIWeek-1026.webp"
       ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "8f76616963",
+      "key": "african-bordering-central-congo-ebola-outbreak-province-republic-spread",
+      "headline": "Congo Ebola outbreak spreads to new province bordering Central African Republic",
+      "summary": "",
+      "sources": [
+        "Reuters",
+        "NDTV",
+        "ThePrint",
+        "ReliefWeb",
+        "Xinhua"
+      ],
+      "article_urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-confirmed-eighth-province-congo-sources-say-2026-10-15/",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQkNiUlNXdnRrOERCOFFKUF9WYzd5d2F5UVdLeHpUWWhyMHVkZmJXb3dydnVYNW1Ja0NUWG5TclBNc09GLVVuLVFZcDFLbGF4S2xjN2ZGVHJjUF80NkxtV1VCSTctS1Bmal94OVh3ZktsZ1VkWkRDLTJiQkFneDVGRjh1UlJ5M01ubmRyUVI0M3IySlJ4VV9GUkdmYUFIZnpySTVubUhzMmZXVkltT2dQM3M0Y2VCb0FtejFrVzdB?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQTJzSWxGbHR6eVZzeGRUcTFxZnVXUTJHNXJWMEkxbnpOU3pzTkRnVG5PNC1zb3JXNkJWM1FXOWM1cGhndDJMdHByWTNDRFFVUTVqMDBsNWRvUl9GY09uTzJ5a1hSSGJYeE0zTjBfWDRjbk41VVgyczBOY1drdG1vSUJuRG9KU3ZTT1pVS2poalpIZ2VWTHE1SnpYdTNEbWwtSG5QdEFrWlhhWS1hdUZNUzY5amctZ0wtVnZSY1pQcw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2IyRzdCVzNCRnNuTnZNekxDRzY4MGZBa1ZpMDdiMldUXzJ3dzRTSUIwOXVTaFB6UUxHN1VBTWV6VklMOTB5Y09tTGUwSTFESmUyd0txbGxwTGotaHRjcEpoelpVMG1BUFlsVGtTZ2ZoMWF2MjNLaklJSnNlT1ZaMXlzbVhWdEVsT2NzdUo0LVBmczFwa19ua2pVTmI1TTJyS19JYUdRYlXSAa4BQVVfeXFMT19jMncxU2pOU2MydFI4ZTcwT21HeGZoODg4Qjg5TFA0TVJ1aDhxZFlmdDA2SFd3SkhURWY4N1FwTlZfV2tMZ2s5Z09WaU1TSWx4OHpoc2VGWlI3MTJqaXRhRjlvMmhIRmRZcnNrb28xeWJvUGZuaUNvRGZYZEZLMThRY1FveEdRaFJ2WVNJcFJ1bmtjRk41dWFFdldIZUtsbWxSM3NaMTZYbFdqdl9B?oc=5",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxQcG1rZy1NaU1jWF9pT2s4Rm5lSk9VcUF2LU53bjNDRm5HMV9mN0QyQ0RUTDEtcnVldE9VOFhlbjNFOFVtV2M4cnUzLVNrSVNOS1ZLX054QVY2OTYxci1GUlA5TXFKdHNvOElKVXVCemtacm5jTEQ1Y2pYVFp3b2N2eEZLbUItU2s0M1hqSkNBLTQxeWE2ZkRwQU5pcVVQN2dVWExqRDRvOHRVTThETXpYQUFmNzlqZ3RIWXJYMVA1NWZFdXFqSWhjTWJzb1VnRHZSbGVXYUhacHFwb1lqUXczaFRkcklmaElkUXFUaGVOM0hXMmQzcktQTFY3VkI2T2xXYlVXblhLUDY0V3BlemU0Q2ZR?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6c2xvNUZSUnJFNkVUbk82TG1OZU41a1YtZDBxd3JDZjhSMG9mUFRJVFJLUVRpWUpzMlpfdTZRbnRja0x0WUpyNDZXOEM3S2VQUzBvMXY5N1pJdWpTRzVnaXAyalZJOElaOHJ5My1EMVBWdVpHeC1wZG80aTQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T21:12:50Z",
+      "published_at_ist": "2026-10-16 02:42 IST",
+      "first_seen_utc": "2026-10-15T21:12:50Z",
+      "age_minutes": 126,
+      "trend_score": 6,
+      "rank_score": 0.6567,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -640,9 +793,9 @@
       "published_at_utc": "2026-10-15T21:09:07Z",
       "published_at_ist": "2026-10-16 02:39 IST",
       "first_seen_utc": "2026-10-15T21:09:07Z",
-      "age_minutes": 7,
+      "age_minutes": 130,
       "trend_score": 6,
-      "rank_score": 0.7558,
+      "rank_score": 0.6533,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -669,95 +822,6 @@
       "youtube_videos": []
     },
     {
-      "id": "3ba56f08ae",
-      "key": "against-all-header-ignore-indirect-injection-instruction-master-please-previou-prompt-rise",
-      "headline": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
-      "summary": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/Most attempts were pranks, but some could fool unwary AI agents",
-      "sources": [
-        "The Register"
-      ],
-      "article_urls": [
-        "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
-        "https://news.google.com/rss/articles/CBMinAJBVV95cUxNWGVZWEl3eVFEeF92RHVOcXpWX1B1NU85czBGSklWbUNaZTUwdFQ5WnkyMkt6VEdVWlh5MVdaZUdYVWg5ZGFIYkhnaVpuS2k5aXBQNWQ1Ujk2bGxBQ1lfOXFNcDlFVERQQUsxZHhrelhQYi1aOFpLS1pYMWJVLXdjR21BNUhhakJVYmdiZy15cVpYeE1ucXhGbmE0SGNFSUZwVVlxRVUzdXVfOUdfMEE5TkgzV2ZMTVREdXlyQ1g0MV9WZDZfNTRIZEx2WWUzRFZXajgyMVhyS0FwWUxmTEE4bktMdTl0QU50YWlSSndSREVhUHdXbDBWbnVaSDNFQ0IwUkxvc2tHRHFqMVZDdE9uSEdGcktMVXNGRzEtOQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T20:04:00Z",
-      "published_at_ist": "2026-10-16 01:34 IST",
-      "first_seen_utc": "2026-10-15T20:04:00Z",
-      "age_minutes": 72,
-      "trend_score": 6,
-      "rank_score": 0.7017,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://image.theregister.com/5303438.jpg?imageId=5303438&x=0&y=28.33&cropw=100&croph=71.67&panox=0&panoy=28.33&panow=100&panoh=71.67&width=1200&height=683"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e4c53a0f8a",
-      "key": "challenge-event-max-non-racing-schedule-verstappen-world",
-      "headline": "Why is Max Verstappen racing in GT World Challenge? Schedule, how to watch latest non-F1 event",
-      "summary": "",
-      "sources": [
-        "ESPN"
-      ],
-      "article_urls": [
-        "http://kwese.espn.com/f1/story/_/id/50165650/max-verstappen-returns-gt-racing-why-f1s-star-competing-gt-world-challenge",
-        "https://www.espn.com/f1/story/_/id/50165650/max-verstappen-returns-gt-racing-why-f1s-star-competing-gt-world-challenge",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbjdUNmU5QlhlSDJoNjEtQkRqQzRqQjVLVURpeUJRTnNFcmlIYmZLUFNzc2dEdmhmSFBvMjdxVlJLNEFvTjVtUmFmcV9BX2R1Zm9zSk5LRzhpVHZCMGo3RDZ5bTcteldJamhkeUE4RndhUkhfZU92NHNfcFpPd3JYOFlMb3k1S3FPbmd5TGNiTUFwdloxU0tubWRyWVFuRnRMLWtwLWVqb01MUDdVaXlzcGY2MWl1czFRZDFn?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnZDQnNjckpYYWNGNk5WektjVTlGUjRMZENUVVVIUndhUVViTFhPd2UyclREbTFhT0VzRnVibDhNcDlET1BVc3cwWHdQbkVyQjJyYmNGU3lacWdrVDZGRkxremdicW1iUnRqLVBoQmNUTXJEVG9KTHNVZ2xtN09GVFUtODZoWnpJQzNyVnNKOEtnc0tNcmlPakR6Xzd3SmM3d2lEeVRlRHROQ1JSc2hWUUZNQUx3RHZfX0E?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T16:55:31Z",
-      "published_at_ist": "2026-10-15 22:25 IST",
-      "first_seen_utc": "2026-10-15T16:37:00Z",
-      "age_minutes": 260,
-      "trend_score": 11,
-      "rank_score": 0.6613,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Max Verstappen"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1",
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "d7b78f6cfc",
       "key": "fcbarcelona-flick-football-raphinha-short-🫶",
       "headline": "Flick 🫶 Raphinha #shorts #fcbarcelona #football",
@@ -771,9 +835,9 @@
       "published_at_utc": "2026-10-15T17:08:24Z",
       "published_at_ist": "2026-10-15 22:38 IST",
       "first_seen_utc": "2026-10-15T17:08:24Z",
-      "age_minutes": 247,
+      "age_minutes": 371,
       "trend_score": 5,
-      "rank_score": 0.6598,
+      "rank_score": 0.621,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -810,52 +874,6 @@
       ]
     },
     {
-      "id": "3eb74f70a4",
-      "key": "15th-mean-movie-review-sean",
-      "headline": "Sean Means Movie Reviews From October 15th, 2026",
-      "summary": "https://x96.com/rfh/sean-means-movie-reviews-from-october-15th-2026/Opening October 11, 2026 What’s opening: • Musk Alex Gibney’s four-hour documentary about Elon Musk. Unfortunately, my efforts to watch […]",
-      "sources": [
-        "X96"
-      ],
-      "article_urls": [
-        "https://x96.com/rfh/sean-means-movie-reviews-from-october-15th-2026/",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sS0tOTGdkUXVvR1FiS0VDWTVaS0dPdnFlZFp6MlBqcHp4X2lPTDR0bUxEUWU3QjZodzlmYW05TlRwYmlUa3k4cDFHaWdGem1CRG5kbjBzLW9SME5QX2VocEFPQTFQVjJMNW44cURMYlJDbk9JdVhR?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T19:08:08Z",
-      "published_at_ist": "2026-10-16 00:38 IST",
-      "first_seen_utc": "2026-10-15T19:08:08Z",
-      "age_minutes": 128,
-      "trend_score": 6,
-      "rank_score": 0.655,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://x96.com/wp-content/uploads/2025/02/Sean-Means.png"
-      ],
-      "video_urls": [
-        "https://youtu.be/FFTf1lzcs28?si=UO6a_Z7DmigaATaZ",
-        "https://youtu.be/U6sbm1OaJb8?si=Ik8l5k9t2LAmRaRt"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
       "id": "2660ce3a04",
       "key": "going-jayshetty-partner-sabrinazohar-short-trigger",
       "headline": "Your partner is going to trigger you #jayshetty #sabrinazohar #shorts",
@@ -869,9 +887,9 @@
       "published_at_utc": "2026-10-15T16:00:31Z",
       "published_at_ist": "2026-10-15 21:30 IST",
       "first_seen_utc": "2026-10-15T16:00:31Z",
-      "age_minutes": 315,
+      "age_minutes": 439,
       "trend_score": 5,
-      "rank_score": 0.6385,
+      "rank_score": 0.5998,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -908,6 +926,52 @@
       ]
     },
     {
+      "id": "3eb74f70a4",
+      "key": "15th-mean-movie-review-sean",
+      "headline": "Sean Means Movie Reviews From October 15th, 2026",
+      "summary": "https://x96.com/rfh/sean-means-movie-reviews-from-october-15th-2026/Opening October 11, 2026 What’s opening: • Musk Alex Gibney’s four-hour documentary about Elon Musk. Unfortunately, my efforts to watch […]",
+      "sources": [
+        "X96"
+      ],
+      "article_urls": [
+        "https://x96.com/rfh/sean-means-movie-reviews-from-october-15th-2026/",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sS0tOTGdkUXVvR1FiS0VDWTVaS0dPdnFlZFp6MlBqcHp4X2lPTDR0bUxEUWU3QjZodzlmYW05TlRwYmlUa3k4cDFHaWdGem1CRG5kbjBzLW9SME5QX2VocEFPQTFQVjJMNW44cURMYlJDbk9JdVhR?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T19:08:08Z",
+      "published_at_ist": "2026-10-16 00:38 IST",
+      "first_seen_utc": "2026-10-15T19:08:08Z",
+      "age_minutes": 251,
+      "trend_score": 6,
+      "rank_score": 0.5525,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://x96.com/wp-content/uploads/2025/02/Sean-Means.png"
+      ],
+      "video_urls": [
+        "https://youtu.be/FFTf1lzcs28?si=UO6a_Z7DmigaATaZ",
+        "https://youtu.be/U6sbm1OaJb8?si=Ik8l5k9t2LAmRaRt"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
       "id": "2daf81a8e6",
       "key": "asian-ceremony-felicitation-game-heartfelt-laxman-modi-post-vvs",
       "headline": "VVS Laxman's Heartfelt Post For PM Modi After Asian Games Felicitation Ceremony",
@@ -922,9 +986,9 @@
       "published_at_utc": "2026-10-15T17:15:51Z",
       "published_at_ist": "2026-10-15 22:45 IST",
       "first_seen_utc": "2026-10-15T17:15:51Z",
-      "age_minutes": 240,
+      "age_minutes": 363,
       "trend_score": 5,
-      "rank_score": 0.546,
+      "rank_score": 0.4435,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -965,9 +1029,9 @@
       "published_at_utc": "2026-10-15T16:00:00Z",
       "published_at_ist": "2026-10-15 21:30 IST",
       "first_seen_utc": "2026-10-15T16:00:00Z",
-      "age_minutes": 316,
+      "age_minutes": 439,
       "trend_score": 6,
-      "rank_score": 0.4983,
+      "rank_score": 0.3958,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -987,49 +1051,6 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "41e6f38244",
-      "key": "learn-question-student-teaching-think-through",
-      "headline": "Teaching students to think and learn through questions",
-      "summary": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "sources": [
-        "OpenAI"
-      ],
-      "article_urls": [
-        "https://openai.com/index/teaching-students-to-think-and-learn-through-questions/",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUM4cS05YTJBcTliVVRXaW9CVU1tWGFWRVZPWExRMzNpSDNIM0xSc0l6czdLOFFUSFFPN0czQ0l4cG9PeUNjYWVUajlQNF9ZalNZZTJ2S09VRTlqdlE3Y283MW5CLUE5V2hIdXdMX3V6OERkSHVqTWJLWGE2dmFtdHJSREFrb3c?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T13:06:42Z",
-      "published_at_ist": "2026-10-15 18:36 IST",
-      "first_seen_utc": "2026-10-15T13:06:42Z",
-      "age_minutes": 489,
-      "trend_score": 6,
-      "rank_score": 0.3542,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://images.ctfassets.net/kftzwdyauwt9/16A5mkf828KStF68ijvmN1/2f720d42bb308b9c1ab0edc26a047a17/teaching-students-to-think-and-learn-through-questions-social.png?w=1600&h=900&fit=fill"
-      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
