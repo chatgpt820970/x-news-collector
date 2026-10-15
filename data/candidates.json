@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-15T07:08:23Z",
-  "generated_at_ist": "2026-10-15 12:38 IST",
+  "generated_at_utc": "2026-10-15T08:23:37Z",
+  "generated_at_ist": "2026-10-15 13:53 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5708,
-    "fresh_items": 4574,
-    "clusters": 2035,
+    "raw_items": 5784,
+    "fresh_items": 4646,
+    "clusters": 2083,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 93,
+    "youtube_uploads_fresh": 97,
     "youtube_items": 2,
-    "famous_items": 5,
+    "famous_items": 4,
     "trends_terms": 40,
-    "page_fetches": 54,
-    "with_video": 5,
-    "runtime_sec": 28.2
+    "page_fetches": 68,
+    "with_video": 6,
+    "runtime_sec": 21.9
   },
   "categories": {
     "famous_clip": 3,
@@ -32,95 +32,53 @@
     "other": 6
   },
   "top_trends": [
-    "arthur gea (US 500+)",
-    "wardogs season 2 release time (US 200+)",
-    "mia pohánková (US 100+)",
-    "texas senate race james talarico (US 10000+)",
-    "mia pohankova (US 500+)",
-    "iva jovic (US 200+)",
-    "dv lottery 2027 (US 100+)",
-    "luka doncic (US 100+)",
-    "tsmc stock (US 500+)",
-    "maja chwalińska (US 200+)",
-    "australia champions vs england (IN 2000+)",
-    "மழை (IN 20000+)",
-    "केंद्रीय औद्योगिक सुरक्षा बल (IN 1000+)",
-    "अनुपम खेर (IN 500+)",
-    "गैस (IN 2000+)",
-    "राकेश प्रताप सिंह (IN 2000+)",
-    "ഹൈക്കോടതി (IN 500+)",
-    "विराट कोहली (IN 1000+)",
-    "mahindra xuv 3xo (IN 1000+)",
-    "ಭಾರತದ ಚುನಾವಣಾ ಆಯೋಗ (IN 500+)"
+    "antigravity (US 2000+)",
+    "汇率 (US 100+)",
+    "chapman (US 200+)",
+    "jeļena ostapenko (US 200+)",
+    "leylah fernandez (US 200+)",
+    "fitness (US 2000+)",
+    "石油 (US 100+)",
+    "sonay kartal (US 200+)",
+    "brandon aiyuk (US 100+)",
+    "arthur gea (US 1000+)",
+    "leylah fernandez (IN 200+)",
+    "शमार जोसेफ (IN 200+)",
+    "സബ്സിഡി (IN 1000+)",
+    "polycab share (IN 1000+)",
+    "സച്ചിന് പൈലറ്റ് (IN 200+)",
+    "অভিজিৎ দীপকে (IN 1000+)",
+    "கார்த்திக் சுப்புராஜ் (IN 200+)",
+    "धान (IN 500+)",
+    "கப்பல் (IN 500+)",
+    "d a news (IN 500+)"
   ],
   "items": [
-    {
-      "id": "29d305cfbf",
-      "key": "confirmed-grand-granted-hamilton-lewi-prix-wish",
-      "headline": "Lewis Hamilton wish granted as new F1 grand prix confirmed",
-      "summary": "https://racingnews365.com/F1 is heading back to the continent of Africa with a new purpose-built racetrack to host African Grand Prix in Rwanda.",
-      "sources": [
-        "RacingNews365"
-      ],
-      "article_urls": [
-        "https://racingnews365.com/breaking-lewis-hamilton-wish-granted-as-new-f1-grand-prix-confirmed",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUpqTTQ4cTYzdUR1aUtNQm4xYVpZV1JCX3UteURpb2FseFZKM1BKV1NTeXJZbTZ2RWNwUi15V3hkOFQtdDlTaUlzQ0ZhVW11Z21wMkliRmxXY2QwaXd2M0VyWEQxeGlZeHZoQnBnTmV0Sk82WnlQMEFOVndFSjZKaFRXTTFfelAwVXlsWHM2VzFZaDRtRDYtaA?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T06:53:06Z",
-      "published_at_ist": "2026-10-15 12:23 IST",
-      "first_seen_utc": "2026-10-15T06:53:06Z",
-      "age_minutes": 15,
-      "trend_score": 11,
-      "rank_score": 0.9855,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Lewis Hamilton"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://cdn.racingnews365.com/2026/XPB_1399899_HiRes.jpg?v=1772965817&width=1800&height=945&quality=75&crop=3168%2C1664%2C0%2C57"
-      ],
-      "video_urls": [
-        "https://youtu.be/jZ0ZtWqEu2s"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
     {
       "id": "8cb3b05ffc",
       "key": "apology-blast-culture-gaga-lady-mill-owe-stephanie-vulture-‘-’",
       "headline": "Stephanie Mills blasts Lady Gaga as ‘culture vulture,’ says, ‘You owe me an apology’",
-      "summary": "https://ew.com/Stephanie Mills recalls a meeting with Lady Gaga, whom the Grammy-winning R&B singer says lost her ‘admiration,’ calling the pop star a ‘culture vulture.’",
+      "summary": "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/YOKOHAMA (Kyodo) -- Japanese high school pitching phenom Shoki Oda announced Thursday he will skip the Nippon Professional Baseball draft and begin pu",
       "sources": [
+        "The News International",
         "Entertainment Weekly",
         "Los Angeles Times"
       ],
       "article_urls": [
+        "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/029000c",
+        "https://pacificleague.com/en/news/2026/10/10055988",
         "https://ew.com/stephanie-mills-calls-lady-gaga-culture-vulture-you-owe-me-an-apology-12174670",
+        "https://dailyorange.com/2026/10/beyond-star-ratings-letterboxd-personalized-outlet-su-students/",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRlN4TExodHlXQXRBTFFmN3k5ZzdzbHJZZEVaQ0tIMzNaRFhFOWV2ay1DWmQ3R254VUt2a29oOWI2a3J3bzJ3R05QbUozOUp4ZTB3NEpFb3RRMFJOcGtUYXNZSTRXaEhreFZDaEdVRDJGVWEzODZHWHBNRmQ2cjFOYnF0WE5VQU00NGROMHRoakxwMUtSZjV3cUhHWkRsaXFWRDEwb1ZqSWd1ZjZiOWd0SGNsUlVibnB4bGFr0gG7AUFVX3lxTE1GU3hMTGh0eVdBdEFMUWY3eTlnN3NscllkRVpDS0gzM1pEWEU5ZXZrLUNaZDdHbnhVS3Zrb2g5YjZrcndvMndHTlBtSjM5SnhlMHc0SkVvdFEwUk5wa1Rhc1lJNFdoSGt4VkNoR1VEMkZVYTM4NkdYcE1GZDZyMU5icXRYTlVBTTQ0ZE4wdGhqTHAxS1JmNXdxSEdaRGxpcVZEMTBvVmpJZ3VmNmI5Z3RIY2xSVWJucHhsYWs?oc=5",
         "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2FNTXpIb29ySEs0NW0tajF6SU9CNWxlMm9kd2dYUFY3OWwwQ0xPNVIyeXE2RlhWWk55X1Bpa0dQMFkyc1JseURsZEVxeWs0Y29RM1Y2WGVEQ041ZFI0eGVhQU5JeUhlSGdkWmdHOWNhY1BySkFYeHZyWDJQTjZONklCTTEzYmpUWUhzSDJoV25XTXdLTURYZw?oc=5",
         "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTEpBUGthZlE5ZUY2Y281VnBBTHNoTGJyOG1qd3Q0dExRX0VDY0tMRUUtWk82TlV4OUJ4NkZ1dzVUVDI4aUdSWXNBdW50UFd5NWFsNXNDWXprT3doemJZSEFleGV2Y3RrMVE1VXRONjJvdUx0akU0bEZqUkhLY2RSS0oxamhaUmVXWHVxcmFwYjZrdkVUcmF0VFBWcWZkSEoxZ0lBYllnclR3dGlOR2FYM0hn?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:06:27Z",
-      "published_at_ist": "2026-10-15 11:36 IST",
+      "published_at_utc": "2026-10-15T08:07:00Z",
+      "published_at_ist": "2026-10-15 13:37 IST",
       "first_seen_utc": "2026-10-15T02:28:00Z",
-      "age_minutes": 61,
-      "trend_score": 9,
-      "rank_score": 0.918,
+      "age_minutes": 16,
+      "trend_score": 17,
+      "rank_score": 1.0496,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -133,17 +91,24 @@
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [],
+      "google_trends": [
+        "star (JP 100+)"
+      ],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Stephanie Mills opens up about ongoing beef with Lady Gaga: 'You owe me an apology'",
         "Stephanie Mills calls Lady Gaga a ‘culture vulture,’ says star owes her an apology"
       ],
       "image_urls": [
+        "https://cdn.mainichi.jp/vol1/2026/10/15/20261015p2g00m0sp028000p/0c10.jpg?1",
+        "https://hochi.news/images/2026/10/13/20261013-OHT1I51362-L.jpg",
         "https://ew.com/thmb/4rkq23EWxNGE0Hrf-I21Adpl9L4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lady-Gaga-Stephanie-Mills-101426-00a0b7e7440c4ee882ad4c9d482cbe9b.jpg",
-        "https://ew.com/thmb/ayf3t4FqcuXk6eaDHF6-pMwa1w4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(742x233:744x235)/Lady-Gaga-Stephanie-Mills-101426-00a0b7e7440c4ee882ad4c9d482cbe9b.jpg"
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0FFH7pmFk2qDHkkmdM0mTI8rBfi3d48xIJ_sUJcHLKmjGEPynH9u6GYvDa7A",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxBBTtqpMIIJJMyIsM1xnn9JWoH2fiO_mEcBguszmYs0i8q2QbbnBMb8lTdHc",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZY6dYCGl3zkqORrHcwDuNXbieRk4FBRy67FY80skSDKvFZhlQ1Z6muIkdrhs"
       ],
       "video_urls": [
         "https://www.youtube.com/watch?v=7ygvIW0cBmA"
@@ -152,23 +117,90 @@
       "youtube_videos": []
     },
     {
-      "id": "d3a0370fc5",
-      "key": "again-called-down-elon-musk-once-scandal-starlink-step-ukraine-zelenskyy",
-      "headline": "Amid the Starlink scandal in Ukraine, Elon Musk once again called on Zelenskyy to step down",
-      "summary": "https://ua.news/en/world/American billionaire Elon Musk responded to criticism regarding problems with Starlink's performance on the front lines in Ukraine.",
+      "id": "e7a6980283",
+      "key": "asked-imran-india-khan-leave-shocking",
+      "headline": "Shocking: Imran Khan asked to leave India",
+      "summary": "https://teluguone.com/tmdb/bollywoodnews/Imran Khan, best known for films such as Jaane Tu... Ya Jaane Na and I Hate Luv Storys, has been asked to leave India by October 28 following his participation in a protest against Chief Election Commissioner Gyanesh Kumar in Mumbai. The development has come as a surprise, considering the actor is Aamir Khan's nephew and made a promising start in Bollywood ",
       "sources": [
-        "UA.NEWS"
+        "BBC",
+        "Yahoo News UK",
+        "Reuters",
+        "The Times of India",
+        "TeluguOne",
+        "Jagran Josh",
+        "New Age BD",
+        "NDTV",
+        "Connected to India",
+        "News18"
       ],
       "article_urls": [
-        "https://ua.news/en/world/ilon-mask-na-tli-skandalu-zi-starlink-v-ukrayini-ta-znovu-zaklikav-zelenskogo-piti-z-posadi",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamxZNWZmVFBRTXVKRVlleEY3Qlc3OUlYZmFERS04cHpuazNLVXlWaktnR0JLMmdXTTdLWnlRYmJrRUxrelE1WldCNURQY0NONjBNV1hZNEZfaGp5d1k2MkZ6bGZfclBKbXBtcG5RQVJKMmk2cWl5Q0FmcmpyenBRZTlwLUc4Z3VZMEM1WDBHa1duVEtTbEJmSkF4YjZyNzZBaEhQLU1wU2NXeGsyZ1lXTWNnSVNNX3M?oc=5"
+        "https://teluguone.com/tmdb/bollywoodnews/shocking-imran-khan-asked-to-leave-india-en-234467c50.html",
+        "https://www.bbc.com/news/articles/ck3r5pv5j1g1o",
+        "https://uk.news.yahoo.com/bollywood-actor-imran-khan-ordered-081346279.html",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQldDdHlua0R0SExYd2ZLcTBDOEtpMXpFVlF3TGw0QUVLYWYwalNaTjJKdkdWdzVLX0xHY1lBbXNsWjFDT1BzeGFmWUw5dnkyX3I3X25NeldiNUE?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ0F1QTVZQy1IRHZqS3FRd25FRGhzeHJwdGI0MFdycnFjUDJGSEdfU3RfMEtRZE1TTXZBd0Jqbmx3TGo2VTVYeHRMQkY1cG9fYUN4UzRndEMydXY4ZEJmem1DMVJxR0Z2OWpac0h0bkgtYWZtVXJjaVBGR3VEejFYWg?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONkJPS0gxbDFyUUhGSlZVRThBVHgxaWk5bUstV1NDU3pMb3YyOG4teTlUZk04bVluNU1KN2lMclo4OUc0azhSRzBUYTNVdGZRdVBPVVFzVlFhTV8yMjB3SEZUcVpaYnFVbHd6QTV0SFVqUUlYZ25KQUJKX0tYa1pMU044eFhobzhudDlOSnNEazN1T2RmN1Z1MEJ1cnpOQzJLS0NDZG5ZNlM1U0VSSnV4d0NpcUd5ZndnZF9zakJhdy1fVTBMbm1zb3l2cXUzTDFFVE1j?oc=5",
+        "https://news.google.com/rss/articles/CBMigwNBVV95cUxOUUR3RHZFcTJqeV80MjV4Y0VfLUItZEtWNWZpOWZxZ25ZbHhGb0lIT19nNEZvanQxemdyM2I1TmhYUnJUOERGaUxFOFZkSExrdWR4VW1PSmlSaEVZRzNYQU9aMU5FLW1WeVR5Z0p0dHFleVFJZEl3VXZYT2stX1Rrb2t1dVowZzZrUjhCZDVwUnZIUFR3UHJxZkVSa2ZSZnZoUjJBc2U1aFc3cWlQZzJXSFV6QXcwM0JROTZRbmtERVlWRk5kNnVORnVDcGI5bTNYMC1uU1VoRzRuVzY2NWZ4OWMzaWpBX3JxQS1rRTVjVmdObC1jWk5pV0NWZndPSUFtRmNCdGtiWXZYZXdzNUc1enFlLTZkMkFEUDk4R1FSMjM0aG9namZiMWhhN2JHb2VOTXVoVjc0d01IVHdtZzFsS1FQT0xrWi1aVGdZa3lBUTViZFVhMzN0SExaR0NCR0ttMWNSZk1adkNuemgtd2hPY2VIbnQtZmRzdGlhNWd5RlVYbjjSAYgDQVVfeXFMTUEzNkl0Ympmd0JNcHZDSUhROC0tQlQ3Mk1FY3ZNS0l2ZzVCRUNWbUJXYzQtUEZZTWE4dE56MExmLWZ5VFhEVUw5RUhXYk5XNWJnVExkUXJBYk5oTVVQbk84SmZIajJjSHhOYmdpS0N3ckduYTVmaXVOc21lMzVKZTh6eHdwQlVpZlFoejVoYW9YdWw5Y3AyMDc2blR5MzFjUGNUYWZKZlhEWEZPMmJEeVhWRkVZVm5uVVNmemtOOGhkS2R5Uk5xVWZlUlB6SDdEdnFFdWExSWh3STNuV3FGenJqbjVjWHV4OVlHRjljbDFfX3pyMXJjeXRPM1Q3emlqTGRuVXBEcmI1SldPdHVwNEsxbzlHZWVXQ1FWNHlFSGwxWDdvMUlTTWJtYmhGOFk2RmRFczVFWmlKS2ZsT2tieDg5OG5NRzhTYW54OS15VnBpQzlQaHFnbnQ1NWFDb253TTBEZlg3QXpJWGVtX05rM1dibFFtVlNKOGNha29zb29wQk5sdkhkSGg?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZFdTRmZKRXQtMXBDZV9CUDVOV0tGWVpnQk1yVzdFdXlnekhkZU04NHJhYzJ6N0Z2UkFfc1B2TkZEOFN5LXd5dU9JcFZCYU5yZ0Ytc0djUEF1QlYyQ05qTEJkWjd0dFBTOTE5czVhNjZWeG10bWYzOFg0UG1vS0JUek81cDJqem9lWjJUQnFmVUdMQlpGS21mMnBnQWROeU9C?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:03:26Z",
-      "published_at_ist": "2026-10-15 11:33 IST",
-      "first_seen_utc": "2026-10-15T06:03:26Z",
-      "age_minutes": 64,
-      "trend_score": 9,
-      "rank_score": 0.9155,
+      "published_at_utc": "2026-10-15T08:17:07Z",
+      "published_at_ist": "2026-10-15 13:47 IST",
+      "first_seen_utc": "2026-10-15T05:03:59Z",
+      "age_minutes": 6,
+      "trend_score": 26,
+      "rank_score": 0.9729,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Imran Khan: Bollywood actor asked to leave India after participating in CJP protest in Mumbai",
+        "Bollywood actor Imran Khan ordered to leave India after taking part in ‘cockroach’ protests",
+        "Bollywood actor Imran Khan asked to leave India after participating in protest, media says",
+        "Imran Khan asked to leave India by October 28 by Mumbai police for participating in CJP protests despite"
+      ],
+      "image_urls": [
+        "https://www.teluguone.com/teluguoneUserFiles/img/Imran-Khan-asked-to-leave-India.webp",
+        "https://ichef.bbci.co.uk/news/1024/branded_news/f633/live/f4307ee0-c86f-11f1-971b-634f423608e9.jpg",
+        "https://s.yimg.com/lo/mysterio/api/9ee5eb395a6ff3a55d128295dfbe46793a60ca8b135b425874d3a9ae0412467d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F1630da570cb9ba3fdc2af68b0bc3aab1.jpg",
+        "https://s.yimg.com/lo/mysterio/api/9c86de894f6da134a7a80d5f3b6fdbb727e1b5d59c1f02cdabeb34cdb144fcd4/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F1630da570cb9ba3fdc2af68b0bc3aab1.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "5969ae4cd5",
+      "key": "alex-director-documentary-funeral-gibney-musk-terrifying-warning",
+      "headline": "Director Alex Gibney on terrifying Musk documentary: 'It's not a funeral; it's a warning'",
+      "summary": "https://www.cbc.ca/news/entertainment/Alex Gibney's nearly four-hour, fire-and-brimstone documentary Musk — on tech oligarch, worlds-richest-man Elon Musk — is not uplifting. Instead, it is one of the most depressing and terrifying pieces of public media since An Inconvenient Truth alerted a mostly unaware public to its imminent annihilation by climate change.",
+      "sources": [
+        "CBC",
+        "POV Magazine"
+      ],
+      "article_urls": [
+        "https://www.cbc.ca/news/entertainment/alex-gibney-musk-documentary-9.7381024",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYlR3OFN5aUFaaHdYV3FudTNpbkRxOFJZQVRYZ3hsWExBSnJoYlJEUnlmTjA5aGVNMEw2TzZIWTJMemxSem1qU0JxVHZOLXVvOFgyQ0dBR0NteXc4Q2huS2hIT2ZyR3BFTUVoNjBXalNDdl9mRnZpSnF6UlpBeW54Tktn?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zUE1FYWVVekZHMDAzTDJqb3dZd0h3cWpRZUQyMHhfM3hvY2hNZFEwYlVnbDF0ckhUWFIzTzRCcmZScHNzWDJ4TkV5cWpsSXJtMjdOTG5LalU3R3AxUFh6UFBnSHlOT2gwSkx5NEh1ZzFubWtaTDhVM2EwQlN0UQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T08:00:00Z",
+      "published_at_ist": "2026-10-15 13:30 IST",
+      "first_seen_utc": "2026-10-15T01:28:32Z",
+      "age_minutes": 23,
+      "trend_score": 10,
+      "rank_score": 0.9649,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -189,135 +221,62 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Alex Gibney on Musk and Playing in Elon’s Sandbox"
+      ],
       "image_urls": [
-        "https://cdn-cabinet.ua.news/uploads/images/no-image.webp"
+        "https://i.cbc.ca/ais/939d3d8e-2242-4544-8906-65c29bee21f1,1792013463201/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C387%2C7513%2C4226%29%3BResize%3D620"
       ],
       "video_urls": [
-        "https://cdn-cabinet.ua.news/uploads/images/talents.mp4",
-        "https://cdn-cabinet.ua.news/uploads/images/gf/cv-banner.mp4"
+        "https://www.youtube.com/embed/FFTf1lzcs28"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "98df3b5a4d",
-      "key": "bull-contract-extend-laurent-mekie-red-until",
-      "headline": "Red Bull extend Laurent Mekies F1 contract until 2031",
-      "summary": "https://readmotorsport.com/2026/10/15/red-bull-laurent-mekies-contract-2031/Red Bull have handed team principal Laurent Mekies a contract extension through 2031 after back-to-back F1 wins in Malaysia and Singapore.",
+      "id": "884b0bc59c",
+      "key": "score-sport-transfer",
+      "headline": "Sports News, Transfers, Scores | Watch Live Sport",
+      "summary": "https://www.puntodebreak.com/en/2026/10/14/We analyze the aspects you need to know to watch live the quarterfinal match of the ATP Masters 1000 Shanghai 2026 between Alejandro Davidovich and Arthur Géa.",
       "sources": [
-        "Read Motorsport",
-        "F1 Oversteer",
-        "Sky Sports",
-        "GPFans",
-        "FormulaRapida.net",
-        "The Washington Post",
-        "Speedcafe.com"
+        "Sky Sports"
       ],
       "article_urls": [
-        "https://readmotorsport.com/2026/10/15/red-bull-laurent-mekies-contract-2031/",
-        "https://www.f1oversteer.com/news/red-bull-fans-all-make-the-same-christian-horner-point-as-laurent-mekies-signs-new-contract-to-2031/",
-        "https://www.skysports.com/f1/news/13599324/laurent-mekies-red-bull-team-principal-signs-contract-extension-to-2031-and-vows-recent-wins-only-the-beginning",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDBXNWg5TS1lSUdCT0hkVzFZOFRaM3RXZEZpT2RPYWdzVDVucUc5Tm9LbFhFcjFBemU2NlFtS2prNkxzWUtrN0c2T3pfUDB0Q2txM1lzTHRZNmk2NGptd3FnNUlZX0hjbXJGNWt1Z0RtMHBJV1VZX252eDRHTnZLQXF3?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOENnYl8zYlRWZE43RC1lOUZCLTg3YW1Nc29rb2ZhbUdIYk53Y3J1WEVHb3BjYXVUVGdwaTVCdk1WSmYxVXRmYnFiYTQzUTg1cjJ4XzlNcUw1TEhyLU5QUEpGczYwcXM2MmptanNleFZ2NUEzcnhSdVRRSzFySE5ydXVLNE5TQlRvMGYxQTVob2NwVXNPaTBWMnlSZnpUeEFLS1k3ODlxN0w1NkxTTzlyZ2oxZ2w3c0ZMazBUWW8tbVZkc21ray1RVmVvN1ZsZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkZnNmhCUnRiT2hMN2s2ZHFtN3VhNEFUcVRSNkY3emtMNENNQ2NTNkF0M0IxTkpyMXFwc09JRGlZWVN2TFR6RFBqUGpVMzZ1dmFfLXZEOGlGZlpUbFp0VjZERGVmNTlMY1QxaXRRbFdNTEJadzhsVWZNalgtYk00eXY4TEYzZVBUMjJjOEJYUmNKZ0lGd3k4VkxVR0VCUFpZdWFPUEVZc1FHQlNOTlZTN193NkRRRmY1eThWYXBxT3hRa19DdmFTN0w5VVo3VVhTU0pxVi1LT0VtcUtxR29lUXp4a0gtdzJBV3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEtxbmJ0YlhtcDNQNXVtNmZ1ejJMelE4WmVlYkZ4c2RwUFpEUFZTbE40Y3NjQlF0bUp4VmpnQ2xMZC1vN25DVldEME85S3pnTjN1TENsa3Bma0Q1R190WTFudERIR201NHVZRGNiYmJ0N2N1RFFUX1lBbndhNEwwR3dSeVJrYnFCWW5FdS14N0s0cnM3OFR4M2o1RXlsaXI1cFRJaFZUdmh1em1sempBMDROeXlwOUcxQ3c?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OZTZ5X1BZQkNBbmFURHNYVlRHbG45QXdNdGo5OXpMSFZvQnBxMVk3eEQzZmVqeXpqcHJPOHJNNFRrWGdyLWwyMm1hb01TV1VoS2JOX1E3TnM3b2JzdU1zM2dzZnB0OTRzQWfSAW9BVV95cUxPZHM2bmpQVFdpNUxIUUtRZVNwM1dXbHMwY3JZNHg5SzdmenZVTVlDRm5LazhGMGIyeDNCYnBnUnM4YjNISG0zLXdpUkdHUWZDZWE2OE1idEtLZGxwWUItc2NvZUljcjNDNEw2dmZ6S2c?oc=5"
+        "https://www.atptour.com/en/video/hot-shot-sensational-foki-finishes-point-in-style-in-shanghai-2026",
+        "https://www.puntodebreak.com/en/2026/10/14/what-time-and-where-to-watch-the-match-between-davidovich-and-gea-in-shanghai",
+        "https://www.skysports.com/tennis/watch/6850452470909394112/rolex-shanghai-masters-2026",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRVNTeUk0UXlDX2VrX1RBbDh3SGFWOVowTTN2a2FqRVAxWFFUa2FxdXZIWDZNMXlzTHJnR1JpUDNwSWZib2JlX3RTeEdTOTgwRmtqYllhT3JBdlZCTzM1TVhmaGM0SWVXUmwtSUdhTzJvR21raWRlb01uaExvQnctTzU0M2pwOXllNElyOUNhWQ?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:50:20Z",
-      "published_at_ist": "2026-10-15 12:20 IST",
-      "first_seen_utc": "2026-10-14T22:09:57Z",
-      "age_minutes": 18,
-      "trend_score": 17,
-      "rank_score": 0.8979,
+      "published_at_utc": "2026-10-15T06:25:13Z",
+      "published_at_ist": "2026-10-15 11:55 IST",
+      "first_seen_utc": "2026-10-15T06:25:13Z",
+      "age_minutes": 118,
+      "trend_score": 10,
+      "rank_score": 0.9564,
       "category": "sports",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "US"
+        "GB"
       ],
       "language": "en",
       "priority_queries": [
-        "F1"
+        "cricket"
       ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Red Bull fans all make the same Horner point as Mekies gets new contract to 2031",
-        "Laurent Mekies: Red Bull team principal signs contract extension to 2031 and vows recent wins 'only the beginning'",
-        "Red Bull plot to sign Fernando Alonso revealed as Laurent Mekies issues statement - F1 News Today",
-        "Laurent Mekies renews his contract as head of Red Bull’s F1 team"
+      "google_trends": [
+        "arthur gea (US 1000+)"
       ],
-      "image_urls": [
-        "https://media.readmotorsport.com/readmotorsport/sites/10/2026/10/WmOBFDLYlV6N.webp",
-        "https://cdn1.f1oversteer.com/uploads/37/2026/10/GettyImages-2299382004-scaled.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "4957c16606",
-      "key": "28-actor-bollywood-imran-india-khan-leave-participation-protest-told",
-      "headline": "Bollywood Actor Imran Khan Told to Leave India by October 28 Over Protest Participation",
-      "summary": "https://www.arabtimesonline.com/news/bollywood-actor-imran-khan-told-to-leave-india-by-october-28-over-protest-participation/Bollywood actor Imran Khan, an American citizen, has been ordered by Mumbai Police to leave India by October 28 for allegedly violating immigration laws by part...",
-      "sources": [
-        "Arab Times Kuwait News",
-        "Rising Kashmir",
-        "Daily Excelsior",
-        "Mid-Day",
-        "Newswire",
-        "Telegraph India",
-        "Hindustan Times",
-        "NDTV",
-        "The Times of India",
-        "The Hindu"
-      ],
-      "article_urls": [
-        "https://www.arabtimesonline.com/news/bollywood-actor-imran-khan-told-to-leave-india-by-october-28-over-protest-participation/",
-        "https://risingkashmir.com/national/mumbaipoliceimrankhanprotestindia-12677669",
-        "https://www.dailyexcelsior.com/mumbai-police-ask-actor-imran-khan-to-leave-india-by-oct-28/amp",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSURSVlpaQVBjM29JZXlyQ1ZBSEllTEF5ZWtiNE5mRG9aZEtILWNMNkZNV2tJZ0RzOWRsem10YVFiZk83SFZFNzc2djRmUU9RM3ZUOFU0MFZfeXFONldQM1lBbjJJQm5QUWsyMk5lUk1DRlIwRzZwV0JEbmgwU0lCQncwNEdhbEMzRU9qUEh0TU12UC0xSVdaTzFhcXVyZ3R4U05xUGJuV2ZjRy15SHV0U3VVaDVUN3JQMWEwRzZ2bUNkN0E?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHhZMXRndmZ2WlRzY2FnOWtwem9WbGs1S2JYQlVkelBfU0pfSFlhdGh4Q09KcTJrWGpTdVhFSGl5eG1vNHhYbTV6RTk1SEVycFd2Si03VzRpVU1wNU9xMUk1VFRWck4zM0NjSm94Zk0yOEpaa3NOWmtEd2k3cmRwSWV5OA?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOakxnVHNHZFZSdUZMTktOdGVCX0JsTnV3TEFkb0p6M1Y5SzRmdG54TUV5UEhuLTItWVVSelB2ckRud1JoUW45ZHBtMERWWS1fY1dXX3B0bFFHdXZldkVEZkFqTnlfTFBjclZ6d2JLR3pZQS1xVjZsalVpUlVhdzlHbXEwM0JrTXpCQ3VMMHAxZkxsSTR6ZTFSVWpR0gGaAUFVX3lxTE5qTGdUc0dkVlJ1RkxOS050ZUJfQmxOdXdMQWRvSnozVjlLNGZ0bnhNRXlQSG4tMi1ZVVJ6UHZyRG53UmhRbjlkcG0wRFZZLV9jV1dfcHRsUUd1dmV2RURmQWpOeV9MUGNyVnp3YktHellBLXFWNmxqVWlSVWF3OUdtcTAzQmtNekJDdUwwcDFmTGxJNHplMVJValE?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdGJPdHdqc1BfcmJWUFpEam12UUFnTmluQ2l6TlBIQlQ0NlVSYzhDdVluYXBadkZaOHZRQ3BvWmJwTVNmdVlIT0x3bEluOFJSRUV4Q3Mwd1NXcjFTOHdmNnN0dFpiNk5OMjVHRE13dmQzMTNfN3NpZ3BJSG9WS3pUUENaSm9fYzBzU095X1hma1pMVWJESnE2Ri1PWGtWeDM4NVZoNDk3WTdKWW1IeHNTLUdYa0xmb1lBTmFUcnJieXFLNE1fb296c3F4cm0wZzdUTGZ6dG56b2_SAdgBQVVfeXFMTXRiT3R3anNQX3JiVlBaRGptdlFBZ05pbkNpek5QSEJUNDZVUmM4Q3VZbmFwWnZGWjh2UUNwb1picE1TZnVZSE9Md2xJbjhSUkVFeENzMHdTV3IxUzh3ZjZzdHRaYjZOTjI1R0RNd3ZkMzEzXzdzaWdwSUhvVkt6VFBDWkpvX2Mwc1NPeV9YZmtaTFViREpxNkYtT1hrVngzODVWaDQ5N1k3SlltSHhzUy1HWGtMZm9ZQU5hVHJyYnlxSzRNX29venNxeHJtMGc3VExmenRuem9v?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMEhsNU1JMGdXcTMwcnRpbkVZT1ZTRkRWRjJlSVEySU44eExVYVZ0WXpaWUtwMDNnSXZRMVh3aXRmRU5RTkpRTXNJWDlHcjhDNWI1d1J2Wm1KTkVuakJPSDUzUDlvM3ZKcWlfMXVDNXpfQ3RjVm9jc0s0Y2NqVHdONEZaN2tTR0NFR0NDekEyVHB2b2xjQk5QSg?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T06:44:43Z",
-      "published_at_ist": "2026-10-15 12:14 IST",
-      "first_seen_utc": "2026-10-15T05:03:59Z",
-      "age_minutes": 23,
-      "trend_score": 17,
-      "rank_score": 0.8938,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Mumbai Police Issues ‘Leave India’ notice to Bollywood actor Imran Khan",
-        "Mumbai Police Ask Actor Imran Khan To Leave India By Oct 28",
-        "Imran Khan asked to leave India by October 28, Mumbai Police issues notice amid citizenship row",
-        "Bollywood actor told to leave India over election protest"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTQwZmNmMDEwLWM4NjAtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
+        "https://www.puntodebreak.com/sites/puntodebreak/files/2026-10/alejandro-davidovich-a-que-hora-juega-contra-gea-shanghai-2026.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqSCvmecxI0YfERyF0ppHUOq8tNHOwv5WfXGNd-7xv-4LcSPCKNrVccIC3cKo",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYAxMQLawqrqSMX3d8JO3_wj3GSBDTRp5jHwoctT2ZTJURlO67xq4BJb03VrE",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSU3Kv4R7FhRBzonWSeIzHYBfSQn8vzP4B8OAQqZfvwnY8Xa19zy4-q0-XP5-s"
       ],
       "video_urls": [],
       "has_video": false,
@@ -333,29 +292,29 @@
         "Rediff",
         "The Times of India",
         "Outlook India",
+        "Sportstar",
         "Livemint",
         "Cricinfo",
-        "Telegraph India",
-        "ICC",
-        "NDTV Sports",
-        "Cricbuzz"
+        "Cricbuzz",
+        "The Indian Express",
+        "Hindustan Times"
       ],
       "article_urls": [
         "https://m.rediff.com/amp/cricket/report/samson-reveals-what-cost-india-the-4th-t20i/20261015.htm",
+        "https://www.mid-day.com/sports/cricket/article/ind-vs-wi-4th-t20i-keemo-paul-speaks-about-west-indies-24-run-win-against-team-india-23655206",
         "https://www.mid-day.com/amp/sports/cricket/article/ind-vs-wi-4th-t20i-team-india-achieves-new-record-in-shortest-format-of-the-game-23655184",
-        "https://timesofindia.indiatimes.com/sports/cricket/news/the-turning-point-was-when-tilak-varma-got-out-sanju-samson-explains-why-india-lost-4th-t20i-against-west-indies/articleshow/134958356.cms",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ3FfQzVIMjdkbmh4amdmOENJQ0dKaHFFbjJvUFRVclZ5R2RDeTNXbUhOVUd6TGNBWmlPVVZIZkhKVWlWREVfTWU1amx6M29NREwydmlTa2p2MEMzWkZRSTlEcTBDamtfbGRCRnVRajJvck1GRDlmUGJWX2s3MXBGWDNLcmpGdHB0Qk1HZk8xUFZaYkd5cnJzcHdpOEVLUUNCVlpwRWpteV9ZUDZpWk9UWWFXQmFiS0h3TFZGbURfQ28zNGFBb3ROYVRpTFdTeExSaE9fSTVnONIB3AFBVV95cUxPSjBvT3JVQWE3WDI1SXJDWko5b3ZfRDh5Y1VIdjdHc0d2aFpiRGFubmdrdUxLVm0yeTkySXJ0alJ1ZV9ybllGMWxhUGJUZGRzaXJxZ1NJOWFoaGxuX290NGoyTFE5UVNiVTA1bWRKOVN4OEVmNkdXN0ZNVVNNcTBfVlJMYnh1WW5Fb0J0bkdUM1NkT0VSM0dBb1BjT0IwbUNKbjhBVWtBUU5YYzZldFp4LVRlcHAyNDEtTEhuTGJab1FxdWJiTmZHMXNZZVRoZkY3MG5iX2FCQnJMbGdF?oc=5",
         "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcGxOeWNVZWM2MUhFNzFwd3dvRUJsN3hpYXc1SW9TdTNmRFFRU2VLVkdtdmZfVDZ2U281amhaeEFOb0tNQVF1ZVdXTjRjN20yWmFjVlA0MjVMZ1c2YURMQ2hLVnhMTjZoNVROWjJUVDIyY1NBR3JYcW93QXJDZXhFMXlSOE5ONkpQZjFTcjVlUTQ4b2t1cnk0Q0wyd21VcGxqM1hDaUpSSkRvZUpQRWJrX0xxRTlmQVFPbE9jOEN5eTRTajBnWkowdzk0RkJkSFk0NE44LUtUVdIB1wFBVV95cUxPcGxOeWNVZWM2MUhFNzFwd3dvRUJsN3hpYXc1SW9TdTNmRFFRU2VLVkdtdmZfVDZ2U281amhaeEFOb0tNQVF1ZVdXTjRjN20yWmFjVlA0MjVMZ1c2YURMQ2hLVnhMTjZoNVROWjJUVDIyY1NBR3JYcW93QXJDZXhFMXlSOE5ONkpQZjFTcjVlUTQ4b2t1cnk0Q0wyd21VcGxqM1hDaUpSSkRvZUpQRWJrX0xxRTlmQVFPbE9jOEN5eTRTajBnWkowdzk0RkJkSFk0NE44LUtUVQ?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVV9zMElnOHkwYjk0MEloejg5c2V1N2RMa2hXc2syRmJwb1RkbnZscXZ2S3Rxb1FwU2hMOG5pUG85RFBhSkVTa0VQT3ZZblYtR1NWZ3dOeERIT1lRWDBpOENjNDd4ZnRUaXYxWERvRG5KaERaSHdKWXZJR1Z2RTd6VEwzMXlaR01EZkRLczVSVFdIWDBmT1VqVHYxY2TSAZwBQVVfeXFMTlVfczBJZzh5MGI5NDBJaHo4OXNldTdkTGtoV3NrMkZicG9UZG52bHF2dkt0cW9RcFNoTDhuaVBvOURQYUpFU2tFUE92WW5WLUdTVmd3TnhESE9ZUVgwaThDYzQ3eGZ0VGl2MVhEb0RuSmhEWkh3Sll2SUdWdkU3elRMMzF5WkdNRGZES3M1UlRXSFgwZk9ValR2MWNk?oc=5",
-        "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQU91ODNaanFXN0VaN0V6aHp6VG9UTVN3VkpNZXpHUVF0RTF4anVMRlVKZTZlT0dCUzVxNl9CNzJxc3JXaGJMWFM4VmR0anBQRHVkREtDRU9MLVBNVXZpQS0xRUNCUi00bWlLOEZHdzZtZWF1Mm1sUWl0b0NJdFlrV0tVcF9NZzlfel9kM2tvNEl1LWtJV0ZSUFk2UXg5eVJYNHBNRFNXMU1fVmdUeHNWc21TampmX3BFUE5kWU5zMkhaX1FTZ05xYXpiVmxTSXlpZm1naU1FTGV1TWR3NmQ3a2lybjZDSjVEWnlnY3NtaVc2QXJUWVdBa0hPVi1meC1DWjFabVRTS3NxY1FjRzZTa0taUGdNYkRKdFNPRVNyMNIBugJBVV95cUxNNDl3VWRoTXVhcTB2U3cybWpVQnl3U2Q5Vm92OXlud0lMTjRfT21LeGRvUzd2WXNZUFJxUlhqMTdDT2FCNzVBSUZYQ2RVcUVfMUNXQjk3RXdRZU5ncTB1X0MyR01JS0E5Q0I1UkFJUkZMaXJNcWVjT2pqNkVLWk5RSFRFMkNpM3lkQW1lVlBrdmhzM3F5SlVwbjFlbDRWa0QyZ1JGRkwwdG5DZXU5SVl4MEZPUkc2NEJ1aVRRUU5zYVJqM1dVaUpxLW9lUW9rMUxtTDJvZ2s1ZS1zRkFubFd2T1JxSWNCeDNhTkVKQjd5TE5VbEhocmgwWGdFd1hrOGFsaDJVR1hMQUpyd0V1cWNpeGlINC0yUmxoU1lGMU9TTEJxSXJ6Y3I4NDYzdWRUbW9fOWxRMXhYcjN3UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSHlVWVRhdWlFempUZkxaX2s1VGF5THhCZk9BX0d6WXhGcmk0ckMzY280dnYzdnRmNXpvLXpBYnRlekNZbndFcHY5M0g4VWRYc0FqTTRST05hMnowbEJzRnU2N1ZaaG9waTNJaExRckhsWGVrUU8wT3JQbHBRTkZXRlRUbTRnRC11UWlEd1haSC1lQkFjSGxDdWZXVU1vT0ljbkgwcDQxWUhpQ0pkSUgxQk9LREtxUEJRQUVKZk1wZktGdFZ0RnJEcXFsejZfX1FoeUFEVTJoRU50Y0Npei1NNU8tWk9zdE1fWkk1dXNRaE3SAf4BQVVfeXFMTVJOM3FpZThSYlc1RFpraUFkREpCTjRJeVFkRUYtUTJ1LWtRelVjZVdKNDYwWnA3Y2xuZjZ4Z0J5T2U4VTgta3RESVhkVDRfV0g2S2JDVU5FalVVeW1abm9sRHd0UlVoYW9wRkNTb1pEU1U2bjJQOEUyZFB4Q1VlNi1HMTdNREg2T3dxY2U0Y1lnQ2xXYXo0WnkyR0Vlal8zcWlTNVFYbVZXdFNmTGZmR051eWZzR0s0eUFhbm1DcktOQURZUHRFaHpRWkcycDJBX1F5UjBDQl9yNlFZcjd0T205UHVMQWJkQmRlOGM4OGo4UGZGRGdPcy1BN3FydWc?oc=5",
-        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZl85ZlNOeXJXVVpzcUdmdTZkUzFxOEVDWUZ1TzYwMWZPQVFyZnZ3b2h5TEh5QjZnc1VFT29qWHlsdGtiZTRZaVBPRXp2dDVORzh3cFpQaTBFa0U1U3FHTFN6R3JqVnN4OVZsREpwVkhtSGxqc21BLUF6RDVyY1lpV1NIZEJUX2YyckJnbXV5ZjBOWnR5UkxjTnhfVFNQOHItdmt2V2NWelF6YmdrMjhrb3Z5SXFRcXBRbnk4ODRkSkFoeU1SVmx3bWRxVjNfeFRWbk1EMVZQeGtkemYtdnFaX3pGY0pZS3k0SGhtZU9PVUFBV3d4SXVaLWxOQTLSAYICQVVfeXFMTW5KaEhBMkp3N3lMaW11SnVzMXAwVlhOY25hUTR5UUxJZU1BUnpRWFMxTk1KM2lSRW9Ud3YtczdheTJSNTB2cjBYbzBpUC10YmlSNEtDRWVac0t5NElrdmw4MHJfQlZHd3FsMjRRUEN1Yy1rblNsMWFTdk5SM2pJVGhPMnQ5bXlxei15RTdudURsUlh0Q0pnclZTRWdHOWt5QzMzMldNNmk5WnJCUzVad19wNThzX2kybXFQVzZWOXhFXzc2bDBEMFJ2N3ctMjZnaDltdXZWM1dKRTlTM2FldUFHZWZTXzFZYXNtUFh3Y3JkbnJDSldYMWYwajJlc3ZldlBB?oc=5"
+        "https://news.google.com/rss/articles/CBMitAJBVV95cUxNeEVORGprR2N2ZXBudWhtTnpXQWdzam1IXzd6a19IWUtTQmkxZy00SDdMSVVIclNUNkhQM0o1NjY3b1ZGSmx5Tk1BNWJ1TFV5bWZqOEJnQXhCTkhtNU1SdGFqLTBzOUJPbXpWNWo4OHpDQjNMUWJBSl9lTEZJUEU2WTlkQ00xeDNVd2hOdUwyaERkU19kSFpOUDRKZUQ5WExpN2h2WmVtSEczQmhEa1RGNDljRW5SMTlHTklZUEh6eUMzd3k2TVNrdW5lVzJkZmpVWmNZY2tBWTMtdU1YVXcwRVhxR040SkRfSDZkN2tydjFUZU9heHpIR2FKMlI2eEdTcEFkeklHTzk3VElfUmluZjhJN21MTlkzR1lsQVhXd19EM09Sai1uMVYxSDVZYlpVWHh0aNIBugJBVV95cUxNNDl3VWRoTXVhcTB2U3cybWpVQnl3U2Q5Vm92OXlud0lMTjRfT21LeGRvUzd2WXNZUFJxUlhqMTdDT2FCNzVBSUZYQ2RVcUVfMUNXQjk3RXdRZU5ncTB1X0MyR01JS0E5Q0I1UkFJUkZMaXJNcWVjT2pqNkVLWk5RSFRFMkNpM3lkQW1lVlBrdmhzM3F5SlVwbjFlbDRWa0QyZ1JGRkwwdG5DZXU5SVl4MEZPUkc2NEJ1aVRRUU5zYVJqM1dVaUpxLW9lUW9rMUxtTDJvZ2s1ZS1zRkFubFd2T1JxSWNCeDNhTkVKQjd5TE5VbEhocmgwWGdFd1hrOGFsaDJVR1hMQUpyd0V1cWNpeGlINC0yUmxoU1lGMU9TTEJxSXJ6Y3I4NDYzdWRUbW9fOWxRMXhYcjN3UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSHlVWVRhdWlFempUZkxaX2s1VGF5THhCZk9BX0d6WXhGcmk0ckMzY280dnYzdnRmNXpvLXpBYnRlekNZbndFcHY5M0g4VWRYc0FqTTRST05hMnowbEJzRnU2N1ZaaG9waTNJaExRckhsWGVrUU8wT3JQbHBRTkZXRlRUbTRnRC11UWlEd1haSC1lQkFjSGxDdWZXVU1vT0ljbkgwcDQxWUhpQ0pkSUgxQk9LREtxUEJRQUVKZk1wZktGdFZ0RnJEcXFsejZfX1FoeUFEVTJoRU50Y0Npei1NNU8tWk9zdE1fWkk1dXNRaE3SAf4BQVVfeXFMTVJOM3FpZThSYlc1RFpraUFkREpCTjRJeVFkRUYtUTJ1LWtRelVjZVdKNDYwWnA3Y2xuZjZ4Z0J5T2U4VTgta3RESVhkVDRfV0g2S2JDVU5FalVVeW1abm9sRHd0UlVoYW9wRkNTb1pEU1U2bjJQOEUyZFB4Q1VlNi1HMTdNREg2T3dxY2U0Y1lnQ2xXYXo0WnkyR0Vlal8zcWlTNVFYbVZXdFNmTGZmR051eWZzR0s0eUFhbm1DcktOQURZUHRFaHpRWkcycDJBX1F5UjBDQl9yNlFZcjd0T205UHVMQWJkQmRlOGM4OGo4UGZGRGdPcy1BN3FydWc?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:17:00Z",
-      "published_at_ist": "2026-10-15 11:47 IST",
+      "published_at_utc": "2026-10-15T07:54:00Z",
+      "published_at_ist": "2026-10-15 13:24 IST",
       "first_seen_utc": "2026-10-14T23:30:10Z",
-      "age_minutes": 51,
-      "trend_score": 19,
-      "rank_score": 0.8873,
+      "age_minutes": 29,
+      "trend_score": 17,
+      "rank_score": 0.8888,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -374,16 +333,355 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "IND vs WI 4th T20I | 'The slower balls helped us...': Keemo Paul after win against Team India",
         "IND vs WI 4th T20I: Team India achieves new record in Hyderabad",
         "'The turning point was when Tilak Varma got out': Sanju Samson explains why India lost 4th T20I against W",
-        "'When He Got Out': Sanju Samson Reveals Exact Moment India Lost Control Against West Indies",
-        "IND vs WI 4th T20I: Shai Hope's love affair with Team India continues as he achieves several feats with fiery ton"
+        "'When He Got Out': Sanju Samson Reveals Exact Moment India Lost Control Against West Indies"
       ],
       "image_urls": [
         "https://im.rediff.com/1200-630/cricket/2026/oct/14prince-hetmyer-wicket.jpg",
         "https://im.rediff.com/300-300/cricket/2026/oct/14prince-hetmyer-wicket.jpg",
-        "https://images.mid-day.com/images/images/2026/oct/indianplayers_1792044866739_d.jpg",
-        "https://static.toiimg.com/thumb/msid-134958577,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "https://images.mid-day.com/images/images/2026/oct/keemop_1792050471164_d.jpg",
+        "https://images.mid-day.com/images/images/2026/oct/indianplayers_1792044866739_d.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "efb1e757dc",
+      "key": "10-artist-award-melon-music-open-voting",
+      "headline": "Melon Music Awards 2026 Opens Voting for Top 10 Artists",
+      "summary": "https://www.chosun.com/english/kpop-culture-en/2026/10/15/HEBTDZPUDFCKXFITO7IDQJGQ2Q/Melon Music Awards 2026 Opens Voting for Top 10 Artists 30 nominees including BTS, BLACKPINK vie for top honors at November ceremony",
+      "sources": [
+        "조선일보",
+        "매일경제",
+        "The Korea Herald"
+      ],
+      "article_urls": [
+        "https://www.chosun.com/english/kpop-culture-en/2026/10/15/HEBTDZPUDFCKXFITO7IDQJGQ2Q/",
+        "https://www.mk.co.kr/en/culture/12176742",
+        "https://www.mk.co.kr/en/musics/12176588",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVTFBamNQMjFpVjNPc29FWW9sdE5KaXRNMUVPUzJ2YWVLMjBzdUtDek9BdjFfcG0wOGxtMGdkOUdFdmtIS0JoVmg3S1pobjJQVjZneVZ2ai1MOG5WdVF4UVN1SzN1TU5EaDJsOWNqUHRvVTdrcWF1bTdWb2V2QlhQYjA2enVEMDhEcmpEcVVB?oc=5",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NU2J4MENQanJlZ2FFTVFGUmJSanpNSHlaSndrTTUtOXd3ZWJ0Y0NMQjc0dEExYlQxVjdrTTZxYTJ0N2hldzRFM0J4c0pCZEZMekE?oc=5",
+        "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nVkM5LU1xQzRFelJlZXktM09hUlNpdGVPUFQ4c1Zaa3ZOdGNHbnpXN3QxcHItejREZTU0ZlZGUm5GaXZ4SnZTaHFka2V5TXJa?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91aWtTYlB2X1RmWjZmeWxtSGhIRmM5TnJZbVFSVndsbkRCVHVka2UtbF90cFpFVmFkMDBjZVA1cGNmN0p1alIxX3FfZ0NOX1pJTWFRZDlGZw?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T08:04:51Z",
+      "published_at_ist": "2026-10-15 13:34 IST",
+      "first_seen_utc": "2026-10-15T01:32:38Z",
+      "age_minutes": 18,
+      "trend_score": 16,
+      "rank_score": 0.8888,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Voting opens for Melon MMA2026 TOP10... 10 acts to be named this year’s top artists",
+        "From BTS and BLACKPINK to CORTIS and Hearts2Hearts... ‘2026 Melon Music Awards’ opens TOP10 voting",
+        "BTS exceeds 100m views with ‘Hooligan’ music video"
+      ],
+      "image_urls": [
+        "https://www.chosun.com/resizer/v2/GYYDSNJQMZSDCZLCMY2WMZJTGU.png?auth=25fe323717a22f21a07eb4a9be177ea42412da90d4cbfe4779111b752b2ac9de&width=530&height=278&smart=true",
+        "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.10e1c83dd2bd473f86eaf320c611beb1_R.png",
+        "https://pimg.mk.co.kr/news/cms/202610/15/news-p.v1.20261015.ed4a033eecd04e468ec8ffbfa51e09d9_R.png"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "cdd2e7b23f",
+      "key": "campaign-cher-front-grace-icon-jennie-jone-moncler",
+      "headline": "Cher, JENNIE and Grace Jones front Moncler's latest Re/Icons campaign",
+      "summary": "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/YOKOHAMA (Kyodo) -- Japanese high school pitching phenom Shoki Oda announced Thursday he will skip the Nippon Professional Baseball draft and begin pu",
+      "sources": [
+        "Culted",
+        "Harper's Bazaar Australia",
+        "WWD"
+      ],
+      "article_urls": [
+        "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/029000c",
+        "https://pacificleague.com/en/news/2026/10/10055988",
+        "https://culted.com/fashion/cher-jennie-and-grace-jones-front-monclers-latest-reicons-campaign/",
+        "https://dailyorange.com/2026/10/beyond-star-ratings-letterboxd-personalized-outlet-su-students/",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNXpBSGUxR2R3MjZCV29NT0tnNEQtbGNUWk1tRVU3WjVzX252NTJ4b1ljWDJ6VWhxakVlVVNaaXRQVGtZbV9zQWZ6cFllTXVpaW9yN0xvWlBMUVJpa01mbkgyX0Z4TnpfZm83OTN5VFpsSDM5THA2M0Z6VmRPV1pLQmdydl9McGpJN2VWT0hkbmdJSlRQRFpoUmFn?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5IY281Q2EyNW9neEFPaDk2eTY1QkpCWFpTNGhscFNDVVdCMTdTYW1QcUJqM2h3SGVfajRhTExHV0dpOFZMZktudzctX0c0T25nWlFTLVpIMUVCWXp1LXA1N0lUZk5NNDJCV3lkc1AybDRhcFpGV3Zod0l3?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeFU5dVkzbVpkcklXYkFlM25ZOHZrSGdHTzd5akhGRjM0T2tRckhIWllxTzZPUG0yYUoydmZPbkNEMlN0cHFMNGw2Q3M3NEd5QXVVSTVHVi1MeDhfeDF2OG1MTVFkdEZodkpfZ0Nvc2xPdXpqak1KWDgxZXNqendobUZISm16NnFseVpxRlJ3aXY3a3NGNFZOMWFvaHFJc1R0T0NyWlZsc0tEQQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T08:00:00Z",
+      "published_at_ist": "2026-10-15 13:30 IST",
+      "first_seen_utc": "2026-10-15T04:05:47Z",
+      "age_minutes": 23,
+      "trend_score": 15,
+      "rank_score": 0.8749,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "star (JP 100+)"
+      ],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Cher, Jennie and Grace Jones star in Moncler’s Re/Icons campaign",
+        "EXCLUSIVE: Cher, Grace Jones, Jennie Front Moncler Re/Icons Campaign"
+      ],
+      "image_urls": [
+        "https://cdn.mainichi.jp/vol1/2026/10/15/20261015p2g00m0sp028000p/0c10.jpg?1",
+        "https://hochi.news/images/2026/10/13/20261013-OHT1I51362-L.jpg",
+        "https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/MONCLER-2.jpg",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0FFH7pmFk2qDHkkmdM0mTI8rBfi3d48xIJ_sUJcHLKmjGEPynH9u6GYvDa7A",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxBBTtqpMIIJJMyIsM1xnn9JWoH2fiO_mEcBguszmYs0i8q2QbbnBMb8lTdHc",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZY6dYCGl3zkqORrHcwDuNXbieRk4FBRy67FY80skSDKvFZhlQ1Z6muIkdrhs"
+      ],
+      "video_urls": [
+        "https://culted.com/video/radmedia-showreel-720p.mp4"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "131e97cfbc",
+      "key": "attack-call-colapinto-fans-franco-media-rival-social",
+      "headline": "Franco Colapinto calls out his fans for social media attacks on F1 rivals",
+      "summary": "https://infonews.ca/news/7954637/franco-colapinto-calls-out-his-fans-for-social-media-attacks-on-f1-rivals/ENSTONE, England (AP) — Formula 1 driver Franco Colapinto has called on his fans to stop social media campaigns attacking other drivers and his Alpine team",
+      "sources": [
+        "iNFOnews.ca",
+        "Newsday",
+        "PlanetF1"
+      ],
+      "article_urls": [
+        "https://infonews.ca/news/7954637/franco-colapinto-calls-out-his-fans-for-social-media-attacks-on-f1-rivals/",
+        "https://www.newsday.com/sports/motor-racing/franco-colapinto-f1-social-media-abuse-f87001",
+        "https://www.planetf1.com/news/franco-colapinto-plea-social-media-attacks",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMkpDbW1oelA3eEduWXNuRERKRFd5ZmE1MFNydzh4R1hjQmZsTzE1eWd1b3hRTUw5TklTUlpiUDJ5Q2ZJQ2RpUk9mUnNDRHJRVDNGUndCWkdrQ2dPWEpKXzBXeWZ1XzVwZC1sN1k1NWxLZ1NMeDlveDdMTmYxWmhTXy1oU2huZUE2WHV6NGlUaWdxbnk0aFJENk83RW9yNDVQNmhCUjJRT1Zmb1U?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnpZR1hFWXFWeTd5dUlra0xlY0FJZFZPN2o5Y2dMUGRpWUVJQ0N6QlpDcDg2SUhocXJJMEJreVU1QWw1aVBWdmtoOWp0SVpFc0NpN0lRWVhuLVJOSjJrd3pCZkxXNjVqZGJCT2xTeU5SSkZVZzRQamJJeVJmN3dQQm9WWng2d2Y3Q2VvcnIta1RmX0k?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UWnc1QzlwM0Z2TkdtX095TVV0RDdIbkROckpDSjJqRWxYN09mVDZwQ3hyVjNtOWRmMG9qYTJsZkFaRnZnZnV3WHZWeFJMWmVuNU05LUZFQzI1SWRENXZEcXRPQmladTM0ci1pS2F6eUU4MEFjdmswTVdUNlg?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T08:14:38Z",
+      "published_at_ist": "2026-10-15 13:44 IST",
+      "first_seen_utc": "2026-10-15T07:27:11Z",
+      "age_minutes": 8,
+      "trend_score": 13,
+      "rank_score": 0.866,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Colapinto issues passionate fan plea after social media attacks"
+      ],
+      "image_urls": [
+        "https://infonews.ca/wp-content/uploads/92ee7d4bbaa51bf4a5c01ed32f7254a8f60d4e4147c00e6a7455cd3ae35e2450.jpg",
+        "https://cdn.newsday.com/ace/c:NDY4MzkwMDAtZThkZC00:ZDE2MDBkMjItZTA1NS00/landscape/1280",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F15081921%2FColapinto-Alpine-Singapore.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F15081921%2FColapinto-Alpine-Singapore-1320x742.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "98df3b5a4d",
+      "key": "bull-contract-extend-laurent-mekie-red-until",
+      "headline": "Red Bull extend Laurent Mekies F1 contract until 2031",
+      "summary": "https://readmotorsport.com/2026/10/15/red-bull-laurent-mekies-contract-2031/Red Bull have handed team principal Laurent Mekies a contract extension through 2031 after back-to-back F1 wins in Malaysia and Singapore.",
+      "sources": [
+        "GPblog",
+        "Read Motorsport",
+        "F1 Oversteer",
+        "Sky Sports",
+        "GPFans",
+        "FormulaRapida.net",
+        "The Washington Post"
+      ],
+      "article_urls": [
+        "https://readmotorsport.com/2026/10/15/red-bull-laurent-mekies-contract-2031/",
+        "https://www.gpblog.com/en/column/why-laurent-mekies-new-red-bull-contract-is-about-more-than-two-max-verstappen-wins",
+        "https://www.f1oversteer.com/news/red-bull-fans-all-make-the-same-christian-horner-point-as-laurent-mekies-signs-new-contract-to-2031/",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdjVES1piRWNxbjNqTUk3ZUs5eFNKM1liRVFzYzd3dlBTMjBfZnpLU1JJWmVhTGphVXN2SFp1c1V5WUU0RFpHSUJZcEZNWVVjcXFTSndOVXdINnpMYUs3NUIyX2trMTZXZi1XRE5MdDBtOG1wbUp2ZlZZSkttWHJTTEd5UEZjaHB4a3MzZjQ5ejR1TG9IOFNDeW5UYkswM3c4T3FNRC1kSUotWWx2YnJEbFp4UTEzdkU?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDBXNWg5TS1lSUdCT0hkVzFZOFRaM3RXZEZpT2RPYWdzVDVucUc5Tm9LbFhFcjFBemU2NlFtS2prNkxzWUtrN0c2T3pfUDB0Q2txM1lzTHRZNmk2NGptd3FnNUlZX0hjbXJGNWt1Z0RtMHBJV1VZX252eDRHTnZLQXF3?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOENnYl8zYlRWZE43RC1lOUZCLTg3YW1Nc29rb2ZhbUdIYk53Y3J1WEVHb3BjYXVUVGdwaTVCdk1WSmYxVXRmYnFiYTQzUTg1cjJ4XzlNcUw1TEhyLU5QUEpGczYwcXM2MmptanNleFZ2NUEzcnhSdVRRSzFySE5ydXVLNE5TQlRvMGYxQTVob2NwVXNPaTBWMnlSZnpUeEFLS1k3ODlxN0w1NkxTTzlyZ2oxZ2w3c0ZMazBUWW8tbVZkc21ray1RVmVvN1ZsZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxONkZnNmhCUnRiT2hMN2s2ZHFtN3VhNEFUcVRSNkY3emtMNENNQ2NTNkF0M0IxTkpyMXFwc09JRGlZWVN2TFR6RFBqUGpVMzZ1dmFfLXZEOGlGZlpUbFp0VjZERGVmNTlMY1QxaXRRbFdNTEJadzhsVWZNalgtYk00eXY4TEYzZVBUMjJjOEJYUmNKZ0lGd3k4VkxVR0VCUFpZdWFPUEVZc1FHQlNOTlZTN193NkRRRmY1eThWYXBxT3hRa19DdmFTN0w5VVo3VVhTU0pxVi1LT0VtcUtxR29lUXp4a0gtdzJBV3c?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNEtxbmJ0YlhtcDNQNXVtNmZ1ejJMelE4WmVlYkZ4c2RwUFpEUFZTbE40Y3NjQlF0bUp4VmpnQ2xMZC1vN25DVldEME85S3pnTjN1TENsa3Bma0Q1R190WTFudERIR201NHVZRGNiYmJ0N2N1RFFUX1lBbndhNEwwR3dSeVJrYnFCWW5FdS14N0s0cnM3OFR4M2o1RXlsaXI1cFRJaFZUdmh1em1sempBMDROeXlwOUcxQ3c?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T07:22:02Z",
+      "published_at_ist": "2026-10-15 12:52 IST",
+      "first_seen_utc": "2026-10-15T00:10:21Z",
+      "age_minutes": 61,
+      "trend_score": 17,
+      "rank_score": 0.8621,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Has Red Bull rewarded Laurent Mekies too soon after Max Verstappen’s revival?",
+        "Red Bull fans all make the same Horner point as Mekies gets new contract to 2031",
+        "Laurent Mekies: Red Bull team principal signs contract extension to 2031 and vows recent wins 'only the beginning'",
+        "Red Bull plot to sign Fernando Alonso revealed as Laurent Mekies issues statement - F1 News Today"
+      ],
+      "image_urls": [
+        "https://media.readmotorsport.com/readmotorsport/sites/10/2026/10/WmOBFDLYlV6N.webp",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-09%2Flaurent-mekies-madrid-donderdag.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-09/laurent-mekies-madrid-donderdag.jpg@webp",
+        "https://cdn1.f1oversteer.com/uploads/37/2026/10/GettyImages-2299382004-scaled.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "34976a03b6",
+      "key": "802697845-pak-teacher-video-viral-xxx",
+      "headline": "++XXX+VIDEOS+!! pak teacher viral video 802697845",
+      "summary": "https://www.uco.es/scai/visita_virtual/Virtual tour generated by Visitas Virtuales Granada",
+      "sources": [
+        "Universidad de Córdoba (UCO)"
+      ],
+      "article_urls": [
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Imh0dHBzOi8vYm9zaXJhNzc4OC5naXRodWIuaW8vdG9tL3ZpZGVvL25ldy54bWwiLz48L2tycGFubz4=&id=XXXVIDEOS-pak-teacher-v-c5nvg88",
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x1ZTkzNzJsdWNhcy5naXRodWIuaW8vbHVjYXMvdmlyYWwueG1sIi8+PC9rcnBhbm8+&id=XnXX-Search-XNXXCOM-TODAYs-selection-XNXX-16051",
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2x1ZTkzNzJsdWNhcy5naXRodWIuaW8vbHVjYXMvdmlyYWwueG1sIi8+PC9rcnBhbm8+&id=XnXX-Search-XNXXCOM-Todays-selection-XNxx-XNX-XNX-42020",
+        "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQbnl6d2t1RkkyZE81TDJTdGhUQllCNl9yMEJFYTM0S2tIb1lablpsSGVuRGlzOVVRQkhKZ05yY0VmWVRDd0ZsZFdscmh3Qm5LRC1wREtjcExxV0NaT3E2RVllaE5mb29OazBfUmoycU14SjFhU3J2Sy1BaGVmNldob0pLNVRDU3h1WVZrbVBEMG9HaDVRMnRGR2ZPcGFmeV8tbHFaQXB0T0dCUkNIaWxkVjlnajlJRXNHa2dveC1rcjlwdTY5MEFvVXZwRTI4ZGVvMWxnVlZVM0t5dERla0lFRmk3UE9iS3hwOG1xZWNmU2kxdUhxNmN6NVlOSnplSVZGck9FZjFDWWkwTnZBTzhVWG00TzVOazRJTjdXamUzY0RSdjlGUkpGaUdoRDE3UFFia3kzc2p0RDFjZU55VUwzX0VyZUZmTXJzVXdsU1M0LTZrUkE?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNMWJrQWlGV2tHN1dpV19UcWtOYnpwdXZ4bWNDSFBqTC0xS3c4N3dLMTMxbl9UdUhMZXBqaVRtRlNXR2RPeHlFWjlXWEpkQ2VWMHhVR3NNYUJIQkVsTng0bWt5NWxnT3JxbmFyb2hSMTZIZXpWQ3pqR2N4QTNIeTlOcXFkcDVJNTBKaW5sd2tKR29JNzhiaEtjWkdBd1lkZlRyNXV6T1gxR19jdVpYdHFyaW1wMVlNTVVxdnZhUjFnTjk5UEVqcWVsNDZadDlTNXpYQ2ZhLWZYcnVtUGpneDh4UDBVeWN1WFI1ZjlPRDA0NDFzZEdJY0FZT3VFeHBrRE9vNHFOOXRSQUJzbm9ndDctdG9aNFJKZHNCYjl3OUc2Z21FX1Zkc3I5S0Z3Q0pBbFhUa1plUXhtb1B3c3VQcmphVFNRR3k0eG9yRm9SRWwyNWtkYjBjaFY5dnNNUWZRQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQWUEzNXB5UVR4RG9oZHRLbVNmTnpnTERKZHFUMnZwQ20yaXFCNVVGY1c2NGswSXl3aGk5d282ZWxaZkpidHY0TGRaaFlVNk4zTVVMc2pVWUh4WDdoYmZ1bmFaLXk2d1VOQ2I3cXZVSC00alJtcDBwM0dLN1Y5Y2VfWGg5dlZPV3NlZEV2MG9OS2tlMms5OWRLQ3VzRDlmTi1BdTJGODh0TFpHbjV4NDhEYlUtT3VrRUJhUHN1MVo4OHpUeDdwcW1CUHEwZ2Y5cW1heUduWW93X1YzdkFfcF8yMnE0a0tMRURwMGJJcGxfZGNHNkp6RmNTSjZqQWJHN0pHekVEYTJhR3VHMUk0QnBoX2x6SlZDUTdhU25hRzdIYW1xWEtDUHhPMUZMN3ZPd0dHMkNwZjNmdXl4eGg2VmRZZlREdWZkY2RjRHdqUW83czNPclE?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaklnR01wZGhaZ09JZktET0Q3YkxwNEZ5UndJSGp1U2NXZmdyUlRHQmlMWVRPaS04LUVjTm84aDRhTXAzSFJkblRqc1lVMUFuS1pTX2Y4ajhpamFlRmRfaDFuZzhJU0ZIZklJTm5NdXNZUjJKNlZSY3V1UTRldWpWWGlpcnd6dmdxRjhFcFEyT0xJWHY4cnBZUjJBRTRGampnTEY4U0dxcHljcE1DLVQtWjhVQjZRY2JZV3JIUndQSUZBT3UyS09TYV9TckdfUTF2akVrS0VfLW15UUhTSUFkbnVITXpiTzEyczZHWUxGaUhSbFZSTXhMZWJoamE0RnBucHpxR3hNTnNnVFFtSkoyYXZQYzJjME9JZ25xTXBHZ3NyREVlVlVnMW16aWd2c3lLRmVST011T2l5dVgxa2ItcXUzSUtySTRM?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNd09aMlhaM2V1U0UyMl9KQnpWWGdzMUhqay1VWWdBYWptc3RkZG1adEhhTEwycVF1Z1p5b01haVFmM3VTeEphWmFKZnNLeXJGaFVRcHpKZzNmakMyQm5UWEZUdXhzZlVfdGU2ZzVURnR2ZGVqVnVkQS16LW9leHZjdTFtTkNIUVhGbHJDUmdnVkVqb3NuU0RHUklNdjJBa3J4UWl3TXo2N293X3lRNE9KblBlMEV3c09oRUJiaFFObzdRd1pQVTF1S0E3cFlLRVU3bkQ4bDVlN2ZKU2tLM2JZNlh5YmlmS1cyQVpyTkg0WHU5SHJGTnNLdUFJQkdyV01oTXdpa1E4d2xWXzc4YzlDWF8xTmRQQUI2Zzd1WkpHNHJOVXM4eDJFbDY0OENVOFdhMmhBY1FBbFJRbFZlaUtPOHhhY2IxVHVS?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T08:14:12Z",
+      "published_at_ist": "2026-10-15 13:44 IST",
+      "first_seen_utc": "2026-10-15T03:58:04Z",
+      "age_minutes": 9,
+      "trend_score": 12,
+      "rank_score": 0.8533,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "[[VIRAL VIDEOS]] teacher viral video link",
+        "++XXX+VIDEOS+!! Hindi viral video youtube 730555701",
+        "√(18+Viral@Xvideo!! XXX Pornhub XXX Viral Video BF sex xnxx sexy blue film porn sexy viral sex Xxx Sex Videos Oficial on Instagram 394347251 , is here to release all her secret porno clips and just for your eyes only! The glamorous tamil sex movie sexy vi",
+        "~!XXX.SEX.VIDEOS!+Xnxx) tamil actress shruthi narayanan viral video 994701933"
+      ],
+      "image_urls": [
+        "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "bf9374692f",
+      "key": "brunette-euphoria-goes-monica-pier-santa-star-sweeney-sydney-undercover-wig-‘",
+      "headline": "‘Euphoria’ Star Sydney Sweeney Goes Undercover in a Brunette Wig for a Day at the Santa Monica Pier",
+      "summary": "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/YOKOHAMA (Kyodo) -- Japanese high school pitching phenom Shoki Oda announced Thursday he will skip the Nippon Professional Baseball draft and begin pu",
+      "sources": [
+        "IMDb"
+      ],
+      "article_urls": [
+        "https://mainichi.jp/english/articles/20261015/p2g/00m/0sp/029000c",
+        "https://pacificleague.com/en/news/2026/10/10055988",
+        "https://www.imdb.com/news/ni66063521/?ref_=nmnw_art_perm",
+        "https://dailyorange.com/2026/10/beyond-star-ratings-letterboxd-personalized-outlet-su-students/",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBIa3VRUFdRQ0ZWUXp1RWJHV0Z5c0pSRnFHbllTdmlSZXh4QTdhVDk0UVJaTFM0aEZBWDJWSHVPZTNldWZpYWpBUHlNMkxUaFhDRTI4bzdpVGhJd002WFVOWngyT3c2SlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yYjQ3M1k0U2t4SGEzdzNGcFoxdjBsd2NYTGkyYzNhaGt4NER0Y2p1WnlPanIxVWIwYU5oV2JzdHRSd2d6T0pJRWlNa2JvR1Uza3Mtck93YmJTNXFiWTQzMGlrUDg1YjQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-15T07:36:40Z",
+      "published_at_ist": "2026-10-15 13:06 IST",
+      "first_seen_utc": "2026-10-15T06:55:52Z",
+      "age_minutes": 46,
+      "trend_score": 13,
+      "rank_score": 0.8343,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "star (JP 100+)"
+      ],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‘The Housemaid’ Star Sydney Sweeney’s Brunette Wig Disguise Kept Santa Monica Pier in the Dark Until She Posted It"
+      ],
+      "image_urls": [
+        "https://cdn.mainichi.jp/vol1/2026/10/15/20261015p2g00m0sp028000p/0c10.jpg?1",
+        "https://hochi.news/images/2026/10/13/20261013-OHT1I51362-L.jpg",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0FFH7pmFk2qDHkkmdM0mTI8rBfi3d48xIJ_sUJcHLKmjGEPynH9u6GYvDa7A",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxBBTtqpMIIJJMyIsM1xnn9JWoH2fiO_mEcBguszmYs0i8q2QbbnBMb8lTdHc",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZY6dYCGl3zkqORrHcwDuNXbieRk4FBRy67FY80skSDKvFZhlQ1Z6muIkdrhs"
       ],
       "video_urls": [],
       "has_video": false,
@@ -404,9 +702,9 @@
       "published_at_utc": "2026-10-15T05:51:00Z",
       "published_at_ist": "2026-10-15 11:21 IST",
       "first_seen_utc": "2026-10-15T05:51:00Z",
-      "age_minutes": 77,
+      "age_minutes": 152,
       "trend_score": 17,
-      "rank_score": 0.8788,
+      "rank_score": 0.8163,
       "category": "famous_clip",
       "section": "entertainment",
       "source_type": "news",
@@ -438,199 +736,81 @@
       "youtube_videos": []
     },
     {
-      "id": "efcd75f63f",
-      "key": "3rd-5th-bts-category-idol-jin-jungkook-male-place-rank-ranking-rise",
-      "headline": "BTS's Jin ranks 3rd in Star Ranking Male Idol category... Jungkook rises to 5th place",
-      "summary": "https://www.starnewskorea.com/en/music/2026/10/15/Jin of the group BTS (BTS) recorded 3rd place in the Star Ranking Star Idol Male category.Jin rose to 3rd place in the 259th Star Ranking Star Idol Male ranking vote, which was conducted from 3:01 p.m. on the 8th to 3:00 p.m. on the 15th.",
+      "id": "83e80cb8a1",
+      "key": "agent-center-contact-productivity-redefining-sana",
+      "headline": "How Sanas Is Redefining Contact Center Agent Productivity",
+      "summary": "https://uctoday.com/Sanas Supervised AI lets one person oversee four AI calls. Can this model improve contact center agent productivity without hurting CX",
       "sources": [
-        "스타뉴스"
+        "UC Today"
       ],
       "article_urls": [
-        "https://www.starnewskorea.com/en/music/2026/10/15/2026101515253482020",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkMmlVd2xicGo5Y1ZXVDFYNjVWYjdUVEtnSjI5SlhNNVE1RG9BNno2TGxIdG9aelQ0a01sNDlFdnd6Q2k3eEdQS2lUNzI3ZWFESHJoVzBlNVU5VHhuX1NhdnkwR2tWb1lSa3NicjY5dmlsTjF2d1hSXw?oc=5"
+        "https://uctoday.com/sanas-contact-center-agent-productivity-supervised-ai",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE54LXByczRNQ2lpZTY1Qk9ON1N2YkhOVndEWlMzTjdsMGRUTUdBaXNKSU90VWxSVTZjV1BWYjZYZDlteXotZmViZWN2bUM4UnZQM0RNeE93d2R6ZEtXMTBLdW9CdUF1WV9INzhacGRhRXFqVE9ZSVdQNDc5aGktQQ?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:56:40Z",
-      "published_at_ist": "2026-10-15 12:26 IST",
-      "first_seen_utc": "2026-10-15T06:56:40Z",
-      "age_minutes": 11,
-      "trend_score": 13,
-      "rank_score": 0.8635,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-10-15T08:03:47Z",
+      "published_at_ist": "2026-10-15 13:33 IST",
+      "first_seen_utc": "2026-10-15T08:03:47Z",
+      "age_minutes": 19,
+      "trend_score": 7,
+      "rank_score": 0.7672,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://image.starnewskorea.com/21/2026/10/2026101515253482020_1.jpg"
+        "https://media.uctoday.com/article-images/1791993098280-NEW-FEATURED-IMAGES--36-.png"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "6e596059ef",
-      "key": "africa-ahead-batting-boost-gqeberha-south-test",
-      "headline": "South Africa boost their batting ahead of Gqeberha Test",
-      "summary": "https://www.icc-cricket.com/news/Matthew Breetzke replaces Tristan Stubbs in South Africa's squad for the second Test against Australia in Gqeberha.",
+      "id": "e119574aed",
+      "key": "analytic-evenbeter-expand-suite-tool",
+      "headline": "Evenbeter expands analytics tool suite",
+      "summary": "",
       "sources": [
-        "ICC",
-        "Geo Super",
-        "SEN",
-        "Cricinfo",
-        "Cricbuzz",
-        "Sport Nation",
-        "Fox Sports"
+        "InterGame Online"
       ],
       "article_urls": [
-        "https://www.icc-cricket.com/news/south-africa-boost-their-batting-ahead-of-gqeberha-test",
-        "https://www.geosuper.tv/latest/60458-cricket-australia-provide-major-update-on-green-inglis-ahead-of-second-south-africa-test",
-        "https://www.sen.com.au/news/2026/10/15/cricket-south-africa-vs-australia-crowds-ipl-bbl-privatisation",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbzJZLWFWUzd3aXhHRFZyX05sbGp0Z1RmTkZWcnRFRmZ3bllzdTBCVTRPSHk1YlZhZ0dKd2dDNFR5MHBfLXpQLTZQR1RRWEVLRi0tZTZiYnJEZE5vQVBzVTJDai1oSnp1b1dfVzhzbDBneFRmUGZDS0JiRWtKTVF4RUdIVnpGZDJtOGRVTGNfWHFkQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU2ltWUxoZG5lQXpHRkJNeFQ5NzBiQjNxYlZxQlpFUGl3UlpDcmZFR2VXVlY2Tm52RGVkY2JuM1JWNUVUQUZYUjdBSDkxSlo3UVg4WlRHMmlITmtWVFFKNTZUVWxiNkhQOTF1NkRXdUJzcEU0b2xDWHhCdDhPMzFmcC15blNtVk43ZnZyNWFvdTRHQkFWbjhvNkJyS0M2d0FUMTVSTkd6S0ZFN2JoMjVsM2dRVFdnVkhTTFVwNW1KaWo4eFHSAb8BQVVfeXFMUHA0S1o5VzRtdEt6d3hzbkRueGNld094NEItT1NJWGxnaklDbVFOaWNUNTdvMHBRV2xka0FUajRWS19qMEdndExNQ3AyYzV1cWp2NGczTDlyMVA0RFlDRVoxZFZ3M3dJUENGS0ZxUEJObjM2WndxYm9RdkV1YmZjNnlua1dkNzVZbjFfcmZkYXpZTXViVllRYzhZZ1JnSGEyb3dGbU9XWDNLbEVmbUkwdzAzbjBUV2JGX1NTMzl3NVk?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM2J1MzltQWJXRmc2RHlLRmxWbFY1WnhQc3d3UTZRUW9OV19wYWNzSlhSd0lrNXpBT2c3WF9zVVFQdnlxc256T3lsenZ1emZRdDhxRTNoVTE3Snp5bUpEWUJheUd2a0JLMDhJOW04UDJub0haaXRsbGpIR01Yb3J2R3p1VklkM1g2MmEyZFZKTkRmdUYtejRVMTNxY2VZMVcxMC1Z?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdnJQS3h0SlNNVm1GeTV2MWkyUWtwcFh6WFhUSzJjN3pXVWt1c0o0TmRTQ1VIX3pSQjlPX3ZsNW1fMEtsbjNSRndFQWpOYXhLMGtNYlhkX3MyazhaeUNCM1VrWjFscnlrRkxNV1pwaDhudTJuWFpEWDdBR00zSlY4ZEUxY2dJbHdOSGsxbHRLdE9BTWRrUWJBcQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEo4aXd4WTBzZzNQaDNDcEdtMTFqaGZUSnBSSGhWd3dLUHhEREF6cGpvTXBaOEJyQW9mOFhVU041Yy15eU5reVQyeENVTDZVLVNoZGhYcFlpQW5wYUVZTU81RFNlY3YwRzV0M29RS2NjVGdHSjM0dFRGNVpLc284dlpxNk9hTVd4QUR4cEdwbldONWdOM295VF9iWHVyM3J6Z2k1M2VYWnBMRW9OSTY0TFI5TEg1UdIBxwFBVV95cUxPeVdTYl90YklMZUgtWVdlNm5aTTJuRXJ0V2ROWEl6UW1lYUNwUVdmdVNOOFB1Vkl4MDBXaldoeXI2WG1jcTNDdW5HMklxb2FRZVhoZVc0R3hDMGl1TmhDeWJMV0dmWS1XWEktVWZDT1FURGItNDBzcU9ZRDNqako2V3g2R1paMlhQOTJMYXhMQThzVnRGZEs0em5kUXgtejBOY01RSURaU3RZc1p3LXhfSk1qR0ZJSl9ucVNzVnYyUDE3dEJ0WFRN?oc=5"
+        "https://www.intergameonline.com/igaming/products/evenbeter-expands-analytics-tool-suite",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUDByTE9tZWVjUlJIQ1FZejlwWlJJOGpHNzdtRXZqNFlxY3o3Sl9vbHRTY0dSdlNHOUZFcjVuMjZkZGt6YXpMVEZyMkRPZ0c2OVgxY0o5ekZVMTJXTGpTcmp5M243MFkwUDhJYV9OSi1UakQwUmFzSkZya09vQ0VTQXctMWlLYUhvek5pNlRZY2w?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:49:04Z",
-      "published_at_ist": "2026-10-15 12:19 IST",
-      "first_seen_utc": "2026-10-15T00:39:53Z",
-      "age_minutes": 19,
-      "trend_score": 13,
-      "rank_score": 0.8568,
-      "category": "sports",
-      "section": "sports",
+      "published_at_utc": "2026-10-15T08:18:00Z",
+      "published_at_ist": "2026-10-15 13:48 IST",
+      "first_seen_utc": "2026-10-15T08:18:00Z",
+      "age_minutes": 5,
+      "trend_score": 6,
+      "rank_score": 0.7575,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "IN"
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "cricket"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Cricket Australia provide major update on Green, Inglis ahead of second South Africa Test",
-        "Whateley: The sobering reality for Test cricket in South Africa",
-        "Australia provide update on injured duo ahead of second Test"
-      ],
-      "image_urls": [
-        "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/yjrdyioxwplmdlbfpytl",
-        "https://www.geosuper.tv/assets/uploads/updates/2026-10-15/l_60458_065619_updates.jpg",
-        "https://webassets.sen.com.au/best-split-img-v2-8-png-d3ec94b5e11943f8-f1b547ce-regular.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "315a2f4726",
-      "key": "ackie-carpet-clayface-harrie-naomi-photo-premiere-red-rhys-tom-‘-’",
-      "headline": "‘Clayface’ Red Carpet Premiere Photos: Tom Rhys Harries, Naomi Ackie & More",
-      "summary": "https://deadline.com/gallery/clayface-red-carpet-premiere-photos-dc-studios/Clayface premiered at the Hollywood Legion Theater in Los Angeles, where its stars reunited for the big event.",
-      "sources": [
-        "스타뉴스",
-        "Rutland Herald",
-        "Deadline",
-        "The Hollywood Reporter",
-        "Variety",
-        "Yahoo",
-        "Forbes"
-      ],
-      "article_urls": [
-        "https://deadline.com/gallery/clayface-red-carpet-premiere-photos-dc-studios/",
-        "https://www.starnewskorea.com/en/star/2026/10/15/2026101514491744531",
-        "https://www.rutlandherald.com/ap/national/la-premiere-of-clayface/image_43b7e020-73be-5892-a4fa-4cd05f742920.html",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ib083MzgtbzFrLVgtWnNvWV96V0oxQVk1ZU11ZkVYVFMyVWsyb0xrclpTbFlNM1pUX09DcXRXekNOU21tR09qVUVOZGEtb2JZZHRRVG5YZ1g3VnhKX3lDbkZfc0NudS1xV1VRZkdjVzRERllEMVE0?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUc4RkMtemUtOWN4ajJUaFFId0wzMm1LRzdzd2QtYTJrbmpXcFdKVlo5XzJnVmtYalVubllxVmcteFZ2NkR4dHk3NkhWdWJOSE1EMFJzejg0eDBUMllLSm9yYVR2X2lHODIyaTQ5X1FCZC1FbWd0czIza3BiUTNIRHVOWjBQck40QVpkLUdaVUFIRHNRQ1NleTJjcjkzUVNRcWpQREozd1BPdVo5LUl4M0VPcw?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRWpuVGhPYTA2dUpRQnRmZUlyWU43cFZaWXNyTERoUG5jYVB0cUJqUmktRzEwa3pWWFFXR1dOdEhWbFN4eEJ3eWlmaW5uVEVLWTBOUVBQTk1MWUZ2cl9UMjB4VnU0Q3B2LWJDd0UteHVBLUxVcDZrWDNGVFRaanUwS01n?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1oyVDY0U1ozN01kcGhsYXh0czV3WXBIMG80QU1mYnktbWdMOUNrM3AtX1Fsbkc2WnVZME1FMFFkeUJDbmdkUGdkWGh0RGxtSVRGSHhuaGlfb3hXODY1ZVQ3YmR1MjRtaVZ6SjlsVjNueWVscVRiVm9ZekVDdHVmYlIzZXlTQVZrVXF2SUp3al92VFpRUGxhMjhvNXh4Mkwx?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUE1FUjJOVV9yaTFGVmhzWUlEYWN6ZU9VeHNtcFROYWM2N3o0RG1PaUtFVGwxbUctd1RKb2RpbTRmejVYZkoyN1V4RUNCWDhQVVM1SEZIWkxuTzdjY3ktZkktU2ctUkZXNzFleFFyY2swTzNQWHgycHU5clg2MnhpZnBhcmFLZDNhU1BIQUl4SUhlNXZEUFowdjRNR3R3SGNuN2x4VktXRFM?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T07:03:00Z",
-      "published_at_ist": "2026-10-15 12:33 IST",
-      "first_seen_utc": "2026-10-14T22:14:04Z",
-      "age_minutes": 5,
-      "trend_score": 10,
-      "rank_score": 0.8299,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "TEN, Attends LA Premiere of Film \"Clayface\"… Bold Moves",
-        "LA Premiere of \"Clayface\""
-      ],
-      "image_urls": [
-        "https://deadline.com/wp-content/uploads/2026/10/clayface-tom-rhys-harries-naomi-ackie.jpg?w=1024",
-        "https://image.starnewskorea.com/21/2026/10/2026101514491744531_1.jpg",
-        "https://bloximages.chicago2.vip.townnews.com/rutlandherald.com/content/tncms/assets/v3/editorial/4/3b/43b7e020-73be-5892-a4fa-4cd05f742920/6acffda858319.image.jpg?crop=1766%2C927%2C0%2C123&resize=1200%2C630&order=crop%2Cresize"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "6635e67926",
-      "key": "cardano-hoskinson-joke-owns-sweeney-sydney",
-      "headline": "Cardano's Hoskinson jokes Sydney Sweeney owns X...",
-      "summary": "",
-      "sources": [
-        "Pluang"
-      ],
-      "article_urls": [
-        "https://pluang.com/en/news-feed/apakah-sydney-sweeney-memiliki-xrp-charles-hoskinson-berpendapat-demikian",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa1U0Q2pINEo1LUppZ2VMSFF3cHFwZWJ0SnVlakhKYnlJeWxFRVBVenlzcHhDdDBEUVlQN2NmRVNXSzBTOGhIOVZvQTF1QUpSdHd5QTJIOVdpd3VPeGxha1Z1NGxSZVJ1ck52dEd1MTJhRXBTUFdZWUJfTzR5dmVtUFhSaGI5bUQ4MFZycjBSUVhTMlFxS2h3NjRaVy15anVVS1pHWWtWaVk?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T06:44:56Z",
-      "published_at_ist": "2026-10-15 12:14 IST",
-      "first_seen_utc": "2026-10-15T06:44:56Z",
-      "age_minutes": 23,
-      "trend_score": 9,
-      "rank_score": 0.7996,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
@@ -640,23 +820,26 @@
       "youtube_videos": []
     },
     {
-      "id": "a62143985f",
-      "key": "knowledge-maybe-need-old-problem-strategy-tool",
-      "headline": "Old Problems, New Tools: Maybe You Need a Knowledge Strategy",
-      "summary": "https://www.artificiallawyer.com/2026/10/15/old-problems-new-tools-maybe-you-need-a-knowledge-strategy/By Patrick DiDomenico, Founder and CEO, LegalTech Connect. I have been using a phrase in conversations over the past year that I keep coming back to: ‘old problems, new tools.’ I started saying it …",
+      "id": "f2d93f1a92",
+      "key": "55-backing-million-raise-reco-usd-venture",
+      "headline": "Reco raises USD $55 million with AT&T Ventures backing",
+      "summary": "https://itbrief.asia/story/The security software company will use the money to expand sales and support as enterprises race to govern AI agents accessing sensitive systems.",
       "sources": [
-        "Artificial Lawyer"
+        "IT Brief Asia",
+        "IT Brief New Zealand"
       ],
       "article_urls": [
-        "https://www.artificiallawyer.com/2026/10/15/old-problems-new-tools-maybe-you-need-a-knowledge-strategy/",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPandxM1M3SU5oN3BHTjVMby1HNFFIQWQwYWpMTnFmb0hEYktMNzRvYUJ3bFVyM3ZITGs1TXFCTDNkQ0VLMy1hUGxMbmJpNVBCRlNWNm9PeWFPTmxjXzhoS2Ridy1yekpBa29EajFpRjlfNDVEdU12NVdpVldESXg4UXV1eUpwUm1heFdmRUV0LVlHSjlqZWVLTmRhSVFySzUwQkJkS2hB?oc=5"
+        "https://itbrief.asia/story/reco-raises-usd-55-million-with-at-t-ventures-backing",
+        "https://itbrief.co.nz/story/reco-raises-usd-55-million-with-at-t-ventures-backing",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeXk3SkRjd3pKUEtzaE56VXRoUUkzZEFNRzBNMTNqTGhyOUt1WVhyajl1M2kwc3k2eVdmSGxVS1lEQW56V0k1MFg5THBtb3AtM3dYcU93Uy1CZkNUYk5ISUw4SE03MGs1c0RKdVJQOGdZZGdiSk9HcWJJYmQ0eTFxWWszMGJkaVU?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEhDdFBNbFdJV0lTZEZyUDV4by1kSmRaUVByd2VBWjRNOTdmT1F5RHVnVHFvNE90TTEwTkctTTBYQzRXMjVPdFo2M1JDUjRKaWlGSjBjVFdtXzVXeVJIQ0I3YzVJX3BWaGtSdmtScVdPSkxYTldreEJBNVczUFJkVS1xeC1FekZo?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:42:58Z",
-      "published_at_ist": "2026-10-15 12:12 IST",
-      "first_seen_utc": "2026-10-15T06:42:58Z",
-      "age_minutes": 25,
-      "trend_score": 6,
-      "rank_score": 0.7408,
+      "published_at_utc": "2026-10-15T07:30:00Z",
+      "published_at_ist": "2026-10-15 13:00 IST",
+      "first_seen_utc": "2026-10-15T07:30:00Z",
+      "age_minutes": 53,
+      "trend_score": 7,
+      "rank_score": 0.7389,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -676,41 +859,40 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.artificiallawyer.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-06.59.05.png",
-        "https://www.artificiallawyer.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-06.59.05.png?w=640"
+        "https://itbrief.asia/uploads/story/2026/10/15/compatible_Ofer_Klein-story-321474.jpg",
+        "https://itbrief.co.nz/uploads/story/2026/10/15/compatible_Ofer_Klein-story-321474.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "13f3061705",
-      "key": "decider-decision-harness-kev-model-one-pplx-two",
-      "headline": "pplx-decider vs Kev: Two Decision Models on One Harness",
-      "summary": "https://www.orcarouter.ai/blog/pplx-decider and Kev both pull from Ollama today and share the System One call shape. Where they diverge on context, calibration and latency.",
+      "id": "01ce482cac",
+      "key": "attractiveness-availability-beat-jayshetty-short-vanessavanedward",
+      "headline": "Availability beats attractiveness #jayshetty #vanessavanedwards #shorts",
+      "summary": "Vanessa Van Edwards on the study that found the most attractive women got approached least, and the signal that actually decides whether anyone walks over. Watch the FULL episode on Netflix & Spotify. #jayshetty #vanessavanedwards #shorts #onpurpose #podcast",
       "sources": [
-        "OrcaRouter"
+        "YouTube: Jay Shetty Podcast"
       ],
       "article_urls": [
-        "https://www.orcarouter.ai/blog/pplx-decider-vs-kev",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jeTlQNkg0a0xlQkdfZFUweklSbTk4cUpyTzZpOXlLSk53MmhUZVZ3MWdBZXdvNDh1ZUp1T09FMmFQOHVPV1J1VnJDMUFKYk5sNnExR3BLZzhKdVZJeDhv?oc=5"
+        "https://www.youtube.com/watch?v=ya-N4hIbBAI"
       ],
-      "published_at_utc": "2026-10-15T06:40:13Z",
-      "published_at_ist": "2026-10-15 12:10 IST",
-      "first_seen_utc": "2026-10-15T06:40:13Z",
-      "age_minutes": 28,
+      "published_at_utc": "2026-10-15T08:00:31Z",
+      "published_at_ist": "2026-10-15 13:30 IST",
+      "first_seen_utc": "2026-10-15T08:00:31Z",
+      "age_minutes": 23,
       "trend_score": 5,
-      "rank_score": 0.7136,
+      "rank_score": 0.7298,
       "category": "other",
       "section": "top",
-      "source_type": "news",
+      "source_type": "youtube",
       "famous_names": [],
       "region": [
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Famous people clips"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -719,36 +901,46 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://cms.orcarouter.ai/api/media/file/1-2127-1200x630.png"
+        "https://i2.ytimg.com/vi/ya-N4hIbBAI/hqdefault.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
+      "video_urls": [
+        "https://www.youtube.com/watch?v=ya-N4hIbBAI"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Availability beats attractiveness #jayshetty #vanessavanedwards #shorts",
+          "channel": "Jay Shetty Podcast",
+          "url": "https://www.youtube.com/watch?v=ya-N4hIbBAI",
+          "published_at_ist": "2026-10-15 13:30 IST",
+          "thumbnail": "https://i2.ytimg.com/vi/ya-N4hIbBAI/hqdefault.jpg",
+          "is_short": true
+        }
+      ]
     },
     {
-      "id": "29221e5fc6",
-      "key": "macro-pengu-penguin-pudgy-shock-spike-volatility",
-      "headline": "Pudgy Penguins (PENGU) Volatility Spikes Amid Macro Shocks",
-      "summary": "https://coinmarketcap.com/top-stories/6ad06d6831381a2cec79bd1b/Pudgy Penguins (PENGU) fell 3.9% in 15 hours due to a broad crypto risk-off move following higher-than-expected US inflation. No specific PENGU catalysts identified.",
+      "id": "5b51b14b62",
+      "key": "19th-host-las-meetup-optimism-vega",
+      "headline": "Optimism to Host Meetup in Las Vegas on October 19th",
+      "summary": "https://www.tradingview.com/news/coindar:8818435c2094b:0-optimism-to-host-meetup-in-las-vegas-on-october-19th/Optimism and Succinct will host a Money20/20 happy hour in Las Vegas on October 19th.Refer to the official tweet by OP:See you in Vegas?Join us and @SuccinctLabs for a @money2020 happy hour.Monday, October 19, 4 - 6 PM. pic.twitter.com/tbXpSn1E3TOP InfoOptimism is a Layer 2 (L2) solution d",
       "sources": [
-        "CoinMarketCap"
+        "TradingView"
       ],
       "article_urls": [
-        "https://coinmarketcap.com/top-stories/6ad06d6831381a2cec79bd1b/",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE01Zjh6clJvd2hGcWpjQWExZktfbWJVZ3RuSVdmR0tpSm45SXluRENzb08ydHFPempINGFmRlpJdncxVmxyckxrMEFMaHhQeXhMTTVIVEJoelhHcndzQWtLY3JBZ3BmVl9GNENVWUFJNDM?oc=5"
+        "https://www.tradingview.com/news/coindar:8818435c2094b:0-optimism-to-host-meetup-in-las-vegas-on-october-19th/",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOEpxQkh3dTB3cDVIZ05meEFVQl9URl81MzhXNHdlMGpGWlhjUDNUTkF5Y1huUFk0Q0RkblZKMFdiWjV3RnpFNFdkS3V0M0cxRjNhb3l5WDJ2VktLamFrWnJGaXFyMVZvZEhteGlnTXVyaVVtYWxCdVRreDRrUkplVk5MdW85d2IzR1R1aDZaWU1Xb0Zsb0VoWmNvbTFZM0lWcDAzRFFZQkVDNHBRQ3hr?oc=5"
       ],
-      "published_at_utc": "2026-10-15T06:06:00Z",
-      "published_at_ist": "2026-10-15 11:36 IST",
-      "first_seen_utc": "2026-10-15T06:06:00Z",
-      "age_minutes": 62,
-      "trend_score": 6,
-      "rank_score": 0.71,
+      "published_at_utc": "2026-10-15T07:41:25Z",
+      "published_at_ist": "2026-10-15 13:11 IST",
+      "first_seen_utc": "2026-10-15T07:41:25Z",
+      "age_minutes": 42,
+      "trend_score": 5,
+      "rank_score": 0.702,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
         "US"
       ],
       "language": "en",
@@ -762,55 +954,13 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://s3.coinmarketcap.com/static/img/top-stories/6ad06be08044bc136a2aa9f3.png",
-        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
+        "https://static.tradingview.com/static/images/logo-preview.png",
+        "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "d7881cffe0",
-      "key": "6-broad-computer-drop-icp-internet-macro-selloff",
-      "headline": "Internet Computer (ICP) Drops 6% Amid Broad Macro Selloff",
-      "summary": "https://coinmarketcap.com/top-stories/6ad06d3731381a2cec79bd17/ICP fell 6% as US inflation data triggered a broad crypto selloff. Bitcoin and Ethereum also dropped, with $1B in futures liquidated. ICP's move reflects high beta to macro factors.",
-      "sources": [
-        "CoinMarketCap"
+      "video_urls": [
+        "https://s3.tradingview.com/news/image/coindar:8818435c2094b-1375f07e8f0302d888e452dcba9db5d5-resized.webp"
       ],
-      "article_urls": [
-        "https://coinmarketcap.com/top-stories/6ad06d3731381a2cec79bd17/",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VYjA5V0FsbTNwZjJVNm1MMWZsRlR6VDl6Xy1iU1A1ZGVoM2hxbTI4bUpKMlM3MkVvbFJ5TzMzS3NSWF9yTFJNQUF6bEpnV3I0cHZCQ3dzV1ppaVZDTkRVYVVlbnljdlRJQ2RFZDhRa3g?oc=5"
-      ],
-      "published_at_utc": "2026-10-15T06:05:00Z",
-      "published_at_ist": "2026-10-15 11:35 IST",
-      "first_seen_utc": "2026-10-15T06:05:00Z",
-      "age_minutes": 63,
-      "trend_score": 6,
-      "rank_score": 0.7092,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://s3.coinmarketcap.com/static/img/top-stories/6ad06be08044bc136a2aa9ef.png",
-        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=06a81f0"
-      ],
-      "video_urls": [],
-      "has_video": false,
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -827,9 +977,9 @@
       "published_at_utc": "2026-10-14T16:00:12Z",
       "published_at_ist": "2026-10-14 21:30 IST",
       "first_seen_utc": "2026-10-14T16:00:12Z",
-      "age_minutes": 908,
+      "age_minutes": 983,
       "trend_score": 5,
-      "rank_score": 0.6032,
+      "rank_score": 0.5798,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -868,69 +1018,28 @@
       ]
     },
     {
-      "id": "de3892dcc2",
-      "key": "0-3-big-bofa-boosting-core-cpi-fall-fed-hike-layoff-netflix",
-      "headline": "Core CPI rises 0.3% in Sept, boosting Treasury yields and Fed rate hike odds; BofA profits fall, Netflix plans big layoffs.",
+      "id": "3208600efa",
+      "key": "10-15-26-christopher-horoscope-renstrom",
+      "headline": "Horoscope for Thursday, 10/15/26 by Christopher Renstrom",
       "summary": "",
       "sources": [
-        "Pluang"
+        "SFGATE"
       ],
       "article_urls": [
-        "https://pluang.com/en/news-feed/surge-yield-cpi-intensif-inflasi-bocor-q3-net-income-netflix-pangkas-pekerjaan",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUFlfMGtheTBDOXViTGFoT1dRRnlEMldoMHRHMnZpVXVSOTZSNjk3Y0xObE1ETXFOTy1HMUZ3YjRfc2FybXBmYVJBaERrODRnd2Qyak82eklqRWpjWkx3Z3ZGWnlVa1FJN0RjUTlzSnVzOXlCdXllWldZUEFuSkp4SWZ4U0pOSW45ZTZMWHJFem5aZkJUSGl2YWVjTFJaV3pkTS1uUVljaWpidGFDQ0ZR?oc=5"
+        "https://www.sfgate.com/horoscope/article/horoscope-thursday-10-15-26-christopher-renstrom-22475583.php",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUENJaTd3TVpDT0xjejZudU5CMG5RRWh4UUYzMnZRQXNaZGx5dFkzalNscnlmT0g0YVdqdFl3RTdvQmxqc1RIaWo3d01YdnBRdnlJUWZLXzdXRGd5UG1BdTVfS1JIdVFRSlpsRXk0dVoydnBESk1Pd25ndDVXdXhVNk4wdW10ZTVuSVdaZHpyUkxQZjVRaTVrVUtqMzJDWDZmX0NubA?oc=5"
       ],
-      "published_at_utc": "2026-10-15T01:12:15Z",
-      "published_at_ist": "2026-10-15 06:42 IST",
-      "first_seen_utc": "2026-10-15T01:12:15Z",
-      "age_minutes": 356,
+      "published_at_utc": "2026-10-15T05:11:14Z",
+      "published_at_ist": "2026-10-15 10:41 IST",
+      "first_seen_utc": "2026-10-15T05:11:14Z",
+      "age_minutes": 192,
       "trend_score": 5,
-      "rank_score": 0.4403,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "cbbc669082",
-      "key": "approach-provenance-rule-text",
-      "headline": "Our approach to EU text provenance rules",
-      "summary": "https://openai.com/so-DJ/index/eu-text-provenance/How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "sources": [
-        "OpenAI"
-      ],
-      "article_urls": [
-        "https://openai.com/so-DJ/index/eu-text-provenance/",
-        "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9BSzJEUldSTnpjaS1xXzlqRUE3RnA4cmc4RjVEaE1yU2NaeVNxVjJDY2ZLSWViVXFXRGQwMFozSFlkMEhVVUtYNG9jeTJteVFxYWtjXzJfTEpHSm9TZ0Zj?oc=5"
-      ],
-      "published_at_utc": "2026-10-14T22:26:36Z",
-      "published_at_ist": "2026-10-15 03:56 IST",
-      "first_seen_utc": "2026-10-14T22:26:36Z",
-      "age_minutes": 521,
-      "trend_score": 6,
-      "rank_score": 0.3275,
+      "rank_score": 0.2308,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
         "US"
       ],
       "language": "en",
@@ -940,67 +1049,13 @@
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
-      "local_only": false,
+      "local_only": true,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://images.ctfassets.net/kftzwdyauwt9/7u8k3vMOefnc2eIwqAZlCJ/5e39aad76e07dc260070eae95d545d6f/ChatGPT_Image_5_Oct_2026__18_22_35.png?w=1600&h=900&fit=fill"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
-    },
-    {
-      "id": "ab7b0e5a5c",
-      "key": "argue-benny-bennyblanco-blanco-don-jayshetty-like-short",
-      "headline": "Benny Blanco: we don't argue like that #jayshetty #bennyblanco #shorts",
-      "summary": "Benny Blanco on what he and Selena Gomez do differently: waking up asking how to make the other person's day better, and why neither of them has ever raised their voice at the other. Watch the FULL episode on Netflix & Spotify. #jayshetty #bennyblanco #selenagomez #shorts #onpurpose #podcast",
-      "sources": [
-        "YouTube: Jay Shetty Podcast"
-      ],
-      "article_urls": [
-        "https://www.youtube.com/watch?v=6-PZ0APLzUw"
-      ],
-      "published_at_utc": "2026-10-14T08:00:15Z",
-      "published_at_ist": "2026-10-14 13:30 IST",
-      "first_seen_utc": "2026-10-14T08:00:15Z",
-      "age_minutes": 1388,
-      "trend_score": 5,
-      "rank_score": 0.3032,
-      "category": "other",
-      "section": "top",
-      "source_type": "youtube",
-      "famous_names": [],
-      "region": [
-        "YT"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://i3.ytimg.com/vi/6-PZ0APLzUw/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=6-PZ0APLzUw"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "Benny Blanco: we don't argue like that #jayshetty #bennyblanco #shorts",
-          "channel": "Jay Shetty Podcast",
-          "url": "https://www.youtube.com/watch?v=6-PZ0APLzUw",
-          "published_at_ist": "2026-10-14 13:30 IST",
-          "thumbnail": "https://i3.ytimg.com/vi/6-PZ0APLzUw/hqdefault.jpg",
-          "is_short": true
-        }
-      ]
     }
   ]
 }
