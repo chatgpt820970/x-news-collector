@@ -103,3 +103,11 @@ If both GitHub's schedule and cron-job.org trigger at once, nothing breaks. The 
 pip install -r requirements.txt
 python collector.py
 ```
+
+## Repeat guard (no reposts)
+
+- `data/blocklist.json`: permanent blocks (phrases + X post ids). The Dua Lipa stage/performance clip is blocked forever.
+- `data/recent_topics.json`: every celebrity/topic posted, with `posted_at`. Anything posted in the last **7 days** is skipped.
+- `collector.py` drops candidates that hit either list. Before scheduling, the assistant must run
+  `python repeat_guard.py check "<caption + source link>"` (exit 1 = blocked), and after scheduling
+  `python repeat_guard.py add "<celebrity>" "<topic>" --at <ISO time>`.

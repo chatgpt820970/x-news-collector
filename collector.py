@@ -15,6 +15,7 @@ from __future__ import annotations
 import hashlib
 import html
 import json
+from repeat_guard import blocked_reason
 import math
 import re
 import sys
@@ -975,6 +976,9 @@ def summarize_clusters(clusters, trends, posted_keys, now) -> list[dict]:
 
         key = headline_key(lead["title"])
         if any(is_posted(i["tokens"], posted_keys) for i in its[:20]):
+            continue
+        # 7-day celebrity/topic cooldown + permanent blocklist (repeat_guard.py)
+        if any(blocked_reason(i.get("title", ""), (), now) for i in its[:20]):
             continue
 
         direct_urls = [d["url"] for d in direct if d.get("url")]

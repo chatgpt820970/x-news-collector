@@ -1,0 +1,182 @@
+{
+ "_note": "Topic/celebrity cooldown log. Topics posted within window_days are skipped. Append {topic, posted_at} for every scheduled post.",
+ "window_days": 7,
+ "topics": [
+  {
+   "topic": "dakota johnson",
+   "posted_at": "2026-10-16T00:38:00+05:30"
+  },
+  {
+   "topic": "anne hathaway",
+   "posted_at": "2026-10-16T00:38:00+05:30"
+  },
+  {
+   "topic": "hospital couch",
+   "posted_at": "2026-10-16T02:30:00+05:30"
+  },
+  {
+   "topic": "dylan sprouse",
+   "posted_at": "2026-10-16T04:30:00+05:30"
+  },
+  {
+   "topic": "barbara palvin",
+   "posted_at": "2026-10-16T04:30:00+05:30"
+  },
+  {
+   "topic": "sean connery",
+   "posted_at": "2026-10-16T00:14:00+05:30"
+  },
+  {
+   "topic": "thunderball",
+   "posted_at": "2026-10-16T00:14:00+05:30"
+  },
+  {
+   "topic": "dua lipa",
+   "posted_at": "2026-10-16T00:07:00+05:30"
+  },
+  {
+   "topic": "gta 6",
+   "posted_at": "2026-10-16T00:00:00+05:30"
+  },
+  {
+   "topic": "grand theft auto",
+   "posted_at": "2026-10-16T00:00:00+05:30"
+  },
+  {
+   "topic": "michael jackson",
+   "posted_at": "2026-10-15T21:14:00+05:30"
+  },
+  {
+   "topic": "margot robbie",
+   "posted_at": "2026-10-15T21:07:00+05:30"
+  },
+  {
+   "topic": "dog park",
+   "posted_at": "2026-10-15T21:03:00+05:30"
+  },
+  {
+   "topic": "laurent mekies",
+   "posted_at": "2026-10-15T14:14:00+05:30"
+  },
+  {
+   "topic": "red bull",
+   "posted_at": "2026-10-15T14:14:00+05:30"
+  },
+  {
+   "topic": "moncler",
+   "posted_at": "2026-10-15T14:07:00+05:30"
+  },
+  {
+   "topic": "jennie",
+   "posted_at": "2026-10-15T14:07:00+05:30"
+  },
+  {
+   "topic": "cher",
+   "posted_at": "2026-10-15T14:07:00+05:30"
+  },
+  {
+   "topic": "psg",
+   "posted_at": "2026-10-15T14:00:00+05:30"
+  },
+  {
+   "topic": "manchester city",
+   "posted_at": "2026-10-15T14:00:00+05:30"
+  },
+  {
+   "topic": "dua lipa",
+   "posted_at": "2026-10-15T11:09:00+05:30"
+  },
+  {
+   "topic": "bts",
+   "posted_at": "2026-10-15T11:02:00+05:30"
+  },
+  {
+   "topic": "kim kardashian",
+   "posted_at": "2026-10-15T10:14:00+05:30"
+  },
+  {
+   "topic": "brewers",
+   "posted_at": "2026-10-15T10:07:00+05:30"
+  },
+  {
+   "topic": "selena gomez",
+   "posted_at": "2026-10-15T08:00:00+05:30"
+  },
+  {
+   "topic": "giannis",
+   "posted_at": "2026-10-15T08:00:00+05:30"
+  },
+  {
+   "topic": "ohtani",
+   "posted_at": "2026-10-15T05:00:00+05:30"
+  },
+  {
+   "topic": "real madrid",
+   "posted_at": "2026-10-15T05:00:00+05:30"
+  },
+  {
+   "topic": "haaland",
+   "posted_at": "2026-10-15T05:00:00+05:30"
+  },
+  {
+   "topic": "diddy",
+   "posted_at": "2026-10-15T00:00:00+05:30"
+  },
+  {
+   "topic": "grok",
+   "posted_at": "2026-10-15T00:00:00+05:30"
+  },
+  {
+   "topic": "xbox",
+   "posted_at": "2026-10-15T00:00:00+05:30"
+  },
+  {
+   "topic": "roman reigns",
+   "posted_at": "2026-10-14T23:00:00+05:30"
+  },
+  {
+   "topic": "netflix",
+   "posted_at": "2026-10-14T23:00:00+05:30"
+  },
+  {
+   "topic": "lisa",
+   "posted_at": "2026-10-14T21:00:00+05:30"
+  },
+  {
+   "topic": "tarantino",
+   "posted_at": "2026-10-14T21:00:00+05:30"
+  },
+  {
+   "topic": "zelda",
+   "posted_at": "2026-10-14T21:00:00+05:30"
+  },
+  {
+   "topic": "lisandro",
+   "posted_at": "2026-10-14T14:00:00+05:30"
+  },
+  {
+   "topic": "tesla roadster",
+   "posted_at": "2026-10-14T11:00:00+05:30"
+  },
+  {
+   "topic": "east of eden",
+   "posted_at": "2026-10-14T11:00:00+05:30"
+  },
+  {
+   "topic": "spacex",
+   "posted_at": "2026-10-14T10:00:00+05:30"
+  },
+  {
+   "topic": "bts",
+   "posted_at": "2026-10-14T10:00:00+05:30"
+  },
+  {
+   "topic": "visionquest",
+   "posted_at": "2026-10-14T08:00:00+05:30"
+  },
+  {
+   "topic": "barcelona",
+   "posted_at": "2026-10-14T08:00:00+05:30"
+  }
+ ]
+}
