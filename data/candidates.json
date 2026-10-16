@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-16T18:22:15Z",
-  "generated_at_ist": "2026-10-16 23:52 IST",
+  "generated_at_utc": "2026-10-16T18:38:30Z",
+  "generated_at_ist": "2026-10-17 00:08 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 6036,
-    "fresh_items": 5063,
-    "clusters": 2320,
+    "raw_items": 6050,
+    "fresh_items": 5061,
+    "clusters": 2297,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 97,
+    "youtube_uploads_fresh": 96,
     "youtube_items": 2,
-    "famous_items": 4,
+    "famous_items": 5,
     "trends_terms": 40,
-    "page_fetches": 62,
-    "with_video": 5,
-    "runtime_sec": 29.7
+    "page_fetches": 56,
+    "with_video": 7,
+    "runtime_sec": 22.3
   },
   "categories": {
     "famous_clip": 2,
@@ -32,110 +32,58 @@
     "other": 6
   },
   "top_trends": [
-    "katie zacharia (US 100000+)",
-    "jeremiyah love (US 1000+)",
-    "police officer (US 500+)",
-    "stock market (US 5000+)",
-    "severe thunderstorm watch (US 10000+)",
-    "harry and meghan news (US 2000+)",
-    "cardinals depth chart (US 1000+)",
-    "marcus freeman (US 500+)",
-    "qqq (US 1000+)",
-    "mariana van zeller (US 500+)",
-    "katie zacharia (IN 200+)",
-    "lk advani (IN 200+)",
+    "sophie cunningham (US 2000+)",
+    "msnow (US 500+)",
+    "le mans vs toulouse (US 200+)",
+    "frosinone vs sassuolo (US 200+)",
+    "cnn (US 10000+)",
+    "deportivo - levante (US 1000+)",
+    "burnley vs wolves (US 2000+)",
+    "deportivo vs levante (US 1000+)",
+    "rashee rice (US 500+)",
+    "shrek 2 remastered (US 500+)",
+    "ashutosh ranka (IN 200+)",
+    "deportivo vs levante (IN 200+)",
+    "australia (IN 200+)",
+    "burnley vs wolves (IN 200+)",
+    "17 (IN 200+)",
+    "lk advani (IN 500+)",
+    "katie zacharia (IN 500+)",
     "bela bajaria netflix (IN 1000+)",
     "jailer movie rajinikanth (IN 2000+)",
-    "फारूक अब्दुल्ला (IN 500+)",
-    "siddaramaiah (IN 200+)",
-    "ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಂಡ (IN 200+)",
-    "bigbasket (IN 200+)",
-    "apple iphone duo pre order (IN 5000+)",
-    "अक्टूबर (IN 2000+)"
+    "फारूक अब्दुल्ला (IN 500+)"
   ],
   "items": [
     {
-      "id": "2226307c0e",
-      "key": "katie-marvel-play-snl-star-want-zacharia",
-      "headline": "Katie Zacharia wants this Marvel star to play her on 'SNL'",
-      "summary": "https://www.cnn.com/2026/10/16/politics/President Donald Trump has fired Katie Zacharia as press secretary, advisers to the president said, ending her turbulent week-long stint as the White House’s top spokesperson.",
-      "sources": [
-        "USA Today"
-      ],
-      "article_urls": [
-        "https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html",
-        "https://www.cnn.com/2026/10/16/politics/katie-zacharia-press-secretary",
-        "https://www.usatoday.com/story/entertainment/tv-streaming/2026/10/16/katie-zacharia-white-house-press-secretary-snl-scarlett-johansson/92279923007/",
-        "https://apnews.com/live/trump-midterm-elections-news-updates-10-16-2026",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmxMdHh6UUczdDIyY3VNbVhJdndqMHZFaTh5dDktSFd6MTVrMzBlM3FNeDJKZ1BibENhcTVpYVY3WE5aOE9rR3BaNnpIN2NfdHgtcTlKeUVDSnpveHRKYVJQVDFGSWMyTGg2endMbU1NODl0aFFrYmZGM09GV1QwUmliMTFmckdOcHVwNzUxT3k0Y2tpSjdrYVZiOTFvcjljb1NBbld2RWU5Tk1YWkNySGFfaFZjYjVFM3FCeHNYUWpLNTJ2WVl3cFZsakxzaUx3RW56YS1rOTNGc0UzVUZQSg?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T17:50:00Z",
-      "published_at_ist": "2026-10-16 23:20 IST",
-      "first_seen_utc": "2026-10-16T17:50:00Z",
-      "age_minutes": 32,
-      "trend_score": 15,
-      "rank_score": 1.1276,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "katie zacharia (US 100000+)",
-        "katie zacharia (IN 200+)",
-        "katie zacharia (GB 5000+)",
-        "katie price (GB 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2299994228.jpg?c=16x9&q=w_800,c_fill",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrzTclApVTA6vMlw1ELv2I0zuip-O2yPmOCmvC5qhhxomqpNVcLrPjQuEs8tA",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT1Z7YjR5Zhpbt8iqoHKx7DX6-bbx6wl42bGH-QuscUUAfqlkQ4vuheYqnzeZE",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShABdk-MMvspF0m9dQkL0pScfwR6szcbp_IXiTKaAc6WPki48dOtsemydHGwU"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "849f21dbf1",
-      "key": "confirmed-gt3-investigation-max-portimao-punishment-verstappen",
-      "headline": "Max Verstappen punishment confirmed after Portimao GT3 investigation",
-      "summary": "https://www.planetf1.com/news/The stewards have reached a decision.",
+      "id": "e19e8b8fa0",
+      "key": "bold-challenge-max-portimao-sets-target-verstappen-world",
+      "headline": "Max Verstappen sets bold target for GT World Challenge in Portimao",
+      "summary": "https://racingnews365.com/The four-time F1 champion joins Chris Lulham and Ben Barnicoat in the Algarve this weekend, and there is only one thing on his mind.",
       "sources": [
         "PlanetF1",
         "RacingNews365",
         "GPFans",
         "GT World Challenge Europe Powered by AWS",
+        "dailysportscar.com",
         "Motorsport.com",
-        "Crash.net",
-        "dailysportscar.com"
+        "Grandprix.com"
       ],
       "article_urls": [
-        "https://www.planetf1.com/news/max-verstappen-gt3-portimao-penalty",
+        "https://racingnews365.com/max-verstappen-sets-bold-target-for-gt-world-challenge-in-portimao",
+        "https://www.planetf1.com/news/max-verstappen-gt3-portimao-portugal-gt-world-challenge-qualifying",
         "https://www.planetf1.com/news/live-stream-max-verstappen-portimao-gt-world-challenge",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXNNSnJkVmlIUlR0dFIwellkNWpxYmU3bmlncHI1VHhTTVhFcFdXM09HVlNMdkt6bUtMVnhOYWRwb3lGTVpLcVoxYWZIaFdaMWpDSHgtOXVKRmM3LXBCY0Z6NUtfZXNqSnFlWWpCblNLWHRFTWt0NXhpMTRnTmItc3RLaFlwTnFGdWZuV0tqYWdZODV6OVB4SUtLNzE?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTRfaTJBX3ctTXhOTFZKdENqNklQSjFoMVZ6dktBTWM5MUVDX1VBSVI3aGpkamIzSFRnYTk0TmJwaWdZcE11Z1JhUXBILTdhV0NsSTZCYWNxT2RMa1hweEVIUExBRlpZZDlrVnBLVWd6VlNiWTkwYVQ1NndxOUhJcjBlTmdfU19tVXQ1Mg?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNX3dxT1ZpeGFWLWFUZEUyeHo1OHJkcUVKZXdScHpUWklIX2oxTU1BVXBVNUUtdVdLRE5ub1k1aVBaZXBMWmk4bGliQ1FTd0Y1N1d5ZklOODV4Um12X0J5MnJENmtxbFZ4WGUwdkdHUHRiN2RzcWgzNi0tZXVIY0N5QlFCMTU4UE5JaG05bUtvUEVGSl9OanRR?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWVdpVV9raFU2dUl6UlUxZlExQUpLWUxtOFp5LWhVWEtxQ01FTXE3VEkxUjBGRVoyUG1MV192THBNaWVKb2tHLWRlVU1wNFB3OXN6Y3dCbTBZemItMk5DeTJTWXhyTWwzTGtOVDY2SXNLMW5iOWFjYTRzeTlTdl9FM2hteElsTzFRdE5UcHRuSTVOZ2hsSzlqWGtmNGhBbVdaWE1jTnZVUDF5UDVGTnpwU0dBX2Y?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWduTmttX0xLODFYX2N5RUVkMmN6MDU0ZVFHdG1rWkd6LVR3UFl0N0NfbzBHS1Q2alFfR2dBMTBpQjl3aktDX2RsWExTN2tJcmd2elFoRnRGalBWdkhVd3ZPQXVxc2YydU1oWXVKcGdWbHBOVUxhSVh6dVJHSENId0h6SlIyQ3dlZVMwM1N6eGtJUW9oQ3dKckRGY2Z5SFRJM3l4azFtU3ZlQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUclM4Qjc0MDIzVWpvdzVNWTRHNHNVWjduMzVwRG03VDhqLVB6WXFxZFlKVmZYZ1M4UXJWNlpwOVJHUTlYcUdtYV9LN1ZYaWxMR21zVjJGbl81UWN6NFlCYy12UTNEVXdLeWp1RVpLdEF2aXc?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TakxORkVObWl2RU9lRVp3WU9xdTV4anAyTnU5TTIwYkZpS0Vwd2hOSVg2dTNNSm5wNFhkTnJST1o4XzVjTzlJZ0dNY2FvWHNEcXNKYk5aSFRvVml4QzVHdnBEU2ZSWEl6YklMZzEyb1ltcmJSbDJjZWxPVUkyNEk?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPanVaYWlpdURPbzNiYmpzZnc3T0Y2NEF4cEtwdFkxSXptUUxIOWNVZE9JZXh5Y3ptSzNYQ3pMdGNmbEQ0ZkhTMndQbmtMS1o3RDlLTmtSWldER1QzNEtaYWkxckdOWlR6MU1nVndEb3RtcEttcUFKekI5SmtOM2NmVjRXV1pKLTlBb2E5THJ2T3lwV1FQR2ZJQ1JwNG9Qb1RDR1J6MF9qd2NGbDFNbHNnVW5DNWNYaHEzTWV5aFhSQVVVVU9O?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUE5YZzk0WVFoR0JRWFRHUW44MFd2dm9kdXVZcVZUbFFBNmFVNjN3dnBhbmNPSjc4cURSMTIyZm5YZ1B5Wnh1OUpUWnU0ZlZNSGRSbkFzTWd2YmhjNGxlYlctanRNUnBDWFc4MFFDcUFLaXUyWTZOOU5RV3Q0X0VjSEdldk9WdGtVdEdBcU1qajVBM3RFbmFia1dRN2c?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:00:45Z",
-      "published_at_ist": "2026-10-16 23:30 IST",
+      "published_at_utc": "2026-10-16T18:32:21Z",
+      "published_at_ist": "2026-10-17 00:02 IST",
       "first_seen_utc": "2026-10-16T10:12:05Z",
-      "age_minutes": 21,
+      "age_minutes": 6,
       "trend_score": 13,
-      "rank_score": 1.0052,
+      "rank_score": 1.0177,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -156,14 +104,15 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Max Verstappen suffers Portimao qualifying setback as Mercedes-AMG sparks fly",
         "LIVE: Watch Max Verstappen in GT World Challenge qualifying at Portimao",
         "LIVE ONBOARD: Max Verstappen hits the track for GT World Challenge in Portimao - Qualifying",
-        "Max Verstappen punishment announced by stewards after GT World Challenge incident",
-        "Heated Max Verstappen flashpoint as first Portimao GT3 lap times emerge"
+        "LIVE: Max Verstappen takes on GT World Challenge in Portimao - Qualifying"
       ],
       "image_urls": [
-        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F05%2F15165801%2Fmax-verstappen-nurburgring-24-hours-n24.jpg",
-        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F05%2F15165801%2Fmax-verstappen-nurburgring-24-hours-n24-1320x742.jpg",
+        "https://cdn.racingnews365.com/2026/Verstappen/Verstappen-Singapore.jpg?v=1791459066&width=1800&height=945&quality=75&crop=2871%2C1508%2C0%2C52",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F16180311%2Fmax-verstappen-gt3-portimao-qualifying.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F16180311%2Fmax-verstappen-gt3-portimao-qualifying-1320x742.jpg",
         "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F12132857%2FIMAGE-WITH-COLOUR-NEON-8.jpg",
         "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F12132857%2FIMAGE-WITH-COLOUR-NEON-8-1320x742.jpg"
       ],
@@ -175,176 +124,38 @@
       "youtube_videos": []
     },
     {
-      "id": "1b0bedd954",
-      "key": "number-one-patient-score-swift-taylor-third-zero",
-      "headline": "Taylor Swift scores third week at number one with Patient Zero",
-      "summary": "https://www.standard.co.uk/culture/music/Swift is the only artist to have had three UK number one singles in 2026, including Opalite and  I Knew It, I Knew You.",
+      "id": "3b8be7a2f7",
+      "key": "abomination-neon-premiere-–-‘-’",
+      "headline": "Video Premiere: Mz Neon – ‘Abomination’",
+      "summary": "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/Mz Neon’s new single “Abomination” summarizes her feelings on the current hard right-leaning attitudes towards the trans community.",
       "sources": [
-        "Paste Magazine",
-        "London Evening Standard",
-        "Somerset County Gazette",
-        "The Irish News",
-        "Music-News.com",
-        "inmusicblog.com",
-        "Official Charts",
-        "DRGNews",
-        "Oh No They Didn't!",
-        "Indiatimes"
+        "95.9 The RAT",
+        "New Noise Magazine",
+        "Deadline",
+        "The Guardian",
+        "BBC",
+        "GOV.UK",
+        "The Telegraph",
+        "POLITICO.eu",
+        "Rotten Tomatoes",
+        "Kotaku"
       ],
       "article_urls": [
-        "https://www.standard.co.uk/culture/music/taylor-swift-jamie-t-nicole-kidman-status-mtv-video-music-awards-b1301208.html",
-        "https://www.pastemagazine.com/article/taylor-swift-sparks-chart-blocking-accusations-with-new-patient-zero-alternate-versions",
-        "https://www.somersetcountygazette.co.uk/leisure/national/26645408.taylor-swift-scores-third-week-number-one-patient-zero/",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbW9yZmYzSjNLT0xRcERnS3JaU3dVZDE3ZW1DM3FiaUpqSHIxUXNtMmhfVGFFZWxxOUw4N19IaWlJOF9mUGVRemZGRlpOc1JZZS1FWTl0aEY3UTVtQTNpcUR0dF9XZGhQN3hmWXZYbVExMnR4ZEFfSG9NcEtyRlZ6OFBJWWc2R3dvRVpaSnZiQXZvbnBxWVg2UlFCczZjLVdiZUtnSUNMano4TVFidU9ia2RKYURGaktqclg3Z3B0WWpfWFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalBQNHRWakI0NHNPbnMzNEY2NzVNMUNzT1dhb3FIZko3REVETHRfU0Y0Z3ZTRkhRakthbldqdUpzdFEweXFiY2tmTlZJXzQ0SUJUTnBpN29YN0xaMmVseGttMGp2bm5lX0JaVWEyOURPb3Z4bTB1dldQc2xkM3RrYUdGUWJCQk14ZEszbktDLWZLalJIYjJYd3lNX3hDT1E3enpHTmtzcm1zRjBEWGh1RXF3Q2JxbC1jZWJj?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSnQ1Wk15S294dndWMVNiM0swVVVzdVFqUFdhcHE1TWJobTJxSGoxbWJRQk50SmlWZkZZSzhrYTd0N0xub3k3TjVxdzcxQ0FmUEFxM1lUdEtxakVaOUtVVW1hbDdxZjd2T0szbThnQXp2NVo0WHAyRUZ1N1RxMC1LYU9VUlVBMVpsTkI1aTN2MmtnNDZ3Z3hCZWNwZ2R5RUtGVC0yb0FndjFQMGVnTkN2aktWMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdEd0a291eWVHVE1Zdno2aThjMmZ4NjJvZS1rdlJpeVFmdlRsRUJ1V1czeGZOX2NjQmRrRm5VdEMzVFJhQ01WZmZNelZmdDN3OU90WWdFUDZqUmNGWUpfZ1hlV253R3Nld1NEQmlqUTBRNXpEZWZRMXAwYnRiR2YwN01wSzRSMXBQaDh2czFobV9VMkhHX2FtcUt4ZHhiaFdhT3c2TUhoa0ppcm9idGtFcVFJbmNOUldwZ3NSekVMaUxLdTUtWmkxcWpR?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdUtiaFZ4eURJaFMzSTcyMDFKYkxZdTJISThpc1FXUjFHR2huQnljRWllYktKanREUDlkT2YyWkdfbDVLQVNsZmZoeXYwTFExNm9QY0FnZzFMUnJjVHg5U1p1Q2dscDFHck9odVZVLWc3T3VKV2xhZEpSZ2x4N0xTMDg0VU9EVEdraW9sNl9KSFVORU9ON1RmYzVtOVVJLVg3bFdUWFVQUUtiWlNpV1FyOXJ3NFktNnc?oc=5"
+        "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzE5REJ3SVBOR3YtTnlxZFdVcDlHQlZLYXdlN094ejJWMjI0cGdsOVFvbS1aYWtLSXJnU0lOTFN4eC1zUGNLT21OWTVFWW04TE5sUUxrdVRsX1hOWHBvcVJ5cWhmNWp0ckFMQm9KcnphdnlwRi0tVjdpc2VnNFBPRDduZVNDZ1k1eFhxaXJ6LUc4bnhzaUM0dlJMc09PdDRtWDF0UUx3Nm95ZFZnTjNhbTZCMzc?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ZTdvbjRIRGdBdzRTU0dKaHpLZl9hZl9KM1NqbHhJbTVRS1hjVmtVNzRNMUFYRGt3VDI3eHg4MHhGNFB0RHQtZ2JMWWlfRXRabng4SHljWEtoMmY2VjNrU0puNFRGay1CdDZQNElRM2ZKVVNyLWdNV2pnc01wR2s?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWF0WUV2OW9ycklVb09jMEV6QXdaMnd4MnA0ZF82VWNoVlFpWkphcnBvZTR4VWliZkhYSVI5MmUyYWMyc0RGLVBOSmIwQWVlM21jR1dIUDd0V2FwOEg4T1hNUXNVTUs0RmNHUmZRYXMzUmQ1bVJXaWdrdEZXY0lLSGFfbDlaeTQ0T1hULVhYV2QwOV9XbTJJTzExd2RjcW8?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2o3NUMyOUU4b0tkQzN3T0w3YWhHNlRhOHBVQUhleGNkRFg2NDVkdFozU2JkdHg3WkJMcUZnWHhlYTFxZ3ZWUm5OT2JwX2VwODgtb2ZNZGlhSUhfOEFsWGhSMmVfV01HYVM2dlhSX0FadEFHWVB6T0FFYXFIcloyTExRMC1BQ1U2R0l2WFhSZ2JBRk80S3lXMW5ZMkt2V3pRdnFYZmdCU193UEJDclZpeHRRUHktSWhUN3VUd0k5ZEFWeXh3d0pMNnlxT3FpOW1kT2p2NEUyUk11S1JwU19JMDNjZDk?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRWxtU2hZaGY5dEZMYnJPY29ZWWNIdXFyUGRueFp4cjZGWlFEODlHLUppZGIxQ3FaMWdtMG1DZmpsV3RTaXNwdUNfQkE4a09rY3F0NkcwbnBRZXE1VWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFlKZ2dXMVlYR1BjdXB3c2JZWVFHWkpiUEJ2WGtHSkZsYXNBNjVtOE92RlhXb2FNLUNvU3BCNmRiaWtIRjB2Y1NFU2hnVEYwVzdyc21nZWlzOWxQekVIZjhEajl2d0EtSVJFd3J3OHE2MVpxbTJvcF9OX1RIdzFqS2R2dWJwRm9xSjMySUs0anMwWHV0ZTItSVB3dDdSYVdXUi14NDhaSHdITjA3X3pwbGJOUHFJOXZuQ1E?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWx0azkwdDlVMTRGLXFFNU9BOFBpa2pnaFcyTzNDWnliNjItX0RXZDZUOWV6cU1wTGhDSmJxZC0tWFh2Q3ZwLUJZd2VSSFVxbHUxRVFHWFBnRlZuRkdlWHlzVGNMT2ZhY3RDT1lUYmZlbzV2N0FhbFQzTzRrTWJTdXNOVFNldw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T17:27:00Z",
-      "published_at_ist": "2026-10-16 22:57 IST",
-      "first_seen_utc": "2026-10-16T10:59:38Z",
-      "age_minutes": 55,
-      "trend_score": 27,
-      "rank_score": 0.9679,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Taylor Swift"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Taylor Swift sparks chart-blocking accusations with new “Patient Zero” alternate versions",
-        "Taylor Swift claims third consecutive week at Number One with Patient Zero",
-        "Taylor Swift’s “Patient Zero” Makes It Three Weeks at UK No. 1",
-        "Taylor Swift takes Patient Zero to a third consecutive week at Number 1"
-      ],
-      "image_urls": [
-        "https://static.standard.co.uk/2026/10/16/18/2a33d38125fa1d54205d38dc67ec2edbY29udGVudHNlYXJjaGFwaSwxNzkyMjQ5OTc5-2.85997565.jpg?width=1200&auto=webp&quality=75",
-        "https://static.standard.co.uk/2026/10/16/18/2a33d38125fa1d54205d38dc67ec2edbY29udGVudHNlYXJjaGFwaSwxNzkyMjQ5OTc5-2.85997565.jpg?width=1200&auto=webp&quality=75&crop=5:3,smart",
-        "https://www.somersetcountygazette.co.uk/resources/images/21593808.jpg?type=og-image",
-        "https://www.somersetcountygazette.co.uk/resources/images/21593808/"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "ce8515323c",
-      "key": "elon-money-musk-republican-wasting",
-      "headline": "Elon Musk is wasting his money on Republicans",
-      "summary": "https://www.dailykos.com/stories/2026/10/16/800112929/elections/elon-musk-wasting-money-on-republicans/I can’t wait to see Musk realize that he set fire to hundreds of millions of his own money.",
-      "sources": [
-        "HuffPost",
-        "WIRED",
-        "Daily Kos",
-        "The Seattle Times",
-        "Houston Public Media",
-        "LGBTQ Nation",
-        "The Lever",
-        "Yahoo Finance",
-        "Yahoo Finance Singapore",
-        "The New York Times"
-      ],
-      "article_urls": [
-        "https://www.dailykos.com/stories/2026/10/16/800112929/elections/elon-musk-wasting-money-on-republicans/",
-        "https://www.huffpost.com/entry/elon-musk-ken-paxton-texas_n_6ad23a5fe4b0dccf572ae8f4?origin=home-latest-news-unit",
-        "https://www.wired.com/story/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOUY5bFhRczA3VC11RDVWYnRQb21wTlRTTWFMeHQyVndDaU55VkFCOHdQRXRLSHFEMVdFaVBDMDFXb3N4RW0td0UtdjNUOExpdkdjSmswM2VZUE02UjJ2RG52RHlGdjV4ZFhEcW9kR2FKWHJ0MHpNOUV3SERrTFlZX2R2Q1YyUzFYeGtJN255c01IX0N3eUdhXzExZjcyWTUxZ25kTjVtOUdNU3BraE50aW9INA?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGZYZmtabGhFRlJHd0syVm1RZ0FuZFV0LTF6YnhJNkdidTZncXdiRVA1RmVrRm93UUF1NEk5bmVrNy16U3dnYVE1cndEYmk4b21LQTVFOFU4clNyQnU0TzJXUXVxWEc3U0tkanVqM0FEeS1JVFlfa1RQLUZEZVdNekF3cGstR2dsRDhWbkUtNHNmd19JZDloTzVOa3N2UjRSQi1kMQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSVdFNG5fdGd1OWJmZWFRaElNOUVzUlJJUGN2SkdqRmxrV25LanFwdjJ3aUhuUk9KWmNZeG1md2M5S211TXRmS0VZamFYZUNYenE3WENtUzJQR0huRDVmU1RXTllELWZZcG1wSVZCOVJZS19panhYaFY0NkFyUHBjRFI1S2J3aEFHWlBWMEtfRXZKVEZVTjJDRjh2cngwT0h4OG5ZTEpn?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjlXeWRNUGlWNDUzaS1jUU05UllMSkxReEdzZXZ6RGE1bXNyWEZYTXlOWWdGQXd6Snl6b1ZXSFdPcTYxZ3ZNMDhlNk9LcTVVenphWV9rZWpxNWNiQ3A2RVczSUM0c3dnSFBzU0MzM3VxR2RNS2hOUzRGbU1vRHFscWR1Wm9SNkRpeEx2LUxoQ3EyREZJUmxiSzU3Z3RrUFNpUjBmX19n?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaWdMM2h0RmgzdFhGSGVuS1dIMlVCc1ctSWJJQ2RfOGVrTG1ja3pPc3FIeDY2WGt4V2NBY0hTUm5iQ1ctQXNic3BoRV9JS053cC1FaUVqWjBKTVN1cE5vQlBnNXBoaVFIXzJ2TWpGeW1ac3pjdFZiNnhTN1JuUFgydGgyZEtUbnNzM2JHb3h5T3dDTkZSY01qcGpDbVdTV1B6NG1JTDVKNFpuM2JaWk1PVEFyaTBnbFozUndheG92R29XYVJ2cC11RVVXRzhFbzdFd1pTN0N3WmNtR1NZT2czZW5WNVF1Y1NJSTRaR05JX3kwbUY5a3EwZmVXUUxPdmlaM0lGeEZrSUfSAZACQVVfeXFMUGNPZEE4ZDY3R0I3MjZ5V3FYeVVySktXblhOTElkMURkVmpCdGtoa0ZQb0R3ZEc2Rjh2amRLazlFeVF1YWFuSE5iLUdKSGR5TUdWQ2VVdlFLN3lkbFdfRjNhbGFMNTRUNzVTcUxrN21vMmZiMm1qUDJyazBoQ0pfVWQ2cl9FZ3lraHZFYU9pbmRDbTI1dk5BSzEzUkotRXdUOFB6VmFOWVZYVWRnTWstR3g2enhVaGF4d254YVRFUzNISUtGX1pVTmNaWVhMLTJ6RVFiMmpaUkhRWnVsZUR0bVdXcldUMG51bGtzN1gzSkh0RklaVG95a0daemhGUmMwZ3loVkxZUzdBdHk3VTVwRWY?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T18:15:04Z",
-      "published_at_ist": "2026-10-16 23:45 IST",
-      "first_seen_utc": "2026-10-16T09:51:47Z",
-      "age_minutes": 7,
-      "trend_score": 19,
-      "rank_score": 0.954,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk",
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Elon Musk Is Single-Handedly Lifting A Uniquely Flawed Candidate",
-        "Elon Musk Is Almost Single-Handedly Funding the Republican Midterms Push",
-        "Most of Ken Paxton’s Money Can Be Traced to One Man: Elon Musk",
-        "Elon Musk is the donor behind Senate Republicans’ massive rescue mission for Ken Paxton"
-      ],
-      "image_urls": [
-        "https://www.dailykos.com/wp-content/uploads/sites/2/images/1438387/original/AP25150649860658.jpg?w=2048",
-        "https://img.huffingtonpost.com/asset/6ad258da2700004427989d18.jpeg?cache=ksy4rWm2hn&ops=1200_630",
-        "https://media.wired.com/photos/6acd9562b718d45618194704/191:100/w_1280,c_limit/GettyImages-2180560800.jpg",
-        "https://media.wired.com/photos/6acd9562b718d45618194704/191:100/w_1280,c_limit/GettyImages-2180560800.jpg?mbid=social_retweet"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b4da58a314",
-      "key": "buckley-edmonton-malott-prediction-ufc",
-      "headline": "UFC Edmonton predictions for Buckley vs. Malott",
-      "summary": "",
-      "sources": [
-        "Lineups",
-        "Lyndy's Sports Annuals",
-        "CBS Sports",
-        "MMA Fighting",
-        "MMAWeekly.com",
-        "Yahoo",
-        "Central Oregon Daily",
-        "Yahoo Sports",
-        "MMA Junkie",
-        "MyMMANews"
-      ],
-      "article_urls": [
-        "https://lindyssports.com/other-sports/ufc-edmonton-predictions-for-buckley-vs-malott",
-        "https://www.lineups.com/articles/ufc-fight-night-buckley-vs-malott-dfs-picks-prop-market-predictions-for-saturday-october-17-2026/",
-        "https://www.lineups.com/articles/ufc-fight-night-buckley-malott-betting-trends-odds-data/",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb282SFdad3pEakd5em1BNGlweENMVnRXUzRvOEpkeEd6ek5id25GTDktQ2pkbE1PODFBYmJvaDRJeG1jMk9qeUV2c1l1TnFoTlM2NVE3b1Rpb3RaanRCOUlueXBwLV9HaFBZYWswRDlHMExrRk1BTEhqNXYxRnVLWW9tVFlIN1BTb1dhN2k1VGdlM1BmNkhFcTgzMkxLQ0tpR0N1aEpkY1F6Uk1PaDRXdnFkQlVNTGt6eWcyWFB5eGFFQTVjZENHaHR3?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUVYTWZPTVJ1UDRlMnFfcVhfZmR2RU5yVnZVcHN3aThFZUxyZTdCU2pzRHZnSXRvdTJwUkhXNmoxTXhZR0dGT0RESmdjV3hpTm5sd28wMWgzclVhbm5iMDJhNkR3WExhd09HTEg4QVBwVkc1eVBiT0RDS2Z2TENMVFY3TDlORXJYMUdLYXB1VUc5T28?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEFXczJIbTBhTkl1NnVRUkstTXJaYjNDUE8yU2gzNjZwOEdmbjdEZllUMHRwRm9ULWZHSVVJQVlERmtxdTAyTG91ajZKUHh2anpmcjlfSXZjSU9iZVdWeURnOFFTRFJ4clVRVDNiZnZBRWZabUpyMHZzejctd1I0NkVOSDYyaVlubjNxMg?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHl0TUFjN2tzYXp1cUw0RFFkbFdEYmJtZ3BobFBRLVByekFIU3BjOUNDM3lFc0pJX1lXeXhNYlJxMkRXTWcwOVZ4NkhsQkdzckRWR3gyaW5IeW5qZ3RlN2o5bjhHVS1lb19MaHZuVmNjYVRSQVNPT1F1YmhkazdTU0NDUzc4a3V1andlVnZyNUJqelVLTjRxNE4zTnd5NUQ3QnZB?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVONW1tempNVWlFSS1yTzNKSE9GMHFFeVNfUldRUXIwV0w0M3BsUUlQeUp6cy1tdjQtUWtlLUpaYzBZWnJFQXRtb0FyaS1aZnRISVpWQlNnMHNMMTNuTElMRXdWbVVfREE2cThMZnNWVTFCNEhORVdoQm5DRkF6NEN6bk9SaUhwNWRGNHVyaWN3MUc2cWZQV1Axb1AwdkhpYnhOMmNfVEhSOXJNTWstQTRsMXBrVHBsWlpmZi1kSDJHcDNKNVhTcw?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T17:49:02Z",
-      "published_at_ist": "2026-10-16 23:19 IST",
-      "first_seen_utc": "2026-10-16T10:05:16Z",
-      "age_minutes": 33,
-      "trend_score": 22,
-      "rank_score": 0.9247,
+      "published_at_utc": "2026-10-16T18:01:00Z",
+      "published_at_ist": "2026-10-16 23:31 IST",
+      "first_seen_utc": "2026-10-16T11:37:49Z",
+      "age_minutes": 37,
+      "trend_score": 29,
+      "rank_score": 0.9639,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -357,18 +168,78 @@
       "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Thom Yorke’s ‘Hamlet Hail to the Thief’ to Premiere in London at Barbican Theatre Oct. 31",
+        "Kevin Hart Animated Series ‘Lil Kev’ Sets Season 2 Premiere Date",
+        "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – as it happened",
+        "‘Street Fighter’ Punches $4M In U.S. Previews, ‘You Can See Everything’ Near $2M – Friday AM Box Office Update"
+      ],
+      "image_urls": [
+        "https://newnoisemagazine.com/wp-content/uploads/2026/10/MZN-Abomination-Cover-e1791517455899.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/eV-KYEy9SAo?feature=oembed"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "4ee7d4ca61",
+      "key": "a24-alex-garland-movie-teaming-zendaya",
+      "headline": "Zendaya and Alex Garland are teaming up for a new A24 movie",
+      "summary": "https://culted.com/entertainment/zendaya-and-alex-garland-are-teaming-up-for-a-new-a24-movie/While the studio is keeping the storyline firmly under wraps, the announcement brings together two familiar A24 collaborators.",
+      "sources": [
+        "Complex",
+        "IMDb",
+        "Gizmodo",
+        "Culted"
+      ],
+      "article_urls": [
+        "https://culted.com/entertainment/zendaya-and-alex-garland-are-teaming-up-for-a-new-a24-movie/",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOTlIbE16NF9ZSV92SFhuVEsxQVFlVTJsRmZEOERORkhaWmFGamZRQTZ4S0N6WlV3ajNfTUJKSm5ndUljZ2JxQVA5MW5Lb3RROGxfZFNXVkhsZkpNNTZabk84NlhtdnNVQUROZi1BQ2t2c3F6aXhEQm1SLThCRHpUc1hObThrT2RQZEVrQklONG0?oc=5",
+        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aOU02UFFXTldBd0JqUlVOb0pUMklNN0N0eHhOV2U4bGdsUTFuMlJWdXVIX0JqYjcwdTJEdUhPWmhlWk11dXZGQ2t2LXYwNXdwSEM1QXoyZzlaYXJva21pYTJmdHhCTm5G?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qWFlod2NVaExBRnlxQWx2WHVsOFBiRmcwNVBYeFlZRFhMRkJIWEZmTHF1dnZ0TmZOWHZ5VHJCaUJ6cUpWNlFLZ3Q0VklzTjJZVFJSRm9sNktiQ1RjUTJzZlZfWmxtR0k?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUlGM2N4THJEWWhaOUxrOERsZXlBRGk3WWVwa0JWVmllazJhbnQ2U0hXamE3YnU3eENpaDYxRV9kQlNTTjh3U19heTRQRXNULUlmN3JmUVBGQkszZTNLeGZjZEtwemxrOTFlbVFoZEthTVpfaHI1ODNfNG9ZemRHRTJudzY4bEd5?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYnZQUTVuNGpLZEdCOGlubEFiaUlCdlEwWjEyVEpTRGNjWS16MDg4VmcybmtoS1A1aTRsR2hkelI2T1Z1Z0p1c0Z5cGhkQ0g2YkVYdzZZMG9UOURyQzJhVXRuWklDd3dQbnJvMW1kNlY0QndSWHVla0s0T3ZRX2JOVFhGSnlKZUE4YVZid0tTSlBPS0dheE14RA?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T17:57:00Z",
+      "published_at_ist": "2026-10-16 23:27 IST",
+      "first_seen_utc": "2026-10-16T13:23:27Z",
+      "age_minutes": 41,
+      "trend_score": 11,
+      "rank_score": 0.9638,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Zendaya"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "UFC Fight Night: Buckley vs. Malott DFS Picks & Prop Market Predictions for Saturday, October 17, 2026",
-        "UFC Fight Night: Buckley-Malott Betting Trends, Odds & Data",
-        "UFC Fight Night predictions -- Joaquin Buckley vs. Mike Malott: Fight card, odds and expert picks for Edmonton",
-        "UFC Edmonton weigh-in results: Headliners Mike Malott, Joaquin Buckley cap off perfect slate"
+        "Zendaya Joins 'Civil War' Director Alex Garland for New A24 Sci-Fi Movie",
+        "Zendaya To Star In Untitled Alex Garland Sci-Fi Film at A24",
+        "Zendaya to Star in Alex Garland’s Next Sci-Fi Movie"
       ],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://culted.com/cdn-cgi/image/width=1200,height=630,fit=cover,format=auto/https://cms.culted.com/api/media/file/zendaya.jpg"
+      ],
+      "video_urls": [
+        "https://culted.com/video/radmedia-showreel-720p.mp4"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -377,15 +248,15 @@
       "headline": "OPB’s First Look: Bend school shooting",
       "summary": "https://www.bbc.co.uk/news/videos/The vigil comes after a teacher and children aged five, eight and 11, were killed in a shooting at an elementary school in the US state of Oregon, local police say.",
       "sources": [
-        "BBC",
-        "KGW",
-        "NBC News",
-        "The Source - Bend, Oregon",
-        "AP News",
-        "Oregon Public Broadcasting - OPB",
-        "The Independent",
-        "The Guardian",
         "The New York Times",
+        "The Source - Bend, Oregon",
+        "NBC News",
+        "KGW",
+        "CBS News",
+        "Oregon Public Broadcasting - OPB",
+        "BBC",
+        "The Independent",
+        "The Washington Post",
         "Jefferson Public Radio"
       ],
       "article_urls": [
@@ -393,17 +264,17 @@
         "https://www.reuters.com/world/us/police-seek-answers-after-children-killed-oregon-school-shooting-2026-10-16/",
         "https://www.opb.org/article/2026/10/16/oregon-school-shooting-first-look/",
         "https://www.bendsource.com/news/localnews/bend-police-respond-to-active-shooter-at-silver-rail-elementary/",
-        "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yaTBMZDFNRHAtdFFvNnl2WUNRVFNQUkN3bTNtbjljQWRXRWRlWXBOS2F4YUlraFNPVUk4Mm45cGotMFd1ZEduRlBTOTlwOFZ5dVhKRmN3?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbE5PN0lxemF3R0d0b1RudTJCQ0tpUnlLVXZROTNZdmNpX0RXMDdmT2luZHg2ZU1Tc0x1SzNFTVc0anY0bUdzYTdpekE3d1FZenJfaTlZcHhxQ1gxWE51YUJhQVF6UlBSc3ZOSU9CODJXc2FZZXpKSHhMajMzZVRjYXY5MkpIUU9ReE00NW5ZU0RHMEUzRGpISTdxcFM1UmZvaC04akFNSl9Yc2xOdFg1eXBxdE5UVUJ5ZjJzeVB6RXNPbXF5aWZkSjU1SlZRa1J5blVlc3ZxMGI?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE94dDZlRE5iVlF0ZHpEYlJHRHdITEpudTBSWFBvajFYcHloQ2Z5TmJ5SEVwa29Idkx2M2hNdFpoMG5kbjJPMjluUzZycFhTaE9oVlVORWxqZkNjbFUxZ1JNWE1FT0dxTnQzaGZLU0psaXB0X0VPMDkwWkdR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGhpME1iNXRmOS1PUTNTSldlZnV5bUt6bEZvR014VUZKa1FkcVVGTV8tU1NHME1vMmhfUE9KeFFBWTRzSHRvazRtVWFUajN5MEJCeVB1WG9aZ2QzOTYtMXgwaG8wYUxxdGxsS3Y3WFl6VzEyczc4WkN5Ul9BbW1tYS1RSVlMTTBOdDR5T3N4dDlJYjhYR1NXa3RnU3d5MktRX2hJRzlCYTFxUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeFFVZ25oR0FGdVlQVEEyajVTa3kzcGhjV08yVS0zeE0wVUQtdXRpODNGZ1g4WEQ4VVhfSUdidklSM1hmYk5Zb1pnZmxTdXdVeXF6RVFaVHVuRW9QUDdqR2ZYMTBnb2FjUXhFQ1pHQ3BsblFKY0JoZ05FcmZqOHVpRUJOY1AzYXBHN0tvS0ZyWm90ZnhoMXVMWm00NTVYdlVQa3A1X3NpSlZUTm9LUWI5anBTTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOGhpME1iNXRmOS1PUTNTSldlZnV5bUt6bEZvR014VUZKa1FkcVVGTV8tU1NHME1vMmhfUE9KeFFBWTRzSHRvazRtVWFUajN5MEJCeVB1WG9aZ2QzOTYtMXgwaG8wYUxxdGxsS3Y3WFl6VzEyczc4WkN5Ul9BbW1tYS1RSVlMTTBOdDR5T3N4dDlJYjhYR1NXa3RnU3d5MktRX2hJRzlCYTFxUQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzY3YTg2TmhxQkRDLWc0X1lpcFdBaS1SNDlTUjJFZUg1ODVQRW40REh1LWg1TjJwQTVJVFRLOVBKenU5SE1ObjJwRHpzUk5WSWl3Y3lFZXpCR0N3ZUJxME9FSC1JdEgydWpJLXNCS0NUTXBrRkd5dEJhVVhuTmZsWC1FOGFxYVJSaFNoY01VZGhXcGV5T1prR0d6OG5HWDBiaVJ6TVBfd1dGZlJHYzM5Rzg5VDI1MWNWd0RwcVlnUTNXQnlPaG9sSw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T17:03:04Z",
-      "published_at_ist": "2026-10-16 22:33 IST",
+      "published_at_utc": "2026-10-16T18:23:15Z",
+      "published_at_ist": "2026-10-16 23:53 IST",
       "first_seen_utc": "2026-10-16T10:50:24Z",
-      "age_minutes": 79,
+      "age_minutes": 15,
       "trend_score": 25,
-      "rank_score": 0.906,
+      "rank_score": 0.9593,
       "category": "celebrity_music",
       "section": "world",
       "source_type": "news",
@@ -425,16 +296,16 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Oregon School Shooting Updates: Man Who Killed Suspect in Bend Was Father of Two Students",
         "Bystander 'heroically intervened' after three children and teacher killed in US school shooting in Bend, Oregon",
         "Bend reels after school shooting leaves 3 children, teacher dead",
-        "People take part in a candlelight vigil at Drake Park for victims of the Silver Rail Elementary School shooting in Bend on Oct. 15.",
-        "Teenager kills three children and teacher at primary school in Oregon"
+        "People take part in a candlelight vigil at Drake Park for victims of the Silver Rail Elementary School shooting in Bend on Oct. 15."
       ],
       "image_urls": [
         "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/64ae/live/03116a80-c96c-11f1-a6e6-417671ef62cb.jpg",
         "https://opb-opb-prod.cdn.arcpublishing.com/resizer/v2/D3CKR7HQXJCN7CPK6GTJYGOFCA.JPG?auth=c716f36a7be9b8e853e5a424e7eb54336e339699a66fadff5e7f722e3a742ef4&width=1200&height=675&focal=1972%2C967",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG7eDNU2d8Nkz59aQWmIGhpz2WgXnU5tGSWBrB9zdy_aYdk8kSgm-2twYcals",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqTm7at9ocmUqirGhaSv3zsQiLgj51_YJ6Khs_e02eYqUWr_J7uIy-8Pq0ofg",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuBxCZ57M81k4WT4tS9LgquGLQep1mDrJnd5WXNkA0XO50xuJqmk2EOFOIZFc",
         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zw4VYcsAMRGrirh8yJbt90lfuxN069ngP8-ZrPzanBpaT2np5crQygVcYP8"
       ],
       "video_urls": [],
@@ -442,38 +313,38 @@
       "youtube_videos": []
     },
     {
-      "id": "3b8be7a2f7",
-      "key": "abomination-neon-premiere-–-‘-’",
-      "headline": "Video Premiere: Mz Neon – ‘Abomination’",
-      "summary": "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/Mz Neon’s new single “Abomination” summarizes her feelings on the current hard right-leaning attitudes towards the trans community.",
+      "id": "b4da58a314",
+      "key": "buckley-edmonton-malott-prediction-ufc",
+      "headline": "UFC Edmonton predictions for Buckley vs. Malott",
+      "summary": "",
       "sources": [
-        "95.9 The RAT",
-        "New Noise Magazine",
-        "Deadline",
-        "The Guardian",
-        "BBC",
-        "POLITICO.eu",
-        "GOV.UK",
-        "The Telegraph",
-        "IMDb",
-        "Shondaland"
+        "Lineups",
+        "Central Oregon Daily",
+        "Lyndy's Sports Annuals",
+        "CBS Sports",
+        "MMA Fighting",
+        "Yahoo Sports",
+        "MMA Junkie",
+        "MyMMANews",
+        "Patriots.com",
+        "Boston.com"
       ],
       "article_urls": [
-        "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzE5REJ3SVBOR3YtTnlxZFdVcDlHQlZLYXdlN094ejJWMjI0cGdsOVFvbS1aYWtLSXJnU0lOTFN4eC1zUGNLT21OWTVFWW04TE5sUUxrdVRsX1hOWHBvcVJ5cWhmNWp0ckFMQm9KcnphdnlwRi0tVjdpc2VnNFBPRDduZVNDZ1k1eFhxaXJ6LUc4bnhzaUM0dlJMc09PdDRtWDF0UUx3Nm95ZFZnTjNhbTZCMzc?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ZTdvbjRIRGdBdzRTU0dKaHpLZl9hZl9KM1NqbHhJbTVRS1hjVmtVNzRNMUFYRGt3VDI3eHg4MHhGNFB0RHQtZ2JMWWlfRXRabng4SHljWEtoMmY2VjNrU0puNFRGay1CdDZQNElRM2ZKVVNyLWdNV2pnc01wR2s?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWF0WUV2OW9ycklVb09jMEV6QXdaMnd4MnA0ZF82VWNoVlFpWkphcnBvZTR4VWliZkhYSVI5MmUyYWMyc0RGLVBOSmIwQWVlM21jR1dIUDd0V2FwOEg4T1hNUXNVTUs0RmNHUmZRYXMzUmQ1bVJXaWdrdEZXY0lLSGFfbDlaeTQ0T1hULVhYV2QwOV9XbTJJTzExd2RjcW8?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT2o3NUMyOUU4b0tkQzN3T0w3YWhHNlRhOHBVQUhleGNkRFg2NDVkdFozU2JkdHg3WkJMcUZnWHhlYTFxZ3ZWUm5OT2JwX2VwODgtb2ZNZGlhSUhfOEFsWGhSMmVfV01HYVM2dlhSX0FadEFHWVB6T0FFYXFIcloyTExRMC1BQ1U2R0l2WFhSZ2JBRk80S3lXMW5ZMkt2V3pRdnFYZmdCU193UEJDclZpeHRRUHktSWhUN3VUd0k5ZEFWeXh3d0pMNnlxT3FpOW1kT2p2NEUyUk11S1JwU19JMDNjZDk?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RRWxtU2hZaGY5dEZMYnJPY29ZWWNIdXFyUGRueFp4cjZGWlFEODlHLUppZGIxQ3FaMWdtMG1DZmpsV3RTaXNwdUNfQkE4a09rY3F0NkcwbnBRZXE1VWc?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX25EeE54cVM1N3lDY2E5Zk9weHd6T1dybXE4cmdvczJHSS1qbm9VRGtHaXNWWWlkQWd6c2U2VUFKNnBmakVGd3ViRVJkS0g1RkFTZTRZc0dzQ0pjQUEtbEJEc2xYZHZnUG56aTgtQ0xlbEtCM0xOWnlSV1hCa1J1QkN1QUhOSlR6ZG5aT1BHYWxvS05WdHdCY2VGVVlMNFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFlKZ2dXMVlYR1BjdXB3c2JZWVFHWkpiUEJ2WGtHSkZsYXNBNjVtOE92RlhXb2FNLUNvU3BCNmRiaWtIRjB2Y1NFU2hnVEYwVzdyc21nZWlzOWxQekVIZjhEajl2d0EtSVJFd3J3OHE2MVpxbTJvcF9OX1RIdzFqS2R2dWJwRm9xSjMySUs0anMwWHV0ZTItSVB3dDdSYVdXUi14NDhaSHdITjA3X3pwbGJOUHFJOXZuQ1E?oc=5"
+        "https://lindyssports.com/other-sports/ufc-edmonton-predictions-for-buckley-vs-malott",
+        "https://www.lineups.com/articles/ufc-fight-night-buckley-vs-malott-dfs-picks-prop-market-predictions-for-saturday-october-17-2026/",
+        "https://www.lineups.com/articles/ufc-fight-night-buckley-malott-betting-trends-odds-data/",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb282SFdad3pEakd5em1BNGlweENMVnRXUzRvOEpkeEd6ek5id25GTDktQ2pkbE1PODFBYmJvaDRJeG1jMk9qeUV2c1l1TnFoTlM2NVE3b1Rpb3RaanRCOUlueXBwLV9HaFBZYWswRDlHMExrRk1BTEhqNXYxRnVLWW9tVFlIN1BTb1dhN2k1VGdlM1BmNkhFcTgzMkxLQ0tpR0N1aEpkY1F6Uk1PaDRXdnFkQlVNTGt6eWcyWFB5eGFFQTVjZENHaHR3?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQUVYTWZPTVJ1UDRlMnFfcVhfZmR2RU5yVnZVcHN3aThFZUxyZTdCU2pzRHZnSXRvdTJwUkhXNmoxTXhZR0dGT0RESmdjV3hpTm5sd28wMWgzclVhbm5iMDJhNkR3WExhd09HTEg4QVBwVkc1eVBiT0RDS2Z2TENMVFY3TDlORXJYMUdLYXB1VUc5T28?oc=5",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZHV5Z2pQMlhUNmEtVjBWU2ZreENxVUotY1NGMGdta0ZXOGVyaXFBU0hPWWdPSnpVVU9NOVFzYVp4Mi1lTlA5SEEtTUxFWnhsZ1lZVFRpeXhreGIzQ1F0NlcxalV4ZWJDdDdpV3VVTC11UEI4akJFVktaVVpOWEtpUEdrSmpEVUIxUGZCR0hhN0VUaHgxdkRFSmFMOFdJMUg3ZTlJQUxmUWlrVS1CcEpQVkpFUUhZNEtrTzFDem5WcjNsLWFneVNWTC1VMV9nUUp2M2V6THZWamRaa19nRXpTLTBkTVNDV3V4Ynl0eDdqdHRJd25NX3hYalVmY1ljb25Wa01QRg?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEFXczJIbTBhTkl1NnVRUkstTXJaYjNDUE8yU2gzNjZwOEdmbjdEZllUMHRwRm9ULWZHSVVJQVlERmtxdTAyTG91ajZKUHh2anpmcjlfSXZjSU9iZVdWeURnOFFTRFJ4clVRVDNiZnZBRWZabUpyMHZzejctd1I0NkVOSDYyaVlubjNxMg?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHl0TUFjN2tzYXp1cUw0RFFkbFdEYmJtZ3BobFBRLVByekFIU3BjOUNDM3lFc0pJX1lXeXhNYlJxMkRXTWcwOVZ4NkhsQkdzckRWR3gyaW5IeW5qZ3RlN2o5bjhHVS1lb19MaHZuVmNjYVRSQVNPT1F1YmhkazdTU0NDUzc4a3V1andlVnZyNUJqelVLTjRxNE4zTnd5NUQ3QnZB?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:01:00Z",
-      "published_at_ist": "2026-10-16 23:31 IST",
-      "first_seen_utc": "2026-10-16T11:37:49Z",
-      "age_minutes": 21,
-      "trend_score": 18,
-      "rank_score": 0.9041,
+      "published_at_utc": "2026-10-16T17:49:02Z",
+      "published_at_ist": "2026-10-16 23:19 IST",
+      "first_seen_utc": "2026-10-16T10:05:16Z",
+      "age_minutes": 49,
+      "trend_score": 20,
+      "rank_score": 0.8968,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -486,22 +357,79 @@
       "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "UFC Fight Night: Buckley vs. Malott DFS Picks & Prop Predictions",
+        "UFC Fight Night: Buckley-Malott Betting Trends, Odds & Data",
+        "Joaquin Buckley vs. Mike Malott prediction, pick: UFC Edmonton headliner a tough call",
+        "UFC Fight Night predictions -- Joaquin Buckley vs. Mike Malott: Fight card, odds and expert picks for Edmonton"
+      ],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "4119b51a35",
+      "key": "announce-arijit-aujla-festival-karan-khan-nigam-rukh-shah-singh-sonu-unifyd",
+      "headline": "Shah Rukh Khan Announces UNIFYD Festival With Arijit Singh, Sonu Nigam, Karan Aujla",
+      "summary": "https://www.indiatoday.in/movies/celebrities/story/Curated by actor Shah Rukh Khan, the one-day UNIFYD Festival will debut in Abu Dhabi on March 20, 2027, featuring Arijit Singh, Sonu Nigam, and Karan Aujla as headliners.",
+      "sources": [
+        "India Today",
+        "News18",
+        "India Weekly",
+        "EasternEye",
+        "Moneycontrol.com",
+        "The Hindu"
+      ],
+      "article_urls": [
+        "https://www.news18.com/movies/bollywood/shah-rukh-khan-announces-unifyd-festival-with-arijit-singh-sonu-nigam-karan-aujla-ws-l-10385545.html",
+        "https://www.indiatoday.in/movies/celebrities/story/arijit-singh-sonu-karan-aujla-to-headline-srks-unifyd-music-festival-in-abu-dhabi-3019227-2026-10-16",
+        "https://www.indiatoday.in/amp/movies/celebrities/story/arijit-singh-sonu-karan-aujla-to-headline-srks-unifyd-music-festival-in-abu-dhabi-3019227-2026-10-16",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUtHT0MxMDk5aS0xN3BpUHROTkg3Q2dYWTdpbktyaUw0SFViUGJ3ZzdDS0dfRGg3MlY3RUFzMWZmNkx6X2VFVFlpVEwwLWJjV0RVYmtDUDZSQmFrbTlyT2w1WEhSTEx5bjZiSGVPLTVuLTNnb01pbGszVzlFeDZMckhUZTNabjh1M3p5ZzhPTFJkX2tYdHhSLTJtb2JiT1lSaVZEOVBXU2RfeVBEOFdMLWJ0Mi1PUjJZalp4UEhPamhUemJDYTg5UE1aakk4N2VOdnoxRXQtVkJFN0w1QU9Yc3RDX3lIQdIB6wFBVV95cUxQVmhsN2pUVnB6YzRYczZfMHhHbHRuVXdGTnZyVWdzOGF4UllseF8wc1gxUG5YMW5QSGxjQlV2YnU1Q0kzOHVPS3JkZWcwNTduVWNwNm5QZTd2MlFfWTBGQVpaSmVWaEl0ZE0wdXlGUEtYX1lVbVV0OW1Eb0pyYXpPU0l0OWppVF9meHNxRTNfNFNOc3A3RnhHOUFFUE81RGhwSXRxUGR4dWJDNWdfSTFwQTZBcHNhQVRJa2Vqb2llcTlST1Mwc3k4UmdqVld2YzI3ZkRhb0lfZEtPX0szcmstY1pLa0xqa2JsNjZn?oc=5",
+        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVmhsN2pUVnB6YzRYczZfMHhHbHRuVXdGTnZyVWdzOGF4UllseF8wc1gxUG5YMW5QSGxjQlV2YnU1Q0kzOHVPS3JkZWcwNTduVWNwNm5QZTd2MlFfWTBGQVpaSmVWaEl0ZE0wdXlGUEtYX1lVbVV0OW1Eb0pyYXpPU0l0OWppVF9meHNxRTNfNFNOc3A3RnhHOUFFUE81RGhwSXRxUGR4dWJDNWdfSTFwQTZBcHNhQVRJa2Vqb2llcTlST1Mwc3k4UmdqVld2YzI3ZkRhb0lfZEtPX0szcmstY1pLa0xqa2JsNjZn0gHrAUFVX3lxTFBWaGw3alRWcHpjNFhzNl8weEdsdG5Vd0ZOdnJVZ3M4YXhSWWx4XzBzWDFQblgxblBIbGNCVXZidTVDSTM4dU9LcmRlZzA1N25VY3A2blBlN3YyUV9ZMEZBWlpKZVZoSXRkTTB1eUZQS1hfWVVtVXQ5bURvSnJhek9TSXQ5amlUX2Z4c3FFM180U05zcDdGeEc5QUVQTzVEaHBJdHFQZHh1YkM1Z19JMXBBNkFwc2FBVElrZWpvaWVxOVJPUzBzeThSZ2pWV3ZjMjdmRGFvSV9kS09fSzNyay1jWktrTGprYmw2Nmc?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkxtcmRsd0lRV1VHV1ltOTdNOXhGN011MTVCX1FGTGVjbS0xVlVmMnZvU0hBd2s5aEs3UVhOX2hJWGJ0d1pxaTZ1MXU2cTUxLWtsamM1bFZSdHNMVWFFVEZWUF9JQ0VQaF9SRk42RkhrT25YSU5GQi01ckZveHhIVlcyTFZmeFlWWFVJT0VlNFprRW1yaVk4eU0zQWF4VzFiSXZVenFVNV9xdGg5VEt0THYweERzQ0tXNkJfdUUzZGdqUU9MdzNISE9MUmNoUHhlNS1XWXZHb9IB3AFBVV95cUxQWmE0WEhBU2pVYWVDLTBORW5EQzNpdS1OaXl1NUtlb0EtZzNvRmNoUGhiS2xVM1c1QUpCNUowYzNDcHlpckxGOWtON2ZyX1hGbFNNOWVjSGk4X2kzWXRGQ1RGd2lmdk5mSmVzOVA0YzRJQXVoVWdOTDFLbEhVb2hQWENBZmRIM25RdHUyMVotbnFKSDFQTkY1TThzTDNWYkc4aW9lVS13cExrdjZVaElXck44cFl4SWhVbG9GbDJNa3ZJaFlEVXhrV3RlZEYwa211UjhzdENkNnFOM0xk?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWmE0WEhBU2pVYWVDLTBORW5EQzNpdS1OaXl1NUtlb0EtZzNvRmNoUGhiS2xVM1c1QUpCNUowYzNDcHlpckxGOWtON2ZyX1hGbFNNOWVjSGk4X2kzWXRGQ1RGd2lmdk5mSmVzOVA0YzRJQXVoVWdOTDFLbEhVb2hQWENBZmRIM25RdHUyMVotbnFKSDFQTkY1TThzTDNWYkc4aW9lVS13cExrdjZVaElXck44cFl4SWhVbG9GbDJNa3ZJaFlEVXhrV3RlZEYwa211UjhzdENkNnFOM0xk0gHcAUFVX3lxTFBaYTRYSEFTalVhZUMtME5FbkRDM2l1LU5peXU1S2VvQS1nM29GY2hQaGJLbFUzVzVBSkI1SjBjM0NweWlyTEY5a043ZnJfWEZsU005ZWNIaThfaTNZdEZDVEZ3aWZ2TmZKZXM5UDRjNElBdWhVZ05MMUtsSFVvaFBYQ0FmZEgzblF0dTIxWi1ucUpIMVBORjVNOHNMM1ZiRzhpb2VVLXdwTGt2NlVoSVdyTjhwWXhJaFVsb0ZsMk1rdkloWURVeGtXdGVkRjBrbXVSOHN0Q2Q2cU4zTGQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXNUaFp4X1lwUFNlbUJtTFBYSVpVOXFyeVhUTms3SFlBSU5POEdhODVPQ01aenpnaVJIVFBOckVsTUk4QlNyaGFpR2daaW1Kck9xOFMxWE9idDd0MVBEYXFnTnZHMUlObXBOUEdWU1plZDhQZzVCVFRVWk1rVndjMTVxMTBoZmxQVkkxbm40NlhueldkbmV3Z0hZQjBmRmlkNU5rNHVHcmdJdFZwMFNaT0xKS3hkNEtF?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T17:06:54Z",
+      "published_at_ist": "2026-10-16 22:36 IST",
+      "first_seen_utc": "2026-10-16T12:01:06Z",
+      "age_minutes": 91,
+      "trend_score": 16,
+      "rank_score": 0.8579,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Shah Rukh Khan"
+      ],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": true,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Thom Yorke’s ‘Hamlet Hail to the Thief’ to Premiere in London at Barbican Theatre Oct. 31",
-        "Kevin Hart Animated Series ‘Lil Kev’ Sets Season 2 Premiere Date",
-        "Burnham says ‘too much time is wasted in those dramas’ when asked about Scottish independence – as it happened",
-        "‘9-1-1’ Season 10 Premiere Reveals Buck’s Problems With Theo & Volcano Precursors"
+        "Arijit Singh, Sonu, Karan Aujla to headline SRK's UNIFYD music festival in Abu Dhabi",
+        "Shah Rukh Khan’s UNIFYD brings Bollywood, Punjabi music and a surprise for Sonu Nigam fans",
+        "Shah Rukh Khan announces new music festival with Arijit Singh, Karan Aujla and Sonu Nigam",
+        "Shah Rukh Khan announces UNIFYD music festival in Abu Dhabi with Arijit Singh, Sonu Nigam and Karan Aujla;..."
       ],
       "image_urls": [
-        "https://newnoisemagazine.com/wp-content/uploads/2026/10/MZN-Abomination-Cover-e1791517455899.jpg"
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/arijit-singh--sonu--karan-aujla-to-headline-srks-unifyd-music-festival-in-abu-dhabi-160629613-16x9_0.jpg?VersionId=5m0HiMiMF0bL8kJdquV8_SwL9vKYhK52"
       ],
-      "video_urls": [
-        "https://www.youtube.com/embed/eV-KYEy9SAo?feature=oembed"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -519,9 +447,9 @@
       "published_at_utc": "2026-10-16T18:20:21Z",
       "published_at_ist": "2026-10-16 23:50 IST",
       "first_seen_utc": "2026-10-16T18:20:21Z",
-      "age_minutes": 1,
+      "age_minutes": 18,
       "trend_score": 10,
-      "rank_score": 0.8332,
+      "rank_score": 0.8191,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -540,8 +468,12 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/embed/EK62Dj9VwR8?si=WhBbY_Aao7kY3hNn",
+        "https://www.youtube.com/embed/7ZyP1TjJ05I?rel=0&enablejsapi=1",
+        "https://www.youtube.com/embed/7ZyP1TjJ05I"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -555,8 +487,7 @@
         "The Times of India",
         "Cricinfo",
         "Cricbuzz",
-        "BCCI",
-        "The Hindu"
+        "BCCI"
       ],
       "article_urls": [
         "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-test-and-odi-squads-for-new-zealand-tour-announced-who-is-in-who-is-out/articleshow/134998318.cms",
@@ -571,9 +502,9 @@
       "published_at_utc": "2026-10-16T17:15:00Z",
       "published_at_ist": "2026-10-16 22:45 IST",
       "first_seen_utc": "2026-10-16T15:14:00Z",
-      "age_minutes": 67,
-      "trend_score": 14,
-      "rank_score": 0.8279,
+      "age_minutes": 83,
+      "trend_score": 13,
+      "rank_score": 0.8035,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -606,34 +537,26 @@
       "youtube_videos": []
     },
     {
-      "id": "6613209f5b",
-      "key": "full-ind-india-list-serie-squad-team-test-zealand",
-      "headline": "India squad for New Zealand Test series 2026: Full updates and team lists for NZ vs IND Tests",
-      "summary": "https://sports.yahoo.com/articles/With just a few days remaining for India's month-long all-format tour of New Zealand, here's a look at the squads the Men in Blue will field for their two-match test series.",
+      "id": "98bd3bdc93",
+      "key": "applie-india-jaffer-men-national-post-selector",
+      "headline": "Jaffer applies for India men's national selector post",
+      "summary": "https://sportstar.thehindu.com/cricket/wasim-jaffer-ramesh-powar-interviewed-bcci-national-selector-post/article71593609.ece/amp/CAC interviews Wasim Jaffer, Ramesh Powar, and others for senior national selector post; Ajit Agarkar exit shapes BCCI’s choice.",
       "sources": [
-        "DT Next",
         "ESPN",
-        "Devdiscourse",
-        "The Times of India",
-        "Hindustan Times",
-        "Yahoo Sports"
+        "Sportstar"
       ],
       "article_urls": [
-        "https://sports.yahoo.com/articles/india-squad-zealand-test-series-153000853.html",
-        "https://www.dtnext.in/news/sports/akash-deep-returns-to-test-squad-for-nz-series-bumrah-to-only-play-red-ball-cricket-on-tour",
-        "https://www.espn.com/cricket/story/_/id/50196779/prasidh-krishna-rishabh-pant-jasprit-bumrah-india-squad-new-zealand-test-series",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRk8yTFIwdzhPZWNkMXU4RnBoZHFIdWFZbDcwYXNwWC1KbG1jRDczODhkSVNrZnlfaUxUNDZoUXYtTXRtMlRGeXlBVDRINFVTdzZsMF9xQm45UGRpLTFEYXBoTkcwYlZhSzZvRmwzRFdnLVVvM3NMdTFpVmpDcWM5VFJxcmUwSkJsWjljUk1KY0Z0dm8tZUZnV2poMkNEUEtWckJqcDlZWE9pVWFSV194RGxvWWJuSjF0RExWZUsxODg5V2M?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2tMODIxWHlKdmZXWXRpTGVHUUZJblNzSkI1Si1iMXZldmstTzVvbzZ5d1QxSEJFbWRqNnBVSVhfZVMtb0wwOUVRQ1hMWlNmMTZZaVYyMWZ1Z0toSGJraDZ4TTdtM1RZRlRtNDExYjI3QjRDdUlad2JqUGFQMEgtb2xlTEsySHYzaW1reFZMVVF4ZG95N1JELVdZbzlUV0FfRDFVMjBuTE1hUGxfeW9vR1ZQX0pOSFFWTElUQmp3a0hmd193WUk0?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUtWakE1YnltS3lXbXo0YTlOUXhnTkh4cFEtdnBoV3Y0X2FIM2hXRFFfM1pMdEFrNGpiT1B2NC1rckVhUXk5VGhUTi1KSFRqdjI4bVZQcDZrSkNEdzJQVnRVYThTWHdkTnBSVl9kaFhfeUN2eW9PaGZoRU5qQ0locEE3cWU1OW1QOF93Um0tTVVOUGJMeUhIZnUtVlQ1U3dSS3VqS3NUdjZId2YzM3lIWWRYVHVBeUUwSXQtTEMzV0puVEhib1hLdEo4UGlpeHMybW9ZQ1Bwa9IB1wFBVV95cUxOdUtWakE1YnltS3lXbXo0YTlOUXhnTkh4cFEtdnBoV3Y0X2FIM2hXRFFfM1pMdEFrNGpiT1B2NC1rckVhUXk5VGhUTi1KSFRqdjI4bVZQcDZrSkNEdzJQVnRVYThTWHdkTnBSVl9kaFhfeUN2eW9PaGZoRU5qQ0locEE3cWU1OW1QOF93Um0tTVVOUGJMeUhIZnUtVlQ1U3dSS3VqS3NUdjZId2YzM3lIWWRYVHVBeUUwSXQtTEMzV0puVEhib1hLdEo4UGlpeHMybW9ZQ1Bwaw?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxONm1pQVAteWlGY1pmZGo2T0lzUlRBNFJlb1o1T3JibmtjV0NYVnVLTDFXTG5LX3RxMFBFNkpkY2swYlQyTXYxdXJDTzNzN3RNTmRhYUQzVVV6aXBwUEpOaDBWYThWTDg1R19NbXBpZ1JCS3VzcWZCdmFhaDJDS1AxdlFwMDBjVzJuUmp4Ym5xV0ctS241UGh4M1B0dDl2VEpXX1ExT18zeThmVFNZWkVFZWppc3o0RVBkNm1XdzZ0R1hyUFc2LUtEckR5a3JraEE1ZnphLUhjc3hCcE9MMFh2VGpCRlZDV3d2MjZFS01OcEZUTFhqa244WXJWR2FPNTdNU1QtMFRhQ01IUlhuanNVXzNFZUXSAZoCQVVfeXFMTnFaMlVqMC1MMVpHMkZ1RkMxYm5ncDNXZERFZjR6WVNLLU1kYkthUW9VdzFiSDJja2lQcUVIRjlYWVU1TGVFaENuSGtzWGc3ZEtOSjV5LVNmQW9KN1RDYVlrbHZwODZIMVRQRVh5OWt3NzlPOFpQenJGUmFRdEZyQTFVNUpFS3NveWU0RDd4V0JMQWpKY3pNZVYybXIzNVJQckR6NmpzZmw2YUlyQ3VPZE54c0trZ3ItdllkUTBsWmllTEZJSERkb1VIVWNaR3hZcTNLSmpuQXRqa0p5SXB1UzRBZzk4MmFnRnd4RjBaVFFOc3l5MWFiVDVOdjFPSEZ5WGJRZDJEZUUyYTZlb2dkcUV3clVPSkEzaTZ3?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTVZYVlBwaC1vR1YzRlI4SGtzdmFMajdYMUg3eTZIX1VudTJlNDhnVU5PcWwteFA4Z1B6VEFTS2dOR1pWNm0td0JHcUxKcXBjQzZ0aVMwYUtKN2piNlI4WVRpUEtDSzFsNTFCOWpkdDdjTVVuYWk4ZFRLUVVtN1o4SzFiNkx0X1h5dDdhSjJQeDJlcmkxZVhaRGZ5Y0JkZ2tubGlGR2RXNHhreG5IVExmczREU3RXQk9kdjRDVGEwQVF1QmVTMHJjd1lyZlZZcF91RTB2dXZMcXlzR3Z3Tnkxb1I1ZWNqOG05THFGUjF30gHzAUFVX3lxTFBOQ0hfRzBsSFlIb3hnRHNaSk5HOXd0am1PbGpMUUw2WUR2MUtZNWpxcUJ3c1ZJeGhYX1BjZkxlcEVYakduT0QtelBTUnd1R3RtZW4xeTJmUFVHcVUzSnM3OW9ZUG1mVl9SVEJQWlp0a0lWT3JZYWdJTG1QOExlU0VGZ0ZSMDM2LXk5UjVIMWQwcGhYYjd4clNid1oxbzd4bS1EbTZKak5fNEVjY0swMnlXZWxDYTJmZ2xHVXB6T3hoUnNRRzl4bUFDdUdic3pXOGU2RWx2Si1WOUdqb2VaeXNpQWRQeW1UR1VkTzM3akVMMXRmUQ?oc=5"
+        "http://africa.espn.com/cricket/story/_/id/50197444/jaffer-applies-india-men-national-selector-post",
+        "https://sportstar.thehindu.com/cricket/wasim-jaffer-ramesh-powar-interviewed-bcci-national-selector-post/article71593609.ece/amp/",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGw1ZUFrYTM4c1VmTWJiRldobGNucnFhRDZqZ2xnU09haVZPVmt4QWFaOU1NOW9tYk5HMmJDRUctOEdEXzhIazJFRDNOTzMxSC1keGt1VUNtWFJ2ZnFycFBOREQ3ZTU4REtoejlFbno5OTNGTy1MQk81Z1NyeW8tMHQzMk9mV2lNb2JCWk9uUUQ3TkxMTF83VlJBOXY4WDA?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0d3TjE0OWtWdE12cTdiUldBVjdzT3RwVFhxYUlHYWNueEU5Vnc4RW93a3F5dUlkR2FsUF9fa21ib0pMSGU1ekVOc2NYZ3NPck9jbU5LRHBhdXB3eURTaFB4bTFQcko3ZnhWY09qVXhvQ2ZzS1NVWndyb3VRazNBcTlUXy1LZGZrWGJDUXkzV25memRRMkhORTBBc05zV2tVcklRLThjNmsyRWFRZ3d4REwteXVtNlc2cXVidXNKVkdfWE1oUUJBZdIByAFBVV95cUxPU0d3TjE0OWtWdE12cTdiUldBVjdzT3RwVFhxYUlHYWNueEU5Vnc4RW93a3F5dUlkR2FsUF9fa21ib0pMSGU1ekVOc2NYZ3NPck9jbU5LRHBhdXB3eURTaFB4bTFQcko3ZnhWY09qVXhvQ2ZzS1NVWndyb3VRazNBcTlUXy1LZGZrWGJDUXkzV25memRRMkhORTBBc05zV2tVcklRLThjNmsyRWFRZ3d4REwteXVtNlc2cXVidXNKVkdfWE1oUUJBZQ?oc=5"
       ],
-      "published_at_utc": "2026-10-16T17:22:25Z",
-      "published_at_ist": "2026-10-16 22:52 IST",
-      "first_seen_utc": "2026-10-16T15:25:26Z",
-      "age_minutes": 59,
-      "trend_score": 11,
-      "rank_score": 0.7988,
+      "published_at_utc": "2026-10-16T18:26:19Z",
+      "published_at_ist": "2026-10-16 23:56 IST",
+      "first_seen_utc": "2026-10-16T15:39:50Z",
+      "age_minutes": 12,
+      "trend_score": 7,
+      "rank_score": 0.7731,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -652,14 +575,10 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Akash Deep returns to Test squad for NZ series, Bumrah to only play red-ball cricket on tour",
-        "Prasidh, Pant, Bumrah in India squad for New Zealand Test series",
-        "Cricket-Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
-        "Jasprit Bumrah returns, Kuldeep Yadav retains place as India make a host of changes for New Zealand Tests"
+        "Wasim Jaffer, Ramesh Powar interviewed for national selector’s post as CAC weighs options"
       ],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/eb7ad48fa5f771c483f725666ce16f39d37cfeb4174ee21ff16b799f0033e06b/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Fe10914ce67529cf634c69a35031986ad",
-        "https://media.assettype.com/dt-next%2F2026-10-16%2Fv4xewx7s%2FAkash.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+        "https://ss-i.thgim.com/public/incoming/rabngy/article71593617.ece/alternates/FREE_1200/01_DSC_2987.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -680,9 +599,9 @@
       "published_at_utc": "2026-10-16T18:14:00Z",
       "published_at_ist": "2026-10-16 23:44 IST",
       "first_seen_utc": "2026-10-16T18:14:00Z",
-      "age_minutes": 8,
+      "age_minutes": 24,
       "trend_score": 6,
-      "rank_score": 0.785,
+      "rank_score": 0.7717,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -712,6 +631,53 @@
       "youtube_videos": []
     },
     {
+      "id": "062ec77d53",
+      "key": "altman-elon-good-job-musk-praise-roadster-sam-tell-tesla-‘-’",
+      "headline": "Sam Altman praises Tesla’s new Roadster, tells Elon Musk ‘good job’",
+      "summary": "https://businessupturn.com/usa/business/sam-altman-praises-teslas-new-roadster-tells-elon-musk-good-job/OpenAI CEO Sam Altman has praised Tesla’s new Roadster, adding fresh attention to the electric carmaker’s upcoming sports car. Altman reacted positively to the…",
+      "sources": [
+        "Business Upturn"
+      ],
+      "article_urls": [
+        "https://businessupturn.com/usa/business/sam-altman-praises-teslas-new-roadster-tells-elon-musk-good-job/",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWtVeXRGNklLZHBQSUV3WWxOVTYzU2ZNV29hUEtKd2x0MjJRdUV4RG1xQTJ2SzRaQXF3RnE2bGNhdWs2QWhScGRyc0NpLXdfdEJHWEZRVDVkQ3l5Sm9MUXozeUxYNTR2U1dxVjY2YWRIVTNwTXpMNFE1dTF3Rm05RVB6UVJNWHdVU0h6VzNGemcxaTdFbEF1VGtRMzdTODNwbWJXbk5SWQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T18:11:00Z",
+      "published_at_ist": "2026-10-16 23:41 IST",
+      "first_seen_utc": "2026-10-16T18:11:00Z",
+      "age_minutes": 27,
+      "trend_score": 5,
+      "rank_score": 0.7445,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Sam Altman",
+        "Elon Musk"
+      ],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk",
+        "Famous people clips",
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://businessupturn.com/uploads/media/1792171439262-l1an2p-untitled-image---2026-10-16t225343-039.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "9d219fbe79",
       "key": "adlc-judgment-move-must-upstream",
       "headline": "ADLC: Why Judgment Must Move Upstream",
@@ -723,12 +689,12 @@
         "https://sdtimes.com/agentic-development-life-cycle/adlc-why-judgment-must-move-upstream/",
         "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFM4aEYyOWV4Skh2VDJFSkZiY0ZtUk1qSjR6X19ncnNYcjE3a21QV1VGcFpHemdDMzhOTzRzVlhsaFc4cGVyTVpVWmU4UnBSTnpkT2w3OXFCbW1uN3pOcFBRanRpMS1JRWtWWGNpcVZLcVZ3eUE1T1VIVUNndGR5Sl96MEpfeXRISGdJb0xkd2Vqdw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:17:06Z",
-      "published_at_ist": "2026-10-16 23:47 IST",
-      "first_seen_utc": "2026-10-16T18:17:06Z",
-      "age_minutes": 5,
+      "published_at_utc": "2026-10-16T18:16:18Z",
+      "published_at_ist": "2026-10-16 23:46 IST",
+      "first_seen_utc": "2026-10-16T18:16:18Z",
+      "age_minutes": 22,
       "trend_score": 6,
-      "rank_score": 0.7575,
+      "rank_score": 0.7433,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -752,23 +718,23 @@
       "youtube_videos": []
     },
     {
-      "id": "93fe0f1f3e",
-      "key": "decision-deployment-edge-flock-launche-local-model-open-powered-qwen-source",
-      "headline": "FLock.io Launches Qwen-powered, Open-Source Decision Model for Local Edge Deployment",
-      "summary": "https://macaubusiness.com/flock-io-launches-qwen-powered-open-source-decision-model-for-local-edge-deployment/Plentisoft Press Releases | Built on Qwen3.5-2B, FLock.io and Oxford University res",
+      "id": "007203c3bf",
+      "key": "announcement-glamsterdam-hoodi-testnet",
+      "headline": "Glamsterdam Hoodi Testnet Announcement",
+      "summary": "https://blog.ethereum.org/2026/10/16/Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1...",
       "sources": [
-        "Macau Business"
+        "ethereum.org"
       ],
       "article_urls": [
-        "https://macaubusiness.com/flock-io-launches-qwen-powered-open-source-decision-model-for-local-edge-deployment/",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY3cxOEhaQ0lVb3F2TXZBbTB6RUNUNTdudk91OUp5TjdYU251SDRKQWl6WDRDbTNtYXQ4NU5wMVJ2c2tkT1lpcXpDenBfREU3MXN0OEdMaEJ6SWlGMy1EWWh1eFZBcGxUU09WUmR6N1Y4ek04MGs3Z2hQQkpNay1HYWV6QUFsanZQa0prdTQ4TDRCMXEwdE14VmxWSU5nX1Y4U24wVFhJSzhUdFBNbllz?oc=5"
+        "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE80SHFSa05nd0xhOGFrZVhObDA2aEhvaXlGTXhRU1JIdTZIc3dZNUpHMUJpYzNTRnVhTHRyQUZONkQtRWVtRlQtMGpZU2huN3ZUOVNsXzRRLVlHWXhWbHBTYjN6ZThSZTNPZDl3NmxlVUYwM1pXWGc?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:01:09Z",
-      "published_at_ist": "2026-10-16 23:31 IST",
-      "first_seen_utc": "2026-10-16T18:01:09Z",
-      "age_minutes": 21,
+      "published_at_utc": "2026-10-16T18:35:16Z",
+      "published_at_ist": "2026-10-17 00:05 IST",
+      "first_seen_utc": "2026-10-16T18:35:16Z",
+      "age_minutes": 3,
       "trend_score": 5,
-      "rank_score": 0.7195,
+      "rank_score": 0.7345,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -778,7 +744,7 @@
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -787,30 +753,40 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://hogo.sgp1.digitaloceanspaces.com/macaubusiness/wp-content/uploads/2026/10/1792166270911-0-GqpiEp.avif"
+        "https://blog.ethereum.org/images/eth-org.jpeg"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/watch?v=HoclxIBR2EM"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "f433fc05fc",
-      "key": "capital-defined-review-scale-startup-tech-venture",
-      "headline": "Defined VC Review: How Venture Capital Scales Tech Startups!",
-      "summary": "https://quasa.io/video/defined-vc-review-how-venture-capital-scales-tech-startups#Quasa #QUA #DefinedCapital Defined Capital (Defined VC) is an early-stage venture capital firm and investment platform focused on supporting category-defining startups across emerging technology sectors. You submit your pitch deck, business model, and growth metrics, and the team evaluates capital…",
+      "id": "5fd8bd8aee",
+      "key": "4-400-case-cdc-detective-disease-measle-pennsylvania-plan-reported-send",
+      "headline": "More than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania",
+      "summary": "https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/More than 4,400 measles cases have been reported in the U.S. as the CDC says it plans to send a \"disease detective\" to Pennsylvania.",
       "sources": [
-        "quasa.io"
+        "ABC News - Breaking News, Latest News and Videos",
+        "Al Jazeera",
+        "Reuters",
+        "6abc Philadelphia",
+        "PBS"
       ],
       "article_urls": [
-        "https://quasa.io/video/defined-vc-review-how-venture-capital-scales-tech-startups",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0tQWFJPbERhWnpjby1XZ1Z0c29IUnBiTHZDMGlIZnZ3RXRaaG1hX3czanZjOHlVZUZLTEdFNm14aVBtZzRibzB3T0JfTUZFUjV0NUt6RE5IQ19TaHE1OUVzazFvMXR0aU9YcV9TV2NZNE1FSlVuMW01dmxyS2xvRHVUVVdoZUd2?oc=5"
+        "https://abcnews.com/Health/4400-measles-cases-reported-us-cdc-plans-send/story?id=137315190",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNM1NaY19objFwSjZ5aWlNYm0wYlItUjFKSl9zNGgtazM4Rlo2MG9fbHRuWTg1TnU4YVpwLUpOaHJoSGdJblNUVTFPMXgtYUI5NkxfM2hNQl9VNVVvUlF1WFB4X3hsZ19qcWZXVEltLW9NUUx4bUZDTW9YbG0xcmRzd1lJd3JJSEV6RDJxQmg1V2RJSjZiVkHSAZsBQVVfeXFMT3ZaTE45MWFoWlBvNEhuMDZWaFVjSm10Si1TeWNaT25jNFl2V3N0U1hDc0ZXUXVPdTdiWHI4aV94OVE4Mjk4X3FETEZCVkxOOWNYMEZRYUFkQmZrQmN6aURkYjROTUxPY3pfVlN3S21aM1d3Rm00Rm1qOHZKTklYbnlHaTRtc1RWRUdLSERJRkszd056Q2F3QlVRU28?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSlZlWkpjR3dJLWlTWnNFX1RUcTdiNHhtbm9wbHFpS2FtdzJhN2k2MFREaE5MM1FiZXJsc0ZoWUVOQWlpZlBJLVFTSFA1Q000UE05YWExczlTei1iTlIzOGhTMmw4MEVvOTBmVUdlelFxZEVyRE15VVVWZExzaXhjTHJqaFI4TF9PME9OTHh3STRibTjSAZgBQVVfeXFMTWREUWJHN2piZDEyWmdzVlZ6dUVQb25kNlNmTVRQRjVTMmgyVy1GN1FPYVotSkw5Q3JxVFFsYWNRdEp6NkIxTkZUaUF3VWRLRW11Zl9Ea1NZa29VT05hTVUxQzFBNGN4ajFEMEN1UmkyOVhIc0wtZjdxQmREUkROU2M5QTVMa0Z5R3FvbG5JcDZ5X3ZnSDdodWs?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzl2SmNXdEQteTVnOXpBOXJhMWdzZkVJbTRxdk1SZWJYZUIwRHNPZzVSV2VyNmxLT1JLdjBZOG1Pb2dIWGJNVS11azNhZEZFQVQwQUx3UmwySnhaYldMWVNWc0JFdGJvRzNRVjUzTFhSNHpTb0E1RGRPcW5jelhzVDJfeXdkZ2txV2Z0QklIZDcyQ1Y3cnlIcVktQ2RUVlk?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTWc3cDRCVzlaM212WGVZa0NxcnZtOHNjQndaR1pBZUNuR3pLUVptMEEwWmtZOTcydUJXQVh0NG9hYkpIUGd5WTAxSHVpUEtQU252V1p6SWR5U3lvSl9HV2hlLUJPVFRsLXR6ckN4S01hazd1OVJCYVJqbXhhQ3FrZ1R2cE9iOTU5X2hJZW83X1lvRGRvSC00NmxEc9IBoAFBVV95cUxNaF95b3VHYWtEajJ1cnB1a1BOQkZxQjhuMmlid0VLU2dKdXVWbE5ES0VrbXNSa3NObmJtUHYwOVlWbXBlMWFYWVE1ejhQeFFGUFJhd0FPb2YxVGNWeFR3dVBaMVhmMTZPbmhveUthcnZjblBzam55MGlVYi1EaWpSVGxBbkgyOGlLbWxPUEs2WVE1ak9hTU9iNmFuY29qR0Nu?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNLW1rbWtfd3kzR0E2dzVvQ1M3Y2pLSENNQjZkbGFkZTBrd3EyQ3Eyd0lZRjNMcHlaZlJqX3ZhR3I4Mi1pNXgxeXZxQmlzSG9QTEQ1MXNMVTBYdXVGWUZGeWV1Vl9haUkwWDdWeG5ON0VFdm1ValhsN1J4QlRwVFAzckhOalNYUFo2UHc3OUNFc3B0M2RSMDlHcmxiLTU0dw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T17:55:01Z",
-      "published_at_ist": "2026-10-16 23:25 IST",
-      "first_seen_utc": "2026-10-16T17:55:01Z",
-      "age_minutes": 27,
-      "trend_score": 5,
-      "rank_score": 0.7145,
+      "published_at_utc": "2026-10-16T17:47:16Z",
+      "published_at_ist": "2026-10-16 23:17 IST",
+      "first_seen_utc": "2026-10-16T17:47:16Z",
+      "age_minutes": 51,
+      "trend_score": 6,
+      "rank_score": 0.7192,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -819,9 +795,7 @@
         "US"
       ],
       "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
+      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
@@ -829,12 +803,10 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://i.ytimg.com/vi/zNOdo6xHwsw/hqdefault.jpg"
+        "https://i.abcnewsfe.com/a/0dff15eb-cebb-47a5-822b-772db2a37d6f/cdc-gty-jef-261008_1791463559554_hpMain_16x9.jpg?w=1600"
       ],
-      "video_urls": [
-        "https://www.youtube.com/embed/zNOdo6xHwsw"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -851,9 +823,9 @@
       "published_at_utc": "2026-10-16T16:00:02Z",
       "published_at_ist": "2026-10-16 21:30 IST",
       "first_seen_utc": "2026-10-16T16:00:02Z",
-      "age_minutes": 142,
+      "age_minutes": 158,
       "trend_score": 5,
-      "rank_score": 0.6926,
+      "rank_score": 0.6876,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -903,9 +875,9 @@
       "published_at_utc": "2026-10-16T08:00:23Z",
       "published_at_ist": "2026-10-16 13:30 IST",
       "first_seen_utc": "2026-10-16T08:00:23Z",
-      "age_minutes": 621,
+      "age_minutes": 638,
       "trend_score": 5,
-      "rank_score": 0.5429,
+      "rank_score": 0.5376,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -956,9 +928,9 @@
       "published_at_utc": "2026-10-16T11:59:58Z",
       "published_at_ist": "2026-10-16 17:29 IST",
       "first_seen_utc": "2026-10-16T11:59:58Z",
-      "age_minutes": 382,
+      "age_minutes": 398,
       "trend_score": 5,
-      "rank_score": 0.4186,
+      "rank_score": 0.4053,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1004,9 +976,9 @@
       "published_at_utc": "2026-10-16T13:13:00Z",
       "published_at_ist": "2026-10-16 18:43 IST",
       "first_seen_utc": "2026-10-16T12:05:34Z",
-      "age_minutes": 309,
+      "age_minutes": 325,
       "trend_score": 8,
-      "rank_score": 0.2178,
+      "rank_score": 0.2124,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
