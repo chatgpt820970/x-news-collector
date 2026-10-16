@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-16T19:54:44Z",
-  "generated_at_ist": "2026-10-17 01:24 IST",
+  "generated_at_utc": "2026-10-16T20:57:03Z",
+  "generated_at_ist": "2026-10-17 02:27 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 6062,
-    "fresh_items": 5080,
-    "clusters": 2304,
+    "raw_items": 5969,
+    "fresh_items": 4978,
+    "clusters": 2275,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
     "youtube_uploads_fresh": 96,
     "youtube_items": 2,
-    "famous_items": 5,
+    "famous_items": 3,
     "trends_terms": 40,
-    "page_fetches": 62,
+    "page_fetches": 56,
     "with_video": 6,
-    "runtime_sec": 34.4
+    "runtime_sec": 28.4
   },
   "categories": {
     "famous_clip": 3,
@@ -32,122 +32,68 @@
     "other": 6
   },
   "top_trends": [
-    "josh jacobs (US 5000+)",
-    "jonathon cooper (US 500+)",
-    "vti (US 500+)",
-    "nikki great british baking show exit (US 200+)",
-    "ethan hawke (US 500+)",
-    "world war z (US 200+)",
-    "norte fire (US 5000+)",
-    "todd and julie chrisley tax lien (US 500+)",
-    "spy (US 500+)",
-    "voo (US 1000+)",
-    "jailer 3 (IN 100+)",
-    "frosinone vs sassuolo (IN 200+)",
-    "fabrizio romano (IN 200+)",
-    "nasdaq (IN 1000+)",
-    "black clover (IN 200+)",
-    "australia champions vs west indies champions match scorecard (IN 100+)",
-    "ranbir kapoor (IN 200+)",
-    "mumbai (IN 200+)",
-    "તુલા (IN 500+)",
-    "the diplomat (IN 100+)"
+    "valley children's hospital (US 200+)",
+    "melissa mccarthy (US 500+)",
+    "deportivo la coruna (US 500+)",
+    "jackie kennedy (US 200+)",
+    "cook political report (US 200+)",
+    "true detective (US 1000+)",
+    "car chase (US 200+)",
+    "james harden (US 200+)",
+    "ps6 (US 500+)",
+    "jon gosselin (US 1000+)",
+    "rajasthan (IN 1000+)",
+    "nvidia share price (IN 100+)",
+    "championship (IN 100+)",
+    "character ai (IN 100+)",
+    "grand theft auto vi (IN 100+)",
+    "pakistan cricket (IN 100+)",
+    "tridhara durga puja (IN 500+)",
+    "jailer 3 (IN 200+)",
+    "frosinone vs sassuolo (IN 500+)",
+    "fabrizio romano (IN 500+)"
   ],
   "items": [
     {
-      "id": "f03ecff030",
-      "key": "final-george-max-russell-season-stretch-verstappen-wary",
-      "headline": "George Russell wary of Max Verstappen in F1 season's final stretch",
-      "summary": "https://www.gt-world-challenge-europe.com/news/3339/Max Verstappen makes his GT World Challenge powered by AWS debut this weekend at Portimão as part of the #3 Mercedes-AMG Team Verstappen Racing line-up. The Dutchman spoke on Thursday afternoon, shortly after taking part in testing at the Portuguese track.",
+      "id": "21585ebffd",
+      "key": "5-antonio-bandera-cage-detective-film-join-nicola-season-serie-set-true",
+      "headline": "‘True Detective’ Season 5: Antonio Banderas Joins Nicolas Cage as Series Set to Film in 2027",
+      "summary": "https://deadline.com/2026/10/antonio-banderas-nicolas-cage-true-detective-season-5-1237166029/Production is set to start in 2027 for the show, which is being led by showrunner Issa López, who oversaw season four Night Country.",
       "sources": [
-        "VOI.ID"
+        "Variety",
+        "Deadline",
+        "Hypebeast",
+        "TVLine",
+        "Los Angeles Times"
       ],
       "article_urls": [
-        "https://www.gt-world-challenge-europe.com/news/3339/qa-with-max-verstappen",
-        "https://www.motorsport.com/gtwce-endurance/news/max-verstappen-risks-penalty-after-fp1-clash-at-portimao-gtwc-finale/10865578/",
-        "https://voi.id/en/sports/598318",
-        "https://www.the-race.com/gt/verstappen-has-troubled-qualifying-in-latest-gt-outing/",
-        "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CVHFPZDR6d0JxbDR3ZzdvekFSZm1tbjVJbTh1ZDJqa01qUzFQNDdOQ0hxZ2Q3UlpTXzJGY041Vm54STBYNnfSAUJBVV95cUxQM0gyNFdpbk5iOGVaajhCWWlmekdzRGVlbTlWdHltM0tKbzBiWnZUU2RidkhpNm1keURMZkJvNDh0dVE?oc=5"
+        "https://deadline.com/2026/10/antonio-banderas-nicolas-cage-true-detective-season-5-1237166029/",
+        "https://www.tvline.com/2289187/true-detective-nicolas-cage-antonio-banderas-season-5-cast/",
+        "https://variety.com/2026/tv/news/true-detective-season-5-antonio-banderas-nicolas-cage-1236914353/",
+        "https://hypebeast.com/2026/10/nicolas-cage-refuses-ai-waiver-spider-noir-vows-cut-ties-with-amazon-revealed",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQblZmZHlTdEhhUDU1ZFVGUEZENUFlcEg1c0pNVkpkbUZaUTFGbjVZT2VpNmd0bHgyckk1dnJWNkc0cEFsNkxiU2VGQjNPb0xvTU1KaWR6MGlrYlpzYWhaUW1NV0I4bEJBN2FDbmFrOElKR2dTOWdjUFdSX3F0SVlfV0dYQm8ybTQ3eXJfLVZacGJNalZqQUp2Z1BBQkdoaTA?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMVNEOHFXNy1fYW8tTklaajJpLWlSRWhUbG5SRXZfWHFmbWNvR2QtbEI0M2xoclZTRlJjQ29JcGZOZzBxcVdXSV9HTW94bFdQZzBCby1DanRMc3pNS1JUOXRrcVpaN0dMWmU1dWZlQm4wUFBUdnhkN2R5eEFxUGJaVnhuY25CVTFUWEFtWXd3Y2lIdkxobUhzVmhR?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFdIQlZ5SFhId0QxbTVyT01zWWd3VWFSUzdsQWowLWRxR0w0Z2VJOS1oSHF1b1lLeElYUVhaTjNIUm1sVGhWZTRxTlVxNkRLY2hWTC04bmhPaVBBeXA0dFZIYWp6WGdxa010WkZlOUJDazBJeHVZU1d2NHRHN1VBX2h1VGJmUXF0ZlBLeHlTWjJXUW9ROTNCYVJRTUVZZWFDUzFQZ3VFUlI5RG8?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHdpRnVrWm1xaTNMelRfQXVBQVQ1SVFld2hvQ0MxRHB2ZDBCWUxsZ25aS2pkcDNraWxGaER6bDlORTdGWDJhRFB2c2U4X3JndFYxOUNWbkZXWW1ydEdpRWdUd0djZHRHR2RFNWxkUDVkYnhOU0NtQlJfMzNsdUFma21XTjlBR2RFUXZxY2luR1pKY1ZJ?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:06:11Z",
-      "published_at_ist": "2026-10-17 00:36 IST",
-      "first_seen_utc": "2026-10-16T19:06:11Z",
-      "age_minutes": 48,
-      "trend_score": 16,
-      "rank_score": 1.1529,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Max Verstappen"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [
-        "max verstappen portimao gt3 penalty (GB 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.gt-world-challenge-europe.com/images/News 2026/10 Portimao/Verstappen/4HWjpP7w.jpg",
-        "https://cdn-5.motorsport.com/images/amp/x6zrP9w6/s6/gtwc-portimao-2026-nach-drei-minuten-dreht-verstappen-gegner-um-26101601.jpg",
-        "https://imgsrv2.voi.id/9aj0hHBlCNdoMrLFlJqDEtvNMIevoIrg1vuPoAYx2uQ/rs:fill/w:800/h:450/g:sm/wm:1:nowe:0:0:1/bG9jYWw6Ly8vcHVibGlzaGVycy81OTgzMTgvMjAyNjEwMTMyMDE0LW1haW4uY3JvcHBlZF8xNzkxODk3MjUzLmpwZWc.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRakwKqQyDaDCk6kFWiz3xcRi43W7ZujgPm7tmvSvu2Pyt2_Y7G1QrMDJEEtH8",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXUURT9pDNX21dWLK4QnLpKWeaR_77ZEkK96UBP3OstI-YEWAC-q-F-dlq1w4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwFoVc-majSNjgng7C5CvnqRwv2RxEqFolZQTEBPAxR_lbL9hNvC5fW_51dLM"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "61d92ac65a",
-      "key": "backfire-celebrity-joe-lycett-move-sneaky-spectacularly-traitor",
-      "headline": "Celebrity Traitors updates as Joe Lycett's sneaky move backfires spectacularly",
-      "summary": "https://www.bbc.co.uk/news/articles/The comedian buys Â£100 worth of drinks at an Accrington pub after it was recommended by Julie Hesmondhalgh.",
-      "sources": [
-        "Daily Mirror",
-        "Good Housekeeping",
-        "https://www.birmingham-now.co.uk/",
-        "Blackpool Gazette",
-        "Metro.co.uk"
-      ],
-      "article_urls": [
-        "https://www.bbc.co.uk/news/articles/cwyvrj3v1zpro",
-        "https://www.oxfordmail.co.uk/news/26639829.celebrity-traitor-gifts-100-bar-tab-pub-backed-80s-legend/",
-        "https://www.mirror.co.uk/tv/tv-news/celebrity-traitors-bbc-live-updates-37776718",
-        "https://secretmanchester.com/joe-lycett-free-pints-manchester-pubs/",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2NTTWZUNmZRekYwT3ZGVmVqVzJBSnhoVms4bE1rdG55b0R0WE5GWFhyN1lnenlSa3IyYlVESjFiZTYydXNpSFpsQW9yVXdrNVFrVHB4LWVsVkowMmtPal9ibHlJQWwzeDBYcWloeDI1SVI1bUJ4bEtva3EyN2NVVE5PZUF1dnM?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVURrandGWDFRY21seGRJdzZBOWxxdW4yZUtHZ1JMZTNrOUpCOGtwQjlRNmxMX1dJT25yMDd0VjltRkZHVzdKQjBuLUpUWHhxZ1lwUDZvY0xjZG9QYTRQQ0VXb0I1bWxVMWdSbkVsV1RCRmtWbDhxV0dkVFpqNkdENzZPbTNURnFYblZjd1RDWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWnlQNW5SeDlvdmdMU0xWbjdSdFhhNUFQZnVOUThHT2ZYeEdHZ0NnTzBqRW1ETWhYUUtUbGpTTWN5MUwtNl9vWEllaGQxYlhEUWlNeHZzQmZNTWtfUFNPRjN4bC1NM2RsV3pyOVpKOUJKYlJVQVdHY3Y5ODBaTTEyU3FxZGttTGc4NFBUV2xQaG1KYTA1WE1EcUR0bjR4aGM?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHVvLTBhYU4yN3hDNmFRNnlqQmhiNmlKaXZMV3psU19ITUxBdENzTU1vTFRrbl9UNExJRzZENVBIeVRVOWJ0WFpoUDBJaHNzaWZpSmJIaFZNa3RZVTh5a2hDcm5nNURnV3JfWGFUc3B0VGpHOHlqNkp1X2NuNnZjR2lEMkJmR2diN2VTRzMwRFhaNVpfTmYtaHVmSGUzeTBPTkxPSy1DbUk5U0tLc0wxdGhTR0NwZjhWVjRrN1I0dlFtWWRqOHgxZFVubTNLLXRoOWc?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T19:49:11Z",
-      "published_at_ist": "2026-10-17 01:19 IST",
-      "first_seen_utc": "2026-10-16T19:49:11Z",
-      "age_minutes": 5,
-      "trend_score": 11,
-      "rank_score": 1.097,
+      "published_at_utc": "2026-10-16T19:30:00Z",
+      "published_at_ist": "2026-10-17 01:00 IST",
+      "first_seen_utc": "2026-10-16T19:30:00Z",
+      "age_minutes": 87,
+      "trend_score": 12,
+      "rank_score": 1.0248,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB"
+        "US"
       ],
       "language": "en",
       "priority_queries": [],
       "google_trends": [
-        "joe lycett (GB 5000+)"
+        "true detective (US 1000+)",
+        "true detective (GB 200+)"
       ],
       "india_topic": false,
       "global_pop": false,
@@ -155,70 +101,79 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/29e2/live/7e1e4da0-c95e-11f1-9081-f19b8af087ed.jpg",
-        "https://www.oxfordmail.co.uk/resources/images/21585212.jpg?type=og-image",
-        "https://www.oxfordmail.co.uk/resources/images/21585212/",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQldDn4DemVoXLOY3p0pUXUQ2SBp5rU6wUIjXxBgARVO_ZLRphSX7U5VkIFFLA",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQDnC9a_4JKNftmWeXoTM9uFirRLqu_U13La7FEbekw_QvI790GHT96R1oLefs",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwjZd7kWMwOYuegvPWeWIW1KzaamISLqttI7WbYLpg0769TTha_VKPkGw31qU"
+        "https://deadline.com/wp-content/uploads/2026/10/split-2-split-1500x845-1-3.jpg?w=1024",
+        "https://www.tvline.com/img/gallery/true-detective-nicolas-cage-and-antonio-banderas-confirmed-as-season-5-stars/l-intro-1792178040.jpg",
+        "https://variety.com/wp-content/uploads/2026/10/split-2-split-1000x667-12.jpg?w=1000&h=563&crop=1",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjz0kCjElTaecWsvkmavFLXJsS9HVs8zZhGv26Z2MxnGwZk41_NfAZP9e_FHw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5-XAPHGRb8gqGILKyfdlHKYWxI9NxHkD4LZg8tHDk0xK-UHPKokzBMbgX9U",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmbeNjLcOpzOl0FR7M7wvbPIwJp1kwUpwVdb6O27itn6rRmSWfsQyl-8bZ7yc"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "66518e1c14",
-      "key": "ana-force-power-safety-santa-shutoff-socal-tens-thousand-wind-without",
-      "headline": "Tens of thousands in SoCal without power as Santa Ana winds force safety shutoffs",
-      "summary": "https://abc7.com/live-updates/southern-california-fire-watch-red-flag-high-wind-warnings-effect/19941220/Strong Santa Ana winds are whipping across Southern California, and even stronger winds are expected Friday as the dangerous conditions spark fires across the region and leave tens of thousands without power.",
+      "id": "3b8be7a2f7",
+      "key": "abomination-neon-premiere-–-‘-’",
+      "headline": "Video Premiere: Mz Neon – ‘Abomination’",
+      "summary": "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/Mz Neon’s new single “Abomination” summarizes her feelings on the current hard right-leaning attitudes towards the trans community.",
       "sources": [
-        "ABC7 Los Angeles",
-        "The New York Times",
-        "Los Angeles Times",
-        "KTLA",
-        "CBS News"
+        "TradingView",
+        "New Noise Magazine",
+        "95.9 The RAT",
+        "Deadline",
+        "Variety",
+        "IMDb",
+        "Broadway News",
+        "People.com",
+        "Entertainment Weekly",
+        "The Guardian"
       ],
       "article_urls": [
-        "https://ktla.com/news/orange-county/norte-fire-threatening-structures-san-clemente/",
-        "https://abc7.com/live-updates/southern-california-fire-watch-red-flag-high-wind-warnings-effect/19941220/",
-        "https://www.nytimes.com/2026/10/16/weather/malibu-wildfire-wind-california.html",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQazI1VEs4Znc2ZFNraUhjbGs0NnFPc2o0MlVJV2NMdDd3a1oxLTh0d05JOU1MQ1JNV0hJc1dSOEhYcEYyRG5vanQwdTlUbTk0WTZQQm9LQnpLTHg1VDg1aXVyRUJoYkFfZGVtYVFaTzd4TGNERmFocU5qX3oxQU1LdXBfWVNYd0J2WXdxZGZWeFN5QzhWeUpRbFlKX19laG81aW5tN0liVUY?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmpIa2pNUzZjaFlyaV8yV2lTMjV5ejBtd1pnWnh4eFJQZzNyWjVSTlVTQXJPNnV4TlRnaVR1SnlMQzJweFFzRTdCY1JPVWR2d2pNWVVCa0l6cmluQkNPelNTZkZ3My1MNjlPWVJTTVhnV1lNMHhLaTFOcFBkUW92djZfT2NZUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOVE4VVZKYzNmMjhHd2lWYWUxdVduTmd4Tl84dVNSalZkN0M0ak9uak1ZVFFzbWx0TjRKMzZNaWt0cUhJUGZ2Sm9wYVY4aTdBUTRHVlMwV1RQd0RscHBtNHF3RnF3aktibHZJaTN6eHdUOFF5UzlPbW50VnozRG5KbmYwRXRBR3hNVlcxcllOUWx1Y3JWQ3JYQkx5amRLSE0tU1A0amlWZkNscE85VjdGcEllMW40Unk4WENXUHhtSVFvdw?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTJaTW9DR1dBWl9FMHhnVjl3N1NGOV9uZjV5UzVOejQxdjRqZDFFWHBBODFtc1ZlaVJnRUsta19wSE05ZE1DVXRyR2c2amJvMHBDMjM5SlI3b0R3ajViaGV3ZERfOTNYcEc3dFFwdTVlbWdkZzVnV2h2eDYxSF9FYTFyWDVCaC05ZjlnMmhB0gGTAUFVX3lxTE9jV0dYNWNIbFVDX3UtMmwyTzk1cUZxT1RzNHZfb1FHeGEwOVFkMmdnbTRoUDh5dzYxVl9UeHFKVlQ5TUpVQ0NCVlB0UTd1Z19GU2dNaDNSbW9hcmRFWkhFMTYwQ2JpUnUydDBER3lLeXk3eTY4VGsySTFVVzEtankxSEhaZWdYSmc2OVZNSmNXb2JxSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEVUdC14akphR0o2bHlvQWpTNXpzd1pYUHF6Zll1Rm9wZUVMOVYwYnpuMFF3Mzg5Sld0cWt5dnloMVlTeDZfWE94bHo1eGVhMndkaFJQcndTTm5HQVFnN1dLZERxT1Ewdnd3MUhaTWhkbEgyT1plUDVyQ2Y0bUoxWWNXelBEZlYwSzJzLUtyLUVEdXVPRW5GRXlHczk3dEJLMmZJSlB0SQ?oc=5"
+        "https://newnoisemagazine.com/premieres/video-premiere-mz-neon-abomination/",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxOemoyVm5nZ21paklQZVhXZlpwbE54T2xvZmx6M3FhQmhVWnJvNHQ3eTN4Z19pNW4tSV85cm5zZUE5MjhkVUhPV0pzNU1PdEZzZWsxM3lMZzloTGRtT2VybVR4MmpGMDgzQWl0VFk2c1NMTE1tQi1zN2U1QXdmSndYUHN3STlLdHZLeE5wemR4eTE4UV9QelRXT21kRFZVRTBnbGI2RmVleEZENC05TUpZdFRDejR5LTE1R2dTbjhpQnlnYl9uLVh3blJNSWs?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ZTdvbjRIRGdBdzRTU0dKaHpLZl9hZl9KM1NqbHhJbTVRS1hjVmtVNzRNMUFYRGt3VDI3eHg4MHhGNFB0RHQtZ2JMWWlfRXRabng4SHljWEtoMmY2VjNrU0puNFRGay1CdDZQNElRM2ZKVVNyLWdNV2pnc01wR2s?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzE5REJ3SVBOR3YtTnlxZFdVcDlHQlZLYXdlN094ejJWMjI0cGdsOVFvbS1aYWtLSXJnU0lOTFN4eC1zUGNLT21OWTVFWW04TE5sUUxrdVRsX1hOWHBvcVJ5cWhmNWp0ckFMQm9KcnphdnlwRi0tVjdpc2VnNFBPRDduZVNDZ1k1eFhxaXJ6LUc4bnhzaUM0dlJMc09PdDRtWDF0UUx3Nm95ZFZnTjNhbTZCMzc?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOGRGN3ZZRlVDcXc2SkNMVmdqMEMwTUVOWUxucUY1c1lfZXlKZEVodWtOUUN4Vmd2NUctczZpcGJKVDlCXzBZTjZleUFrcTlkcWFPV0xyOVBQVW8xYmhfTlFIUXhIYmVkLTFUWXB2R0V6Y25nV1dZYjd1SmMtTzlTQVBiVUEzUGVuYjZmZDNDbnBqQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWlFpRjU0TkFLRHZ3UGtiUl9hZWtlSDJETDVIR1J1RXNuQVJaZ1lULUZKaHFqVDZkRHlFcE5Gdm1QS2tXT1dUTk9iN2JFRXhtcG9CbElhY2lOdFNsdk4tRGFQdEtHUHhqYUdYUHdHTjJkazlRNnFBQlhKWHBDMTNld3VWU3Q4a2xNTFBBc2VQeHpyVmRISTJsWTNhUFNmUGo0TGVkUWp3?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQN2J2ZTFWMk9FSVFsb3VnWjYzbERNT3dqYjJKZU9VeDFYdkljZF9MRFF0bUxFQXhVem1fdDZuNHJsTTRRMExybWd5bGF2ZHUtcEs3cTlYWjhzX3N3WVJHcTVMenM?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRlcyRzI0VVRwc3lyV3l4d2l6aWk0YWlDdEFkYXNDTjI2THJGRVFUa0VxN3FwcVVHblpwbUpRTUNyYWNlTE1YR3ZvOVJiVV90NmdCSG5pT3ptVFFJRGhkMG93dWlXQUM5YmFZT2ZfbWdNS29KYWZLenNLSlllY280VHpPRVRxZWRxS0ZxSXhaRWFiWnc0VHd6eVJoWWRFT3FuVGdjdXFZWHNWcGNmWDMwWm5xYnNZdw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:45:00Z",
-      "published_at_ist": "2026-10-17 01:15 IST",
-      "first_seen_utc": "2026-10-16T19:45:00Z",
-      "age_minutes": 9,
-      "trend_score": 11,
-      "rank_score": 1.0926,
-      "category": "other",
-      "section": "top",
+      "published_at_utc": "2026-10-16T20:26:51Z",
+      "published_at_ist": "2026-10-17 01:56 IST",
+      "first_seen_utc": "2026-10-16T11:57:17Z",
+      "age_minutes": 30,
+      "trend_score": 38,
+      "rank_score": 0.975,
+      "category": "celebrity_music",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
+        "GB",
+        "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [
-        "norte fire (US 5000+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://cdn.abcotvs.com/dip/images/19943555_101626-kabc-red-flag-winds-fire-tn.jpg?w=1600",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTy6By90DAfZnjwJHAebPh2EoQfiqFP70QsetMkZaoy6KSMU0LuzOPGRQIs9W8",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_i1VRQxSaAxDIOisx7_xrXVwhZ2e1CCxZyGvVRezTuloE7VAurFNck-ZGaHQ",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9UZxJhETbFMSYfFhPOu0qCTUj5Ibw-xwk8qEAQr8vuOywbSI8YXP-ig6DPOg"
+      "other_headlines": [
+        "The stock market is pricing in ‘too many rate hikes’ – Allianz’s El-Erian",
+        "Thom Yorke’s ‘Hamlet Hail to the Thief’ to Premiere in London at Barbican Theatre Oct. 31",
+        "Chase Infiniti-Starring ‘The Julia Set’ Acquired By Sony Pictures Classics After TIFF Premiere",
+        "‘The Julia Set,’ Starring Chase Infiniti, Lands at Sony Pictures Classics Following TIFF Premiere"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://newnoisemagazine.com/wp-content/uploads/2026/10/MZN-Abomination-Cover-e1791517455899.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/eV-KYEy9SAo?feature=oembed"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -227,33 +182,33 @@
       "headline": "India vs West Indies T20Is: No country for bowlers",
       "summary": "BENGALURU: ON Friday morning, Morne Morkel and India's bowling group had a general sit-down. The ongoing five-match T20I series between India and West Indies ha",
       "sources": [
+        "The Hindu",
         "The New Indian Express",
         "Deccan Herald",
         "Yahoo Sports",
-        "BDCricTime",
-        "The Hindu",
         "Hindustan Times",
-        "Cricinfo",
+        "Cricbuzz",
         "NDTV Sports",
+        "The Indian Express",
         "The Times of India",
-        "The Indian Express"
+        "Sportstar"
       ],
       "article_urls": [
         "https://www.newindianexpress.com/sport/cricket/2026/Oct/16/india-vs-west-indies-t20is-no-country-for-bowlers",
+        "https://www.thehindu.com/sport/cricket/we-would-always-like-to-take-the-aggressive-option-morkel/article71593469.ece",
         "https://www.deccanherald.com/sports/cricket/international-cricket-returns-to-bengaluru-as-india-west-indies-gear-up-for-t20i-decider-4185548",
-        "https://sports.yahoo.com/articles/india-vs-west-indies-5th-180252253.html",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZEVuME5rQWUxQWRtT3phV0syRm5XbEwyRkNLZFAwb1pUdU5XM2FtZF9yQ01Ec0hURFZxRHpvV2tPcVh0bHpZUE9sQmtndGJVdnFVZ29fOGQtYWN1TmZXaG9iUzlPcDR3REIySEdaUjBGSnBJYi1JbmdwY1VEcjNiQUZWZWx3MjE5TENTaXpnTEVYa1Zkd2xlR1ZKQXNTLXZ0TzROdGhBU252ZFJkMVJTTEZycmRDNnfSAb4BQVVfeXFMUFh1ZEdZQnFvdkliaEZyejR6eXI0eXY4TFBZa01nRXdDNmZZeWJhZWxPMHNtMFFaakhsSU9Oa2JrTkZ6a093c2pnNWplWjNFY3NJNTN3bGIxdHZKb3hkR0d6QzN2SkYzUEhRcmJic1dfSmFyeDJVeGNuNDFKb1AxYTlfdjRvMFlUejNUTmhXLThXbFdva1NuZ3U1aDQzWVZISXpvSkF2MG9XSHhsajg1cnB2a0o0TWU5WjVsUGxEQQ?oc=5",
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEhtWFd1cDlRWnNHbHBkaXlKS3EwQ2FIV21JN0hFaENVb1A0aTRVRlh0ZWZjdmZkR3JyUlhyMUJmS0R1QUpRR1JTWGZVSGpPNTZnNFZiV0RwajRqMzlpVWpXS2trbDRWNTV3bmxlZEh0MU03dXJFbjdndXF0YXhQeV8zQ05YU2xQeVFvRUhubjVSYXJsU3NsbjdZdDlxb3NkNUFJWmk3R1hscGlN?oc=5",
         "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWmlKYVA3Rm1vSWxVd0daS1FFWnJnbkVOTmdnT21rUEJKS0RnZlFVQWZWc0dOTVhWckpQeC05cldsZlVoUWJpUGw4YkVPTmI3aWlKUXhxZFNhbWhURWEzSnUzdWp3djFhRGhiTHhFMm8zRVFrdTBJU21Ba1YwUk5FZzZyaHVVM1NVanA4TVFBeHRJUXpuNHg0bHBPd2pKcDgxZXFOVEtMSWh3NkxJdnJNN1RJa3VPTDdGaW5uMXVlVTZYN2Z3MF9CZUgzLUUybHZJakhxUXpNQQ?oc=5",
         "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zOFdSTERUaUNOYlpaM0FTYms5NS1TZjRrLTEtQ0gzQXNsOU1zZU84ejRCQzhyNWtVeUNhOHd3T0l4bG0zRG9tZThtcG45YnlHbmU3R0lzZkNnZ3lFNnRvQk9qQm9KVnc2ZFVVRzRnazRaMHBuSHk4cy1sanBiUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWR2RXlkMG5hY2kxSzkwQ3p2eVFnQTJ4MnRrZkF2UWNtdVduTHlPenZ1WXg5WnNIZjVwZXg0eGd0dGtaMEhCV1J4UHBQeG9yZHp2UWpHYUpJcVZMT244MU1KMHcyYjlzcVF3NUNhNnZyVXo1Nnd2S2s4VGstdFFpaTdQMDZLaHZURkpjM1kydGVfWUdWS3A2bElB?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObmxodU9zRzFrRmRxT1d1UEFqZXhVSEdUOFc0UnlJYVRoSzNUcWljOUdCVnU5VmNYcVRTS2p5SXU4bWh6d3l0RFdsU0h6eVUwbmRUakFsRXBaM3pYT01hVkNZbi1tYlpqUjZWWng4dkpFd2U0TDlVUVg1U1JMZjd0T1k3Tl94ZzhvMEpmUEhWa0ItNmR6cDBIdDlhSXJOLXVHTkRPQmh2SWQxcy1USGYtTWF2SDMtYWtHTFBPMTdlZ052b3E2MV9jWVRVODNKWGRIWWZLS01GZ03SAdgBQVVfeXFMTm5saHVPc0cxa0ZkcU9XdVBBamV4VUhHVDhXNFJ5SWFUaEszVHFpYzlHQlZ1OVZjWHFUU0tqeUl1OG1oend5dERXbFNIenlVMG5kVGpBbEVwWjN6WE9NYVZDWW4tbWJaalI2Vlp4OHZKRXdlNEw5VVFYNVNSTGY3dE9ZN05feGc4bzBKZlBIVmtCLTZkenAwSHQ5YUlyTi11R05ET0JodklkMXMtVEhmLU1hdkgzLWFrR0xQTzE3ZWdOdm9xNjFfY1lUVTgzSlhkSFlmS0tNRmdN?oc=5"
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxQclh1VTJ1UWV0SVd5UlBYWXRwQ3g0eHhKWTA5SldON3ZyMkN2UGJmMFE3UzdvejNQaV8teDFYWXFPb0dVY0JfcjVHbDF4ell5c1pMWUp6SjZDdHREa0tZbUZ3VGxQLVIzUlVHMzlvZzk0UWhxTzhfajRzQjdhVm5wLTh3clp0YjV4VkRnM3J0TEhtd09GMmxibVp1Q015ZU1RSkd2SnlfVFhwX1RlSVVtb2hKZ3ZPV2F5Q01vS0dQbEhZSlE3eGtEX0pLUmTSAdIBQVVfeXFMT2cxbU01cXNpT0xKVGY1Wi1FSEU1Vk0wTDBCMl9yak5jY1Z3Y1hrRXMzQ2xBajVQcVhKR0t3NUxIQk0yMWxqNkJnbmVSTWU1akVzVVVkLVZUVkFoQVlyUlg0U2dDMUdONnBKZUxRQVQySEU5b00yVm9wTEUtbkp4TFBUOGNwbFd1ckJHU3ItNTJUQXhhcUVIbmY1Qy1rZTdzUjhCdkJXdW4xVUdaemY1VXFZQ0g5Rkx0Y2d1RUZ4VVZiMHUyTF9Fdm4tTkhVTXRrVWJ3?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:30:42Z",
-      "published_at_ist": "2026-10-17 01:00 IST",
-      "first_seen_utc": "2026-10-16T10:56:26Z",
-      "age_minutes": 24,
-      "trend_score": 21,
-      "rank_score": 0.9251,
+      "published_at_utc": "2026-10-16T20:19:09Z",
+      "published_at_ist": "2026-10-17 01:49 IST",
+      "first_seen_utc": "2026-10-16T12:57:00Z",
+      "age_minutes": 37,
+      "trend_score": 19,
+      "rank_score": 0.899,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -272,18 +227,197 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "We would always like to take the aggressive option: Morkel",
         "International cricket returns to Bengaluru as India, West Indies gear up for T20I decider",
         "India Vs West Indies 5th T20I: Can Bhuvneshwar Swing The Decider?",
-        "India vs West Indies 5th T20I Match, Dream 11 Prediction Fantasy Cricket",
-        "India vs. West Indies T20I series: Chinnaswamy set for decider amid rain threat"
+        "Bhuvneshwar Kumar’s possible India comeback in final T20I vs West Indies | Cricket"
       ],
       "image_urls": [
         "https://cf-images.assettype.com/newindianexpress%2F2026-10-16%2Fazbxazv8%2Fcric1.jpg?rect=0%2C160%2C2580%2C1355&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "https://media.assettype.com/deccanherald%2F2026-10-16%2Ftdnpk9io%2Ffile8820vf1iyf41m15cqior.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-        "https://s.yimg.com/lo/mysterio/api/586068f6dda2d6476b4facb029e48439498ff9eb9a61ff8ebbc93cb09d429eeb/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstadium_rant_681%2F3de105e68d5913747571993c2d345c1b.jpg"
+        "https://th-i.thgim.com/public/incoming/c8npb4/article71593590.ece/alternates/LANDSCAPE_1200/_KMK1101.JPG",
+        "https://media.assettype.com/deccanherald%2F2026-10-16%2Ftdnpk9io%2Ffile8820vf1iyf41m15cqior.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop"
       ],
       "video_urls": [],
       "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "b4da58a314",
+      "key": "buckley-edmonton-malott-prediction-ufc",
+      "headline": "UFC Edmonton predictions for Buckley vs. Malott",
+      "summary": "https://www.mmaoddsbreaker.com/news/161337-mmaoddsbreaker-staff-picks-ufc-edmonton-2/mma, ufc, ufc on paramount+, picks, ufc on paramount+ picks, mma picks, ufc picks, staff picks, mmaob, mmaoddsbreaker, mmaob staff picks",
+      "sources": [
+        "MMAOddsBreaker",
+        "MMA Junkie",
+        "Lyndy's Sports Annuals",
+        "CBS Sports",
+        "MMA Fighting",
+        "Yahoo",
+        "Yahoo Sports",
+        "Central Oregon Daily"
+      ],
+      "article_urls": [
+        "https://lindyssports.com/other-sports/ufc-edmonton-predictions-for-buckley-vs-malott",
+        "https://www.mmaoddsbreaker.com/news/161337-mmaoddsbreaker-staff-picks-ufc-edmonton-2/",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/16/joaquin-buckley-vs-mike-malott-ufc-edmonton-prediction-pick-start-time/92282183007/",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDdCaFRibEVNQW93alVwakhwMXExX1B2TGNIa1JxQmNQOVB2Sk1zbjg2cE5sVWdReHlZZGt5Wk5xbGxGTEVwSWd1RXJDWXFSM25FSVF1Mkx2Q3ZWcVZDdmt4TFozUnN6NGpWOGs2cENPQjdrYkNsbGt0UUtEUHgxZzdfRWlTS0ZBRVlkeTZB?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUGJHTWdvRUs4X3NvVXlsa2t4VTZHTWc0ODNYcl9GUEo1akU5QUxfbkQwa0lEZVkxM1FCNnZWV0lZWGlWelJqaFJId2ZoVHhSWGtITVVUNXFfWWJTSHJrdTRsTFI3d2UyYU1MLVUwOGZsTmZqTnBXVmE5dDRhWnZ6cWFjTy1OVVpPU0NRVEJpaUVIMWlhcHdlYTJfckdZemV0X0IzREtjTWYzR2xaWERQM2w1TWxEZ3ZKSWdETldWd0NtUzJLcFI3ZE43Q0RrdFBWek56ckJhSkFoUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNEFXczJIbTBhTkl1NnVRUkstTXJaYjNDUE8yU2gzNjZwOEdmbjdEZllUMHRwRm9ULWZHSVVJQVlERmtxdTAyTG91ajZKUHh2anpmcjlfSXZjSU9iZVdWeURnOFFTRFJ4clVRVDNiZnZBRWZabUpyMHZzejctd1I0NkVOSDYyaVlubjNxMg?oc=5",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTHl0TUFjN2tzYXp1cUw0RFFkbFdEYmJtZ3BobFBRLVByekFIU3BjOUNDM3lFc0pJX1lXeXhNYlJxMkRXTWcwOVZ4NkhsQkdzckRWR3gyaW5IeW5qZ3RlN2o5bjhHVS1lb19MaHZuVmNjYVRSQVNPT1F1YmhkazdTU0NDUzc4a3V1andlVnZyNUJqelVLTjRxNE4zTnd5NUQ3QnZB?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVONW1tempNVWlFSS1yTzNKSE9GMHFFeVNfUldRUXIwV0w0M3BsUUlQeUp6cy1tdjQtUWtlLUpaYzBZWnJFQXRtb0FyaS1aZnRISVpWQlNnMHNMMTNuTElMRXdWbVVfREE2cThMZnNWVTFCNEhORVdoQm5DRkF6NEN6bk9SaUhwNWRGNHVyaWN3MUc2cWZQV1Axb1AwdkhpYnhOMmNfVEhSOXJNTWstQTRsMXBrVHBsWlpmZi1kSDJHcDNKNVhTcw?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T20:32:32Z",
+      "published_at_ist": "2026-10-17 02:02 IST",
+      "first_seen_utc": "2026-10-16T14:20:57Z",
+      "age_minutes": 24,
+      "trend_score": 15,
+      "rank_score": 0.8741,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "MMAOddsBreaker Staff Picks – UFC Edmonton",
+        "Joaquin Buckley vs. Mike Malott prediction, pick: UFC Edmonton headliner a tough call",
+        "UFC Fight Night predictions -- Joaquin Buckley vs. Mike Malott: Fight card, odds and expert picks for Edmonton",
+        "UFC Edmonton weigh-in results: Headliners Mike Malott, Joaquin Buckley cap off perfect slate"
+      ],
+      "image_urls": [
+        "https://www.mmaoddsbreaker.com/wp-content/uploads/2026/10/UFC-Edmonton.jpeg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "32ab90f0ce",
+      "key": "academy-alba-confirmed-ferrari-larsen-season-third",
+      "headline": "Alba Larsen confirmed for third F1 Academy season with Ferrari in 2027",
+      "summary": "https://www.racers-behindthehelmet.com/post/Alba Larsen has become the first driver confirmed for the 2027 F1 Academy season, with the 17-year-old Danish driver set to return for a third campaign with Scuderia Ferrari following a rule change allowing selected competitors to remain in the series beyond the previous two-season limit.Alba Larsen has become the first driver confirmed for the 2027 F1 A",
+      "sources": [
+        "Racers | Female Racing Drivers",
+        "Formula 1",
+        "Yahoo Sports",
+        "Motorsport.com",
+        "F1 Academy"
+      ],
+      "article_urls": [
+        "https://www.racers-behindthehelmet.com/post/alba-larsen-confirmed-for-third-f1-academy-season-with-ferrari-in-2027",
+        "https://www.formula1.com/en/latest/article/ferraris-larsen-to-return-for-2027-f1-academy-campaign.5eeThwId7hnIzVMd8zkTPB",
+        "https://sports.yahoo.com/articles/ferrari-backed-alba-larsen-secures-134604135.html",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHlOWW5ldm1xaWM4b1dlMUR0R0VLcGhnVkczVTBIZXNPXzV4VTRZRUk0dF8zSWo0M0Rycm1kQmJmWmtGRmlIem51cVFjZGV6Vms3al9LXzB4cmN2ZHc1U0Y3Z1l5NnhnWGNTTHhUNkh1QV90MWh0bUV3TmJSNEQwdUFKY1RNQkh3Y0xaY0t5Y3JoaDJURDBMQzg1NklqUkdEREJHUUpSQ2pTcXdNUjZYOGxKZ18?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEpHSWdaN3hnQnNJc3NlSzZZUEVab1pFMFA5cmV0VHRxc0RwLWN3UE9zR0t5RW1KRHJzcHFNc1dJUHJlODFaQk9SNVFGTGNHM0s3ZExlOFZORlEwampTeF8yaVVuWGRWRjVONzZuMWJyd1JORGU4UVp4VHgyNUdUd1huWFNKQUVLNTBEeDlvclcteGdxMnJ3OW9XR2xZQXZNOU40TkhIYjFmQmc2QXhsZVNkeW1tT3BCNHBNUg?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR3pxNkZkNXlhLTZfRVRjUFJtSXhaanVvTFdZTGZVM08wY0RXMFc2VWRiRkxQZXRXc2M2SVZaS1ZGZkNnRU0zbk9GcGpPLWxMOUsxaHJqb200NTh0NWk1VXdUYXl0Z0o5bGRvcW5RR29XRlMtX2p5S0ljWUZKVlI2Ql9nTWVaclFkeFVJ?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0RjRTRzOW9kZTZfYzl1VEVXUzdDMDMtQUZlXzlyNU4wRlBKMjBkeEY5X0t6SUVkZjNpYjNUMk9jcHVJZlNOV1V5VHl4R1M4ZDdjNW5OUXdxVTAtRTBSVlZyNGtzbm5JUkRWSlNrLXNTUzFxZ2FLb1otVUgyVzFsc2htNmxnekZqbld0enZ0eG9yZTBpZ2ZJazdNLW42VlNJaUxZRWFxeWE1VmhWbjZrVG5FNzVQdGFENVhZ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS1NHTDFUdjhIb3FVV3ZGNmgwSlA5cHNjY1hHN28wYWdmX1NpMktvX001V1RVMTZPcTBVUG90bm5MR3RUVWJPU3BCWlVVNm41TWlpV3JvNWM3dzJnd1UyaXR5MXdxemJrR0NhX2d0dEpLZmF5alhYSEpsOU5LSDlkalhVdnZMMGVqUWYyRkh6eC10TlJZQ1BlN0NUdl9hbFhvbkM5bmVJQ09sRzNUU3cyS1F4N0pqb1ZpTkJRTjdNQQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T20:30:12Z",
+      "published_at_ist": "2026-10-17 02:00 IST",
+      "first_seen_utc": "2026-10-16T12:21:14Z",
+      "age_minutes": 26,
+      "trend_score": 15,
+      "rank_score": 0.8724,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Ferrari's Larsen to return for 2027 F1 ACADEMY campaign",
+        "Ferrari-backed Alba Larsen secures third F1 Academy season in 2027",
+        "Alba Larsen to return for third F1 ACADEMY campaign in 2027 with Ferrari"
+      ],
+      "image_urls": [
+        "https://static.wixstatic.com/media/aed0c4_f5ea484ea8704b3199751e198afa2a29~mv2.jpg/v1/fill/w_1000,h_849,al_c,q_85,usm_0.66_1.00_0.01/aed0c4_f5ea484ea8704b3199751e198afa2a29~mv2.jpg",
+        "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/F1%20Academy/GettyImages-2277534265.webp",
+        "https://s.yimg.com/lo/mysterio/api/206d6185159a14efffe00ccdbc9448461f7721d5a640630528d6c49c5031ab0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotorsport_articles_445%2Faa8e648344d78baf2e42dc8303c261b2.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c341806089",
+      "key": "ahead-announcement-centre-lawson-liam-state-united",
+      "headline": "Liam Lawson at centre of new announcement ahead of United States GP",
+      "summary": "https://www.planetf1.com/news/Liam Lawson will perform on stage in Austin. No, seriously.",
+      "sources": [
+        "Motorsport.com",
+        "RacingNews365",
+        "PlanetF1"
+      ],
+      "article_urls": [
+        "https://www.planetf1.com/news/liam-lawson-united-states-grand-prix-2026-announcement",
+        "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/",
+        "https://racingnews365.com/liam-lawson-to-trade-f1-car-for-guitar-ahead-of-united-states-gp",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNUpHOTgtNG5TNTJlX3pLcGdHa1BFWjhCSVk4VUNKNVByOXZlVG5NMVhyM2FTdjJ2S2RaZmo4dzZLSGt5LWE5V2RqUWotTmZLTjJ5MG9RYmYzNUN4ODVIcFBHcHBwZS01dGZ6amdSLTRhOUdybmlOeExhNEFGOHhPaGUtYlFkU0tIU18zSjNPbkZhVjBhaXBnVEdldU5mRmdTVks1dmJxaWJCSXNiY0RXd3JvNUE3b0xqdjNMQg?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0hGcVZJS1FDcnF1YkNHLUVrU0s4Z0FaVU1tX19iVUFGVmZNaEhkd2JFa2pNTGhkcUh2WVBDaW5TUndOejhEVmlfaVVNWmd4dzExM2tLaXkyN0lFb0M5aWlCcXluanAxOXRuZ3h6SVZucWlKR1N3Mmh6MENKZlFTN3hXRTJ3X2xoM0RKSmRxRTZDMmhC?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQODd6VjRVd1h5ekx0TkktYVVob19zWFVpQUFETWttNHJaMXFaRWxZQ1VqOV9KaWx3Vl9Bejh0SGdRYWNpZkpMalBGeTg5RzN3NmNCOWpGNzRHS3Roam5kZWJGVWt3UWxCSzZ4UW5DQTZOcmV6MmVaTlJ3RTRZVTA5NUdabWtlZ1NIamh6ZQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHlYdVBxWmotb25VSVBSSE5CUkNrUjNESTVTOUwxcnNCN1BIUzBOT21kV3ZLVUM0bmxENzY3aENNZDJZYmtYdHNZdHdVVjdRRTAybUlGTnd3TVRmanNuVjcyWjA5YmlOTmg5a1NHb0dUNXJNdlVRY3pWM3dkdGx1Qk0zTjE4Y3o4Q3piMFBqTmZxYmtTSEJocDIzc2taLUlEMURMbHl6eE5RT3c3b01DY1JlS2tuSnItdHg2QXpFSTU4SGgwd3ktSw?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVFkZkUxbFdvZVc2Um5mVVVmeld3cDFSTVY4TU1qbl91THNkUXpEaGM4d0RRVWUzZlpPQUpPYUJsZTlnMDV0U3JYcWt2SjhWM0cxYzRORXQ4RkJ1c3VTWU5OUlU0NGxPU1NOYjlJYlN1cGVwYWRmQWtGVWsxRkRFZUFweWlZVnlqdVMzUjV5aUpXZldqNDBORG1uM2VCOGlma0V4aDdFaw?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T20:45:24Z",
+      "published_at_ist": "2026-10-17 02:15 IST",
+      "first_seen_utc": "2026-10-16T12:33:56Z",
+      "age_minutes": 11,
+      "trend_score": 13,
+      "rank_score": 0.8635,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Liam Lawson unveils limited-edition guitar ahead of Austin live performance",
+        "Liam Lawson to trade F1 car for guitar ahead of United States GP",
+        "Liam Lawson to perform live music set ahead of F1 United States Grand Prix in Austin",
+        "\"Avengers: Doomsday\" is coming to the United States Grand Prix"
+      ],
+      "image_urls": [
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F16140306%2FLawson.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F11200559%2Fliam-lawson-raciong-bulls-singapore-2026-planetf1-1320x742.jpg",
+        "https://cdn-4.motorsport.com/images/amp/0kZXoK86/s6/untitled-design-55.jpg",
+        "https://cdn.racingnews365.com/2026/Lawson/Lawson-Goodwood_2026-07-16-134717_kfjx.jpg?v=1784209638&width=1800&height=945&quality=75&crop=3840%2C2016%2C0%2C272"
+      ],
+      "video_urls": [
+        "https://youtu.be/jZ0ZtWqEu2s"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -300,9 +434,9 @@
       "published_at_utc": "2026-10-16T19:24:49Z",
       "published_at_ist": "2026-10-17 00:54 IST",
       "first_seen_utc": "2026-10-16T19:24:49Z",
-      "age_minutes": 29,
+      "age_minutes": 92,
       "trend_score": 5,
-      "rank_score": 0.8779,
+      "rank_score": 0.8582,
       "category": "famous_clip",
       "section": "technology",
       "source_type": "youtube",
@@ -341,35 +475,71 @@
       ]
     },
     {
-      "id": "ad401799a4",
-      "key": "edmonton-official-result-ufc-weigh",
-      "headline": "Official Weigh-In Results | UFC Edmonton",
-      "summary": "https://www.ufc.com/news/The Official Weights Of The Athletes Competing October 17 At UFC Fight Night: Buckley vs Malott",
+      "id": "1b1e989fe4",
+      "key": "best-get-gonz-inter-kily-lez-lionel-messi-miami-must-reveal-á",
+      "headline": "Kily González reveals what Inter Miami must do to get the best out of Lionel Messi",
+      "summary": "https://en.as.com/soccer/kily-gonzalez-reveals-what-inter-miami-must-do-to-get-the-best-out-of-lionel-messi-f202610-n/The Inter Miami coach explained his tactical philosophy and confirmed when Messi will return after attending the Princess of Asturias Awards.",
       "sources": [
-        "MMA Sucka",
-        "UFC.com",
-        "MMA Fighting",
-        "Yahoo",
-        "MMA Junkie",
-        "Yahoo Sports",
-        "Central Oregon Daily"
+        "Diario AS"
       ],
       "article_urls": [
-        "https://www.ufc.com/news/official-weigh-in-results-buckley-malott-fight-night-edmonton",
-        "https://mmasucka.com/news/ufc-edmonton-weigh-ins-perfect-friday-on-scales/",
-        "https://www.mmafighting.com/ufc/515968/ufc-edmonton-weigh-in-results-headliners-mike-malott-joaquin-buckley-cap-off-perfect-slate",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LMDZuR3J1QkNOelZTXzk1WVdzTU9oVDVNaWlud0UwQXBnUFdiNVB4dmhQcFNsbVAxVUdaRW5mSUxiRTY2ejJSOU5OQVc3ZHRCcWFMUVNlWDZuT3BwVUlvcF92dF9lVm12eWdfVzNZNHRVOEZqcXdyXzdESWl2d0E?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdElRbFM4SUFjdXY3ZllyNUtzM25VUWx6LXlGendDa3RWdVZORkZscVZfT0FJNFJFZTRPQUh3YjBLX1lHelg3dHBfZzhBaC1qWEd6RzZGbmNjMVJWWUpCSHRwTnVjanBUU0p3V0Rfa1otV2M1NzV6YW1WaTRiQnZfNlpvaUxCNGg3RW5zRVRMRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWVONW1tempNVWlFSS1yTzNKSE9GMHFFeVNfUldRUXIwV0w0M3BsUUlQeUp6cy1tdjQtUWtlLUpaYzBZWnJFQXRtb0FyaS1aZnRISVpWQlNnMHNMMTNuTElMRXdWbVVfREE2cThMZnNWVTFCNEhORVdoQm5DRkF6NEN6bk9SaUhwNWRGNHVyaWN3MUc2cWZQV1Axb1AwdkhpYnhOMmNfVEhSOXJNTWstQTRsMXBrVHBsWlpmZi1kSDJHcDNKNVhTcw?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qZ01iUmhpZlBCUUV4S0lLc3Z1MDQxSFVkeHJYeU1fNFpDejgzLUhBb0hRNUdoU0w5cEpwazRfU1JBMnBxUzByNkxtVFVLc1p5NUJBSXgwN0F1dzlQVndXbzJab1FUb1Q5eU9rcFpTbDgteVZHVmlGVkxVdlpaZ2M?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcExVZi12VHkyRzRtcTJFUVlPVlVVOWxQOUxka0hkbVc3dFB0MnpFdG5VQzNkNFBBWTFKTldIRU1LSjE2M0dNblhXc2pBczNObVBTbEpGTm9TQ2hSeWtOVVlHLTRhMHpQb1NmT1dXdlZFTXpuUFhzMzktdmxSX1g4TDJQRHlmVTNNRnFTT3FSTlNXSlNaRXljTGF1WXd2cHhQU0h0YUlkYmJpSVBoakpqUHpOZXBKQm83cXA3ajBpUERtMXFUVDJ5SnRqeDU?oc=5"
+        "https://en.as.com/soccer/kily-gonzalez-reveals-what-inter-miami-must-do-to-get-the-best-out-of-lionel-messi-f202610-n/",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa3dXUS02YmRrSVE1eERrdkNyMXNkckhGQ0RUT1BxNUZJUHBZVGM1UW4xd2tScVhGN2VCZmdwUU5HRFJnQ3Bsa2hJQlFaMGZ2XzY3NXRMaUJVTDAzS2piel91eEhMRFUxTlp1aFFCc180NEx4WWN2endYLVl3SENDU1RQaWVGRlZhUUtwOUg4QVgtQlA5dG9fcEpJSExKanhNN25xRUd1U2RQUGZoVndwTjN3d1R2eklaMlHSAc4BQVVfeXFMTkdrcUc3YlJkR1VueF9GbUlUTFlWLXEwNDZ2LUJKVXJNb1JuZkFQOVdvd1dXbmxlWVpzdG1DVmt1RzhlUXczaGRuVTZJNUVUcVFaVGVfY3lKWkNjTVRSaGhNQVVwTnhCQ2cza3dKcTZselVHazV3bFhja1RKX2FpR1BVb3RYenBYTzBzYW0tMkJtQ3phQkRuVE5qNlE1SHZEVHBZOUY4aENhNG5QVG9NNy13eTBfR1Z3MnFCNXIwNWdqWDZ1VXpCa205XzkzQ1E?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:39:16Z",
-      "published_at_ist": "2026-10-17 01:09 IST",
-      "first_seen_utc": "2026-10-16T14:30:00Z",
-      "age_minutes": 15,
-      "trend_score": 14,
-      "rank_score": 0.8712,
+      "published_at_utc": "2026-10-16T20:12:58Z",
+      "published_at_ist": "2026-10-17 01:42 IST",
+      "first_seen_utc": "2026-10-16T20:12:58Z",
+      "age_minutes": 44,
+      "trend_score": 12,
+      "rank_score": 0.8541,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Lionel Messi"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips",
+        "football"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://img.asmedia.epimg.net/resizer/v2/YO37NCTK4VJW7B4AN3T5TN34FQ.jpg?auth=745f8907e26dfb3a643db5351f7f86d467c66db95fcb06fc265c9330a24e8a90&width=1472&height=828&focal=1663%2C634",
+        "https://img.asmedia.epimg.net/resizer/v2/YO37NCTK4VJW7B4AN3T5TN34FQ.jpg?auth=745f8907e26dfb3a643db5351f7f86d467c66db95fcb06fc265c9330a24e8a90&width=644&height=362&focal=1663%2C634"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "0a6a8e8ecf",
+      "key": "anime-arrive-bleach-blood-calamity-final-thousand-trailer-war",
+      "headline": "Bleach: Thousand-Year Blood War - The Calamity Anime Final Trailer Arrives",
+      "summary": "https://www.crunchyroll.com/news/latest/2026/10/16/Stay on top of anime news and updates straight out of Japan with Crunchyroll News. From breaking stories to evergreen content, get all your anime and manga news updates in one place. You heard it here first!",
+      "sources": [
+        "Crunchyroll"
+      ],
+      "article_urls": [
+        "https://www.crunchyroll.com/news/latest/2026/10/16/bleach-thousand-year-blood-war-the-calamity-anime-final-trailer",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWZXblQzVldPOWYycklZdktGbUhwekFuT3lrSFJIZlczRU5XMnlSc1lNSEQ4d0UzM1lXYnhZWEFNMDYxTklHRGtELVh0eGRwaV82QUM1aDNsd29QajY3ZHBVNlRxQ20yTHdxVHJEN3ZJenZKV1lKMXhhRXlIYXEtTWdlWHJxZzZ5U2R3cWRWOXJuTGZ5cGtERVlybWRVQnFtUkVoaEJoQmRDMkxEWk9TQWktTTU?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T20:01:00Z",
+      "published_at_ist": "2026-10-17 01:31 IST",
+      "first_seen_utc": "2026-10-16T20:01:00Z",
+      "age_minutes": 56,
+      "trend_score": 11,
+      "rank_score": 0.8013,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -379,64 +549,57 @@
         "US"
       ],
       "language": "en",
-      "priority_queries": [],
+      "priority_queries": [
+        "Celebrities & music"
+      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "UFC Edmonton Weigh-Ins: No Drama on Scales Oct. 16",
-        "UFC Edmonton weigh-in results: Headliners Mike Malott, Joaquin Buckley cap off perfect slate",
-        "UFC Edmonton Weigh-In Results",
-        "UFC Edmonton weigh-ins: No issues on scale in Canada"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://ufc.com/images/styles/card/s3/image/2026-04/041826-Mike-Malott-Weigh-GettyImages-2241712559.jpg?itok=AiTbR2yG",
-        "https://mmasucka.com/api/media/file/joaquin-buckley.webp",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2299945992.jpg?quality=90&strip=all&crop=0%2C2.0948361272255%2C100%2C78.55366983107&w=1200"
+        "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png"
       ],
-      "video_urls": [
-        "https://www.youtube.com/embed/IXSay7YbTCM?rel=0"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "0c30f971dd",
-      "key": "bumrah-india-named-pant-squad-test-tour-zealand",
-      "headline": "Pant, Bumrah named in India Test squad for New Zealand tour",
-      "summary": "https://www.icc-cricket.com/news/India have also named their squad for the upcoming ODI series against New Zealand which will follow up the T20I series.",
+      "id": "4ef3234256",
+      "key": "await-bumrah-clearance-fitness-pant-return-test-zealand",
+      "headline": "Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
+      "summary": "https://www.straitstimes.com/sport/Oct 16 - Wicketkeeper-batter Rishabh Pant was named in India's squad for next month's two-test series in New Zealand on Friday, subject to fitness clearance, while pace spearhead Jasprit Bumrah returned to the side. Read more at straitstimes.com.",
       "sources": [
-        "ICC",
-        "The Hindu",
-        "RFI",
+        "Rediff",
         "The Straits Times",
         "Reuters",
+        "ESPN",
         "Devdiscourse",
-        "Livemint",
-        "The Times of India",
+        "NDTV Sports",
+        "Hindustan Times",
         "Yahoo Sports",
-        "India Today"
+        "India Today",
+        "The Times of India"
       ],
       "article_urls": [
-        "https://www.rfi.fr/en/sports/20261016-pant-bumrah-named-in-india-test-squad-for-new-zealand-tour",
-        "https://www.icc-cricket.com/news/star-pacer-returns-in-india-test-squad-for-new-zealand",
-        "https://www.thehindu.com/sport/cricket/bumrah-and-akash-return-to-indian-test-squad-for-new-zealand-tour/article71593920.ece",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWI2LWlLMU4tbHFTN1BTV3EtX3l0MkFjcU55dU9GRlhxLUYwdG1YOWE3OHljcDlrMkhMdWV6Mm5EWXV5UnhRb280UlRsdF9uaXpoUVYtb2JucDI3UGZjTFdKZ0toYU40Q2lrNzdyS29oc1B4WUphTjlSSXA4ZzBISEJTRjBvWXRLaDY3OUpyNGw?oc=5",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYk53MzFIdUZJVEsxZjk0UV9GQjVnbVZYOTlkM2doRDNXMzcyMlZkZlBsNUJyUGk5aVc5S2JXSldfZVZtX2t4MGVYZ2N3dVRqVDBsMVpQOExjSFU1UGk4MVNGTE81R0trQ1lGdF9VMzltWHo0Wmd4SVVZTElYeE5UTkpNMVI1cmZ3OUJYYnFkbkVlVi1RQ3E0c3MyMW5hRkhlZXM0SjBUZmZDTU16OTRneFJVeFJGQkQ1Y19NemRNMnFyQdIByAFBVV95cUxQbU5jVGxvWmR6UlJ3UkxQTExSaldHcFJXRDk4eGtNcWhSRXNWWi1wWFBYYjV0R3BjUHJ2V2xSSXlEeDdScTJPak9pbm5wcUhIZ1dlcXNzSExwWEc1WmEzemxPS2RCcU4wVlZQREQ3QkVJMk5LZ3ZkZ19vc1FNM281RFpRSElCbXpURWxLdTNRdGdoS29tdllpVC1BMWhNZVMxMDk4dTNhem5FeWowcWdTeXY3UVpOVXAtNjk1YVdLQ0FHVVZWbGVWMQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV3NvVWY1S3pseFVxVVNaTlJPZUF4OGpEQlpodU9pR0FfSW1DZ3hYcjlVOHdYbm1LTVVqN3VCNzJFZTBlZWFJNVhlM3liOWhUTFVSVEdrV0VvQ3dHLXlGRERSa3NzVU9SUS1ZZTY3NGpnV0VSWmQxdElNbEcxOTltZkVoN19QVFB4TW84WVBreUE1aVE2bUU5RVhkanM?oc=5",
+        "https://www.straitstimes.com/sport/pant-awaits-fitness-clearance-as-bumrah-returns-for-new-zealand-tests",
+        "https://m.rediff.com/amp/cricket/report/pants-fitness-doubt-bumrahs-return-headline-nz-squad/20261016.htm",
+        "https://www.reuters.com/sports/cricket/pant-awaits-fitness-clearance-bumrah-returns-new-zealand-tests-2026-10-16/",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcjl2T05jMEJ1MTRtN3lpNlBVSGZmclNnMTZzRGd4NklpWW81NHlUYUExMl83SVVJMkp2N01RMHhJSUozY3gwUkhRUEplOVYxT3NWOUVFcEFoeU9JdW1BWl8tZmtja19Tcy02eHJneFpWLUtZbC1fSVRnNTlLdG1GaHN2bF9hSGtzb0J5ejlWWG1EeE5HTkxHRUx6TFdRcTJkVXhYRVlWQUTSAagBQVVfeXFMTnI5dk9OYzBCdTE0bTd5aTZQVUhmZnJTZzE2c0RneDZJaVlvNTR5VGFBMTJfN0lVSTJKdjdNUTB4SUlKM2N4MFJIUVBKZTlWMU9zVjlFRXBBaHlPSXVtQVpfLWZrY2tfU3MtNnhyZ3haVi1LWWwtX0lUZzU5S3RtRmhzdmxfYUhrc29CeXo5VlhtRHhOR05MR0VMekxXUXEyZFV4WEVZVkFE?oc=5",
         "https://news.google.com/rss/articles/CBMipwFBVV95cUxQek9JOURlS0RFQmRrTDhGQzBwQWM5Y2Nwajlkakh0VHFyc3psQUd2ZUc0WEhhLXIzMjR6T0RqRE5iY2NOSWdnZ1poUlV6ZU5Jb3g3bGQ4MV8xLXFOMkVFaFQtTlZJaWlPWVZSa0xHNFdTTnJRc0tJd3FvTEk2ZWFzaWNlRGFYLXJRaU8yS3BjeWhDUTE1SExYTmhTRko3VDhoZE1qV0VMbw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUVjVUFVVEFKQXkzcjRUeHVyOG5HV0pfX01FeVVyMVh2b1hDNWZBNkhxQWxZRFMxWHpGSHpwSHgtcGNudDF5MnN4OUFmSkdIOFRmcy1WUUUtNUo3ZC1QZldTejVSMjBhYnVtU051WmN6NVhYLV9sbnA1ZVY5QUZXR1BQU1htU2JlSlBTRnMwYmdjVF9IVFVORnkyV0NwZlhuOVQzM0RDWmpCYktCcm81TEZVRQ?oc=5"
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUVjVUFVVEFKQXkzcjRUeHVyOG5HV0pfX01FeVVyMVh2b1hDNWZBNkhxQWxZRFMxWHpGSHpwSHgtcGNudDF5MnN4OUFmSkdIOFRmcy1WUUUtNUo3ZC1QZldTejVSMjBhYnVtU051WmN6NVhYLV9sbnA1ZVY5QUZXR1BQU1htU2JlSlBTRnMwYmdjVF9IVFVORnkyV0NwZlhuOVQzM0RDWmpCYktCcm81TEZVRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd2tMODIxWHlKdmZXWXRpTGVHUUZJblNzSkI1Si1iMXZldmstTzVvbzZ5d1QxSEJFbWRqNnBVSVhfZVMtb0wwOUVRQ1hMWlNmMTZZaVYyMWZ1Z0toSGJraDZ4TTdtM1RZRlRtNDExYjI3QjRDdUlad2JqUGFQMEgtb2xlTEsySHYzaW1reFZMVVF4ZG95N1JELVdZbzlUV0FfRDFVMjBuTE1hUGxfeW9vR1ZQX0pOSFFWTElUQmp3a0hmd193WUk0?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUtWakE1YnltS3lXbXo0YTlOUXhnTkh4cFEtdnBoV3Y0X2FIM2hXRFFfM1pMdEFrNGpiT1B2NC1rckVhUXk5VGhUTi1KSFRqdjI4bVZQcDZrSkNEdzJQVnRVYThTWHdkTnBSVl9kaFhfeUN2eW9PaGZoRU5qQ0locEE3cWU1OW1QOF93Um0tTVVOUGJMeUhIZnUtVlQ1U3dSS3VqS3NUdjZId2YzM3lIWWRYVHVBeUUwSXQtTEMzV0puVEhib1hLdEo4UGlpeHMybW9ZQ1Bwa9IB1wFBVV95cUxOdUtWakE1YnltS3lXbXo0YTlOUXhnTkh4cFEtdnBoV3Y0X2FIM2hXRFFfM1pMdEFrNGpiT1B2NC1rckVhUXk5VGhUTi1KSFRqdjI4bVZQcDZrSkNEdzJQVnRVYThTWHdkTnBSVl9kaFhfeUN2eW9PaGZoRU5qQ0locEE3cWU1OW1QOF93Um0tTVVOUGJMeUhIZnUtVlQ1U3dSS3VqS3NUdjZId2YzM3lIWWRYVHVBeUUwSXQtTEMzV0puVEhib1hLdEo4UGlpeHMybW9ZQ1Bwaw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T17:31:16Z",
-      "published_at_ist": "2026-10-16 23:01 IST",
-      "first_seen_utc": "2026-10-16T15:14:00Z",
-      "age_minutes": 143,
-      "trend_score": 22,
-      "rank_score": 0.833,
+      "published_at_utc": "2026-10-16T18:18:49Z",
+      "published_at_ist": "2026-10-16 23:48 IST",
+      "first_seen_utc": "2026-10-16T15:25:26Z",
+      "age_minutes": 158,
+      "trend_score": 18,
+      "rank_score": 0.7899,
       "category": "sports",
-      "section": "sports",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
@@ -454,55 +617,44 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Star pacer returns in India Test squad for New Zealand",
-        "Bumrah and Akash return to Indian Test squad for New Zealand tour",
-        "Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
-        "Cricket-Pant awaits fitness clearance as Bumrah returns for New Zealand tests"
+        "Pant's fitness doubt, Bumrah's return headline NZ squad",
+        "Prasidh, Pant, Bumrah in India squad for New Zealand Test series",
+        "Cricket-Pant awaits fitness clearance as Bumrah returns for New Zealand tests",
+        "India Squad For New Zealand ODIs, Tests Out. Shreyas Iyer To Captain In Two One-Day Matches"
       ],
       "image_urls": [
-        "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ahta8i3lgmgeuvu0neah",
-        "https://th-i.thgim.com/public/incoming/bgbzte/article71593926.ece/alternates/LANDSCAPE_1200/EPAPERTH30AKASHGSTGJKT1F.3.jpg.jpg"
+        "https://cassette.sphdigital.com.sg/image/straitstimes/b8880b556b88953dfa53a2eb85ddb71e254d857d981df747d88e0d5f9f736d3c?w=1200",
+        "https://im.rediff.com/1200-630/cricket/2025/jun/23pant-century-bcci.jpg",
+        "https://im.rediff.com/300-300/cricket/2025/jun/23pant-century-bcci.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "14240fe307",
-      "key": "announce-earth-greatest-show-tour-world",
-      "headline": "U2 announce The Greatest Show on Earth world tour",
-      "summary": "https://startsat60.com/media/news/U2 have announced their first six dates for a major world tour in 2027, marking their return to stadium concerts...",
+      "id": "54592e446e",
+      "key": "10-100-17-billboard-countdown-hot",
+      "headline": "Billboard Hot 100 Top 10 Countdown for Oct. 17, 2026",
+      "summary": "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-october-17-2026/Here's the Billboard Hot 100 top 10 countdown for the chart dated Oct. 17, 2026.",
       "sources": [
-        "https://theriffreport.co.uk/",
-        "The Music Universe",
-        "Under the Radar Magazine",
-        "Starts at 60",
-        "Consequence of Sound",
-        "TicketNews",
-        "Music Industry Weekly",
-        "94.5 The Buzz"
+        "Billboard"
       ],
       "article_urls": [
-        "https://startsat60.com/media/news/u2-announce-the-greatest-show-on-earth-world-tour",
-        "https://theriffreport.co.uk/%F0%9F%8E%B8%F0%9F%94%A5-u2-announce-massive-2027-stadium-world-tour-the-greatest-show-on-earth-kicks-off-in-mexico-next-february/",
-        "https://themusicuniverse.com/twice-drops-this-is-for-world-tour-live-vinyl/",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSGhBTWpsMTFBcVRMTWZmTW9fOHg5OHhfX1FxMkNnemYzek9jTWt6SVBON09LWVBmZm5udmNCU29MWDRRN2N3UnVuVkNBYWcxREE0djlXdkFvckRJTXU2YWNoMjg1OXlURkNpbmM0cktzWlBkSDhHdTZ3TENSZkgwd1pMcmUwODBHOXh2aGRfcTZKM0FMOTZfQV9nOVRNR1c0bWVKNjlxZnhJWHhoWDNUWlo2TTBLRTMtZlAyUnlHUUFWU2JBcHM2LTlhVFRRSU4wNG9oVFFsdjFONmxKS1Q5TXJEUzRqeFpzdF9BSmhGQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTU94MUhwd0VmcGpwTjhfcmQ2Xy1JUkxvd3R2a2hUQ1ltQzlCWDVZdmdhaUxHby00Z3U4b0hBWGtkblJjVk1vbkFIRFRMLWNqRjNmMWJMWWZQN3hRSTIxc2cwN0xhdmdjTElBRlpFR3pjd2xiTE8waG5laExiYVNkZg?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU2xJaTc4eXhKczZGTGZ3a2VlWXRvNUF5TzRpS0ExbTdFWFJ5dC1pb0pIbDY2eWJwSkRuOU0yOExtZ3A1VVFkaUljOEYtYlMtWWhGdDMycXZDa1VHRWRCYk1VbUxVNzZKOVUyWEppbUx0cFlXQkxmN0lHdkNGZTY2cGxETTRHdHdaNFl3ODVWVEh6R2huaEJCNG9wcV9XVURRR2lQNzF2Snp0YV9VTjhfVHB5Sk1aaU9DejcxQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQVpkSlhoUTE5ck9UbHBaWjJPd0MzRGN0V1NWc0hMQzkxaVJid1ZlcEFhWkJHX25iVEhQRnR0S2s3MmNtV2hlSDljZ3lsZ2pXUjdqOHVGUUJ6U1pTQWhVRW1Zd0VHZW9MRFJ1c1Z4dkc5UlVhSHZXRi1oSmx4VmxPREJmNk82eVdVRFNF?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ua1h2X3RaT1B4QS00ZlFKb1ZlbG1pYUt6QnJaY1VqeHlRTGRpUGgxVmduV0lkMmJPX25YWTFhMjZJbWlQT0JFOGVMZWpxdFE2YlJKUzNaejhSMlNwVmhxMGxrUDdkNEdMem5v?oc=5"
+        "https://www.billboard.com/video/billboard-hot-100-top-10-countdown-october-17-2026/",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQUI2U0RMczF2cGZBVTgwVzVMcDF4bEUydTh1RzI1OHpRUWU2NXhpN3lrTy1QdkZhVlNDNEpQa2ZOamJYQU9RekJMVlVwNUlOcjA5SUVDRWNaVnU4UjdmVHZzY3RjdWFVanhsamMxWXR5VVdaVmt1TFZ2VUt0YXkzYkE0RWxYTFlsY04w?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:58:23Z",
-      "published_at_ist": "2026-10-17 00:28 IST",
-      "first_seen_utc": "2026-10-16T11:19:00Z",
-      "age_minutes": 56,
-      "trend_score": 13,
-      "rank_score": 0.826,
+      "published_at_utc": "2026-10-16T20:29:52Z",
+      "published_at_ist": "2026-10-17 01:59 IST",
+      "first_seen_utc": "2026-10-16T15:59:52Z",
+      "age_minutes": 27,
+      "trend_score": 8,
+      "rank_score": 0.7794,
       "category": "celebrity_music",
-      "section": "top",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
+        "GB",
         "IN",
         "US"
       ],
@@ -515,138 +667,34 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "U2 Announce Massive 2027 Stadium World Tour – ‘The Greatest Show On Earth’ Kicks Off In Mexico Next February!",
-        "Twice drops ‘This is For World Tour’ live vinyl",
-        "U2 Share Video for New Song “The Greatest Show on Earth” and Announce New Tour Dates",
-        "Nickelback Announce 2027 World Tour"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://images.startsat60.com/wp-content/uploads/20261016120857/U2-Resized-606x405.jpeg",
-        "https://theriffreport.co.uk/wp-content/uploads/2026/10/🎸🔥-U2-Announce-Massive-2027-Stadium-World-Tour-–-‘The-Greatest-Show-On-Earth-Kicks-Off-In-Mexico-Next-February-1024x576.png",
-        "https://themusicuniverse.com/wp-content/uploads/2026/10/twicethisisforlivelp.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "a7a4e1f12f",
-      "key": "avenger-coming-doomsday-grand-prix-state-united",
-      "headline": "\"Avengers: Doomsday\" is coming to the United States Grand Prix",
-      "summary": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/The special livery will be displayed in downtown Austin from 19 to 24 October",
-      "sources": [
-        "RacingNews365",
-        "Motorsport.com"
-      ],
-      "article_urls": [
-        "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/",
-        "https://racingnews365.com/liam-lawson-to-trade-f1-car-for-guitar-ahead-of-united-states-gp",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0hGcVZJS1FDcnF1YkNHLUVrU0s4Z0FaVU1tX19iVUFGVmZNaEhkd2JFa2pNTGhkcUh2WVBDaW5TUndOejhEVmlfaVVNWmd4dzExM2tLaXkyN0lFb0M5aWlCcXluanAxOXRuZ3h6SVZucWlKR1N3Mmh6MENKZlFTN3hXRTJ3X2xoM0RKSmRxRTZDMmhC?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNHlYdVBxWmotb25VSVBSSE5CUkNrUjNESTVTOUwxcnNCN1BIUzBOT21kV3ZLVUM0bmxENzY3aENNZDJZYmtYdHNZdHdVVjdRRTAybUlGTnd3TVRmanNuVjcyWjA5YmlOTmg5a1NHb0dUNXJNdlVRY3pWM3dkdGx1Qk0zTjE4Y3o4Q3piMFBqTmZxYmtTSEJocDIzc2taLUlEMURMbHl6eE5RT3c3b01DY1JlS2tuSnItdHg2QXpFSTU4SGgwd3ktSw?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVFkZkUxbFdvZVc2Um5mVVVmeld3cDFSTVY4TU1qbl91THNkUXpEaGM4d0RRVWUzZlpPQUpPYUJsZTlnMDV0U3JYcWt2SjhWM0cxYzRORXQ4RkJ1c3VTWU5OUlU0NGxPU1NOYjlJYlN1cGVwYWRmQWtGVWsxRkRFZUFweWlZVnlqdVMzUjV5aUpXZldqNDBORG1uM2VCOGlma0V4aDdFaw?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOXFSZFhLb0tfWkdfM0lsaEl4V1RQMlJSY2dsZGJmZlQtOWduQnJZeVltMlk4TGtGaUJsalJYQVZDTlY1ajA1QXU3bnFheHV3dEd2VFFlejhfVHlBd2pmeVJMSlZ6ek5HbTRJelFORmlZWmNTU3JhN21XSmk1QVZyTGR6NDZLcDVvZ09WZmNkcmN1d0VsdkJZZWZyOHhpODVodGVmbGVRX1ZoTlQzQnc?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T19:00:00Z",
-      "published_at_ist": "2026-10-17 00:30 IST",
-      "first_seen_utc": "2026-10-16T12:33:56Z",
-      "age_minutes": 54,
-      "trend_score": 12,
-      "rank_score": 0.8158,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Liam Lawson to trade F1 car for guitar ahead of United States GP",
-        "Liam Lawson to perform live music set ahead of F1 United States Grand Prix in Austin",
-        "The United States Grand Prix is getting a bizarre new attraction"
-      ],
-      "image_urls": [
-        "https://cdn-9.motorsport.com/images/amp/Y9lNG4x2/s6/untitled-design-30-2.jpg",
-        "https://cdn.racingnews365.com/2026/Lawson/Lawson-Goodwood_2026-07-16-134717_kfjx.jpg?v=1784209638&width=1800&height=945&quality=75&crop=3840%2C2016%2C0%2C272"
+        "https://www.billboard.com/wp-content/uploads/2026/10/billboardhot100top10_10.12_thumb.jpg?w=1024"
       ],
       "video_urls": [
-        "https://youtu.be/jZ0ZtWqEu2s"
+        "https://vid.connatix.com/ae93d4e4-ce2d-4797-b98a-877131f608b5/mmid-df6177bb-495e-dcef-a3fb-edb1c7589706/1080_h264.mp4"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "394bc7efe7",
-      "key": "break-having-heart-joke-khan-life-mrunal-rukh-shah-thakur",
-      "headline": "It breaks my heart: Mrunal Thakur jokes about not having Shah Rukh Khan in her life",
-      "summary": "https://www.indiatoday.in/movies/celebrities/story/Actor Mrunal Thakur discussed Shah Rukh Khan's influence on her romantic expectations. She said Pooja Meri Jaan reinforced the importance of consent and communication.",
-      "sources": [
-        "India Today"
-      ],
-      "article_urls": [
-        "https://www.indiatoday.in/movies/celebrities/story/mrunal-thakur-jokes-about-not-having-shah-rukh-khan-in-her-life-it-breaks-my-heart-3019339-2026-10-17",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUTFZYmlUSjZxanJXX3JDNzVNeF9Ha081enN0Njk2S2dHVVhXdXQ4OG0yVEZJNEhPQWkzVUVNVS1wTjAySkY0dzVfRWNhUlQzRHFlYXlyMGdvUWlId0pTeC1RRndnN2xoaDJTOS1VeVhFeTJOSDZPblI0NGZRemZRM3NPajF3cGxBM0tqS1NmcjZRQ0d0S2dkOENfUmQ1aVBOcHMzemxUOFZDVlozZEZ5a0hiendyQ0kzZ3J2UDFIQm92T1BjVFh5blRYVlBIRU9EcUpXcm9WMmVYeEwzemc4MFZjNnhBczTSAewBQVVfeXFMTkNyU0tLRmZrV2tfN1R1Ymp2Rk9icE9DbHdQT21DQll0UDVJTmJJQldOZmdKUUFPU1JldWE2U3VkeDBneWFWT21FMnlhbzlUYmQ3aW5kVjdWQ3dzQ3dhSFFkaUk2aTFqN0hIWDQ0RkotZTZaZkwyb1hIcnNVV0hjUV80d2I4WHdHcDgtMms2LU1aUDFrV1NITWN2LXRobmJXb3pSSS1oaEY4S2NjdzE3ejZSWklkQ25WNm8wUGNWLVQ4Tlh4VXBZRzZSaVczdGJfRkZPRjNzZlQxbjZnSThlY0dmanRydThOaWRWYWQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T19:36:04Z",
-      "published_at_ist": "2026-10-17 01:06 IST",
-      "first_seen_utc": "2026-10-16T19:36:04Z",
-      "age_minutes": 18,
-      "trend_score": 7,
-      "rank_score": 0.7981,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Shah Rukh Khan"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/it-breaks-my-heart-mrunal-thakur-jokes-about-not-having-shah-rukh-khan-in-her-life-163531449-16x9_0.jpg?VersionId=9QPHxD9zCgivFSI1fwbjzNcvwHdkRkhF"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "be75c1660f",
-      "key": "16th-callminer-contentsquare-martech-seismic",
-      "headline": "Top MarTech News From the Week of October 16th: Updates from Seismic, CallMiner, Contentsquare, and More",
+      "id": "e96b897b83",
+      "key": "billion-face-holding-msci-ouster-passive-risk-rule-strategy",
+      "headline": "Strategy faces MSCI ouster under new rules, billions in passive holdings at risk",
       "summary": "",
       "sources": [
-        "Solutions Review"
+        "Reuters"
       ],
       "article_urls": [
-        "https://solutionsreview.com/crm/2026/10/16/top-martech-news-from-the-week-of-october-16th/",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekJPNUdBYmpnaEJMTEJTOXpHVmwwRGZGVEk5NzZSRXBTRWkza3BrcWNYeGdMMXczTW1JVHdKRkFZMzNQbWdIM01ZWmFzUThka3d5ejdON251TVRzeGtJTGRPRnppM3Fqc2RIbkxybHE0NGhKZnlLbjRMSk8wNkk2RnlTWDNwR21nQlJVSmVUV21jNnlP?oc=5"
+        "https://www.reuters.com/world/asia-pacific/strategy-faces-msci-ouster-under-new-rules-billions-passive-holdings-risk-2026-10-16/",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxORWYxNV9CbUFxcmpWN2Q5S0tSUHJGVWxDZlBZZE9kdHd2TEhZOFJtdk9Oc3AtS1pfRWY2eDlTWXpSZUNxQTdEZFl4aTNJb0Ffd1ZMdnQ4WElmaEh4UUFoTE1YT0dVOTlKVk4yQUkwZldzSld3dF9POUlIZmNveGhBWjJ4aEZHbGE3ZEV1b1BuZTgzMF9VTjBRbEkxdnpXaWhBeDdmYlNSZGdidWdNMnVNb0FzZTBHM0pZU3IzNjBsenU5SWhZT0s4?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:18:45Z",
-      "published_at_ist": "2026-10-17 00:48 IST",
-      "first_seen_utc": "2026-10-16T19:18:45Z",
-      "age_minutes": 35,
+      "published_at_utc": "2026-10-16T20:40:58Z",
+      "published_at_ist": "2026-10-17 02:10 IST",
+      "first_seen_utc": "2026-10-16T20:40:58Z",
+      "age_minutes": 16,
       "trend_score": 6,
-      "rank_score": 0.7325,
+      "rank_score": 0.7483,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -657,7 +705,7 @@
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -671,124 +719,66 @@
       "youtube_videos": []
     },
     {
-      "id": "cb83d609d6",
-      "key": "arrived-changed-elon-musk-open-son",
-      "headline": "Elon Musk’s Ex Opens Up About What Changed After Their Son Arrived",
-      "summary": "https://www.yahoo.com/entertainment/celebrity/articles/Elon Musk‘s ex, Ashley St. Clair, is opening up about her past relationship with tech billionaire Elon Musk, revealing that the Tesla CEO displayed a drastically different side of himself after the bi...",
+      "id": "2095662af9",
+      "key": "agent-dying-monetization-per-pricing-seat-shift",
+      "headline": "Agent Monetization Shift: Per-Seat Pricing Is Dying",
+      "summary": "https://finance.yahoo.com/technology/ai/articles/The plumbing for agentic commerce is settling into place. Following the Chain of Trust demonstration and Stripe’s claim that activity went vertical in September, the checkout map has matured. The pipes exist to move value between autonomous entities. Yet the monetization map — how vendors extract value when software agents replace human seats — rema",
       "sources": [
-        "Yahoo",
-        "People.com"
+        "Yahoo Finance"
       ],
       "article_urls": [
-        "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-ex-opens-changed-180919185.html",
-        "https://people.com/ashley-st-clair-says-elon-musk-didnt-show-certain-side-of-himself-until-she-had-their-son-12173824",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVF96WjVOTDJDamVzRmk5Rno1dERCMURzWk5KNFg1d25yS1NRZXJIN0VfbnQ1US1qRTZoaGlhWEw4Q05WTXZqcmJMTDQzWmRsMnY3ZWpjZTZoeFdnb2JzRy0xa1hJN3VrbHQ2bXoxU3ktLWJWZ01uNVVmRWdTOGZGMVo4a3dWZmswMWJLMnhfQUg1YW96bXdBZXBtWWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbW5YRVdxYWttQWZ6NHJjRE14bUhVLTRVQldsbk05T3RNSUZCWGNBbjQwbl8wb3R4TTlsOHhNV2dvelpFMWlZcjhUVnJId3Y2WUR5SUd6aGFVcTRzcHg1ZGhQWk12Sm5DVVdGRUZxOVE0aHFiOFcwRXd3cmJaM2FXWjZwZTRuY2lJNmVwOW43NFJ4eHF2RkVySEJOMDNlSWYwSHFRYXFtZWFaNGozN3AxOElzeVRWNTZz?oc=5"
+        "https://finance.yahoo.com/technology/ai/articles/agent-monetization-shift-per-seat-202733036.html",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQandXMDE1YlNzZHJkWlYweExVMHFIS1lyaFVEUGU0NjBGUzA0a0F6bV9yWkpxazFhRXpUS1lqenhfeDROS3RwYUhOVGMtQktvZXpWNjZKdFF6WEtPdHc4V1NQSjgyN2V5emM1M0dFRmJEbFhzRUp4Y2xPSEJmY2NQN3AtVU5WZW1iU1dWQU9rOFMydk41STZsWWxkczBnZw?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:09:19Z",
-      "published_at_ist": "2026-10-16 23:39 IST",
-      "first_seen_utc": "2026-10-16T11:44:00Z",
-      "age_minutes": 105,
-      "trend_score": 7,
-      "rank_score": 0.7256,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-16T20:27:33Z",
+      "published_at_ist": "2026-10-17 01:57 IST",
+      "first_seen_utc": "2026-10-16T20:27:33Z",
+      "age_minutes": 29,
+      "trend_score": 6,
+      "rank_score": 0.7375,
+      "category": "other",
       "section": "top",
       "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
+      "famous_names": [],
       "region": [
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Elon Musk",
-        "Famous people clips"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Elon Musk Cut Ashley St. Clair’s Monthly Support Payments to $20K for Speaking Out After Having Their Son, Doc Claims"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/6625770b28e332b5c499e1b289227f3ba378b98ed530e9fe6a9a077153b1f6a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5883bbe6c8a273ed7d4f34e41bd4472.jpg",
-        "https://s.yimg.com/lo/mysterio/api/d6fa6899017e4d31a09a1aae5e42b2be2463b65bd16ab825b436da84b88dd053/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5883bbe6c8a273ed7d4f34e41bd4472.jpg",
-        "https://people.com/thmb/FJLrPYPU01VZFLQMWqkfyVXtp0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1003x527:1005x529)/ashley-st-clair-elon-musk-051926-89930638c3794d658843aecef6828ce5.jpg"
+        "https://s.yimg.com/cv/apiv2/cv/apiv2/social/images/yahoo-finance-default-logo.png"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "6a0df0ce2f",
-      "key": "dorsey-hashboard-immersion-jack-now-proto-sazmining-sell",
-      "headline": "Sazmining Now Sells Jack Dorsey’s Proto Immersion Hashboards",
-      "summary": "https://bitcoinmagazine.com/news/Block’s Proto mining hashboards are now available on Sazmining’s mining-as-a-service platform.",
+      "id": "d3a1e632f6",
+      "key": "delay-failure-gone-major-network-reality-season-show-swedish-technical",
+      "headline": "A reality TV season, gone: Swedish network delays show after major technical failure",
+      "summary": "https://www.marca.com/en/technology/2026/10/16/An agent might misunderstand a request, fail to account for the consequences of a command, or pursue a goal in a way its operators did not anticipate",
       "sources": [
-        "Bitcoin Magazine"
+        "MARCA"
       ],
       "article_urls": [
-        "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iYnZDTWFIdWpCdnVWdkFYNDJRNWJrbFJIalVjZzU1R0R2aVB5dUFrWWJvMzgxb2hvSEx1cDVUd29iZnVnNFpMaDk2Ni1Md1ptaFRjWnQydzlWaGRSSmJtSmJfM2doelBxSEt6b09PU2RfdERZZ1paZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOR0ppWXAwMFdVT05SYTRreHpvNE1pcTYzRkJyNlA3UlcxUHY0RkpPVFZMbFN0d3Y0d3hVb01vY2txUE1neldNc0d5QkpXX2dMeXBRRndPN0Y2ZzYyNE5kaUVtMGtLR2JwdTJWeXBFQWx4OTJhd0NVVEhLRXNKWFYydnJnVWdKRnFmSWZDX2t2eVZ0U3plUzZFMDc0cVZ0LWhMb1d0Ym90YV9zaVZLQ25uVEZLT1hzcEhBREp0YUJ3ZWYxdDM4YXljVkdsa0JSeGZ1cnpDeE9VSQ?oc=5"
+        "https://www.marca.com/en/technology/2026/10/16/reality-tv-season-gone-swedish-network-delays-show-after-major-technical-failure.html",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ1lINkZuME05MHVRbExDa2Z3Uy11aWlfSEpyeE5xUlh4SmhXYnROaXE2SVJSRFJ0Qm1NT0syamJpQXA3UGlYMy1EY09CUF9RX0lEdUE1cXBibUJoa1hGVENJbWkzME5LWkp5ZzZFS00zM2c0MlFUUnhOUnJ4Q3N3ZmEza09mYmNlOUlOTjFKLV9ZVmNZa0QtRFo4QmF2a1gtb3h2YVRsZC1oM1VTb0NyeVZfbUFiSm4xbVhEZlNXNWUwX0FYNVRLenVKWWrSAcwBQVVfeXFMT2hxbVA1RVFLc09MRDlrNHJIeS01XzM2ajI5ZUIxNWJzRkhybl8xSWg0RzFQUVp3YjVKbFppQ1ppZWlCVlgyWHJPeExWd2Yyekl1Uk5pSzdwX0YxbEhJM3lQYU5WX0dXdE41cWxoRnEwNXA2WHlQOFIyOG0wVl9XTEpRZFdYNEpwbzE0Wm5YTE42ckx1anAwOFhlbms0WUhMUG92cW00dl9DX0hwb2phOHlsMlEwbTVBWUJZeDAyendRNFNqeFdDVVYyRDhu?oc=5"
       ],
-      "published_at_utc": "2026-10-16T19:22:03Z",
-      "published_at_ist": "2026-10-17 00:52 IST",
-      "first_seen_utc": "2026-10-16T12:42:22Z",
-      "age_minutes": 32,
+      "published_at_utc": "2026-10-16T20:43:20Z",
+      "published_at_ist": "2026-10-17 02:13 IST",
+      "first_seen_utc": "2026-10-16T20:43:20Z",
+      "age_minutes": 13,
       "trend_score": 5,
-      "rank_score": 0.7103,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Sazmining Brings Proto’s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down"
-      ],
-      "image_urls": [
-        "https://bitcoinmagazine.com/wp-content/uploads/2026/10/b7d506cc-b358-4bfd-a7fa-f948d9b6fa68.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=hTfIVPjwHiA",
-        "https://www.youtube.com/embed/videoseries?list=PLSHG9MrdyLcY&autoplay=0&rel=0"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "9dce262fce",
-      "key": "afford-blind-chain-longer-people-supply",
-      "headline": "Why your supply chain can no longer afford to be people-blind",
-      "summary": "https://www.scmr.com/article/As AI, automation, and workforce shortages reshape supply chains, leaders…",
-      "sources": [
-        "Supply Chain Management Review"
-      ],
-      "article_urls": [
-        "https://www.scmr.com/article/why-your-supply-chain-can-no-longer-afford-to-be-people-blind-open",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzZGQ0pQZmtndUhCeHF2UVVQcndpT1QzOWpIQzhBM0FvLW1VMk5KbHNrQ1ZjcHpHd3F4X0gzVGpwb0pSNWtQVkFFWTNWZTVXMUd4SkFPN0FIZ04wb1RvNmlycTdwN3NsUS1fR3Y3YjBkZWdhVUg2VnRoa2FZT2RCUzg4cURRbmtGdVJ4RHFrbTNLbllBX2NkTkNJTQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T18:59:00Z",
-      "published_at_ist": "2026-10-17 00:29 IST",
-      "first_seen_utc": "2026-10-16T18:59:00Z",
-      "age_minutes": 55,
-      "trend_score": 5,
-      "rank_score": 0.6911,
+      "rank_score": 0.7261,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -807,75 +797,36 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.scmr.com/images/2026_article/GettyImages-1849920564.jpg"
+        "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/10/16/6ad28976479aa.jpeg"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/embed/-7NONBjE4W4",
+        "https://www.youtube.com/embed/mUw27wG7uFA",
+        "https://www.youtube.com/embed/2yvhtqQ7bBk",
+        "https://www.dailymotion.com/crawler/video/xbmukc2",
+        "https://geo.dailymotion.com/player.html?video=xbmukc2"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "9cb40a7d17",
-      "key": "explain-fashion-luxury-lyall-shift-susan-zuckerberg",
-      "headline": "Susan Lyall Explains Zuckerberg's Shift to Luxury Fashion",
-      "summary": "https://suaragarut.id/en/Costume designer Susan Lyall details Mark Zuckerberg's evolution from gray T-shirts to luxury fashion and explains how clothing shapes his public image.",
+      "id": "c5622efd2e",
+      "key": "1-block-contract-devnet-evm-launche-lighter-second-trading",
+      "headline": "Lighter launches EVM devnet with 1-second blocks and contract trading",
+      "summary": "https://crypto.news/lighter-evm-devnet-smart-contract-trading/Lighter launches an EVM devnet for smart contract trading, with one-second blocks, phased access and testing limits detailed in developer docs.",
       "sources": [
-        "SuaraGarut.ID"
+        "Crypto News"
       ],
       "article_urls": [
-        "https://suaragarut.id/en/zuckerberg-luxury-fashion-evolution",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xR2I5cmRsazZUTlF0QWdaN3pKT3EyLV9RdlNSMnNiZXZvX3FqMWx5bDViS1hvbTJJY2ljc1FiVFlScWlRNnozbmJ0X2hjellRWVgtdzQtVWRadDNla2wteTlBRlRRLUdQTGFzaw?oc=5"
+        "https://crypto.news/lighter-evm-devnet-smart-contract-trading/",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfTXRHbDhLNHJZVGJJRUwxS1hMOEdlYy1EOHdBckNGSFRDOWVTLURkNklhZ042U0pTcXc0ck5ZZDlLRWd6cWhCUEwxUVRMZzl6eFJycU5fVmN0Q0hhS0Jsdi1td0tVRlFGT3JZOTFOMA?oc=5"
       ],
-      "published_at_utc": "2026-10-16T18:14:00Z",
-      "published_at_ist": "2026-10-16 23:44 IST",
-      "first_seen_utc": "2026-10-16T18:14:00Z",
-      "age_minutes": 100,
+      "published_at_utc": "2026-10-16T20:41:06Z",
+      "published_at_ist": "2026-10-17 02:11 IST",
+      "first_seen_utc": "2026-10-16T20:41:06Z",
+      "age_minutes": 15,
       "trend_score": 5,
-      "rank_score": 0.6836,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Mark Zuckerberg"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://cdn.suaragarut.id/media/images/2026/10/IeKGw4Uymz.jpeg?location=1&width=1200&height=674&quality=80&watermark=1",
-        "https://cdn.suaragarut.id/media/images/2026/10/IeKGw4Uymz.jpeg?location=1&width=650&height=366&quality=80&watermark=1"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "007203c3bf",
-      "key": "announcement-glamsterdam-hoodi-testnet",
-      "headline": "Glamsterdam Hoodi Testnet Announcement",
-      "summary": "https://blog.ethereum.org/2026/10/16/Following its activation on Sepolia on October 6, the Glamsterdam network upgrade is now scheduled for the Hoodi testnet. Glamsterdam advances Ethereum's L1...",
-      "sources": [
-        "ethereum.org"
-      ],
-      "article_urls": [
-        "https://blog.ethereum.org/2026/10/16/glamsterdam-hoodi-announcement",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE80SHFSa05nd0xhOGFrZVhObDA2aEhvaXlGTXhRU1JIdTZIc3dZNUpHMUJpYzNTRnVhTHRyQUZONkQtRWVtRlQtMGpZU2huN3ZUOVNsXzRRLVlHWXhWbHBTYjN6ZThSZTNPZDl3NmxlVUYwM1pXWGc?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T18:35:16Z",
-      "published_at_ist": "2026-10-17 00:05 IST",
-      "first_seen_utc": "2026-10-16T18:35:16Z",
-      "age_minutes": 79,
-      "trend_score": 5,
-      "rank_score": 0.6711,
+      "rank_score": 0.7245,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -894,51 +845,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://blog.ethereum.org/images/eth-org.jpeg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=HoclxIBR2EM"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "401f433bcb",
-      "key": "african-hear-need-song",
-      "headline": "The African Songs You Need to Hear This Week",
-      "summary": "https://www.okayafrica.com/the-african-songs-you-need-to-hear-this-week/Stream the best African music this week, including new releases from Cruel Santino, Marla Kether, Solana, Gyakie, and more.",
-      "sources": [
-        "OkayAfrica"
-      ],
-      "article_urls": [
-        "https://www.okayafrica.com/the-african-songs-you-need-to-hear-this-week/1440859",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHdobTJUOUlNd3JHYndPSzNrR3FlOXVJTjREaGRHZ2FCdkdJUVd3bTBaSjJKd0FVdy1WUFU5XzBCTFNtYlRaZVJyMDlFMDY4Yk12TlRvUEZCS2wtS2duT2FoU1JyRmdGQU45VGRoRDZQbTQ4cVJTangyemMtUGRTTnZ2ZlNudw?oc=5"
-      ],
-      "published_at_utc": "2026-10-16T18:26:57Z",
-      "published_at_ist": "2026-10-16 23:56 IST",
-      "first_seen_utc": "2026-10-16T18:26:57Z",
-      "age_minutes": 87,
-      "trend_score": 5,
-      "rank_score": 0.6645,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://image.okayafrica.com/1440867.jpg?imageId=1440867&x=0&y=15.72&cropw=100&croph=31.7&panox=0&panoy=15.72&panow=100&panoh=31.7&width=1200&height=683"
+        "https://media.crypto.news/2025/07/crypto-news-Cryptocurrencys-best-ideas-will-never-launch-option01.webp"
       ],
       "video_urls": [],
       "has_video": false,
@@ -958,9 +865,9 @@
       "published_at_utc": "2026-10-16T16:00:02Z",
       "published_at_ist": "2026-10-16 21:30 IST",
       "first_seen_utc": "2026-10-16T16:00:02Z",
-      "age_minutes": 234,
+      "age_minutes": 297,
       "trend_score": 5,
-      "rank_score": 0.6638,
+      "rank_score": 0.6442,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -997,31 +904,112 @@
       ]
     },
     {
-      "id": "50d985e932",
-      "key": "4-63-apartment-kapoor-lakh-lease-luxury-month-per-pune-ranbir",
-      "headline": "Ranbir Kapoor leases out his luxury apartment in Pune for Rs 4.63 lakh per month",
-      "summary": "https://www.mid-day.com/celebrity-life/luxury/article/Ranbir Kapoor has leased out his luxury apartment at Trump Towers in Pune for a starting monthly rent of Rs 4.6 lakh.",
+      "id": "cb83d609d6",
+      "key": "arrived-changed-elon-musk-open-son",
+      "headline": "Elon Musk’s Ex Opens Up About What Changed After Their Son Arrived",
+      "summary": "https://www.yahoo.com/entertainment/celebrity/articles/Elon Musk‘s ex, Ashley St. Clair, is opening up about her past relationship with tech billionaire Elon Musk, revealing that the Tesla CEO displayed a drastically different side of himself after the bi...",
       "sources": [
-        "Mid-Day",
-        "The Indian Express",
-        "NDTV"
+        "Yahoo"
       ],
       "article_urls": [
-        "https://www.ndtv.com/lifestyle/what-makes-ranbir-kapoors-rs-78-lakh-watch-special-at-ramayana-event-in-bengaluru-12193454",
-        "https://www.telegraphindia.com/entertainment/ranbir-kapoors-ram-prepares-to-take-on-yashs-ravana-in-new-ramayana-part-one-trailer/cid/2184905",
-        "https://www.mid-day.com/celebrity-life/luxury/article/ranbir-kapoor-leases-out-his-luxury-apartment-in-pune-for-over-rs-4-lakh-per-month-23655458",
-        "https://luxe.outlookindia.com/watches-jewellery/watches/ranbir-kapoor-wears-an-inr-78-lakh-jacob-co-watch-at-ramayana-event-in-bengaluru",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNHU3VmI2QmZta204VXBwQ0NmbXYtS29saDRoTjBPZG5fUTd6WnFiUDlocDVqcVhnRjlBemR2ZWxMQjVLVHpvbVV1a25nR2cycHRnZXBnQjJCLXB4a2JtbHd3aWxvY1hxZDR1eDdWZmVTbExmczlxUHFlZUFaOElETEQ1ZEhLdF9ScnI4dW02Vjk2RG5SYzJCWTZOaDF5VV90UFlGZjNaczBqTGFaM09xb01FWDBtV2RWRUlOMzN2elBQcnhvMkdEd1FYSWlVaHVZa1lLREl3M3ZLVmc4MVAyaGIyS0FxZTNIZGVDc9IB7AFBVV95cUxQNHU3VmI2QmZta204VXBwQ0NmbXYtS29saDRoTjBPZG5fUTd6WnFiUDlocDVqcVhnRjlBemR2ZWxMQjVLVHpvbVV1a25nR2cycHRnZXBnQjJCLXB4a2JtbHd3aWxvY1hxZDR1eDdWZmVTbExmczlxUHFlZUFaOElETEQ1ZEhLdF9ScnI4dW02Vjk2RG5SYzJCWTZOaDF5VV90UFlGZjNaczBqTGFaM09xb01FWDBtV2RWRUlOMzN2elBQcnhvMkdEd1FYSWlVaHVZa1lLREl3M3ZLVmc4MVAyaGIyS0FxZTNIZGVDcw?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdk54SmRKRndPVVQ4a1pmd0JReTdBNlBPVndCbmJMbXdrSHljR212cGgxdnoyam8wbWVaRlVuc0dfNldDWUNxVGJjczFUWV9iVUt6SXc3cXpLLXVPZzlNQjlYZkNXNDdFdm1lVTVBVHl4MjhjbnJldFA5MUI4cWdWczN3b1A3UVFodFhiUGFVTmt6QUdDczd1cVp6b29ZNzlNUUdXTkUyNFVGejVMaDdoYXh5clFFMVV6YUVkZzV0QnBrdXQ3TlU3UjZ6RWxDYVQyRk1uOUk0MEJhLXdqRXMyNXh30gHoAUFVX3lxTE9xVFFzSU9lS29xNEZ3Ny1ObEZwVnI4X0x0Q1FPVmplSEg1TEFmUGVGbUg3OW9fWWJqb0Q4Z25PdE9lRFdLYUMweGM3eEs3c3UzeWZGVXYwcVRDcjFLVzYzN3RCdFdIaTVkYVhlTUlUNFZra256dTdtdWRhV1lMTFRRZ2xfV3ZLQThtSGpoelRFMUY2bG1Tc0NjcjZZYmJ4U3I3MG1jc3FsZ1dGS3ZXaTZIT2lZOEo5ZGVibnNFVjh3WjVoQ3pHYnJYT0FHa0pHc25UczU1LVo4YlBLTzdBUlpONEowWVA3RGM?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOako5X19NQjNSWklvSnAtMGVGdmk0RXJPWTY3UWVtME9ScnhQazhYSFh2RzRmT0Nycjl5N3ZvcGVzcGRlak9GTlJnclZKR3FFUGd2UFp4b2tsNWZiZF9nV3BYZDR6ZWs0NUYzelotbnNzMTR4Ti1Cbm5sdkZYQWZIRkJVU0thR3VQZFR0WkpQdmJuc0J2enBiU3o1X19mMzRyMURUenpTZUx1QjljSVZEdXhUV1NrME5HSEdvWGZxMFktekFlbFpYbk1OWWZmejJL0gHYAUFVX3lxTE5kWFRCZS11S3ZnODg3dll6WWJPdHBqOTJsZWs5STQ0b1A3aVVpazR2RHY5UlNyalotYXZfYW5LQUNDVEM2aEt0c0dXRHVJUkFPeTEzemdDX3RKbUhtRFVVNkVxZkdKMzBESktoSnhuYmdYcnEwRVhMMlRnbTJNWm9YZHp3Szg4MTRTbk9mQjVfWGFQUVNtMWo5NHBlaThEQTBadmFkUk1oZTAzMEw1WmNNNXFObUZsQ0psVF9XTDR2emgxLTBYZkgtWERSLXpNcFlSM19odC1fdA?oc=5"
+        "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-ex-opens-changed-180919185.html",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVF96WjVOTDJDamVzRmk5Rno1dERCMURzWk5KNFg1d25yS1NRZXJIN0VfbnQ1US1qRTZoaGlhWEw4Q05WTXZqcmJMTDQzWmRsMnY3ZWpjZTZoeFdnb2JzRy0xa1hJN3VrbHQ2bXoxU3ktLWJWZ01uNVVmRWdTOGZGMVo4a3dWZmswMWJLMnhfQUg1YW96bXdBZXBtWWc?oc=5"
       ],
-      "published_at_utc": "2026-10-16T13:13:00Z",
-      "published_at_ist": "2026-10-16 18:43 IST",
-      "first_seen_utc": "2026-10-16T12:05:34Z",
-      "age_minutes": 401,
-      "trend_score": 13,
-      "rank_score": 0.2154,
+      "published_at_utc": "2026-10-16T18:09:19Z",
+      "published_at_ist": "2026-10-16 23:39 IST",
+      "first_seen_utc": "2026-10-16T18:09:19Z",
+      "age_minutes": 167,
+      "trend_score": 5,
+      "rank_score": 0.6278,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Elon Musk"
+      ],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/6625770b28e332b5c499e1b289227f3ba378b98ed530e9fe6a9a077153b1f6a8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5883bbe6c8a273ed7d4f34e41bd4472.jpg",
+        "https://s.yimg.com/lo/mysterio/api/d6fa6899017e4d31a09a1aae5e42b2be2463b65bd16ab825b436da84b88dd053/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freality_tea_694%2Ff5883bbe6c8a273ed7d4f34e41bd4472.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "401f433bcb",
+      "key": "african-hear-need-song",
+      "headline": "The African Songs You Need to Hear This Week",
+      "summary": "https://www.okayafrica.com/the-african-songs-you-need-to-hear-this-week/Stream the best African music this week, including new releases from Cruel Santino, Marla Kether, Solana, Gyakie, and more.",
+      "sources": [
+        "OkayAfrica"
+      ],
+      "article_urls": [
+        "https://www.okayafrica.com/the-african-songs-you-need-to-hear-this-week/1440859",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHdobTJUOUlNd3JHYndPSzNrR3FlOXVJTjREaGRHZ2FCdkdJUVd3bTBaSjJKd0FVdy1WUFU5XzBCTFNtYlRaZVJyMDlFMDY4Yk12TlRvUEZCS2wtS2duT2FoU1JyRmdGQU45VGRoRDZQbTQ4cVJTangyemMtUGRTTnZ2ZlNudw?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T18:26:57Z",
+      "published_at_ist": "2026-10-16 23:56 IST",
+      "first_seen_utc": "2026-10-16T18:26:57Z",
+      "age_minutes": 150,
+      "trend_score": 5,
+      "rank_score": 0.612,
       "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://image.okayafrica.com/1440867.jpg?imageId=1440867&x=0&y=15.72&cropw=100&croph=31.7&panox=0&panoy=15.72&panow=100&panoh=31.7&width=1200&height=683"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "55276bc5a0",
+      "key": "blu-bran-claim-flag-fssai-hotel-hygiene-lapse-oil-radisson-rice",
+      "headline": "FSSAI flags rice bran oil claims, Radisson Blu hotel hygiene lapses",
+      "summary": "https://www.thehindubusinessline.com/news/fssai-issues-notice-to-gemini-edibles-over-rice-bran-oil-health-claims-flags-delhi-radisson-blu-hotel/FSSAI issues notices over Freedom Rice Bran Oil health claims, flags hygiene lapses at Delhi’s Radisson Blu hotel and takes action against two food companies.",
+      "sources": [
+        "BusinessLine"
+      ],
+      "article_urls": [
+        "https://www.thehindubusinessline.com/news/fssai-issues-notice-to-gemini-edibles-over-rice-bran-oil-health-claims-flags-delhi-radisson-blu-hotel/article71593247.ece",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOeVByc2YtZEVWcGNMcEZVM3JGaFJjNGZ3NnFEQkdrWjZZaG9FQjIyOElCRDhRWGZHd0hVU0JkVXBGUk9wNFJfeF91NWJZcWVHNXFFakNyWWFGaHp0TUtJeE5pYmlOOGxmZlNRek1kdTBCOEl1R01Ec19mUGtZSjU3MmtJMFBIdU5nYWdJeGtoRE5pellKbUVIcUk2UmswRnluUUo2TUlvUUNMcG1lUXV6MGVaRTYzaGR3Y1k4SllpT0h4RHpuXy13R0RMNEV6SlMyUnVzTC1jQkkyRmJuNmlQdEZtUjdFc1k1b3dxQk9rT01WZHpLQVHSAfwBQVVfeXFMTjFPb2JzUXhDeG9UQlh0UlMzX01nR3ZoZVZ3Rmd1S3Jxamh2dW8yaWFLUWdDSVpWYVpJa1lYVnRsdHd2bGhjMy00OFNodnZRd2pOUjlWWHh0Y2FVRnBmZTNyVGs4RHlsal92QjRuSUQxMzdra2JKaGJaSUxKanloZVFoVG5yRHlRQVhYOXJwUEMxbFlETGdXeU5yTFJQdkxuOGNZTUNFZjBDYV9ydXBseXprQkluTy1WZGpiTjlGQ2ZNVGh5amxMaVVPUTVnOVM2UktDU3Blb3pBWWxFZnZKRWtEYWNuNUJEZFFEVnFEOUpkblItRE5YNjJPUzdN?oc=5"
+      ],
+      "published_at_utc": "2026-10-16T14:41:28Z",
+      "published_at_ist": "2026-10-16 20:11 IST",
+      "first_seen_utc": "2026-10-16T14:41:28Z",
+      "age_minutes": 375,
+      "trend_score": 5,
+      "rank_score": 0.4245,
+      "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
@@ -1030,25 +1018,16 @@
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music",
-        "Trump"
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
-      "google_trends": [
-        "ranbir kapoor (IN 200+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
-      "local_only": true,
+      "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Ranbir Kapoor leases luxury apartment in Pune for Rs 1.75 crore over three years",
-        "Ranbir Kapoor Leases Pune Apartment In Trump Towers For Rs 4.63 Lakh Per Month: Report"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://images.mid-day.com/images/images/2026/oct/Is_it_really_a_Pakistani_film_Why_does_the_scene_resemble_Salaar_17_1792156272566_d.jpg",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQBxt1U0yibV0B9CTcz1ee1AXG2ZyN_Pt5rXNVoVWIPwY6PqZHrHqeRznh1sxA",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQXfU7svBJT-NaZmkDeQK-04mFdU-jV8d6mrF0N3mMYVWq70yBYwYvYitQExs",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK2Cp_uVhE0sPrFzkRjC92zUbQhzCKnCfG1cXvG_4uApNgxuDNbbAZf0crQC0"
+        "https://bl-i.thgim.com/public/incoming/v2t66z/article71593297.ece/alternates/LANDSCAPE_1200/FSSAI-cracks-doGKJG45LOK.4.jpg.jpg"
       ],
       "video_urls": [],
       "has_video": false,
