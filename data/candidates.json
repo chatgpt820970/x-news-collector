@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-17T17:25:29Z",
-  "generated_at_ist": "2026-10-17 22:55 IST",
+  "generated_at_utc": "2026-10-17T17:46:30Z",
+  "generated_at_ist": "2026-10-17 23:16 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5302,
-    "fresh_items": 4291,
-    "clusters": 1981,
+    "raw_items": 5360,
+    "fresh_items": 4310,
+    "clusters": 2013,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 86,
+    "youtube_uploads_fresh": 85,
     "youtube_items": 2,
-    "famous_items": 5,
+    "famous_items": 7,
     "trends_terms": 40,
-    "page_fetches": 52,
-    "with_video": 5,
-    "runtime_sec": 22.9
+    "page_fetches": 50,
+    "with_video": 8,
+    "runtime_sec": 23.6
   },
   "categories": {
     "famous_clip": 3,
@@ -32,28 +32,98 @@
     "other": 6
   },
   "top_trends": [
-    "sherrod brown (US 2000+)",
+    "la liga (US 10000+)",
+    "kj duff (US 200+)",
+    "jon sumrall (US 200+)",
+    "rc strasbourg alsace vs psg standings (US 2000+)",
+    "mike shanahan (US 1000+)",
+    "cómo va el barcelona (US 200+)",
+    "bo bryan (US 200+)",
+    "sherrod brown (US 1000+)",
+    "sd state vs north dakota (US 1000+)",
     "lamine yamal (US 2000+)",
-    "legend bey (US 500+)",
-    "sd state vs north dakota (US 500+)",
-    "rodri (US 200+)",
-    "hezly rivera (US 200+)",
-    "barca vs real betis (US 200+)",
-    "nfl mock draft 2027 (US 200+)",
-    "bayern munich (US 2000+)",
-    "lsu (US 2000+)",
-    "rodri (IN 200+)",
+    "laliga games (IN 200+)",
+    "johan manzambi (IN 200+)",
+    "rc strasbourg alsace vs psg standings (IN 5000+)",
+    "bundesliga (IN 1000+)",
+    "fc barcelona (IN 5000+)",
+    "rodri (IN 1000+)",
     "ind vs nz (IN 10000+)",
     "fcb (IN 2000+)",
-    "valentín gómez (IN 1000+)",
-    "finn allen (IN 200+)",
-    "अभिजीत दीपके (IN 20000+)",
-    "barca (IN 5000+)",
-    "antony (IN 200+)",
-    "aman gandhi (IN 200+)",
-    "নীতিশ কুমার (IN 500+)"
+    "barca vs (IN 1000+)",
+    "valentín gómez (IN 500+)"
   ],
   "items": [
+    {
+      "id": "14bd807c54",
+      "key": "decider-draw-india-indie-rain-serie-t20-washe-west",
+      "headline": "India, West Indies draw T20 series after rain washes out decider",
+      "summary": "https://www.bcci.tv/news/article/MEDIA ADVISORY October 16, 2026 India’s ODI and Test squads for New Zealand tour announced The Men’s Selection Committee has announced India’s ODI and Test squa",
+      "sources": [
+        "The New Indian Express",
+        "The Indian Express",
+        "The Economic Times",
+        "Olympics",
+        "The Tribune",
+        "The Times of India",
+        "GazetteXtra",
+        "Cricbuzz",
+        "Cricket World",
+        "The Hindu"
+      ],
+      "article_urls": [
+        "https://www.cricinfo.com/story/prasidh-krishna-rishabh-pant-jasprit-bumrah-in-india-squad-for-new-zealand-test-series-1558772",
+        "https://www.bcci.tv/news/article/indias-odi-and-test-squads-for-new-zealand-tour-announced",
+        "https://economictimes.indiatimes.com/news/sports/cricket/india-west-indies-draw-t20-series-after-rain-washes-out-decider/articleshow/135017941.cms?from=mdr",
+        "https://www.cricbuzz.com/cricket-news/140543/iyer-to-lead-in-last-two-new-zealand-odis-kushagra-earns-maiden-call-up-cricbuzzcom",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ09xMjhYZ3MxdE43aUJ3WkFiTDlCemlSSFVRNkxEYUlUMU9jQ2lfanF4cDhTOUs1R2dRYXF6TGFOSjNWa3Z4RHd1cmxFcjhZZ3ZTaFd5c2lNZXh3QmJqTl9XeXVVR1dYVkJicTBLX2ptUHlTcUVWS0hfNGtwUDF0Nk9BLWhWR1pzenpzVXRjS3BhTGV6eFBwa0NxakliMlRBb3FqbTdLN1NOUXRNaGM4SF9FSjZCTzJkT09Pb2liQdIBzAFBVV95cUxQcUxHVUdrcVFISGVFLW5xV0hNaEhDTWJYWlUyZFF3ZUtuV05zaWtNQkxjcU9vZU5ZeTJMVElnanVFd0pIbjZfM2otSWF4RVVRZTNWLVFsejdoNzFMal9rcFB2WW0yMHVsSXloTm1Qa2F2SV9PSzl6WklXa1ZobzdpM3dWRU02TzQtRHlYdkw1TnBGZG5iaExyeWw5dlkzMEtDNzVUN1BFWkYydGppNXAxUWZ5dHBBYnNvNi1nb1FkaW9yWGJUTGZsZHVfOFo?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHBSQXhpWlFReUFLVjYwS082Wk5sd0pNS2U0VFNqSjNiTFBDWUdZRXZsUVhMaUpZYXNlU25wcHNucm5HQTdNYi0tMnJoNU1WckRRd3hEVkZTWFN5cEpXZ19rT0M4ZXk4OWlrNU9hNWNCalBZT2lzM29fRms1dXFxTEZfTFhPOU95OGE5NnhwVlRTYm9aVE1qZTlwaTl3b1M2N3cxTVBIOWp4LWxEQXpRZmZqc3BRTHI3Q0HSAcABQVVfeXFMUFJJdlRDNVJ6cXB4ZldKTnlRM2c4cTFPaEZlNnVZWE1hdm9Hc0FlUDE4R3lRRXh0ZktBRzNXa2xqUEc1OUpZRU1zQ1VWclJ6bE5TVlhDbWpLMEdxdFY5a3VIMTNPZDFob05DcFZKSWtLLW5rdlpJN0RoZEVydWkxa2dLNDhNd2JlZHp2UzQ0T1k0NVhpT0E5MFVpcVJQZWs0QVlIWFllNlJoX3B5TzJRNTJvdEwzbjAtUXJsc0JYdXhK?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTZNN2ZrTURmYnJoSlowbmE1bjdhaTE3NE5aUmhCUWRNSnh3ZWtaemdtZjlHU0xqdHpTT0VvaFIxaG81R1J5NkpQUS1iZFVfcnNQcl92ZXM4cXVCdGpQdk5iQTFGR2RXcjk0anpnMElCZGJ0cG93RmI0RS0tbFhNMkVPWXFnazZ3V1liS3Qzc29QckpOQVNpT3RNbEl1dm9RZ3dDRmdpbzA3UWFuTVJjOHAtZjNpU2s1cHd0Vlp5T05JWHNjaVZvVTllNDFDMEtWdjZZ?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTnVUZUJOOEhrUGtLUkVUTjdsaHNSOTVaR015UDdYOXpFMjdyZU9ld1RLRmFZeEhlMGR0UXhmZ1U3NTRMVGJoSFhITGRzdFdEZTFoWm1iY0RxWktaRzdiRGRjNi1lNW5vUUpyamRXVFFacWtsR29ITGd6d3J4ZlBIOVpBUTI3T0V1VnZvOEtB?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T17:42:07Z",
+      "published_at_ist": "2026-10-17 23:12 IST",
+      "first_seen_utc": "2026-10-17T10:23:12Z",
+      "age_minutes": 4,
+      "trend_score": 33,
+      "rank_score": 1.2957,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [
+        "ind vs nz (IN 10000+)",
+        "india vs west indies (JP 1000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Rain plays spoilsport as India, West Indies share series honours",
+        "Washout in Bengaluru: Rain forces 2-2 series draw between India and West Indies",
+        "IND vs WI T20 2026: India vs West Indies series drawn 2-2 after rain washes out decider",
+        "Rain washes out series decider as India, West Indies share honours"
+      ],
+      "image_urls": [
+        "https://www.bcci.tv/cms/images/gtykgr9m2ngt/jwYhplY2tYMr4TdhJ5O07/8c6b17e30952c8326564d0cfadf8621f/WhatsApp_Image_2026-10-16_at_5.39.29_PM.jpeg",
+        "https://img.etimg.com/thumb/msid-135018126,width-1200,height-900,imgsize-142166,overlay-economictimes/articleshow.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgucmS83yEnd_oi_L34iyrjFQewMnYiW7_mYIH9gMCqm1GOPPQBiNZmgbyaVc",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuxv38q-4esHJkQ0yVVpIuvq0qQaNTxDXOER1MsrSrv5W9u9pLr1YXswItNg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShya8z2RDoDs3y0bZ5SKhUkuVG_bur3QEUqhlLDiaS0idNxoQAMF8QnET6xU8"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
     {
       "id": "c753b85c6a",
       "key": "debut-dedicated-emotional-harry-liam-payne-song-style",
@@ -64,11 +134,11 @@
         "BBC",
         "Page Six",
         "Yahoo",
-        "Rolling Stone",
+        "E! News",
         "Billboard",
-        "The Mirror",
-        "Us Weekly",
-        "https://www.birmingham-now.co.uk/"
+        "Rolling Stone",
+        "https://www.birmingham-now.co.uk/",
+        "The Business Standard"
       ],
       "article_urls": [
         "https://www.bbc.com/news/articles/c34g180knv91o",
@@ -77,15 +147,15 @@
         "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TaEtLVm1jaS1OajNmQ2xDdTFSUmZySHp1endnd3JBRkRheVRhMm9HLUhRV0lSOWNOQklPY0dEYTZubjdPU0VSZVFnWVpucFg3T3BwdlpxUm12NUU?oc=5",
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXNEcUhjU3RjdXMtNWJqQ09BZjdFRWpxZ2ZLTFo2QzBuMlN1MXdNZk12TXZyVXkwX3FrYUpvRnlQU2RmRlZOOXpfM2NGbzkxaE1nQnNGYUV2UTM3RW0wS2g3TGI5NlhxWC1CZGVCMHZtT0VRbDVaamhEYXd1ZVZJRVJ4S2VhRDVhdGpZaF9RYnRvOV81ZTlXT3k4b1N1ZU9WVUpiZVJEV3JvRUF1Sl9hWQ?oc=5",
         "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTWZNc0ROYmZCcFpWMWRWZFQxRHA1Q2hXSkpmNHpzeFFlNnlrcXNBaE9UTGdQOHFJWG1qQ1B4WUZ2ZlVDTWFKcGJUT1VLSzhZaU5qaTFzOTF4ak5JNVoxdTFUNkdvUllXVHZmZ3BZX2RKS01rejU4bk4zQjVSRU1OZ1lLYmN4Ny11bUlwM1p3V05pOWJjeFNNdGZaaDlnSWx1bXJLWllHbw?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWjF0VGVBcWN5VEo3RV9lbU10WlJoNjc1YlE3NWpPWDlPcGNGMklLaElnUkNUTVg0XzY0SUN3RVhVakwwNVJRT3pWTzZxaEY2OUR6MjJCSW56ZFV5TmpfQnRTbk9LWFJuRFp0REtGdlZ3MFhpUWdCNWt5VkNrb0hyMWd4MzFXREVwMU93ZE9CclJTSTVjRkFqTENB?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQclpvYjBqWV9iRFJ3cksyd2JzXzdwOU5pcmZpd1F3RDRVdjdpallEYTF2NGMyTEx5VWFkMVNqNnNXZllFZW5YRWQzZHpJSjFKYVBHYjkxU2VkRnZWYUx0akRSV3JBWjRtQmpVV3JRSVlXREJHMFkwd0M0eGVrZEVkOHh1N1g5TjlkaXhDdGxMaTdYSXdGdFBfOUE3cWtXa1NlTTFuRks4VlU0UQ?oc=5",
         "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWEtzRUF2QWwwdEk0elBscVdMSVZTLWgxU0M4Y19ZXzRiSEFaT0cwTnp6X3YyWHphNjltekNMNWpyTkVSNzQwOUplVllVTVU5dTI3VjRtRzFvQjJQak1kdmpJV1VGOXYxYkdzcHVjU0tISndoV0d0ZDNyM2hSTjR1SG54X2lfMzUwRi1jWEZ6NUdWR1AxT2dKTXl0b1M?oc=5"
       ],
       "published_at_utc": "2026-10-17T16:32:00Z",
       "published_at_ist": "2026-10-17 22:02 IST",
-      "first_seen_utc": "2026-10-17T11:57:19Z",
-      "age_minutes": 53,
-      "trend_score": 16,
-      "rank_score": 1.0096,
+      "first_seen_utc": "2026-10-17T11:53:53Z",
+      "age_minutes": 74,
+      "trend_score": 17,
+      "rank_score": 1.0013,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -107,7 +177,8 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Harry Styles performs new song in memory of former bandmate Liam Payne"
+        "Harry Styles performs new song in memory of former bandmate Liam Payne",
+        "Harry Styles debuts song in Liam Payne's tribute"
       ],
       "image_urls": [
         "https://ichef.bbci.co.uk/news/1024/branded_news/b676/live/bf0b0de0-ca16-11f1-b9a0-3bfd30e9aa03.jpg",
@@ -121,39 +192,158 @@
       "youtube_videos": []
     },
     {
-      "id": "1f4d1a9289",
-      "key": "against-asked-bat-bhuvneshwar-comeback-four-india-indie-kumar-make-t20i-west",
-      "headline": "Bhuvneshwar Kumar makes T20I comeback after four years as India asked to bat first against West Indies",
-      "summary": "https://www.aljazeera.com/sports/liveblog/2026/10/17/Follow updates, including toss and team news, from our live text commentary stream of the cricket series decider.",
+      "id": "1eb71667ae",
+      "key": "beyonc-break-bruno-celebrate-daughter-housing-houston-mars-newsbit-record-return-spotify",
+      "headline": "NewsBits: Beyoncé’s Daughters Celebrate Houston Housing, Bruno Mars Breaks Spotify Record, Verzuz Returns",
+      "summary": "https://eurweb.com/beyonce-blue-ivy-rumi/Beyoncé's daughters join a Houston housing celebration, Bruno Mars hits a Spotify milestone, and Carl Thomas faces Case in Verzuz.",
       "sources": [
-        "The Times of India"
+        "EURweb"
       ],
       "article_urls": [
-        "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-5th-t20i-1529234/ball-by-ball-commentary",
-        "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international",
-        "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/bhuvneshwar-kumar-makes-t20i-comeback-after-four-years-as-india-asked-to-bat-first-against-west-indies/articleshow/135016367.cms",
-        "https://www.bhaskarenglish.in/sports/cricket/news/ind-vs-wi-5th-t20-live-score-update-shreyas-iyer-abhishek-sharma-ishan-sharma-chinnaswamy-stadium-139383498.html",
-        "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSTI1OFp0QTNZQzZKandYQ0VIN0thV3dWc29RNmRucWVscTBrWUk3bXdwYkhCSWtvOEx1eVBQLThkRU5BYWJybEdGbTZXR280bENPZTVqS1hyMmFzS2lKNEZhVGt4UjB2SFJUcE1kd3BvX1JlRUJPemFqckFWbHFrc1JpNnEzVGw3ZFo2TWlVeENmZERqSVZLS04tRFJPanN0ZmRpQ01oUXduT0lLTDZVOUtITjlMUkVHdVVZdjlfTFZZYmpmZGpLYzljRzVXdEk0YVR4SjZUVWt4amh2cnNvdUxEUW81di1lY05MWkxXdmtpaGNiM3lteFl5eTVkbWVpWkpCOWF5aE1YMHAycE5Xa2FXNFlna094MmJTZ1RyVDl6NjRJdFlB0gGsAkFVX3lxTE02VTM2UC14QVVBaFpqN2F2TUM5Vm5PR24zaWxlZEg5OURVLTg3VUExcTB3elJHREJNSGpGdXpXazc2MUVUNFRKUkotTDIwSDVTOFRkY1VKaU9oOW8xWGFxZFRRU3ZweXdicUVkdkV4S01pSWtyWno5UVp3NG56TEFTQUhqalF4V1YtOEJfcnVzeWRiRzhhRmhmUEpjZzNmWW4wMnExQXhJSmI5NktEc3Rxb1ZNeHNiSkN3dWhsb2l5dGFnYlJfdGM1ODM5THpUbDBVdmp1OFNnLWdRQzRrNFNfUldHLWxONHdNT0RRMER3dDdGY19CR1lIak5TdF9yYmtNTmRNdFFxY2k3MnNNVGhFZEFZT1JldktjODhPLTFxaEJUQzZwMFAtOERHQQ?oc=5"
+        "https://eurweb.com/beyonce-blue-ivy-rumi/",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96VUZheFRfdnJidml3MUE4MmszR2lhdFYzR3lTYXI2NDhFTFMzVkFKZkNWMTRrV1NaR3BWdk9INTd1MDVjY3BJc0diRlBKakRuMUZz?oc=5"
       ],
-      "published_at_utc": "2026-10-17T15:40:00Z",
-      "published_at_ist": "2026-10-17 21:10 IST",
-      "first_seen_utc": "2026-10-17T15:40:00Z",
-      "age_minutes": 105,
-      "trend_score": 10,
-      "rank_score": 0.9705,
+      "published_at_utc": "2026-10-17T17:16:07Z",
+      "published_at_ist": "2026-10-17 22:46 IST",
+      "first_seen_utc": "2026-10-17T17:16:07Z",
+      "age_minutes": 30,
+      "trend_score": 11,
+      "rank_score": 0.973,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Beyonce"
+      ],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://eurweb.com/wp-content/uploads/2026/10/Beyonce-Rumi-Blue-Ivy-via-YouTube-screenshot1.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/kYZtLHFrqtk?feature=oembed",
+        "https://www.youtube.com/embed/lY5V4hSLWY8?feature=oembed",
+        "https://www.youtube.com/embed/kYZtLHFrqtk",
+        "https://www.youtube.com/embed/lY5V4hSLWY8"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "0c894a0c92",
+      "key": "expectation-max-nordschleife-pace-portimao-race-temper-verstappen",
+      "headline": "Max Verstappen tempers expectations in Portimao GT race: 'We had more pace at the Nordschleife''",
+      "summary": "https://www.gpblog.com/en/general/Max Verstappen has tempered expectations surrounding a recovery drive at the GT World Challenge Europe finale in Portimao.",
+      "sources": [
+        "GPblog",
+        "PlanetF1",
+        "RacingNews365",
+        "Athlon Sports",
+        "Motorsport.com",
+        "https://www.autohebdof1.com/",
+        "GPFans",
+        "ESPN"
+      ],
+      "article_urls": [
+        "https://www.gpblog.com/en/general/max-verstappen-tempers-expectations-in-portugal-we-had-more-pace-at-the-nordschleife",
+        "https://www.planetf1.com/news/live-stream-max-verstappen-portimao-gt-world-challenge",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTUVyWHFoNDI1RnRVNDFka2RRT2ZBelNwWjdpcUZnZDRfc2JUaHB0MW50UlNzeGk0RkFzSUh6akk2alNQWEhEYWFNZzhFTkZXcEdyWVA0RnFycTJzMVQxUlpMLVlKc1dpQU1kdElfOS1wTjlsYmh1Q2cyenhBVHloVkJYNTRiZFk0UWpZeHNOT0hlcDBGRzBLZVMxVi1ZS1pWSlZkT21ETzFfVjlXMXAycV9lWlF4cjdSclE?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTRfaTJBX3ctTXhOTFZKdENqNklQSjFoMVZ6dktBTWM5MUVDX1VBSVI3aGpkamIzSFRnYTk0TmJwaWdZcE11Z1JhUXBILTdhV0NsSTZCYWNxT2RMa1hweEVIUExBRlpZZDlrVnBLVWd6VlNiWTkwYVQ1NndxOUhJcjBlTmdfU19tVXQ1Mg?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPanpQTXVzWnlpZldydjN2YlpEMXNJOTJ5cDhmQTJRZWNTbmxBV1p6aURQWTM4RGY0SVBEN1ZUOGh4VGlZWkRtUFpLS2NFN0kyd24zUFE0MGtMaDdNMU5Td2NXNEFNZDZCU0RkTmZJX004V1hPV0JoNmMxZHFUOFlVaUVESTZwNDBvN1BWMEhTdWZyRnBUUmRkT0p6STVHaF9RQTRCV2pCMlk2cXczbVdlYzQtcFR1QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcWkyT1Z6N1hCTWhLa3JqOG5faUxrR3QwOXM0SS1aellmSXdNSHdFX2xkUFhNZlAtODR6WjZrY1ZmWXVMQkh2YUtDRk1scGZFQkVXbUp3dmpqalZDZE5kLUJOWGF5Z1RzNzdId1Y4cDRVOWQtTW9mbzd5TTVSVHRlOUxkVVZBbVY3NTJ4TktoODBLRW1heGxzV2FyTE1NSUJaQUJPVXdlNTR3UEd2azRBZjRTRUIxdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSS1XNElFSGVLS1FqVFladUZReERRVWc0Y0ctSkk3eVY3dE9uY01nMUcxSUUwR1lEalFiVTFYaDR3eVFHcDloSjRfSlJjd3owZ3h2SDczQ1RQTVZ4OW82cHpXNXNCZEc5eW04amtJclhMV2lJSU5kSmszZWEtSkVRaXlfbGVXLWZHeFpycHVyNmNvcG43b0xqOXota0hSVW92Qmo1ak9taUJpdEU?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcENEcTE1SGotV0g4QldXeEtBOXhZdGtLYlRCOVNvU3ZmQUFGRE14OS04cnppN3dIUS1Ycnd4ZVo3Y2pYNXhndWtGd3JlWm8yby10RjRZTDJGcnVpOU9qeWs3VHV5UFVHVGdTTWQta3NjbTVIZ0prRmpkSFJWdjB4RzYxWjM5Znc3WnRmcmZTekdKX1k1a0tMT2g5WkpPbkhGSVBDWE9zbkk?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T16:36:00Z",
+      "published_at_ist": "2026-10-17 22:06 IST",
+      "first_seen_utc": "2026-10-17T10:03:38Z",
+      "age_minutes": 70,
+      "trend_score": 13,
+      "rank_score": 0.9643,
       "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Max Verstappen"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "LIVE: Watch Max Verstappen race at Portimao GT World Challenge",
+        "LIVEBLOG | Verstappen Racing compete at GT World Challenge Portimao",
+        "Verstappen Racing gain another extra place in Portimao GT race: Starting Grid confirmed",
+        "LIVE | Watch Verstappen take on the GT World Challenge Europe race at Portimao"
+      ],
+      "image_urls": [
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-10%2Fmax-verstappen-gt3-portimao.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-10/max-verstappen-gt3-portimao.jpg@webp",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F17144629%2Fmax-verstappen-gt-world-challenge-live-stream.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F17144629%2Fmax-verstappen-gt-world-challenge-live-stream-1320x742.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/uAR3tUAxdDw?si=gQCzZpCDVN1UN4Xc"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "2f88c4e6a6",
+      "key": "1425-5th-bhuvneshwar-days-ind-india-kumar-make-named-pacer-playing-return",
+      "headline": "IND vs WI: Bhuvneshwar Kumar named in playing XI for 5th T20I as pacer makes India return after 1425 days",
+      "summary": "https://www.bcci.tv/news/article/MEDIA ADVISORY October 16, 2026 India’s ODI and Test squads for New Zealand tour announced The Men’s Selection Committee has announced India’s ODI and Test squa",
+      "sources": [
+        "Livemint"
+      ],
+      "article_urls": [
+        "https://www.cricinfo.com/story/prasidh-krishna-rishabh-pant-jasprit-bumrah-in-india-squad-for-new-zealand-test-series-1558772",
+        "https://www.bcci.tv/news/article/indias-odi-and-test-squads-for-new-zealand-tour-announced",
+        "https://www.livemint.com/sports/cricket-news/ind-vs-wi-bhuvneshwar-kumar-named-in-playing-xi-for-5th-t20i-as-pacer-makes-india-return-after-1425-days-11792252259498.html",
+        "https://www.cricbuzz.com/cricket-news/140543/iyer-to-lead-in-last-two-new-zealand-odis-kushagra-earns-maiden-call-up-cricbuzzcom",
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT2NYYXU4c2R0NU1RRTVBeF84ekQtX3pRNXY5ekE2QmhyMzZrdExwd0tPcUQyTUNEdElYRkRNN3VsQUpGVFZCeXBqRTRYeER6dDkxalZCckFyaDBwdXFhSWh3cGJsQnlsdjBRMnA2Mncxbk1WNkVDZFFPVG1laFZUMnJvT3VzZGFmakp6cGpVREtzU3dHVjV5Z3hCQ3g0RmVwUXRoZjdHWW5BWnpOU0MzZFZyZmo1bFQ1aVlhazhJc2NzS0JRVUxjcno5TnhlWnVicTI0MWZkUVRSZ0lkRC1QRkhsTUhmdnA5MnUxOC1UdjhyZW90bEdOV1JNdXVOZ9IBgwJBVV95cUxPR3NhWnJIZnpRcXc3OEdNRXp5d0loM3J0S25KVUZkMEpFaWt3dmJiTGlyOE9laERFcTVUb1p6MjNlbUlsT0MtZjV3d3MwUW1Cdk1ZODNtLWIxUS1uVE9CNExGU3BfcmNuV0Y0aHh3MTl6a1FvaFNaWE1NR1F6Yi1pUTBmSjlFUEhRdmRPTkNPRzFCRXE4TEQ5TEtuZE9NbFktbmtTY0dlMDdtdjJsbkkyTFFvUHJJMmt4eXZaMXp1Tjkwc2xaV2ZwTDREbVVNV1Jkd29hMGlMblRGVW90ZWhacm9kOWpFdmdFMEd3aUZta3FBREFRenk1T0lCQUthZEJITHBB?oc=5",
+        "https://news.google.com/rss/articles/CBMigwJBVV95cUxPR3NhWnJIZnpRcXc3OEdNRXp5d0loM3J0S25KVUZkMEpFaWt3dmJiTGlyOE9laERFcTVUb1p6MjNlbUlsT0MtZjV3d3MwUW1Cdk1ZODNtLWIxUS1uVE9CNExGU3BfcmNuV0Y0aHh3MTl6a1FvaFNaWE1NR1F6Yi1pUTBmSjlFUEhRdmRPTkNPRzFCRXE4TEQ5TEtuZE9NbFktbmtTY0dlMDdtdjJsbkkyTFFvUHJJMmt4eXZaMXp1Tjkwc2xaV2ZwTDREbVVNV1Jkd29hMGlMblRGVW90ZWhacm9kOWpFdmdFMEd3aUZta3FBREFRenk1T0lCQUthZEJITHBB0gGDAkFVX3lxTE9Hc2FackhmelFxdzc4R01Fenl3SWgzcnRLbkpVRmQwSkVpa3d2YmJMaXI4T2VoREVxNVRvWnoyM2VtSWxPQy1mNXd3czBRbUJ2TVk4M20tYjFRLW5UT0I0TEZTcF9yY25XRjRoeHcxOXprUW9oU1pYTU1HUXpiLWlRMGZKOUVQSFF2ZE9OQ09HMUJFcThMRDlMS25kT01sWS1ua1NjR2UwN212MmxuSTJMUW9Qckkya3h5dloxenVOOTBzbFpXZnBMNERtVU1XUmR3b2EwaUxuVEZVb3RlaFpyb2Q5akV2Z0UwR3dpRm1rcUFEQVF6eTVPSUJBS2FkQkhMcEE?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T16:02:01Z",
+      "published_at_ist": "2026-10-17 21:32 IST",
+      "first_seen_utc": "2026-10-17T16:02:01Z",
+      "age_minutes": 104,
+      "trend_score": 9,
+      "rank_score": 0.9518,
+      "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN"
+        "IN",
+        "US"
       ],
       "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
+      "priority_queries": [],
       "google_trends": [
-        "india vs west indies (JP 500+)"
+        "ind vs nz (IN 10000+)",
+        "india vs west indies (JP 1000+)"
       ],
       "india_topic": false,
       "global_pop": false,
@@ -161,14 +351,59 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261017__D3L9987__v1__MidRes__CricketIndWisT20-1792255087.jpg?resize=1200%2C630",
-        "https://static.toiimg.com/thumb/msid-135016533,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3bh7Dw_1xBmKzR8bhNfRkbLc-_GJCU5vbsZhHhInztgU0pLkLzO583tKjsc8",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTudGmqB7FzU86FJUVO04RaVcv23jf0kTdfxZO0kqjrztAdc0sCw31WRjSYtPg",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQGCaZoIe6UdyACyWwh2h908_X6gTGuxNsJANYQGMxiKG6QaoJDWrArdjfPBVo"
+        "https://www.bcci.tv/cms/images/gtykgr9m2ngt/jwYhplY2tYMr4TdhJ5O07/8c6b17e30952c8326564d0cfadf8621f/WhatsApp_Image_2026-10-16_at_5.39.29_PM.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgucmS83yEnd_oi_L34iyrjFQewMnYiW7_mYIH9gMCqm1GOPPQBiNZmgbyaVc",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThuxv38q-4esHJkQ0yVVpIuvq0qQaNTxDXOER1MsrSrv5W9u9pLr1YXswItNg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcShya8z2RDoDs3y0bZ5SKhUkuVG_bur3QEUqhlLDiaS0idNxoQAMF8QnET6xU8"
       ],
       "video_urls": [],
       "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "504fb6e5dd",
+      "key": "daughter-family-gaga-keeping-lady-life-mostly-private-rose-singing-source-vie",
+      "headline": "Lady Gaga Is Singing ‘La Vie en Rose’ to Her Daughter While Keeping Family Life Mostly Private, Source Says",
+      "summary": "https://www.yahoo.com/entertainment/celebrity/articles/Lady Gaga and her fiancé, Michael Polansky, have been sharing photographs and videos of their daughter, Rose, with close friends and family, an unnamed source ... Read More",
+      "sources": [
+        "Yahoo"
+      ],
+      "article_urls": [
+        "https://www.yahoo.com/entertainment/celebrity/articles/lady-gaga-singing-la-vie-173035357.html",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeDk1cFJvY1lKRmdUdFFaOGZxeFVNcEt4TXI3RTBRSFkxeVp5dDVDNDdla0ZRMnp6NVVsU2hHbTREOEdybFZadHNhUnRDc1VOcHJ6STlJN1FoVFgyeTRodTVRbThUeExJVUt6MmJabi1kMGpSVUsyZmd6NHh0YWxQWHRaYVhJbzVEV3hmQ1JlUUNTN0tDb05YY09B?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T17:30:35Z",
+      "published_at_ist": "2026-10-17 23:00 IST",
+      "first_seen_utc": "2026-10-17T17:30:35Z",
+      "age_minutes": 15,
+      "trend_score": 8,
+      "rank_score": 0.9394,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Lady Gaga"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/d66e705e61c2fa6ae96548cc72fc96265aed537936f1a1e109d4f14e02d9c88d/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Ff6fdd4a93292365d7b3ca5d289d220d0.jpg",
+        "https://s.yimg.com/lo/mysterio/api/28b4f39c90805db18407940c86f2f92a97cde6d4cb55b5bac180524080154dda/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fwealth_of_geeks_188%2Ff6fdd4a93292365d7b3ca5d289d220d0.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/kYGA1RDs5Hk?si=CR6p45vtYtunIcMI"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -178,32 +413,32 @@
       "summary": "https://www.cbssports.com/ufc/event/31001596/ufc-fight-night-buckley-vs-malott-october-17-2026/Get full fight coverage of UFC Fight Night: Buckley vs. Malott, including main card and prelims, on CBS Sports.",
       "sources": [
         "Hard Rock Bet",
+        "Robinhood",
         "MMA Mania",
         "Sports Illustrated",
         "CBS Sports",
-        "Robinhood",
         "Universidad de Córdoba (UCO)",
-        "UFC.com",
         "Yahoo Sports",
         "4for4",
-        "ESPN"
+        "ESPN",
+        "New York Post"
       ],
       "article_urls": [
         "https://www.cbssports.com/ufc/event/31001596/ufc-fight-night-buckley-vs-malott-october-17-2026/",
         "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWEyRmxxdEVicXhsRGlSaVItUUFVekpZS214UkxhTlRmWUpodGtsMUJRdnBmMzc2TUI1WFNXWkktMzlseXVQbUhOc2c5TWFBaXNYeFYybUNUbEtiNGxZcXpSNHc3bVM4RUU4RExKRUFpSkxzR0lCekM5ZTZadXluVm9UTGZoaVpOUXVXd054SnY?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0dfNEJ3d2llQ0pUbkM1MFBCN29vdFRjMVROWUJ2SHBVRzE0UlAzWXJRYzNSSS04bEcyVmwxOEROUFFwdWVoUGw1cDVzYTdvUDFNZFR6LUVhNWRLZi1kdWRlZ3BURmlJZzludHkyQ1hiaFItZ0REWjZ1QjIwdGFFbUk2Znhjb2dab2NXd09VOURGaVphVkRSWGxUQ0x2ZVB1Q3E3SFZ1Z0N5dEVNWXUyTXRR?oc=5",
         "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZy1INEQ4a2dJRU5GQUE1czh5OVY2Y3l5dHN5S0pxTDVvMUtocnhvdDhjbXZWT2gtRWNhUEluVjNodDlKQWRnazkyMTNPVnpjcjFvQjhSRkV0bEpOZWJKUEQ1WGpMYlphZ2ZWaDNLNHprWktZbGJZdk5nWlVVU1RBa0d0TlNuRzhBbXI3T0loSlJqWXRMODFHdzhOUmEzUWJranpnWWk4VW55YW9SY3JmN1BEbzNWX1ZIRGRWdkRVR3o?oc=5",
         "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWjdKbERqNm5kMzFhb0JSRlRhY3FST05OUExDYWJMYWg2LWhHQ3VpNkthSEpZV3lablJIX19tZlFBbWpQX0hXdHVKbUVUQXVWSUF5NVdHUXJiQWRTbm9VcERlTVNiUkU1b1FfNzFfQTlVME9DVmJQT2Q4THZxRS1SV3dvT0Jqd0x4SEY2elpBWjJNUWlYWE5Yc01acHRudmZpSHNXcndHMTlWWUZYbnlVQThJcDg?oc=5",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEZ6YU1uWUowM3FORC1zaFZHVnRMcjdEWHh0YXduMTRYcUN2YkM1ZmxadTRtRkNfNzN2UDcybDY5NEtxMklVNFFKbG1fdjlMLU90dEk1RlByQ2VyM2lCN3pYdE9rV20wQTYyYzdnQXUwMmdUTFcwWnNiaVU0NHFkbVFjTkdjSUxyZmZnem45UFFSZERfM0ppbmcwalJ4a2hqQURZ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZmpMNVJMdGtUOFQ2QXljc2FQb2ZYNnBRaTdGMFR0TnZZMW5Ka3hyTDVYNHZIaUVzT1V3TG95eE5wYkRJSDRkWi1JdFVCZ3FPWXExeEU1UzVvV2Z0UElhQ0QxRWI3aG5pYkZuQmFZY2xpcUlDaFpMTVJRQ0tPakk1RkYzYkg5aDJkSEFwYVNtbDk2Y19GdDN5cTJ5MEhLMERTRDJDNHRyQmxGWGVlbEpjQk1R?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQ2puRm4xOUdYN011Uzd3ellzZEc2VkZicnZFLXJtWGhpUnVHY1E4SjZUcDVXdW43MmFhNlQya3ZsT3c2a21RRTRvNGYzZXNQVWxtZUU4ekQ3YW9vWlFLdU5SMHNGN1hCNVR4RDQ5ZnhHbXBveUF2dzNyTnNNRXJWbHFQbFh0R2V5OXd1ZTIyYW1Ja2VWeDd1VHdWRzZWY2RXaTlVV1FYTTg?oc=5",
         "https://news.google.com/rss/articles/CBMimwFBVV95cUxQckN6UVplS3JUOWNCdDZDT0h1OHF6alVGSGt0TUNETTBSd3pYYlpRcTJwcE5KUHg4TFk1QkRPTl9wbm9WMF9abWlVUHNIaS0yLTBfUDMtSDAtZ1hzNzlwTW5zeGZFOTdVTXBCYnRsYWFZMHNzYmhVV01FcENWSW9LY0FTbVZPcThQbWplckxraVE3dmVUMklXWWh1NA?oc=5",
         "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFZIN1JETWx1c3U3cW5YclV0SjQ4Tm53RzNGRW40RmtkSU1ZRzE1OFpWZHliQVlJVkViOTJPV0V2Y3M4YmNkVVBSem1CU0pBcnNuMnNzSXJuUmVKV2NleVJxSng0TFA4RzdtMUlBeFdCNzh4WUs4VzhueG40SERlamw0MUpUTWRHVlE1X3RiQ1lta0FIOWxvV09mWk5CRVZ2M1l1QnhSM0JsN19vTXE0T213bWdTVzFrNElNakN1SU5OVV9IR2stcGh3YzRtb0pWWlQ4c09hdHE0MzBLbUtFemFENGlNM0tDcjdCSTBDSEVFekd6WjlWeWdyY19QbWQ0NEw1V2ZETEFGVDhiazREMWhXZTdrcnJkWlJYa3ZZVEdacE9rMHZUbGRrelRLWUNwWGlaOFczaXNCU2thMmlsN0RDWG9qZUpvMFpYdFJoajVwTm5SSGF3em0tNkF6WFdwbEE?oc=5"
       ],
       "published_at_utc": "2026-10-17T17:00:00Z",
       "published_at_ist": "2026-10-17 22:30 IST",
-      "first_seen_utc": "2026-10-17T09:00:00Z",
-      "age_minutes": 25,
-      "trend_score": 23,
-      "rank_score": 0.9382,
+      "first_seen_utc": "2026-10-17T12:00:01Z",
+      "age_minutes": 46,
+      "trend_score": 19,
+      "rank_score": 0.8915,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -221,9 +456,9 @@
       "us_league": false,
       "other_headlines": [
         "UFC Fight Night: Buckley vs. Malott Odds, Picks & Predictions",
+        "October 17, 2026: UFC Fight Night: Mandel Nallo vs Nate Landwehr MMA Prediction Market",
         "Malott Vs. Buckley Odds, Full Fight Preview & Prediction",
-        "UFC Edmonton: Free Fight Live Stream Results & Highlights for Buckley vs. Malott",
-        "UFC Fight Night predictions -- Joaquin Buckley vs. Mike Malott: Fight card, odds and expert picks for Edmonton"
+        "UFC Edmonton: Free Fight Live Stream Results & Highlights for Buckley vs. Malott"
       ],
       "image_urls": [
         "https://sports.cbsimg.net/images/ufc/event/posters/31001596.jpeg?crop=16:9,offset-x50,offset-y0&width=1280&quality=50"
@@ -235,174 +470,19 @@
       "youtube_videos": []
     },
     {
-      "id": "8115883060",
-      "key": "ayao-camara-haas-komatsu-rafael-reveal-signed",
-      "headline": "Ayao Komatsu Reveals Why Haas Signed Rafael Camara for 2027",
-      "summary": "https://roundtable.io/sports/f1/news/The Haas boss reveals that the Brazilian impressed at the Portimao test for his adaptability and his maturity under pressure.",
-      "sources": [
-        "RacingNews365",
-        "MotorBiscuit",
-        "roundtable.io",
-        "Yahoo Sports"
-      ],
-      "article_urls": [
-        "https://roundtable.io/sports/f1/news/haas-ayao-komatsu-speaks-about-rafael-camara-we-see-enormous-potential",
-        "https://racingnews365.com/rafael-camara-reveals-f1-race-number-after-haas-signing-announcement",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3NrSFpTZDdZYUMySGFZMDdBdC1rMzZ1S3N1VnRzMDNONkkwUVlUaEZYN041V1loaUVxQ0owcTMtYXVkX3MzaXBWR2pvUnJCT2FMOGtXWHNsX3kwQUhNeXJMSkplNlpVUlBhY2c2bmNqVGwwVnNWNWpLVk94LW5MRWV1cjBuZU9NZTlnamlyQzZZNDdIRllBeERn?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnA5dFpEZlMzZldWMEU0QnA0WHhmdFhSRmFXclNLbDBtUFVoenlWajlrUHhUUlFxVC1DeDhVUEtnc2RKUkNUZW9rYnpMWVJOdGcxSncyWVp6UEViZ055LVVwanVBeXRfdG5hdzM0YjRqUDBEWHBzSklJTXRuTHJIenpMT3FIV1E0UTNnUTJEdEJ1YTY0bnc4?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZmxmQndXVVRpa0VEZFhjbkJEaDhVNmFMX2psN1RpU3dRT1VrSklkX2pPQVJNa3Vaem1pT3V5b3oxekpwZ3dPQnZ5eDFwVk1MU0lxcC1KX1ctY3dqVmZfQ1RjT05ZdGFuTU5MTE1lb1NpR3pBRTFEN1gwRmo4VE12Vkx0eHM5QTRnS3VQYnE5aVBmN1FCR1ZqaXFpV292eldCakNTcWwybEI3dkE?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDNzQUVkT2c2aVZMeVNSY3NCdWZ4RkRaWHB4T0tfLU93VWdyTG5CUk55UDFyaHBvWTlsQVlPQktEZzVxTjNDOXpvakpHcVU4OU9taVZCM24tZmEybG5yMjA1b0E0VnNUSnQ5WXFxR29hQnBGakU1QWVkb2xiTTc5SzFpbUU?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T17:00:00Z",
-      "published_at_ist": "2026-10-17 22:30 IST",
-      "first_seen_utc": "2026-10-17T14:08:10Z",
-      "age_minutes": 25,
-      "trend_score": 14,
-      "rank_score": 0.8629,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Rafael Camara reveals F1 race number after Haas signing announcement",
-        "Rafael Camara Reveals Emotional Moment He Secured Haas F1 Seat"
-      ],
-      "image_urls": [
-        "https://deweb-519a7.b-cdn.net/post-images/97a081ef-383e-4934-b77c-bc241590a921.jpeg",
-        "https://cdn.racingnews365.com/2026/Formula-2/Camara_2026-10-15-191524_cfth.jpg?v=1792091725&width=1800&height=945&quality=75&crop=3780%2C1985%2C0%2C267"
-      ],
-      "video_urls": [
-        "https://youtu.be/jZ0ZtWqEu2s"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "87b9b040e8",
-      "key": "actor-bollywood-imran-india-issued-khan-leave-notice",
-      "headline": "Bollywood Actor Imran Khan Issued Notice to Leave India",
-      "summary": "https://www.devdiscourse.com/article/entertainment/Read more about Actor Imran Khan moves Bombay High Court to challenge 'leave India' notice by FRRO on Devdiscourse.",
-      "sources": [
-        "Press Trust of India",
-        "Devdiscourse",
-        "NDTV",
-        "The Times of India",
-        "The Hindu",
-        "Telegraph India",
-        "Live Law",
-        "Hindustan Times",
-        "Rediff",
-        "Ratopati"
-      ],
-      "article_urls": [
-        "https://english.ratopati.com/story/84043/imran-khans-comeback-film-in-trouble-after-notice-to-leave-india",
-        "https://www.ptinews.com/story/ENTERTAINMENT/actor-imran-khan-moves-hc-against-order-to-leave-country-frro-issues-him-show-cause-notice/4175682",
-        "https://www.devdiscourse.com/article/entertainment/3994221-actor-imran-khan-moves-bombay-high-court-to-challenge-leave-india-notice-by-frro?amp",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRGxlV1NlcjdnRWJtTFpod1Q1alJwc3V0S0JoR0JLSkN1bG8tLUZYcG4wZ3psZ0ZBb0tNeDR3NFlDNGlteFV0TGZfbWc2SEU1VWhtTzR1WUhpb3Y1UGNVNXVjXzVoNkdfbjE0YTRVRlZ2UEFCNjJXNWJoQ2VJWHN4a0VudmdlakttRHNPMkYzc2JwdjdMQzNwR3YySFlSeExBbDNvdzRtZUNIYVozOW5DZHg3V2ZEaVg4NG1NV3o3bzQ0a3JqcEJiMkp1b2FvQVhfa29OTEJZY1QtUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUFRZa28xNDNhanRMNFdjdE5MSk41Nng3UkF2ZUF1RHJ3UGVKMmNhTTB6cTNwOHU3aGIxWTVrSVNYYXFaMGZER0JraHQ3YUdMUkRHZjZHSmkxZXJKdGhMWUxsQ1d1clFUbElVd0hDbk1rSERrRjdfZE1ZU3ptUVUxZkRhVS0xUE4xX3VZTXdfa1g1bHA3emtMWkoxXzdvdkJkQ3psN3RPa1ZhSlVfeEdocFV3eG11UmFpSWxXTm5rUmZsQlRVQmRlczB4Ty00TUNZV2paOUh5ZEhjaE3SAdsBQVVfeXFMUFBUWWtvMTQzYWp0TDRXY3ROTEpONTZ4N1JBdmVBdURyd1BlSjJjYU0wenEzcDh1N2hiMVk1a0lTWGFxWjBmREdCa2h0N2FHTFJER2Y2R0ppMWVySnRoTFlMbENXdXJRVGxJVXdIQ25Na0hEa0Y3X2RNWVN6bVFVMWZEYVUtMVBOMV91WU13X2tYNWxwN3prTFpKMV83b3ZCZEN6bDd0T2tWYUpVX3hHaHBVd3htdVJhaUlsV05ua1JmbEJUVUJkZXMweE8tNE1DWVdqWjlIeWRIY2hN?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY0g5NFBOVng3MlRhc2Fnbm9oU2F0SHdJYXgwVjN1NEtHenFXOEtlSmFucE54czUxcWMwMndRZzZCa2ZUcGRVSnBDY3pMYm9NcGEzN0hnTzBCdm9TdXotN29qZmVqZ3BiMmF2WU44N0V3QTBndzFFRS05TVpVT09mekVRYzRYN3RQWlJDNjZfM3pEaFh3U2VWVTNwSnNPa2FhR2tOMXpvZWZXTFNvUUdKWXhCblZ5a0M4S1o3QXoyMlZxdFg3c09zZFcxNy1WbnFmeVhGaVB1cmhvTnc?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZEJkWUZyVkR6RFVLS0g4dGZtTFJ2SWxlR1dPUVJDZkc3aUJVUEUtUHhjek5rQW9YWUI2T3pvc0k3QnlpeGF0TFBRakNBUU55TWFDZk1XOE1kMC1WQmttTEN0U2hqRzkwSV8zcC1mTmxtMExuNHNEZExsNWtYVldrQWUtSHZkQXU3cW13ZHFVNjNfekZCNVFWSUlzUHFoR1owQ3VUbEpOaDFLMVBDbDZVeldQY1cwY1IxSmc3eXgxWi0xSy1DcXBKT2p3dWVVVy1JUFVlcTNmU1JxSjBYZ0pvYXRzdWNuQldERXplbVktU2V1ekVMU3hOektqNlhSUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzIzaVdoeXdSMzZVZG9SMTAxU1czaWo2MXVVVWw4d1VhQUhSUmZiR3hoNVZKN25PNFVCT1kyNGdTSjJKOF9qZDZSOXplMlNvT0dIRXQtVnVQd0ZmSVVkRV82YWRoa2VYOG1fM19aUG1hRTltN3NyN3VEU2ZmQ0ZYeVNIc3VtekxzbWNkR0s2RUU4Xy1DLXRzeHJ0YlJ3RjdaaWltVWlCUjVUeVl0TDJxUVVuNWROanhZUGk1VWZQUkVtSVdy0gHLAUFVX3lxTE5GZ0NudnlMUGtMZ3JyYUpXeGZabHVWZlctS0V2aTJEeXhUUkpBMGFfV2lkSHA0eXdCMEt4a29pRV94UGpVUktfcEFTbUNFX3pFOFNyWXFpbW82dVUtVFl3czhxelBBb0MwRVE0YThSVEp2RVp4bnBzMDd6R1dQck1LRldreVdfWXpoMHRhRzBfSTUtNmFwSGI3cEtMaE5VV2tfWENWNWttZy1NRE5WQVpMZHRhNnFUTHpzZElHeGJyNTZmQ1R5OHJWbTlj?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T16:03:54Z",
-      "published_at_ist": "2026-10-17 21:33 IST",
-      "first_seen_utc": "2026-10-17T08:36:52Z",
-      "age_minutes": 81,
-      "trend_score": 19,
-      "rank_score": 0.8623,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Actor Imran Khan moves HC against order to leave country; FRRO issues him show-cause notice",
-        "Actor Imran Khan moves Bombay High Court to challenge 'leave India' notice by FRRO",
-        "Imran Khan's 'Curiosity' Counter To 'Leave India' Notice For Being At Mumbai Protest",
-        "‘Issued without inquiry, show-cause notice’: Imran Khan challenges notice to leave the country for taking part in anti-CEC protests, moves Bombay HC | Bollywood"
-      ],
-      "image_urls": [
-        "https://www.ptinews.com/assets/images/logo.jpeg",
-        "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_10_2026_21_26_52_6264276.jpg&width=1280"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "917fd36b4f",
-      "key": "449-austrian-deal-fans-getaway-loving-party-racing-ultimate-£",
-      "headline": "This £449 Austrian GP deal is ultimate F1 getaway for party-loving racing fans",
-      "summary": "",
-      "sources": [
-        "The Sun"
-      ],
-      "article_urls": [
-        "https://www.thesun.co.uk/sport/40670281/f1-austrian-grand-prix-travel-deal-party-vienna-nightclub/",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkh4QTR6N2haSFVEU0VFZnFZamN4M3FDbzRJZTJNdHZJTThtQTZ1Z3d6MHVld1RiRkhSWU5wc2VzODBPa0JLR29OODZGeWVEMzJSbXlmWS05bUhRLXhvSFVDWXpHVVJkR0c0NzBnem1nNFlTcjBmLU9idnY0Z29MZ2xYTzJDTXgzaG9ORzhETmQ5dVFfaEVwMXNqSVFkX2c?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T16:58:31Z",
-      "published_at_ist": "2026-10-17 22:28 IST",
-      "first_seen_utc": "2026-10-17T16:58:31Z",
-      "age_minutes": 26,
-      "trend_score": 11,
-      "rank_score": 0.8263,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "39bd73cc7c",
       "key": "cuamba-edmonton-jourdain-loui-pick-prediction-time-timmy-ufc",
       "headline": "Louis Jourdain vs. Timmy Cuamba prediction, pick, time for UFC Edmonton",
-      "summary": "https://www.centraloregondaily.com/sports/marc-andre-barriault-vs-kyle-daukaus-prediction-pick-time-for-ufc-edmonton/Marc-Andre Barriault and Kyle Daukaus meet on the UFC Fight Night 290 main card at Rogers Place in Edmonton, Alberta, Canada.",
+      "summary": "",
       "sources": [
         "MMA Junkie",
         "Central Oregon Daily",
-        "UFC.com"
+        "UFC.com",
+        "MMA Fighting",
+        "CBS Sports",
+        "Sherdog",
+        "Yahoo Sports",
+        "Sports Illustrated"
       ],
       "article_urls": [
         "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/17/louis-jourdain-vs-timmy-cuamba-ufc-edmonton-prediction-expert-pick/92287279007/",
@@ -416,10 +496,10 @@
       ],
       "published_at_utc": "2026-10-17T17:00:00Z",
       "published_at_ist": "2026-10-17 22:30 IST",
-      "first_seen_utc": "2026-10-17T13:29:24Z",
-      "age_minutes": 25,
-      "trend_score": 10,
-      "rank_score": 0.8132,
+      "first_seen_utc": "2026-10-17T11:00:03Z",
+      "age_minutes": 46,
+      "trend_score": 16,
+      "rank_score": 0.8654,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -441,37 +521,89 @@
         "Louis Jourdain",
         "Erin Blanchfield vs. Jasmine Jasudavicius prediction, pick, time for UFC Edmonton"
       ],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "3a0b57c693",
+      "key": "minute-one-saved-wife-‘-’",
+      "headline": "‘One more minute and I could have saved my wife’",
+      "summary": "https://www.barcablaugranes.com/barcelona-team-news/135301/But the teenager is in great form right now.",
+      "sources": [
+        "The Daily Star",
+        "Stocktwits"
+      ],
+      "article_urls": [
+        "https://www.barcablaugranes.com/barcelona-team-news/135301/balance-minutes-hansi-flick-discusses-resting-lamine-yamal",
+        "https://www.si.com/soccer/hansi-flick-dreading-inevitable-lamine-yamal-headache",
+        "https://www.thedailystar.net/news/accidents-and-fires/news/one-more-minute-and-i-could-have-saved-my-wife-4300961",
+        "https://sports.yahoo.com/articles/former-barcelona-youth-coach-reveals-091500384.html",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWC1fVTRIVlMxMmlyYUZrak5xaDhFT3dHVXU1TzcwdlZpVzVONXpjbFV6ZTZVdnAzd2V0bUZ1ZjBMUGdnNHNaUWF2cHk0bnhuZml6dFFrNkFLQXVmVHFKUDcwaDV6V3MxRGJmaWoxdV9Ocnh1cDNsa3BnZXBlQjJwMXRxLXpudXladGc5Y2NVUHlxUmdPazNPQV9HbTUxWWgwVU9McDBjd0RjbFdydVo5bTBNbw?oc=5",
+        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYUdhWjljdGVPMUxNNlJCRUJaaTRueER6eVA4d21vSHJHVzdlREgyTmwwd2hpQW1lUkNnSGU5TkRndWdKUURORVNlN19FdFdEanVGQzZFU2xBaWlNOGFKTTNMX2FRMW1iN1ppUl9LemVIQmNpTGVZQmdVMFhGcnlwbVA1ZW5VZE1GajBuZ0dBdnNGLV94OUFQUnMtaHpwS1RNejRsQ1dGR1JQQ1pPUy1iMnVWS0tWLVIzbkd3Y3AxNkRjQkxUcW1VLUZTWndmUVotcGgzNzhIYUNydG9hdm42N2NSam5WWVRuUWlvQ3Z5Uno1S01vaU1sQ3RQUk9Tdw?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T14:18:57Z",
+      "published_at_ist": "2026-10-17 19:48 IST",
+      "first_seen_utc": "2026-10-17T10:38:04Z",
+      "age_minutes": 207,
+      "trend_score": 9,
+      "rank_score": 0.8402,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "lamine yamal (US 2000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Will OpenAI Go Public? One VC Says ‘Not Really Sure They Mean It’ But Bets On ‘Blockbuster’ Anthropic Listing"
+      ],
       "image_urls": [
-        "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/media/e/93/e93b1ae2-ce92-11ee-9783-8f905bfab8e6/65d258b6d19a1.image.jpg?crop=925%2C486%2C0%2C17",
-        "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/media/e/93/e93b1ae2-ce92-11ee-9783-8f905bfab8e6/65d258b6d19a1.image.jpg?crop=925%2C486%2C0%2C17&resize=438%2C230&order=crop%2Cresize"
+        "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/10/gettyimages-2299540645.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_29,w_2560,h_1440/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m554m1cf7fz9s8hg8n.jpg",
+        "https://images.thedailystar.net/sites/default/files/uploads/2023/06/18/ds-logo-share.jpeg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStCI3PTMMjoI8R0QmkS-x7g7_ZTYrvoU6XDymfh4jWOglbGjq2xNwBK6vCL64",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR16qXjH3iGqMAlOHpPJLgJWOjX8nzxCd7ye-uSziDCHxeJRdoQzRBMAzxvt-M",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS72EwzM6faOzDDwLK2tAD3uP0bS65rPSBXbgRQuV4UZJeL1brPo6SLPpIpn2o"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "a5c51577f5",
-      "key": "blank-buckley-dana-handshake-joaquin-ufc-weigh-white",
-      "headline": "UFC: Joaquin Buckley blanks Dana White's handshake at weigh-in",
-      "summary": "https://bloodyelbow.com/2026/10/17/joaquin-buckley-refused-to-shake-dana-whites-hand-before-confusing-fans-with-awkward-interview/Buckley has changed his approach.",
+      "id": "e18cb8ac18",
+      "key": "announcement-camara-haas-number-race-rafael-reveal-signing",
+      "headline": "Rafael Camara reveals F1 race number after Haas signing announcement",
+      "summary": "https://racingnews365.com/The newest driver to join the F1 grid has revealed which race number he is going to use for his career.",
       "sources": [
-        "BBC",
-        "Bloody Elbow"
+        "RacingNews365",
+        "MotorBiscuit",
+        "Yahoo Sports"
       ],
       "article_urls": [
-        "https://www.bbc.co.uk/sport/videos/cred3g3ypdx2o",
-        "https://bloodyelbow.com/2026/10/17/joaquin-buckley-refused-to-shake-dana-whites-hand-before-confusing-fans-with-awkward-interview/",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Nam1oLUhxRWxOeGhpT19VWEpod0RQNWhXS1lINll1bi1iX2xFY3ZRWjlhR2ZPaWdYckJDa3RRN3p2aERyMFdxcTh0QUVxR19GQ3REb2dSQmxucDRt?oc=5",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMjNSZlZpSG80T2wtR3FfOFZLemh1Z0RnaVFNUUNFNjlSdnNwT044ZHlSWEprT0FTdV9Kbzc0cEg2aDU5ZG9jNEswTV9PRjMzb2t3dDZ1dUZhSEdOa0ZYZWFpY2RNZVFSLVBKVWhjSWVYajZzLTFXeHJhemE3cm1ISTNiV3F3MWVGV2l3cjc1YU0zNWlMV0k5TGIyQllqeHpkdnVfWkFrOXFQRWdOTmV6dW05dTZ6UlFjVVlLYVJpYTZ6RWd4cjVvVlln?oc=5"
+        "https://racingnews365.com/rafael-camara-reveals-f1-race-number-after-haas-signing-announcement",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd3NrSFpTZDdZYUMySGFZMDdBdC1rMzZ1S3N1VnRzMDNONkkwUVlUaEZYN041V1loaUVxQ0owcTMtYXVkX3MzaXBWR2pvUnJCT2FMOGtXWHNsX3kwQUhNeXJMSkplNlpVUlBhY2c2bmNqVGwwVnNWNWpLVk94LW5MRWV1cjBuZU9NZTlnamlyQzZZNDdIRllBeERn?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUnA5dFpEZlMzZldWMEU0QnA0WHhmdFhSRmFXclNLbDBtUFVoenlWajlrUHhUUlFxVC1DeDhVUEtnc2RKUkNUZW9rYnpMWVJOdGcxSncyWVp6UEViZ055LVVwanVBeXRfdG5hdzM0YjRqUDBEWHBzSklJTXRuTHJIenpMT3FIV1E0UTNnUTJEdEJ1YTY0bnc4?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNDNzQUVkT2c2aVZMeVNSY3NCdWZ4RkRaWHB4T0tfLU93VWdyTG5CUk55UDFyaHBvWTlsQVlPQktEZzVxTjNDOXpvakpHcVU4OU9taVZCM24tZmEybG5yMjA1b0E0VnNUSnQ5WXFxR29hQnBGakU1QWVkb2xiTTc5SzFpbUU?oc=5"
       ],
-      "published_at_utc": "2026-10-17T17:02:30Z",
-      "published_at_ist": "2026-10-17 22:32 IST",
-      "first_seen_utc": "2026-10-17T11:00:00Z",
-      "age_minutes": 22,
-      "trend_score": 9,
-      "rank_score": 0.8005,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-10-17T17:00:00Z",
+      "published_at_ist": "2026-10-17 22:30 IST",
+      "first_seen_utc": "2026-10-17T14:08:10Z",
+      "age_minutes": 46,
+      "trend_score": 13,
+      "rank_score": 0.8343,
+      "category": "sports",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
@@ -479,21 +611,25 @@
         "US"
       ],
       "language": "en",
-      "priority_queries": [],
+      "priority_queries": [
+        "F1"
+      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Joaquin Buckley refused to shake Dana White’s hand before confusing fans with awkward interview"
+        "Rafael Camara Reveals Emotional Moment He Secured Haas F1 Seat",
+        "Ayao Komatsu Reveals Why Haas Signed Rafael Camara for 2027"
       ],
       "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/869f/live/6573f0c0-ca44-11f1-a64c-550be9e3c66b.jpg",
-        "https://bloodyelbow.com/wp-content/uploads/1/2026/10/GettyImages-2300572133-scaled.jpg"
+        "https://cdn.racingnews365.com/2026/Formula-2/Camara_2026-10-15-191524_cfth.jpg?v=1792091725&width=1800&height=945&quality=75&crop=3780%2C1985%2C0%2C267"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://youtu.be/jZ0ZtWqEu2s"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -514,9 +650,9 @@
       "published_at_utc": "2026-10-17T16:31:00Z",
       "published_at_ist": "2026-10-17 22:01 IST",
       "first_seen_utc": "2026-10-17T14:36:40Z",
-      "age_minutes": 54,
+      "age_minutes": 75,
       "trend_score": 8,
-      "rank_score": 0.7869,
+      "rank_score": 0.7694,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -545,6 +681,90 @@
       "youtube_videos": []
     },
     {
+      "id": "b3cfb58a3e",
+      "key": "germany-ransomware-spain-track",
+      "headline": "Where to track ransomware in Germany, Spain and the UK",
+      "summary": "https://pasqualepillitteri.it/en/news/25054/No single dashboard covers ransomware in Germany, Spain and the UK. Where to look: ransomware.live country pages, BKA, BSI, AEPD, INCIBE, ICO and NCSC data.",
+      "sources": [
+        "Pasquale Pillitteri"
+      ],
+      "article_urls": [
+        "https://pasqualepillitteri.it/en/news/25054/where-to-track-ransomware-germany-spain-uk",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlJneDZjdGJEUGV3elR3Z2t3R0tqNS15bElaN09zZjQ4dFdaeGRhQXVRUVpwVXBsVnNDbzlpR1MzdUhkeC0wMjJrV0R3Q1dQOE05cEZmbmxVMW1Dbm5kbVFoTmdRNFRMSDdkMEFHck04d2ZfRkhvbm5zTVAySFFrZHVwYldJXy1rOVktWnhwaw?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T17:41:09Z",
+      "published_at_ist": "2026-10-17 23:11 IST",
+      "first_seen_utc": "2026-10-17T17:41:09Z",
+      "age_minutes": 5,
+      "trend_score": 5,
+      "rank_score": 0.7328,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://pasqualepillitteri.it/uploads/img/news/ransomware-germania-spagna-regno-unito-dove-guardare-cover.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "29a0ded796",
+      "key": "31-angele-arcade-fire-join-los-maze",
+      "headline": "Arcade Fire join THE MAZE in Los Angeles on 31 October",
+      "summary": "https://www.ad-hoc-news.de/unterhaltung/musik/arcade-fire-join-the-maze-in-los-angeles-on-31-october/Arcade Fire will bring a DJ set to THE MAZE Halloween in Los Angeles, with The Blaze and Claude VonS",
+      "sources": [
+        "ad-hoc-news.de"
+      ],
+      "article_urls": [
+        "https://www.ad-hoc-news.de/unterhaltung/musik/arcade-fire-join-the-maze-in-los-angeles-on-31-october/70349112",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeUk2dGdkYXB1MHM5ZllaZEVTRzNtVUxJV29HUkVETmctTVhYamVLUC0xd3B3ZGVKSWY0eXBULUo5NXRKcUFFUVBZbTA4dTlUS3hsejdXUXpUaGl0LWhCdTVPS3BRZUdnSFRsSWxzdkttR3d0cVViN3FiSnRCMEFMMGdqWEpwZ2hYSDBNZUd0bmlDYWVOb3ZkWTFQZG82aTduNngtbjNjSnlBNXdOclE?oc=5"
+      ],
+      "published_at_utc": "2026-10-17T17:29:10Z",
+      "published_at_ist": "2026-10-17 22:59 IST",
+      "first_seen_utc": "2026-10-17T17:29:10Z",
+      "age_minutes": 17,
+      "trend_score": 5,
+      "rank_score": 0.7228,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://mdb.ad-hoc-news.de/bild/bild-2403838_1920_1080.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "7e4689049a",
       "key": "big-blocked-causing-detail-elon-musk-night-problem-reveal-robotaxi-tiny",
       "headline": "Robotaxis blocked at night: Elon Musk reveals the tiny detail causing a big problem",
@@ -559,9 +779,9 @@
       "published_at_utc": "2026-10-17T16:03:00Z",
       "published_at_ist": "2026-10-17 21:33 IST",
       "first_seen_utc": "2026-10-17T16:03:00Z",
-      "age_minutes": 82,
+      "age_minutes": 103,
       "trend_score": 6,
-      "rank_score": 0.7233,
+      "rank_score": 0.7058,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -591,91 +811,6 @@
       "youtube_videos": []
     },
     {
-      "id": "a593378008",
-      "key": "code-drawn-entirely-game-incremental-mote-one-scored",
-      "headline": "One Mote: an incremental game drawn and scored entirely by code",
-      "summary": "",
-      "sources": [
-        "GameDev.net"
-      ],
-      "article_urls": [
-        "https://gamedev.net/blogs/entry/735-one-mote-an-incremental-game-drawn-and-scored-enti",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFhsX2tfOGtpaEg1RWNZWFhnQUlHZkhBUV96LWxtc3RTVnUyQUpJM1d6aklDZmdTMVZGcDVxZFJQbFhUNlpnTUtCWjlEWlVpdHFOME9rNTlLQmdMeGNpa3dkNkJxTk15X0VYRXlQTGFQczBETVBxaFg2aTA2ZU9xaG9UNll3emtIQ09iWGpaVQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T17:05:36Z",
-      "published_at_ist": "2026-10-17 22:35 IST",
-      "first_seen_utc": "2026-10-17T17:05:36Z",
-      "age_minutes": 19,
-      "trend_score": 5,
-      "rank_score": 0.7211,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "7a87475caf",
-      "key": "buterin-declare-focu-race-security-shift-speed-vitalik-won-zkevm",
-      "headline": "Vitalik Buterin Declares zkEVM Speed Race Won, Shifts Focus to Security",
-      "summary": "https://www.kucoin.com/news/flash/Ethereum co-founder Vitalik Buterin has declared the zkEVM “battle for speed” to be “definitively won” and says the top priority should now “shift fully to secu",
-      "sources": [
-        "KuCoin"
-      ],
-      "article_urls": [
-        "https://www.kucoin.com/news/flash/vitalik-buterin-declares-zkevm-speed-race-won-shifts-focus-to-security",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXdVZGdTQ0lVaV84Y1RhZ1VjbmdaQ2J6UzU1QllLaXRkT1pMY0YteldjUHBGeW8xd1JxZ3NTLW5DdVdNbTl5V0ZDVkd6Y0VuNUJPSmQ1ZzNpZ0Z6YW02b09ldk9hQTVyVGJWVnpKeHRNNzRFeC00RlNsLTFHVUNscGxwbEgyY0pRRUIwdS1TZGcwajk4cWhWRGpndl9XRG5Yb1VGQmtpZw?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T16:23:29Z",
-      "published_at_ist": "2026-10-17 21:53 IST",
-      "first_seen_utc": "2026-10-17T16:23:29Z",
-      "age_minutes": 62,
-      "trend_score": 5,
-      "rank_score": 0.7153,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Vitalik Buterin"
-      ],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
-        "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/tw-ea52b6f9440e857c.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "f9b09bcc9d",
       "key": "clap-friend-jayshetty-loudest-real-short-win",
       "headline": "Real friends clap loudest when you win #jayshetty #shorts",
@@ -689,9 +824,9 @@
       "published_at_utc": "2026-10-17T16:00:03Z",
       "published_at_ist": "2026-10-17 21:30 IST",
       "first_seen_utc": "2026-10-17T16:00:03Z",
-      "age_minutes": 85,
+      "age_minutes": 106,
       "trend_score": 5,
-      "rank_score": 0.7104,
+      "rank_score": 0.7038,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -728,23 +863,23 @@
       ]
     },
     {
-      "id": "ef85708f84",
-      "key": "affordable-air-bhupender-delhi-driven-explore-interact-ncr-pollution-scalable-solution-start",
-      "headline": "Bhupender Yadav interacts with Start-ups to explore affordable, scalable, technology-driven solutions for air pollution in Delhi-NCR",
-      "summary": "https://www.indiasnews.net/news/279380934/Union Environment Minister Bhupender Yadav on Saturday interacted with start-ups and technology innovators to explore affordable and scalable technology-driven solutions to tackle air pollution in Delhi-NCR, with a focus on real-time monitoring, pollution control and technology-enabled enforcement, a release said. The interaction was held under the campaig",
+      "id": "a593378008",
+      "key": "code-drawn-entirely-game-incremental-mote-one-scored",
+      "headline": "One Mote: an incremental game drawn and scored entirely by code",
+      "summary": "",
       "sources": [
-        "India's News.Net"
+        "GameDev.net"
       ],
       "article_urls": [
-        "https://www.indiasnews.net/news/279380934/bhupender-yadav-interacts-with-start-ups-to-explore-affordable-scalable-technology-driven-solutions-for-air-pollution-in-delhi-ncr",
-        "https://news.google.com/rss/articles/CBMiggJBVV95cUxQY2w4Z0U2NVE3WVFBaTBqMXNqLUp5V2wzb21CejIwSlpFVHU4VDNFU1JjZ1F4czhKNW92a0sxa0ZNQ252amRkT0IzM1dFaVRZdmRIdXphT0NlZVNyYXRmeTVOZnVwQ0N4aVNMQXJjRUVNWDJsdk5lNDRQeVJvMC1DVXZVR2xiT1ZjdTNwd3MyeTRTVFJ4WWcwdWk2WDE2R1ZhODdlUUItQkh5NTVDVFhlSkREdFIzSWNPQVc4SHNLQTFIRU9XWnltSk1xclRfd0htVlBCNVh1STJVV2ZTYkpobXFvM0s3QktSa1JBcHZWemdaUmRQZDd1UXJxeTJxRWxmMlE?oc=5"
+        "https://gamedev.net/blogs/entry/735-one-mote-an-incremental-game-drawn-and-scored-enti",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFhsX2tfOGtpaEg1RWNZWFhnQUlHZkhBUV96LWxtc3RTVnUyQUpJM1d6aklDZmdTMVZGcDVxZFJQbFhUNlpnTUtCWjlEWlVpdHFOME9rNTlLQmdMeGNpa3dkNkJxTk15X0VYRXlQTGFQczBETVBxaFg2aTA2ZU9xaG9UNll3emtIQ09iWGpaVQ?oc=5"
       ],
-      "published_at_utc": "2026-10-17T16:39:00Z",
-      "published_at_ist": "2026-10-17 22:09 IST",
-      "first_seen_utc": "2026-10-17T16:39:00Z",
-      "age_minutes": 46,
+      "published_at_utc": "2026-10-17T17:05:36Z",
+      "published_at_ist": "2026-10-17 22:35 IST",
+      "first_seen_utc": "2026-10-17T17:05:36Z",
+      "age_minutes": 40,
       "trend_score": 5,
-      "rank_score": 0.6986,
+      "rank_score": 0.7036,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -762,9 +897,7 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://chitra-api.kreatio.com/api/v1/wps/6a7480d/3ca95b1b-1b6e-4643-b918-b8237bd940b9/0/ANI-20261017105602-600x315.jpg"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -784,9 +917,9 @@
       "published_at_utc": "2026-10-17T16:00:00Z",
       "published_at_ist": "2026-10-17 21:30 IST",
       "first_seen_utc": "2026-10-17T16:00:00Z",
-      "age_minutes": 85,
+      "age_minutes": 106,
       "trend_score": 6,
-      "rank_score": 0.6908,
+      "rank_score": 0.6733,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -825,9 +958,9 @@
       "published_at_utc": "2026-10-17T14:00:19Z",
       "published_at_ist": "2026-10-17 19:30 IST",
       "first_seen_utc": "2026-10-17T14:00:19Z",
-      "age_minutes": 205,
+      "age_minutes": 226,
       "trend_score": 5,
-      "rank_score": 0.5661,
+      "rank_score": 0.5486,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
@@ -867,9 +1000,9 @@
       "published_at_utc": "2026-10-16T19:24:49Z",
       "published_at_ist": "2026-10-17 00:54 IST",
       "first_seen_utc": "2026-10-16T19:24:49Z",
-      "age_minutes": 1320,
+      "age_minutes": 1341,
       "trend_score": 5,
-      "rank_score": 0.4745,
+      "rank_score": 0.4679,
       "category": "famous_clip",
       "section": "technology",
       "source_type": "youtube",
@@ -906,89 +1039,6 @@
           "is_short": false
         }
       ]
-    },
-    {
-      "id": "ea7e06c1d1",
-      "key": "denie-galaxy-leak-overheating-qualcomm-s27-snapdragon-ultra",
-      "headline": "Galaxy S27 Ultra Snapdragon overheating leak, and Qualcomm denies it",
-      "summary": "https://pasqualepillitteri.it/en/news/24834/A Korean leak says the Galaxy S27 Ultra's Snapdragon exceeds temperature limits in Samsung tests. Qualcomm denies it, and the Exynos 2700 stays plan B.",
-      "sources": [
-        "Pasquale Pillitteri"
-      ],
-      "article_urls": [
-        "https://pasqualepillitteri.it/en/news/24834/galaxy-s27-ultra-snapdragon-overheating-qualcomm-denies",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcFlkRkNmQ2FGal9lQ1VkNS1ORW9rNG5IXzBiNy1ZSmZhbjRQdXNWN2ttUlIzeVpHRmR6bUxjOFU3M0I1M0Z4QV9FOFZuSi1rMlZ2cXZ6d1RqaV9NOHNsM2NadTFHeTJROGdGbkh0QTR1eFBOUjJRdmdUMm1MTEw4dWtwaThZUzBEdTNxRjQ4WE42OEQ2bWVvWHBaNGdnZEot?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T11:37:31Z",
-      "published_at_ist": "2026-10-17 17:07 IST",
-      "first_seen_utc": "2026-10-17T11:37:31Z",
-      "age_minutes": 347,
-      "trend_score": 5,
-      "rank_score": 0.4478,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://pasqualepillitteri.it/uploads/img/news/galaxy-s27-ultra-snapdragon-qualcomm-smentisce-cover.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "74feffda6d",
-      "key": "beli-lina-nas-ū",
-      "headline": "Linas Beliūnas (@linas)",
-      "summary": "",
-      "sources": [
-        "Substack"
-      ],
-      "article_urls": [
-        "https://substack.com/@linas/note/c-363157702",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CWXdrNURoZW5MamRRR1YzX3hYZ2Mxcjg3ZF84a1FfTGhyejhvOHdBTTg4a3Q2YXRQbUw5TE9hRms1Q3IwX3l5SG9Tb0VUanRzSDkzaFJMNA?oc=5"
-      ],
-      "published_at_utc": "2026-10-17T09:52:59Z",
-      "published_at_ist": "2026-10-17 15:22 IST",
-      "first_seen_utc": "2026-10-17T09:52:59Z",
-      "age_minutes": 452,
-      "trend_score": 6,
-      "rank_score": 0.385,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
     }
   ]
 }
