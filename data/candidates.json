@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-18T19:23:48Z",
-  "generated_at_ist": "2026-10-19 00:53 IST",
+  "generated_at_utc": "2026-10-18T20:31:09Z",
+  "generated_at_ist": "2026-10-19 02:01 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5417,
-    "fresh_items": 4423,
-    "clusters": 1838,
+    "raw_items": 5428,
+    "fresh_items": 4410,
+    "clusters": 1834,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 57,
+    "youtube_uploads_fresh": 59,
     "youtube_items": 2,
-    "famous_items": 4,
+    "famous_items": 6,
     "trends_terms": 40,
-    "page_fetches": 52,
-    "with_video": 3,
-    "runtime_sec": 22.2
+    "page_fetches": 54,
+    "with_video": 5,
+    "runtime_sec": 19.9
   },
   "categories": {
     "famous_clip": 3,
@@ -32,59 +32,61 @@
     "other": 6
   },
   "top_trends": [
-    "garrett wilson (US 1000+)",
-    "school bus (US 500+)",
-    "barbara palvin (US 500+)",
-    "falcons player hurt (US 200+)",
-    "kendal daniels (US 10000+)",
-    "falcons injury (US 2000+)",
-    "pavlovs dog frontman david surkamp (US 2000+)",
-    "atlanta falcons injury (US 1000+)",
-    "trey hendrickson (US 500+)",
-    "falcons injuries (US 500+)",
-    "youssouf fofana (IN 200+)",
-    "santos fc (IN 200+)",
-    "endrick (IN 200+)",
-    "málaga cf vs real sociedad standings (IN 200+)",
-    "betting exchange (IN 200+)",
-    "priyanka chopra (IN 100+)",
-    "sandhi puja timing 2026 (IN 100+)",
-    "serie a (IN 1000+)",
-    "fluminense vs santos (IN 5000+)",
-    "ol vs nice (IN 200+)"
+    "tampa bay (US 50000+)",
+    "columbus vs cincinnati (US 500+)",
+    "jordan davis eagles (US 1000+)",
+    "afc standings (US 500+)",
+    "kc chiefs game (US 200+)",
+    "jamel dean (US 1000+)",
+    "kyle pitts (US 1000+)",
+    "alianza atlético - universitario (US 1000+)",
+    "titans schedule (US 1000+)",
+    "cooper dejean (US 500+)",
+    "la liga (IN 5000+)",
+    "raphinha (IN 1000+)",
+    "oppo coloros 17 (IN 1000+)",
+    "ujjwal nikam (IN 200+)",
+    "federico valverde (IN 100+)",
+    "kasab (IN 500+)",
+    "greta gerwig narnia (IN 100+)",
+    "madrid match (IN 200+)",
+    "yan diomandé (IN 200+)",
+    "laliga games (IN 200+)"
   ],
   "items": [
     {
-      "id": "fa9bef8242",
-      "key": "documentary-elon-musk-suppressing-tiktok",
-      "headline": "Is TikTok Suppressing the New Documentary About Elon Musk?",
-      "summary": "https://www.yahoo.com/entertainment/movies/articles/Social media platforms have been removing ads for the anti-Musk documentary.",
+      "id": "2baf6882ae",
+      "key": "account-documentary-elon-musk-permanently-suspend-tiktok",
+      "headline": "TikTok permanently suspends ad account for Elon Musk documentary",
+      "summary": "https://www.themarysue.com/tiktok-restores-elon-musk-documentary-account-after-suspension-error/TikTok has restored the promotional account for Musk, Alex Gibney’s documentary about Elon Musk, after suspending it just as the film expanded into",
       "sources": [
+        "Howl.link",
+        "The Mary Sue",
+        "The Telegraph",
         "The Verge",
         "TechStory",
         "Anadolu Ajansı",
         "Yahoo",
+        "AOL.com",
         "Men's Journal",
-        "Netflix Junkie",
-        "The Telegraph",
-        "Jang"
+        "Netflix Junkie"
       ],
       "article_urls": [
-        "https://www.yahoo.com/entertainment/movies/articles/tiktok-suppressing-documentary-elon-musk-152611697.html",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXR6LW9rdkd2ejZKS0RsVV8wY2xRM2d1Nm0zZGhYQVI0RFByWnF1bXhTRkNIOHBwUUhWS0hrZE0yODZjSlVsOTNfcjYySXlONm9mdjllQ0h4b2lxT0NvNGZ3WURoWndmUW45OFdPLVZIbV9yMHF2SUNuZzBWdkNnelZSRzlpWjZYaEduS2NDWEpwWTBGU1EtZmV1OXIwQVNwV2dNQ0xUSWpLVTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2U4S09GRFFJSFlUWVJFbzk4X0pReFQ4WldFa1dkbk5MWTEwVjNJWk82SThZWFlLUkFRZWExcVpUcGtlTTY1ZXd2MHc5by1JTXN3OHhjckxlWkFfZ3BrNmhEaTRkbUVxaDJtZlJnZmtxamhKNE1fR09hb0E2V19mMXZYMkNUT04xVGtLOUtvMHJIYWROSXRmYTJIZG8?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVFBaeEJmV3RvV2RYXzdBVmhlaGV5c2FlVFpZZHZRVFpFN2FPTjlqTllZaGd3TTVmZFhHT1Njb3FGT0JuMUxOS2xrZXVPQy1UeDF3RkFab1VDcjRhTWRyd1R6ZF93SnI5alpmX1dfSDduRENTYVJRSXdHSlJERzY1a3dBT0FvZkE5WXdvNFlOLVU0aDA2aUY2ZUNvQ1dra2U0OWFaMmwta3VlZnN5LWtORnlOd2Y0THVtbFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0lqTFg5d1E5R3h6aVZla0p6bktYc3NKdHVUN2dkbUltN0pqNXlYQ3pwT3RUWndFcjVuWWNsN3c3RWlnZFQyVXR4WVM0WHNOb2hEb2lYdWpuUlhlZ3ViMFluZDc3SU9JUXp0WUtCWFI3NTkydGRycWF0MVBoa1JQWGl0UDVwYlh4dmFaUHNZWl9nSEhfWlRGbm54akpOSXEtblZJMDl4TF9IcmM?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR2Q1VG8wckduTENLbXBqaWdIRFRmVFc4YmxmaFh6ZGV2SDYzWUNWWWJrM2NONklNQl9vZGVwZThoMjItSmxIckdtelhGcG16ZTdEb2k5SDFWRzVPTklVaXBYWk44Ql81SkNSakd0UHdfTGI5ek42OHB0Rmo1U0dVNDdVT3d0NjgzejRPQUFKcmZYS0RDSkI2d1JMMA?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUHBIRGNTSTFKblk2Zzg3MWVOVXdGMUxyUTVoeGVZWXBpaGh1dEhjSmk0Qzd2VDRvbGJWeUxfeWdJT0FSRXZEQ203aUpiLW9SamV4VXdObkprdmlfd0c2UWFBMzF5ZmNJbXNlV3JlMktzd1NfNU5LUF9Cei1oTU9Hd05nSm9OTm5RVkViTFV5RE5fY1lveTVOQ1dLYm0zbXNfdHR2QmYteTdadGhjdDlwbFdoLXBpODRkUDdn?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZExzY1BiOEgwQ3ZhclEwbmR5WWJnYXZkd09XSlNJWi1wUUtleEM1TFZWLU1OUVFKdWRyNERkemdlSGRRQ01aeWY3aTBOQWE1QzZYS2ZPY21ZMXFUMGowSHM3aFU5SXZreDFVTnE0TFFBVFdhcmpZSHZNbWZzZWJTcGFzVC1kTldBS2lCVnkyLUZRZHFTNldyQmw5VmxwSnlQeTlRSVhwTFhQUnc?oc=5"
+        "https://t.co/4AhQHtkEsw",
+        "https://www.themarysue.com/tiktok-restores-elon-musk-documentary-account-after-suspension-error/",
+        "https://www.telegraph.co.uk/business/2026/10/18/larry-ellisons-tiktok-bans-ad-account-for-musk-documentary/",
+        "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1RM0FVUWlIUl9XSzlpSm1ja1EzRGpzM1k4Vy1xMlh6NHl3eXdCUnJraG41M1BCZ1g1ZGdF?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMDU5d0NNWmdZNTdaNE4zMG40aWdyRjBoT0JnM0lTSGUwT185RWNuUnJMQjZmZ2sySl8wUHA1NEY2aXB4cUpVelZXR0pNalQwZ3dZNTV5dlNhRVBnZUJiVmsxWi1lZFc1aHNub3dERFdxZ09ZTWUyc0pXbnQ0T0dJZ0xZUXZDOGJ6Mng5NVhKWm9OeURwYVMtcms2Zk4?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZExzY1BiOEgwQ3ZhclEwbmR5WWJnYXZkd09XSlNJWi1wUUtleEM1TFZWLU1OUVFKdWRyNERkemdlSGRRQ01aeWY3aTBOQWE1QzZYS2ZPY21ZMXFUMGowSHM3aFU5SXZreDFVTnE0TFFBVFdhcmpZSHZNbWZzZWJTcGFzVC1kTldBS2lCVnkyLUZRZHFTNldyQmw5VmxwSnlQeTlRSVhwTFhQUnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBRd3dvZ2NOOFpZTlBEdUVWZGNWd09YM1VXN3dJUEk0eXg4ZGU1Y0JPRmxpekZBS3JiX1hz?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXR6LW9rdkd2ejZKS0RsVV8wY2xRM2d1Nm0zZGhYQVI0RFByWnF1bXhTRkNIOHBwUUhWS0hrZE0yODZjSlVsOTNfcjYySXlONm9mdjllQ0h4b2lxT0NvNGZ3WURoWndmUW45OFdPLVZIbV9yMHF2SUNuZzBWdkNnelZSRzlpWjZYaEduS2NDWEpwWTBGU1EtZmV1OXIwQVNwV2dNQ0xUSWpLVTQ?oc=5"
       ],
-      "published_at_utc": "2026-10-18T17:18:20Z",
-      "published_at_ist": "2026-10-18 22:48 IST",
+      "published_at_utc": "2026-10-18T20:05:14Z",
+      "published_at_ist": "2026-10-19 01:35 IST",
       "first_seen_utc": "2026-10-18T11:35:53Z",
-      "age_minutes": 125,
-      "trend_score": 16,
-      "rank_score": 0.9496,
+      "age_minutes": 25,
+      "trend_score": 20,
+      "rank_score": 0.9468,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -106,151 +108,496 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "The Musk documentary’s TikTok ad account has ‘been restored after an error.’",
-        "TikTok Permanently Suspends ‘Musk’ Film Ad Account, Raising Suppression Fears",
-        "TikTok permanently suspends advertising account for Elon Musk documentary: Report",
-        "TikTok Permanently Bans Elon Musk Documentary Account"
+        "TikTok restores Elon Musk documentary account after suspension error",
+        "Larry Ellison’s TikTok bans ad account for Musk documentary",
+        "UPDATE: Is TikTok Suppressing the New Documentary About Elon Musk?",
+        "The Musk documentary’s TikTok ad account has ‘been restored after an error.’"
       ],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/3796ee05dd52eb2505d9520e87d2af8356f1c121850081397163b05d01ee2ca2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F06b7a09a528801c785b40a6c493635e2.jpg",
-        "https://s.yimg.com/lo/mysterio/api/5b4a31a00cc543c91401cb0e7c3486c7fa62d174facfee4f875bd5ead42f7e98/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmen_s_journal_718%2F06b7a09a528801c785b40a6c493635e2.jpg"
+        "https://www.themarysue.com/wp-content/uploads/2026/10/Elon-Musk_1792348720624.jpg",
+        "https://www.telegraph.co.uk/content/dam/business/2026/10/18/TELEMMGLPICT000507967667_17923339988860_trans_NvBQzQNjv4Bq2WUh5xjof5dDxc7CYguA0YXQwh824i9t0ggJbw_DdVQ.jpeg?impolicy=OG-Standard",
+        "https://www.telegraph.co.uk/content/dam/business/2026/10/18/TELEMMGLPICT000507967667_17923339988860_trans_NvBQzQNjv4Bq2WUh5xjof5dDxc7CYguA0YXQwh824i9t0ggJbw_DdVQ.jpeg?impolicy=Twitter-Standard"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "306f9ae7e0",
+      "key": "africa-australia-boland-brief-damage-rain-respite-south",
+      "headline": "Australia’s Boland damages South Africa in brief respite from rain",
+      "summary": "https://www.theguardian.com/sport/2026/oct/18/Australia’s Scott Boland claimed two South Africa wickets in the one of the brief passages of play possible due to rain on the first day of the second Test in Gqeberha",
+      "sources": [
+        "cricket.com.au",
+        "The Age",
+        "SMH.com.au",
+        "The Guardian",
+        "Sky Sports",
+        "Medicine Hat News",
+        "RTL Today",
+        "Cricbuzz",
+        "Cricinfo",
+        "ESPN India"
+      ],
+      "article_urls": [
+        "https://www.theguardian.com/sport/2026/oct/18/australias-boland-damages-south-africa-in-brief-respite-from-rain",
+        "https://www.cricket.com.au/news/4593465/live-blog-australia-south-africa-first-test-2026-gqeberha-st-georges-park-ball-by-ball-scores-highlights-news",
+        "https://www.theage.com.au/sport/cricket/scott-boland-was-irresistible-for-south-africa-and-for-nathan-lyon-20261019-p616je.html",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbjhTMVZxVV8zOGRfUHBrYk96dHgwcTZWRjFPVHJHekw2dEExb2NiZm5BQ3k0RU5ndnFxZEZDak5OQ0txU0YzYVUtM2F1U0pFVjBJam95NTVDcnliTm53UUkyak90QVVCSkxidHYtVDdLa3lwdktDRzVpRFFDLThSVlJ2WldWb1ZyM1RGT2ZZV0Y3ZXhuWnRualFsa0FYc0hqQmRUdV95Zl9KNHE0VnNrMXJvWUp3VDU4NjY4UV9Sd2w1UW5VcmpMRUdvZXhXMDN1MDVXN3p1Y09GYnBIbmoyS2VxYw?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVkJZbjFUc2xmdFBrT0hDY0Jqdm5Rbk1rLWxId0NDWnA4VHh3ZlBGWUxfSHdpU1Q1RXdERDV0VkdOSGVLbXV2LWtaYWFnNkNsWk41cnVCdGpwTVRUNVh2NERjazlGc212ZGxvZndLQUVwY0Rmc0JnQnVqOVk1bjBWMVdxUVBZMTdWNnhBU3FsVmdBNzd3bWVkcWV0c1RXcm4zWTA0MUhjMlVJLUpVOVItTzdWZTBBeEpVQ1E3LTc3a0xyUmNORVE?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkNoV0ZuUW85Sk91N1dLRnROdTNoX2xxWjVkV3V2TnRVVnpBQW5qWFhCZ1BNclNGdks4YkFLS0VXbFJsSFVEeGpGNEcxb29Vd2JwWmQ1LV9PS295bTRXN1g4bHZLY2UwX3N6YkRzZ2k4T3VoRk9DZ3BoMHhFT2xDenRyUG9GRVZtU2NIVzNwU3lUMllsS3JHYWdwY2F1MklGNmVwcU9wUGJYd1lFTlZwWndGZF83dW1tNV9TU2dXdDBxdw?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnBHdmNZSEdaQ181elR6eU1CMVVabnVXV3RaTkg2bThidkg1b2ZEVXNnX1d1X0NSNDlMM0FtR3dLQTc0emZidWlCbXhWZDUwZHVJZC1xMzZSQzNyancxb2dhVENsWl8tUDhKT1pFTm9zc0Y0TjhCbTRTZ2NoM2xCMlVaWTFJZ2NNTS1IaVhNeTdhNDhYZUN6bmphMkVaaGExRkViN282dzRSTk9JNksxZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZEhyajJrRmt0SlVxYjI1Q09NcDJZNTluNWhkOHhzSlE1aTNtNWlwWFphMERHTlhFbzZrU0RNVlRRZXF0LUxRSXlDWnVlSl82WXhnM2dvZlZDaU5KeXJKVEVYUVFaZERiNUdzREdrUnZIcFJTZXlYTEx2d3I0RmJGdkNYWldMYkRiREV5cWRhSHl3ZmdMTkktcXFKUXEtejZXc3RBT1NycXhjb0pBMWVtUWNVZ2JseTluUzdDSHMwRmc4QjMwN2tkSm85bEpUQW1JNDZZa1lzaTl2cDgzSUVFYzN0R2tzODFGVGxqd21ST3Jld1pWOGc?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T19:01:08Z",
+      "published_at_ist": "2026-10-19 00:31 IST",
+      "first_seen_utc": "2026-10-18T11:59:40Z",
+      "age_minutes": 90,
+      "trend_score": 26,
+      "rank_score": 0.9029,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "As it happened: Boland gets hot before rain ruins day",
+        "Australia vs South Africa Test: Scott Boland was irresistible for South Africa - and for Nathan Lyon",
+        "South Africa vs Australia: Scott Boland wins brilliant back to back wickets against South Africa in the second Test",
+        "South Africa vs Australia: Scott Boland takes back to back wickets in the second Test"
+      ],
+      "image_urls": [
+        "https://i.guim.co.uk/img/media/a77adb8ace663f2f46ff4cab84c3169797a0c392/187_0_1865_1492/master/1865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95090d7f5693a0d3dcd3bcd51ea3ea23",
+        "https://i.guim.co.uk/img/media/a77adb8ace663f2f46ff4cab84c3169797a0c392/187_0_1865_1492/master/1865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=2a5d62d14cd5069d7dde9c5a632082ab",
+        "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2026/10/18/770ec7da-f3eb-4bc6-9f3f-2565690eae0f/18boland-d1.jpg",
+        "https://static.ffx.io/images/$zoom_2.118%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_jpg/t_metro_analysis_no_age_social_wm/2973ffa5f83ac7b90a862fc0bf30c8fbcc0dee8b4d0a9490ebb8a71d29dd8766"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "596227f636",
+      "key": "bruin-defense-drake-loss-shine",
+      "headline": "Bruins Defense Shines in Loss to Drake",
+      "summary": "https://belmontbruins.com/news/2026/10/18/Five Bruins Go Full 90 Minutes",
+      "sources": [
+        "Belmont Bruins"
+      ],
+      "article_urls": [
+        "https://belmontbruins.com/news/2026/10/18/womens-soccer-bruins-defense-shines-in-loss-to-drake.aspx",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbHJJODI2YThyWGNjQl8wVHFJN2s5LUhVWTFaTllpS21yaS1NakJ5ZFAtSjQ0UkNoQ0QzblJYOHUtd1lad285eDhDanpQb2U4VGlwNm4wVGJHNjFDOW9JdkNSUGNOV1JyVWJ6TWhOSjhTY0pZamFiZXJpTEhNR1ZhclJfSjNHQlh1eHhHZkI5MF96WkRIbm1sMVRmbzZfRDVr?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T20:00:22Z",
+      "published_at_ist": "2026-10-19 01:30 IST",
+      "first_seen_utc": "2026-10-18T20:00:22Z",
+      "age_minutes": 30,
+      "trend_score": 6,
+      "rank_score": 0.8867,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Drake"
+      ],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://images.sidearmdev.com/fit?url=https%3a%2f%2fdxbhsrqyrr690.cloudfront.net%2fsidearm.nextgen.sites%2fbelmontbruins.com%2fimages%2f2026%2f9%2f19%2fUIC_Preview.jpg&height=450&width=800&type=jpeg"
       ],
       "video_urls": [
-        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/b5ae6f11-ce38-3174-a494-cc9cbee054f3.m3u8?site=entertainment&region=US&lang=en-US&devtype=desktop",
-        "https://www.yahoo.com/lifestyle/videos/outlander-blood-blood-season-2-023914323.html?format=embed"
+        "https://www.youtube.com/watch?v=ZwZ4gFGPaOI",
+        "https://www.youtube.com/watch?v=nR9TwxvRGPw",
+        "https://www.youtube.com/watch?v=1zu13JZ0oko",
+        "https://www.youtube.com/watch?v=kxcVxVc7uDg"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "11c0e34798",
-      "key": "bowler-india-mandhana-power-serie-shafali-win",
-      "headline": "Bowlers, Shafali, Mandhana power India to series win",
-      "summary": "https://onefootball.com/it/notizie/Fiorentina e Como si affrontano domenica 18 ottobre alle 15:00 allo stadio Artemio Franchi, nella settima giornata di Serie A. Guarda tutta la Serie BKT live…",
+      "id": "436a725815",
+      "key": "abuse-addresse-dutchman-hamilton-praise-verstappen",
+      "headline": "F1 Today | Verstappen addresses abuse as Hamilton Sr praises Dutchman",
+      "summary": "https://www.gpblog.com/en/news/Max Verstappen condemns online abuse of GT3 teammate Chris Lulham, while Lewis Hamilton’s father Anthony praises Verstappen and Valentino Rossi.",
       "sources": [
-        "Cricket World",
-        "NDTV Sports",
-        "Cricinfo",
-        "ICC",
-        "Rediff",
-        "The Times of India",
-        "The Indian Express",
-        "News18",
-        "Cricketnmore",
-        "Open Magazine"
+        "GPblog"
       ],
       "article_urls": [
-        "https://onefootball.com/it/notizie/pellegrino-torna-dal-1-rodriguez-al-posto-di-diao-le-probabili-di-fiorentina-como-43629902",
-        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&id=fio-com-calcio-vedere-in-diretta-in-streaming-ita-tv11",
-        "https://www.cricinfo.com/series/zimbabwe-women-in-india-2026-27-1535648/india-women-vs-zimbabwe-women-2nd-t20i-1535653/match-report",
-        "https://www.lanazione.it/firenze/sport/fiorentina/fiorentina-como-vanoli-arrabbiato-per-i-tanti-gol-subiti-ma-questa-squadra-va-sostenuta-37099b7a",
-        "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPNXJpRXUtYWkxSmNyRHBfQWh2Qmp0SnBMeW9JSy1CLVg5TGpFSm5uWjBYNkU0RFlSUVNHTE84a2pzQkJ2ZjZfV3FnMWNac1luTXl4WXdqTVRwU3hFTFZaM1h0U25yZm9sUE40MS1hS3JSX3RybkRkZWI4T1Bqa0RpR1pVbHExcDN5b2ZmNVMzQTJJRXlMcVNKbTFQLTd4c09jRmJpQk9keERTUnhOVWI5cWVXNjJaLS1SN0doaW1xelhLNDVScC03N19PR0liNFEwRkJsMmlZWGZhTXQyQ2dVRVBFSEhhY296TnNZ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUWVvMmpOVkV2QWpaR09DZk1NdDc3dWFzUHBkMjhBVkJsSDYzc2tXWFMxZnFjZnE3VGtGak1vLWpXYzFoTlpORWtTaFZpc1VEOVZPenZzR1RSQUZmRGo3YW9yOGFPb3JjY3ZPeUFWR1BXNlk3UTJfdlRfMjB6bnpVRmFyWXJjWldWYUpVcC02UF9BNXBDSVhaVnhJLXpDTWJQRjdQeGd4eEh1cXlmTWNnMUFTSW5pbXBQVWVSZ1Rkc1BKU2VPUTZGV2l3WW9iblJfOVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanRsOXN5V0tIRGlxS2RIZW1YbWFHazRNRkhVUFhMVWZUbDlEbHAzN2dNSzhGUjRBc3g5Z1EtYjlDX29LUjVYUmRyM2R3QW9jY0wyZmJwTVNCU0pFTHBEZVZWendhcnVWMjRiSkt6cVhYRWlpaVBnN3ZIczN5MVBzUWdNN1VLeWZXeS1QUE9hWTNqY2xCdWJrVktPa1FDVXRsQ2FNNlFBUUJjLUtQcEZDNjVma0tlRS1jWnBDOWJBbGFXVTN6LU5OZE5WVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVF0TEJjQkZDbXc0VUxSQnlDejFqcmJEZlp3V2pwMEpzZ0t2UThLenRwdDNTR2lnekdsdTBQZ2dwYWNzbzJpRDRqc3J3d19aM0hyQ1BtdlVadDM5cUljREtveHA0amRnT3FtM0xVWmpIRUxTZlFUajVfZXJNUHhiYVQyeEw2TDJMdlYyTFptenBKUQ?oc=5"
+        "https://www.gpblog.com/en/news/f1-today-verstappen-breaks-silence-on-lulham-abuse-as-hamiltons-father-praises-dutchman",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMnVxeDh0WE44aEIyWUFFWG1uUmhzTHBxOUNuTmEwT2ttZE5kN0dscGdEVGRXbjlCd3BnOURPTXBSZllaU3otczJ0cHB2b0xJOG9jdXJsVUdhNXh2bk1XU3huU1VhS25qYi00emZMalIzTlk4Z2ZxWG1tWVk3WVVuNlNUNGt1aXRvaVVYV3d4cE5rRHBTUTk1NnlFdnRRZEZwTG1zMmxTdklyemU1VkFaWTRMTkRqRzMyeUE?oc=5"
       ],
-      "published_at_utc": "2026-10-18T18:16:55Z",
-      "published_at_ist": "2026-10-18 23:46 IST",
-      "first_seen_utc": "2026-10-18T13:16:00Z",
-      "age_minutes": 66,
-      "trend_score": 24,
-      "rank_score": 0.9105,
-      "category": "sports",
-      "section": "sports",
+      "published_at_utc": "2026-10-18T20:03:39Z",
+      "published_at_ist": "2026-10-19 01:33 IST",
+      "first_seen_utc": "2026-10-18T20:03:39Z",
+      "age_minutes": 27,
+      "trend_score": 11,
+      "rank_score": 0.8555,
+      "category": "famous_clip",
+      "section": "top",
       "source_type": "news",
-      "famous_names": [],
+      "famous_names": [
+        "Max Verstappen"
+      ],
       "region": [
         "GB",
-        "IN"
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "cricket"
+        "F1",
+        "Famous people clips"
       ],
-      "google_trends": [
-        "serie a (IN 1000+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Muthoot FinCorp T20I: Niki Prasads post-match media interaction following Indias dominant win against Zimbabwe Women",
-        "Niki Prasad, Shafali Verma Script India's Series-Clinching Win Over Zimbabwe In 2nd T20I",
-        "Shafali Verma scripts history with ninth 50-plus score as India thrash Zimbabwe to seal T20I series",
-        "IND-W vs ZIM-W T20 2026: Smriti Mandhana, Shafali Verma blitz seals Zimbabwe series for India"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fit%2F43629902%3Fdate=2026-10-18",
-        "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv5NY7LPMpEHjcQ6XA9_zVPHLp_ZQUB-A4ql7Ek3Z6Zc9fiT0JMNAPU8zLv1Q",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ0g1pQAiJ3zWTKdzMINdrqUcSkdxVQrOlbx_cNy2F2DEqGXWTKZtnZftIueo",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRTj8jfZMDpxJr9FDFPrdjwnWyNsvPfBzTiQ_QuGu_jt0JRFBjwHLGzB-I6A0"
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-10%2Fverstappen-portimao.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-10/verstappen-portimao.jpg@webp"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "72c7f89aee",
-      "key": "cricket-cup-eca-european-result-score-serie-women",
-      "headline": "ECA Women\\'s European Cup, 2026 Cricket Series 2026, Live Scores and Results",
-      "summary": "https://onefootball.com/it/notizie/Fiorentina e Como si affrontano domenica 18 ottobre alle 15:00 allo stadio Artemio Franchi, nella settima giornata di Serie A. Guarda tutta la Serie BKT live…",
+      "id": "9f0a9b0677",
+      "key": "adida-bad-bunny-date-gazelle-gold-release-solar",
+      "headline": "Bad Bunny x Adidas Gazelle 'Solar Gold' Release Date",
+      "summary": "https://shopping.yahoo.com/style/shoes/articles/How to buy the 'Solar Gold' Bad Bunny x Adidas Gazelle releasing this weekend.",
       "sources": [
-        "India Today",
-        "Cricbuzz",
-        "Cricket World",
-        "ESPN"
+        "Yahoo"
       ],
       "article_urls": [
-        "https://onefootball.com/it/notizie/pellegrino-torna-dal-1-rodriguez-al-posto-di-diao-le-probabili-di-fiorentina-como-43629902",
-        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&id=fio-com-calcio-vedere-in-diretta-in-streaming-ita-tv11",
-        "https://www.indiatoday.in/live-score/series/eca-womens-european-cup-15843-1",
-        "https://www.lanazione.it/firenze/sport/fiorentina/fiorentina-como-vanoli-arrabbiato-per-i-tanti-gol-subiti-ma-questa-squadra-va-sostenuta-37099b7a",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ3d2SGVxeFdJblYxb2RmdlVMc3h2b0NLXzhSMDVGODk1cS16eXRUMkgxRUdlb25oYlBLRkpaMHEyb0tMUnNsbmFMZ1Y4N3FNU2hpZEs2anBWcVdvT3F1a1BQMk9YcU1DbHUyZEYwVThwTV8zLVBoUkdCNEJ1VnAyZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSGhlNUtWN1h4eV92RTBseHpwVmNMN0QxbzFiMElnUlV0MnhnMVJ2WlZhX3hJdHItM0Qyd0h4cHV4SV9mQzhsVGV4WmpJSTNGM2JUWlJ2WUZPUUlWbGlaYmY4VUUxbEZkUXhKRnBzWlNLOHpVRms0dk1YYklmY1BQMWNGSGlnNENUZ05Xc3MzbUF0b0MxVS1FWWNGSFFaZlI5Nk81cDg5dE5KRWpwM1REQ2tR?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmVMRTMxU2lwYlYxMnZGVjlJREtTaHBYaGstTTRUaFp1RFVkSTJpb19vdlB5MnB2dmNiSHQxSHNYOXo0N3diclZQb0pCZWFEYnNjUFpDNjBPd2hiWHJSeHFHblhwSUs4b1lzQlVNWks1dlhVR2h0dm53RkRJMzlLczJBb0lteEs2Y25ncDBDN0hqUFcwMTF6dEhCMXB4MXZw?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSkxlT0g0WTNqVXR0ZkQzQ3hfa1EwUDJIbnJ3eW5sbEJTZ2daNXdNYVpPeElQcFEtRXZXTGtUSnRGT1o3aGM2STRqQWlTS2RtRGl6T0hmWWNQdk93V3VQc19xZF9qdzJ1REV5NUVKSVcxREVHdTFqVFF2Sm1DLWl3SUZ2ajZpQmlBNHRjZVlRQ29rUEw4NnZjaWZRNEs?oc=5"
+        "https://shopping.yahoo.com/style/shoes/articles/bad-bunny-x-adidas-gazelle-193318979.html",
+        "https://shopping.yahoo.com/style/shoes/articles/sneaker-release-guide-10-13-163617421.html",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQXNCNUxqTTZsR3RpSVFEQ3prcXVlSjBoNzNnWklYYU1ETE1rT0NZN094RVJzc2pmZ0d0OGJyU1VZbjZLRzNwNF83TEJEZGNFbEVPbEljX3N2QXZHQ1cycVBQRG1DUWVkQ3RESFdrVjVsQXYtcV9kcjNvUGRTcm1JUGQwbXVMZlpZaklSeE8wbWYtbVk?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVSWlFaWVQ5RTFfeFp2aHZIY1hRdXpkOUJvTXRHYXdiS3R0ZmY0X0ZvN3hpMDJQeW8tM2tFay1PWEh0VnZuOUZQMHJqTjBfQWVDRXZFLXRqSWRxdzNBWWhIazNQVVc4d0VmYVF5bE4xbmdNcUVNTC1DUy1aYUtETDFYZ1BLZVJfM01vSGdLa1JEQ1hB?oc=5"
       ],
-      "published_at_utc": "2026-10-18T19:23:13Z",
-      "published_at_ist": "2026-10-19 00:53 IST",
-      "first_seen_utc": "2026-10-18T11:00:21Z",
-      "age_minutes": 0,
-      "trend_score": 15,
-      "rank_score": 0.8941,
-      "category": "sports",
-      "section": "sports",
+      "published_at_utc": "2026-10-18T19:33:18Z",
+      "published_at_ist": "2026-10-19 01:03 IST",
+      "first_seen_utc": "2026-10-18T16:36:17Z",
+      "age_minutes": 57,
+      "trend_score": 13,
+      "rank_score": 0.8552,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Bad Bunny"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Sneaker Release Guide 10/13/26: Bad Bunny x Adidas Gazelle"
+      ],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/455db406e5fd6e734139fde1a1f9969b045959baa7947a1f1abb263b994bacdd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fc920c71d025344da724918b51ccaec1a.jpg",
+        "https://s.yimg.com/lo/mysterio/api/39ef79c0a72cd943e1f27499e7a2d764e52e9d252fdd5612b6ea8ddfb235b0b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2Fc920c71d025344da724918b51ccaec1a.jpg",
+        "https://s.yimg.com/lo/mysterio/api/182b1d78618657643c2a203f53c87d5d13f87f7ae9e5eb50522d9ae18f77b38f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F48b0a013f5097e7bdd9a32379152bd22.jpg",
+        "https://s.yimg.com/lo/mysterio/api/6883df7fcb808bcdc0f5492ff615b4e6aa108a6ed16e60f0dde5c8e11023a5e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F48b0a013f5097e7bdd9a32379152bd22.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "3ee098674b",
+      "key": "27-beyond-cindy-crawford-death-heartbroken-presley-son",
+      "headline": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+      "summary": "https://www.bbc.com/news/articles/Presley Gerber's death in September is being investigated as a suspected overdose.",
+      "sources": [
+        "BBC",
+        "People.com",
+        "Variety",
+        "Fox News",
+        "Yahoo",
+        "Rolling Stone",
+        "Page Six",
+        "The Independent",
+        "The Hollywood Reporter"
+      ],
+      "article_urls": [
+        "https://www.bbc.com/news/articles/cwzrd6123jyyo",
+        "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsME1IN1U0Z2pXa3FXdVBhTkFCMjVIcldNNVUtX3puRnhaQnFjYnFTalZZWGxGMFh0VEJXMENrMU16ZVA3SGhTWFQ2c2l4LTRZQWFBdWNYNF9RSlE?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdm1mUUU5NWhkZUtYMTJJRF9TTmxfVDZLRFJBTFNiTnF5U0FIUE0zS2M4eG9PckN2NndUNnY0OFpRaFVKb19BQ0xsZTVGaTlZX25HVkY3Rm9qX2x0Z1RMREVlcEpndGJ4VUhyeWU5TTdzU3RKTjUxN2pEenVReC1LMEV2eHBRQTJSaUdiMU5QZzNNUzhfM3VIMUU3WnhqdVZVeDRrdFJBOA?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVFFKaC1QaDBkTjdlajI4MzFWcndQZ1ZneFR5elg5WU5rNXZtLVU2Q1hlYUxubUVkMEdraHMyM0lDWTVIWl9OT2txYUxFeXZMc3YxZTh5MzJrUkt1cENYZGg0S2wzVk02V3NLckE0S2JXZ1pGUU56UXVSMkFsVzljQW1NNUVwQ2JWRzZKS2lVWUZvNjdQeTlkU3NIMXBjb0h5cHVMWUttQnltUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0FOMzJEY2RLaGlpQ3ZnZG1nWEpBTFBiVHk2RDBzZlpfTUpyeG00OEl5UkNGNF9uMXFMLWNnbm80MGx0c19sMFJ6VjR3el9LLXJOSDVrQUsyalpNUlItOS1NTGFkcUh2cFk0WWVodE9SUVh2dnp3YTlOTjVmVE9QdHNJcjRjWnRGM0Q3RVRfU3J1dFZkbHlmcTdVSFZ1WWdkOGfSAacBQVVfeXFMTy1wZXo3UHN4NkxYN2lNZXRfYllCdldTUmhub2NuSkhYRWFjUG5RWWphR2gtOUZGUm5nbEZzN2RvaklWX291STFpa2tKeVlYY3VnS2JFYmtKWmNROUFOVFdBb3VzTkJST1h0ME8wZlY5OExka3lXTGgyNHpPY0g0S0Joc1MtaU5veVZmTEhQYnRidkJ4NDFFdkZhWWZPR2hKUHVJMWpTSGs?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMGRaOFR1aFFYXy1vVmVqNy1jbF9lSzFSbDFIbE9xa2IzUXdwSHZkU2ZQSjNpdkFOUDdmTGMtZnltTmxheHBHLTZBbE9DeThZTTQ5Qy1fNE9fODBYS01TbUN1Rms1a2lQNGtmaFdFSTg3OHE5eUNuRnJkQ0VtS3dvNTFUTFpFdFcteC0ydUtwZVF2RzlfbjdsVU92d2FLSmcyVGd3aHU5LXFra1hu?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV1FhRUFSeDBEaUdhejNrUWVmUFRrLUhyaGhjcmlFYUk1dUZOUF9aYi02OE1Dd0dKYVkza0VHSENiZm9XbVRKY21mYVoxelQxekl3WmlEbHEtdDB2WUZVX1hiRGM0Ym1ucS1oSDAtRFlHR0xSdTlvRmkzMk9DYm1oY2RjTG9SVmF4NkpRWTlXX25zRjNTT29IVlpkemlxNFpIbmV3MjRn?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T19:53:27Z",
+      "published_at_ist": "2026-10-19 01:23 IST",
+      "first_seen_utc": "2026-10-18T19:53:27Z",
+      "age_minutes": 37,
+      "trend_score": 13,
+      "rank_score": 0.8418,
+      "category": "celebrity_music",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
         "GB",
-        "IN"
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://ichef.bbci.co.uk/news/1024/branded_news/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg",
+        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/9e6f/live/104d6ec0-cb23-11f1-862d-eb45b1209086.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "836ad40cdb",
+      "key": "cringe-insider-lando-mocked-moment-norri-oscar-piastri",
+      "headline": "Lando Norris mocked by F1 insider over 'cringe' Oscar Piastri moment",
+      "summary": "https://www.gpfans.com/en/f1-news/1091689/f1-lando-norris-cringe-singapore-grand-prix-mclaren-oscar-piastri-offer/Reigning F1 champion Lando Norris has been branded 'cringe' by a former F1 team principal after the Singapore Grand Prix",
+      "sources": [
+        "GPFans"
+      ],
+      "article_urls": [
+        "https://www.gpfans.com/en/f1-news/1091689/f1-lando-norris-cringe-singapore-grand-prix-mclaren-oscar-piastri-offer/",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUhjTmF6d3R4cHM2d3RQeW0zQXF2ajRaczdmSTctazk2THJwWkR4NG0tZ1hCbjFqMXV6RVc5cDJlNVIybk5nc2VHcXpQdF85VWg2UURreWFMaE1vcjgwdWZ0YWFvTklRUWhCR3U0dnNoTnRWRDR2TmVGMlhOUTFTV09XWi1hTUdDbjZXMjRwTGo3cnh1MVBzUVRCdHZudHNRRUdwQUY0eG5DZi1paGlqWlc4ejE?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T19:45:00Z",
+      "published_at_ist": "2026-10-19 01:15 IST",
+      "first_seen_utc": "2026-10-18T19:45:00Z",
+      "age_minutes": 46,
+      "trend_score": 11,
+      "rank_score": 0.8397,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Lando Norris"
+      ],
+      "region": [
+        "GB",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "cricket"
+        "F1"
       ],
-      "google_trends": [
-        "serie a (IN 1000+)"
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://sportsbase.io/images/gpfans/copy_1200x800/dede7932562becaf7fe74606136b9bfe4e4eceff.jpg",
+        "https://sportsbase.io/images/gpfans/copy_620x348/dede7932562becaf7fe74606136b9bfe4e4eceff.jpg"
       ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "65396e83f7",
+      "key": "comeback-deal-eyes-malaysia-race-rm950m-sepang-shared-table-weekend",
+      "headline": "Malaysia eyes F1 comeback after Sepang's RM950m weekend, with a shared-race deal on the table",
+      "summary": "https://www.gpblog.com/en/news/Malaysia is looking at bringing Formula 1 back to Sepang on a regular basis, either every year or every few years alongside another country. The move comes after the circuit's one-off role as host of...",
+      "sources": [
+        "GPblog"
+      ],
+      "article_urls": [
+        "https://www.gpblog.com/en/news/malaysia-weighs-permanent-f1-return-after-sepang-stand-in-race-brought-in-staggering-sum",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMUEwSzlHQTczSXNkN0RGbjBOby1zZU9rNEpNQWxqa2NFZ3FZRWpocy1wc1RqTWFEQml6aGVCX2Z4R2hQdElxakVIZkVFc2NlNXdxblUtWEc4dC10ZHRHdFYyV1R1ZWlJeXJWQkt2QTFGWTkza2oxVGJ2LXAzOW90U25ET0NEWVVndG5CUXF1d0JFN25wZGFCbFFUVGJscU9Hc3lhMkRQT3JYWkd3OTFuNWZMbUVaMTVobUJr?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T20:06:53Z",
+      "published_at_ist": "2026-10-19 01:36 IST",
+      "first_seen_utc": "2026-10-18T20:06:53Z",
+      "age_minutes": 24,
+      "trend_score": 11,
+      "rank_score": 0.828,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-07%2Fsepang-international-circuit-6a621f2d0299e.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-07/sepang-international-circuit-6a621f2d0299e.jpg@webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "194ee0c04e",
+      "key": "leeesovely-viral-®√-▷☀-𝕏",
+      "headline": "®√NEW▷☀+X𝕏X+!!leeesovely Viral Video",
+      "summary": "https://www.uco.es/scai/visita_virtual/Virtual tour generated by Visitas Virtuales Granada",
+      "sources": [
+        "Universidad de Córdoba (UCO)"
+      ],
+      "article_urls": [
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9lZHUveG9sLnhtbCIvPjwva3JwYW5vPg==&id=video-new-x%F0%9D%95%8Fx-leeesovely-viral-video-ali",
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3NhZGlkdmFpMDkuZ2l0aHViLmlvL3NkYy9kci54bWwiLz48L2tycGFubz4=&id=video-18-school-girl-sex-beautiful-xx315",
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2pvbm90aXR2LmdpdGh1Yi5pby9ldnQvcHUueG1sIi8+PC9rcnBhbm8+&id=video-exclusive-mehazabien-chowdhu-e0ocju6b",
+        "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNnE4TFRKU1FubjdReFJ5eDNkdTVkZ29BVWMzRFNESWZUN1ktSk52Z05GTzNkX2kwb2cxT1Z2eTY0cW9pcmg0MzdoR1dVZjBhR2tRZFA5U042MDF3LWRBaU5kcDlEVjFiNmJnMVM3UTRVc1NaRmN0czY2eE14LVgxS2EyWi15ZGdvOTVvc1hfRGpxNHZxeVBJWUlQYnBIeEc4ZVpvQ25YRzBMN1VzME5aR3F5S0Y3Rmd5eUVpaUN2RkVmanZscm5WX2dIWmJkMnhGMzRDMU5HRUY1VC1FR0RqRHB2RnI2TFR5M21ScjRpWUkwUDhHQ0lPUlc0MWNEcjhkb3d1bWJKSF9SVTJiSHRtN2ltdEtJTzhJamNTdUY2RGNfMXlrSktpNVFRRzBqN2otUkdPTHV5am9fN3hJNzB3?oc=5",
+        "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVklZQllGZEROMTBOaFVyMWZ2V2s5ODhDT0RhS2Y1eWVJTzhaTENYRWN3YWlFUFhubm0xVnZLWjhqbTNFZVdIbEpvMDNlNkpzYWVZeGpiRHBIUjMtWGdYdFUzVWo1ZmljX2xPZXJVMHNkaTRKX1hNakRYUmItV1VHa3ZaZ1ZiOGNabHBkWlBkZV8tT1ZxWG5aZkQwMUM5eEhKT21hVk5MaDNndEMwOG5lQkpNYzZ5UDRBR0FmTXdsY1RlQlRtZVdHMnRmYzFwMWF0RlAyYWFtVnZhS2x5bjNvc1hWcXZvblJsNFJpZWJFMzIzejkxOEFoRmlTdmR6RHo3cVBzYXBCb2dWcjZSbDlhUlJVTER4eUIyLTVJWElXT3V4RzdiQ1VrdTR6eTdWN2lTS0JDbE9SUTFSZVRURWc?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPc0pGbDllYmoxVEdhQjdEWkJ0V2taTVJ6dUNzaElMd2pnR1ZHQkNISjhGOWpZdnFvc2s4TmJZWGt3djlBTGgySmwtZElia1UydmxmWTFIZ2pLc3g1VU9qWHJKWlY3YVFoYnJtUU9kS0ZmbXQ2R0RtTG9BUFh2R19OdnZJVm80V2U0UXB3ODliVzJHbG5OMHRfRjZ6T0FLVXFxY3ItN1VpaFYtOHN5WFVrenI1dU1jcjQtNzFybEVCLVhIZnF4d0RBM1B3empsMGhZSmtsQWFWbmw1VnZ6ZDhOX1JESGRpRzZwLXBUdmR4dnJoNWJzNzhPbHZTRmdrd093cmdXejUxQjJoV2VvQzdkYzJJMXFxZVl3M0l5U2dhZW9pc2l4ZGh6dEFaSWp6Zk4ta0s4RnoyRk5DUDFqY2dGV0xwS0hQaTEtNDlZVmtXZ0tmU2tRNXlPSFFJbl9sREth?oc=5",
+        "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSzJoQUU4UkNsRWZlNTY0Q2dVYzducDFabVJXZG5EUTAtRUtMY1Z4akpxNk15TFpabDBsNjM3bjVZOHp6QzBkRXVEd2JsRU9tczFGZGxYcXpwUjBKdjRJVHFubUQzM3RhaTcyRzhXR0pHaE53c0M4YTBHOVRhaVlfUjZOcWhqRXgyWjFKWk8zRDB3clp6TVB0LUpaVHl0anFqc2RMbGZfdkYwMGMtbXVzLU5mSzJzVkp2TEZvMy1RcmtzQmE2bC14WGw0UGpVZXE0dnRIb282dkpkTE5uQnIwM2dPeW4wTGxGcGQxRl9iX0NJaXpfTDc5X0hjdjJDMVJzajlQRVcyNTNoekpWNjYyRVUxRndReUlTcEV4WDhsc1hrZGtkeWlodmZPTE1BQkhON1RDdVpyVzQ0RVFHb1lpNldYYlh3dGdjemNtLUFwb3hGR0o4N0h1M1NuMm1IaGdEQkVZYjFmMEJ0dw?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPLWlHNVFUeGtXTVFtd1ZPX0J1enhqNG1FdmVDaFBicGFlMzhnRWpRSnBYWlU3b0lBWlRBNDJLLTRfYllIWFdtWGxpVU0ydnpRYkY1dDc1M0JzZEk0WEcyVmpZRzl2RUtxR1d6V0VGQmtoQ0FJVHE1WXkyN3NQaFV2SFBrSUdJTDhfUVpoNzJnUzJpWDNZS3hXb21ualI4RXVOQ3dnQ1N4aVJPSy1YUnRyZlFRM2NuaTZUYzBQSWtDeUU3WW16d09VTDR0WmhmLXlVbDA2THRhTjNGR0NEbXpmS0ppUnR5dTJ3aERLdWx2VjZ1NFBGTHhMd2dfNi1mdWJIWGJQWFJIOVdkTmhlbjJIYjYwWEotRXFFSXFrRkdPM2NHTlh2b29MTEFUYWxWbjc2czU4bXE2NXhSZTJrQUZZLXFOdTQxWF82LWt3OVBDOUNPOUZSQWZWZnhnZ2xlZw?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T20:18:18Z",
+      "published_at_ist": "2026-10-19 01:48 IST",
+      "first_seen_utc": "2026-10-18T16:54:06Z",
+      "age_minutes": 12,
+      "trend_score": 10,
+      "rank_score": 0.8241,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "®√HOT▷☀!!CLIPs+!! mehazabien chowdhury) Mehjabin Chowdhury Viral Video: Online Reactions and Discussions",
+        "+++VIDEO EXCLUSIVE~ mehazabien chowdhury viral video maasranga",
+        "®√NEW▷☀+X𝕏X+!!kourtney kardashian Viral Video",
+        "®√NEW▷☀+X𝕏X+!!leah meow Viral Video"
+      ],
+      "image_urls": [
+        "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "4d185baefd",
+      "key": "base-canadian-dozen-fire-four-injured-killed-military-seriously",
+      "headline": "Four killed, dozens seriously injured in fire at Canadian military base",
+      "summary": "https://saudigazette.com.sa/article/665535/world/Four people were killed and dozens seriously injured after a fast-moving fire swept through Canadian Forces Base Wainwright in Alberta, Prime Minister Mark Carney confirmed.",
+      "sources": [
+        "Saudi Gazette",
+        "AP News",
+        "CBC",
+        "The New York Times",
+        "ABC News - Breaking News, Latest News and Videos",
+        "BBC",
+        "Bloomberg.com",
+        "ITVX",
+        "The Guardian",
+        "The Telegraph"
+      ],
+      "article_urls": [
+        "https://saudigazette.com.sa/article/665535/world/four-killed-dozens-injured-in-fire-at-canadian-military-base-in-alberta",
+        "https://apnews.com/article/canada-alberta-military-base-fire-wainwright-1a41899da5b6e797b000061fa4da9c6a",
+        "https://www.bbc.com/news/articles/cmgelrq8x92do",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd21TWlBsQU5SN0lFc2JscnNDVWF0RndnMHZZSkZoRmtlWUlKSHQ2WTFabzdRUmtfRTk3TkpZSU1zdDB3dlMxVVE3cVRwaWlLUERELTdra192ZDR2MndodWxoNUswLThfd0htelN6SHVOdnpyRnF2OGwzWUZuU0dZREhNZXJIV1pDb0Jqc1AxeWdCYWZsQ1Zlc0R3TVlQc29EUjhvd0piajB1RENLM2xTT0hqcm1xTkZfZnNmZA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTIwWmt1ZVJOMkFGWWdFcF8tMGtlUjZ0MVhHLUt5N2ZwU09KUmc2Wlc0S3NSRXNMVGdQTW1mUjFfUUpvOVZYc3ZickhBWHVlQTVQMUV1Q0t1d0sxVV9yZDNDN2tZbldVallWR1lUbjI5RGs0ajZwb1hXaWh4cF9IbHRORkNFWjNNYThqQkNZU1pZeG1YbTFN?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYXU5QzZ3NmQ3M21jM2R5V1NKcVZBZGNGWnZKa00tWVJ4ZWtRb0gwY0dtSWFkWG9Fd0xFaF9NUVYtY0NtR2RJQlhtX3hUVVllTTFvTWJlVlRWOC1JaFdRalpPWTY3bVlTczVoaUNITFphd0NHNjJmY1FmUGl0LXF2TlJaejgycW80N1JsOQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEZZV2h4VWI3S1VtLThtNmpFZ01JcHJwTGZ2LTFFbWhKUFdWaGpma0Zfak1jZEdsVzJjdkxOc2doX1lUdjI0Y0lvMEF6Qi0yd01LLW9QdkhUNXlyeU9KcGhhQW90S0FXWGFiek9pbmU3eFl2aUJ2MWhiaXlIaWVKX2UyREYxcm5SNHBVSG9scEZkTzlST25BQlF1VURtendrM05LdjVGaTNVX0M3TzgtdTNVOHN3RDd0RlHSAb8BQVVfeXFMUEthSVV2blJaTFRBVnhNMWg2cFM2bXRVZkFpajdMUlFqSTNzYjJNQWw2djRpZXRFZEg2ajdjMVlXUm9yRlcyUHJ3ZEw0QjliZVVrOXNCNTQ5SmUwNUJxeF8wbXducVJRbERGV01QdldhXzM2UkxOWkdBcURpUUFmVldzMXhPQy1RYTd2ZnJYX2hRRGtEOFZlSUdRWEp0SnZrZnpuSGNtRm53ekZYNXZkS3Fqa3BEOFhIN3dMWE81ajg?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T18:45:00Z",
+      "published_at_ist": "2026-10-19 00:15 IST",
+      "first_seen_utc": "2026-10-18T16:42:02Z",
+      "age_minutes": 106,
+      "trend_score": 16,
+      "rank_score": 0.8154,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Romania Women vs Bulgaria Women, 3rd place play-off, ECA Women's European Cup, 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-        "Latest cricket news, live scores and video"
+        "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
+        "Canadian military base fire: Death toll confirmed and cause under investigation",
+        "Carney says four service members killed and dozens injured in military base fire | ITV News"
       ],
       "image_urls": [
-        "https://photobooth-api.onefootball.com/api/screenshot/%2Fv2%2Fphotobooth%2Fcms%2Fit%2F43629902%3Fdate=2026-10-18",
-        "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg",
-        "https://akm-img-a-in.tosshub.com/sites/live-score/resources-live/images/cricket-default3.png",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRv5NY7LPMpEHjcQ6XA9_zVPHLp_ZQUB-A4ql7Ek3Z6Zc9fiT0JMNAPU8zLv1Q",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZ0g1pQAiJ3zWTKdzMINdrqUcSkdxVQrOlbx_cNy2F2DEqGXWTKZtnZftIueo",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRTj8jfZMDpxJr9FDFPrdjwnWyNsvPfBzTiQ_QuGu_jt0JRFBjwHLGzB-I6A0"
+        "https://saudigazette.com.sa/saudigazette/uploads/images/2026/10/18/2781893.webp",
+        "https://ichef.bbci.co.uk/news/1024/branded_news/4d82/live/7fedb8b0-cb1a-11f1-a9ef-8b4e735f71f0.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.bbc.com/news/articles/cmgelrq8x92do"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -268,9 +615,9 @@
       "published_at_utc": "2026-10-18T16:30:05Z",
       "published_at_ist": "2026-10-18 22:00 IST",
       "first_seen_utc": "2026-10-17T22:30:26Z",
-      "age_minutes": 173,
+      "age_minutes": 241,
       "trend_score": 5,
-      "rank_score": 0.8329,
+      "rank_score": 0.8117,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -320,294 +667,40 @@
       ]
     },
     {
-      "id": "194ee0c04e",
-      "key": "leeesovely-viral-®√-▷☀-𝕏",
-      "headline": "®√NEW▷☀+X𝕏X+!!leeesovely Viral Video",
-      "summary": "https://www.uco.es/scai/visita_virtual/Virtual tour generated by Visitas Virtuales Granada",
+      "id": "031e71dd3e",
+      "key": "championship-cricket-engch-final-legend-match-squad-wich-world",
+      "headline": "Cricket match squads | ENGCH vs WICH, Final, World Championship of Legends 2026",
+      "summary": "https://www.cricbuzz.com/cricket-match-squads/175070/Get match squads, playing eleven details of England Champions vs West Indies Champions, Final, World Championship of Legends 2026, Today, World Championship of Legends 2026 on Cricbuzz.",
       "sources": [
-        "Universidad de Córdoba (UCO)"
+        "Cricbuzz",
+        "Fubo",
+        "Bluefield Daily Telegraph"
       ],
       "article_urls": [
-        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9lZHUveG9sLnhtbCIvPjwva3JwYW5vPg==&id=video-new-x%F0%9D%95%8Fx-leeesovely-viral-video-ali",
-        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9lZHUveG9sLnhtbCIvPjwva3JwYW5vPg==&id=video-new-x%F0%9D%95%8Fx-kourtney-kardashian-viral-video-ali",
-        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9lZHUveG9sLnhtbCIvPjwva3JwYW5vPg==&id=video-new-x%F0%9D%95%8Fx-leah-meow-viral-video-ali",
-        "https://news.google.com/rss/articles/CBMi6gJBVV95cUxQSzJoQUU4UkNsRWZlNTY0Q2dVYzducDFabVJXZG5EUTAtRUtMY1Z4akpxNk15TFpabDBsNjM3bjVZOHp6QzBkRXVEd2JsRU9tczFGZGxYcXpwUjBKdjRJVHFubUQzM3RhaTcyRzhXR0pHaE53c0M4YTBHOVRhaVlfUjZOcWhqRXgyWjFKWk8zRDB3clp6TVB0LUpaVHl0anFqc2RMbGZfdkYwMGMtbXVzLU5mSzJzVkp2TEZvMy1RcmtzQmE2bC14WGw0UGpVZXE0dnRIb282dkpkTE5uQnIwM2dPeW4wTGxGcGQxRl9iX0NJaXpfTDc5X0hjdjJDMVJzajlQRVcyNTNoekpWNjYyRVUxRndReUlTcEV4WDhsc1hrZGtkeWlodmZPTE1BQkhON1RDdVpyVzQ0RVFHb1lpNldYYlh3dGdjemNtLUFwb3hGR0o4N0h1M1NuMm1IaGdEQkVZYjFmMEJ0dw?oc=5",
-        "https://news.google.com/rss/articles/CBMi3gJBVV95cUxPLWlHNVFUeGtXTVFtd1ZPX0J1enhqNG1FdmVDaFBicGFlMzhnRWpRSnBYWlU3b0lBWlRBNDJLLTRfYllIWFdtWGxpVU0ydnpRYkY1dDc1M0JzZEk0WEcyVmpZRzl2RUtxR1d6V0VGQmtoQ0FJVHE1WXkyN3NQaFV2SFBrSUdJTDhfUVpoNzJnUzJpWDNZS3hXb21ualI4RXVOQ3dnQ1N4aVJPSy1YUnRyZlFRM2NuaTZUYzBQSWtDeUU3WW16d09VTDR0WmhmLXlVbDA2THRhTjNGR0NEbXpmS0ppUnR5dTJ3aERLdWx2VjZ1NFBGTHhMd2dfNi1mdWJIWGJQWFJIOVdkTmhlbjJIYjYwWEotRXFFSXFrRkdPM2NHTlh2b29MTEFUYWxWbjc2czU4bXE2NXhSZTJrQUZZLXFOdTQxWF82LWt3OVBDOUNPOUZSQWZWZnhnZ2xlZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNOTAzNHdWZzM3YlBEOW0wQU9SbTNNUk1OUW5rNURTX2EzNloxSjFORGluLUlCUUtaWkQ4dFJNQ2VYcUZQTWtYZ2pGazBDOHQyMmZBakZOZkZFRUJTVkhjUkZlSWdMMk5obXFhMHFFNVVKNTI5TDZ5WVlQOXBSYlZOUU96RzFCbHd5TURQRUlpaFgwdVVscDRpb2lnSUJWLXZfQ2tmWVZiWlJ5TnR3Z2M0WnpkR1ZGZXQ2SE8zci1aT1Z2UzdfNk5UU3RCSE5MSFlHTFNTYTQwWEtIZEdybFY2bTQ4MlQxcE1zakwyOEJuT1lybXR5eTR0MHJkcTJkbndaNEJZTHJ6T2pPb2hpZUNkSUtNR2RJNG5OZTBkM0pCWElibFJac0pRVE1MbXZodXAzemFibjlWRU9MN2d6NzRpUHFDRkxTY0c5S2ZTNUlLMVV2YW83dzRtemI0OXc?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOaHA3S3lZNHlKR0hPOUtMT1VwejRRWWE2RXFORjFaWVVtc01XSV9Fd3c2dWhxb3k2ejRkR19pQ3dKdVpMRHpnU3RHSERfbDluVGh4T1l3TERqMGdvbVdqRzhXVlpUbXViZThjQmZfOHd5bFh3MFd5YmxleUkzV2Fuc2U5bEFCTnpjSnB0dXFZbzZjVGxzbDRhYTFSX1h5anpSbVBFQm9hckFDeF9vcjhNTl9lTzFPS2tTdDBwQUcxWGdsSUlucGgzemk3Z0FLSjNtbnhJYTE2c2l6UUZsQ3FLTjRLeFcyR2RnNTMteDY1cGZ6aUNLbGR1YzhtTHpLNEsxQlMzb0Y0SHY2WDBudWp1UnV1UnRONXFQc0VXNmlxWngzQWUtT0Eza2lsYTd1MmdLS0xjOVZNQ0xDd1VMV1MycnhPeUgwTk5fSXFDT2ZhMGtic3hDMFdic0lMaGU?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNeWFLLWxVc0MtbjVTdUVFelhvTUt6ODdrUEpnUVdBWGNPY05RR3E2SG1GVHZmY09jTW45dVViVDl0N0w1MkJaUVdSazQ4NWJmdUNTbmpVY3lka3F3bzczak1vektMV3dVbFNsSEtBbnlGd1hqaTdqTk5xSHlDOGktZzBBNzN4dXdfVlJhc2tZeTl4Y2V5ZDVDREZ5YnhBM1V4a0NXT19oQlIxZm42MDFoeDBYal90OFJyQXRyLVBZOTdWbVJ4enp3LS1PSDF3UXU4MG1tTk52aUUyaTZNT201cXBKMWJSeW9JQjR1ZzBiOUt4QVpRWHZ3cmhrVFpFRG5PejRvUm5najdlWkZMMHpvMGdqQi1OSWVWZlREZ1VKTExzcldkTTA5WHhEMkVqbXZ3Rkt6T2pQSF9adHY4R0I4Rm9WVGtGaXZnVFhOUnVVUDdJVE81cVJTcDV0bnk3SjA4dl9F?oc=5"
+        "https://www.cricbuzz.com/cricket-match-squads/175070/engch-vs-wich-final-world-championship-of-legends-2026",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxONHAtaEZKWlpMLXc5RWRJMUd2THA4d25pY1hOUmxhMF9YOGJuenhqZFhYTW5OdERUTElWVms0R2x1ZDdpWEpvQ3BOVGlERkFhZVV2b0dYaThGeWMxTzlueG0zRTE0QU9xSHpyeUlTWmJ2V3Nzc25DY0VyX1VGNXZoQlFrbENlUUJPX2xLVl8wNjRZMWpGUzNxYVFiQWJraVFQWEJTUk5VSEhlNGtXSzJub1dheVk?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeWpKNGVqQTRpbDF0c1JjdDN4UGFDWDlpQUdsOHpwUVdqOE1fVUlvZEF5V2d4cWhBYm5UdDVHVXZjcFduRnBWTkhHRWx1YmY1Qi1JWnlxZkJ0SkY5bVQ4NWpOZC1MaV9LNHpCQ3hwLXFUSXl5eEtwMFd1M0FIZlRIMUw2UEFRcFhUQ1F3MlVKdmo5OE8xbW96dVBlYXpvNW5KNFRlLWVmZWlrNlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SZXY5Sk51M05MWXJxTm9CV2FkcXgwdU9GMThRVGdfTGpmQVpFbVdjY3dKRm9KdnlIOWZWemNRaTZMWUhtQ2otTFpB?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaFA3MEJaLXc4QkdvOW82UkR0ZF9IWTZka1ZPZmswaGZRRUd4SVlZOGxyRkhqckVId1k2b1FPQkU3NUpzYnRoWHR3eU1aRTBlRTJZb1VGWHFxbDB1Q0ZrRWtDU2dheExsbVAxd1NIRmhUUWhLS19GaGx1cVFnOWdSQndLNWpCaE5QdkNYSUVmU3RQTEtxRG9abmdBRmJhY19vN2Q5d0JqTTl3a1ZLcUk2MnRQaGtzbFo5UTdMaEFpQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdlRwTnNJcXAzMlVtSFdmMUJMN2liYWNHM2FLTnZGLXJXUnU4X1U1UVFYUWR0eEN5MFc4YnFnSmcwNHNMWjBnZm9fY3hONDg0cXZrTzgwZjUwRmNIZmQ3ZHUzUUN5Y0p3N2xiX25TMUFKU1NjWVVjLTlQcW1Cb0J2YkxGVkxHV3Z4Qm1fTE51Qk1aLXZMMmxJejA2cnlOQ2tVUFdkOGZuVDR1S3RnZXZXNDFxMnVHMC1MMUJUaDZVQQ?oc=5"
       ],
-      "published_at_utc": "2026-10-18T19:09:45Z",
-      "published_at_ist": "2026-10-19 00:39 IST",
-      "first_seen_utc": "2026-10-18T19:09:44Z",
-      "age_minutes": 14,
-      "trend_score": 10,
-      "rank_score": 0.8224,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "®√NEW▷☀+X𝕏X+!!kourtney kardashian Viral Video",
-        "®√NEW▷☀+X𝕏X+!!leah meow Viral Video",
-        "®√NEW▷☀+X𝕏X+!!kimoriiii Viral Video",
-        "®√NEW▷☀+X𝕏X+!!little rieslin Viral Video"
-      ],
-      "image_urls": [
-        "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "8e88fb17be",
-      "key": "1-ambition-behind-controversial-deal-financial-formula-huge-reveal-rwanda",
-      "headline": "Rwanda reveals huge financial ambitions behind controversial Formula 1 deal",
-      "summary": "https://www.gpfans.com/en/f1-news/1091697/f1-rwanda-grand-prix-government-officials-sports-minister-controversial-tourism/Rwandan officials have hailed the country being welcomed into F1, while human rights groups have levelled accusations of sportswashing",
-      "sources": [
-        "GPFans"
-      ],
-      "article_urls": [
-        "https://www.gpfans.com/en/f1-news/1091697/f1-rwanda-grand-prix-government-officials-sports-minister-controversial-tourism/",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUkhhZ012cTlNS1VMbmNZMjhOcjFwZ29ZT1JfN2pMQ0V2VExYQURKSjY1eDRnRUJFeWZLaTdfS2RlZ3RqeHdMVV92RWotN1I4RWhDVk5lUjVxc0o3YWl3T3N2ZWxiU092LU1uZkt0VU9OTDdoYmU0U3lpMnlsNVJ1dHJpRmRjdXhRM1pCbjRzOTBnWV95ZDdHcXh0MVY2SXpiRWVOcC1UcmR2ZDFEN20yaHlQbU5JQ1hEeU9GYzNhZw?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T18:47:52Z",
-      "published_at_ist": "2026-10-19 00:17 IST",
-      "first_seen_utc": "2026-10-18T18:47:52Z",
-      "age_minutes": 35,
-      "trend_score": 11,
-      "rank_score": 0.8188,
+      "published_at_utc": "2026-10-18T19:48:59Z",
+      "published_at_ist": "2026-10-19 01:18 IST",
+      "first_seen_utc": "2026-10-18T12:00:53Z",
+      "age_minutes": 42,
+      "trend_score": 8,
+      "rank_score": 0.7669,
       "category": "sports",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
         "GB",
-        "US"
+        "IN"
       ],
       "language": "en",
       "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://sportsbase.io/images/gpfans/copy_1200x800/fa21d556a0b1124ab01ceda0c4770eef304a1b1a.jpg",
-        "https://sportsbase.io/images/gpfans/copy_620x348/fa21d556a0b1124ab01ceda0c4770eef304a1b1a.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "283853523c",
-      "key": "apart-blackpink-carpet-look-red-ros-torn-é",
-      "headline": "BLACKPINK’s Rosé Torn Apart For Latest Red Carpet Look",
-      "summary": "https://www.koreaboo.com/news/blackpinks-rose-torn-apart-latest-red-carpet-look/BLACKPINK's Rosé is facing backlash over her latest red carpet appearance as fans pointing to a pattern they say keeps repeating.",
-      "sources": [
-        "Parade Magazine",
-        "Koreaboo"
-      ],
-      "article_urls": [
-        "https://www.koreaboo.com/news/blackpinks-rose-torn-apart-latest-red-carpet-look/",
-        "https://parade.com/news/mick-jagger-fiancee-melanie-hamrick-in-love-red-carpet-appearance",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaWhpV2N0Z0FqYU1OZjZ3Vk1Ia3pscWdULVV4YWo2bWM3ZHkwNWQ2dHZocjN2OHBfUDJxM1lnY3BDenZTLV80RmU3b2NjZGF3WFNGc0RSdFluU3lvdVh5R0FTVVBISzVMb2cxRWdkbHRzT1VDckRwRUFJOXhhQ201R0M5OHhLaDlZVnU1Ykx6VXBReGM?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTGJ2aFZkRHhTb20td042V1VISm5HYW5KUkFnOXVCVXUwc01xTWZaTVdqVjJXTmx0bEJuQWYyTG44dVI2LWJpWnN2c1ptV3Bvbl8zellZRy0wZ0dvd0dvZ3pyYlNuUktlNHBVTmNxY2hHZkxCWXBnbC1lR1BpZDNpNFAwV1JLcVE?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T18:45:10Z",
-      "published_at_ist": "2026-10-19 00:15 IST",
-      "first_seen_utc": "2026-10-18T11:04:47Z",
-      "age_minutes": 38,
-      "trend_score": 11,
-      "rank_score": 0.8163,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Mick Jagger, 83, and Fiancée Melanie Hamrick, 39, Look More in Love Than Ever in Red Carpet Appearance"
-      ],
-      "image_urls": [
-        "https://image.koreaboo.com/2026/10/roseMuseumGala-FI.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "d5d4f4aff7",
-      "key": "all-brad-cars-champion-driven-five-mclaren-one-pitt-sell",
-      "headline": "McLaren to sell five F1 cars, all driven by champions and one by Brad Pitt",
-      "summary": "https://www.straitstimes.com/sport/formula-one/The cars, to be sold through high-end dealer Tom Hartley Jr, are expected to raise tens of millions of dollars. Read more at straitstimes.com.",
-      "sources": [
-        "The Straits Times",
-        "شبكة تواصل الإخبارية"
-      ],
-      "article_urls": [
-        "https://www.straitstimes.com/sport/formula-one/mclaren-to-sell-five-f1-cars-all-driven-by-champions-and-one-by-brad-pitt",
-        "https://twaslnews1.twaslnews.com/6184159/",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVi0tcHRjRGVRVUZYeFNKMGN4ZC03X1FDc1Z6NWtkQks3OEh4eGhhMXlhQkthSnB2UWhBNG1tLWpkazNCakRGSldjTFY3Tk5YM19rbXE0cnczN3RnQkdOaU5iRjZsekxyYmRJMTlZbVMyNGRvbVVIZ2NTWHhncXc4RU1pMWZXcGNqai1KSldtU056OFZ4c0dDdWtZamMxQm5xTWkwd2s3d2hrcnhxQVR1N1g2WndRb0d3V0puNA?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fQUJnVElSbTR5RXBxbTBFSEwySE8zeFFNaFZEdjR4MXlHaVBzTnIxZkVPdXd2RFlkQU9fOXdJVGRtNVNMSmtfMDk3a0gybjZSNFI0?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T18:25:00Z",
-      "published_at_ist": "2026-10-18 23:55 IST",
-      "first_seen_utc": "2026-10-18T17:38:34Z",
-      "age_minutes": 58,
-      "trend_score": 12,
-      "rank_score": 0.8125,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "McLaren to Sell Five F1 Cars, All Driven by Champions and One by Brad Pitt"
-      ],
-      "image_urls": [
-        "https://cassette.sphdigital.com.sg/image/straitstimes/d43b81ab9790774b84b5f4f131e025bb9285e69ed57e42cfe6409f0a199675be?w=1200"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "c2d91262b6",
-      "key": "all-carpet-celtic-heart-red-roll-walk",
-      "headline": "Hearts roll out red carpet ... and Celtic walk all over it",
-      "summary": "https://www.bbc.com/sport/football/articles/Hearts thought attack was the best form of defence at Celtic Park. They were badly wrong, writes Tom English.",
-      "sources": [
-        "Sky Sports",
-        "BBC",
-        "LiveScore",
-        "The Guardian",
-        "Celtic FC"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/sport/football/articles/c62kezneyq8vo",
-        "https://www.skysports.com/football/news/13593649/celtic-7-1-hearts-hoops-move-four-clear-at-top-of-scottish-premiership-with-ruthless-display-against-jambos",
-        "https://www.skysports.com/football/video/13600694/celtic-7-1-hearts-spfl-highlights",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMjNYWVlXRmwwbHBfYlN0ODRaVWJvSm1sZ3hVVVBoZ1ExUTVVY3J4eEcyVUtHUmhSdWtxZngzeGNSVlFVRDdYV1dJekdlWnFUVkRQemVtRG9MSG9iODhCY0NjSGU4RkYwMHlTZWYyajF5UlFVV25PNkdlSE4yMFNPWi1Sd2Jyc1FRcFg5Qzdpd3Q5QjFoS1FiaW8xVS1GZzdoOWVEbmpERXhxdFhEeWpWNmVmSTF3MWR6Y1hXdktQWWtoVU5helNtRGRLZ3g4TFBlaG5VY0RZQi0zdmdSZmFqM2RFRE51UHNmVGVBdg?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9rUVFyRWduTy0zNFI1LTJlbmhoNUo3bUVGanMySDAzem02bzMwaTBwYk4teWZuTFRpTlN6RW9FV1FHT2pZY2xJTlEzcWI1WDhiOFJSTFNQZE1xYThfdFF2aEtuNmFjb09y?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRHBnbEtObTlvemZJUHlpdVlSUnk1eXBwM2NzanJfeXVsYV8xUWdyU0ZBMlVtWTBYMk13blVqTFV5cXdGNmZYQXJFX1A2RWY1cExJMDZtSUQyR0sxc0xzN1dERnJqLUkyVy1JcW5udncyMmwzUXQyei1qSTVJbjJQdk1ZMGVyRUNvTlBER3A4enZBcDZHSVd6YnBRTmhHVllfWlJfcGxZckhXUnJSYURMNFduZFRhbXVMaE5RWlpnbWJGeGRPd244NzdHeC1MY05ScWJNMEczVVFSQmhrZHlMWjFZRmUxS3h4QlQxRXFOeTI?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3p5M2hCd19ZSzFGa1hiQjY1djBiZmtUVEFrcnV2cDljcDdfMDFJSWo2TVFodG8zOWNXajVKTnFSOVMzWWlHcTdzYWxnSmswS1phazktUHlqM1U5X2VscXFDUWhSbE1jT1Z3Z1Z4cVNaaUl3NjllOU1QSFRzaEdSRjJvMFVCZ19Hb3I1czdGazVxM3NHTXZzODB4OVRUekpHQTd6cGROcDEwTUNnU0E?oc=5",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR08zeWIyNXh1ZEhlOWllcnl6eWdtRWtZWFhtOTFidFZ3eG5QeDEwZzE1NHUyV1lsRWg5NmpUSmF2LTVWNW8wTXJsOTI1THVCY2IyR3pfLWMzbVRVMmMwRGllam5OenBieTM2ZmVOVjBOZmtzRVk3dlp4OE11TU02U2p1b1lIVjBObXEtUHFUM1J1SzluTzdN?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T19:10:35Z",
-      "published_at_ist": "2026-10-19 00:40 IST",
-      "first_seen_utc": "2026-10-18T18:22:50Z",
-      "age_minutes": 13,
-      "trend_score": 9,
-      "rank_score": 0.808,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Celtic 7-1 Hearts: Hoops move four clear at top of Scottish Premiership with ruthless display against Jambos",
-        "Celtic 7-1 Hearts | Scottish Premiership highlights",
-        "Hearts roll out red carpet... and Celtic walk all over them"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/3ef9/live/38173b20-cb1e-11f1-bfba-6f29101eb4a3.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "1a6776fe25",
-      "key": "1-51m-box-driven-fans-fighter-global-largely-office-opening-ring-street",
-      "headline": "‘Street Fighter’ Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans – Global Box Office Update",
-      "summary": "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/'Street Fighter' was easily No. 1 at global weekend box office with $51.1M. 'You Can See Everything' hasn't begun foreign release.",
-      "sources": [
-        "Deadline",
-        "Gizmodo",
-        "AP News",
-        "Rotten Tomatoes",
-        "The Hollywood Reporter",
-        "BBC",
-        "Empire",
-        "Variety",
-        "IGN"
-      ],
-      "article_urls": [
-        "https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/",
-        "https://gizmodo.com/open-channel-whatd-you-think-of-street-fighter-2000827356",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPY2lLWUNMaUZ5cEtza21Mb2hCTEhPUUU1QVpaSDhhSXBhd3k1UlZ2Q3lvM0JSME5fenlsdFFDM2pacU9TdFcwcWhjekJ6MUJ4RmozS3J6Yk45ODRHUkw4cVhYV1ZVemZzTUV1OUlBUkpXVmI1UzJDVG9JdV9idw?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY0N6NXIxZzJMVVAzbThqalA4bnB1RWc2RDdXbGhxTU5adUE2bEFZTXhoN3dNaDJrVXpWT1JlVVRGbFFmSDNhSjZXOURHVFRWZ3RMMXdZUGZxZWlKS092SF85VUpIbFFNcVZERlktUTNkb21MR08wV3JMY3pWVjU0RW9tRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNXRoZTJ6ekEyQXBQRnhHU1NWTUcxYzdOMWNjaDVXZmktMXh6N21maWY2V2o4RFQ4cXNrR28xNFQxMmNDc1hqNm00SnMzd0ZNc3l4N0N6QnFyQjNWb0piOW1IZlg3Ymh5QUM2U1VuamFDQlE5OGJueGxiQkNjWEV5ckFqZXNPcGNTYmRnOGd4d1c?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTFscHhYQXgwODFta0ZUaFlsZVU3eEV0Q1drRUdSTnZaSW04UHNlT0dDY0Q5bXZmUEk0ZTg2UmdNQl9WQzNSOW1lVEo2dWllUHVXOHN0dFdpN2VqelBlR0tURGl3emM3NGxtd01vQTJ1ak12WEZ5VGliUkhXZHQwVVY0enpwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDJjSjdLeWJfa0ZGaEtLcjU0ZDJzLUlvc0V2bUQ1QnFLMV80eXg5ZUZQTlAtWTUwbGxQank1OHdIYnprT09NNFpvMlpMTU1KNG13Sm9GWkplaE5xdEI3NkRXU3J2a2ZMTHZyeG9odXl6cHhtTGNwNDFzUEZ0cXFjUC1xcHdtQ0RlTzR6UlBCTlpkLVFYTnFGOEJHaTVUcUhTRnBLdmhNeFFpQXpZWno5Wi1FbU0xOXhUN2s4VExjWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IcmhuTWxIQ3kydy1ldFBOVDVDT3c5OERHUVZUM054T3JNNUFoWEFYTWZOSVVZZUtWZ21KdTFSVE8zU0F0MGQ0Q3BZbUZOS1plRXBUR2FwdUVva2ZkV0E?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T16:59:00Z",
-      "published_at_ist": "2026-10-18 22:29 IST",
-      "first_seen_utc": "2026-10-18T16:25:12Z",
-      "age_minutes": 144,
-      "trend_score": 15,
-      "rank_score": 0.7741,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
+        "cricket"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -615,80 +708,39 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Open Channel: What’d You Think of ‘Street Fighter’?"
+        "Cricket match squads | AUSCH vs WICH, Semi Final 2, World Championship of Legends 2026",
+        "Final, England vs West Indies Live Stream: How to Watch World Championship of Legends Cricket (Oct. 18, 2026)",
+        "India West Indies Cricket"
       ],
       "image_urls": [
-        "https://deadline.com/wp-content/uploads/2026/10/MCDSTFI_PA023.jpg?w=1024"
+        "https://static.cricbuzz.com/a/img/v1/i1/c582022/i.jpg?d=high&p=det"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://m.cricbuzz.com/cricket-videos/214308/highlights-pakistan-vs-sri-lanka-odi-tri-series-2026",
+        "https://m.cricbuzz.com/cricket-videos/214287/highlights-india-women-vs-zimbabwe-women-2nd-t20i",
+        "https://m.cricbuzz.com/cricket-videos/214204/salman-aghas-107-vs-sl-odi-tri-series-2026"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "479e7e4d31",
-      "key": "10-13-26-adida-bad-bunny-gazelle-guide-release-sneaker",
-      "headline": "Sneaker Release Guide 10/13/26: Bad Bunny x Adidas Gazelle",
-      "summary": "https://shopping.yahoo.com/style/shoes/articles/The Martine Rose x Supreme x Nike Dunk headlines this week's best drops.",
-      "sources": [
-        "Yahoo"
-      ],
-      "article_urls": [
-        "https://shopping.yahoo.com/style/shoes/articles/sneaker-release-guide-10-13-163617421.html",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVTVSWlFaWVQ5RTFfeFp2aHZIY1hRdXpkOUJvTXRHYXdiS3R0ZmY0X0ZvN3hpMDJQeW8tM2tFay1PWEh0VnZuOUZQMHJqTjBfQWVDRXZFLXRqSWRxdzNBWWhIazNQVVc4d0VmYVF5bE4xbmdNcUVNTC1DUy1aYUtETDFYZ1BLZVJfM01vSGdLa1JEQ1hB?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T16:36:17Z",
-      "published_at_ist": "2026-10-18 22:06 IST",
-      "first_seen_utc": "2026-10-18T16:36:17Z",
-      "age_minutes": 167,
-      "trend_score": 13,
-      "rank_score": 0.7635,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Bad Bunny"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/182b1d78618657643c2a203f53c87d5d13f87f7ae9e5eb50522d9ae18f77b38f/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F48b0a013f5097e7bdd9a32379152bd22.jpg",
-        "https://s.yimg.com/lo/mysterio/api/6883df7fcb808bcdc0f5492ff615b4e6aa108a6ed16e60f0dde5c8e11023a5e2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F48b0a013f5097e7bdd9a32379152bd22.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "6b1a1b298a",
-      "key": "49-attendant-case-confirm-ebola-eighth-kenya-old-patient-positive-test",
-      "headline": "Kenya confirms eighth Ebola case as 49-year-old patient attendant tests positive",
+      "id": "7fe305768c",
+      "key": "back-conflict-deal-despite-ethiopia-keep-peace-repeated-sliding",
+      "headline": "Why Ethiopia keeps sliding back into conflict despite repeated peace deals",
       "summary": "",
       "sources": [
         "The Eastleigh Voice"
       ],
       "article_urls": [
-        "https://eastleighvoice.co.ke/headlines/413599/kenya-confirms-eighth-ebola-case-as-49-year-old-patient-attendant-tests-positive",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmMwU2wzNVNzaGpnbkd4SmFEXzhtVGVuR19TR3dJZkg0SjI0OTgwVnNqTF84QXdLNFNZUDlnSHlPZXpaS0JwV25YbTU5X0VtMHZLTXhlRHc3blJXdDRzRWJYbllmaEtZcHBaSHY4UE5PcTZSOFZzVmg4WEdPOEtLWkRWbHVZd1BjelJGMzVfUzJ4SVpleTdwVjVaNXVCOHVDX0dVOTBYWUhFaGRzWkpHMGdnMEoxM0JiaWxHREtzZHJOOTM4?oc=5"
+        "https://eastleighvoice.co.ke/ethiopia/413536/why-ethiopia-keeps-sliding-back-into-conflict-despite-repeated-peace-deals",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmpDcjhNbEh6WDJPNU9mSGJlc3o1cF8wa1lwdXpaQlhtWnY0Q0tGeE1zamZFc3VUZm5vM0NqZ3BkZ01lQ19TcHk1NVR5M1BGSldoaW1HaUljVWRNd2NfNlVCRG94cEVIUGtzZWVtYzctZ2d1NmtvNGJXVUstbEVXVTJxNWhYTXEyYXJKRnh4eGFJcUQxSlVBdFlZQ0ppMmt5WEJ5T2lGWHVCWGxnSWUzclpuSTYzTG1oQUgw?oc=5"
       ],
-      "published_at_utc": "2026-10-18T19:14:32Z",
-      "published_at_ist": "2026-10-19 00:44 IST",
-      "first_seen_utc": "2026-10-18T19:14:32Z",
-      "age_minutes": 9,
+      "published_at_utc": "2026-10-18T19:38:34Z",
+      "published_at_ist": "2026-10-19 01:08 IST",
+      "first_seen_utc": "2026-10-18T19:38:34Z",
+      "age_minutes": 52,
       "trend_score": 6,
-      "rank_score": 0.7542,
+      "rank_score": 0.7183,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -713,29 +765,70 @@
       "youtube_videos": []
     },
     {
-      "id": "734e943898",
-      "key": "amp-aum-post-result-stable",
-      "headline": "AMP posts stable AUM in Q3 results",
-      "summary": "https://www.moneymanagement.com.au/amp-posts-stable-aum-in-q3-results/AMP’s wealth business reported stable assets under management from three months ago at $168 billion, helped by $1.5 billion platform inflows.",
+      "id": "811406465e",
+      "key": "23-61-86-drop-estimated-hype-hyperliquid-prediction-–",
+      "headline": "Hyperliquid Price Prediction – HYPE Price Estimated to Drop to $61.86 By Oct 23, 2026",
+      "summary": "https://coincodex.com/article/93852/hyperliquid-prediction-october-18-2026/Hyperliquid is predicted to decrease -19.84% in the next 5 days and hit a price target of $ 61.86 per HYPE. Check out today's Hyperliquid price prediction to learn why.",
       "sources": [
-        "Money Management"
+        "CoinCodex"
       ],
       "article_urls": [
-        "https://www.moneymanagement.com.au/amp-posts-stable-aum-in-q3-results/",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIdlI2YllGZDVDdWJVdlpMeWFGTkEtY0FJTmVrUlA1WHhhSjJoVU9QT0t6Ylhmc3YwVnV4ZS1rODBkWU01X0tmX0RFdGdTTFhLNElzU3drSThNa3V3dVg0Y1hTMW9qTnNfZWZNUlhnX1kzS01PWEVxclF3?oc=5"
+        "https://coincodex.com/article/93852/hyperliquid-prediction-october-18-2026/",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVkwcVlLWkxsVUNGUlg4UzB3dnhNMDJTYXB4bDduWVhsZkdSc2N6eDAzQ04weFdRWkF1dDJkZFlHV2dyUGV6YmRhTkM1UGtJcjkzUENfYjlQTXcza21JSVF5UkVnS0YtM0tmbEtJTTJXelZkN0pXaTgtdV91Wjh0ZQ?oc=5"
       ],
-      "published_at_utc": "2026-10-18T19:06:54Z",
-      "published_at_ist": "2026-10-19 00:36 IST",
-      "first_seen_utc": "2026-10-18T19:06:54Z",
-      "age_minutes": 16,
-      "trend_score": 6,
-      "rank_score": 0.7483,
+      "published_at_utc": "2026-10-18T20:05:00Z",
+      "published_at_ist": "2026-10-19 01:35 IST",
+      "first_seen_utc": "2026-10-18T20:05:00Z",
+      "age_minutes": 26,
+      "trend_score": 5,
+      "rank_score": 0.7153,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://imagecodex.com/v1/media/9260e75f-55e9-4b46-b927-e5675b09dd33.png/w=1600,h=900,fit=cover,f=jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "f62d4387ee",
+      "key": "airbase-buying-different-path-ramp-review-similar",
+      "headline": "Ramp vs Airbase: Similar Reviews, Different Buying Paths",
+      "summary": "https://quasa.io/stories/Ramp offers a self-serve start; Airbase by Paylocity uses modular pricing. Compare reviews, AP depth, NetSuite, and employee data before choosing.",
+      "sources": [
+        "Quasa.io"
+      ],
+      "article_urls": [
+        "https://quasa.io/stories/ramp-vs-airbase-review-scores-tie-but-the-buying-process-does-not",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZWhIaTUtR2dySXdtYmhKcUtYNlRBOGRpN0lMWFdTNDU3UWkzWFFLejFGdk15M09oREl0NXRTaHFtSk5EbHdHOGo3Rzl3RTNVdC14U25wdnZsNERyUUU0bXZjSGlfanJHR2Q5U3VXenRGR0U0S1VLbnpnR1VTTXlCR2ZPMWNNT3B5bEoyaEM5S1phRGZ3?oc=5"
+      ],
+      "published_at_utc": "2026-10-18T20:00:00Z",
+      "published_at_ist": "2026-10-19 01:30 IST",
+      "first_seen_utc": "2026-10-18T20:00:00Z",
+      "age_minutes": 31,
+      "trend_score": 5,
+      "rank_score": 0.7111,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "US"
       ],
       "language": "en",
@@ -749,49 +842,8 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.moneymanagement.com.au/wp-content/uploads/2025/12/amp-mm_vp0m8b-37.jpg"
+        "https://cdn.quasa.io/images/news/yEZE4ChyxxBF4tfYLKbtECjrXi46giwvbVknLVVl.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "4af132e38e",
-      "key": "1-5-against-draw-homeboyz-late-murang-posta-ranger-seal-snatch-thrash",
-      "headline": "Murang’a Seal thrash Posta Rangers 5-1 as Homeboyz snatch late draw against Ulinzi",
-      "summary": "",
-      "sources": [
-        "The Eastleigh Voice"
-      ],
-      "article_urls": [
-        "https://eastleighvoice.co.ke/football/413567/muranga-seal-thrash-posta-rangers-5-1-as-homeboyz-snatch-late-draw-against-ulinzi",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUQwQ2REcDNWZTd3XzhTcHgxdm1SZTBMajdSMlRreDJBbDdxdm5ZaXhKdXFRRmJJZmI0RHQ0VnRMeTJlNWwwaEFFSDBibm9pYXJaaUtDVllOYzZmUWtEVUU0WmRmQXllYUJoZlVscUpBVGlYVWVoaDJxT3NRWTNTaGZHUTM5VUp4TUoweHMzZEpvd2l4dWYzdUN3N252el9vNzRjQWxncDVudDRVaVp1emhfNFMwUklHRVFtZ1k2UWdZcTFr?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T19:00:26Z",
-      "published_at_ist": "2026-10-19 00:30 IST",
-      "first_seen_utc": "2026-10-18T19:00:26Z",
-      "age_minutes": 23,
-      "trend_score": 6,
-      "rank_score": 0.7425,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -811,9 +863,9 @@
       "published_at_utc": "2026-10-18T18:56:56Z",
       "published_at_ist": "2026-10-19 00:26 IST",
       "first_seen_utc": "2026-10-18T18:56:56Z",
-      "age_minutes": 26,
+      "age_minutes": 94,
       "trend_score": 6,
-      "rank_score": 0.74,
+      "rank_score": 0.6833,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -840,23 +892,23 @@
       "youtube_videos": []
     },
     {
-      "id": "8e0f5d2279",
-      "key": "code-error-explained-fix-ps4-ps5-them",
-      "headline": "PS5 and PS4 CE error codes explained and how to fix them",
-      "summary": "https://pasqualepillitteri.it/en/news/25337/PS5 and PS4 CE error codes from CE-100028-1 to CE-41521-3: what each means per Sony's support pages and the steps to fix them, from unread discs to failed downloads.",
+      "id": "34316281e8",
+      "key": "16-5-code-hackio-ios-phone-poco-there-unveil-xiaomi",
+      "headline": "HackiOS unveils iOS 16.5 on Xiaomi and Poco phones, but there is no code",
+      "summary": "https://pasqualepillitteri.it/en/news/25375/HackiOS shows iOS 16.5 on the Poco X5 Pro and Xiaomi Mi 11 Lite 5G in videos, but there is no code, build or independent test. What is verified, and the AI claim.",
       "sources": [
         "Pasquale Pillitteri"
       ],
       "article_urls": [
-        "https://pasqualepillitteri.it/en/news/25337/ps5-ps4-ce-error-codes-meaning-fixes",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMmRpMkdEWl9PT3AtRThjOVFqVU9rZkc4NkdNaWt2d2NjU083SjFoR3VVekJ6OFZYMmdfbDJWU0tPb0J5VjlTNnA4T1RqOWhaX2ZsZlN1TjNIR0txUnREc1FxcHpxTkxSaERtRmx1bERDM1B3QzkwS2tNTUM0cEpqOGRDZGg0MHM?oc=5"
+        "https://pasqualepillitteri.it/en/news/25375/hackios-ios-xiaomi-poco-no-code",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDh1WWZPa05naUU4V3lPNlExeFZnS2xKeTc0Sy1fck5FSk1DcGR3dmFORU5iWUdBVDBRcVVsMUdDN2tSa2xzUU45OWRqcTJnODBId0JjcUd3SmtCRzhBMEVka3dvVmszUXd2RHMyeG41LTJxbkRfcTlIT20tcV9RLQ?oc=5"
       ],
-      "published_at_utc": "2026-10-18T17:40:49Z",
-      "published_at_ist": "2026-10-18 23:10 IST",
-      "first_seen_utc": "2026-10-18T17:40:49Z",
-      "age_minutes": 102,
+      "published_at_utc": "2026-10-18T18:02:53Z",
+      "published_at_ist": "2026-10-18 23:32 IST",
+      "first_seen_utc": "2026-10-18T18:02:53Z",
+      "age_minutes": 148,
       "trend_score": 7,
-      "rank_score": 0.6981,
+      "rank_score": 0.6597,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -867,6 +919,7 @@
       ],
       "language": "en",
       "priority_queries": [
+        "AI tools & agents",
         "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
       "google_trends": [],
@@ -876,7 +929,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://pasqualepillitteri.it/uploads/img/news/codici-errore-ps5-ps4-ce-significato-soluzioni-cover.webp"
+        "https://pasqualepillitteri.it/uploads/img/news/hackios-ios-xiaomi-poco-senza-codice-cover.webp"
       ],
       "video_urls": [],
       "has_video": false,
@@ -896,9 +949,9 @@
       "published_at_utc": "2026-10-18T16:00:29Z",
       "published_at_ist": "2026-10-18 21:30 IST",
       "first_seen_utc": "2026-10-18T16:00:29Z",
-      "age_minutes": 203,
+      "age_minutes": 270,
       "trend_score": 5,
-      "rank_score": 0.6735,
+      "rank_score": 0.6526,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -935,53 +988,6 @@
       ]
     },
     {
-      "id": "664b182fce",
-      "key": "celebrat-character-fiery-forget-lionel-messi-never-opponent-prove-rare-revenge-take",
-      "headline": "Lionel Messi proves he never forgets: Takes rare revenge on opponent with out-of-character fiery celebrat",
-      "summary": "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messi-proves-he-never-forgets-takes-rare-revenge-on-opponent-with-out-of-character-fiery-celebration-after-stunning-solo-goal/amp_articleshow/In a dramatic match against Atlanta United, Lionel Messi scored twice and celebrated his second goal in front of Junior Alonso, delivering a pointed message after a past confrontation. Re",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/sports/football/top-stories/lionel-messi-proves-he-never-forgets-takes-rare-revenge-on-opponent-with-out-of-character-fiery-celebration-after-stunning-solo-goal/amp_articleshow/135027609.cms",
-        "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcVp4RGNQOFlhWGdRVE5JNDk2d0R0X0JOczBtUnZvOHF2MjRFTjhKVm9UTjk1U01qYkRFVkRWWFNPMHQ2MkZ2WHRkMVpnVzNQN3RHNEU2V3dfdFNEUFViOVlhZDdoRkhaeXlXa00xYlBoREZqNGFVNUhmeXpPSDlQNjl1WU82MXd2QzNzVElneWhoX2lTQnpOcnFnS3V5a2hJMFhlOUVSSFJPV3RjVXFxU1QyRGd3TnA4VmhpUmVrVFBseER1cUhFWTUzX0lzNllRUWhVbmRXWXNFaHg3V0cwbVFqUU1weWdMZ3ExaDNKX3M2UnllT2duUHZ1QTJsME04aVJ4cDI0Unc5UXVtVTdyeXRJU29aMzZNQkJHLWRHTVhseXFndjQ1ZXhsd3FNMDJTd2swTDJLQW1maG80Tzd5TjlvSVF2VG5RT3fSAcoCQVVfeXFMTnFaeERjUDhZYVhnUVROSTQ5NndEdF9CTnMwbVJ2bzhxdjI0RU44SlZvVE45NVNNamJERVZEVlhTTzB0NjJGdlh0ZDFaZ1czUDd0RzRFNld3X3RTRFBVYjlZYWQ3aEZIWnl5V2tNMWJQaERGajRhVTVIZnl6T0g5UDY5dVlPNjF3dkMzc1RJZ3loaF9pU0J6TnJxZ0t1eWtoSTBYZTlFUkhST1d0Y1VxcVNUMkRnd05wOFZoaVJla1RQbHhEdXFIRVk1M19JczZZUVFoVW5kV1lzRWh4N1dHMG1RalFNcHlnTGdxMWgzSl9zNlJ5ZU9nblB2dUEybDBNOGlSeHAyNFJ3OVF1bVU3cnl0SVNvWjM2TUJCRy1kR01YbHlxZ3Y0NWV4bHdxTTAyU3drMEwyS0FtZmhvNE83eU45b0lRdlRuUU93?oc=5"
-      ],
-      "published_at_utc": "2026-10-18T11:21:00Z",
-      "published_at_ist": "2026-10-18 16:51 IST",
-      "first_seen_utc": "2026-10-18T11:21:00Z",
-      "age_minutes": 482,
-      "trend_score": 12,
-      "rank_score": 0.4891,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Lionel Messi"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-135027851,width-1280,height-720,imgsize-66166,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "33da948194",
       "key": "bye-hello-hollywood-lens-tech-titan-turn-villain-visionarie",
       "headline": "Bye visionaries, hello villains: Hollywood turns its lens on tech titans",
@@ -996,9 +1002,9 @@
       "published_at_utc": "2026-10-18T11:46:38Z",
       "published_at_ist": "2026-10-18 17:16 IST",
       "first_seen_utc": "2026-10-18T11:46:38Z",
-      "age_minutes": 457,
+      "age_minutes": 524,
       "trend_score": 8,
-      "rank_score": 0.4211,
+      "rank_score": 0.3652,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
