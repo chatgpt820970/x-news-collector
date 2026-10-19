@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T18:07:16Z",
- "generated_at_ist": "2026-10-19 23:37 IST",
+ "generated_at_utc": "2026-10-19T18:32:46Z",
+ "generated_at_ist": "2026-10-20 00:02 IST",
  "candidates_generated_at_utc": "2026-10-19T18:05:28Z",
  "candidates_generated_at_ist": "2026-10-19 23:35 IST",
  "release_tag": "m-20261019-1806",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261019-1806",
    "runtime_sec": 47,
    "generated_at_ist": "2026-10-19 23:37 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261019-1830-yt",
+   "runtime_sec": 147,
+   "generated_at_ist": "2026-10-20 00:02 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 4,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 4
+  "skipped": 1
  },
  "items": {
   "accused-california-family-fled-giant-inside-link-powerful-revealed-royal-spy-suspect": {
@@ -120,27 +126,102 @@
      "height": 1500
     }
    ]
+  },
+  "beast-completely-different-fitness-influence-kohli-leadership-reveal-rohit-sharma-suryakumar-virat": {
+   "type": "video",
+   "headline": "‘A completely different beast’: Suryakumar Yadav reveals Virat Kohli, Rohit Sharma’s influence on his fitness and leadership",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1830-yt",
+   "source_url": "https://www.youtube.com/watch?v=eAk4AURYpkg",
+   "source_title": "Suryakumar Yadav: From Doubting India Debut to T20 World Cup Captain | The Dubai Journey Ep - 42",
+   "source_resolution": "1920x1080",
+   "source_fps": 24.0,
+   "source_duration": 2549,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1830-yt/yt01-beast-completely-different-fitness-influence-kohli-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1830-yt/yt01-beast-completely-different-fitness-influence-kohli-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 165.5,
+   "video_1080_bitrate_mbps": 9.9,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-beast-completely-different-fitness-influence-kohli-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-beast-completely-different-fitness-influence-kohli-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-beast-completely-different-fitness-influence-kohli-f3.jpg"
+   ]
+  },
+  "girl-second-tyla-unleashe-‘-’": {
+   "type": "video",
+   "headline": "Tyla unleashes second ‘That Girl’ video",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1830-yt",
+   "source_url": "https://www.youtube.com/watch?v=yT_AfrHbAyA",
+   "source_title": "Tyla - THAT GIRL (Official Music Video)",
+   "source_resolution": "1440x1080",
+   "source_fps": 30.0,
+   "source_duration": 190,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1440x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-girl-second-tyla-unleashe-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1830-yt/yt02-girl-second-tyla-unleashe-1080.mp4",
+   "video_1080_resolution": "1440x1080",
+   "video_1080_size_mb": 170.9,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-girl-second-tyla-unleashe-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-girl-second-tyla-unleashe-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-girl-second-tyla-unleashe-f3.jpg"
+   ]
+  },
+  "alway-leclerc-verstappen-yapping-🗣️": {
+   "type": "video",
+   "headline": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1830-yt",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A",
+   "source_title": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "source_resolution": "1080x1920",
+   "source_fps": 50.0,
+   "source_duration": 26,
+   "duration": 26.25,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt03-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1830-yt/yt03-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 31.0,
+   "video_1080_bitrate_mbps": 9.9,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt03-alway-leclerc-verstappen-yapping-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-alway-leclerc-verstappen-yapping-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-alway-leclerc-verstappen-yapping-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "beast-completely-different-fitness-influence-kohli-leadership-reveal-rohit-sharma-suryakumar-virat",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=eAk4AURYpkg"
-  },
-  {
-   "key": "girl-second-tyla-unleashe-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=yT_AfrHbAyA"
-  },
-  {
-   "key": "alway-leclerc-verstappen-yapping-🗣️",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
-  },
-  {
    "key": "chemistry-excite-jayshetty-only-short",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "best source only 720p",
    "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
   }
  ]
