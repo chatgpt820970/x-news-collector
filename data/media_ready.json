@@ -1,91 +1,68 @@
 {
- "generated_at_utc": "2026-10-19T12:45:48Z",
- "generated_at_ist": "2026-10-19 18:15 IST",
- "candidates_generated_at_utc": "2026-10-19T12:44:37Z",
- "candidates_generated_at_ist": "2026-10-19 18:14 IST",
- "release_tag": "m-20261019-1245",
+ "generated_at_utc": "2026-10-19T15:06:37Z",
+ "generated_at_ist": "2026-10-19 20:36 IST",
+ "candidates_generated_at_utc": "2026-10-19T15:05:26Z",
+ "candidates_generated_at_ist": "2026-10-19 20:35 IST",
+ "release_tag": "m-20261019-1506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261019-1245",
-   "runtime_sec": 14,
-   "generated_at_ist": "2026-10-19 18:15 IST"
+   "release_tag": "m-20261019-1506",
+   "runtime_sec": 15,
+   "generated_at_ist": "2026-10-19 20:36 IST"
   }
  ],
  "stats": {
   "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 2,
-  "skipped": 8
+  "photo_stories": 1,
+  "skipped": 9
  },
  "items": {
-  "drive-driver-fornaroli-hypercar-leonardo-mclaren-officially-reserve": {
+  "alex-documentary-elon-explosive-four-gibney-hour-inside-musk-take": {
    "type": "photo",
-   "headline": "Reserve driver for McLaren in F1, Leonardo Fornaroli officially to drive a Hypercar in 2027",
-   "category": "sports",
+   "headline": "Alex Gibney Takes Us Inside His Explosive, Four-Hour Elon Musk Documentary",
+   "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261019-1245",
+   "release_tag": "m-20261019-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-drive-driver-fornaroli-hypercar-leonardo-mclaren-o-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-alex-documentary-elon-explosive-four-gibney-hour-i-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-drive-driver-fornaroli-hypercar-leonardo-mclaren-o-p1.jpg",
-     "source_url": "https://images.ctfassets.net/gy95mqeyjg28/5PUJdjsTBJlwMJMz7KBJiB/c3dbeb9c0bdd2b629eadf4df3ee49b17/Leo_with_F1_TPC_and_Hypercar_3.jpg",
-     "width": 2000,
-     "height": 1333
-    }
-   ]
-  },
-  "access-american-ceo-explained-hype-hyperliquid-legally-mean-use": {
-   "type": "photo",
-   "headline": "Hyperliquid's CEO Explained How Americans Could Legally Use It. What Would US Access Mean for HYPE?",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261019-1245",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-access-american-ceo-explained-hype-hyperliquid-leg-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-access-american-ceo-explained-hype-hyperliquid-leg-p1.jpg",
-     "source_url": "https://247wallst.com/wp-content/uploads/2026/05/shutterstock-2641170767-huge-licensed-scaled.jpg",
-     "width": 1500,
-     "height": 1125
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-alex-documentary-elon-explosive-four-gibney-hour-i-p1.jpg",
+     "source_url": "https://usmfreepress.org/wp-content/uploads/2026/10/Elon-Musk-takes-on-new-role-in-White-House-Hungarian-Conservative.jpg",
+     "width": 2001,
+     "height": 1126
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "alex-documentary-elon-explosive-four-gibney-hour-inside-musk-take",
+   "key": "call-change-hamilton-lewi-max-singapore-track-verstappen",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=eY_8SyndC10"
+   "source_url": "https://www.youtube.com/watch?v=EVJfAljqY2c"
   },
   {
-   "key": "christian-horner-never-peace-return-‘-’",
+   "key": "ariana-beyonc-god-grande-initially-jay-woman-written-é-‘-’",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=8J1XpbfgEoA"
+   "source_url": "https://www.youtube.com/watch?v=wqAwGhKnkjc"
   },
   {
-   "key": "carpenter-color-possible-sabrina-server-show-team-tell-true",
+   "key": "godzilla-grand-haas-livery-prix-revealed-special-state-united",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=9R4k1_2IB0s"
+   "source_url": "https://www.youtube.com/watch?v=sNsJU35ZIy0"
   },
   {
-   "key": "333-alexander-countdown-evloev-movsar-ufc-volkanovski",
+   "key": "3-333-countdown-dvalishvili-merab-petr-ufc-yan",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=EV6vnVemKLE"
+   "source_url": "https://www.youtube.com/watch?v=dN9BShQPLDc"
   },
   {
-   "key": "girl-second-tyla-unleashe-‘-’",
+   "key": "19-daily-forum-recap-search",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=yT_AfrHbAyA"
-  },
-  {
-   "key": "ali-arijit-ayushmann-bring-chann-khan-khurrana-romance-sara-singh-teer-udta",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=7eKJFnvYfOE"
+   "source_url": "https://www.youtube.com/watch?v=5SW61e6BZjU"
   },
   {
    "key": "conversation-feeling-jayshetty-leave-short-small",
@@ -96,6 +73,16 @@
    "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8"
+  },
+  {
+   "key": "berlin-gtc-huang-jensen-keynote",
+   "reason": "no source could be read",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/bbe109ed-bf71-3807-87db-d5a08689484d.m3u8?site=finance&region=US&lang=en-US&devtype=desktop"
+  },
+  {
+   "key": "becoming-blackpink-legendary-most-ros-singer-vocalist-won-é",
+   "reason": "best source only 0p",
+   "source_url": "https://www.musicmundial.com/en/wp-content/uploads/2026/01/cropped-logo-music-mundial-2026.png"
   }
  ]
 }
