@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T15:06:37Z",
- "generated_at_ist": "2026-10-19 20:36 IST",
+ "generated_at_utc": "2026-10-19T15:53:12Z",
+ "generated_at_ist": "2026-10-19 21:23 IST",
  "candidates_generated_at_utc": "2026-10-19T15:05:26Z",
  "candidates_generated_at_ist": "2026-10-19 20:35 IST",
  "release_tag": "m-20261019-1506",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261019-1506",
    "runtime_sec": 15,
    "generated_at_ist": "2026-10-19 20:36 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "runtime_sec": 402,
+   "generated_at_ist": "2026-10-19 21:23 IST"
   }
  ],
  "stats": {
-  "videos": 0,
-  "videos_4k": 0,
+  "videos": 5,
+  "videos_4k": 1,
   "photo_stories": 1,
-  "skipped": 9
+  "skipped": 4
  },
  "items": {
   "alex-documentary-elon-explosive-four-gibney-hour-inside-musk-take": {
@@ -36,53 +42,178 @@
      "height": 1126
     }
    ]
+  },
+  "call-change-hamilton-lewi-max-singapore-track-verstappen": {
+   "type": "video",
+   "headline": "Lewis Hamilton and Max Verstappen call for Singapore F1 track changes",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "source_url": "https://www.youtube.com/watch?v=EVJfAljqY2c",
+   "source_title": "Extended Race Highlights | 2018 Bahrain Grand Prix",
+   "source_resolution": "1920x1080",
+   "source_fps": 50.0,
+   "source_duration": 1212,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 584.7,
+   "trim_reason": "heatmap peak at 625s",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt01-call-change-hamilton-lewi-max-singapore-track-vers-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt01-call-change-hamilton-lewi-max-singapore-track-vers-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 167.3,
+   "video_1080_bitrate_mbps": 10.0,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f3.jpg"
+   ]
+  },
+  "becoming-blackpink-legendary-most-ros-singer-vocalist-won-é": {
+   "type": "video",
+   "headline": "BLACKPINK’s Rosé won vocalist of the year becoming the most legendary singer of 2026",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "source_url": "https://www.youtube.com/watch?v=Lufa9QAFFeY",
+   "source_title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
+   "source_resolution": "3840x2160",
+   "source_fps": 23.98,
+   "source_duration": 181,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "heatmap peak at 6s",
+   "resolution": "3840x2160",
+   "video_4k_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-2160.mp4",
+   "video_4k_resolution": "3840x2160",
+   "video_4k_size_mb": 456.7,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 172.6,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f3.jpg"
+   ]
+  },
+  "3-333-countdown-dvalishvili-merab-petr-ufc-yan": {
+   "type": "video",
+   "headline": "Video: UFC 333 'Countdown' for Petr Yan vs. Merab Dvalishvili 3",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "source_url": "https://www.youtube.com/watch?v=dN9BShQPLDc",
+   "source_title": "Petr Yan on handling Merab Dvalishvili's pressure at UFC 333: \"You saw the second fight, right?",
+   "source_resolution": "1920x1080",
+   "source_fps": 59.94,
+   "source_duration": 351,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 172.1,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f3.jpg"
+   ]
+  },
+  "conversation-feeling-jayshetty-leave-short-small": {
+   "type": "video",
+   "headline": "Conversations that leave you feeling small #jayshetty #shorts",
+   "category": "other",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8",
+   "source_title": "Conversations that leave you feeling small #jayshetty #shorts",
+   "source_resolution": "1080x1920",
+   "source_fps": 29.97,
+   "source_duration": 29,
+   "duration": 29.49,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt08-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 34.4,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f3.jpg"
+   ]
+  },
+  "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯": {
+   "type": "video",
+   "headline": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1546-yt",
+   "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8",
+   "source_title": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
+   "source_resolution": "1080x1920",
+   "source_fps": 25.0,
+   "source_duration": 11,
+   "duration": 11.12,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt09-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 12.3,
+   "video_1080_bitrate_mbps": 9.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "call-change-hamilton-lewi-max-singapore-track-verstappen",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=EVJfAljqY2c"
-  },
-  {
    "key": "ariana-beyonc-god-grande-initially-jay-woman-written-é-‘-’",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "no source could be read",
    "source_url": "https://www.youtube.com/watch?v=wqAwGhKnkjc"
   },
   {
    "key": "godzilla-grand-haas-livery-prix-revealed-special-state-united",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=sNsJU35ZIy0"
   },
   {
-   "key": "3-333-countdown-dvalishvili-merab-petr-ufc-yan",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=dN9BShQPLDc"
-  },
-  {
    "key": "19-daily-forum-recap-search",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=5SW61e6BZjU"
-  },
-  {
-   "key": "conversation-feeling-jayshetty-leave-short-small",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8"
-  },
-  {
-   "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8"
   },
   {
    "key": "berlin-gtc-huang-jensen-keynote",
    "reason": "no source could be read",
    "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/bbe109ed-bf71-3807-87db-d5a08689484d.m3u8?site=finance&region=US&lang=en-US&devtype=desktop"
-  },
-  {
-   "key": "becoming-blackpink-legendary-most-ros-singer-vocalist-won-é",
-   "reason": "best source only 0p",
-   "source_url": "https://www.musicmundial.com/en/wp-content/uploads/2026/01/cropped-logo-music-mundial-2026.png"
   }
  ]
 }
