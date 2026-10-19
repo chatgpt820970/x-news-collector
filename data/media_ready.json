@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T17:07:57Z",
- "generated_at_ist": "2026-10-19 22:37 IST",
+ "generated_at_utc": "2026-10-19T17:13:46Z",
+ "generated_at_ist": "2026-10-19 22:43 IST",
  "candidates_generated_at_utc": "2026-10-19T17:05:23Z",
  "candidates_generated_at_ist": "2026-10-19 22:35 IST",
  "release_tag": "m-20261019-1706",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261019-1706",
    "runtime_sec": 91,
    "generated_at_ist": "2026-10-19 22:37 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261019-1708-yt",
+   "runtime_sec": 336,
+   "generated_at_ist": "2026-10-19 22:43 IST"
   }
  ],
  "stats": {
-  "videos": 1,
-  "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 7
+  "videos": 5,
+  "videos_4k": 1,
+  "photo_stories": 3,
+  "skipped": 3
  },
  "items": {
   "doom-him-paxton-race-souring-suburban-tight-women": {
@@ -86,21 +92,33 @@
    ]
   },
   "bad-bunny-chuwi-interview-libertad-puerto-rico": {
-   "type": "photo",
+   "type": "video",
    "headline": "INTERVIEW: Chuwi on 'Libertad,' Bad Bunny, & Puerto Rico",
    "category": "famous_clip",
-   "prepared_by": "ci",
-   "release_tag": "m-20261019-1706",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-bad-bunny-chuwi-interview-libertad-puerto-rico-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-bad-bunny-chuwi-interview-libertad-puerto-rico-p1.jpg",
-     "source_url": "https://remezcla.com/wp-content/uploads/sites/3/2026/10/header-chuwi.jpg",
-     "width": 1920,
-     "height": 1080
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1708-yt",
+   "source_url": "https://www.youtube.com/watch?v=c5IVLk0gV8s",
+   "source_title": "Chuwi - Libertad (Lyric Video)",
+   "source_resolution": "2880x2160",
+   "source_fps": 24.0,
+   "source_duration": 275,
+   "duration": 140.02,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "2880x2160",
+   "video_4k_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-2160.mp4",
+   "video_4k_resolution": "2880x2160",
+   "video_4k_size_mb": 337.7,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-1080.mp4",
+   "video_1080_resolution": "1440x1080",
+   "video_1080_size_mb": 173.1,
+   "video_1080_bitrate_mbps": 10.4,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bad-bunny-chuwi-interview-libertad-puerto-rico-f3.jpg"
    ]
   },
   "100-32-car-flying-jump-musk-reveal-roundtable-spot-tesla": {
@@ -120,42 +138,112 @@
      "height": 1200
     }
    ]
+  },
+  "announce-arterial-bombardment-death-metaller-share-song-tour-undeath-–-‘-’": {
+   "type": "video",
+   "headline": "Death metallers UNDEATH announce UK tour – share new song ‘Arterial Bombardment’",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1708-yt",
+   "source_url": "https://www.youtube.com/watch?v=ZJObtup-6qY",
+   "source_title": "UNDEATH - Arterial Bombardment (Official Audio)",
+   "source_resolution": "1920x1080",
+   "source_fps": 29.97,
+   "source_duration": 248,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt01-announce-arterial-bombardment-death-metaller-share-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt01-announce-arterial-bombardment-death-metaller-share-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 70.9,
+   "video_1080_bitrate_mbps": 4.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-announce-arterial-bombardment-death-metaller-share-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-announce-arterial-bombardment-death-metaller-share-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-announce-arterial-bombardment-death-metaller-share-f3.jpg"
+   ]
+  },
+  "box-debut-documentary-everything-huge-office-see-stun": {
+   "type": "video",
+   "headline": "You Can See Everything documentary stuns with huge box office debut",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1708-yt",
+   "source_url": "https://www.youtube.com/watch?v=HvW_N5p1q44",
+   "source_title": "You Can See Everything | Official Trailer HD | A24",
+   "source_resolution": "1440x1080",
+   "source_fps": 23.98,
+   "source_duration": 148,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 8,
+   "trim_reason": "heatmap peak at 77s",
+   "resolution": "1440x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-box-debut-documentary-everything-huge-office-see-s-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt04-box-debut-documentary-everything-huge-office-see-s-1080.mp4",
+   "video_1080_resolution": "1440x1080",
+   "video_1080_size_mb": 163.1,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-box-debut-documentary-everything-huge-office-see-s-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-box-debut-documentary-everything-huge-office-see-s-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-box-debut-documentary-everything-huge-office-see-s-f3.jpg"
+   ]
+  },
+  "ant-dougla-get-him-killed-let-man-marvel-michael-wanted-wouldn-‘": {
+   "type": "video",
+   "headline": "Michael Douglas wanted to be ‘killed off’ in ‘Ant-Man’ but Marvel wouldn’t let him: ‘You can’t get out of it’",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1708-yt",
+   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI",
+   "source_title": "Michael Douglas on ONE HELLUVA RIDE, WALL STREET, ANT-MAN, BEHIND THE CANDELABRA, & more!",
+   "source_resolution": "1920x1080",
+   "source_fps": 59.94,
+   "source_duration": 4046,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt06-ant-dougla-get-him-killed-let-man-marvel-michael-w-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1708-yt/yt06-ant-dougla-get-him-killed-let-man-marvel-michael-w-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.2,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-ant-dougla-get-him-killed-let-man-marvel-michael-w-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-ant-dougla-get-him-killed-let-man-marvel-michael-w-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-ant-dougla-get-him-killed-let-man-marvel-michael-w-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "announce-arterial-bombardment-death-metaller-share-song-tour-undeath-–-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=ZJObtup-6qY"
-  },
-  {
    "key": "alway-leclerc-verstappen-yapping-🗣️",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
   },
   {
-   "key": "box-debut-documentary-everything-huge-office-see-stun",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
-  },
-  {
-   "key": "bad-bunny-chuwi-interview-libertad-puerto-rico",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=c5IVLk0gV8s"
-  },
-  {
-   "key": "ant-dougla-get-him-killed-let-man-marvel-michael-wanted-wouldn-‘",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
-  },
-  {
    "key": "chemistry-excite-jayshetty-only-short",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "best source only 720p",
    "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
   },
   {
    "key": "19-daily-forum-recap-search",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=5SW61e6BZjU"
   }
  ]
