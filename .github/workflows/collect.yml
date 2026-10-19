@@ -54,3 +54,28 @@ jobs:
             echo "Push failed, retrying ($i)..."; sleep 5
           done
           exit 1
+
+      # Starts the "Prepare media" workflow in the public chad-media repo (free Actions minutes there).
+      # It runs media_prep.py from this repo and commits data/media_ready.json back here.
+      - name: Trigger media prep in chad-media
+        env:
+          CHAD_MEDIA_DEPLOY_KEY: ${{ secrets.CHAD_MEDIA_DEPLOY_KEY }}
+        run: |
+          if [ -z "$CHAD_MEDIA_DEPLOY_KEY" ]; then echo "CHAD_MEDIA_DEPLOY_KEY not set, skipping media prep."; exit 0; fi
+          mkdir -p ~/.ssh && printf '%s\n' "$CHAD_MEDIA_DEPLOY_KEY" > ~/.ssh/chad_media && chmod 600 ~/.ssh/chad_media
+          export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/chad_media -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"
+          git clone -q --depth 1 --filter=blob:none --sparse git@github.com:chatgpt820970/chad-media.git /tmp/chad-media
+          cd /tmp/chad-media
+          git sparse-checkout set trigger
+          mkdir -p trigger
+          printf '{"candidates_commit":"%s","triggered_at_utc":"%s","run":"%s"}\n' \
+            "$(git -C "$GITHUB_WORKSPACE" rev-parse HEAD)" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" "$GITHUB_RUN_ID" > trigger/last.json
+          git config user.name "x-news-collector[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trigger/last.json
+          git commit -q -m "Trigger media prep $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
+          for i in 1 2 3; do
+            git pull -q --rebase -X theirs origin main && git push -q origin HEAD:main && exit 0
+            echo "Push failed, retrying ($i)..."; sleep 5
+          done
+          exit 1
