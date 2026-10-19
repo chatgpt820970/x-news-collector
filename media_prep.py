@@ -453,9 +453,20 @@ def merge_into_ready(part: dict) -> bool:
     gen = part.get("candidates_generated_at_utc") or ""
     if cur.get("candidates_generated_at_utc") != gen:
         if (cur.get("candidates_generated_at_utc") or "") > gen:
-            log(f"part is for older candidates ({gen}); not merged")
-            return False
-        cur = {"items": {}, "skipped": [], "parts": []}
+            # Older part: keep only stories that are still candidates now (their media is still valid).
+            try:
+                now_keys = {i.get("key") for i in json.loads((DATA / "candidates.json").read_text(encoding="utf-8"))["items"]}
+            except Exception:  # noqa: BLE001
+                now_keys = set()
+            part = {**part, "items": {k: v for k, v in part.get("items", {}).items() if k in now_keys},
+                    "skipped": [], "candidates_generated_at_utc": cur["candidates_generated_at_utc"],
+                    "candidates_generated_at_ist": cur.get("candidates_generated_at_ist")}
+            log(f"part is for older candidates ({gen}); merging {len(part['items'])} stories still in candidates")
+            if not part["items"]:
+                return False
+            gen = cur["candidates_generated_at_utc"]
+        else:
+            cur = {"items": {}, "skipped": [], "parts": []}
     items = cur.get("items", {})
     for k, v in part.get("items", {}).items():
         if k not in items or _score(v) >= _score(items[k]):
