@@ -111,3 +111,51 @@ python collector.py
 - `collector.py` drops candidates that hit either list. Before scheduling, the assistant must run
   `python repeat_guard.py check "<caption + source link>"` (exit 1 = blocked), and after scheduling
   `python repeat_guard.py add "<celebrity>" "<topic>" --at <ISO time>`.
+
+## Upload-ready media (`data/media_ready.json`)
+
+After each collect run, the last step pushes `trigger/last.json` to the public repo
+`chatgpt820970/chad-media`. That starts its **Prepare media** workflow (public repo, so it does
+not use this private repo's Actions minutes). It checks out this repo and runs `media_prep.py`:
+
+1. Takes the top **12** stories that have a video source (official `youtube_videos` first, then
+   `video_urls`: YouTube, X posts, direct mp4). Each story's sources are probed and the
+   highest-resolution one wins, so a low-res re-upload never beats the original.
+2. Skips the story if the best source is under 1080p. Otherwise it downloads the best format
+   (4K preferred, SDR) with yt-dlp, cut to the first **2:20** if it's longer (Buffer/X limit).
+3. Makes `*-1080.mp4`: H.264 High/AAC, ~10 Mbps (8+), 1080 on the short side, faststart.
+   If the source is 4K and time allows, it also makes `*-2160.mp4` (H.264, CRF 18, max 40 Mbps;
+   the video is copied as-is when the source is already H.264). It's kept only if it's 512 MB or less.
+4. Grabs 3 small check frames (start, middle, end, 480 px wide) per video, so watermarks,
+   @handles, logos or BREAKING banners can be spotted without downloading the video.
+5. For stories without a ready video, keeps up to 3 photos at 1080 px or more on the short side
+   from `image_urls`.
+6. Uploads everything as assets of one GitHub Release (`m-YYYYMMDD-HHMM`) in chad-media,
+   deletes `m-*` releases older than 3 days, and commits `data/media_ready.json` here.
+
+Public URLs look like `https://github.com/chatgpt820970/chad-media/releases/download/<tag>/<file>`.
+They return a 302 to GitHub's file CDN, which serves `video/mp4` / `image/jpeg` (follow redirects,
+for example `curl -IL`).
+
+```json
+{
+ "generated_at_ist": "...", "candidates_generated_at_ist": "...", "release_tag": "m-...", "runtime_sec": 300,
+ "stats": {"videos": 8, "videos_4k": 2, "photo_stories": 10, "skipped": 4},
+ "items": {
+  "<story key>": {"type": "video", "headline": "...", "category": "...",
+   "source_url": "https://www.youtube.com/watch?v=...", "source_resolution": "3840x2160",
+   "duration": 63.2, "trimmed_to_140s": false, "resolution": "3840x2160",
+   "video_4k_url": "https://...-2160.mp4 or null", "video_4k_resolution": "3840x2160", "video_4k_size_mb": 180.2,
+   "video_1080_url": "https://...-1080.mp4", "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 80.1, "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": ["...-f1.jpg", "...-f2.jpg", "...-f3.jpg"]},
+  "<story key>": {"type": "photo", "headline": "...", "photo_urls": ["..."],
+   "photos": [{"url": "...", "source_url": "...", "width": 2048, "height": 1365}]}
+ },
+ "skipped": [{"key": "...", "reason": "best source only 720p", "source_url": "..."}]
+}
+```
+
+Secrets: `CHAD_MEDIA_DEPLOY_KEY` (here; write deploy key for chad-media, used only to push the
+trigger file) and `XNC_DEPLOY_KEY` (in chad-media; write deploy key for this repo). No keys in code.
+Local test without uploading anything: `DRY_RUN=1 MAX_VIDEOS=3 python media_prep.py`.
