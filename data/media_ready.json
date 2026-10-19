@@ -1,42 +1,17 @@
 {
- "generated_at_utc": "2026-10-19T10:33:29Z",
- "generated_at_ist": "2026-10-19 16:03 IST",
- "candidates_generated_at_ist": "2026-10-19 16:01 IST",
- "release_tag": "m-20261019-1032",
- "release_url": "https://github.com/chatgpt820970/chad-media/releases/tag/m-20261019-1032",
- "runtime_sec": 88,
+ "generated_at_utc": "2026-10-19T10:41:41Z",
+ "generated_at_ist": "2026-10-19 16:11 IST",
+ "candidates_generated_at_ist": "2026-10-19 16:10 IST",
+ "release_tag": "m-20261019-1041",
+ "release_url": "https://github.com/chatgpt820970/chad-media/releases/tag/m-20261019-1041",
+ "runtime_sec": 17,
  "stats": {
-  "videos": 1,
+  "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 5,
-  "skipped": 3
+  "photo_stories": 6,
+  "skipped": 4
  },
  "items": {
-  "need-resting-time-zendaya": {
-   "type": "video",
-   "headline": "Zendaya Is 'Resting' And Needs Time To 'Live'",
-   "category": "celebrity_music",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/dc10509c-3d44-3da5-85c1-b36ee6ae2e3b.m3u8?site=entertainment&region=US&lang=en-US&devtype=desktop",
-   "source_title": "dc10509c-3d44-3da5-85c1-b36ee6ae2e3b",
-   "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "duration": 77.06,
-   "trimmed_to_140s": false,
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/02-need-resting-time-zendaya-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1032/02-need-resting-time-zendaya-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 95.3,
-   "video_1080_bitrate_mbps": 10.4,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/02-need-resting-time-zendaya-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/02-need-resting-time-zendaya-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/02-need-resting-time-zendaya-f3.jpg"
-   ]
-  },
   "bad-bunny-coqui-eyre-frog-love-makana": {
    "type": "photo",
    "headline": "Makana Eyre: If Bad Bunny Can Love Coqui Frogs, So Can We",
@@ -69,19 +44,42 @@
     }
    ]
   },
-  "arijit-aujla-featuring-festival-karan-khan-lineup-music-nigam-reveal-rukh-shah": {
+  "academy-all-best-carpet-celebrity-gala-look-museum-red": {
    "type": "photo",
-   "headline": "Shah Rukh Khan’s UNIFYD Music Festival Reveals Lineup Featuring Arijit Singh, Karan Aujla and Sonu Nigam",
-   "category": "famous_clip",
+   "headline": "All The Best Celebrity Red Carpet Looks From The 2026 Academy Museum Gala",
+   "category": "celebrity_music",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-arijit-aujla-featuring-festival-karan-khan-lineup-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-academy-all-best-carpet-celebrity-gala-look-museum-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-academy-all-best-carpet-celebrity-gala-look-museum-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-arijit-aujla-featuring-festival-karan-khan-lineup-p1.jpg",
-     "source_url": "https://media.assettype.com/hollywoodreporterindia%2F2026-10-19%2Fitkkma1x%2FArijit-Singh-Shah-Rukh-Khan-Karan-Aujla-Sonu-Nigam?w=2048&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-all-best-carpet-celebrity-gala-look-museum-p1.jpg",
+     "source_url": "https://www.datocms-assets.com/42755/1792384569-1792328363-academy-museum-gala-2026-migliori-look-star-celebrities-foto-lofficiel1.webp?auto=format&fit=max&w=2048",
      "width": 2048,
-     "height": 1152
+     "height": 1365
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-all-best-carpet-celebrity-gala-look-museum-p2.jpg",
+     "source_url": "https://s.yimg.com/lo/mysterio/api/077a0d8c5972c45978aa5455a7ee3df8d71e205d42be6248adf50c2960c651af/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2F657770745d38f2d05314675230f22ff4.jpg",
+     "width": 1200,
+     "height": 1200
+    }
+   ]
+  },
+  "almost-audition-ended-interview-malaysian-model-skipped-vibha-working-zendaya": {
+   "type": "photo",
+   "headline": "INTERVIEW: She Almost Skipped The Audition! How Malaysian Model Vibha Ended Up Working With Zendaya",
+   "category": "famous_clip",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-almost-audition-ended-interview-malaysian-model-sk-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-almost-audition-ended-interview-malaysian-model-sk-p1.jpg",
+     "source_url": "https://hype.my/wp-content/uploads/2026/10/edit-6.webp",
+     "width": 1920,
+     "height": 1080
     }
    ]
   },
@@ -121,6 +119,10 @@
  "skipped": [
   {
    "key": "bad-bunny-coqui-eyre-frog-love-makana",
+   "reason": "no source could be read"
+  },
+  {
+   "key": "choru-drake-janice-producer-rapper-stfu-stole-sued-‘-’",
    "reason": "no source could be read"
   },
   {
