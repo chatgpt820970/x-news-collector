@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T10:53:55Z",
- "generated_at_ist": "2026-10-19 16:23 IST",
+ "generated_at_utc": "2026-10-19T11:03:14Z",
+ "generated_at_ist": "2026-10-19 16:33 IST",
  "candidates_generated_at_utc": "2026-10-19T10:46:46Z",
  "candidates_generated_at_ist": "2026-10-19 16:16 IST",
  "release_tag": "m-20261019-1047",
@@ -13,16 +13,16 @@
   },
   {
    "by": "box",
-   "release_tag": "m-20261019-1050-yt",
-   "runtime_sec": 213,
-   "generated_at_ist": "2026-10-19 16:23 IST"
+   "release_tag": "m-20261019-1100-yt",
+   "runtime_sec": 180,
+   "generated_at_ist": "2026-10-19 16:33 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 4,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 5
+  "skipped": 2
  },
  "items": {
   "announce-australian-king-leon-tour-zealand": {
@@ -133,28 +133,103 @@
     "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-f2.jpg",
     "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-f3.jpg"
    ]
+  },
+  "choru-drake-janice-producer-rapper-stfu-stole-sued-‘-’": {
+   "type": "video",
+   "headline": "Drake Sued Over ‘Janice STFU’ by Producer Who Says Rapper Stole His Chorus",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1100-yt",
+   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
+   "source_title": "Drake - Janice STFU",
+   "source_resolution": "2968x2160",
+   "source_fps": 24.0,
+   "source_duration": 236,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "heatmap peak at 27s",
+   "resolution": "2968x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-choru-drake-janice-producer-rapper-stfu-stole-sued-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1100-yt/yt02-choru-drake-janice-producer-rapper-stfu-stole-sued-1080.mp4",
+   "video_1080_resolution": "1484x1080",
+   "video_1080_size_mb": 172.7,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-choru-drake-janice-producer-rapper-stfu-stole-sued-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-choru-drake-janice-producer-rapper-stfu-stole-sued-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-choru-drake-janice-producer-rapper-stfu-stole-sued-f3.jpg"
+   ]
+  },
+  "conversation-feeling-jayshetty-leave-short-small": {
+   "type": "video",
+   "headline": "Conversations that leave you feeling small #jayshetty #shorts",
+   "category": "other",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1100-yt",
+   "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8",
+   "source_title": "Conversations that leave you feeling small #jayshetty #shorts",
+   "source_resolution": "1080x1920",
+   "source_fps": 29.97,
+   "source_duration": 29,
+   "duration": 29.49,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt05-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1100-yt/yt05-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 34.2,
+   "video_1080_bitrate_mbps": 9.7,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt05-conversation-feeling-jayshetty-leave-short-small-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-conversation-feeling-jayshetty-leave-short-small-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-conversation-feeling-jayshetty-leave-short-small-f3.jpg"
+   ]
+  },
+  "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯": {
+   "type": "video",
+   "headline": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1100-yt",
+   "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8",
+   "source_title": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
+   "source_resolution": "1080x1920",
+   "source_fps": 25.0,
+   "source_duration": 11,
+   "duration": 11.12,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt06-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1100-yt/yt06-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 12.3,
+   "video_1080_bitrate_mbps": 9.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-goal-laligahighlight-mbappe-realmadridsevilla-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-goal-laligahighlight-mbappe-realmadridsevilla-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-goal-laligahighlight-mbappe-realmadridsevilla-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "choru-drake-janice-producer-rapper-stfu-stole-sued-‘-’",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek"
-  },
-  {
    "key": "buckley-fans-following-joaquin-loss-released-statement-torch-ufc",
    "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=4B28Cv97Wos"
-  },
-  {
-   "key": "conversation-feeling-jayshetty-leave-short-small",
-   "reason": "time budget",
-   "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8"
-  },
-  {
-   "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
-   "reason": "time budget",
-   "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8"
   },
   {
    "key": "need-resting-time-zendaya",
