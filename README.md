@@ -138,7 +138,7 @@ URLs: each run's 1080p files, frames and photos are also published on GitHub Pag
 `image/jpeg`, up to ~950 MB per run). Pages is replaced on every run, so use those URLs for the
 coming slot. `video_1080_backup_url` and the 4K file live on the Release
 (`https://github.com/chatgpt820970/chad-media/releases/download/<tag>/<file>`, a `302` to GitHub's CDN
-with the right content type) for 3 days.
+served as `application/octet-stream`, like raw.githubusercontent) for 3 days.
 
 YouTube often blocks GitHub's servers ("Sign in to confirm you're not a bot"). The workflow runs
 a PO-token helper (bgutil) and, if the optional secret `YT_COOKIES` (a Netscape cookies.txt) exists
