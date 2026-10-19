@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-19T10:48:26Z",
- "generated_at_ist": "2026-10-19 16:18 IST",
+ "generated_at_utc": "2026-10-19T10:53:55Z",
+ "generated_at_ist": "2026-10-19 16:23 IST",
  "candidates_generated_at_utc": "2026-10-19T10:46:46Z",
  "candidates_generated_at_ist": "2026-10-19 16:16 IST",
  "release_tag": "m-20261019-1047",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261019-1047",
    "runtime_sec": 38,
    "generated_at_ist": "2026-10-19 16:18 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261019-1050-yt",
+   "runtime_sec": 213,
+   "generated_at_ist": "2026-10-19 16:23 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 1,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 6
+  "skipped": 5
  },
  "items": {
   "announce-australian-king-leon-tour-zealand": {
@@ -97,32 +103,57 @@
      "height": 1152
     }
    ]
+  },
+  "bad-bunny-coqui-eyre-frog-love-makana": {
+   "type": "video",
+   "headline": "Makana Eyre: If Bad Bunny Can Love Coqui Frogs, So Can We",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261019-1050-yt",
+   "source_url": "https://www.youtube.com/watch?v=KMqquh3E4NE",
+   "source_title": "LO QUE LE PASÓ A HAWAii",
+   "source_resolution": "1080x1080",
+   "source_fps": 25.0,
+   "source_duration": 229,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 46.2,
+   "trim_reason": "heatmap peak at 86s",
+   "resolution": "1080x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1050-yt/yt01-bad-bunny-coqui-eyre-frog-love-makana-1080.mp4",
+   "video_1080_resolution": "1080x1080",
+   "video_1080_size_mb": 34.4,
+   "video_1080_bitrate_mbps": 2.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-bad-bunny-coqui-eyre-frog-love-makana-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "bad-bunny-coqui-eyre-frog-love-makana",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=KMqquh3E4NE"
-  },
-  {
    "key": "choru-drake-janice-producer-rapper-stfu-stole-sued-‘-’",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek"
   },
   {
    "key": "buckley-fans-following-joaquin-loss-released-statement-torch-ufc",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=4B28Cv97Wos"
   },
   {
    "key": "conversation-feeling-jayshetty-leave-short-small",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "time budget",
    "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8"
   },
   {
    "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "time budget",
    "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8"
   },
   {
