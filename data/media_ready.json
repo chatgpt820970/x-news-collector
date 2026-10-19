@@ -1,119 +1,35 @@
 {
- "generated_at_utc": "2026-10-19T15:53:12Z",
- "generated_at_ist": "2026-10-19 21:23 IST",
- "candidates_generated_at_utc": "2026-10-19T15:05:26Z",
- "candidates_generated_at_ist": "2026-10-19 20:35 IST",
- "release_tag": "m-20261019-1506",
+ "generated_at_utc": "2026-10-19T17:07:57Z",
+ "generated_at_ist": "2026-10-19 22:37 IST",
+ "candidates_generated_at_utc": "2026-10-19T17:05:23Z",
+ "candidates_generated_at_ist": "2026-10-19 22:35 IST",
+ "release_tag": "m-20261019-1706",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261019-1506",
-   "runtime_sec": 15,
-   "generated_at_ist": "2026-10-19 20:36 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "runtime_sec": 402,
-   "generated_at_ist": "2026-10-19 21:23 IST"
+   "release_tag": "m-20261019-1706",
+   "runtime_sec": 91,
+   "generated_at_ist": "2026-10-19 22:37 IST"
   }
  ],
  "stats": {
-  "videos": 5,
-  "videos_4k": 1,
-  "photo_stories": 1,
-  "skipped": 4
+  "videos": 1,
+  "videos_4k": 0,
+  "photo_stories": 4,
+  "skipped": 7
  },
  "items": {
-  "alex-documentary-elon-explosive-four-gibney-hour-inside-musk-take": {
-   "type": "photo",
-   "headline": "Alex Gibney Takes Us Inside His Explosive, Four-Hour Elon Musk Documentary",
-   "category": "famous_clip",
+  "doom-him-paxton-race-souring-suburban-tight-women": {
+   "type": "video",
+   "headline": "Suburban women souring on Paxton could doom him in tight race",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261019-1506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-alex-documentary-elon-explosive-four-gibney-hour-i-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-alex-documentary-elon-explosive-four-gibney-hour-i-p1.jpg",
-     "source_url": "https://usmfreepress.org/wp-content/uploads/2026/10/Elon-Musk-takes-on-new-role-in-White-House-Hungarian-Conservative.jpg",
-     "width": 2001,
-     "height": 1126
-    }
-   ]
-  },
-  "call-change-hamilton-lewi-max-singapore-track-verstappen": {
-   "type": "video",
-   "headline": "Lewis Hamilton and Max Verstappen call for Singapore F1 track changes",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "source_url": "https://www.youtube.com/watch?v=EVJfAljqY2c",
-   "source_title": "Extended Race Highlights | 2018 Bahrain Grand Prix",
+   "release_tag": "m-20261019-1706",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/c7498bc8-5601-3dda-8a19-7cdc2af5600e.m3u8?site=news&region=US&lang=en-US&devtype=desktop",
+   "source_title": "c7498bc8-5601-3dda-8a19-7cdc2af5600e",
    "source_resolution": "1920x1080",
-   "source_fps": 50.0,
-   "source_duration": 1212,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 584.7,
-   "trim_reason": "heatmap peak at 625s",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt01-call-change-hamilton-lewi-max-singapore-track-vers-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt01-call-change-hamilton-lewi-max-singapore-track-vers-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 167.3,
-   "video_1080_bitrate_mbps": 10.0,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-call-change-hamilton-lewi-max-singapore-track-vers-f3.jpg"
-   ]
-  },
-  "becoming-blackpink-legendary-most-ros-singer-vocalist-won-é": {
-   "type": "video",
-   "headline": "BLACKPINK’s Rosé won vocalist of the year becoming the most legendary singer of 2026",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "source_url": "https://www.youtube.com/watch?v=Lufa9QAFFeY",
-   "source_title": "ROSÉ - new trick (OFFICIAL MUSIC VIDEO)",
-   "source_resolution": "3840x2160",
-   "source_fps": 23.98,
-   "source_duration": 181,
-   "duration": 140.04,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "heatmap peak at 6s",
-   "resolution": "3840x2160",
-   "video_4k_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-2160.mp4",
-   "video_4k_resolution": "3840x2160",
-   "video_4k_size_mb": 456.7,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 172.6,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-becoming-blackpink-legendary-most-ros-singer-vocal-f3.jpg"
-   ]
-  },
-  "3-333-countdown-dvalishvili-merab-petr-ufc-yan": {
-   "type": "video",
-   "headline": "Video: UFC 333 'Countdown' for Petr Yan vs. Merab Dvalishvili 3",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "source_url": "https://www.youtube.com/watch?v=dN9BShQPLDc",
-   "source_title": "Petr Yan on handling Merab Dvalishvili's pressure at UFC 333: \"You saw the second fight, right?",
-   "source_resolution": "1920x1080",
-   "source_fps": 59.94,
-   "source_duration": 351,
+   "source_fps": 29.97,
+   "source_duration": 312,
    "duration": 140.01,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
@@ -122,98 +38,125 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/02-doom-him-paxton-race-souring-suburban-tight-women-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1706/02-doom-him-paxton-race-souring-suburban-tight-women-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 172.1,
-   "video_1080_bitrate_mbps": 10.3,
+   "video_1080_size_mb": 169.4,
+   "video_1080_bitrate_mbps": 10.1,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-3-333-countdown-dvalishvili-merab-petr-ufc-yan-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/02-doom-him-paxton-race-souring-suburban-tight-women-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-doom-him-paxton-race-souring-suburban-tight-women-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-doom-him-paxton-race-souring-suburban-tight-women-f3.jpg"
    ]
   },
-  "conversation-feeling-jayshetty-leave-short-small": {
-   "type": "video",
-   "headline": "Conversations that leave you feeling small #jayshetty #shorts",
-   "category": "other",
-   "prepared_by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "source_url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8",
-   "source_title": "Conversations that leave you feeling small #jayshetty #shorts",
-   "source_resolution": "1080x1920",
-   "source_fps": 29.97,
-   "source_duration": 29,
-   "duration": 29.49,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt08-conversation-feeling-jayshetty-leave-short-small-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 34.4,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-conversation-feeling-jayshetty-leave-short-small-f3.jpg"
+  "333-ufc": {
+   "type": "photo",
+   "headline": "UFC 333 How to Watch",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261019-1706",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-ufc-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-ufc-p1.jpg",
+     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/03/GettyImages-2258807444-scaled.jpg",
+     "width": 1920,
+     "height": 1280
+    }
    ]
   },
-  "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯": {
-   "type": "video",
-   "headline": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
+  "cars-five-legendary-letting-mclaren-wild": {
+   "type": "photo",
+   "headline": "McLaren is letting five of its legendary F1 cars out into the wild",
    "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261019-1546-yt",
-   "source_url": "https://www.youtube.com/watch?v=6pFAdSkQbc8",
-   "source_title": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
-   "source_resolution": "1080x1920",
-   "source_fps": 25.0,
-   "source_duration": 11,
-   "duration": 11.12,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1546-yt/yt09-goal-laligahighlight-mbappe-realmadridsevilla-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 12.3,
-   "video_1080_bitrate_mbps": 9.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt09-goal-laligahighlight-mbappe-realmadridsevilla-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261019-1706",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-cars-five-legendary-letting-mclaren-wild-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-cars-five-legendary-letting-mclaren-wild-p1.jpg",
+     "source_url": "https://cdn.motor1.com/images/mgl/OoZbYB/s1/mclaren-f1-cars-for-sale.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ]
+  },
+  "bad-bunny-chuwi-interview-libertad-puerto-rico": {
+   "type": "photo",
+   "headline": "INTERVIEW: Chuwi on 'Libertad,' Bad Bunny, & Puerto Rico",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261019-1706",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-bad-bunny-chuwi-interview-libertad-puerto-rico-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-bad-bunny-chuwi-interview-libertad-puerto-rico-p1.jpg",
+     "source_url": "https://remezcla.com/wp-content/uploads/sites/3/2026/10/header-chuwi.jpg",
+     "width": 1920,
+     "height": 1080
+    }
+   ]
+  },
+  "100-32-car-flying-jump-musk-reveal-roundtable-spot-tesla": {
+   "type": "photo",
+   "headline": "Musk's Tesla jumps 32 spots on the Roundtable 100 after 'flying car' reveal",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261019-1706",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-100-32-car-flying-jump-musk-reveal-roundtable-spot-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-100-32-car-flying-jump-musk-reveal-roundtable-spot-p1.jpg",
+     "source_url": "https://www.thestreet.com/.image/t_share/MjI2MDUwNzAxNDMwNjI5NDA3/elon-musk-tesla.jpg",
+     "width": 1200,
+     "height": 1200
+    }
    ]
   }
  },
  "skipped": [
   {
-   "key": "ariana-beyonc-god-grande-initially-jay-woman-written-é-‘-’",
-   "reason": "no source could be read",
-   "source_url": "https://www.youtube.com/watch?v=wqAwGhKnkjc"
+   "key": "announce-arterial-bombardment-death-metaller-share-song-tour-undeath-–-‘-’",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=ZJObtup-6qY"
   },
   {
-   "key": "godzilla-grand-haas-livery-prix-revealed-special-state-united",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=sNsJU35ZIy0"
+   "key": "alway-leclerc-verstappen-yapping-🗣️",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
+  },
+  {
+   "key": "box-debut-documentary-everything-huge-office-see-stun",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=HvW_N5p1q44"
+  },
+  {
+   "key": "bad-bunny-chuwi-interview-libertad-puerto-rico",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=c5IVLk0gV8s"
+  },
+  {
+   "key": "ant-dougla-get-him-killed-let-man-marvel-michael-wanted-wouldn-‘",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
+  },
+  {
+   "key": "chemistry-excite-jayshetty-only-short",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
   },
   {
    "key": "19-daily-forum-recap-search",
-   "reason": "download failed or under 1080p",
+   "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=5SW61e6BZjU"
-  },
-  {
-   "key": "berlin-gtc-huang-jensen-keynote",
-   "reason": "no source could be read",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/bbe109ed-bf71-3807-87db-d5a08689484d.m3u8?site=finance&region=US&lang=en-US&devtype=desktop"
   }
  ]
 }
