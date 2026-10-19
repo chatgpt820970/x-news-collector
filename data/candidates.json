@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-10-19T07:28:26Z",
-  "generated_at_ist": "2026-10-19 12:58 IST",
+  "generated_at_utc": "2026-10-19T09:45:33Z",
+  "generated_at_ist": "2026-10-19 15:15 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5498,
-    "fresh_items": 4410,
-    "clusters": 1779,
+    "raw_items": 5669,
+    "fresh_items": 4637,
+    "clusters": 1883,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 64,
+    "youtube_uploads_fresh": 68,
     "youtube_items": 2,
-    "famous_items": 5,
+    "famous_items": 4,
     "trends_terms": 40,
-    "page_fetches": 62,
-    "with_video": 8,
-    "runtime_sec": 24.4
+    "page_fetches": 66,
+    "with_video": 5,
+    "runtime_sec": 21.5
   },
   "categories": {
-    "famous_clip": 4,
+    "famous_clip": 3,
     "ai": 0,
     "celebrity_music": 6,
     "finance": 0,
@@ -32,206 +32,78 @@
     "other": 6
   },
   "top_trends": [
-    "dakorien moore (US 200+)",
-    "doug jones (US 100+)",
-    "quentin tarantino (US 100+)",
-    "ashlyn krueger (US 1000+)",
-    "red dead redemption 2 (US 200+)",
-    "wayne (US 100+)",
-    "strait of hormuz (US 2000+)",
-    "嫁金钗 (US 200+)",
-    "better call saul (US 100+)",
-    "evan stewart (US 500+)",
-    "jamia millia islamia (IN 200+)",
-    "ಯತ್ನಾಳ್ (IN 200+)",
-    "రజినీకాంత్ (IN 1000+)",
-    "sensex index (IN 2000+)",
-    "കേരള കോണ്ഗ്രസ് (IN 200+)",
-    "hfcl (IN 200+)",
-    "ben simmons (IN 200+)",
-    "ayush badoni (IN 200+)",
-    "anthropic (IN 200+)",
-    "భర్త (IN 1000+)"
+    "google play (US 100+)",
+    "2 (US 500+)",
+    "colman domingo (US 500+)",
+    "adrian mannarino (US 100+)",
+    "bronny james trade speculation lakers (US 100+)",
+    "strait of hormuz news (US 5000+)",
+    "rj mitte mother interview (US 200+)",
+    "spacex falcon 9 rocket launch (US 200+)",
+    "ocarina of time remake switch 2 (US 2000+)",
+    "katie boulter (US 200+)",
+    "उच्चतम न्यायालय (IN 200+)",
+    "ಜಾಮೀನು (IN 200+)",
+    "ಮೈಸೂರು (IN 200+)",
+    "ਪੰਜਾਬ (IN 1000+)",
+    "आईफ़ोन (IN 1000+)",
+    "संजय बांगर (IN 200+)",
+    "గుండెనిండా గుడిగంటలు (IN 200+)",
+    "kangana ranaut torani lehenga navratri (IN 200+)",
+    "न्यूज़ीलैंड क्रिकेट टीम (IN 20000+)",
+    "aruna irani (IN 500+)"
   ],
   "items": [
     {
-      "id": "de35160e70",
-      "key": "account-brief-documentary-musk-restore-suspension-tiktok",
-      "headline": "TikTok restores ad account for 'Musk' documentary after brief suspension",
-      "summary": "https://filmstories.co.uk/news/elon-musk-documentary-tiktok-calls-ban-on-its-official-account-an-error-others-still-blocking/TikTok banned the official account for Elon Musk documentary Musk on Friday, before reversing its decision. More here.",
+      "id": "0e804f9a8d",
+      "key": "arrested-attacked-australian-car-man-politician-struck",
+      "headline": "Man arrested after Australian MP struck by car as PM says politician was attacked",
+      "summary": "https://www.bbc.co.uk/news/live/MP Helen Haines was \"attacked\" outside her office when she was hit by a car, Australian PM Anthony Albanese says. Police say they are investigating.",
       "sources": [
-        "IMDb",
-        "Film Stories",
-        "NewsBytes",
-        "Blunt Magazine",
-        "디지털투데이",
-        "VOI.ID"
+        "BBC",
+        "The Guardian",
+        "ABC News & Headlines – Australian Broadcasting Corporation",
+        "SMH.com.au"
       ],
       "article_urls": [
-        "https://www.newsbytesapp.com/news/science/tiktok-reinstates-ad-account-for-musk-documentary/story",
-        "https://www.imdb.com/news/ni66069326/?ref_=nmnw_art_perm",
-        "https://filmstories.co.uk/news/elon-musk-documentary-tiktok-calls-ban-on-its-official-account-an-error-others-still-blocking/",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RRkE3YnNlX255REMtZGw0VzJKc1BuRzVObUJTdGxhcmE5UGNETlFNSnFZMEhrUC00a2oxeFhwNDhOTzNDTzdBUjJWY0dDQ0RkUHVTWUYwTkZEWnNocFRJVDV6Zmt1bWc?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWlplX0psMFpMZ3puVWl4QkI3TWRjLXFaNGVWclRVWHdiMncxZmJ3Z1N3elFfbDVYdllpZWdZU3ZjblZDV3YwcFVONFh3UGNGQ3VRb3Z1V1NyUXdaN0xCY3pFOUxpYVd2bkxUUF9lNDRwT0ZMR2ZkLURCcEZiMWxiM0RrX1dXanF5WEVpU2FhNjh2YVBDcHJGNUFYVy1RbGt4cE96TTlBcWpsOEVDZHQ2Nlo0SzI0Z2Izb0YzWEhMNDJPaEE?oc=5",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQbl91UEJZMnlXUlVNdzBXQnlELUFDcEt2SFJyeDlZWXQzeElGVGZrTUM3V2lfWGMtZkZOZDVRUTJUbDFycy1yNkViUmwwU3VsbHZmaHZxd0VPZEE4OVdhUDVtVHNOcENHMVg3WVlJc0owT2JSbEFUcXB6ZU1RcnFmZk9OUFBMeS1OOHl4blVZdHU4NDhvVDg4bHl5dnJtZw?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE02dU9rcWNmQllVQ1h5QklXdjNka05BYzdMSjhwc2hiZFk2MFBXWjVGU1dWT295Y25wY1dWZDAxQkxXLWhLYzZWWkFYa0xCOVhvV0kxVmFRaHQ1R2tTT0FPeFlpOVdmLVNOeXJBQldaR3F6T244TGQzT285SE1qZw?oc=5",
-        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnd6S0lPT0RNdVdSYTEwZGFaelZwLXA4SzI0VEY4U3RRTWxzRWVnU2hCeHl6cXZaQ3M1MmR3U0FXT2JDX2F2VUtwNFRtNEY2ZlJMc2JjbmVmWlJjZFV4SklBQVpGRTBoTFdQSWZGal9ndTdUN0MwdkIwVWJnWTZCZlNHWGZobGpyRUxfWW5VcElMdW5fQW04ZXNHRnNGc3A5R3FIdU1iN0lsamVzQWVuYmxOeUUtRWNXRDNRb3o3Y05wVV9Pc2Zad0VnZHc?oc=5"
+        "https://www.bbc.co.uk/news/live/cklyj1477edjt",
+        "https://www.theguardian.com/australia-news/2026/oct/19/mp-helen-haines-injured-incident-wangaratta-ntwnfb",
+        "https://www.abc.net.au/news/2026-10-19/live-blog-victoria-indi-mp-helen-haines-injured-wangaratta/107285046",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2eXI4S184LWNhTld0bW1MRFZuYmRmV2JPOHJFT252cy11bWJuTzRvckRUbmpLS2hEdDl1WkRUcldYSGdEazdIdDZMZEpyak1KRnQ5R1JQdng?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY1lFVVIwbE1VbjhiZUZ6RWZBNHBaZnkwWFpYTjJMUVZEX2ZsVXozMjlzVG91eWMxa195OUhuS1RnY2tIenA5YXI5d3pLYTBYS0lFcWc1a3B0aTFkSzNRTjlrNmhpcXUtU0R1OWx6OGk0UG5hNGN2U2E3MXpqNWZTRkR1QUxnZDJSX2ZLMWloSldlMUFycklzSnJ2R2VHZGJNNHpRYUFsU2o?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTklkMVZzSjdsM2oxZkNfdkhBOE5tOFdKcUxXcU5uVGFXbHJFdEtqbm9KM3Y2cGZlc2FHWkdxTFZKQ0VtY0x5Z2JpT19ZaWQ0VUctZmEtdHRxZ0tsMjVUT21yalRfREUtMnJ2Vkc2VW1oYmFEVEVWY3ZlS1B2eTVBdkVsZktLajItd0RHZHVZSGtnRFU4djlGVjRsQnFYWnJKZUNfMFNQRlY3d0k?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNYjdhUnlkb28yejBpMVhtQS1FaTRSdjMxWmkzaUFIT194WXlpN1NUX1NYRkNiMm1QLUVHVWxKYUpBZE5hbUFLSEtISE52bEpOUDFMaTJnd2pxZGVMSUFkWjhxZDJtelJ3cnlfUzRiU09CczdzVElRdGo4c2gtd2xSZkllZktZWXZZYmNicERWdnJkX09IVEsxOTdIQTNZOXEzTzJicW1YZWZ5a2FXNnBmcVVIeTd3UXZRSHVhTVBLSzFkbE1mWm9zTWRxbUlaXzdVZHppQzVIOG1sNHQxRVRVSFctSUFWWXYtUWExY19GdWtPRkZOenhacHphSU5KR1kyWWZYVnk3SEtmeXExUzZMdUpPLVRQRnhVbHEybzUtZXRWcUNVUWtVS3B0NFY5YVZxeUJVMVdKREFlc1lpTk1tZTMxeTA0SDZpU3c5OVEyWXpZUHp5OVVN?oc=5"
       ],
-      "published_at_utc": "2026-10-19T07:11:11Z",
-      "published_at_ist": "2026-10-19 12:41 IST",
-      "first_seen_utc": "2026-10-18T22:28:47Z",
-      "age_minutes": 17,
-      "trend_score": 16,
-      "rank_score": 1.0396,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk",
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Elon Musk documentary | TikTok calls ban on its official account “an error”, others still blocking",
-        "TikTok Restores Ad Account For Alex Gibney’s Musk Documentary",
-        "TikTok reinstates ad account for Elon Musk documentary after permanent suspension",
-        "TikTok Permanently Blocks Account Promoting Elon Musk Documentary Film"
-      ],
-      "image_urls": [
-        "https://spaces.filmstories.co.uk/uploads/2026/10/Musk-movie.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/eY_8SyndC10?feature=oembed"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "1ead9304bf",
-      "key": "118-festival-film-hawaii-international-lost-paradise-premiere-sang-sell-sets-territorie",
-      "headline": "Yeon Sang-ho’s ‘Paradise Lost’ Sells To 118 Territories; Sets U.S. Premiere At Hawaii International Film Festival",
-      "summary": "https://www.kob.com/new-mexico/fans-line-up-in-old-town-albuquerque-to-meet-patrick-fabian-from-better-call-saul/Big lines formed outside and inside the Breaking Bad Store in Old Town as Patrick Fabian greeted fans and signed autographs.",
-      "sources": [
-        "Businesskorea",
-        "IMDb",
-        "Deadline"
-      ],
-      "article_urls": [
-        "https://www.kob.com/new-mexico/fans-line-up-in-old-town-albuquerque-to-meet-patrick-fabian-from-better-call-saul/",
-        "https://demokratis.co.id/en/patrick-fabian-albuquerque-film-festival",
-        "https://www.imdb.com/it/news/ni66069254/?ref_=int_nwr_2",
-        "https://suaragarut.id/en/fabian-premieres-film-santa-fe-festival",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UU2xtNnY4bklEY3BXQkJQTGNKV0tzNlJRZWVMM0VIYzhhOE42NW81MXl6Y25aekoyWjdRSVNUNV9QYzJpN25paFdDbE9WX0VhcVVqem5YZGdnWXVEVjVCYzJIdE5SR2YzSW9QWXYxVmlNU1Zq?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03TEE5dFhzblJDTVhHX0ROMWNlcEpiMXo2RlgwRS1iaV84WDBRb1ZXeHZZNVh3a29yVVBCREdKRS0zcUczWDI4b3JFMkRsNmRzR252MG80VDhkMk1iRkdFQVNodmduUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSjJEM3c5TFBCczBjS2hFRS11QzduSkh3VEN3WXhKMFFNT25rYTlRNjFDOGRONHlmd3R2UDhyM09uS3gtaldpMzE5SERia3hobmNscng3MkxlSGpQUng5TXVGblFhZkhTbm9LNFNqb0lYYkZXMThhS2J4ZWxpRkMtajB3OXdhYVVLNlVyTlI0TVE3VUt4QkJTOQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T06:30:24Z",
-      "published_at_ist": "2026-10-19 12:00 IST",
-      "first_seen_utc": "2026-10-19T02:18:00Z",
-      "age_minutes": 58,
+      "published_at_utc": "2026-10-19T08:39:08Z",
+      "published_at_ist": "2026-10-19 14:09 IST",
+      "first_seen_utc": "2026-10-19T08:39:08Z",
+      "age_minutes": 66,
       "trend_score": 10,
-      "rank_score": 1.0214,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "rank_score": 1.0128,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "US"
+        "GB"
       ],
       "language": "en",
       "priority_queries": [],
       "google_trends": [
-        "better call saul (US 100+)"
+        "helen haines (GB 2000+)"
       ],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Sang-ho Yeon’s ‘Paradise Lost’ Sells to 118 Countries, Sets U.S. Premiere at Hawai‘i International Film Festival"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://www.kob.com/wp-content/uploads/2026/10/Fans-line-up-in-Old-Town-Albuquerque-to-meet-Patrick-Fabian-from-Better-Call-Saul.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi493cC38dYLSR6PcDNzX0kusbUnO1VhcSoAd5HdBH581RUL-wPBO058ZQwUM",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKBHXSaAMlLjRFYxuZDBGCaNG71eq5g8m93y5oVHhNAW2C8gbEweclp02dG4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFy5NPgnKQmPqJYjO6Q_UdUNR48t6F3MMcA2IcchdoKlq2ulf6wG5dLOMux9k"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "9cfeea02ee",
-      "key": "carpet-celebrity-fashion-look-red-secret-show-victoria",
-      "headline": "Victoria's Secret Fashion Show 2026: Celebrity Red Carpet Looks",
-      "summary": "https://www.eonline.com/photos/38385/Victoria's Secret Fashion Show 2026: Celebrity Red Carpet Looks",
-      "sources": [
-        "Yahoo Finance",
-        "E! News",
-        "USA Today",
-        "Vogue",
-        "Yahoo",
-        "Page Six",
-        "Hindustan Times",
-        "The Times of India",
-        "Harper's BAZAAR",
-        "Nine.com.au"
-      ],
-      "article_urls": [
-        "https://www.eonline.com/photos/38385/victorias-secret-fashion-show-2026-celebrity-red-carpet-looks",
-        "https://finance.yahoo.com/markets/stocks/articles/vsxy-stock-rises-overnight-victoria-061411525.html",
-        "https://www.usatoday.com/story/entertainment/style/2026/10/18/kylie-jenner-victorias-secret-fashion-show-2026-fantasy-bra/92266856007/",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVXZjVUJ4SDdKemhXaTM3X2I0X3dHZnNhMC1vMkdKeWdBWG9id1d0X3RHWTVycDFMZk1lbndRLWV2LWlOTlhaRnNDYTQyVFFIZnNDQXI3aXFwdW9oX29LNU5JcmFscU1USHI4OUFraDlPTlJ2WEdvOUFwWDljS0NIV2s4R0xPOW81eUJ6R1o5MDVhU01mZTRPNURzX1c1eHdTRmc?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOejNTdVNVSldyMWdodmZ5YWlqRUhKRFBJYk9HcjBqRDBJZ01SQVVlbm1LejdJRUNwQ2ZodWNtbFAxWGhVaFVrd29yYmdlcDdTd0VieUJ6VkhsTVVzSXJWRmRieFQyZjBjcEg5dkdhdHJwTFNkYTFFZG1BTUtzZXRBMG10UnJKd3Byb3hmUFJHLVczVV9MTHB0ZXZ4RnM2cG8?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVWx3X29kSWFmZ2Rhc2xHekhXdHM0MzBuQjNKcVJ2UHZsNnhwZHktU3pxYi16RkJjdVlEMG1xN3NXaHBsTV9JUnFSdi1wOENrMmgybnN2R2h4ZU9YeVBBLTB2TXh3SC1ha1J3QVVEUWxHaUdPWlFDb3pyNHZfZEF4ZFR2cXFXS1dhODMxOWdqLUNLMmd5UTlWenJ1VFlwRnhCNUtwVm8zNjJzajJkaHJVZWw4enQ2WEg1a0RLRlo0RDRtdklka3JFbGpRYVE2R1k?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFJNcUdLVF9wMFNRaDRheG5lQnYtTW1GeUczLTdwWnplVy16aWtpaUhldk9waUlkVzMxVnQzcDZGQmVJTm13b0xLcnJZOVBRNVJTV1hlZG84NXRnaG5qaVYtNzgzbEJJcjJyN3hINkNTZG5tNU9ZNGlXS191eXpPRUxzZk9mWEJyVmpfbnoxZm4?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkFrNXE3cENoWHhMa3RSYWRmRDhJM21QRTlNRk52ZEhJbVpTV2lENjFvdzBYVFRFeTdtQzRPNEgwNldYaVFoSHlEUWt3cEZMY1FNNGcyM3RvV0l6blBuVEQzUEt0WnE1aEY2TGxSOGtHMXlDTloxUnRqMnZ3OWZhR1Q5NkxNWXpSdzlKbmcxd2l3b1AySUh5TndkZzlvWkpVNkMxV3R6Ulo?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T06:14:11Z",
-      "published_at_ist": "2026-10-19 11:44 IST",
-      "first_seen_utc": "2026-10-18T22:53:00Z",
-      "age_minutes": 74,
-      "trend_score": 30,
-      "rank_score": 0.9383,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "VSXY Stock Rises Overnight: Victoria’s Secret Taps Kylie Jenner’s Star Power To Spruce Up Fashion Show Buzz",
-        "Kylie Jenner rocks a $50M diamond bra at Victoria's Secret Fashion Show",
-        "Kylie Jenner makes Victoria's Secret runway debut in '$50 million fantasy bra': The diamond-encrusted piece took over 1,000 hours to make | Fashion Trends",
-        "Why Kylie Jenner Was Chosen to Wear $50 Million Fantasy Bra at Victoria's Secret Fashion Show"
-      ],
-      "image_urls": [
-        "https://akns-images.eonline.com/eol_images/Entire_Site/20261018/b3c3c3f7-9416-4f68-8d68-ce0badd67103_1792361237.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-        "https://akns-images.eonline.com/eol_images/Entire_Site/20261018/b3c3c3f7-9416-4f68-8d68-ce0badd67103_1792361237.jpg?fit=around%7C1080:540&output-quality=90&crop=1080:540;center,top",
-        "https://s.yimg.com/lo/mysterio/api/a506bd3f85afa8aee327b43cc81aa30a67249e2619ef166158ae5bab83ba5757/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fstocktwits_383%2F6928622c00b9d789900cba651dd4580a.jpg"
+        "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
+        "https://i.guim.co.uk/img/media/af7a18145b9b3f25efba897270d22f65cd9071a9/879_228_2007_1605/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb13437c93d07b7bbd4cedbf71f6b073",
+        "https://i.guim.co.uk/img/media/af7a18145b9b3f25efba897270d22f65cd9071a9/879_228_2007_1605/master/2007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=3a86e054cf56fa7a2fb55e14e0dd3d52",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSomxrLeOTDIz_2a1EWUgYrTgaZZkFl2fbuaNO8horomWM5CB27mhvmwIWmAU",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ-zcvA-o86BhvIMr6U2qHlRkf4EXkTMpjDNdNXUBnVtkS8PwLnXqgAW3DEc4"
       ],
       "video_urls": [],
       "has_video": false,
@@ -249,12 +121,12 @@
         "https://www.gpfans.com/en/f1-news/1091695/lewis-hamilton-f1-abu-dhabi-2021-heartbreak-christian-horner-respect/",
         "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVEtZSEhTV0F4OHlkVnYyZDJOLTlHeTFnLWhWRkNKNktCNW1sRlAyZnN0UjQyNDU1MkVRRnRsZlJmZGxxQkNfQzJlN1RCTnY2SzQzSGtMc1VxczZiUWxqbk1EenpHdUhBRzREWHlHelZQWXp1Q3hBWUdvSGdHWGlqTkR2ZjBTTi1fQUJPMEd5Q1JpSkZYUGpDMFZJM3NEMEhKNVBoWUdJUEhDR3lYU2Eyeg?oc=5"
       ],
-      "published_at_utc": "2026-10-19T06:14:00Z",
-      "published_at_ist": "2026-10-19 11:44 IST",
-      "first_seen_utc": "2026-10-19T06:14:00Z",
-      "age_minutes": 74,
+      "published_at_utc": "2026-10-19T08:10:13Z",
+      "published_at_ist": "2026-10-19 13:40 IST",
+      "first_seen_utc": "2026-10-19T08:10:13Z",
+      "age_minutes": 95,
       "trend_score": 11,
-      "rank_score": 0.9363,
+      "rank_score": 0.9188,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -281,181 +153,44 @@
         "https://sportsbase.io/images/gpfans/copy_620x348/0ffba4ed97ff342ea102a103fb3b25dd3c031fbd.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=KDpvT_2aUL0"
+        "https://www.youtube.com/watch?v=KDpvT_2aUL0",
+        "https://www.youtube.com/embed/KDpvT_2aUL0?si=wdKbAzEy_YGZvWot"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "91b67814c8",
-      "key": "britain-cannot-crise-deal-effectively-geopolitical-rejoining-thinktank-without",
-      "headline": "Britain cannot deal effectively with geopolitical crises without rejoining EU, says thinktank",
-      "summary": "https://www.theguardian.com/world/2026/oct/19/‘Sovereignty without the ability to act on it is not autonomy,’ paper by Institute for Public Policy Research says",
+      "id": "7dea68eaa9",
+      "key": "brad-cars-driven-five-hamilton-mclaren-pitt-sell-senna",
+      "headline": "McLaren to sell five F1 cars driven by Hamilton, Senna and Brad Pitt",
+      "summary": "https://www.rediff.com/sports/report/mclaren-selling-iconic-f1-cars-driven-by-lewis-hamilton-ayrton-senna-and-brad-pitt/McLaren Racing is selling five fully-functioning Formula One cars, including those driven by champions Lewis Hamilton and Ayrton Senna, and one tested by Hollywood actor Brad Pitt, with prices expected to reach tens of millions of dollars.",
       "sources": [
-        "The Guardian",
-        "The i Paper",
-        "The Independent",
-        "POLITICO.eu",
-        "BBC"
+        "GPFans",
+        "Grande Prêmio",
+        "Gulf Today",
+        "grandprix247",
+        "autoevolution",
+        "Car Dealer Magazine",
+        "Rediff",
+        "Speedcafe.com",
+        "The Japan Times"
       ],
       "article_urls": [
-        "https://www.theguardian.com/world/2026/oct/19/britain-geopolitical-crises-rejoin-eu-thinktank",
-        "https://inews.co.uk/news/politics/numbers-show-what-uk-thinks-about-brexit-4836612",
-        "https://www.independent.co.uk/news/uk/politics/brexit-burnham-eu-russia-trump-ippr-b3067667.html",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY2tTU19ickJKQ2lmWXFBNC1xbDdZalVfXzdpWnRtSzFUcF80NWwySFdHTFpfUkROT25CR2ZTS2VoQ01QS2E2OTJZZ096MWxCckdEQWhSdktNbkxsRmtRX01xYnl5SmNxd2pPVVJKeVkwUlJpX2RuZE84cUJYQTJRVWxlSEtSX3p3b3M1TU82ZUVqdGEyWFpjeg?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQlNYNXpKTjFMVUFOLWxzTlE5ZDJxWHJDbDFQLUlETUJiZTZrc3AzX3c2ZVZ3UHJTV2VHRXM1MndWMVJrUU9JZUplM1ZSVjVfRFMzd2E2Z0Y1ZHVkZ0d1ZHlnYmk4VU84YjNXcER3NW9YN1FudHJreS1VS0ZmQVBldmtJeGZ4RDM3bWc?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcG9xVGw2VmJKc2YxVmloTXlRSEhsNENYeXZiYzF5REJyV2tpWUROWllDdzBnbXNSdzJNZW1DM2JUSXJIaWdDSS1pRV8xMy04QzNJZGVIY3hKUUY0VzVkSUtNdjZUSUdWTEdSMEM5MzJ0Z0FEYnlrUk9TVUtpaG5QeTJBajR6amc2NDZudDFUSDhLTVhsM3lhSTRYUVk?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMzd3ZFo0UERxdnFESXhUbDF0UF9vQWxDNVdtcXpIT2c1bXFHNlVRYUtxUHVpSldQVkZzZWdVdjdWVm1aNXFxUldFb0MxcjREbEJLSDNHbGo5TG0zQ2liY3FqZEdMdElPRDVhM3R6ZU1uWnZwYTd2OU4wYXBINV9jTnRCaUM2UGJmQmpXRkV0SEE1SnoxNm0zWExB?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9SU3l6LUpWa0JzMldNRjRnUW1tdnAwaW0zRmEwTVQ3a2JweE5Xc28zWnppWVJldGtFNmNDRnJFekxPTVNzaUF5M1FydFhJTXlMMUJfVGFFUEpYUldmVXc?oc=5"
+        "https://www.rediff.com/sports/report/mclaren-selling-iconic-f1-cars-driven-by-lewis-hamilton-ayrton-senna-and-brad-pitt/20261019.htm",
+        "https://www.gpfans.com/en/f1-news/1091698/lewis-hamilton-brad-pitt-f1-cars-mclaren-sale/",
+        "https://grandepremio.com/en/f1/mclaren-puts-five-historic-f1-cars-up-for-sale-including-machines-driven-by-senna-hamilton-and-brad-pitt/",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXpkbGEyUC05WWxucnl6SURFbTRYeHE4V19zaURZd1pndS1jVUdIVXhXX0tETkJiVU4xNWFuU2dySjZnWDZKdVI3RFppRUxrcUVDa0h0cHF6TlJCczU0N3d3WVlWNDlUTExrZmNhcnV1Wjd1N1NvMDlkbmVKTWNRWVk5Z19TTlNPNjZjUkxJbHkzZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUF3akUwWm00a0ZZaVBIUURHNWxicWJXUTFQbjhIUkpiS2U1Qm8zTXJLRXNtT2s0ZHhqQ182aVdnZXNPeThSYXUtdUxVMkl1eEhkbTRNeXdWR3VsS3ZiblB6aGFjSEFoZVVPc0RpYWpGWWk0dUNlQldZYVd0dFZIczQ1VXE3NE9TaXRDd3dzY2s5WWpuOE13NzZlcjlBekVSb2VDODFXRnhZM1dQVmpBTEtJMDFRMlZFd19zNFVrbkF4bTBmeGc1aTUyRUhDamp1bUE?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUThmVUtzdE0wVWtUbW9GN2RnaEZFNnJSeWVrWkNhYlFVMm1oX3dNTWRqQ1VoVEg4UGtEc0VnUEtoMVRCeGttZWg1MmZndXFCYUpiYTY2bGh6el9RSFpQYTRmUTVmNWM4LVZwdm5RbmZCOUNuTVdQOGtLa0lGYkYtQkFKaFdsUTVPN1NiQkM5SW4xb0IwNVI2Y0I3RVhBVlJqajkzbzF4WTJ4MFF0RjNjY0pweEgyUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmVFaWR4LW1kX095am56ZUk0U0JfM3V2Z0VDZjAxQlZPYUt6emFJOEZWT3l3MjNGVml5Nm0ycEdJUGYwWGdCYmRYcHVRRjdneEJZUDFrekM0SDZELTYwbGR2UlhkVVpXY2NGUldnV05jZkdiRVoyaWtUUFl4THU2UGFJT09aRFVTQkZrTk9HQ3BhbjNaelF2bUhZY1NHZEVlV0xaY1FmZ09CSHBHeWRaS3E4Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzJvX3FrMzFQRFppeldDMmpNdlFqX3hjNGlZQ3AzWHlRdHd3N25EMjB1S0dmc2I5RF9xRy1YVWlPYTNuMVRwTmJKd3AxWHo4Z0xDcFlZME1Rcm5IOUdxQ0pGTVU4XzM0blB5ZWk4QmptaExKeHl0b2FqSTgwNWtaSkJkWWVxUzNsRDVaRktkNzVBeVZiRzdkRGdIclFJOUVwbWN0MkpRRlE3ZGtOQVRxdDY5V0lRQmxNVzR6SkJSZHdwZmVGdXI5bG11Yw?oc=5"
       ],
-      "published_at_utc": "2026-10-19T04:00:00Z",
-      "published_at_ist": "2026-10-19 09:30 IST",
-      "first_seen_utc": "2026-10-19T04:00:00Z",
-      "age_minutes": 208,
-      "trend_score": 11,
-      "rank_score": 0.8771,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ippr thinktank uk eu membership (GB 500+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://i.guim.co.uk/img/media/5939713bf11095d67e14c0bafaad6cb608eca565/499_0_5002_4000/master/5002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=36e4c050cb20609a4d7988c044c41fad",
-        "https://i.guim.co.uk/img/media/5939713bf11095d67e14c0bafaad6cb608eca565/499_0_5002_4000/master/5002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=1aea8e74af91f4afd989758bb4afa645",
-        "https://inews.co.uk/wp-content/uploads/2026/10/SEI_316893872.jpg?crop=0px,51px,1920px,1085px&resize=1200,675",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaksbSi40sbTIg3WHUPw1hwW-h1GsgBFjRgnH5NdrQp8a-I4Q9ut9E9wxrGsQ",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRu6WE1sTDdQy148y-BXMdkNiPLd8D6-inu40ebf--xPhVoYRsVel5XiYsRbDM",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjXHBO8VUzNRIb0davRPutF3EHHlTZ1Cq_pNW53yt_OGDIX_UuBs-OsN3M_Fw"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "1a121b2b80",
-      "key": "agata-festival-film-mia-premiere-starring-venice-wasikowska-writer",
-      "headline": "AGATA THE WRITER STARRING MIA WASIKOWSKA TO PREMIERE AT VENICE FILM FESTIVAL",
-      "summary": "https://www.kob.com/new-mexico/fans-line-up-in-old-town-albuquerque-to-meet-patrick-fabian-from-better-call-saul/Big lines formed outside and inside the Breaking Bad Store in Old Town as Patrick Fabian greeted fans and signed autographs.",
-      "sources": [
-        "FilmInk"
-      ],
-      "article_urls": [
-        "https://www.kob.com/new-mexico/fans-line-up-in-old-town-albuquerque-to-meet-patrick-fabian-from-better-call-saul/",
-        "https://demokratis.co.id/en/patrick-fabian-albuquerque-film-festival",
-        "https://www.filmink.com.au/public-notice/agata-the-writer-starring-mia-wasikowska-to-premiere-at-venice-film-festival/",
-        "https://suaragarut.id/en/fabian-premieres-film-santa-fe-festival",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWFNlSDBQVFlJVUd6aUUtQ0pKMHcwSFV2bmNLd1dla1ljWGVYRFJMV3FwLXAwLTVWRmJ2QjNOUGowNXFWVE9UZlBvVEZXUEl4NmlIb1VIcG96a1ZCNVFoenhiRHBfeHNZQ0QxQTZpbDlsclRsNUFxZjRJU3ZZenNOb3RHN3l6OXZrSkxDVnByWlpLTnpjOVdLT3FCZ0cyLUJuU3d3Q1VJVHBPZ0FQeVdRcFd1cjJXQmlkY1E?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T05:10:03Z",
-      "published_at_ist": "2026-10-19 10:40 IST",
-      "first_seen_utc": "2026-10-19T05:10:03Z",
-      "age_minutes": 138,
-      "trend_score": 7,
-      "rank_score": 0.8685,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "better call saul (US 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.kob.com/wp-content/uploads/2026/10/Fans-line-up-in-Old-Town-Albuquerque-to-meet-Patrick-Fabian-from-Better-Call-Saul.jpg",
-        "https://www.filmink.com.au/wp-content/uploads/2026/07/1-17.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi493cC38dYLSR6PcDNzX0kusbUnO1VhcSoAd5HdBH581RUL-wPBO058ZQwUM",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbKBHXSaAMlLjRFYxuZDBGCaNG71eq5g8m93y5oVHhNAW2C8gbEweclp02dG4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFy5NPgnKQmPqJYjO6Q_UdUNR48t6F3MMcA2IcchdoKlq2ulf6wG5dLOMux9k"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "38b93d5aa0",
-      "key": "anime-box-chiikawa-dominate-korea-office-sensation-weekend-‘-’",
-      "headline": "Korea Box Office: Anime Sensation ‘Chiikawa’ Dominates Weekend",
-      "summary": "https://variety.com/2026/film/box-office/korea-box-office-anime-sensation-chiikawa-whalefall-street-fighter-1236916187/'Chiikawa the Movie: The Secret of the Mermaid Island' led the South Korean box office over the weekend of Oct. 16–18 with $2.8 million.",
-      "sources": [
-        "IMDb",
-        "Variety"
-      ],
-      "article_urls": [
-        "https://www.imdb.com/news/ni66069375/?ref_=nwc_art_perm",
-        "https://variety.com/2026/film/box-office/korea-box-office-anime-sensation-chiikawa-whalefall-street-fighter-1236916187/",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqcHBmSWVTZnBsM3h0ZENlbWpPai1KTmkzdHFOVFMzdDh4QkpkM2V1Tl9IUFZWeTRoRXctWmdRLTl6M0hOQ2pYcEd0YXMxX25PSzU5dlRSM1Z1NkpFbHNFTjRVMnVXQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcFRlRTNFWFJEMmQ1ZU4xVTdhTFdJUmZSYzU1R2tyVGJ4T3pJNzBsZTg5TjVaV0EyNlRXTXFfR09XQjlQM2ZmT0Z3MDBvdlI4YnlrSjRmenJrTE53ZnBOVGxnVDhOZlpGOVliQUw5Wmp3elFPa1ZDUlRpNW9PSVlVTlVBVmFpVTlfblBDUGtna244bTVrX3VUR040ZzJNU3YtVlYzSmx2T21STnN1YVdQM1Y2V01tVDdfeTlJ?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T07:22:00Z",
-      "published_at_ist": "2026-10-19 12:52 IST",
-      "first_seen_utc": "2026-10-19T06:45:00Z",
-      "age_minutes": 6,
-      "trend_score": 12,
-      "rank_score": 0.8558,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://variety.com/wp-content/uploads/2026/10/Chiikawa-the-Movie-The-Secret-of-Mermaid-Island.jpg?w=1000&h=563&crop=1"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "917fd36b4f",
-      "key": "449-austrian-deal-fans-getaway-loving-party-racing-ultimate-£",
-      "headline": "This £449 Austrian GP deal is ultimate F1 getaway for party-loving racing fans",
-      "summary": "",
-      "sources": [
-        "The Sun"
-      ],
-      "article_urls": [
-        "https://www.thesun.co.uk/sport/40670281/f1-austrian-grand-prix-travel-deal-party-vienna-nightclub/",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkh4QTR6N2haSFVEU0VFZnFZamN4M3FDbzRJZTJNdHZJTThtQTZ1Z3d6MHVld1RiRkhSWU5wc2VzODBPa0JLR29OODZGeWVEMzJSbXlmWS05bUhRLXhvSFVDWXpHVVJkR0c0NzBnem1nNFlTcjBmLU9idnY0Z29MZ2xYTzJDTXgzaG9ORzhETmQ5dVFfaEVwMXNqSVFkX2c?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T07:24:52Z",
-      "published_at_ist": "2026-10-19 12:54 IST",
-      "first_seen_utc": "2026-10-19T07:24:52Z",
-      "age_minutes": 3,
-      "trend_score": 11,
-      "rank_score": 0.8455,
+      "published_at_utc": "2026-10-19T08:57:00Z",
+      "published_at_ist": "2026-10-19 14:27 IST",
+      "first_seen_utc": "2026-10-19T01:33:00Z",
+      "age_minutes": 48,
+      "trend_score": 19,
+      "rank_score": 0.8898,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -467,6 +202,285 @@
       "language": "en",
       "priority_queries": [
         "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Lewis Hamilton, Brad Pitt and Ayrton Senna feature in multimillion-pound McLaren F1 car sale",
+        "McLaren sells five historic F1 cars linked to Senna, Hamilton and Brad Pitt",
+        "McLaren to sell five F1 cars, all driven by champions and one by Brad Pitt",
+        "McLaren selling five Formula 1 cars including one tested by Brad Pitt"
+      ],
+      "image_urls": [
+        "https://im.rediff.com/1200-630/sports/2026/oct/19mclaren1.jpg",
+        "https://sportsbase.io/images/gpfans/copy_1200x800/7fdfcb4d68e509c33b9157615c2fef0f218e06e6.jpg",
+        "https://sportsbase.io/images/gpfans/copy_620x348/7fdfcb4d68e509c33b9157615c2fef0f218e06e6.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "7042fd70f9",
+      "key": "20th-2nd-england-match-odi-pakistan-prediction-serie-tri",
+      "headline": "Match Predictions: Pakistan ODI Tri Series 2026 - 2nd Match - Pakistan vs England - October 20th",
+      "summary": "https://www.cricketworld.com/match-predictions-pakistan-odi-tri-series-2026-2nd-match-pakistan-vs-england-october-20th/Get the latest Pakistan vs England match prediction, preview and analysis for the 2nd ODI of the Pakistan Tri-Series 2026 on October 20. Explore team form, key players, probable playing XIs and winning predictions ahead of this exciting clash.",
+      "sources": [
+        "Cricket World",
+        "Sky Sports",
+        "Business Standard",
+        "The Cricketer",
+        "The Times of India",
+        "NDTV Sports",
+        "Livemint",
+        "News18",
+        "NewsBytes"
+      ],
+      "article_urls": [
+        "https://www.cricketworld.com/match-predictions-pakistan-odi-tri-series-2026-2nd-match-pakistan-vs-england-october-20th/113890.htm",
+        "https://www.skysports.com/cricket/news/13600845/england-begin-odi-tri-series-with-pakistan-and-sri-lanka-as-henry-crocombe-sam-curran-and-spinners-look-to-impress",
+        "https://www.business-standard.com/cricket/news/agha-hits-fourth-odi-ton-as-pakistan-defeat-sri-lanka-in-tri-series-opener-126101800796_1.html",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcjZqaWd5OVc1TmUwYWtETmh4cGx4UHlWX0Q4c3hPOUllMTJxRWJTVWQ0YnFKaDhSMGhqRjhtbzEtWTJJbzRLdVhpZ2NJdXpvbGdVczVxY05EY0xocUoyLXNrLWFHRnlmZ3oycXhScFhkU2RYeDRrMXBBaDA5NTdQaFlCVDNKcV96WHlhcUNkbEJMMm1vQVNKU3RHWmk5N1hyVk5feXpLSWMyVEc3N2RoWjd4djd2dW0tOFdhNm1uUzB2WVRFOXlyOA?oc=5",
+        "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaHlZaHdKUjdndGNIQjFWYnhwY01SazJ3UTRKaHR4V0lmd0xrNGRaWVBZbk5LSDVFSDE2ZkZQczk0TVJZRHh5TlA5bWUxRDZMbmJ0Nk56ZkJTMTNxTlQ5dW9UZ3NwRkJOcGFweDMweTVPZDZaM0V2S3NidmR3OWVvOFpvRGFKRW9KLTBYOWsyOHJIRXBKY3RzYnpOdVlvWE1hekJLNnJ6WDZ3ZzVIYUlKclczd0NHdWdtblp4U05pRFpQeHNpSFFrNG9RbTNHb1VYdkZPbTZfeDk2Si1heWNrb3IyVDVHNVRGNEloOXdORC0zM0I1?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPLVhEZjk2cG9BUWVmQnRoNEZYd2ItR04yNXNGek1ybmFGOXJYLUlkdzB2dUczS01nZlVvM25LSXJsUURXZXBNSUFKVUs4VG9pbG5JOXZ6Z1ZmdmZ0NWVfQUdFRHZnQTQySUt4eHcyQWhuZG4tY2JmN1doRHlyTkUydDQ0UTRZSnpQZVdVSjJ1S21USk5saVRWYkZvZXBTRVQxaWhYZno2X0dncU4tQjhpWHVlOTZlTzdRT2hzNE54RC0zWWEzLWVUOWI4Q3plb1laTnVOdDJodG7SAd4BQVVfeXFMT2hGSjNCYVNDZTM3OWFWWVdoWHRoRkVqRlkyNnVmM0hMYjV4a3BiNlJnMUdjdTJmUkp0LS00MjJ2QU13cS1hVGpPOW55UWxPWmQ1QmVOSW0zeVdZX2hNZHlMNFFJYnFCSjlYdkgwejU2elFSMFE2Uk5iQVZsczFOVjdfU1M3c1RXenpqYUxzQ3JHbUdkTU1PZlBaLVp2RVZxQlFZUUtGMzhKVTVoSThrS0tjcVN3UlFtcU95M2pLODRiYmlnS2R4V2V0cUlnUnBKYm9GTlRSUWJXR1lSWkJR?oc=5",
+        "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNFNBV29Fam43ZXRXbzlGUzcwMFBxeDF5S21UeVo1RF8yVElSZjR5TEktaVFJNHU2NG95TjZ4UHczVm9seTY0VktlS3ZldkpYaTJPOFlXSDk0ZkRtUF9VYjE1ZkRNZXR2SUJ2Tkc4NEFWQzVwVVN5UUVTcTI5cVZLNk1EUldoRmFDRmc3NW8yanptTC1GZDdxTjgzY1FONUZsZFhvYlVpbXdFellxR0NQQ0ZUb1BBLUtJN0QyVzgzVkRGUDVKczZtYXhNbURjYzBONkRTQlY5bjhybUVaVmw5NXliV09RNHMxa3pNVFdSMW55ZlJtTTlCbmZNRlJHdkx1WVZlWGM1U2ZtczVwdnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVThmVWtVTVczV2N4eW9hSERKZ0l4MEg1R0Examk0MVV3UjFuRlZLb2VwSGk5VzZuam1ZV3pmSlVWcm9kX21RM0ZvX1VQalJOR3Z6WlZIU3YyaUV1ZFJhVUtTU2MyVXpYMWNnX2d0U1FuNnNfU1gtbUNsYk5rcHQ0cEFUSW9CMzdpZm1oTlF0NTdUamFzV3EwZXpJWHVhRzJOT3NTQlI0cENyVTZEbXdMbVR3V0FkckhON0MxcDZHd18tMHdMVHV3SlA0bTY5NlFMUGFSb042ZFJLUDlsV2tiVDA3NlQ5QQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T09:37:21Z",
+      "published_at_ist": "2026-10-19 15:07 IST",
+      "first_seen_utc": "2026-10-19T01:01:00Z",
+      "age_minutes": 8,
+      "trend_score": 15,
+      "rank_score": 0.8874,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "England begin ODI tri-series with Pakistan and Sri Lanka as Henry Crocombe, Sam Curran and spinners look to impress",
+        "Agha hits fourth ODI ton as Pakistan defeat Sri Lanka in tri-series opener",
+        "Salman Ali Agha-inspired Pakistan kick tri-series off with win over Sri Lanka",
+        "Why Pakistan will wear pink jerseys in ODI tri-series against England"
+      ],
+      "image_urls": [
+        "https://www.cricketworld.com/media/img/a/d/169133.jpg",
+        "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/08/thumb/fitandfill/1200X628/1749401173-6712.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "cf7dbfbba0",
+      "key": "claim-george-russell-sprint-title-unofficial",
+      "headline": "George Russell claims unofficial 2026 F1 sprint title",
+      "summary": "https://www.motorsport.com/f1/news/george-russell-claims-unofficial-2026-f1-sprint-title/10866218/George Russell has topped the unofficial 2026 Formula 1 sprint championship on countback ahead of Charles Leclerc",
+      "sources": [
+        "Motorsport.com"
+      ],
+      "article_urls": [
+        "https://www.motorsport.com/f1/news/george-russell-claims-unofficial-2026-f1-sprint-title/10866218/",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWw4WTVXRzJnZ25wXzdkUmlMSk9CaW12aEE5Q2FGS3F3Q0w0TEg2QmJNQmlKeEszRUZHMFFNaWx1M3B3OGFzWFlRVmQtWlV1VFFtZkw0aEs3V2JTTk81SFN3V2RqTy1fX1pQZFFOUll6Y1ZrWHMyYUUzbWxRV3k3WW12V2dvWExiUzQxVm5abXVvYldzRHp5TV80NFNaUEU?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T09:43:20Z",
+      "published_at_ist": "2026-10-19 15:13 IST",
+      "first_seen_utc": "2026-10-19T09:43:20Z",
+      "age_minutes": 2,
+      "trend_score": 11,
+      "rank_score": 0.8463,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cdn-2.motorsport.com/images/amp/68VwdNl2/s6/72945935-1.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "43c9c14f79",
+      "key": "expected-ive-kill-look-people-pre-release-want",
+      "headline": "IVE to Pre-release 'Looks Can Kill' Today... \"We Want People to Say 'As Expected of IVE'\"",
+      "summary": "https://news.sbs.co.kr/english/Group IVE (An Yu-jin, Gaeul, Ray, Jang Won-young, Liz, Leeseo) will pre-release the title track of their new mini-album, \"Looks Can Kill,\" today .",
+      "sources": [
+        "The Korea Daily",
+        "조선일보",
+        "news.sbs.co.kr",
+        "스포츠경향",
+        "DIPE.CO.KR",
+        "스타뉴스"
+      ],
+      "article_urls": [
+        "https://news.sbs.co.kr/english/article.do?news_id=N1008804655",
+        "https://en.koreadaily.com/ive-looks-can-kill-5/",
+        "https://www.chosun.com/english/kpop-culture-en/2026/10/19/Q6SVF5OGJVB2VH6ONBOXGA5IM4/",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3SjBoNHI0c0dJT1lqZDRzNzJZc1hDT1gyeE96OGlHQXd5Nmctb1lLakxFZUp0SjQ5cURrZUwtQXVfS1hZdDZPbnMyelpXNW02UF96UmNwSEYxdWc?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDRqbDhBZGp5R1lNSWVuekpOemotalBrWUpiWWpaLVFxSW5fOUduUGZKVzF1Y2h2LVdOZm1uajVFeFJpMEhka1BCTlZuTENvb2cySGN0ekRrZW5PQmZPNThUZmxLMFdxNzRBQWhva2RUUmJ6WHdVcjRreW52WldDRHZlTWlibW1Bcmktem53?oc=5",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Q25LU2s5Z0ZMSHQ4R2QtZXZSenRXR2ZxckE1UHUzZHN1cHI0S015Ty1oMUNaZUYtVl84ZlRyVzZESERDanR2SGFoSEhSNUM0R3o1RzJhUmxGV0dmOGdIbl9nNG8wV3BiSUE?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9URHF5U2hsYlNpd1hVZ2tpcVZLUDZwc1hrUUl0RVhnOXV1UDZuVTBVZ1ZZcUwwa3IxR1FqZG41TnpLMjdVZ2xkS3p2V0VYdnVzb0hteTdIaVM0TVFCSlZxRFVMLUVZdw?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jM1drcDBkN1RxTTJoUGhyeFYxUVpORkpfYllfOGYyNjlvRmR1VGN3aXllRTFEc2hvTjRwTzhDS3JpaDhpQnhrRDMxOVY2Sk40bzJPSUtiN25GYzlGQ0E5YWFvSmNDM05xYmxheDl3?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T09:33:59Z",
+      "published_at_ist": "2026-10-19 15:03 IST",
+      "first_seen_utc": "2026-10-19T06:10:23Z",
+      "age_minutes": 11,
+      "trend_score": 11,
+      "rank_score": 0.8388,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "IVE Looks Can Kill — Girl Group Returns with Powerful New Single",
+        "IVE Returns as 'Girl Hero' with 'Looks Can Kill'",
+        "IVE Drops Pre-Release Single 'Looks Can Kill' Today: \"We Want to Hear 'That Is IVE for You'\"",
+        "IVE pre-releases ‘Looks Can Kill’…“As expected of IVE! Eager to listen”"
+      ],
+      "image_urls": [
+        "https://img.sbs.co.kr/newsnet/etv/upload/2026/10/19/30001094345_16v9.jpg",
+        "https://en.koreadaily.com/wp-content/uploads/2026/10/202610190931771561_6ad5c3297021c.jpg",
+        "https://www.chosun.com/resizer/v2/GAYGCYLDMM4GMMJRMYYTMNDDGY.jpg?auth=ae8f04b15b9720539cd0c103707d2e5b10164a2243c93bde2e9dcb70186a0111&width=650&height=341&smart=true"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "4a48f804c8",
+      "key": "announce-australian-king-leon-tour-zealand",
+      "headline": "Kings of Leon Announce Australian & New Zealand Tour 2027",
+      "summary": "",
+      "sources": [
+        "NZ Herald",
+        "Music and Gigs",
+        "Ticketmaster",
+        "The Note",
+        "Scenestr",
+        "Muzic.NZ",
+        "Rolling Stone Australia",
+        "rova",
+        "The Brag"
+      ],
+      "article_urls": [
+        "https://www.thenote.com.au/news/kings-of-leon-australian-new-zealand-tour-2027",
+        "https://www.nzherald.co.nz/lifestyle/kings-of-leon-announce-auckland-show-at-live-at-the-domain-in-2027/KNR5I5Z6XZDX5PF4IIWJD4AUGA/",
+        "https://musicandgigs.com/gig-guide/kings-of-leon-australia-new-zealand-tour/",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNajI5ZUxlRjNZcEhJWDVrbUlIX3JBVGdUYTRwR3hULTBjSWU2SzIxQXpkVUx3X0xKRGM3dHlHOTQwaDV2eUt1bENUeHYyQW9IMDNJU3BiS09WSDdJdEM2MmFWUzRzbi1jTHZqbVJaTjI5V1RNTTNPdzduRlRQYTNBSVk2SlZKdFpieGp1NnRnS3dWTWVEdk44ak1zZ21kMnlSWC1FNVk5LWdTZ2k2Q195LTQyMnYxRGFNTnZIRl9VLXRJc0hoWm9vQVNfaw?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWc2aTdBQ2s3VFJ4RTk0eHVWX3FGYUU5SHp1S1JqRWl1UERnSWVYMWctSUppYTN1Y0w5Sks2d3FsX3JNVE9tZ2NfSlp5aUF1SXpRWnNWVmwwWEdOekxfZlpKdndleHZXVEZnQlFDbnZZSEJzYnRDSlZFMTFxV05yYlNR?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmg5ZmswbDFmaVBuMGdSWDF0VWtyM1paaGM0WUJSVkMwV0FObHhHdlRuVzIzeEp1N3BSZVJ2ZnRLSHJxdEtxYTY4VGpqVnhMeE5FMFVjTkZEbzR4SmwyLVl5Zkx3VEE4dG5vYnFucHFVLWU3X01FalhqQzVFdmQ0NkhVeE1ma1lucC1RcTdKal9Db3M1ak9KUWItSlJ3Qm9BOUppX3lLT2hBaU52WXZPV3dRZjkwdEJiZEdVRzhMWHJQZw?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTml3SWd4TlROWVZCQTB3TjFKQVhmMTV3REJ4QVpLNE9YemM2dUozTnRlNHRXTTRReVNpMWtBSGg0b3NiU1Z2M3FBaEZLSWdQT3BSNENvb3lkOXVqNzRuWUZJd1NwQjA5REpFVE9hWHFzQVlBd2xmQ0Zuai0xU2FKOE5qeWs?oc=5",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CVHQ1Zm84TzVmbFFsY3RKQmRaSGtpSWZiTkYyUlJUMVVfUXdYY3VaZmpSWGg5b1o0dFZrb040YW9UcjBxRFBKTVVDUDMwaXdzMUduRHMyQlJRcDVOWmZ2MmtzVnNtekIzZ0Y1NmtuMS15eVEyLWR5dVJBVWo?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T08:42:12Z",
+      "published_at_ist": "2026-10-19 14:12 IST",
+      "first_seen_utc": "2026-10-19T04:43:02Z",
+      "age_minutes": 63,
+      "trend_score": 14,
+      "rank_score": 0.8312,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Missed out on tickets? Kings of Leon announce Auckland show after southern sell-out",
+        "Kings of Leon Auckland 2027 Show and Australian Tour Dates",
+        "Kings Of Leon Announce Their Return To Australia And New Zealand In February And March 2027!",
+        "Kings Of Leon Australia 2027 Tour"
+      ],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "0490f45276",
+      "key": "football-french-life-mbapp-plan-presidency-reveal-rule-é",
+      "headline": "Mbappé Rules Out French Presidency, Reveals His Plans for Life After Football",
+      "summary": "",
+      "sources": [
+        "Sportscape Magazine"
+      ],
+      "article_urls": [
+        "https://www.sportscapemagazine.com/blog/kylian-mbapp-denies-becoming-the-french-president-after-retirement",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa1hmMFVZU3BwU01Vb2tQU2RvRWtfVnY0TmxWSmVpOFp6YmxVZEVaWjlWSzBtV1JrZWNtQ0M0TGE0OFpTX0VieC1SWWFJNG1TQnJ6dk11N2hDMlJ3eEkzdUFvbmZjSlBUNGc3T0R3V3dUMXNMaUZINWJVT1BoZ0lwQ3U1Um0tYkdVN2t0ZzBhdTZMSmVKRFRFWHZBWkJrbk9hYUQzYjk5bHBQQQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T08:58:42Z",
+      "published_at_ist": "2026-10-19 14:28 IST",
+      "first_seen_utc": "2026-10-19T08:58:42Z",
+      "age_minutes": 46,
+      "trend_score": 10,
+      "rank_score": 0.8257,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Kylian Mbappe"
+      ],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips",
+        "football"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -480,134 +494,25 @@
       "youtube_videos": []
     },
     {
-      "id": "c074c5159c",
-      "key": "activist-anti-demand-diljit-dosanjh-drug-family-jhota-justice-parvinder-punjab-singh",
-      "headline": "Diljit Dosanjh demands justice for slain Punjab anti-drug activist Parvinder Singh Jhota's family",
-      "summary": "https://www.deccanherald.com/entertainment/Parvinder Singh Jhota: Punjabi singer Diljit Dosanjh demands justice for slain anti-drug activist Parvinder Singh Jhota shot dead in Mansa, while family and supporters protest demanding a CBI probe and resignations.",
+      "id": "a6e622c1c0",
+      "key": "2-agent-antigravity-chat-hand-ide",
+      "headline": "Hands-on with Antigravity 2: No IDE, just agent chat",
+      "summary": "https://sg.news.yahoo.com/A 6-year-old boy and 35-year-old man were killed and 10 others were injured when a truck drove onto a field during a youth soccer game in Wichita, Kansas, on Saturday, authorities said.",
       "sources": [
-        "Deccan Herald",
-        "Telegraph India",
-        "The Tribune",
-        "Hindustan Times",
-        "Rediff"
+        "InfoWorld"
       ],
       "article_urls": [
-        "https://www.deccanherald.com/entertainment/diljit-dosanjh-demands-justice-for-slain-punjab-anti-drug-activist-parvinder-singh-jhotas-family-4187830",
-        "https://www.telegraphindia.com/entertainment/diljit-dosanjh-calls-anti-drug-activist-parvinder-singh-jhota-a-martyr-seeks-justice/cid/2185379",
-        "https://www.tribuneindia.com/news/punjab/diljit-dosanjh-calls-slain-anti-drug-activist-jhota-a-martyr-seeks-justice-for-family/",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNY1JoejNkZFBTV1hIMXlXM3NlR0sySVRZS2hKTy1hdUUtTUQtN1ZjZFR2VkIwVV9zem1yTUlLTmpFRnh6emxTajJGbjhBM1pSNEluZlgyWC1iMmt0NldQNUtDRzNmanVYYV9sa0t1aS1nYWlnX0R3bUdVVlhnOTQ1Z2NtMlV1RldDSVBtZ0dVdTFmRFBMSkJIeHprWEp5QWtOS3o4Sm5IOUlxWk9TdDNCeE5LelJQM2xYTnQ4UzNVUGg1QUJlU2U3T3M4eURSaV9DTDdlV1JkZFdPMVk4bF9kZQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQjdsTzhSSWJGQ0ZXSlVoejl5NTh6UlJ5OVFCSkpXVTR5RGljRWhVN29vVjVDRXFfVFlBbEUwcmMwLWplT1VrTnFxaEhtbGpmd2JzeWlBTEhKdHBlOEJ4RDItekp3NHNZS2VoTnFwT2ZJMm9ha2pxS196S0U3NkNGelJ0dF9ZTTJYYkN6MDNrYUJLSENPdDl1aDdQMmk5UzluZlVXWjl0RjBjeWZaYWF1bWVTUTlzbzVqMEVUWnl0ckx5bTh3UldaaVU0SkJ2T3pmWXR5MWdabDLSAd4BQVVfeXFMT1FNQVhRWHlvSEZqZElNQk00MWpjUThYdXBIQzBkc3JvZHRaSndkR0xTdEtEc2ZLeUpBdm9ZRTV1QTQ5eHVjeEJlSTJYeDVuN2lOZTNVZFc1Z3A3Ymh4SzB6YVQ3b1hBV01Xb1IyZVZNakRBTEswV2xrM0N4U2RVR3lUYUVncTRxdjc0Yl9haEQxOW4yN0hOYTljVFprb0tUc0JUWk1zQWtwQ0gwRjFWSEFtcXB3N2hsSUFWUEpxVlVtSmN5a1BsTjBNbkZyc1JiOEtabVVRYTl2UGJYUVZR?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWRwMk1nUkt1NUE2WDhaWUZrUzQ4Vl8xUC1oa3pyempNN1FUbmJzcHgxOW45S3FmMGlRTUlER3ZJMDN6ZUc0MG5YbVpSQnRuWGwzT1JLdE92ZWFKN1pkSzFkbTByVW1wVzYwR2lOb05wVlJQU0RhYzVOSXhkbWVVZXhCSDdiOFZZRHhOekFtSlpMMXA4YXlIVlRGMzlyeTZ6UDlhSUhpYlc5dXlnanUtRkt6ejNzVzRYeHdUMWc1ZGRzVFNsc2fSAcoBQVVfeXFMTi0wam1ZdmtsV3FvcDBqS2NZRkRsUmN5VWJlZDhKbVNtQXlZQmhRQXV0Rjk2SGlnUnlRTm16UV9WckJRcjlpOHdqeTUtUDZBVnBpdldtUldNX2k1dmJuQTZrY2hLd2pFcU5JV2FiQ0xCNHRxN2VXMjZySEdJMEZ0TEF3cy1icHFnb3M5V19Ndm1ZcGdYR1JyTjBCMUNNV0NEWWUzem1JQVVmckZISWJ2QTlHcHZqRDZHX3RQa1lHcHdBUXpBV2hQSE5ydw?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONmlQenlrblRXRFRkcFRENDFPRWNQeTAxLU51QmlrNGw2ZEVvSUREUHBicUUwSlNmZmdWRmY1eS1oN29jSVc0bENnWDZwWWw4TE85WmVzUl9yTVFOUEJWWmtSWGhVOU9xNmhPVHZsWG8zbk1ONy0ySGdJMk9Ud1MtOVZmNVhTUVpOLVhpSWsxclVVZWdNckM4a29MN21scHQ3czQ3ZXY5NEtkQ2E4dVY0eWRXRFdCaUh4clNzc0M5X2ZZUF84LUt5RC1WZDZtUk1zcU5ickNjdkwwUnF5NEYtY3VxZVNldFlt0gHuAUFVX3lxTE4xWlFyTGdfNE4wYUxnU3FaTWNWcXFSZmRkbnhuZFpaSHBob3FEQWt5aWd0SWJXZ1NYWHl2VHppdFRYV0ZfdTNwRlIweHVQYkJfNlEzVnRFZTFiWFRGX3doWTljOElyRlRHQ0FnbUNsMkNoZUJHLXIxdTdybDVmV28wTV9rVEZaUlRGZDBjVHlKbi1QOFFON1FKM1RJU0VuOXJKZXJlR1pBRTdYYlJYQzl5WlFvckd4T3E3X0ZLUW14MDhGek5RVlJPWGZHN0ptYUpJd0Y5M1JfbVBpRVZTNzA5RTUxWjRiU2ViQjM5Tmc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeDZ4Z3Nvc0Q5bVEyV3F3d3FVdlBjR0dMOTVHbU1mc3N5aDRoUHhleUlvVzdNc1ZYWFRmQjdrR3h2Wl9oWXUyTnJqQVpLM2ZBcDdKTXdBMWZ4V2tzQ1dxQ2xjS1BkT2REV0ZVMXFzZXQ5MTJUSkxsY2RQc1hYTGwzNy10MTJtdmVEem5Fbzg3TU1yOW5hNFhVNkdrU2hrY3N2UmlpNUxPY2JTUUnSAa4BQVVfeXFMUFJJUk9CQWI1UjZqWE5YWWI5V0E3a0MzWEZNNXZpaWozZkV2UU9ET2oxS1lhcVc3R2dhNmRFLXR2c2tzVENXVU1WcmJWSWFGZTJyQzBMdGpnUExUNHl1YUlKNjF0d0o0WVZnNkhVaHRMQWFUZ0tORGxQUU0wT2hBM3laZjZncld5ZGY4TElhVWNrYXR4WFFCNVg1WU9QRzU4VXBqZkotWUQ5YXdaanJR?oc=5"
+        "https://sg.news.yahoo.com/2-killed-multiple-injured-vehicle-232859492.html",
+        "https://www.kwch.com/2026/10/17/breaking-news-injury-accident-stryker-sports-complex/",
+        "https://www.kake.com/home/no-charges-filed-against-driver-who-killed-2-injured-10-at-stryker-sports-complex-police/article_d606fc10-07a2-44a0-b4f6-efa3fe755187.html",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxPWE1hQlIwRk9OWlVONTdWZmV3aVZ5Yl83dzBoWHNuTHRvalk4a3pGbDFzVm5TWVgzamlfMzk1Z1JKNmRzMUpaejFGUENVSkhzcTE1cmpyWURfT0t6ZFRwMllnX3BCZ3JHendGZVFRTkdndGtqNmFRV1RleDR3TUxLWVB1d01jSGZRbzNUbHRPUjQzVDZmSjJSWkhjdEdLdw?oc=5"
       ],
-      "published_at_utc": "2026-10-19T07:08:13Z",
-      "published_at_ist": "2026-10-19 12:38 IST",
-      "first_seen_utc": "2026-10-19T05:37:43Z",
-      "age_minutes": 20,
-      "trend_score": 12,
-      "rank_score": 0.8441,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Diljit Dosanjh calls anti-drug activist Parvinder Singh Jhota a martyr, seeks justice",
-        "Diljit Dosanjh calls slain anti-drug activist Jhota a martyr, seeks justice for family",
-        "Anti-drug activist murder: Diljit Dosanjh says Jhota's family should get justice | Hindustan Times",
-        "Punjab Mourns Anti-Drug Activist's Murder, Demands CBI Probe"
-      ],
-      "image_urls": [
-        "https://media.assettype.com/deccanherald%2F2026-10-19%2F2hthg4hz%2Fdiljit-dosanjh-parvinder-singh-jhota.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-        "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmMzEyN2UwLWNiODAtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc="
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "356f77e6e5",
-      "key": "accused-ahead-austin-blasted-stressing-system",
-      "headline": "F1 blasted and accused of 'stressing the system' ahead of US GP in Austin",
-      "summary": "https://www.gpblog.com/en/news/FIA to introduce a wet-weather software update at the US GP after Sepang’s power-loss chaos, as Martin Brundle warns F1’s packed calendar is straining the sport.",
-      "sources": [
-        "GPblog"
-      ],
-      "article_urls": [
-        "https://www.gpblog.com/en/news/f1-accused-of-stressing-the-system-despite-these-latest-updates-ahead-of-us-gp-in-austin",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHJOejB1R0licmhyVDV5a2piQmFtN0hGa3BaTl90cDA3ZDdMNUlEVnZnUFUxNUJHN2FDMlpWSjZ5c3c1NWM5SjdheGFIeHVfcFZEcDFyT2FhczExek5BUGUwUDIzLVJkc1ZJMGpqVkZKQTRoWGxQYlRZQUZYTzgzbUFScjBTcDFQUjViRlRNR19LVGJCX1ZMVWo0LXlmRVVodzhkbG5HNVhxZllrRW1iSXRPbmlGb3dmWlhn?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T07:18:39Z",
-      "published_at_ist": "2026-10-19 12:48 IST",
-      "first_seen_utc": "2026-10-19T07:18:39Z",
-      "age_minutes": 9,
+      "published_at_utc": "2026-10-19T09:03:37Z",
+      "published_at_ist": "2026-10-19 14:33 IST",
+      "first_seen_utc": "2026-10-19T09:03:37Z",
+      "age_minutes": 41,
       "trend_score": 11,
-      "rank_score": 0.8405,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-04%2Ffia-logo-69e3dec957e0b.jpg",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-04/fia-logo-69e3dec957e0b.jpg@webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "02b6960a33",
-      "key": "available-bank-deepfake-generally-launche-make-suite-world-zoom",
-      "headline": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
-      "summary": "https://www.theblock.co/news/ecosystems/The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name a bank that has started using the product.",
-      "sources": [
-        "bloomingbit",
-        "디지털투데이",
-        "Cryptopolitan",
-        "The Block"
-      ],
-      "article_urls": [
-        "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
-        "https://en.bloomingbit.io/feed/news/122463",
-        "https://www.digitaltoday.co.kr/en/view/116491/world-launches-worldid-for-banks-zoom-deepfake-detection-goes-live",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1Qlp4TmthbFlabWlkeEdXcnZEekhSVVAtRHZfa01tN1c3SFltazRWNVVFTzctN0ZtV1FkbXlValczZVYwek1DTEZ2THFyWXpzRTdYVA?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT3hmU29CWk41SkFMTmhSYUpZOVJQcHRHdzBlVXRWdkNHUDc5RXdhcmpTRGxJNHRlU1Rkc0VqeVhHbXVxZndEZWJ1UXNmZ2ZpUmJrXzhaVF84TFlVeEl6TmlhZ21Ybm5feGZxZ0ZrNmF0ZGpNMTI2QmYzR0JfbVV5cE5lMmJHVlJGY1VNQWRNTVhIZi0wdm5yUFN3dWh2anVRcU4ybEFMUHRycWVYanR1cEVR?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ySXJ2V2htemdMeWdnMjZRbXJweVVHQWJka2prX2FvcVJiTTNnNUVlR0RVbXEwMm5nMmxxZV9GOG5QMTJlTmJCYjNSbXM0WXZvb1gwQ0VQVXhxVXJCU0lweWJrRkxSTW9TUzR1enVISUNoMDhqTmpV?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNakRKYUx0WldlN2l0ZVlZX3VMS1c2UEQxNVM2bVZxcWZMZGN0VXFkblJfUVhVWnE5QXcwZ3hxVHZ6OHRWWmFLTFNiRGZqSmVXSTRqVnBhWTc2bWVvaGhDZzZEaDFxN3R4MThHNk9nd2FJYk42NUZWU2tOZHl4M0drc1p4WE1kUE1wWEpFNnlwSUprUTlxYkl3cg?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T06:24:49Z",
-      "published_at_ist": "2026-10-19 11:54 IST",
-      "first_seen_utc": "2026-10-19T01:10:00Z",
-      "age_minutes": 63,
-      "trend_score": 12,
-      "rank_score": 0.8083,
+      "rank_score": 0.8138,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -620,50 +525,115 @@
       "priority_queries": [
         "AI tools & agents"
       ],
-      "google_trends": [],
+      "google_trends": [
+        "2 (US 500+)"
+      ],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "World Launches Zoom ‘Human Badge’ Worldwide to Verify Real People Against Deepfake Impersonation",
-        "World launches WorldID for banks, Zoom deepfake detection goes live",
-        "World Launches World ID Suite to Help Banks Tackle Deepfake Threats"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://www.tbstat.com/cdn-cgi/image/width=1600,height=900,fit=cover,format=jpeg,quality=80/wp/uploads/2024/02/20240220_Wordlcoin_News.jpg",
-        "https://media.bloomingbit.io/news/9602ffc5-0c6b-423b-9a43-759ff0754da4.webp",
-        "https://cdn.digitaltoday.co.kr/news/photo/202610/708195_655835_4914.png"
+        "https://s.yimg.com/lo/mysterio/api/22e0c2294c4958dca1e4e6901a617855d49db3186df2e4a4ba39c2cb11d01ebf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F315d6ed5544d775d5d0259095e97ca83.jpg",
+        "https://s.yimg.com/lo/mysterio/api/b01f18273a8509971c6ef7c7329572cf4d7eb80c5affd8362c07d9d1a7042b53/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcnn_articles_875%2F315d6ed5544d775d5d0259095e97ca83.jpg",
+        "https://gray-kwch-prod.gtv-cdn.com/resizer/v2/JLRNSXGLUZA2NOJREGKH3AEJDI.jfif?auth=4caa574eb3f1703b1dacdc481433b047fb415bdf7d34b1b30dbbd5c6a882a734&width=1200&height=600&smart=true",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq8MQ2Agztzm8RemGG60HVWzX3j_63uqOUjU9zdVAmZ1ZXQg949Bqon6N6DVI",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM_uXHRs-t8sCiDkV5rZSdIdiY_rGbuq1P3zBlL72yTLlkIKmwVuu7xusZHcw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO3B0UTXlN3hrKgzHUw67uNu0QRhWBQ0P6Po5_3AB5CT8GyUEPWMxnmaVyNlQ"
+      ],
+      "video_urls": [
+        "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261018/6ad428f181b60a58c7e300d5/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+        "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261017/6ad40035f576a24e5a33ecc8/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4",
+        "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261017/6ad3f78d7836fa195a3dcfb2/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "20ea01ae43",
+      "key": "bbc-cash-companie-cows-exploiting-find-resident-system-using-welfare",
+      "headline": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "summary": "https://www.belfastlive.co.uk/news/belfast-news/It was announced in June that up to 50 local roles are being cut as the corporation is expected to deliver just over £4m of savings here in 2027 and 2028.",
+      "sources": [
+        "BBC",
+        "https://www.birminghamdispatch.co.uk/",
+        "TVGuide.co.uk",
+        "The Times"
+      ],
+      "article_urls": [
+        "https://www.belfastlive.co.uk/news/belfast-news/more-job-face-axe-bbc-34773426",
+        "https://downnews.co.uk/bbc-irish-unit-to-cut-60-of-irish-language-staff/",
+        "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo",
+        "https://www.bbc.co.uk/mediacentre/articles/2026/bbc-ni-savings-update",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSVdBVU1aZU96STNwNTdzTE9ObmdtRHNqc2FQdUxNNzhlTi1QZFZmTHNiT2JjUjlMUkFGVDMzUlJHQ0tyZ2k5YmVYZlV4eHN5Q2ZyVmVpZmhna0swRnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmhWS3RrNnlhU2xESFY5U2VyV0c0cWJIWGprcFl2bk5tazF5SGJVZVlRZEd4dTk2UDh1elNHd0tENzMweVVzTUlXd1dJUFgxd05uVEJzNU5tNE5OSnR1cXJadWFZR29lWmY5ZTZURmdJbE5KOE5tMmtTTEhIb0Q1VW1Da1JVNGpXUXBNa2V5aXk0amZTQ0lCRTdiWW1MQUF2Y3c4ZEl6WlQzcjgtT29zUnpWX2hGNkFNLTJRUVRXWGgxdHBiU2hkWXAwQ2phblkt?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVUyWGVQaWpwandIRUFhWG9WNTBFLURFOXUxTXlneU9ldzFHUnJYb0xFYmtHZ3I1OXJDdVdEMGRPWjJUbWlvZ3NpNHJQMkVfenZuVEZydWJnTEdUQkcydnAzX2NUY1NYdlIzeENTUGF1THBDRVVOUmtQSWUwQnQ1Q1FkVTluQ1B0X3BoZXFYYzJiOXFtLUhkdnJINGx2SmhONFcwUlRDYw?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTVQtb0hxNzVUSkNaUGEtUUQtUExJUE1LdHBqMWZaQ0RkTjZNNGZQa3lvU1VGNzBuYThYbUVsWmc5b1NWczA0LVpCbkZCNTdWbVBqMGMyRmJSUDRRZ0gya0FDb3I5QUVaV2NaUnpfSW11OE4tM2ZJTUtyUlVMbzBUNlBzMWhTbUpuTUNPemJ1VFZ2LXQ5Yy01MzFQMFZIOER3anR3aA?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T04:59:47Z",
+      "published_at_ist": "2026-10-19 10:29 IST",
+      "first_seen_utc": "2026-10-19T04:59:47Z",
+      "age_minutes": 285,
+      "trend_score": 12,
+      "rank_score": 0.8103,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "bbc ni (GB 200+)",
+        "bbc news ni (GB 5000+)",
+        "welfare (GB 500+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i2-prod.belfastlive.co.uk/article30788753.ece/ALTERNATES/s1200d/1_BBC-NI-to-cut-jobs.jpg",
+        "https://i2-prod.belfastlive.co.uk/article30788753.ece/ALTERNATES/s1200/1_BBC-NI-to-cut-jobs.jpg",
+        "https://downnews.co.uk/wp-content/uploads/2026/10/bbc-irish-cuts-1.jpg",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN15bpwWWxQDqLLy73qXc9jFRFiTk8tsxdCbe0BwiRR_VF11_CAkFPVCaeifw",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF9dUbO2z8dxU4dDsDmpniMl117PKE0NizgUusKw0gI4rT2Y1JOIbobmmW6tE",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTQ9ezS1baH5YPcRCkvyRmQjSSVn6fjSeWyVXS10hfgBzqnQLlhy14VX_yMAgU"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "6fc475ef45",
-      "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
-      "headline": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
-      "summary": "🆕📺 RM PLAY: https://play.realmadrid.com 🎥 SUBSCRIBE | SUSCRÍBETE: YOUTUBE: https://www.youtube.com/subscription_center?add_user=realmadridcf 📱 FOLLOW US | SÍGUENOS: INSTAGRAM: https://instagram.com/realmadrid TIKTOK: https://www.tiktok.com/@realmadrid TWITTER: https://twitter.com/realmadrid TWITCH: https://www.twitch.tv/realmadrid SNAPCHAT: https://snapchat.com/add/realmadrid FACEBOOK: https://fac",
+      "id": "e4fab2168e",
+      "key": "blue-carpenter-glamorou-look-sabrina-share",
+      "headline": "Sabrina Carpenter Shares Glamorous Blue Look",
+      "summary": "https://holrmagazine.com/sabrina-carpenter-blue-dress-academy/Sabrina Carpenter shares a glamorous portrait in a striking royal-blue dress, tagging the Academy in a simple Instagram post.",
       "sources": [
-        "YouTube: Real Madrid"
+        "HOLR Magazine"
       ],
       "article_urls": [
-        "https://www.youtube.com/watch?v=6pFAdSkQbc8"
+        "https://holrmagazine.com/sabrina-carpenter-blue-dress-academy/",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QblpBQmpBeUs1QWx6c3I3ZnFfd3ZPSDlKTEd4ekM4NDZ6QzQ1WmV2YVNUYVE2Ukgwc3NhZFRmUUo0cktNUzNsS0VRbG5JdnJoUHZHc2kxWV95eElVcVVDb3Rob3d5S1dUOGVzbTZ4bw?oc=5"
       ],
-      "published_at_utc": "2026-10-18T21:16:37Z",
-      "published_at_ist": "2026-10-19 02:46 IST",
-      "first_seen_utc": "2026-10-18T21:16:37Z",
-      "age_minutes": 611,
-      "trend_score": 7,
-      "rank_score": 0.7421,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "youtube",
+      "published_at_utc": "2026-10-19T09:13:56Z",
+      "published_at_ist": "2026-10-19 14:43 IST",
+      "first_seen_utc": "2026-10-19T09:13:56Z",
+      "age_minutes": 31,
+      "trend_score": 8,
+      "rank_score": 0.8061,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
       "famous_names": [
-        "Kylian Mbappe"
+        "Sabrina Carpenter"
       ],
       "region": [
-        "YT"
+        "GB",
+        "US"
       ],
       "language": "en",
       "priority_queries": [],
@@ -674,52 +644,257 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://i3.ytimg.com/vi/6pFAdSkQbc8/hqdefault.jpg"
+        "https://holrmagazine.com/wp-content/uploads/2026/10/instagram-@sabrinacarpenter-1.jpg",
+        "https://www.holrmagazine.com/wp-content/uploads/2019/02/HOLR_logo-blk.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c61476dad5",
+      "key": "academy-kapoor-motion-museum-picture-premiere-ramayana-ranbir-set-world-yash",
+      "headline": "Ranbir Kapoor and Yash's 'Ramayana' Set For World Premiere at the Academy Museum of Motion Pictures",
+      "summary": "https://www.hollywoodreporterindia.com/features/insight/Weeks before the two-part epic reaches cinemas, the makers of Ramayana: Rise of Legend, starring Ranbir Kapoor, Yash and Sai Pallavi, have scheduled the film’s",
+      "sources": [
+        "The Economic Times",
+        "The Hollywood Reporter India",
+        "Inshorts",
+        "Mathrubhumi English",
+        "MensXP",
+        "News18",
+        "Telugu Times",
+        "Go Fug Yourself"
+      ],
+      "article_urls": [
+        "https://www.hollywoodreporterindia.com/features/insight/ranbir-kapoor-and-yashs-ramayana-set-for-world-premiere-at-the-academy-museum-of-motion-pictures",
+        "https://economictimes.indiatimes.com/magazines/panache/ramayana-world-premiere-ranbir-kapoor-yashs-epic-to-have-historic-screening-in-los-angeles-ryan-reynolds-to-attend-check-date-venue-and-more/articleshow/135038475.cms",
+        "https://inshorts.com/en/amp_news/ranbir-s-ramayana-to-premiere-at-academy-museum-la-1792391459534",
+        "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVUtNakFyX3Q0Tk8xX2hJbVV6NUM4bEkxZDFsZEVZRGhKM3RERzBULVJURDRMZTBvTVJfdnQ5SVU3dmdnX3Y3Ny1RRWJ1d2hIZl91eHl6UzFoMmdEVGUtbmkxNmlHd2lUeE5iWkdhajdpVkY4ZjViUm1xQVlFVkhpMEFaOVNvTm9DZEZ2YWZfaFFGUlpiWmNvZXB6WlVzRGpCQkxodEJqN05RZHJQdWhjeDk5bHVuZGlwUENPZDlZT0phT1Q2ZV9Hd1E3YmVia1o3dGJkTkoxdWtvS3pJa1pna2lUVXNHX2hSN0hxTWtyVDBBeWtVSDhFME9UdGI3eWdCeldLbG1Fb2o3QzA0aE9LaFNieDlROHVxcEhiMElVTHhoRmdfM0lEYS1oQXZpOFVEOExiQTRoZUxDTTlWV0x0QUVORdIBvAJBVV95cUxOVGdXSDFKb0NkM2JodjRrVE9TUkJkVW43UE9iMW9WMzZzb1Q5RWpoQTZ1cGp2anhYOXJtdHdva1FjdHdpWmVESGFOZ0txa3pnWTJwUWFFWnRzcC1XeEp5ZlF5OWFaU0xGOFBUWEU2NldYckI1S2dCaDlXRUFEaVNfRmVTTWxhX1dGejk2U21tTzJSYWNlYUpKa2Jod0doMW9qX1ZsaUhoVm90WEdKbHJFeXp6YTJXeTV6T3pkTFFqNE5jeXdHUW5VczJQM0p5RFN2a1JKNWk4N1BjeDNIMlpfTkZobnlIbTltUGVhMVVHYTIxLWNvS01LOEtraWFhd3pMTlJCQnlyT1RPWjJmc0lxTWdSdnhqVW5udlFrRnZyb01lZS12Y2trU3dzYThvbzJHc2Y1X3MxTHNmNURO?oc=5",
+        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTXNlSlp6M29sVUUyTnpnNDctVC1HUVR2dHdtbGIxU1kwSFFNZExtVG1wQnJJWXUzNjd1dHI4Y1RXbXNsR2V4aTgzdDZqb0hJNkRRRTBES3BFenVjMkJGcGhfQUhjRnFwZVhCb2l0T3MyZXI3TE5zVVhJamFjRnlUUzg0NHhoY0hPTUlEOW1Qd0F2cTZvRjZ3S0tRX1owOFVlSjlRcUJOYnBqaUdHQWtZNXcxQUV5My0wRTZBcUNRVHJscXh5OUFOdG5VVWxVOE9NZXFzRUNxYm4xYVp3VUdSeGVpMEwwLTjSAfQBQVVfeXFMUFloMDF2ckhLcWwweXdKSmZoM0k5YmFEcUZsWjFYYWphQzdCd256N0p3aXNDTjVqY01MWER3TGh5QmhSVE1BVlhMSDRRNWZjUlAxZG9nRDRWUEdUS1BCQWU2UHZYOHZhN0Vhb0NwdU9XZkRON1ZZa3p2bV9CcWZzQ19mSG03QTVjZ3FvQ253a3c1b1F1SUlHNm9xd2Z2aURicmZSRFcxSE9Oa3NlR2V5eWtvOHVFRTktRU9pc0JoQVZ6czJvcHRtUmhkQUtVWVRzbllXZXJGNmI5bXRnLU1sampzRmV5UWJaWUE1SGE1Tkg3ZHVKRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWpDVFM5VUdZbWU2ZThBdUNFOHdEZVNZTnZMUFZULVZvdjhTWnpWQnh4MS1TYVdqUXdpenVUN3FpTXM1YWJzejBjNzdJSU1jYTRYSFg4dTU3Mks4OWhvUFJzOWE4UWhmMmFJcTlWRkFEWkxFcW1sMC1ibkpQb0xVNG51WERjT3AtdTFWcnd1WTBvXzRxOWJ2aGhDd3ZQUdIBngFBVV95cUxNNWpDVFM5VUdZbWU2ZThBdUNFOHdEZVNZTnZMUFZULVZvdjhTWnpWQnh4MS1TYVdqUXdpenVUN3FpTXM1YWJzejBjNzdJSU1jYTRYSFg4dTU3Mks4OWhvUFJzOWE4UWhmMmFJcTlWRkFEWkxFcW1sMC1ibkpQb0xVNG51WERjT3AtdTFWcnd1WTBvXzRxOWJ2aGhDd3ZQUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQ1RkTVhWQmZwWWdCNXdEMUlheGVsVUpsT2MxUTVoTGNWWmkyMXVRNkFsWm9uY09DWHNhd1JWSEdYZDlXRWpHZzJ6dkFMZVVxelN4NnJYNEFONDlXekdFZVEwOWxfdklzUjdSTkJ0cmlEbTZ6eGFUeVhBMFNxZFEzZnNvdzRxVnVIOGlvMEtaZ1A2eDBLSkt3RnNFUm5WMmFCWFJiTlpBQU1CVmE1UmFHUGYzdVJQOGd3Sl85ZnRyNGpQRFh0eXRDTERGQkY2aTMwdVkxY9IB1AFBVV95cUxPQ1RkTVhWQmZwWWdCNXdEMUlheGVsVUpsT2MxUTVoTGNWWmkyMXVRNkFsWm9uY09DWHNhd1JWSEdYZDlXRWpHZzJ6dkFMZVVxelN4NnJYNEFONDlXekdFZVEwOWxfdklzUjdSTkJ0cmlEbTZ6eGFUeVhBMFNxZFEzZnNvdzRxVnVIOGlvMEtaZ1A2eDBLSkt3RnNFUm5WMmFCWFJiTlpBQU1CVmE1UmFHUGYzdVJQOGd3Sl85ZnRyNGpQRFh0eXRDTERGQkY2aTMwdVkxYw?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT0VZSkhMdWluZDNoaDYzMkpMS09ERmFrVVFHR0FKdS11TkZWb3BoLW01azRQSHFid3dFX1VNUEdTVmhHbGtsUmNUTlJmRDhvM0RIME5kZE5fQWdIWHAyMndVQkp1ako5dHVJMDlOZmNxYm5Sak8yS2hZSjBnekNIRGVNeWRBR1Z0WWZzdXBXRHltampfMGo5Q2NoTWptTFhoRmpBTkh0QXhoUnp2bXRzaU5Wdm1MNThCTHJuYtIBvAFBVV95cUxPT0VZSkhMdWluZDNoaDYzMkpMS09ERmFrVVFHR0FKdS11TkZWb3BoLW01azRQSHFid3dFX1VNUEdTVmhHbGtsUmNUTlJmRDhvM0RIME5kZE5fQWdIWHAyMndVQkp1ako5dHVJMDlOZmNxYm5Sak8yS2hZSjBnekNIRGVNeWRBR1Z0WWZzdXBXRHltampfMGo5Q2NoTWptTFhoRmpBTkh0QXhoUnp2bXRzaU5Wdm1MNThCTHJuYg?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T08:50:11Z",
+      "published_at_ist": "2026-10-19 14:20 IST",
+      "first_seen_utc": "2026-10-19T01:13:52Z",
+      "age_minutes": 55,
+      "trend_score": 11,
+      "rank_score": 0.8022,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Ramayana world premiere: Ranbir Kapoor, Yash’s epic to have historic screening in Los Angeles. Ryan Reynol",
+        "Ranbir's Ramayana to premiere at Academy Museum LA | Tap to know more | Inshorts",
+        "Ryan Reynolds to join Ranbir Kapoor at ‘Ramayana’ premiere in LA? What we know",
+        "Deadpool AKA Ryan Reynolds To Attend Ramayana Premiere In LA In Full ‘Desi Attire’; Read More"
+      ],
+      "image_urls": [
+        "https://media.assettype.com/hollywoodreporterindia%2F2026-10-19%2Fqhp7f9i2%2FPosters-of-Ramayana-Rise-of-Legend?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "https://img.etimg.com/thumb/msid-135043361,width-1200,height-900,imgsize-188545,overlay-etpanache/articleshow.jpg",
+        "https://media.inshorts.com/inshorts/images/v1/variants/webp/m/2026/10_oct/19_mon/img_1792391459042_246.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "d5b40c73d0",
+      "key": "deal-disney-exclusive-multi-philippine-right-strike-ufc",
+      "headline": "Disney+ strikes exclusive multi-year UFC rights deal in Philippines",
+      "summary": "https://www.ufc.com/news/Starting October 24 With UFC 333: Vokanovski Vs Evloev, ESPN On Disney+ Philippines Will Broadcast All UFC Events Live, Along With A Curated Slate Of Original Programming",
+      "sources": [
+        "Sportcal",
+        "UFC.com"
+      ],
+      "article_urls": [
+        "https://www.sportcal.com/news/disney-strikes-exclusive-multi-year-ufc-rights-deal-in-philippines/",
+        "https://www.ufc.com/news/ufc-disney-plus-and-espn-announce-multi-year-exclusive-media-rights-agreement-in-the-philippines",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ3pvZjR2VFJTUnpkb2xXTGF3REV1c2RiOWpwc2h0aUNCS19WeEpMMGhqT3ZYN014MEQzZGhkNTUweWtZZGhvQUx4NGVISmhHbkxINjFmQlQyNV9ja0E4c0lWTW1GNWZBLTlRcE8wTUxDdnM3SmphM2VMRXRnNmVoWG1zMFBEUzlpWGhzV0ZITFhqOFhqWXFlekVoa3h4QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVndJcUJ6WFF4bzhnMFZWSnY0SndVU3BjUnpJMTJucFFXZ3ZfM1RNSnZJYk56dExVSzNmUVNaUWRVaWNJckUxRk5pR2xHVEJUQVF4STdmSmZVSFRNNzJYVVBFUElyS2ZKZjNRYk1DT25hdFRwamVPcnpfNVM4cUJNdDJ4d3c0c2FjZDNuUTVFWXNlQ1JBaGlPYW85NmQ2Wm55aFNuTHlVRHJHUnItaEd1X2trQ1VyTWJIbnpjMl9B?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T09:21:12Z",
+      "published_at_ist": "2026-10-19 14:51 IST",
+      "first_seen_utc": "2026-10-19T02:00:00Z",
+      "age_minutes": 24,
+      "trend_score": 9,
+      "rank_score": 0.7988,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "UFC, Disney+ And ESPN Announce Multi-Year Exclusive Media Rights Agreement In The Philippines"
+      ],
+      "image_urls": [
+        "https://www.ufc.com/s3/files/styles/card/s3/2026-10/100226-General-view-octagon-GettyImages-2298458923.jpg?itok=iy5Ur3Qc"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "d21e8c089c",
+      "key": "ads-content-documentary-musk-political-suspend-tiktok",
+      "headline": "TikTok Suspends Musk Documentary Ads Over Political Content",
+      "summary": "https://www.chosun.com/english/industry-en/2026/10/19/WVYMGK5RIZCNJJORIVPQEBYRE4/TikTok Suspends Musk Documentary Ads, Censorship Row TikTok reinstated account, citing error; opaque reviews limit critical content",
+      "sources": [
+        "조선일보",
+        "Türkiye Today",
+        "디지털투데이"
+      ],
+      "article_urls": [
+        "https://www.chosun.com/english/industry-en/2026/10/19/WVYMGK5RIZCNJJORIVPQEBYRE4/",
+        "https://www.turkiyetoday.com/business/tiktok-bans-ads-for-elon-musk-documentary-as-distributor-appeals-decision-3230578",
+        "https://www.digitaltoday.co.kr/en/view/116183/tiktok-reinstates-ad-account-for-elon-musk-documentary-musk-after-permanent-suspension",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS2U2Zk1HVVIxMlQ5emVjQVhienNIdGhIMmVoWGxIYW84MjRJN19RQjBnYVpHTzNXdF8tT3V3WVhnMkhCc25KaHlHQ25OQmppN0RDVjQ3dlZaNWRJV3pKM2xScV9jV0lYdnhiUHVLLTI1cXE5Z1pjZl93czJrTko3LTUzeDdCM1Jp?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMnpCbHB1M2JnZEJQT3RXT3ByWHJTTEFNQ0Z1dC1ueEdqZlA1UUpsZnZnb1dVbUJHSXJKQkdnLUtudmc3eFNkdWp4d285TFZwUktjdENjRHdKbE5WRGZIVjV3ZXdGbkVaa04xZ2p1dkk3Q1pKNnZ2TTR5dGN4bEN2VElBUHphSmIzNkZ3cDh1QUNnN1ltZEhrckpyZXNSVlRzOTJUcU9WQzNiUDRFMkZmdTh4Nk1tdFNtMHBz?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnd6S0lPT0RNdVdSYTEwZGFaelZwLXA4SzI0VEY4U3RRTWxzRWVnU2hCeHl6cXZaQ3M1MmR3U0FXT2JDX2F2VUtwNFRtNEY2ZlJMc2JjbmVmWlJjZFV4SklBQVpGRTBoTFdQSWZGal9ndTdUN0MwdkIwVWJnWTZCZlNHWGZobGpyRUxfWW5VcElMdW5fQW04ZXNHRnNGc3A5R3FIdU1iN0lsamVzQWVuYmxOeUUtRWNXRDNRb3o3Y05wVV9Pc2Zad0VnZHc?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T08:41:40Z",
+      "published_at_ist": "2026-10-19 14:11 IST",
+      "first_seen_utc": "2026-10-19T00:48:42Z",
+      "age_minutes": 63,
+      "trend_score": 9,
+      "rank_score": 0.7963,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Elon Musk"
+      ],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "TikTok bans ads for Elon Musk documentary as distributor appeals decision",
+        "TikTok reinstates ad account for Elon Musk documentary after permanent suspension"
+      ],
+      "image_urls": [
+        "https://www.chosun.com/resizer/v2/G4YDAMRSGM2GMNJQGMYWKNBSG4.jpg?auth=bb53bf338e09d1323705bff44dbf596230446c1e1ec4918216f51750cf96efc7&width=1200&height=630&smart=true",
+        "https://img.turkiyetoday.com/images/2026/10/19/tiktok-permanently-bans-ads-for-elon-musk-documentary-as-distributor-appeals-decision-3230578_20261019091945.jpg",
+        "https://cdn.digitaltoday.co.kr/news/photo/202610/708025_655664_2814.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "9b45c4504c",
+      "key": "conversation-feeling-jayshetty-leave-short-small",
+      "headline": "Conversations that leave you feeling small #jayshetty #shorts",
+      "summary": "Four things to stop doing with the people who drain you, and the two words that should replace them. Watch and listen to On Purpose on Netflix & Spotify. #jayshetty #shorts #onpurpose #podcast",
+      "sources": [
+        "YouTube: Jay Shetty Podcast"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=k_WQ0CYJmB8"
+      ],
+      "published_at_utc": "2026-10-19T08:00:01Z",
+      "published_at_ist": "2026-10-19 13:30 IST",
+      "first_seen_utc": "2026-10-19T08:00:01Z",
+      "age_minutes": 105,
+      "trend_score": 5,
+      "rank_score": 0.7042,
+      "category": "other",
+      "section": "top",
+      "source_type": "youtube",
+      "famous_names": [],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i4.ytimg.com/vi/k_WQ0CYJmB8/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=6pFAdSkQbc8"
+        "https://www.youtube.com/watch?v=k_WQ0CYJmB8"
       ],
       "has_video": true,
       "youtube_videos": [
         {
-          "title": "🤯 WHAT A GOAL!🔝 Mbappe #RealMadridSevilla | #LaLigaHighlights",
-          "channel": "Real Madrid",
-          "url": "https://www.youtube.com/watch?v=6pFAdSkQbc8",
-          "published_at_ist": "2026-10-19 02:46 IST",
-          "thumbnail": "https://i3.ytimg.com/vi/6pFAdSkQbc8/hqdefault.jpg",
-          "is_short": false
+          "title": "Conversations that leave you feeling small #jayshetty #shorts",
+          "channel": "Jay Shetty Podcast",
+          "url": "https://www.youtube.com/watch?v=k_WQ0CYJmB8",
+          "published_at_ist": "2026-10-19 13:30 IST",
+          "thumbnail": "https://i4.ytimg.com/vi/k_WQ0CYJmB8/hqdefault.jpg",
+          "is_short": true
         }
       ]
     },
     {
-      "id": "2d3b67caeb",
-      "key": "7-agent-helpful-kya-sue-without-‘-’",
-      "headline": "You can’t sue ‘helpful-agent-7 without KYA",
-      "summary": "https://coingeek.com/you-cant-sue-helpful-agent-7-without-kya/Senate hearing on rogue AI leads to the AI Agent Accountability Act, targeting developer liability and the need for clear agent identification.",
+      "id": "ce8e894de1",
+      "key": "activitie-alleged-army-booked-espionage-officer-related-wife",
+      "headline": "Army officer’s wife booked in J&K for alleged espionage-related activities",
+      "summary": "https://www.thehitavada.com/Encyc/2026/10/19/JAMMU : AN ARMY officer’s wife, whoallegedly used artificial intelligence tools including ChatGPTand Claude to write analyticalpapers on sensitive nationalsecurity issues for Chinese intelligence operatives, has beenbooked in J",
       "sources": [
-        "CoinGeek"
+        "The Hitavada"
       ],
       "article_urls": [
-        "https://coingeek.com/you-cant-sue-helpful-agent-7-without-kya/",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLXBJQnV1R2lDMGhtaTYxWENaS0FQTm9KazNQNFJuOEJ0ak5MWEFUNzM2X2NxNFhlSUJCdjU3R1pFazdKTFhHUlRsZkdSUEhmR2RCMHZGY1lDNi1KZUd6WjE3SmUxSlBPaHhjR3hRRQ?oc=5"
+        "https://www.thehitavada.com/Encyc/2026/10/19/army-officers-wife-booked-in-jk-for-alleged-espionage-related-activities.html",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkM3cEIydUJGc3loTHVoZk5aT3UxYXVUTEp2MXk0aTBXSHJXUkUzWjBIdUFGcF9kZHdWb3V3bjJveTBRd0ZvOGQxVVBTbjhpMnZ3VXBZN01YYlNNb2FDNEhYMFlMQ0wwMEdPVEktaC05MTUtS3FseEdnSGxnSUhLLXVpTEpaUTduejZHYnRRSk1XYmdsLUZuTzhjQXRoOXVicUR4UXBfWFVwS1dza1lxRHhNRHVvS0lVOFZ4ZDdWMA?oc=5"
       ],
-      "published_at_utc": "2026-10-19T07:00:00Z",
-      "published_at_ist": "2026-10-19 12:30 IST",
-      "first_seen_utc": "2026-10-19T07:00:00Z",
-      "age_minutes": 28,
-      "trend_score": 6,
-      "rank_score": 0.7383,
+      "published_at_utc": "2026-10-19T07:56:09Z",
+      "published_at_ist": "2026-10-19 13:26 IST",
+      "first_seen_utc": "2026-10-19T07:56:09Z",
+      "age_minutes": 109,
+      "trend_score": 5,
+      "rank_score": 0.6461,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
-        "US"
+        "IN"
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -728,43 +903,40 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://coingeek.com/wp-content/uploads/2026/10/AI-Agent-Accountability-Act-Kurt-Wuckert-Jr.webp"
+        "https://www.thehitavada.com/Encyc/2026/10/19/Moistt_202610191324045212_H@@IGHT_360_W@@IDTH_620.jpg"
       ],
-      "video_urls": [
-        "https://www.youtube.com/embed/p9M7a46S8bw?feature=oembed"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "009f976619",
-      "key": "0-004480-fun-pump-rebound-short-term-test",
-      "headline": "Pump.fun Price Tests $0.004480 with Short-term Rebound",
-      "summary": "https://en.cryptonomist.ch/2026/10/19/pump-fun-price-s-rebound-remains-unconfirmed-below-october-19-2026/Pump.fun price tests $0.004480 as it shows short-term gains amid a weak daily trend. Discover key levels and what impacts the rebound.",
+      "id": "4b1245cc8f",
+      "key": "19th-adobe-announced-editing-function-handle-interactive-introduced",
+      "headline": "Adobe announced on the 19th that it has introduced an interactive editing function that can handle i..",
+      "summary": "https://www.mk.co.kr/en/it/Adobe announced on the 19th that it has introduced an interactive editing function that can handle images, designs, and PDFs in the Adobe Plug-in in ChatGPT.Adobe Plug-in is an extension that allows y..",
       "sources": [
-        "The Cryptonomist"
+        "매일경제"
       ],
       "article_urls": [
-        "https://en.cryptonomist.ch/2026/10/19/pump-fun-price-s-rebound-remains-unconfirmed-below-october-19-2026/",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOXJUVkhBZHNVT2NxMFVKRWh6S3FQT1BtbURSekRrTGhKTWJGaTZMLWs3TmlmU2NsYmIyTVh3dlJRR1F0aG9Jd3BfNVp4blIweGVYS0ZnaU0wV3RMMU5XeUVpWElkNW1xdzdpWUNqZERyQndzdXliUVMyU09SZ2RBMFJaUWtUdEh2SjVZdWlVaFNpYjlrU1BDSGZaQWpDcElMaEw4MGhyNkU?oc=5"
+        "https://www.mk.co.kr/en/it/12179727",
+        "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zaHB4YldKZzJ5RTdkaHpTODFMdThSR09GVnJvaEZ2dDJDN1NhbjM0QzBTWVR1eW5lQ2lBU0taWnhZVTRFNXU3R3F2dw?oc=5"
       ],
-      "published_at_utc": "2026-10-19T06:50:46Z",
-      "published_at_ist": "2026-10-19 12:20 IST",
-      "first_seen_utc": "2026-10-19T06:50:46Z",
-      "age_minutes": 37,
-      "trend_score": 6,
-      "rank_score": 0.7308,
+      "published_at_utc": "2026-10-19T07:16:01Z",
+      "published_at_ist": "2026-10-19 12:46 IST",
+      "first_seen_utc": "2026-10-19T07:16:01Z",
+      "age_minutes": 149,
+      "trend_score": 5,
+      "rank_score": 0.6128,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Crypto"
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -773,12 +945,10 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://cryptonomist.ch/wp-content/uploads/2026/10/PUMPUSDTchart.png"
+        "https://pimg.mk.co.kr/news/cms/202610/19/news-p.v1.20261019.5cbf7fe22f9e402592eaf531338320cc_R.jpg"
       ],
-      "video_urls": [
-        "https://www.youtube.com/embed/8mnFZyC6Rkw?enablejsapi=1&feature=oembed&wmode=opaque&vq=hd720&&&"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -799,9 +969,9 @@
       "published_at_utc": "2026-10-19T04:30:00Z",
       "published_at_ist": "2026-10-19 10:00 IST",
       "first_seen_utc": "2026-10-19T01:00:00Z",
-      "age_minutes": 178,
+      "age_minutes": 315,
       "trend_score": 7,
-      "rank_score": 0.6347,
+      "rank_score": 0.5206,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
@@ -834,94 +1004,6 @@
       "youtube_videos": []
     },
     {
-      "id": "891dcd5c3a",
-      "key": "26-foreign-investor-sell-trillion-won",
-      "headline": "Foreign Investors Sell 26 Trillion Won",
-      "summary": "https://www.chosun.com/english/market-money-en/2026/10/19/7GSBU4WSLRECJMED6DKFTNK55Y/Foreign Investors Sell 26 Trillion Won Hedge fund exits, midterm fears drive sell-off since July crisis",
-      "sources": [
-        "조선일보"
-      ],
-      "article_urls": [
-        "https://www.chosun.com/english/market-money-en/2026/10/19/7GSBU4WSLRECJMED6DKFTNK55Y/",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUDZvTzlJSHlVUDRFYWJDYlVzTmV5c1NQRV90Qnl5aU1uNFItTEd1SENPWmNJb1RFcUhsVmtoNGlJWVhXOC16Z1dhVWVmNkNzT1BORlJ1NEY1b0Z4ejRUS3E0SXEyVmRWQlUxYUpPTXRiMVlwNHRpT2NHWFhvNjdfTEd2M0w3UFdVcGhsSEh3?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T03:56:20Z",
-      "published_at_ist": "2026-10-19 09:26 IST",
-      "first_seen_utc": "2026-10-19T03:56:15Z",
-      "age_minutes": 212,
-      "trend_score": 6,
-      "rank_score": 0.585,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.chosun.com/resizer/v2/G43MQ2ONRBHWLLL374E2QBDUPA.png?auth=0413e7efc313b4bdfc9c64c506fe8d347a5baf4ea47c94f052c497528085ed74&width=970&height=509&smart=true"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b10ef87a33",
-      "key": "alexandr-changed-employee-highest-mark-message-meta-paid-wang-whatsapp-zuckerberg-‘",
-      "headline": "Meta’s ‘highest-paid employee’ Alexandr Wang on the WhatsApp message from Mark Zuckerberg that changed hi",
-      "summary": "https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-on-the-whatsapp-message-from-mark-zuckerberg-that-changed-his-career-have-time-for-a-/amp_articleshow/The Times of India brings the Latest & Top Breaking News on Politics and Current Affairs in India & around the World, Cricket, Sports, Business, Bollywood News and Entertainment, Science, Technology,",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/technology/tech-news/metas-highest-paid-employee-alexandr-wang-on-the-whatsapp-message-from-mark-zuckerberg-that-changed-his-career-have-time-for-a-/amp_articleshow/135038483.cms",
-        "https://news.google.com/rss/articles/CBMiugJBVV95cUxOVDFkWnA3aDVtODlOektvdW1qdmV1VkQ3STZVSVgza1NvQkpPWktrVGtrbWU3Mk1wSlQ5YmNNbndham1hMy00TVlLZUNWSlMwSFRWOG1wSm4wdmRPenVKc1E2LVhSU2NnS2NuMXdtbGtaYVpVOTZJeWlRa2lGbzJYMGNPRnU2QjdueHBNZ2hVaVFWNC0zUDBicEFlRlBXMHVnbGpNRUhoc0Fycko1TF9ZOThROC1LdHpWalRCcFZUYXBtYjFyX1lmM04tMkhIQmpLMlBCYm5KOXZyOW95NE1yOEMtYU9UNEtDc0o4THFkdEY5YlpTNm5wYm8zYXpkTVViZ3NJME13LUVfYVpzYkZQbUI2T1pNeDVTVFNERWs2Z3pmMnRKZUpvclVQd2xLNlR3elVuUmhQVnZVd9IBugJBVV95cUxOVDFkWnA3aDVtODlOektvdW1qdmV1VkQ3STZVSVgza1NvQkpPWktrVGtrbWU3Mk1wSlQ5YmNNbndham1hMy00TVlLZUNWSlMwSFRWOG1wSm4wdmRPenVKc1E2LVhSU2NnS2NuMXdtbGtaYVpVOTZJeWlRa2lGbzJYMGNPRnU2QjdueHBNZ2hVaVFWNC0zUDBicEFlRlBXMHVnbGpNRUhoc0Fycko1TF9ZOThROC1LdHpWalRCcFZUYXBtYjFyX1lmM04tMkhIQmpLMlBCYm5KOXZyOW95NE1yOEMtYU9UNEtDc0o4THFkdEY5YlpTNm5wYm8zYXpkTVViZ3NJME13LUVfYVpzYkZQbUI2T1pNeDVTVFNERWs2Z3pmMnRKZUpvclVQd2xLNlR3elVuUmhQVnZVdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T03:03:00Z",
-      "published_at_ist": "2026-10-19 08:33 IST",
-      "first_seen_utc": "2026-10-19T03:03:00Z",
-      "age_minutes": 265,
-      "trend_score": 6,
-      "rank_score": 0.5708,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Mark Zuckerberg"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-135038507,width-1280,height-720,imgsize-84746,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "288a835808",
       "key": "elegance-every-football-short-skill-touch",
       "headline": "Elegance in every touch.  #football #shorts #skills",
@@ -935,9 +1017,9 @@
       "published_at_utc": "2026-10-18T21:00:21Z",
       "published_at_ist": "2026-10-19 02:30 IST",
       "first_seen_utc": "2026-10-18T21:00:21Z",
-      "age_minutes": 628,
+      "age_minutes": 765,
       "trend_score": 5,
-      "rank_score": 0.5407,
+      "rank_score": 0.4979,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -972,93 +1054,6 @@
           "is_short": true
         }
       ]
-    },
-    {
-      "id": "971dba544a",
-      "key": "board-bust-fans-lebron-philly-title",
-      "headline": "With LeBron on board it's title or bust for Philly fans",
-      "summary": "",
-      "sources": [
-        "RFI"
-      ],
-      "article_urls": [
-        "https://www.rfi.fr/en/sports/20261019-with-lebron-on-board-it-s-title-or-bust-for-philly-fans",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdmUtVFRMS1l3SG1GZ19lUlIyMTJqUXdLcWQwOW56UWNtMHlia09UMzVIbmhPNTd2MWhSVXVQamJSMTdWWUo4amQ1Zm9vWmtZSVdrZ2pTN194SWNRQUE1akRScHB2azEwQjFud1d6bzhYa19rMlBVdk5pblNOSG8wUG5NZWt5UGxLd2dLT256dHh5UXZPZFlfWg?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T01:33:30Z",
-      "published_at_ist": "2026-10-19 07:03 IST",
-      "first_seen_utc": "2026-10-19T01:33:30Z",
-      "age_minutes": 354,
-      "trend_score": 7,
-      "rank_score": 0.5181,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "LeBron James"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "575a6c093b",
-      "key": "jailbreak-never-point",
-      "headline": "The Jailbreak was Never the Point",
-      "summary": "https://www.youtube.com/Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
-      "sources": [
-        "YouTube"
-      ],
-      "article_urls": [
-        "https://www.youtube.com/watch?v=swye2NA1UBI&feature=youtu.be",
-        "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0wWXNDWnVjSGV2M1FHMUgySXVnUHRCT2xsQlVVS2M4b2xfbzN5ampiNVk3VlZFOUNBMXlSTGZlWXRWUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T02:45:02Z",
-      "published_at_ist": "2026-10-19 08:15 IST",
-      "first_seen_utc": "2026-10-19T02:45:02Z",
-      "age_minutes": 283,
-      "trend_score": 5,
-      "rank_score": 0.5011,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [
-        "https://m.youtube.com/watch?v=swye2NA1UBI",
-        "https://www.youtube.com/watch?v=swye2NA1UBI&feature=youtu.be&referring_app=com.apple.mobilesafari-smartbanner,"
-      ],
-      "has_video": true,
-      "youtube_videos": []
     }
   ]
 }
