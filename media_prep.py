@@ -27,7 +27,9 @@ import shutil
 import subprocess
 import sys
 import time
+import threading
 import unicodedata
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
@@ -199,24 +201,42 @@ def probe_source(url: str) -> dict | None:
             "trim_start": start, "trim_reason": why}
 
 
+FORMATS = ["bv*[dynamic_range=SDR]+ba/bv*+ba/b[dynamic_range=SDR]/b",
+           # fallback: plain H.264 at 1080p+ (simpler/faster to fetch; still never under 1080p)
+           "bv*[vcodec^=avc1][height>=1080]+ba[ext=m4a]/bv*[height>=1080][ext=mp4]+ba/b[height>=1080]"]
+
+
 def download(src: dict, base: Path) -> Path | None:
-    opts = {**ydl_base(), "socket_timeout": 30, "outtmpl": str(base) + ".%(ext)s",
-            "format": "bv*[dynamic_range=SDR]+ba/bv*+ba/b[dynamic_range=SDR]/b",
-            "format_sort": ["res", "fps", "vbr", "abr"], "merge_output_format": "mkv",
-            "retries": 3, "concurrent_fragment_downloads": 4}
+    """yt-dlp in a subprocess so a slow download can be cut off at the time budget."""
     long = (src.get("duration") or 0) > MAX_SEC + 0.5
-    if long and (src.get("est_bytes") or 10**12) > MAX_FULL_DL:
-        s = src["trim_start"]
-        opts["download_ranges"] = yt_dlp.utils.download_range_func(None, [(s, s + MAX_SEC)])
-        src["section_download"] = True
-    try:
-        with yt_dlp.YoutubeDL(opts) as ydl:
-            ydl.download([src["url"]])
-    except Exception as e:  # noqa: BLE001
-        log("  download fail", str(e).splitlines()[0][:200])
-        return None
-    files = [p for p in base.parent.glob(base.name + ".*") if p.suffix not in (".part", ".ytdl")]
-    return max(files, key=lambda p: p.stat().st_size) if files else None
+    section = long and (src.get("est_bytes") or 10**12) > MAX_FULL_DL
+    src["section_download"] = section
+    for attempt, fmt in enumerate(FORMATS):
+        tmo = min(left() - 20, 240 if MODE == "box" else 480)
+        if tmo < 20:
+            log("  no time left for download")
+            return None
+        for p in base.parent.glob(base.name + ".*"):
+            p.unlink(missing_ok=True)
+        cmd = [sys.executable, "-m", "yt_dlp", "-q", "--no-warnings", "--no-progress", "--no-playlist",
+               "-f", fmt, "-S", "res,fps,vbr,abr", "--merge-output-format", "mkv", "-R", "3",
+               "--fragment-retries", "5", "-N", "4", "--socket-timeout", "30", "--user-agent", UA,
+               "-o", str(base) + ".%(ext)s"]
+        if section:
+            s0 = src["trim_start"]
+            cmd += ["--download-sections", f"*{s0:.1f}-{s0 + MAX_SEC:.1f}"]
+        if COOKIES and Path(COOKIES).exists():
+            cmd += ["--cookies", COOKIES]
+        try:
+            r = run(cmd + [src["url"]], tmo)
+            err = r.stderr.strip().splitlines()[-1][:200] if r.returncode and r.stderr.strip() else ""
+        except subprocess.TimeoutExpired:
+            err = f"timed out after {tmo:.0f}s"
+        files = [p for p in base.parent.glob(base.name + ".*") if p.suffix in (".mkv", ".mp4", ".webm", ".mov")]
+        if not err and files:
+            return max(files, key=lambda p: p.stat().st_size)
+        log(f"  download attempt {attempt + 1} failed: {err or 'no file'}")
+    return None
 
 
 # ------------------------------------------------------------------ encode
@@ -375,6 +395,7 @@ class Release:
     def __init__(self, tag: str, title: str):
         self.tag, self.ok, self.id, self.pages_bytes = tag, False, None, 0
         self.on_pages: set[str] = set()
+        self.lock = threading.Lock()
         if DRY:
             self.ok = True
             return
@@ -401,9 +422,10 @@ class Release:
                     time.sleep(3)
                 if not ok:
                     return False
-            if pages and self.pages_bytes + p.stat().st_size <= PAGES_MAX:
-                self.pages_bytes += p.stat().st_size
-                self.on_pages.add(p.name)
+            with self.lock:
+                if pages and self.pages_bytes + p.stat().st_size <= PAGES_MAX:
+                    self.pages_bytes += p.stat().st_size
+                    self.on_pages.add(p.name)
         return True
 
     def release_url(self, p: Path) -> str:
@@ -588,16 +610,28 @@ def main() -> int:
 
     ready: dict[str, dict] = {}
     keep_4k: list = []
-    for idx, it, srcs in todo:
+
+    def one(job):
+        idx, it, srcs = job
         key = it.get("key") or it.get("id")
-        if left() < (25 if box else 240):
-            skipped.append({"key": key, "reason": "time budget", "source_url": srcs[0]}); continue
+        if left() < (40 if box else 240):
+            return key, None, {"key": key, "reason": "time budget", "source_url": srcs[0]}
         log(f"#{idx} {key}")
-        entry, skip = process_video(it, idx, srcs, rel, "yt" if box else "", keep_4k)
-        if entry:
-            ready[key] = entry
-        else:
-            skipped.append(skip)
+        try:
+            entry, skip = process_video(it, idx, srcs, rel, "yt" if box else "", keep_4k)
+        except Exception as e:  # noqa: BLE001
+            entry, skip = None, {"key": key, "reason": f"error: {str(e)[:150]}", "source_url": srcs[0]}
+        return key, entry, skip
+
+    # The box downloads 3 at a time (YouTube throttles each connection); CI 2.
+    with ThreadPoolExecutor(max_workers=int(os.environ.get("MEDIA_WORKERS", "3" if box else "2"))) as ex:
+        for key, entry, skip in ex.map(one, todo):
+            if entry:
+                ready[key] = entry
+            else:
+                skipped.append(skip)
+    order = {(j[1].get("key") or j[1].get("id")): j[0] for j in todo}
+    keep_4k.sort(key=lambda k: order.get(k[0], 99))
 
     photo_n = 0
     if not box:
