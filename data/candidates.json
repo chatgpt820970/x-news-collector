@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-19T10:23:48Z",
-  "generated_at_ist": "2026-10-19 15:53 IST",
+  "generated_at_utc": "2026-10-19T10:31:02Z",
+  "generated_at_ist": "2026-10-19 16:01 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5690,
-    "fresh_items": 4666,
-    "clusters": 1949,
+    "raw_items": 5687,
+    "fresh_items": 4664,
+    "clusters": 1957,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
     "youtube_uploads_fresh": 69,
     "youtube_items": 2,
     "famous_items": 7,
     "trends_terms": 40,
-    "page_fetches": 54,
+    "page_fetches": 50,
     "with_video": 4,
-    "runtime_sec": 16.0
+    "runtime_sec": 15.0
   },
   "categories": {
     "famous_clip": 3,
@@ -55,60 +55,6 @@
   ],
   "items": [
     {
-      "id": "380ab4ff65",
-      "key": "act-australian-call-car-critical-deliberate-hit-injurie",
-      "headline": "Australian MP has critical injuries after being hit by car in what PM calls 'deliberate act'",
-      "summary": "https://www.bbc.com/news/live/PM Anthony Albanese says Helen Haines was attacked. A man has been arrested after being detained by a passer-by - police say a knife was found in his car.",
-      "sources": [
-        "BBC",
-        "The Guardian",
-        "The Telegraph",
-        "Sky News"
-      ],
-      "article_urls": [
-        "https://www.reuters.com/world/asia-pacific/australia-pm-says-independent-mp-helen-haines-has-been-attacked-2026-10-19/",
-        "https://www.bbc.com/news/live/cklyj1477edjt",
-        "https://www.bbc.co.uk/news/live/cklyj1477edjt",
-        "https://www.theguardian.com/australia-news/live/2026/oct/19/helen-haines-updates-independent-mp-injured-in-incident-wangaratta-ntwnfb",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2eXI4S184LWNhTld0bW1MRFZuYmRmV2JPOHJFT252cy11bWJuTzRvckRUbmpLS2hEdDl1WkRUcldYSGdEazdIdDZMZEpyak1KRnQ5R1JQdng?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYkJoQjBtdGF4ZW00S1l4V1FGY2dwSTBOR2tJSlNLaDFVcHdxNDVrR3YtU0RQeVVDZzltZ0IzbVJ3Z0JncERmYmtxLWEwX3lNaVdCc2ZBMnZCV1F4X1hrZ3pVTVluWF84ZkZVdUxWd1RsVmdFYzItYUduZWM0aE5SN2l0dHNYRzJmTUhYYmN6bC1iMzNYUW1Zc2oyWnBtbDJDdGNYUmxyS1hNa25Gcl9BdDB1TTZaNEdvekRhalVmYlFGajBtZHUwcEFRckQwQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVldsMWs3VXlDYjhWNk82WHZyMk84Z2lpZDR0MDBsU2paZUhhczcyWE5ERFR3MmhGQ2RKeVpOVUJVSFdKSDJHU0dyRlZlSThWSmY4MjhkQW9BazIyOTV5SDFFZDJ3QkNpclBDc2l1ZTBZdm1XcS1ZWGlHVlBRNWNjazlvLTBLVVlla0ZDYktYSThTdERFY3VWekxGQ0JaOW9aVXVOcmZVNnRwRlk2VTVz?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPckkxei1fMHdLVTl2MFROT0w2d1gyLXpGWFBKVGZNazk3LURobHU1dnphQmRmcWFuY2dKMEx1ekplX0tGUlJHbzJHQ2FqV1pkSW5tcUFRajZmRGptd2E1ZFZxejc4dkM0dkxzQzR2N1ctM25WN3piUC1jTTJ6RkxNR25rRFJHdEhPbUN6Y0hn?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T09:56:52Z",
-      "published_at_ist": "2026-10-19 15:26 IST",
-      "first_seen_utc": "2026-10-19T09:56:52Z",
-      "age_minutes": 26,
-      "trend_score": 10,
-      "rank_score": 1.0561,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "helen haines (US 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRXHCGU_9WiOGiNClO12S4jipeQtcmx2c_sUh3GnDucp3RWoS4qqL4hBOYIhEA",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQqeoXwgLD312YNk2Wd-Lf-wVr39hLupZPjDpvjQ0y8tHpF4kPUDVaS5U9tBrA",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVTEHaS0xliRGo9UQPFs-uYb3tMGIXlLBeWacwC4LUWTdUp-xXoZMPXwDzCx8"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "443b87b5d9",
       "key": "bad-bunny-coqui-eyre-frog-love-makana",
       "headline": "Makana Eyre: If Bad Bunny Can Love Coqui Frogs, So Can We",
@@ -123,9 +69,9 @@
       "published_at_utc": "2026-10-19T10:04:25Z",
       "published_at_ist": "2026-10-19 15:34 IST",
       "first_seen_utc": "2026-10-19T10:04:25Z",
-      "age_minutes": 19,
+      "age_minutes": 26,
       "trend_score": 13,
-      "rank_score": 1.0068,
+      "rank_score": 1.001,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -174,9 +120,9 @@
       "published_at_utc": "2026-10-19T09:30:00Z",
       "published_at_ist": "2026-10-19 15:00 IST",
       "first_seen_utc": "2026-10-19T08:00:13Z",
-      "age_minutes": 53,
+      "age_minutes": 61,
       "trend_score": 9,
-      "rank_score": 0.9246,
+      "rank_score": 0.918,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -238,9 +184,9 @@
       "published_at_utc": "2026-10-19T10:01:37Z",
       "published_at_ist": "2026-10-19 15:31 IST",
       "first_seen_utc": "2026-10-19T04:43:02Z",
-      "age_minutes": 22,
+      "age_minutes": 29,
       "trend_score": 16,
-      "rank_score": 0.8854,
+      "rank_score": 0.8796,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
@@ -273,86 +219,23 @@
       "youtube_videos": []
     },
     {
-      "id": "81d5bc4938",
-      "key": "brad-cars-driven-mclaren-pitt-sale-senna",
-      "headline": "McLaren F1 cars driven by Senna and Brad Pitt go on sale",
-      "summary": "https://www.businessday.co.za/motoring/2026-10-19-mclaren-f1-cars-driven-by-senna-and-brad-pitt-go-on-sale/Each car to be sold individually with prices expected to reach up to £10m",
+      "id": "917fd36b4f",
+      "key": "449-austrian-deal-fans-getaway-loving-party-racing-ultimate-£",
+      "headline": "This £449 Austrian GP deal is ultimate F1 getaway for party-loving racing fans",
+      "summary": "",
       "sources": [
-        "GPFans",
-        "Grande Prêmio",
-        "Business Day",
-        "Gulf Today",
-        "grandprix247",
-        "autoevolution",
-        "Car Dealer Magazine",
-        "Rediff"
+        "The Sun"
       ],
       "article_urls": [
-        "https://www.businessday.co.za/motoring/2026-10-19-mclaren-f1-cars-driven-by-senna-and-brad-pitt-go-on-sale/",
-        "https://www.gpfans.com/en/f1-news/1091698/lewis-hamilton-brad-pitt-f1-cars-mclaren-sale/",
-        "https://grandepremio.com/en/f1/mclaren-puts-five-historic-f1-cars-up-for-sale-including-machines-driven-by-senna-hamilton-and-brad-pitt/",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLXpkbGEyUC05WWxucnl6SURFbTRYeHE4V19zaURZd1pndS1jVUdIVXhXX0tETkJiVU4xNWFuU2dySjZnWDZKdVI3RFppRUxrcUVDa0h0cHF6TlJCczU0N3d3WVlWNDlUTExrZmNhcnV1Wjd1N1NvMDlkbmVKTWNRWVk5Z19TTlNPNjZjUkxJbHkzZw?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZUF3akUwWm00a0ZZaVBIUURHNWxicWJXUTFQbjhIUkpiS2U1Qm8zTXJLRXNtT2s0ZHhqQ182aVdnZXNPeThSYXUtdUxVMkl1eEhkbTRNeXdWR3VsS3ZiblB6aGFjSEFoZVVPc0RpYWpGWWk0dUNlQldZYVd0dFZIczQ1VXE3NE9TaXRDd3dzY2s5WWpuOE13NzZlcjlBekVSb2VDODFXRnhZM1dQVmpBTEtJMDFRMlZFd19zNFVrbkF4bTBmeGc1aTUyRUhDamp1bUE?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZGlwcXRQcWJGbzhDa29FQkJjRW44OUJ4ZFF6TkNaLWVYMWJYT2p5eGVaUFprbzNlYVJpR0EyQTVHcU9LdHFZV01IR3Znb2pJOFVzVnAzWV9qUTNSOUtrUS1jMGw3RmdadkJ5TWNIMnhDbjJOX0lxbFlIOGU0T3lvbHVFYm5taFJ0N2lvR2JyMUdtRnNZeXptSHNWanBxYWRGNC1BRjFubDlwNUg3?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUThmVUtzdE0wVWtUbW9GN2RnaEZFNnJSeWVrWkNhYlFVMm1oX3dNTWRqQ1VoVEg4UGtEc0VnUEtoMVRCeGttZWg1MmZndXFCYUpiYTY2bGh6el9RSFpQYTRmUTVmNWM4LVZwdm5RbmZCOUNuTVdQOGtLa0lGYkYtQkFKaFdsUTVPN1NiQkM5SW4xb0IwNVI2Y0I3RVhBVlJqajkzbzF4WTJ4MFF0RjNjY0pweEgyUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWmVFaWR4LW1kX095am56ZUk0U0JfM3V2Z0VDZjAxQlZPYUt6emFJOEZWT3l3MjNGVml5Nm0ycEdJUGYwWGdCYmRYcHVRRjdneEJZUDFrekM0SDZELTYwbGR2UlhkVVpXY2NGUldnV05jZkdiRVoyaWtUUFl4THU2UGFJT09aRFVTQkZrTk9HQ3BhbjNaelF2bUhZY1NHZEVlV0xaY1FmZ09CSHBHeWRaS3E4Zw?oc=5"
+        "https://www.thesun.co.uk/sport/40670281/f1-austrian-grand-prix-travel-deal-party-vienna-nightclub/",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUkh4QTR6N2haSFVEU0VFZnFZamN4M3FDbzRJZTJNdHZJTThtQTZ1Z3d6MHVld1RiRkhSWU5wc2VzODBPa0JLR29OODZGeWVEMzJSbXlmWS05bUhRLXhvSFVDWXpHVVJkR0c0NzBnem1nNFlTcjBmLU9idnY0Z29MZ2xYTzJDTXgzaG9ORzhETmQ5dVFfaEVwMXNqSVFkX2c?oc=5"
       ],
-      "published_at_utc": "2026-10-19T08:57:00Z",
-      "published_at_ist": "2026-10-19 14:27 IST",
-      "first_seen_utc": "2026-10-19T03:52:41Z",
-      "age_minutes": 86,
-      "trend_score": 18,
-      "rank_score": 0.8499,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Lewis Hamilton, Brad Pitt and Ayrton Senna feature in multimillion-pound McLaren F1 car sale",
-        "McLaren sells five historic F1 cars linked to Senna, Hamilton and Brad Pitt",
-        "McLaren to sell five F1 cars, all driven by champions and one by Brad Pitt",
-        "McLaren selling five Formula 1 cars including one tested by Brad Pitt"
-      ],
-      "image_urls": [
-        "https://www.businessday.co.za/resizer/v2/D3IFOYUNXVCLDAH46VASS35I7Q.jpg?smart=true&auth=10f6b0ba5d49a144ec0099a373f36df49f3de0bf46872401c11e306d4148bbc5&width=1200&height=630",
-        "https://sportsbase.io/images/gpfans/copy_1200x800/7fdfcb4d68e509c33b9157615c2fef0f218e06e6.jpg",
-        "https://sportsbase.io/images/gpfans/copy_620x348/7fdfcb4d68e509c33b9157615c2fef0f218e06e6.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "6918fe8eb3",
-      "key": "academy-annie-boot-competition-custom-kind-one-pair-tecova-win",
-      "headline": "COMPETITION: Win a one-of-a-kind pair of F1 ACADEMY custom Tecovas Annie Boots",
-      "summary": "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/Howdy! F1 ACADEMY is getting in the Texas spirit as the series heads to Austin for Round 5 and you can too, as we're giving you the chance to rock the coolest kicks in town.",
-      "sources": [
-        "F1 Academy"
-      ],
-      "article_urls": [
-        "https://www.f1academy.com/Latest/7kuxkn4EPBirEZ6hESRuwr/competition-win-a-one-of-a-kind-pair-of-f1-academy-custom-tecovas-annie-boots",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQek9OaEViMUk2MlJyOWRaeHpCOHRMZHRXSkNVcHM1SmdBMlp3U3FtNW9DODNuNDdhSnB2cWZ3YlB5UjBHcWZRa3B3S04zWnhlWmctNnU2SUV6M2ZHVVRIay1zQXg4NkhNTU5SdHV1TzFpVzJ2c1IxQ01iODVZSmRZUktRTl80dG9BRkhrejN5bTlnR0JfcnN5N3ZwVEs2YjVRamtIcDVTV3A2NzZfZE9OMmFYSzFJZVBHRmk3alNZN2ozYV9WbTAtZy1IajBuQQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T10:04:20Z",
-      "published_at_ist": "2026-10-19 15:34 IST",
-      "first_seen_utc": "2026-10-19T10:04:20Z",
-      "age_minutes": 19,
+      "published_at_utc": "2026-10-19T10:24:52Z",
+      "published_at_ist": "2026-10-19 15:54 IST",
+      "first_seen_utc": "2026-10-19T10:24:52Z",
+      "age_minutes": 6,
       "trend_score": 11,
-      "rank_score": 0.8322,
+      "rank_score": 0.843,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -371,70 +254,48 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://res.cloudinary.com/prod-f2f3/image/upload/ar_16:9,dpr_1.0,c_fill,f_auto,g_auto,q_auto,w_980/f_auto/q_auto/v1792399206/FA/Global/Competitions/103_26_F1ACAD_Tecovas_Competition_AW_1920x1080_Pink"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "43c9c14f79",
-      "key": "expected-ive-kill-look-people-pre-release-want",
-      "headline": "IVE to Pre-release 'Looks Can Kill' Today... \"We Want People to Say 'As Expected of IVE'\"",
-      "summary": "https://news.sbs.co.kr/english/Group IVE (An Yu-jin, Gaeul, Ray, Jang Won-young, Liz, Leeseo) will pre-release the title track of their new mini-album, \"Looks Can Kill,\" today .",
+      "id": "514622fad5",
+      "key": "1-fade-formula-getting-herta-hope-schooled",
+      "headline": "Formula 1 News: Herta’s F1 hopes fade after getting schooled in F2",
+      "summary": "",
       "sources": [
-        "The Korea Daily",
-        "조선일보",
-        "news.sbs.co.kr",
-        "스포츠경향",
-        "DIPE.CO.KR",
-        "스타뉴스"
+        "AutoRacing1.com"
       ],
       "article_urls": [
-        "https://news.sbs.co.kr/english/article.do?news_id=N1008804655",
-        "https://en.koreadaily.com/ive-looks-can-kill-5/",
-        "https://www.chosun.com/english/kpop-culture-en/2026/10/19/Q6SVF5OGJVB2VH6ONBOXGA5IM4/",
-        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3SjBoNHI0c0dJT1lqZDRzNzJZc1hDT1gyeE96OGlHQXd5Nmctb1lLakxFZUp0SjQ5cURrZUwtQXVfS1hZdDZPbnMyelpXNW02UF96UmNwSEYxdWc?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDRqbDhBZGp5R1lNSWVuekpOemotalBrWUpiWWpaLVFxSW5fOUduUGZKVzF1Y2h2LVdOZm1uajVFeFJpMEhka1BCTlZuTENvb2cySGN0ekRrZW5PQmZPNThUZmxLMFdxNzRBQWhva2RUUmJ6WHdVcjRreW52WldDRHZlTWlibW1Bcmktem53?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Q25LU2s5Z0ZMSHQ4R2QtZXZSenRXR2ZxckE1UHUzZHN1cHI0S015Ty1oMUNaZUYtVl84ZlRyVzZESERDanR2SGFoSEhSNUM0R3o1RzJhUmxGV0dmOGdIbl9nNG8wV3BiSUE?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9URHF5U2hsYlNpd1hVZ2tpcVZLUDZwc1hrUUl0RVhnOXV1UDZuVTBVZ1ZZcUwwa3IxR1FqZG41TnpLMjdVZ2xkS3p2V0VYdnVzb0hteTdIaVM0TVFCSlZxRFVMLUVZdw?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jM1drcDBkN1RxTTJoUGhyeFYxUVpORkpfYllfOGYyNjlvRmR1VGN3aXllRTFEc2hvTjRwTzhDS3JpaDhpQnhrRDMxOVY2Sk40bzJPSUtiN25GYzlGQ0E5YWFvSmNDM05xYmxheDl3?oc=5"
+        "https://www.autoracing1.com/pl/506857/formula-1-news-hertas-f1-hopes-fade-after-getting-schooled-in-f2/",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUThndHV5aDMzZm00QnlsdVZYQXV5bXVkX0Z1WGRsOE13RHJUUjRvQWlfVkt0MWVJVGRmUV9nbVhmeDZEc1d5Q2trRWxqbDFDLUszNkdvXzI4Um1fNHByUzZ4VC1idWVnSTNpWENTeklxM0s4bktxTXN6QVRJR2ZYQkVfZUpNZzlwOW5XNnlPTlRMT1VINU84VEpiTmNOZnl1dDZ2bHBn?oc=5"
       ],
-      "published_at_utc": "2026-10-19T09:33:59Z",
-      "published_at_ist": "2026-10-19 15:03 IST",
-      "first_seen_utc": "2026-10-19T06:10:23Z",
-      "age_minutes": 49,
+      "published_at_utc": "2026-10-19T10:22:16Z",
+      "published_at_ist": "2026-10-19 15:52 IST",
+      "first_seen_utc": "2026-10-19T10:22:16Z",
+      "age_minutes": 8,
       "trend_score": 11,
-      "rank_score": 0.8072,
-      "category": "celebrity_music",
+      "rank_score": 0.8413,
+      "category": "sports",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
+        "GB",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music"
+        "F1"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "IVE Looks Can Kill — Girl Group Returns with Powerful New Single",
-        "IVE Returns as 'Girl Hero' with 'Looks Can Kill'",
-        "IVE Drops Pre-Release Single 'Looks Can Kill' Today: \"We Want to Hear 'That Is IVE for You'\"",
-        "IVE pre-releases ‘Looks Can Kill’…“As expected of IVE! Eager to listen”"
-      ],
-      "image_urls": [
-        "https://img.sbs.co.kr/newsnet/etv/upload/2026/10/19/30001094345_16v9.jpg",
-        "https://en.koreadaily.com/wp-content/uploads/2026/10/202610190931771561_6ad5c3297021c.jpg",
-        "https://www.chosun.com/resizer/v2/GAYGCYLDMM4GMMJRMYYTMNDDGY.jpg?auth=ae8f04b15b9720539cd0c103707d2e5b10164a2243c93bde2e9dcb70186a0111&width=650&height=341&smart=true"
-      ],
+      "other_headlines": [],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -454,9 +315,9 @@
       "published_at_utc": "2026-10-19T10:19:30Z",
       "published_at_ist": "2026-10-19 15:49 IST",
       "first_seen_utc": "2026-10-19T10:19:30Z",
-      "age_minutes": 4,
+      "age_minutes": 11,
       "trend_score": 8,
-      "rank_score": 0.7986,
+      "rank_score": 0.7927,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -495,9 +356,9 @@
       "published_at_utc": "2026-10-19T09:41:32Z",
       "published_at_ist": "2026-10-19 15:11 IST",
       "first_seen_utc": "2026-10-19T09:41:32Z",
-      "age_minutes": 42,
+      "age_minutes": 49,
       "trend_score": 8,
-      "rank_score": 0.7969,
+      "rank_score": 0.7911,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -524,6 +385,89 @@
       "youtube_videos": []
     },
     {
+      "id": "1dc722daf2",
+      "key": "arijit-aujla-featuring-festival-karan-khan-lineup-music-nigam-reveal-rukh-shah",
+      "headline": "Shah Rukh Khan’s UNIFYD Music Festival Reveals Lineup Featuring Arijit Singh, Karan Aujla and Sonu Nigam",
+      "summary": "https://www.hollywoodreporterindia.com/amp/story/features/insight/Indian music will take centre stage at a new international festival in Abu Dhabi next year. Called UNIFYD, the event will bring together more than 15 artists ac",
+      "sources": [
+        "The Hollywood Reporter India"
+      ],
+      "article_urls": [
+        "https://www.hollywoodreporterindia.com/amp/story/features/insight/shah-rukh-khans-unifyd-music-festival-reveals-lineup-featuring-arijit-singh-karan-aujla-and-sonu-nigam",
+        "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdXYybld2QTJPN29kRUp0Z2pIb0NVeFp1SUpyNWduV3NvOHVfVWtMdXhJeUVrSkFFQVRPcFp6ZnBmSkRmd1JZVjlhYl9UUTBGNndqOFBEVG13eFBhVVI0MlZXU2R5MEN2MnhVOVlIaWZtWGk4Y2kzV29jMDJwT1M3Q1Z6NUowLWFZZGx0SFdYRUFDdjFYV2kxN3Bna2Q5WGJnbndWWUVabkxxX214MkRIbURwMXp1N0MwdjdWTXRrcFB0S3k4YUhnTkNEbWpjWV9KN2xqY3hJZnhVVzQ4Sm5VckVlWGczNDZUTjJLdmRhM2J1ZGd6NkR6SWxpdXPSAfwBQVVfeXFMTXV2Mm5XdkEyTzdvZEVKdGdqSG9DVXhadUlKcjVnbldzbzh1X1VrTHV4SXlFa0pBRUFUT3BaemZwZkpEZndSWVY5YWJfVFEwRjZ3ajhQRFRtd3hQYVVSNDJWV1NkeTBDdjJ4VTlZSGlmbVhpOGNpM1dvYzAycE9TN0NWejVKMC1hWWRsdEhXWEVBQ3YxWFdpMTdwZ2tkOVhiZ253VllFWm5McV9teDJESG1EcDF6dTdDMHY3Vk10a3BQdEt5OGFIZ05DRG1qY1lfSjdsamN4SWZ4VVc0OEpuVXJFZVhnMzQ2VE4yS3ZkYTNidWRnejZEeklsaXVz?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T09:50:04Z",
+      "published_at_ist": "2026-10-19 15:20 IST",
+      "first_seen_utc": "2026-10-19T09:50:04Z",
+      "age_minutes": 40,
+      "trend_score": 7,
+      "rank_score": 0.7797,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Shah Rukh Khan"
+      ],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": true,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://media.assettype.com/hollywoodreporterindia%2F2026-10-19%2Fitkkma1x%2FArijit-Singh-Shah-Rukh-Khan-Karan-Aujla-Sonu-Nigam?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "a9aa5175af",
+      "key": "333-confirm-east-event-fear-including-middle-safety-ufc-unchanged-white",
+      "headline": "White confirms Middle East events including UFC 333 unchanged amid safety fears",
+      "summary": "",
+      "sources": [
+        "talkSPORT"
+      ],
+      "article_urls": [
+        "https://talksport.com/mma/4652897/dana-white-ufc-schedule-middle-east-abu-dhabi-saudi/",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVS1mY1ktUmp0WXRKYlVVY2dhUy1LRXdYdkp2WmpuNHFPSzctckthd2Q5bjY5VGdkZk4zX3U3VGNWVHRhR3JHdTl1RENPcklTMmhUX1Z2WDVEelBKRnFzWVh0d0ZGc2kyM3h3SDFuRU9fVWhWUkhXdkk5djVFNGxSYWtSN2lkSEN2X0NxYkpuMA?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T10:17:54Z",
+      "published_at_ist": "2026-10-19 15:47 IST",
+      "first_seen_utc": "2026-10-19T10:17:54Z",
+      "age_minutes": 13,
+      "trend_score": 7,
+      "rank_score": 0.7722,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "33e99b1747",
       "key": "closer-inched-kohli-pune-record-sachin-tendulkar-throwback-virat",
       "headline": "This day, that year: On this day in 2023, Virat Kohli inched closer to Sachin Tendulkar's record - Throwback from Pune",
@@ -543,9 +487,9 @@
       "published_at_utc": "2026-10-19T08:18:42Z",
       "published_at_ist": "2026-10-19 13:48 IST",
       "first_seen_utc": "2026-10-19T07:02:52Z",
-      "age_minutes": 125,
+      "age_minutes": 132,
       "trend_score": 11,
-      "rank_score": 0.7738,
+      "rank_score": 0.768,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -596,9 +540,9 @@
       "published_at_utc": "2026-10-19T09:10:28Z",
       "published_at_ist": "2026-10-19 14:40 IST",
       "first_seen_utc": "2026-10-19T06:22:48Z",
-      "age_minutes": 73,
+      "age_minutes": 80,
       "trend_score": 8,
-      "rank_score": 0.7711,
+      "rank_score": 0.7652,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -631,6 +575,64 @@
       "youtube_videos": []
     },
     {
+      "id": "20ea01ae43",
+      "key": "bbc-cash-companie-cows-exploiting-find-resident-system-using-welfare",
+      "headline": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+      "summary": "https://www.belfastlive.co.uk/news/belfast-news/It was announced in June that up to 50 local roles are being cut as the corporation is expected to deliver just over £4m of savings here in 2027 and 2028.",
+      "sources": [
+        "BBC",
+        "Landmark Chambers",
+        "https://www.birminghamdispatch.co.uk/",
+        "TVGuide.co.uk",
+        "The Times"
+      ],
+      "article_urls": [
+        "https://www.belfastlive.co.uk/news/belfast-news/more-job-face-axe-bbc-34773426",
+        "https://belfastmedia.com/anger-as-bbc-cuts-its-irish-language-department",
+        "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo",
+        "https://www.irishnews.com/news/northern-ireland/sdlp-mla-patsy-mcglone-calls-for-urgent-meeting-with-bbc-ni-leadership-in-wake-of-proposed-irish-language-job-cuts-HRRG6LWBN5AVBFGGJN7UALOCJ4/",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tSVdBVU1aZU96STNwNTdzTE9ObmdtRHNqc2FQdUxNNzhlTi1QZFZmTHNiT2JjUjlMUkFGVDMzUlJHQ0tyZ2k5YmVYZlV4eHN5Q2ZyVmVpZmhna0swRnc?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc1pQenRZWFk2TVlrOGd2ckZlSE5LeWhGZWYxODVXd2ZJV0xCbFRsVTN5Z3VkcnR1azl3N09XTjBMSmNKYWp0SmhzczFEX2p4VlVadVc5eTMtTVdLc3dfdmpDSFBOWDlTdnBQQ3JpTm9XQ1pWNzZMd0hfQjNSTG9YRkNlSTRQRXZwZDFiYmRILUpud2ZaMHc0UEZEbjhuaTA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmhWS3RrNnlhU2xESFY5U2VyV0c0cWJIWGprcFl2bk5tazF5SGJVZVlRZEd4dTk2UDh1elNHd0tENzMweVVzTUlXd1dJUFgxd05uVEJzNU5tNE5OSnR1cXJadWFZR29lWmY5ZTZURmdJbE5KOE5tMmtTTEhIb0Q1VW1Da1JVNGpXUXBNa2V5aXk0amZTQ0lCRTdiWW1MQUF2Y3c4ZEl6WlQzcjgtT29zUnpWX2hGNkFNLTJRUVRXWGgxdHBiU2hkWXAwQ2phblkt?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLVUyWGVQaWpwandIRUFhWG9WNTBFLURFOXUxTXlneU9ldzFHUnJYb0xFYmtHZ3I1OXJDdVdEMGRPWjJUbWlvZ3NpNHJQMkVfenZuVEZydWJnTEdUQkcydnAzX2NUY1NYdlIzeENTUGF1THBDRVVOUmtQSWUwQnQ1Q1FkVTluQ1B0X3BoZXFYYzJiOXFtLUhkdnJINGx2SmhONFcwUlRDYw?oc=5"
+      ],
+      "published_at_utc": "2026-10-19T04:59:47Z",
+      "published_at_ist": "2026-10-19 10:29 IST",
+      "first_seen_utc": "2026-10-19T04:59:47Z",
+      "age_minutes": 331,
+      "trend_score": 12,
+      "rank_score": 0.7605,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "bbc ni (GB 500+)",
+        "bbc news ni (GB 10000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i2-prod.belfastlive.co.uk/article30788753.ece/ALTERNATES/s1200d/1_BBC-NI-to-cut-jobs.jpg",
+        "https://i2-prod.belfastlive.co.uk/article30788753.ece/ALTERNATES/s1200/1_BBC-NI-to-cut-jobs.jpg",
+        "https://belfastmedia.com/uploads/article/2026/10/29876/bbc_gpeg.png?t=1792246315",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN15bpwWWxQDqLLy73qXc9jFRFiTk8tsxdCbe0BwiRR_VF11_CAkFPVCaeifw",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzFFK5LNQaR62W26TOqJXxpbIT-o1YBJkbvrE7GszMFSq_0qvi5iuUQyC6uw",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQaJ9NzWfea8uxxSJ1hxeNGVQu4mz6eWJ7X2mDBo0j7bhSpcbHR2nKZA0OMdYQ"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "e62706b9d1",
       "key": "0-15-4-5-65-bench-hits-opus-terminal",
       "headline": "Terminal-Bench 4.0: Opus 5.5 Hits 65.15% [2026]",
@@ -645,9 +647,9 @@
       "published_at_utc": "2026-10-19T09:59:26Z",
       "published_at_ist": "2026-10-19 15:29 IST",
       "first_seen_utc": "2026-10-19T09:59:26Z",
-      "age_minutes": 24,
+      "age_minutes": 31,
       "trend_score": 7,
-      "rank_score": 0.7631,
+      "rank_score": 0.7572,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -672,52 +674,6 @@
       "youtube_videos": []
     },
     {
-      "id": "d5bef03e82",
-      "key": "cricket-emphasize-evolution-insight-learned-lesson-life-res-rohit-share-sharma",
-      "headline": "Rohit's cricket evolution insights: Rohit Sharma shares life lessons learned from cricket: Emphasizes res",
-      "summary": "https://timesofindia.indiatimes.com/tv/news/hindi/rohits-cricket-evolution-insights-rohit-sharma-shares-life-lessons-learned-from-cricket-emphasizes-resilience-and-focus-beyond-the-game/articleshow/Rohit Sharma delivered another deeply inspiring moment during an engaging interaction with the Indian Idol music legends on the show Family Full House with Rohit Sharma. During the latest episode, India",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/tv/news/hindi/rohits-cricket-evolution-insights-rohit-sharma-shares-life-lessons-learned-from-cricket-emphasizes-resilience-and-focus-beyond-the-game/articleshow/135043671.cms",
-        "https://news.google.com/rss/articles/CBMitgJBVV95cUxNenZxSzZURmI3ak5PcFo2bTFmbldWbElsX0VvWGpJNGRCS0dOZG1XMm1yS1ZrckhzbWhseU1aYktPLWh4VlRvY0FzUnFnczU3SjV2ZlNhaEt1dUhCN3JBQU1tTThYQ09qSkthUGp4eElGZ2dta0plaVRxZjRNblRUd29fNTVSOUFKdU1QTmhvcHdIVVdHOTJWQmt3QU5tOERzbjJGMWt4a2JteWVjTl9BVkR2VWE5emNmQnRkaDRaSHd6cEdObnpnWEhRYTJKXzdvaXMyUkl6N2Q5YXVnb1dfNVFma1c3NFgxTF9DWlBVckxwdkVjM0FNMl8tZzdHdzRxZGV2dndQWTRSdXV3TU9Mb2pfZ00wT1lKbXZkR05XUlZJNUhraXlFTDJiU1Y5VlV3bW0zTjlR0gG7AkFVX3lxTE9TYW4wcEpSV0JQSFNnWXVzUENZWmh5RWpfVjVfLWxXR1FuQTNqNXFYbzFESE1XZHBlU094M29CQmU4cTllM2FfZ3B1Ukc5ZGdYTlpXVklGNW8xYkVpSkpYUmF0RTB1WXBIaGRoeE9KbFU2TWMyYzE4YWtmNERvbGpFcTdPOE1MMWVzSk8zc241NThBYU9YTG1vTGN2S0lFbFlLdkdTa25PY1N3RHhpUTREZjJ6SlNpSlkwNFZCVzdRWTlTWmowQXlGZm1KMUF6WmdXUTVtdHJQTUpIVHZfdjc0WHZIVFdVOTNXZWZwVFpsYWlKNlM2RjRqT0hoeV9RUzNNX1FhVkRJdWxuSGc0Z3I5cTgzTUJfZGZCa3NFNEdid1NSU1pVd2cxc29WWHQyYzZMS3ZjNVRFVmc5QQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-19T08:11:00Z",
-      "published_at_ist": "2026-10-19 13:41 IST",
-      "first_seen_utc": "2026-10-19T08:11:00Z",
-      "age_minutes": 132,
-      "trend_score": 8,
-      "rank_score": 0.7219,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Rohit Sharma"
-      ],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-135043734,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "ff30c3f190",
       "key": "brag-code-line-nobody-twice",
       "headline": "Nobody brags about lines of code twice",
@@ -732,9 +688,9 @@
       "published_at_utc": "2026-10-19T10:03:25Z",
       "published_at_ist": "2026-10-19 15:33 IST",
       "first_seen_utc": "2026-10-19T10:03:25Z",
-      "age_minutes": 20,
+      "age_minutes": 27,
       "trend_score": 5,
-      "rank_score": 0.7203,
+      "rank_score": 0.7145,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -774,9 +730,9 @@
       "published_at_utc": "2026-10-19T09:31:13Z",
       "published_at_ist": "2026-10-19 15:01 IST",
       "first_seen_utc": "2026-10-19T09:31:13Z",
-      "age_minutes": 52,
+      "age_minutes": 59,
       "trend_score": 6,
-      "rank_score": 0.7183,
+      "rank_score": 0.7125,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -816,9 +772,9 @@
       "published_at_utc": "2026-10-19T08:00:01Z",
       "published_at_ist": "2026-10-19 13:30 IST",
       "first_seen_utc": "2026-10-19T08:00:01Z",
-      "age_minutes": 143,
+      "age_minutes": 151,
       "trend_score": 5,
-      "rank_score": 0.6923,
+      "rank_score": 0.6898,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -868,9 +824,9 @@
       "published_at_utc": "2026-10-18T21:16:37Z",
       "published_at_ist": "2026-10-19 02:46 IST",
       "first_seen_utc": "2026-10-18T21:16:37Z",
-      "age_minutes": 787,
+      "age_minutes": 794,
       "trend_score": 7,
-      "rank_score": 0.6871,
+      "rank_score": 0.6849,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -921,9 +877,9 @@
       "published_at_utc": "2026-10-19T07:56:09Z",
       "published_at_ist": "2026-10-19 13:26 IST",
       "first_seen_utc": "2026-10-19T07:56:09Z",
-      "age_minutes": 147,
+      "age_minutes": 154,
       "trend_score": 5,
-      "rank_score": 0.6145,
+      "rank_score": 0.6086,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -949,28 +905,35 @@
       "youtube_videos": []
     },
     {
-      "id": "dd0048361f",
-      "key": "elon-football-stanford",
-      "headline": "Where to Watch Elon vs Stanford Football Today",
+      "id": "fae82571c8",
+      "key": "17-college-elon-football-here-ream-stanford-ｃｈａｎｎｅｌ-ｔｖ-𝐋𝐈𝐕𝐄-𝐒𝐓-𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠",
+      "headline": "!+[𝐒𝐓ream]HERE'S*! Elon vs Stanford College Football 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026",
       "summary": "https://www.uco.es/scai/visita_virtual/Virtual tour generated by Visitas Virtuales Granada",
       "sources": [
         "Universidad de Córdoba (UCO)"
       ],
       "article_urls": [
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-elon-vs-stanford-college-football-tv569955607",
         "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3ZlbXBpcmVzLmdpdGh1Yi5pby9BbGFiYW1hL3R5LnhtbCIvPjwva3JwYW5vPg==&id=to-watch-elon-vs-stanford-football-fox-sports-uovcu",
-        "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNU29EdnZxQmRxanJ4R2poNFVUdmI4NnZudWl5OFVOakFzcG9GWlBFbG1sMWlCZjM1emNtWUtERUtqUnZMZzZQS3BkZXBBUjctM1QySHdqOHU1dnF3cTI2bzFQMTdYbV9ReGo4Rzg2c1NiUWJaa1JlMEgwSHQ0dDZJREJMYVlhZEUyZnUxZVlwbmwxenZ0TTBRYWRQTEF0a0tDY2JjZGdZWFJ5d3lIQzBuUW9zRUZQTW50d0NsYm4tYXctdFFadDFfam9uNlRWVTBranVaY3JaT1FMdjFqbDZZNXdwRlRIQ2Z1bC1UZjN4bmc4X2Robk5iMUZFc0ltb18tWHE4cHFTY3hRZEkyb0ZJRDRFQi1xWmU4OWpXRWctWW00UHN3VG42OE4tem5NeV9RcmZHRmlDZER6UHh1UE5zbzU1cVNyQkU0a29TV3VfeGVMT00?oc=5"
+        "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2hhcHB5aHVicy5ubC92b3MvbmV3L2EueG1sIi8+PC9rcnBhbm8+&id=video-syracuse-vs-louisville-football-tv739970265",
+        "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQMEhnWV9mbUhFc3dnS3J0ZUNGdzBKWURybXJVYllFNHNrZm91WXE1c0c3c2o0aEVNd3RDV1hxeWlSRHMyLXdXT3VLYkRILThGeGp5d00wMW0wc3RpaWRkQ1J6anh3czRva2hEUTRoeXB6dVJPcTI5b2ExWENmckdPNXdnTURvMUFuRVdyS2l5aWo0MTd1alo3a0pnTk93RzJkTGdqTF9EUzdZYU5nMktYZE5wM29aYVU5ajBNVzBpR3dPQlFUZHBjUTloMkVQQURrOTJxNjl2Z19xLVItQUVuUWtxTFFnNGI4MVYtcVNocUlzVWcwNUZPZlhhOUJrYUV2Qm5aNk8tSThlMHhLWlV5STM3Y2hua2tvOGtPcGFRczBLMzg4aUprSlpFcng2VFFrSnJReWw4TVEzMmo1N0JRakRn?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNU29EdnZxQmRxanJ4R2poNFVUdmI4NnZudWl5OFVOakFzcG9GWlBFbG1sMWlCZjM1emNtWUtERUtqUnZMZzZQS3BkZXBBUjctM1QySHdqOHU1dnF3cTI2bzFQMTdYbV9ReGo4Rzg2c1NiUWJaa1JlMEgwSHQ0dDZJREJMYVlhZEUyZnUxZVlwbmwxenZ0TTBRYWRQTEF0a0tDY2JjZGdZWFJ5d3lIQzBuUW9zRUZQTW50d0NsYm4tYXctdFFadDFfam9uNlRWVTBranVaY3JaT1FMdjFqbDZZNXdwRlRIQ2Z1bC1UZjN4bmc4X2Robk5iMUZFc0ltb18tWHE4cHFTY3hRZEkyb0ZJRDRFQi1xWmU4OWpXRWctWW00UHN3VG42OE4tem5NeV9RcmZHRmlDZER6UHh1UE5zbzU1cVNyQkU0a29TV3VfeGVMT00?oc=5",
+        "https://news.google.com/rss/articles/CBMivwJBVV95cUxPNVJ2RzJOOGo3S2FjVmgwLXJyYmswM0dPNGpTamRrR0R6Y21Zem5WanN5YURZT204NDFvX2hyOVdLT3h6cmFpaEdHVHhoamFCTm5EcDFqanRFQnpNZEsyWUI0eWNJR2JVUjJ3Vk1QQjZIeWRFYlZrT2NBdmt5eFN0aHBwNnhPMUdEaFdSb2owZ2N1V3lzQS1vVFRhWlJUZzlaZWNPTWx3WUVFLTV0UDFvdjU1SUZobGh2UnZHYWpZeHVqX2cybVF2UXdqczRIeEVGZUk2LUVHTkI1TGJQdTRjeG83YVRzZXV2SUp3MlRMbGVjNnRXeE5OM1JFZFNHMkFIQ1pLbjl2TkRVb0F6d3U0MVcxbzFRSVRxT3dyMVdpaG95eVdjYjR0WWx2M2VJRHFGZXhlXzUxQ3BQc05LVldr?oc=5",
+        "https://news.google.com/rss/articles/CBMixAJBVV95cUxOYzBzVEJjSTUxLUJzTlhoV2ZjdGNhUnNPaTJTV0IzZFN4VVNicjdjSHA5TDduYmMwRllIUlFmUmRMMlFwdTZDSk4xaU16VVZCZFJjTWlpUFdpeTNpX19NU3lyRUdkZWNMZ1g1MGN5azdpT3pvRk9iSnFoSWplcUZXNlpiMlppYks0dXRXM0NKcGJlNEVfZ2RIMmlHOU9CQ3ZHQmdSWFdYeENkeWFSbVo0Rlp3ZXdMN195eTNrZy1qbFdOS05IaWUtQW11VXlBNkFHRHUwMDB1Q0h0ZnR2anc3amxDT2xBUXVQWkRyYUJOOFMzU0ljeC15dlUtR25rMnlGNzZZS1RJeEdTNUlWR3RZaVRJTERTOTJLOU9jdldlX2VrcFRXZm9UYmRKQndnNFJCYjhQeXlTV3pud2doRkVfNXFXXzM?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTGEtZlQ4M2ktOXF1QVJ1OWJWcy0zMmI5NDlWcHlSN2ZFcFYzUE43Tnp1Z01jaGxuVms1allCUVh2WlJGajJGVVpCd0N3ZngybWo4b29sZ19aemxPQnprcFVQa1VnZGNHZUdiOVFFN04xTkpVeEVpVkFLVkJJSkZlcThoT3RuZXJDc19yTlktZUZCSklqSDFGV0FxQV9vWl9BMVEya0JxVlY3a3UzZVpobUM3SC1naldFV2otSF92dG9KZGJqTXB5UDdGNnR0WDZPTnhfX2N2SzJsSW1IZk5XOUF2dGJiY19iX1NnWlh4THEyQUZDN2pGSGJzSlhNUUplWloyU3h0YUtPLWx6Y1Y1MmQ2RlhaRzNwVU9lVXc4UmlrX2hkUEh4WnJ5QW9ZQ2pmN0xjY2FLa2dZM2RnNWpwQk5wVzg5VEhlUjlHTlRGbnlvbDIyNVNINU9R?oc=5"
       ],
-      "published_at_utc": "2026-10-19T07:24:11Z",
-      "published_at_ist": "2026-10-19 12:54 IST",
-      "first_seen_utc": "2026-10-19T07:24:11Z",
-      "age_minutes": 179,
-      "trend_score": 5,
-      "rank_score": 0.5878,
+      "published_at_utc": "2026-10-19T07:26:35Z",
+      "published_at_ist": "2026-10-19 12:56 IST",
+      "first_seen_utc": "2026-10-19T06:05:10Z",
+      "age_minutes": 184,
+      "trend_score": 6,
+      "rank_score": 0.6083,
       "category": "sports",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
+        "GB",
         "IN"
       ],
       "language": "en",
@@ -983,7 +946,12 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Where to Watch Elon vs Stanford Football Today",
+        "!+[𝐒𝐓ream]HERE'S*! Syracuse vs Louisville Football 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 17 October 2026",
+        "[WATCHLIVE] TODAY! Elon vs Stanford Live Streams — College Football 2026",
+        "Watch Elon vs Stanford College Football Live"
+      ],
       "image_urls": [
         "https://www.uco.es/scai/visita_virtual/SCAI UCOdata/thumbnail.jpg"
       ],
