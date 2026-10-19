@@ -43,6 +43,11 @@ MAX_SEC = 140              # Buffer/X: up to 2:20
 MAX_BYTES = 512 * 1024 * 1024
 MAX_PHOTO_STORIES = 20
 DRY = os.environ.get("DRY_RUN") == "1"   # local test: no GitHub calls
+# GitHub Pages copy of this run's files (the workflow deploys PAGES_DIR; replaced every run)
+PAGES_DIR = Path(os.environ["PAGES_DIR"]) / "m" if os.environ.get("PAGES_DIR") else None
+PAGES_BASE = os.environ.get("PAGES_BASE", "https://chatgpt820970.github.io/chad-media") + "/m"
+PAGES_MAX = int(os.environ.get("PAGES_MAX_MB", "950")) * 1048576   # Pages site limit is 1 GB
+COOKIES = os.environ.get("YT_COOKIES_FILE")   # optional, written from a GitHub Secret by the workflow
 IST = timezone(timedelta(hours=5, minutes=30))
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
@@ -119,10 +124,16 @@ def story_sources(item: dict) -> list[str]:
     return out[:4]
 
 
+def ydl_base() -> dict:
+    o = {"quiet": True, "no_warnings": True, "noplaylist": True, "http_headers": {"User-Agent": UA}}
+    if COOKIES and Path(COOKIES).exists() and Path(COOKIES).stat().st_size > 0:
+        o["cookiefile"] = COOKIES
+    return o
+
+
 def probe_source(url: str) -> dict | None:
     """Best available short side for a source, without downloading."""
-    opts = {"quiet": True, "no_warnings": True, "noplaylist": True, "socket_timeout": 20,
-            "http_headers": {"User-Agent": UA}, "skip_download": True}
+    opts = {**ydl_base(), "socket_timeout": 20, "skip_download": True}
     try:
         with yt_dlp.YoutubeDL(opts) as ydl:
             info = ydl.extract_info(url, download=False)
@@ -150,8 +161,7 @@ def probe_source(url: str) -> dict | None:
 
 
 def download(src: dict, base: Path) -> Path | None:
-    opts = {"quiet": True, "no_warnings": True, "noplaylist": True, "socket_timeout": 30,
-            "http_headers": {"User-Agent": UA}, "outtmpl": str(base) + ".%(ext)s",
+    opts = {**ydl_base(), "socket_timeout": 30, "outtmpl": str(base) + ".%(ext)s",
             "format": "bv*[dynamic_range=SDR]+ba/bv*+ba/b[dynamic_range=SDR]/b",
             "format_sort": ["res", "fps", "vbr", "abr"], "merge_output_format": "mkv",
             "retries": 3, "concurrent_fragment_downloads": 4, "noprogress": True}
@@ -222,54 +232,124 @@ def frames(video: Path, dur: float, stem: str) -> list[Path]:
 
 
 # ------------------------------------------------------------------ photos
+def bigger_variants(u: str) -> list[str]:
+    """Try a larger rendition first for common CDNs (BBC ichef, WordPress -WxH, ?w= params)."""
+    out = []
+    if "ichef.bbci.co.uk" in u:
+        out.append(re.sub(r"/(standard|branded_news|news)/\d+/", r"/\1/2048/", u))
+    m = re.sub(r"-\d{2,4}x\d{2,4}(\.(?:jpe?g|png|webp))", r"\1", u)
+    if m != u:
+        out.append(m)
+    q = re.sub(r"([?&](?:w|width|resize|imwidth)=)\d{2,4}", r"\g<1>2048", u)
+    if q != u and "&s=" not in u and "?s=" not in u:
+        q = re.sub(r"&(?:h|height)=\d{2,4}", "", q)
+        out.append(re.sub(r"\?(?:h|height)=\d{2,4}&", "?", q))
+    return [x for x in dict.fromkeys(out) if x != u] + [u]
+
+
+def fetch_image(u: str):
+    try:
+        r = requests.get(u, headers={"User-Agent": UA}, timeout=10, stream=True)
+        r.raise_for_status()
+        data = r.raw.read(15_000_000, decode_content=True)
+        im = Image.open(io.BytesIO(data))
+        return data, im
+    except Exception:  # noqa: BLE001
+        return None
+
+
 def photos_for(item: dict, stem: str) -> list[dict]:
     got, seen = [], set()
-    for u in (item.get("image_urls") or [])[:8]:
-        if len(got) >= 3 or left() < 120:
+    tries = 0
+    for u0 in (item.get("image_urls") or [])[:6]:
+        if len(got) >= 3 or left() < 120 or tries >= 12:
             break
-        try:
-            r = requests.get(u, headers={"User-Agent": UA}, timeout=10, stream=True)
-            r.raise_for_status()
-            data = r.raw.read(15_000_000, decode_content=True)
-            im = Image.open(io.BytesIO(data))
+        for u in bigger_variants(u0):      # first variant that is big enough wins
+            tries += 1
+            res = fetch_image(u)
+            if not res:
+                continue
+            data, im = res
             w, h = im.size
-        except Exception:  # noqa: BLE001
-            continue
-        if min(w, h) < 1080 or not (0.33 <= w / h <= 3) or (w, h) in seen:
-            continue
-        seen.add((w, h))
-        fp = WORK / f"{stem}-p{len(got) + 1}.jpg"
-        if im.format == "JPEG":
-            fp.write_bytes(data)
-        else:
-            im.convert("RGB").save(fp, "JPEG", quality=93)
-        got.append({"path": fp, "source_url": u, "width": w, "height": h})
+            if min(w, h) < 1080 or not (0.33 <= w / h <= 3):
+                continue
+            if (w, h) in seen:
+                break
+            seen.add((w, h))
+            fp = WORK / f"{stem}-p{len(got) + 1}.jpg"
+            if im.format == "JPEG":
+                fp.write_bytes(data)
+            else:
+                im.convert("RGB").save(fp, "JPEG", quality=93)
+            got.append({"path": fp, "source_url": u, "width": w, "height": h})
+            break
     return got
 
 
 # ------------------------------------------------------------------ publish
+CTYPES = {".mp4": "video/mp4", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png"}
+API = "https://api.github.com"
+
+
+def gh_headers(extra=None):
+    h = {"Authorization": f"Bearer {os.environ.get('GH_TOKEN', '')}", "Accept": "application/vnd.github+json",
+         "X-GitHub-Api-Version": "2022-11-28"}
+    h.update(extra or {})
+    return h
+
+
 class Release:
+    """One GitHub Release per run. Assets get real content types (video/mp4, image/jpeg).
+    Files small enough also go to the Pages site dir (direct 200 + video/mp4, no redirect)."""
+
     def __init__(self, tag: str, title: str):
-        self.tag, self.ok = tag, False
+        self.tag, self.ok, self.id, self.pages_bytes = tag, False, None, 0
         if DRY:
             self.ok = True
             return
-        r = run(["gh", "release", "create", tag, "--repo", REPO, "--title", title, "--latest=false",
-                 "--notes", "Auto-generated by x-news-collector media_prep.py. Deleted after a few days."], 120)
-        self.ok = r.returncode == 0
-        if not self.ok:
-            log("release create failed:", r.stderr[-300:])
+        r = requests.post(f"{API}/repos/{REPO}/releases", headers=gh_headers(), timeout=60, json={
+            "tag_name": tag, "name": title, "make_latest": "false",
+            "body": "Auto-generated by x-news-collector media_prep.py. Deleted after a few days."})
+        self.ok = r.status_code == 201
+        if self.ok:
+            self.id = r.json()["id"]
+        else:
+            log("release create failed:", r.status_code, r.text[:300])
 
-    def upload(self, paths: list[Path]) -> bool:
-        if not paths or DRY:
-            return True
-        r = run(["gh", "release", "upload", self.tag, "--repo", REPO, "--clobber", *map(str, paths)], 1200)
-        if r.returncode:
-            log("  upload failed:", r.stderr[-300:])
-        return r.returncode == 0
+    def upload(self, paths: list[Path], pages: bool = True) -> bool:
+        for p in paths:
+            if pages and PAGES_DIR and self.pages_bytes + p.stat().st_size <= PAGES_MAX:
+                PAGES_DIR.mkdir(parents=True, exist_ok=True)
+                shutil.copyfile(p, PAGES_DIR / p.name)
+                self.pages_bytes += p.stat().st_size
+            if DRY:
+                continue
+            ok = False
+            for attempt in range(3):
+                try:
+                    with open(p, "rb") as fh:
+                        r = requests.post(f"https://uploads.github.com/repos/{REPO}/releases/{self.id}/assets",
+                                          params={"name": p.name}, data=fh, timeout=900, headers=gh_headers(
+                                              {"Content-Type": CTYPES.get(p.suffix.lower(), "application/octet-stream"),
+                                               "Content-Length": str(p.stat().st_size)}))
+                    ok = r.status_code == 201
+                    if ok:
+                        break
+                    log("  upload", p.name, r.status_code, r.text[:200])
+                except Exception as e:  # noqa: BLE001
+                    log("  upload error", p.name, e)
+                time.sleep(3)
+            if not ok:
+                return False
+        return True
+
+    def release_url(self, p: Path) -> str:
+        return f"https://github.com/{REPO}/releases/download/{self.tag}/{p.name}"
 
     def url(self, p: Path) -> str:
-        return f"https://github.com/{REPO}/releases/download/{self.tag}/{p.name}"
+        if PAGES_DIR and (PAGES_DIR / p.name).exists():
+            return f"{PAGES_BASE}/{p.name}"
+        return self.release_url(p)
 
 
 def cleanup_old() -> int:
@@ -344,7 +424,8 @@ def main() -> int:
             "trimmed_to_140s": (best.get("duration") or meta["duration"]) > MAX_SEC + 0.5,
             "resolution": f"{meta['w']}x{meta['h']}" if min(meta["w"], meta["h"]) >= 2160 else f"{m1080['w']}x{m1080['h']}",
             "video_4k_url": None, "video_4k_resolution": None, "video_4k_size_mb": None,
-            "video_1080_url": rel.url(v1080), "video_1080_resolution": f"{m1080['w']}x{m1080['h']}",
+            "video_1080_url": rel.url(v1080), "video_1080_backup_url": rel.release_url(v1080),
+            "video_1080_resolution": f"{m1080['w']}x{m1080['h']}",
             "video_1080_size_mb": mb(v1080), "video_1080_bitrate_mbps": round(m1080["bit_rate"] / 1e6, 1),
             "frame_urls": [rel.url(f) for f in fr],
         }
@@ -376,7 +457,7 @@ def main() -> int:
         if done_4k >= MAX_4K or left() < est + 60:
             log(f"skip 4K for {key} (budget)"); continue
         v4k = WORK / f"{stem}-2160.mp4"
-        if enc_4k(raw, meta, v4k) and rel.upload([v4k]):
+        if enc_4k(raw, meta, v4k) and rel.upload([v4k], pages=False):
             m4 = ffprobe(str(v4k))
             ready[key].update(video_4k_url=rel.url(v4k), video_4k_resolution=f"{m4['w']}x{m4['h']}",
                               video_4k_size_mb=mb(v4k))

@@ -133,9 +133,16 @@ not use this private repo's Actions minutes). It checks out this repo and runs `
 6. Uploads everything as assets of one GitHub Release (`m-YYYYMMDD-HHMM`) in chad-media,
    deletes `m-*` releases older than 3 days, and commits `data/media_ready.json` here.
 
-Public URLs look like `https://github.com/chatgpt820970/chad-media/releases/download/<tag>/<file>`.
-They return a 302 to GitHub's file CDN, which serves `video/mp4` / `image/jpeg` (follow redirects,
-for example `curl -IL`).
+URLs: each run's 1080p files, frames and photos are also published on GitHub Pages
+(`https://chatgpt820970.github.io/chad-media/m/<file>`: direct `200` with `video/mp4` /
+`image/jpeg`, up to ~950 MB per run). Pages is replaced on every run, so use those URLs for the
+coming slot. `video_1080_backup_url` and the 4K file live on the Release
+(`https://github.com/chatgpt820970/chad-media/releases/download/<tag>/<file>`, a `302` to GitHub's CDN
+with the right content type) for 3 days.
+
+YouTube often blocks GitHub's servers ("Sign in to confirm you're not a bot"). The workflow runs
+a PO-token helper (bgutil) and, if the optional secret `YT_COOKIES` (a Netscape cookies.txt) exists
+in chad-media, passes it to yt-dlp. Blocked stories end up in `skipped` with the reason.
 
 ```json
 {
@@ -146,7 +153,8 @@ for example `curl -IL`).
    "source_url": "https://www.youtube.com/watch?v=...", "source_resolution": "3840x2160",
    "duration": 63.2, "trimmed_to_140s": false, "resolution": "3840x2160",
    "video_4k_url": "https://...-2160.mp4 or null", "video_4k_resolution": "3840x2160", "video_4k_size_mb": 180.2,
-   "video_1080_url": "https://...-1080.mp4", "video_1080_resolution": "1920x1080",
+   "video_1080_url": "https://...-1080.mp4", "video_1080_backup_url": "https://...releases/...-1080.mp4",
+   "video_1080_resolution": "1920x1080",
    "video_1080_size_mb": 80.1, "video_1080_bitrate_mbps": 10.1,
    "frame_urls": ["...-f1.jpg", "...-f2.jpg", "...-f3.jpg"]},
   "<story key>": {"type": "photo", "headline": "...", "photo_urls": ["..."],
