@@ -1,0 +1,54 @@
+{
+ "generated_at_utc": "2026-10-19T10:26:17Z",
+ "generated_at_ist": "2026-10-19 15:56 IST",
+ "candidates_generated_at_ist": "2026-10-19 15:53 IST",
+ "release_tag": "m-20261019-1025",
+ "release_url": "https://github.com/chatgpt820970/chad-media/releases/tag/m-20261019-1025",
+ "runtime_sec": 75,
+ "stats": {
+  "videos": 1,
+  "videos_4k": 0,
+  "photo_stories": 0,
+  "skipped": 3
+ },
+ "items": {
+  "need-resting-time-zendaya": {
+   "type": "video",
+   "headline": "Zendaya Is 'Resting' And Needs Time To 'Live'",
+   "category": "celebrity_music",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/dc10509c-3d44-3da5-85c1-b36ee6ae2e3b.m3u8?site=entertainment&region=US&lang=en-US&devtype=desktop",
+   "source_title": "dc10509c-3d44-3da5-85c1-b36ee6ae2e3b",
+   "source_resolution": "1920x1080",
+   "source_fps": 30.0,
+   "duration": 77.06,
+   "trimmed_to_140s": false,
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1025/02-need-resting-time-zendaya-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 95.3,
+   "video_1080_bitrate_mbps": 10.4,
+   "frame_urls": [
+    "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1025/02-need-resting-time-zendaya-f1.jpg",
+    "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1025/02-need-resting-time-zendaya-f2.jpg",
+    "https://github.com/chatgpt820970/chad-media/releases/download/m-20261019-1025/02-need-resting-time-zendaya-f3.jpg"
+   ]
+  }
+ },
+ "skipped": [
+  {
+   "key": "bad-bunny-coqui-eyre-frog-love-makana",
+   "reason": "no source could be read"
+  },
+  {
+   "key": "conversation-feeling-jayshetty-leave-short-small",
+   "reason": "no source could be read"
+  },
+  {
+   "key": "goal-laligahighlight-mbappe-realmadridsevilla-🔝-🤯",
+   "reason": "no source could be read"
+  }
+ ]
+}
