@@ -1,16 +1,21 @@
 #!/usr/bin/env python3
 """media_prep.py: turn data/candidates.json into upload-ready media for the posting routine.
 
-For the top stories with video it downloads the best original with yt-dlp (4K preferred),
-makes a high-bitrate 1080p H.264/AAC file (and keeps a 4K H.264 file when the source is 4K and
-the file fits Buffer/X limits), grabs 3 small check frames, and finds up to 3 >=1080px photos
-for stories without video. Files are published as assets of a GitHub Release in the public
-media repo, and data/media_ready.json lists their public URLs per story key.
+Modes
+  python media_prep.py            CI (chad-media "Prepare media" workflow): non-YouTube videos + photos
+  python media_prep.py box        on the box (cron): the YouTube videos CI can't download
+  python media_prep.py merge PART merge a partial result into data/media_ready.json
 
-Runs inside the chad-media "Prepare media" workflow (public repo, so no private-repo minutes).
-Env: MEDIA_REPO (owner/name), GH_TOKEN (workflow GITHUB_TOKEN, used by `gh`),
-     MAX_VIDEOS (12), MEDIA_BUDGET_SEC (1080), KEEP_DAYS (3), MAX_4K (4).
-No secrets are stored in this file.
+Each video: best original via yt-dlp (4K preferred, the highest-res source of the story wins),
+skipped if under 1080p; cut to 2:20 if longer (around the "most replayed" heatmap peak or a
+key chapter when available, else from 0:00); a 1080p H.264/AAC ~10 Mbps file; a 4K H.264 file
+when the source is 4K and the file is 512 MB or less; 3 small check frames.
+Files are uploaded as assets of a GitHub Release in the public media repo. The "Publish Pages"
+workflow there then mirrors every Pages URL listed in media_ready.json to GitHub Pages.
+
+Env: MEDIA_REPO, MEDIA_PART (output path of the partial result), MAX_VIDEOS (12),
+MEDIA_BUDGET_SEC, MAX_4K, KEEP_DAYS (3), PAGES_MAX_MB, SKIP_YOUTUBE=1 (CI), DRY_RUN=1 (no uploads).
+Auth: GH_TOKEN env (the workflow token in CI) or, if unset, the logged-in `gh` CLI. No secrets here.
 """
 from __future__ import annotations
 
@@ -33,24 +38,29 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
+READY = DATA / "media_ready.json"
+MODE = sys.argv[1] if len(sys.argv) > 1 else "ci"
 WORK = Path(os.environ.get("MEDIA_WORK", "/tmp/media_work"))
 REPO = os.environ.get("MEDIA_REPO", "chatgpt820970/chad-media")
 MAX_VIDEOS = int(os.environ.get("MAX_VIDEOS", "12"))
-BUDGET = int(os.environ.get("MEDIA_BUDGET_SEC", "1080"))
+BUDGET = int(os.environ.get("MEDIA_BUDGET_SEC", "150" if MODE == "box" else "1080"))
 KEEP_DAYS = float(os.environ.get("KEEP_DAYS", "3"))
 MAX_4K = int(os.environ.get("MAX_4K", "4"))
+SKIP_YT = os.environ.get("SKIP_YOUTUBE") == "1"
+DRY = os.environ.get("DRY_RUN") == "1"
+PAGES_BASE = "https://" + REPO.split("/")[0] + ".github.io/" + REPO.split("/")[1] + "/m"
+# Pages site limit is 1 GB: CI may put up to 700 MB there, the box up to 250 MB.
+PAGES_MAX = int(os.environ.get("PAGES_MAX_MB", "250" if MODE == "box" else "700")) * 1048576
+COOKIES = os.environ.get("YT_COOKIES_FILE")
 MAX_SEC = 140              # Buffer/X: up to 2:20
 MAX_BYTES = 512 * 1024 * 1024
+MAX_FULL_DL = 450 * 1048576   # bigger sources are fetched as a 2:20 section instead of in full
 MAX_PHOTO_STORIES = 20
-DRY = os.environ.get("DRY_RUN") == "1"   # local test: no GitHub calls
-# GitHub Pages copy of this run's files (the workflow deploys PAGES_DIR; replaced every run)
-PAGES_DIR = Path(os.environ["PAGES_DIR"]) / "m" if os.environ.get("PAGES_DIR") else None
-PAGES_BASE = os.environ.get("PAGES_BASE", "https://chatgpt820970.github.io/chad-media") + "/m"
-PAGES_MAX = int(os.environ.get("PAGES_MAX_MB", "950")) * 1048576   # Pages site limit is 1 GB
-COOKIES = os.environ.get("YT_COOKIES_FILE")   # optional, written from a GitHub Secret by the workflow
 IST = timezone(timedelta(hours=5, minutes=30))
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+KEY_CHAPTER = re.compile(r"highlight|goal|moment|best|key|reveal|announce|speech|performance|trailer|"
+                         r"winning|reaction|full clip|the clip", re.I)
 T0 = time.time()
 
 
@@ -68,8 +78,8 @@ def slug(s: str, n: int = 60) -> str:
     return (s[:n].strip("-") or "item")
 
 
-def run(cmd, timeout=900):
-    return subprocess.run(cmd, capture_output=True, text=True, timeout=timeout)
+def run(cmd, timeout=900, **kw):
+    return subprocess.run(cmd, capture_output=True, text=True, timeout=timeout, **kw)
 
 
 def ffprobe(path: str) -> dict:
@@ -92,17 +102,21 @@ def ffprobe(path: str) -> dict:
 
 
 # ------------------------------------------------------------------ sources
+def is_yt(u: str) -> bool:
+    return "youtube.com/watch" in u
+
+
 def norm_video_url(u: str) -> str | None:
     if not u:
         return None
     p = urlparse(u)
-    host = p.netloc.lower().replace("www.", "").replace("m.", "", 1) if p.netloc else ""
+    host = re.sub(r"^(www\.|m\.)", "", p.netloc.lower())
     if host in ("youtube.com", "youtube-nocookie.com", "youtu.be"):
-        vid = None
         if host == "youtu.be":
             vid = p.path.strip("/").split("/")[0]
         elif p.path.startswith(("/embed/", "/shorts/", "/live/", "/v/")):
-            vid = p.path.split("/")[2] if len(p.path.split("/")) > 2 else None
+            parts = p.path.split("/")
+            vid = parts[2] if len(parts) > 2 else None
         else:
             vid = (parse_qs(p.query).get("v") or [None])[0]
         return f"https://www.youtube.com/watch?v={vid}" if vid and re.fullmatch(r"[\w-]{11}", vid) else None
@@ -125,17 +139,38 @@ def story_sources(item: dict) -> list[str]:
 
 
 def ydl_base() -> dict:
-    o = {"quiet": True, "no_warnings": True, "noplaylist": True, "http_headers": {"User-Agent": UA}}
+    o = {"quiet": True, "no_warnings": True, "noplaylist": True, "http_headers": {"User-Agent": UA},
+         "noprogress": True}
     if COOKIES and Path(COOKIES).exists() and Path(COOKIES).stat().st_size > 0:
         o["cookiefile"] = COOKIES
     return o
 
 
+def pick_window(info: dict) -> tuple[float, str]:
+    """Start second of the 2:20 window for long videos: heatmap peak > key chapter > 0:00."""
+    dur = info.get("duration") or 0
+    if dur <= MAX_SEC + 0.5:
+        return 0.0, "full"
+    hm = [h for h in (info.get("heatmap") or []) if h.get("end_time") is not None]
+    if len(hm) >= 10:
+        # skip the opening 3% (it's "most replayed" on nearly every video) and find the peak
+        body = [h for h in hm if h["start_time"] >= dur * 0.03] or hm
+        peak = max(body, key=lambda h: h.get("value") or 0)
+        if (peak.get("value") or 0) > 0:
+            mid = (peak["start_time"] + peak["end_time"]) / 2
+            start = min(max(0.0, mid - 40), max(0.0, dur - MAX_SEC))   # peak ~40 s into the clip
+            return round(start, 1), f"heatmap peak at {mid:.0f}s"
+    for ch in info.get("chapters") or []:
+        if KEY_CHAPTER.search(ch.get("title") or "") and ch.get("start_time", 0) > 0:
+            start = min(float(ch["start_time"]), max(0.0, dur - MAX_SEC))
+            return round(start, 1), f"chapter '{ch.get('title')[:60]}'"
+    return 0.0, "from 0:00"
+
+
 def probe_source(url: str) -> dict | None:
     """Best available short side for a source, without downloading."""
-    opts = {**ydl_base(), "socket_timeout": 20, "skip_download": True}
     try:
-        with yt_dlp.YoutubeDL(opts) as ydl:
+        with yt_dlp.YoutubeDL({**ydl_base(), "socket_timeout": 20, "skip_download": True}) as ydl:
             info = ydl.extract_info(url, download=False)
     except Exception as e:  # noqa: BLE001
         log("  probe fail", url, str(e).splitlines()[0][:160])
@@ -147,26 +182,33 @@ def probe_source(url: str) -> dict | None:
         info = ents[0]
     if info.get("is_live") or info.get("live_status") in ("is_live", "is_upcoming"):
         return None
-    best = 0
+    best, best_size = 0, 0
     for f in info.get("formats") or [info]:
         if f.get("vcodec") == "none":
             continue
         w, h = f.get("width") or 0, f.get("height") or 0
-        best = max(best, min(w, h) if w and h else h)
+        side = min(w, h) if w and h else h
+        if side >= best:
+            best, best_size = side, f.get("filesize") or f.get("filesize_approx") or best_size
     if not best and re.search(r"\.(mp4|m3u8|mov|webm)(\?|$)", url):
         meta = ffprobe(url)
         best = min(meta.get("w", 0), meta.get("h", 0))
-    return {"url": url, "short_side": best, "duration": info.get("duration"),
-            "webpage_url": info.get("webpage_url") or url, "title": info.get("title")}
+    start, why = pick_window(info)
+    return {"url": url, "short_side": best, "duration": info.get("duration"), "est_bytes": best_size,
+            "webpage_url": info.get("webpage_url") or url, "title": info.get("title"),
+            "trim_start": start, "trim_reason": why}
 
 
 def download(src: dict, base: Path) -> Path | None:
     opts = {**ydl_base(), "socket_timeout": 30, "outtmpl": str(base) + ".%(ext)s",
             "format": "bv*[dynamic_range=SDR]+ba/bv*+ba/b[dynamic_range=SDR]/b",
             "format_sort": ["res", "fps", "vbr", "abr"], "merge_output_format": "mkv",
-            "retries": 3, "concurrent_fragment_downloads": 4, "noprogress": True}
-    if (src.get("duration") or 0) > MAX_SEC:
-        opts["download_ranges"] = yt_dlp.utils.download_range_func(None, [(0, MAX_SEC)])
+            "retries": 3, "concurrent_fragment_downloads": 4}
+    long = (src.get("duration") or 0) > MAX_SEC + 0.5
+    if long and (src.get("est_bytes") or 10**12) > MAX_FULL_DL:
+        s = src["trim_start"]
+        opts["download_ranges"] = yt_dlp.utils.download_range_func(None, [(s, s + MAX_SEC)])
+        src["section_download"] = True
     try:
         with yt_dlp.YoutubeDL(opts) as ydl:
             ydl.download([src["url"]])
@@ -178,7 +220,12 @@ def download(src: dict, base: Path) -> Path | None:
 
 
 # ------------------------------------------------------------------ encode
-def enc_1080(src: Path, meta: dict, out: Path) -> bool:
+def _seek(src: dict) -> list[str]:
+    s = 0 if src.get("section_download") else src.get("trim_start") or 0
+    return ["-ss", f"{s:.2f}"] if s else []
+
+
+def enc_1080(raw: Path, meta: dict, out: Path, src: dict) -> bool:
     w, h = meta["w"], meta["h"]
     vf = []
     if min(w, h) > 1080:
@@ -186,7 +233,7 @@ def enc_1080(src: Path, meta: dict, out: Path) -> bool:
     if meta["fps"] > 60.5:
         vf.append("fps=60")
     vf.append("format=yuv420p")
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-t", str(MAX_SEC),
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", *_seek(src), "-i", str(raw), "-t", str(MAX_SEC),
            "-map", "0:v:0", "-map", "0:a:0?", "-vf", ",".join(vf),
            "-c:v", "libx264", "-preset", "faster", "-profile:v", "high",
            "-b:v", "10M", "-maxrate", "14M", "-bufsize", "20M",
@@ -198,19 +245,19 @@ def enc_1080(src: Path, meta: dict, out: Path) -> bool:
     return r.returncode == 0 and out.exists()
 
 
-def enc_4k(src: Path, meta: dict, out: Path) -> bool:
+def enc_4k(raw: Path, meta: dict, out: Path, src: dict) -> bool:
     w, h = meta["w"], meta["h"]
-    copy = meta["vcodec"] == "h264" and meta["pix_fmt"] == "yuv420p" and meta["fps"] <= 60.5
+    copy = meta["vcodec"] == "h264" and meta["pix_fmt"] == "yuv420p" and meta["fps"] <= 60.5 and min(w, h) <= 2160
     vf = []
     if min(w, h) > 2160:
         vf.append("scale=-2:2160:flags=lanczos" if w >= h else "scale=2160:-2:flags=lanczos")
     if meta["fps"] > 60.5:
         vf.append("fps=60")
     vf.append("format=yuv420p")
-    vcodec = ["-c:v", "copy"] if copy and min(w, h) <= 2160 else [
+    vcodec = ["-c:v", "copy"] if copy else [
         "-vf", ",".join(vf), "-c:v", "libx264", "-preset", "veryfast", "-profile:v", "high",
         "-crf", "18", "-maxrate", "40M", "-bufsize", "80M"]
-    cmd = ["ffmpeg", "-y", "-loglevel", "error", "-i", str(src), "-t", str(MAX_SEC),
+    cmd = ["ffmpeg", "-y", "-loglevel", "error", *_seek(src), "-i", str(raw), "-t", str(MAX_SEC),
            "-map", "0:v:0", "-map", "0:a:0?", *vcodec,
            "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-ac", "2",
            "-movflags", "+faststart", str(out)]
@@ -252,15 +299,13 @@ def fetch_image(u: str):
         r = requests.get(u, headers={"User-Agent": UA}, timeout=10, stream=True)
         r.raise_for_status()
         data = r.raw.read(15_000_000, decode_content=True)
-        im = Image.open(io.BytesIO(data))
-        return data, im
+        return data, Image.open(io.BytesIO(data))
     except Exception:  # noqa: BLE001
         return None
 
 
 def photos_for(item: dict, stem: str) -> list[dict]:
-    got, seen = [], set()
-    tries = 0
+    got, seen, tries = [], set(), 0
     for u0 in (item.get("image_urls") or [])[:6]:
         if len(got) >= 3 or left() < 120 or tries >= 12:
             break
@@ -288,68 +333,84 @@ def photos_for(item: dict, stem: str) -> list[dict]:
 
 # ------------------------------------------------------------------ publish
 CTYPES = {".mp4": "video/mp4", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png"}
-API = "https://api.github.com"
 
 
-def gh_headers(extra=None):
-    h = {"Authorization": f"Bearer {os.environ.get('GH_TOKEN', '')}", "Accept": "application/vnd.github+json",
-         "X-GitHub-Api-Version": "2022-11-28"}
-    h.update(extra or {})
-    return h
+def gh_api(method: str, url: str, body: dict | None = None, file: Path | None = None) -> tuple[int, dict]:
+    """GitHub API call with GH_TOKEN (CI) or the box's logged-in gh CLI."""
+    tok = os.environ.get("GH_TOKEN")
+    hdr = {"Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+    if file is not None:
+        hdr["Content-Type"] = CTYPES.get(file.suffix.lower(), "application/octet-stream")
+    if tok:
+        hdr["Authorization"] = f"Bearer {tok}"
+        full = url if url.startswith("https://") else "https://api.github.com/" + url.lstrip("/")
+        if file is not None:
+            with open(file, "rb") as fh:
+                r = requests.request(method, full, data=fh, headers={**hdr, "Content-Length": str(file.stat().st_size)},
+                                     timeout=900)
+        else:
+            r = requests.request(method, full, json=body, headers=hdr, timeout=60)
+        try:
+            return r.status_code, r.json()
+        except Exception:  # noqa: BLE001
+            return r.status_code, {}
+    cmd = ["gh", "api", "-X", method, "-i", url]
+    for k, v in hdr.items():
+        cmd += ["-H", f"{k}: {v}"]
+    cmd += ["--input", str(file) if file is not None else "-"]
+    r = subprocess.run(cmd, input=None if file is not None else json.dumps(body or {}),
+                       capture_output=True, text=True, timeout=900)
+    head, _, rest = r.stdout.partition("\r\n\r\n") if "\r\n\r\n" in r.stdout else r.stdout.partition("\n\n")
+    m = re.match(r"HTTP/\S+ (\d+)", head)
+    try:
+        return (int(m.group(1)) if m else 0), json.loads(rest or "{}")
+    except Exception:  # noqa: BLE001
+        return (int(m.group(1)) if m else 0), {}
 
 
 class Release:
     """One GitHub Release per run. Assets get real content types (video/mp4, image/jpeg).
-    Files small enough also go to the Pages site dir (direct 200 + video/mp4, no redirect)."""
+    Files within the Pages budget get a Pages URL (the Publish Pages workflow mirrors them)."""
 
     def __init__(self, tag: str, title: str):
         self.tag, self.ok, self.id, self.pages_bytes = tag, False, None, 0
+        self.on_pages: set[str] = set()
         if DRY:
             self.ok = True
             return
-        r = requests.post(f"{API}/repos/{REPO}/releases", headers=gh_headers(), timeout=60, json={
+        code, js = gh_api("POST", f"repos/{REPO}/releases", {
             "tag_name": tag, "name": title, "make_latest": "false",
             "body": "Auto-generated by x-news-collector media_prep.py. Deleted after a few days."})
-        self.ok = r.status_code == 201
+        self.ok = code == 201
         if self.ok:
-            self.id = r.json()["id"]
+            self.id = js["id"]
         else:
-            log("release create failed:", r.status_code, r.text[:300])
+            log("release create failed:", code, str(js)[:300])
 
     def upload(self, paths: list[Path], pages: bool = True) -> bool:
         for p in paths:
-            if pages and PAGES_DIR and self.pages_bytes + p.stat().st_size <= PAGES_MAX:
-                PAGES_DIR.mkdir(parents=True, exist_ok=True)
-                shutil.copyfile(p, PAGES_DIR / p.name)
-                self.pages_bytes += p.stat().st_size
-            if DRY:
-                continue
-            ok = False
-            for attempt in range(3):
-                try:
-                    with open(p, "rb") as fh:
-                        r = requests.post(f"https://uploads.github.com/repos/{REPO}/releases/{self.id}/assets",
-                                          params={"name": p.name}, data=fh, timeout=900, headers=gh_headers(
-                                              {"Content-Type": CTYPES.get(p.suffix.lower(), "application/octet-stream"),
-                                               "Content-Length": str(p.stat().st_size)}))
-                    ok = r.status_code == 201
+            if not DRY:
+                ok = False
+                for _ in range(3):
+                    code, js = gh_api("POST", f"https://uploads.github.com/repos/{REPO}/releases/{self.id}/assets"
+                                      f"?name={p.name}", file=p)
+                    ok = code == 201
                     if ok:
                         break
-                    log("  upload", p.name, r.status_code, r.text[:200])
-                except Exception as e:  # noqa: BLE001
-                    log("  upload error", p.name, e)
-                time.sleep(3)
-            if not ok:
-                return False
+                    log("  upload", p.name, code, str(js)[:200])
+                    time.sleep(3)
+                if not ok:
+                    return False
+            if pages and self.pages_bytes + p.stat().st_size <= PAGES_MAX:
+                self.pages_bytes += p.stat().st_size
+                self.on_pages.add(p.name)
         return True
 
     def release_url(self, p: Path) -> str:
         return f"https://github.com/{REPO}/releases/download/{self.tag}/{p.name}"
 
     def url(self, p: Path) -> str:
-        if PAGES_DIR and (PAGES_DIR / p.name).exists():
-            return f"{PAGES_BASE}/{p.name}"
-        return self.release_url(p)
+        return f"{PAGES_BASE}/{p.name}" if p.name in self.on_pages else self.release_url(p)
 
 
 def cleanup_old() -> int:
@@ -359,9 +420,8 @@ def cleanup_old() -> int:
     n = 0
     cutoff = datetime.now(timezone.utc) - timedelta(days=KEEP_DAYS)
     for rel in json.loads(r.stdout or "[]"):
-        if not rel["tagName"].startswith("m-"):
-            continue
-        if datetime.fromisoformat(rel["createdAt"].replace("Z", "+00:00")) < cutoff:
+        if rel["tagName"].startswith("m-") and \
+                datetime.fromisoformat(rel["createdAt"].replace("Z", "+00:00")) < cutoff:
             d = run(["gh", "release", "delete", rel["tagName"], "--repo", REPO, "--yes", "--cleanup-tag"], 120)
             n += d.returncode == 0
     return n
@@ -371,112 +431,206 @@ def mb(p: Path) -> float:
     return round(p.stat().st_size / 1048576, 1)
 
 
+# ------------------------------------------------------------------ merge
+def _side(res: str | None) -> int:
+    try:
+        w, h = (int(x) for x in (res or "0x0").split("x"))
+        return min(w, h)
+    except Exception:  # noqa: BLE001
+        return 0
+
+
+def _score(v: dict) -> tuple:
+    return (v.get("type") == "video", _side(v.get("source_resolution")), bool(v.get("video_4k_url")))
+
+
+def merge_into_ready(part: dict) -> bool:
+    """Merge a partial result into data/media_ready.json. False if the part is for older candidates."""
+    try:
+        cur = json.loads(READY.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        cur = {}
+    gen = part.get("candidates_generated_at_utc") or ""
+    if cur.get("candidates_generated_at_utc") != gen:
+        if (cur.get("candidates_generated_at_utc") or "") > gen:
+            log(f"part is for older candidates ({gen}); not merged")
+            return False
+        cur = {"items": {}, "skipped": [], "parts": []}
+    items = cur.get("items", {})
+    for k, v in part.get("items", {}).items():
+        if k not in items or _score(v) >= _score(items[k]):
+            items[k] = v
+    sk = {s["key"]: s for s in cur.get("skipped", [])}
+    for s in part.get("skipped", []):
+        if s["key"] not in items or items[s["key"]].get("type") != "video":
+            sk[s["key"]] = s
+    parts = [p for p in cur.get("parts", []) if p.get("by") != part["by"]] + [
+        {"by": part["by"], "release_tag": part["release_tag"], "runtime_sec": part["runtime_sec"],
+         "generated_at_ist": part["generated_at_ist"]}]
+    now = datetime.now(timezone.utc)
+    out = {
+        "generated_at_utc": now.strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "generated_at_ist": now.astimezone(IST).strftime("%Y-%m-%d %H:%M IST"),
+        "candidates_generated_at_utc": gen,
+        "candidates_generated_at_ist": part.get("candidates_generated_at_ist"),
+        "release_tag": next((p["release_tag"] for p in parts if p["by"] == "ci"), part["release_tag"]),
+        "parts": parts,
+        "stats": {"videos": sum(1 for v in items.values() if v["type"] == "video"),
+                  "videos_4k": sum(1 for v in items.values() if v.get("video_4k_url")),
+                  "photo_stories": sum(1 for v in items.values() if v["type"] == "photo"),
+                  "skipped": 0},
+        "items": items,
+        "skipped": [s for k, s in sk.items() if not (k in items and items[k].get("type") == "video")],
+    }
+    out["stats"]["skipped"] = len(out["skipped"])
+    READY.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+    return True
+
+
 # ------------------------------------------------------------------ main
+def process_video(it: dict, idx: int, sources: list[str], rel: Release, prefix: str, keep_4k: list):
+    """Returns (entry, None) or (None, skip_reason_dict)."""
+    key = it.get("key") or it.get("id")
+    probes = [p for p in (probe_source(u) for u in sources) if p]
+    if not probes:
+        return None, {"key": key, "reason": "no source could be read", "source_url": sources[0]}
+    best = max(probes, key=lambda p: p["short_side"])  # ties keep the first (official) source
+    if best["short_side"] < 1080:
+        return None, {"key": key, "reason": f"best source only {best['short_side']}p", "source_url": best["url"]}
+    stem = f"{prefix}{idx:02d}-{slug(key, 50)}"
+    raw = download(best, WORK / f"raw-{prefix}{idx:02d}")
+    meta = ffprobe(str(raw)) if raw else {}
+    if not meta or min(meta["w"], meta["h"]) < 1080:
+        return None, {"key": key, "reason": "download failed or under 1080p" + (f" ({meta['w']}x{meta['h']})" if meta else ""),
+                      "source_url": best["url"]}
+    v1080 = WORK / f"{stem}-1080.mp4"
+    if not enc_1080(raw, meta, v1080, best):
+        return None, {"key": key, "reason": "1080p encode failed", "source_url": best["url"]}
+    m1080 = ffprobe(str(v1080))
+    fr = frames(v1080, m1080["duration"], stem)
+    if not rel.upload([v1080, *fr]):
+        return None, {"key": key, "reason": "upload failed", "source_url": best["url"]}
+    long = (best.get("duration") or 0) > MAX_SEC + 0.5
+    entry = {
+        "type": "video", "headline": it.get("headline"), "category": it.get("category"),
+        "prepared_by": MODE, "release_tag": rel.tag,
+        "source_url": best["webpage_url"], "source_title": best.get("title"),
+        "source_resolution": f"{meta['w']}x{meta['h']}", "source_fps": round(meta["fps"], 2),
+        "source_duration": best.get("duration"),
+        "duration": round(m1080["duration"], 2),
+        "trimmed_to_140s": long, "trim_start_sec": best["trim_start"] if long else 0,
+        "trim_reason": best["trim_reason"] if long else "full",
+        "resolution": f"{meta['w']}x{meta['h']}" if min(meta["w"], meta["h"]) >= 2160 else f"{m1080['w']}x{m1080['h']}",
+        "video_4k_url": None, "video_4k_resolution": None, "video_4k_size_mb": None,
+        "video_1080_url": rel.url(v1080), "video_1080_backup_url": rel.release_url(v1080),
+        "video_1080_resolution": f"{m1080['w']}x{m1080['h']}",
+        "video_1080_size_mb": mb(v1080), "video_1080_bitrate_mbps": round(m1080["bit_rate"] / 1e6, 1),
+        "frame_urls": [rel.url(f) for f in fr],
+    }
+    log(f"  ok 1080 {m1080['w']}x{m1080['h']} {mb(v1080)}MB src {meta['w']}x{meta['h']} {meta['vcodec']} ({entry['trim_reason']})")
+    if min(meta["w"], meta["h"]) >= 2160:
+        keep_4k.append((key, raw, meta, stem, best))
+    else:
+        raw.unlink(missing_ok=True)
+    return entry, None
+
+
 def main() -> int:
+    if MODE == "merge":
+        return 0 if merge_into_ready(json.loads(Path(sys.argv[2]).read_text(encoding="utf-8"))) else 3
+    box = MODE == "box"
     cands = json.loads((DATA / "candidates.json").read_text(encoding="utf-8"))
     items = cands.get("items", [])
     shutil.rmtree(WORK, ignore_errors=True)
     WORK.mkdir(parents=True)
     now = datetime.now(timezone.utc)
-    tag = "m-" + now.strftime("%Y%m%d-%H%M")
-    rel = Release(tag, f"Media {now.astimezone(IST):%Y-%m-%d %H:%M} IST")
-    if not rel.ok:
-        return 1
-    removed = cleanup_old()
-    log(f"release {tag}; removed {removed} old releases")
+    tag = "m-" + now.strftime("%Y%m%d-%H%M") + ("-yt" if box else "")
+    try:
+        prev = json.loads(READY.read_text(encoding="utf-8"))
+    except Exception:  # noqa: BLE001
+        prev = {}
+    same_gen = prev.get("candidates_generated_at_utc") == cands.get("generated_at_utc")
 
-    ready: dict[str, dict] = {}
-    skipped: list[dict] = []
-    keep_4k: list[tuple[str, Path, dict, str]] = []
     video_items = [it for it in items if story_sources(it)][:MAX_VIDEOS]
+    todo, skipped = [], []
     for idx, it in enumerate(video_items, 1):
         key = it.get("key") or it.get("id")
-        if left() < 240:
-            skipped.append({"key": key, "reason": "time budget"}); continue
-        log(f"#{idx} {key}")
-        probes = [p for p in (probe_source(u) for u in story_sources(it)) if p]
-        if not probes:
-            skipped.append({"key": key, "reason": "no source could be read"}); continue
-        best = max(probes, key=lambda p: p["short_side"])  # ties keep the first (official) source
-        if best["short_side"] < 1080:
-            skipped.append({"key": key, "reason": f"best source only {best['short_side']}p", "source_url": best["url"]})
-            continue
-        stem = f"{idx:02d}-{slug(key, 50)}"
-        raw = download(best, WORK / f"raw-{idx:02d}")
-        meta = ffprobe(str(raw)) if raw else {}
-        if not meta or min(meta["w"], meta["h"]) < 1080:
-            skipped.append({"key": key, "reason": "download failed or under 1080p" + (f" ({meta['w']}x{meta['h']})" if meta else ""),
-                            "source_url": best["url"]})
-            continue
-        dur = min(meta["duration"] or best.get("duration") or 0, MAX_SEC)
-        v1080 = WORK / f"{stem}-1080.mp4"
-        if not enc_1080(raw, meta, v1080):
-            skipped.append({"key": key, "reason": "1080p encode failed", "source_url": best["url"]}); continue
-        m1080 = ffprobe(str(v1080))
-        fr = frames(v1080, m1080["duration"] or dur, stem)
-        if not rel.upload([v1080, *fr]):
-            skipped.append({"key": key, "reason": "upload failed"}); continue
-        ready[key] = {
-            "type": "video", "headline": it.get("headline"), "category": it.get("category"),
-            "source_url": best["webpage_url"], "source_title": best.get("title"),
-            "source_resolution": f"{meta['w']}x{meta['h']}", "source_fps": round(meta["fps"], 2),
-            "duration": round(m1080["duration"], 2),
-            "trimmed_to_140s": (best.get("duration") or meta["duration"]) > MAX_SEC + 0.5,
-            "resolution": f"{meta['w']}x{meta['h']}" if min(meta["w"], meta["h"]) >= 2160 else f"{m1080['w']}x{m1080['h']}",
-            "video_4k_url": None, "video_4k_resolution": None, "video_4k_size_mb": None,
-            "video_1080_url": rel.url(v1080), "video_1080_backup_url": rel.release_url(v1080),
-            "video_1080_resolution": f"{m1080['w']}x{m1080['h']}",
-            "video_1080_size_mb": mb(v1080), "video_1080_bitrate_mbps": round(m1080["bit_rate"] / 1e6, 1),
-            "frame_urls": [rel.url(f) for f in fr],
-        }
-        log(f"  ok 1080 {m1080['w']}x{m1080['h']} {mb(v1080)}MB src {meta['w']}x{meta['h']} {meta['vcodec']}")
-        if min(meta["w"], meta["h"]) >= 2160:
-            keep_4k.append((key, raw, meta, stem))
-        else:
-            raw.unlink(missing_ok=True)
+        srcs = story_sources(it)
+        yt = [s for s in srcs if is_yt(s)]
+        mine = yt if box else ([s for s in srcs if not is_yt(s)] if SKIP_YT else srcs)
+        if box and same_gen and prev.get("items", {}).get(key, {}).get("prepared_by") == "box":
+            continue   # already done for these candidates
+        if mine:
+            todo.append((idx, it, mine))
+        elif SKIP_YT and yt and not box:
+            skipped.append({"key": key, "reason": "YouTube source: prepared on the box", "source_url": yt[0]})
+    if box and not todo:
+        log("box: no YouTube items to prepare")
+        return 0
 
-    # photos for stories without a ready video
-    photo_n = 0
-    for it in items:
+    rel = Release(tag, f"Media {now.astimezone(IST):%Y-%m-%d %H:%M} IST" + (" (box/YouTube)" if box else ""))
+    if not rel.ok:
+        return 1
+    if not box:
+        log(f"removed {cleanup_old()} old releases")
+    log(f"release {tag}; {len(todo)} video stories to try")
+
+    ready: dict[str, dict] = {}
+    keep_4k: list = []
+    for idx, it, srcs in todo:
         key = it.get("key") or it.get("id")
-        if key in ready or photo_n >= MAX_PHOTO_STORIES or left() < 180:
-            continue
-        ph = photos_for(it, f"ph-{slug(key, 50)}")
-        if ph and rel.upload([p["path"] for p in ph]):
-            photo_n += 1
-            ready[key] = {"type": "photo", "headline": it.get("headline"), "category": it.get("category"),
-                          "photo_urls": [rel.url(p["path"]) for p in ph],
-                          "photos": [{"url": rel.url(p["path"]), "source_url": p["source_url"],
-                                      "width": p["width"], "height": p["height"]} for p in ph]}
-    log(f"photos: {photo_n} stories")
+        if left() < (25 if box else 240):
+            skipped.append({"key": key, "reason": "time budget", "source_url": srcs[0]}); continue
+        log(f"#{idx} {key}")
+        entry, skip = process_video(it, idx, srcs, rel, "yt" if box else "", keep_4k)
+        if entry:
+            ready[key] = entry
+        else:
+            skipped.append(skip)
+
+    photo_n = 0
+    if not box:
+        for it in items:
+            key = it.get("key") or it.get("id")
+            if key in ready or photo_n >= MAX_PHOTO_STORIES or left() < 180:
+                continue
+            ph = photos_for(it, f"ph-{slug(key, 50)}")
+            if ph and rel.upload([p["path"] for p in ph]):
+                photo_n += 1
+                ready[key] = {"type": "photo", "headline": it.get("headline"), "category": it.get("category"),
+                              "prepared_by": MODE, "release_tag": rel.tag,
+                              "photo_urls": [rel.url(p["path"]) for p in ph],
+                              "photos": [{"url": rel.url(p["path"]), "source_url": p["source_url"],
+                                          "width": p["width"], "height": p["height"]} for p in ph]}
+        log(f"photos: {photo_n} stories")
 
     # 4K pass last (slowest), only with time left
+    fps_4k = 40 if box else 12
     done_4k = 0
-    for key, raw, meta, stem in keep_4k:
-        est = (min(meta["duration"], MAX_SEC) * max(meta["fps"], 24)) / 12 + 30  # ~12 fps x264 4K
-        if done_4k >= MAX_4K or left() < est + 60:
-            log(f"skip 4K for {key} (budget)"); continue
+    for key, raw, meta, stem, src in keep_4k:
+        est = (min(meta["duration"], MAX_SEC) * max(meta["fps"], 24)) / fps_4k + 15
+        if done_4k >= MAX_4K or left() < est + 10:
+            log(f"skip 4K for {key} (budget)"); raw.unlink(missing_ok=True); continue
         v4k = WORK / f"{stem}-2160.mp4"
-        if enc_4k(raw, meta, v4k) and rel.upload([v4k], pages=False):
+        if enc_4k(raw, meta, v4k, src) and rel.upload([v4k], pages=False):
             m4 = ffprobe(str(v4k))
-            ready[key].update(video_4k_url=rel.url(v4k), video_4k_resolution=f"{m4['w']}x{m4['h']}",
+            ready[key].update(video_4k_url=rel.release_url(v4k), video_4k_resolution=f"{m4['w']}x{m4['h']}",
                               video_4k_size_mb=mb(v4k))
             done_4k += 1
             log(f"  ok 4K {key} {mb(v4k)}MB")
         raw.unlink(missing_ok=True)
 
-    out = {
-        "generated_at_utc": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    part = {
+        "by": MODE, "release_tag": tag,
         "generated_at_ist": datetime.now(IST).strftime("%Y-%m-%d %H:%M IST"),
+        "candidates_generated_at_utc": cands.get("generated_at_utc"),
         "candidates_generated_at_ist": cands.get("generated_at_ist"),
-        "release_tag": tag, "release_url": f"https://github.com/{REPO}/releases/tag/{tag}",
-        "runtime_sec": round(time.time() - T0),
-        "stats": {"videos": sum(1 for v in ready.values() if v["type"] == "video"),
-                  "videos_4k": done_4k, "photo_stories": photo_n, "skipped": len(skipped)},
-        "items": ready, "skipped": skipped,
+        "runtime_sec": round(time.time() - T0), "items": ready, "skipped": skipped,
     }
-    (DATA / "media_ready.json").write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    log("done", json.dumps(out["stats"]))
+    out = Path(os.environ.get("MEDIA_PART", str(WORK / "part.json")))
+    out.write_text(json.dumps(part, ensure_ascii=False, indent=1), encoding="utf-8")
+    log("done", json.dumps({"videos": sum(v["type"] == "video" for v in ready.values()), "videos_4k": done_4k,
+                            "photo_stories": photo_n, "skipped": len(skipped)}), "->", out)
     return 0
 
 

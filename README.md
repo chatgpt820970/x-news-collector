@@ -114,49 +114,47 @@ python collector.py
 
 ## Upload-ready media (`data/media_ready.json`)
 
-After each collect run, the last step pushes `trigger/last.json` to the public repo
-`chatgpt820970/chad-media`. That starts its **Prepare media** workflow (public repo, so it does
-not use this private repo's Actions minutes). It checks out this repo and runs `media_prep.py`:
+Two producers fill `data/media_ready.json`, both with `media_prep.py`, and merge into it (same
+candidates generation = merged; newer generation = replaced; pull/rebase-free: fetch + reset + merge + push):
 
-1. Takes the top **12** stories that have a video source (official `youtube_videos` first, then
-   `video_urls`: YouTube, X posts, direct mp4). Each story's sources are probed and the
-   highest-resolution one wins, so a low-res re-upload never beats the original.
-2. Skips the story if the best source is under 1080p. Otherwise it downloads the best format
-   (4K preferred, SDR) with yt-dlp, cut to the first **2:20** if it's longer (Buffer/X limit).
-3. Makes `*-1080.mp4`: H.264 High/AAC, ~10 Mbps (8+), 1080 on the short side, faststart.
-   If the source is 4K and time allows, it also makes `*-2160.mp4` (H.264, CRF 18, max 40 Mbps;
-   the video is copied as-is when the source is already H.264). It's kept only if it's 512 MB or less.
-4. Grabs 3 small check frames (start, middle, end, 480 px wide) per video, so watermarks,
-   @handles, logos or BREAKING banners can be spotted without downloading the video.
-5. For stories without a ready video, keeps up to 3 photos at 1080 px or more on the short side
-   from `image_urls`.
-6. Uploads everything as assets of one GitHub Release (`m-YYYYMMDD-HHMM`) in chad-media,
-   deletes `m-*` releases older than 3 days, and commits `data/media_ready.json` here.
+- **CI** (non-YouTube videos + photos): the last step of the collect run pushes `trigger/last.json`
+  to the public repo `chatgpt820970/chad-media`, which starts its **Prepare media** workflow
+  (public repo minutes). `SKIP_YOUTUBE=1` there, because YouTube blocks GitHub's servers.
+- **Box** (YouTube videos): `/workspace/scanners/bin/run-media-prep.sh` on the agent box, from cron
+  at 04:42, 07:42, 09:42, 10:42, 13:42, 20:42, 22:42 and 23:42 IST (about 7 min after each collect run). It runs
+  `media_prep.py box` with a time budget that ends ~hh:45, merges, pushes and starts **Publish Pages**.
+  Log: `/workspace/scanners/logs/media-prep.log`.
 
-URLs: each run's 1080p files, frames and photos are also published on GitHub Pages
-(`https://chatgpt820970.github.io/chad-media/m/<file>`: direct `200` with `video/mp4` /
-`image/jpeg`, up to ~950 MB per run). Pages is replaced on every run, so use those URLs for the
-coming slot. `video_1080_backup_url` and the 4K file live on the Release
-(`https://github.com/chatgpt820970/chad-media/releases/download/<tag>/<file>`, a `302` to GitHub's CDN
-served as `application/octet-stream`, like raw.githubusercontent) for 3 days.
+Per video: the top 12 stories with a video source are probed and the highest-resolution source
+wins (a low-res re-upload never beats the original). Under 1080p = skipped. Videos longer than
+2:20 are cut to a 2:20 window around the YouTube "most replayed" heatmap peak (peak ~40 s in), else a
+key chapter (highlight/goal/moment/speech...), else from 0:00 (`trim_start_sec`, `trim_reason`).
+Outputs: `*-1080.mp4` (H.264 High/AAC ~10 Mbps, 1080 on the short side, faststart), `*-2160.mp4`
+when the source is 4K, time allows and it's 512 MB or less, and 3 check frames (480 px). Stories
+without a ready video get up to 3 photos of 1080 px or more on the short side.
 
-YouTube often blocks GitHub's servers ("Sign in to confirm you're not a bot"). The workflow runs
-a PO-token helper (bgutil) and, if the optional secret `YT_COOKIES` (a Netscape cookies.txt) exists
-in chad-media, passes it to yt-dlp. Blocked stories end up in `skipped` with the reason.
+Hosting: every file is a Release asset in chad-media (`m-YYYYMMDD-HHMM` for CI, `...-yt` for the box;
+`m-*` releases older than 3 days are deleted). **Publish Pages** mirrors every Pages URL listed in
+media_ready.json to `https://chatgpt820970.github.io/chad-media/m/<file>` (direct 200, `video/mp4` /
+`image/jpeg`). 4K files and anything over the Pages budget use the Release URL (302, then
+`application/octet-stream`). `video_1080_backup_url` is always the Release copy (kept 3 days).
 
 ```json
 {
- "generated_at_ist": "...", "candidates_generated_at_ist": "...", "release_tag": "m-...", "runtime_sec": 300,
- "stats": {"videos": 8, "videos_4k": 2, "photo_stories": 10, "skipped": 4},
+ "generated_at_ist": "...", "candidates_generated_at_utc": "...", "candidates_generated_at_ist": "...",
+ "release_tag": "m-... (CI)", "parts": [{"by": "ci|box", "release_tag": "...", "runtime_sec": 90, "generated_at_ist": "..."}],
+ "stats": {"videos": 5, "videos_4k": 1, "photo_stories": 5, "skipped": 2},
  "items": {
-  "<story key>": {"type": "video", "headline": "...", "category": "...",
-   "source_url": "https://www.youtube.com/watch?v=...", "source_resolution": "3840x2160",
-   "duration": 63.2, "trimmed_to_140s": false, "resolution": "3840x2160",
-   "video_4k_url": "https://...-2160.mp4 or null", "video_4k_resolution": "3840x2160", "video_4k_size_mb": 180.2,
-   "video_1080_url": "https://...-1080.mp4", "video_1080_backup_url": "https://...releases/...-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 80.1, "video_1080_bitrate_mbps": 10.1,
-   "frame_urls": ["...-f1.jpg", "...-f2.jpg", "...-f3.jpg"]},
+  "<story key>": {"type": "video", "prepared_by": "ci|box", "release_tag": "...", "headline": "...", "category": "...",
+   "source_url": "https://www.youtube.com/watch?v=...", "source_title": "...", "source_resolution": "3840x2160",
+   "source_fps": 25.0, "source_duration": 612, "duration": 140.0, "trimmed_to_140s": true,
+   "trim_start_sec": 233.0, "trim_reason": "heatmap peak at 273s", "resolution": "3840x2160",
+   "video_4k_url": "https://github.com/.../releases/download/.../...-2160.mp4 or null",
+   "video_4k_resolution": "3840x2160", "video_4k_size_mb": 180.2,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/...-1080.mp4",
+   "video_1080_backup_url": "https://github.com/.../releases/download/.../...-1080.mp4",
+   "video_1080_resolution": "1920x1080", "video_1080_size_mb": 80.1, "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [".../m/...-f1.jpg", ".../m/...-f2.jpg", ".../m/...-f3.jpg"]},
   "<story key>": {"type": "photo", "headline": "...", "photo_urls": ["..."],
    "photos": [{"url": "...", "source_url": "...", "width": 2048, "height": 1365}]}
  },
@@ -164,6 +162,7 @@ in chad-media, passes it to yt-dlp. Blocked stories end up in `skipped` with the
 }
 ```
 
-Secrets: `CHAD_MEDIA_DEPLOY_KEY` (here; write deploy key for chad-media, used only to push the
-trigger file) and `XNC_DEPLOY_KEY` (in chad-media; write deploy key for this repo). No keys in code.
-Local test without uploading anything: `DRY_RUN=1 MAX_VIDEOS=3 python media_prep.py`.
+Secrets: `CHAD_MEDIA_DEPLOY_KEY` (here; pushes the trigger file), `XNC_DEPLOY_KEY` (in chad-media;
+write deploy key for this repo), optional `YT_COOKIES` (in chad-media; if set, CI also does YouTube).
+The box uses its logged-in `gh` CLI. No keys in code.
+Local test without uploading: `DRY_RUN=1 MAX_VIDEOS=3 python media_prep.py box` (or no arg for CI mode).
