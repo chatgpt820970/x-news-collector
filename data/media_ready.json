@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T15:07:21Z",
- "generated_at_ist": "2026-10-20 20:37 IST",
+ "generated_at_utc": "2026-10-20T15:14:25Z",
+ "generated_at_ist": "2026-10-20 20:44 IST",
  "candidates_generated_at_utc": "2026-10-20T15:05:26Z",
  "candidates_generated_at_ist": "2026-10-20 20:35 IST",
  "release_tag": "m-20261020-1506",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-1506",
    "runtime_sec": 37,
    "generated_at_ist": "2026-10-20 20:37 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "runtime_sec": 377,
+   "generated_at_ist": "2026-10-20 20:44 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 7,
   "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 7
+  "photo_stories": 2,
+  "skipped": 1
  },
  "items": {
   "333-evloev-moment-movsar-ufc-waiting": {
@@ -50,39 +56,63 @@
    ]
   },
   "album-gaga-hiatu-hint-indefinite-lady": {
-   "type": "photo",
+   "type": "video",
    "headline": "Lady Gaga hints at new album amid indefinite hiatus",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg",
-     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P106DJXT-e1792498389889.jpg?w=2048",
-     "width": 1800,
-     "height": 1200
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ",
+   "source_title": "Andrew Watt on Madonna, Gaga, Elton John, McCartney, the Stones, & Ozzy | The Rolling Stone Studio",
+   "source_resolution": "3840x2160",
+   "source_fps": 23.98,
+   "source_duration": 2092,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "3840x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt02-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt02-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.1,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f3.jpg"
    ]
   },
   "almost-chri-hollywood-like-name-one-pratt-ridiculou-went-word-zendaya": {
-   "type": "photo",
+   "type": "video",
    "headline": "Chris Pratt Almost Went With A One-Word Name In Hollywood. (Like Zendaya, But Ridiculous)",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-almost-chri-hollywood-like-name-one-pratt-ridiculo-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-almost-chri-hollywood-like-name-one-pratt-ridiculo-p1.jpg",
-     "source_url": "https://cdn.mos.cms.futurecdn.net/wQoGNsHjgEaqHQ23o6o2MU-2000-80.jpg",
-     "width": 2000,
-     "height": 1125
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=UpM0RaEvOWY",
+   "source_title": "Chris Pratt's Bubba Gump Shrimp Co. Nickname Almost Became His Real Name | The Tonight Show",
+   "source_resolution": "1920x1080",
+   "source_fps": 29.97,
+   "source_duration": 676,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 172.8,
+   "video_1080_bitrate_mbps": 10.4,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f3.jpg"
    ]
   },
   "award-company-data-finalist-industry-merit-spotlight-technology": {
@@ -120,43 +150,133 @@
      "height": 1366
     }
    ]
+  },
+  "back-charle-england-harry-important-king-most-move-open-prince-reconcile-thing": {
+   "type": "video",
+   "headline": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=6-rhaR1ZlAs",
+   "source_title": "Prince Harry Opens Up: Grieving Princess Diana & The Royal Reconciliation",
+   "source_resolution": "1920x1080",
+   "source_fps": 23.98,
+   "source_duration": 2522,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt01-back-charle-england-harry-important-king-most-move-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt01-back-charle-england-harry-important-king-most-move-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 168.9,
+   "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f3.jpg"
+   ]
+  },
+  "applegate-christina-does-misdiagnosed-reveal": {
+   "type": "video",
+   "headline": "Christina Applegate Reveals She Does Not Have MS, Was Misdiagnosed",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=UvDm3V8pVSQ",
+   "source_title": "Christina Is Back (Part 1)",
+   "source_resolution": "1080x1080",
+   "source_fps": 25.0,
+   "source_duration": 2221,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1080x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt05-applegate-christina-does-misdiagnosed-reveal-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt05-applegate-christina-does-misdiagnosed-reveal-1080.mp4",
+   "video_1080_resolution": "1080x1080",
+   "video_1080_size_mb": 36.8,
+   "video_1080_bitrate_mbps": 2.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f3.jpg"
+   ]
+  },
+  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
+   "type": "video",
+   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
+   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "source_resolution": "1080x1920",
+   "source_fps": 30.0,
+   "source_duration": 15,
+   "duration": 15.42,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 18.0,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+   ]
+  },
+  "alway-leclerc-verstappen-yapping-🗣️": {
+   "type": "video",
+   "headline": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1508-yt",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A",
+   "source_title": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "source_resolution": "1080x1920",
+   "source_fps": 50.0,
+   "source_duration": 26,
+   "duration": 26.25,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt08-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 31.0,
+   "video_1080_bitrate_mbps": 9.9,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "back-charle-england-harry-important-king-most-move-open-prince-reconcile-thing",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=6-rhaR1ZlAs"
-  },
-  {
-   "key": "album-gaga-hiatu-hint-indefinite-lady",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ"
-  },
-  {
-   "key": "almost-chri-hollywood-like-name-one-pratt-ridiculou-went-word-zendaya",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=UpM0RaEvOWY"
-  },
-  {
    "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "1080p encode failed",
    "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
-  },
-  {
-   "key": "applegate-christina-does-misdiagnosed-reveal",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=UvDm3V8pVSQ"
-  },
-  {
-   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
-  },
-  {
-   "key": "alway-leclerc-verstappen-yapping-🗣️",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
   }
  ]
 }
