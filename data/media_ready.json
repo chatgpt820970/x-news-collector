@@ -1,28 +1,22 @@
 {
- "generated_at_utc": "2026-10-20T15:14:25Z",
- "generated_at_ist": "2026-10-20 20:44 IST",
- "candidates_generated_at_utc": "2026-10-20T15:05:26Z",
- "candidates_generated_at_ist": "2026-10-20 20:35 IST",
- "release_tag": "m-20261020-1506",
+ "generated_at_utc": "2026-10-20T17:12:39Z",
+ "generated_at_ist": "2026-10-20 22:42 IST",
+ "candidates_generated_at_utc": "2026-10-20T17:10:25Z",
+ "candidates_generated_at_ist": "2026-10-20 22:40 IST",
+ "release_tag": "m-20261020-1711",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-1506",
-   "runtime_sec": 37,
-   "generated_at_ist": "2026-10-20 20:37 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "runtime_sec": 377,
-   "generated_at_ist": "2026-10-20 20:44 IST"
+   "release_tag": "m-20261020-1711",
+   "runtime_sec": 62,
+   "generated_at_ist": "2026-10-20 22:42 IST"
   }
  ],
  "stats": {
-  "videos": 7,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 2,
-  "skipped": 1
+  "photo_stories": 7,
+  "skipped": 5
  },
  "items": {
   "333-evloev-moment-movsar-ufc-waiting": {
@@ -30,7 +24,7 @@
    "headline": "Movsar Evloev: 'This Moment Is What I've Been Waiting For' | UFC 333",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-1506",
+   "release_tag": "m-20261020-1711",
    "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/36006700-6f00-4300-a700-6d0064004f00/1080p.mp4",
    "source_title": "1080p",
    "source_resolution": "1920x1080",
@@ -44,239 +38,183 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1506/06-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1711/05-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
    "video_1080_resolution": "1920x1080",
    "video_1080_size_mb": 35.1,
    "video_1080_bitrate_mbps": 9.8,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f3.jpg"
    ]
   },
-  "album-gaga-hiatu-hint-indefinite-lady": {
-   "type": "video",
-   "headline": "Lady Gaga hints at new album amid indefinite hiatus",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ",
-   "source_title": "Andrew Watt on Madonna, Gaga, Elton John, McCartney, the Stones, & Ozzy | The Rolling Stone Studio",
-   "source_resolution": "3840x2160",
-   "source_fps": 23.98,
-   "source_duration": 2092,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "3840x2160",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt02-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt02-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.1,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-album-gaga-hiatu-hint-indefinite-lady-f3.jpg"
-   ]
-  },
-  "almost-chri-hollywood-like-name-one-pratt-ridiculou-went-word-zendaya": {
-   "type": "video",
-   "headline": "Chris Pratt Almost Went With A One-Word Name In Hollywood. (Like Zendaya, But Ridiculous)",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=UpM0RaEvOWY",
-   "source_title": "Chris Pratt's Bubba Gump Shrimp Co. Nickname Almost Became His Real Name | The Tonight Show",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 676,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 172.8,
-   "video_1080_bitrate_mbps": 10.4,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-almost-chri-hollywood-like-name-one-pratt-ridiculo-f3.jpg"
-   ]
-  },
-  "award-company-data-finalist-industry-merit-spotlight-technology": {
+  "american-announce-date-north-sienna-spiro-tour": {
    "type": "photo",
-   "headline": "Company spotlight: Merit Data & Technology, UK IT Industry Awards 2026 finalist",
-   "category": "other",
+   "headline": "Sienna Spiro Announces 2027 North American Tour Dates",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-1506",
+   "release_tag": "m-20261020-1711",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-award-company-data-finalist-industry-merit-spotlig-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-american-announce-date-north-sienna-spiro-tour-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-award-company-data-finalist-industry-merit-spotlig-p1.jpg",
-     "source_url": "https://www.computing.co.uk/sponsored/2026/media_1fbc8baa9ea88a3dab428cdea3460fb210314d1a5.jpg?width=2048&format=pjpg&optimize=medium",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-american-announce-date-north-sienna-spiro-tour-p1.jpg",
+     "source_url": "https://www.syracuse.com/resizer/v2/4YVP6FF5WJBFPOLU5RAZQSEEGU.jpg?auth=b80e374fb41279081a4e21cb958ef6a5581ca8c7f3c2b7a2ff7d19a048433827&width=2048&smart=true",
+     "width": 2048,
+     "height": 1152
+    }
+   ]
+  },
+  "abu-continue-dhabi-expect-fia-planned-qatar-race": {
+   "type": "photo",
+   "headline": "FIA expects F1 races in Qatar and Abu Dhabi to continue as planned",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1711",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p2.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p1.jpg",
+     "source_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1441887_hires.jpg?width=2048&aspect_ratio=16:9",
+     "width": 2048,
+     "height": 1152
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p2.jpg",
+     "source_url": "https://static.independent.co.uk/2026/07/06/17/c83c1144926b0d142275af9cbbc2d799Y29udGVudHNlYXJjaGFwaSwxNzgzNDI4NzI4-2.85184736.jpg?width=2048&crop=1200:800",
      "width": 2048,
      "height": 1365
     }
    ]
   },
-  "3-actually-alternative-code-give-leave-reason": {
+  "10m-cars-driven-each-hamilton-mclaren-norri-sell-senna-£": {
    "type": "photo",
-   "headline": "These 3 VS Code alternatives actually give you a reason to leave VS Code",
-   "category": "other",
+   "headline": "McLaren to sell F1 cars driven by Senna, Hamilton and Norris for up to £10m each",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-1506",
+   "release_tag": "m-20261020-1711",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-3-actually-alternative-code-give-leave-reason-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-10m-cars-driven-each-hamilton-mclaren-norri-sell-s-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-actually-alternative-code-give-leave-reason-p1.jpg",
-     "source_url": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/closer-angle-of-a-macbook-on-code-visualstudio-com-with-the-download-for-macos-button.jpeg?w=2048&fit=crop",
-     "width": 2048,
-     "height": 1366
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-10m-cars-driven-each-hamilton-mclaren-norri-sell-s-p1.jpg",
+     "source_url": "https://hermes.media.static.aol.com/media/2026/10/20/9bd718f4-d6dc-3366-b98f-5ea7ade7625b/a496d864-14de-4df0-a56b-89774ed7c7aa.jpeg",
+     "width": 2399,
+     "height": 1498
     }
    ]
   },
-  "back-charle-england-harry-important-king-most-move-open-prince-reconcile-thing": {
-   "type": "video",
-   "headline": "Prince Harry Opens Up About Move Back to England and Wanting to ‘Work It Out’ With King Charles and Prince William: ‘The Most Important Thing Is to Reconcile’",
+  "evloev-favored-roster-ufc-volkanovski": {
+   "type": "photo",
+   "headline": "Volkanovski Favored Over Evloev By UFC Roster",
    "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=6-rhaR1ZlAs",
-   "source_title": "Prince Harry Opens Up: Grieving Princess Diana & The Royal Reconciliation",
-   "source_resolution": "1920x1080",
-   "source_fps": 23.98,
-   "source_duration": 2522,
-   "duration": 140.04,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt01-back-charle-england-harry-important-king-most-move-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt01-back-charle-england-harry-important-king-most-move-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 168.9,
-   "video_1080_bitrate_mbps": 10.1,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-back-charle-england-harry-important-king-most-move-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1711",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p2.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p1.jpg",
+     "source_url": "https://vsin.com/wp-content/uploads/2026/10/2023-07-09T054214Z_1504680093_MT1USATODAY21013968_RTRMADP_3_MMA-UFC-290-VOLKANOVSKI-VS-RODRIGUEZ.jpg",
+     "width": 5015,
+     "height": 3343
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p2.jpg",
+     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/07/GettyImages-2285701635-scaled.jpg",
+     "width": 1920,
+     "height": 1280
+    }
    ]
   },
-  "applegate-christina-does-misdiagnosed-reveal": {
-   "type": "video",
-   "headline": "Christina Applegate Reveals She Does Not Have MS, Was Misdiagnosed",
+  "alum-bkfc-darren-jake-lambast-next-opponent-paul-speculation-till-ufc": {
+   "type": "photo",
+   "headline": "UFC alum Darren Till lambasts Jake Paul amid speculation about next BKFC opponent",
    "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=UvDm3V8pVSQ",
-   "source_title": "Christina Is Back (Part 1)",
-   "source_resolution": "1080x1080",
-   "source_fps": 25.0,
-   "source_duration": 2221,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1080x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt05-applegate-christina-does-misdiagnosed-reveal-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt05-applegate-christina-does-misdiagnosed-reveal-1080.mp4",
-   "video_1080_resolution": "1080x1080",
-   "video_1080_size_mb": 36.8,
-   "video_1080_bitrate_mbps": 2.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-applegate-christina-does-misdiagnosed-reveal-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1711",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-alum-bkfc-darren-jake-lambast-next-opponent-paul-s-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-alum-bkfc-darren-jake-lambast-next-opponent-paul-s-p1.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/Darren%20Till_20261020_161516_0000.webp",
+     "width": 1920,
+     "height": 1200
+    }
    ]
   },
-  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
-   "type": "video",
-   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
-   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "source_resolution": "1080x1920",
-   "source_fps": 30.0,
-   "source_duration": 15,
-   "duration": 15.42,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 18.0,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt07-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+  "20m-flag-hyperliquid-laundering-ring-xmr-zachxbt": {
+   "type": "photo",
+   "headline": "ZachXBT Flags $20M XMR Laundering Ring on Hyperliquid",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1711",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-20m-flag-hyperliquid-laundering-ring-xmr-zachxbt-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-20m-flag-hyperliquid-laundering-ring-xmr-zachxbt-p1.jpg",
+     "source_url": "https://s.yimg.com/lo/mysterio/api/42a91429723431fd951a890c0edd10d8821520bec2d9dacb6d79ae6d0918fe7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbankless_325%2Fc20bf451e6b09d15966dcfd97c7582de.png",
+     "width": 1200,
+     "height": 1200
+    }
    ]
   },
-  "alway-leclerc-verstappen-yapping-🗣️": {
-   "type": "video",
-   "headline": "Leclerc & Verstappen - Always Yapping 🗣️",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1508-yt",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A",
-   "source_title": "Leclerc & Verstappen - Always Yapping 🗣️",
-   "source_resolution": "1080x1920",
-   "source_fps": 50.0,
-   "source_duration": 26,
-   "duration": 26.25,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1508-yt/yt08-alway-leclerc-verstappen-yapping-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 31.0,
-   "video_1080_bitrate_mbps": 9.9,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-alway-leclerc-verstappen-yapping-f3.jpg"
+  "chief-deepak-evoluteiq-founder-interview-kinger-officer-serie-strategy-–": {
+   "type": "photo",
+   "headline": "Deepak Kinger, Chief Strategy Officer and Co-founder of EvoluteIQ – Interview Series",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1711",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-chief-deepak-evoluteiq-founder-interview-kinger-of-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-chief-deepak-evoluteiq-founder-interview-kinger-of-p1.jpg",
+     "source_url": "https://www.unite.ai/wp-content/uploads/2026/10/Deepak-KingerEIQ.png",
+     "width": 1919,
+     "height": 1080
+    }
    ]
   }
  },
  "skipped": [
   {
-   "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
-   "reason": "1080p encode failed",
-   "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
+   "key": "american-announce-date-north-sienna-spiro-tour",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=JEmbyx8NLxA"
+  },
+  {
+   "key": "cristiano-down-erik-hag-let-manchester-ronaldo-ten-united",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
+  },
+  {
+   "key": "ali-emotional-gets-golden-khan-offering-prayer-sara-temple-while",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
+  },
+  {
+   "key": "alia-bhatt-diagnosi-felt-relief",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
+  },
+  {
+   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
   }
  ]
 }
