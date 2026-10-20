@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T17:12:39Z",
- "generated_at_ist": "2026-10-20 22:42 IST",
+ "generated_at_utc": "2026-10-20T17:33:59Z",
+ "generated_at_ist": "2026-10-20 23:03 IST",
  "candidates_generated_at_utc": "2026-10-20T17:10:25Z",
  "candidates_generated_at_ist": "2026-10-20 22:40 IST",
  "release_tag": "m-20261020-1711",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-1711",
    "runtime_sec": 62,
    "generated_at_ist": "2026-10-20 22:42 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-1731-yt",
+   "runtime_sec": 161,
+   "generated_at_ist": "2026-10-20 23:03 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 5,
   "videos_4k": 0,
-  "photo_stories": 7,
-  "skipped": 5
+  "photo_stories": 6,
+  "skipped": 1
  },
  "items": {
   "333-evloev-moment-movsar-ufc-waiting": {
@@ -50,21 +56,33 @@
    ]
   },
   "american-announce-date-north-sienna-spiro-tour": {
-   "type": "photo",
+   "type": "video",
    "headline": "Sienna Spiro Announces 2027 North American Tour Dates",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-american-announce-date-north-sienna-spiro-tour-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-american-announce-date-north-sienna-spiro-tour-p1.jpg",
-     "source_url": "https://www.syracuse.com/resizer/v2/4YVP6FF5WJBFPOLU5RAZQSEEGU.jpg?auth=b80e374fb41279081a4e21cb958ef6a5581ca8c7f3c2b7a2ff7d19a048433827&width=2048&smart=true",
-     "width": 2048,
-     "height": 1152
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1731-yt",
+   "source_url": "https://www.youtube.com/watch?v=JEmbyx8NLxA",
+   "source_title": "Calvin Harris, Clementine Douglas - Blessings (Official Video)",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.0,
+   "source_duration": 219,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 40.3,
+   "trim_reason": "heatmap peak at 80s",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt01-american-announce-date-north-sienna-spiro-tour-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt01-american-announce-date-north-sienna-spiro-tour-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 167.0,
+   "video_1080_bitrate_mbps": 10.0,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f3.jpg"
    ]
   },
   "abu-continue-dhabi-expect-fia-planned-qatar-race": {
@@ -188,33 +206,103 @@
      "height": 1080
     }
    ]
+  },
+  "cristiano-down-erik-hag-let-manchester-ronaldo-ten-united": {
+   "type": "video",
+   "headline": "Cristiano Ronaldo let Manchester United down, says Erik ten Hag",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1731-yt",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs",
+   "source_title": "Can a Premier League Footballer Beat a Pro Photographer? Merlin Rohl vs Expired Film Club",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.0,
+   "source_duration": 516,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.8,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f3.jpg"
+   ]
+  },
+  "alia-bhatt-diagnosi-felt-relief": {
+   "type": "video",
+   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1731-yt",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
+   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "source_resolution": "1920x1080",
+   "source_fps": 23.98,
+   "source_duration": 3586,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 3015.0,
+   "trim_reason": "chapter 'Best advice from her father'",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt04-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt04-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.3,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f3.jpg"
+   ]
+  },
+  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
+   "type": "video",
+   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1731-yt",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
+   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "source_resolution": "1080x1920",
+   "source_fps": 30.0,
+   "source_duration": 15,
+   "duration": 15.42,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 17.9,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "american-announce-date-north-sienna-spiro-tour",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=JEmbyx8NLxA"
-  },
-  {
-   "key": "cristiano-down-erik-hag-let-manchester-ronaldo-ten-united",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
-  },
-  {
    "key": "ali-emotional-gets-golden-khan-offering-prayer-sara-temple-while",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "best source only 858p",
    "source_url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
-  },
-  {
-   "key": "alia-bhatt-diagnosi-felt-relief",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
-  },
-  {
-   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
   }
  ]
 }
