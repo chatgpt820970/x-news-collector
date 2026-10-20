@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T08:06:43Z",
- "generated_at_ist": "2026-10-20 13:36 IST",
+ "generated_at_utc": "2026-10-20T08:43:33Z",
+ "generated_at_ist": "2026-10-20 14:13 IST",
  "candidates_generated_at_utc": "2026-10-20T08:05:24Z",
  "candidates_generated_at_ist": "2026-10-20 13:35 IST",
  "release_tag": "m-20261020-0806",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-0806",
    "runtime_sec": 16,
    "generated_at_ist": "2026-10-20 13:36 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-0840-yt",
+   "runtime_sec": 208,
+   "generated_at_ist": "2026-10-20 14:13 IST"
   }
  ],
  "stats": {
-  "videos": 0,
-  "videos_4k": 0,
-  "photo_stories": 5,
-  "skipped": 5
+  "videos": 2,
+  "videos_4k": 1,
+  "photo_stories": 4,
+  "skipped": 3
  },
  "items": {
   "academy-best-carpet-gala-look-museum-red": {
@@ -45,21 +51,33 @@
    ]
   },
   "amg-antonelli-bmw-driver-george-kimi-mercede-powered-road-russell-suvs": {
-   "type": "photo",
+   "type": "video",
    "headline": "Mercedes-AMG F1 Drivers George Russell and Kimi Antonelli Go Off-Road in BMW-Powered SUVs",
    "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-amg-antonelli-bmw-driver-george-kimi-mercede-power-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-amg-antonelli-bmw-driver-george-kimi-mercede-power-p1.jpg",
-     "source_url": "https://s1.cdn.autoevolution.com/images/news/mercedes-amg-f1-drivers-george-russell-and-kimi-antonelli-go-off-road-in-bmw-powered-suvs-277264_1.jpeg",
-     "width": 1779,
-     "height": 1080
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0840-yt",
+   "source_url": "https://www.youtube.com/watch?v=bS4frukwJXU",
+   "source_title": "INEOS Grenadier Grit Stop with Kimi Antonelli & George Russell",
+   "source_resolution": "3840x2160",
+   "source_fps": 25.0,
+   "source_duration": 65,
+   "duration": 65.04,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "3840x2160",
+   "video_4k_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-2160.mp4",
+   "video_4k_resolution": "3840x2160",
+   "video_4k_size_mb": 206.8,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 75.5,
+   "video_1080_bitrate_mbps": 9.7,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f3.jpg"
    ]
   },
   "continue-kyuhyun-release-“-”": {
@@ -115,32 +133,52 @@
      "height": 1152
     }
    ]
+  },
+  "alway-leclerc-verstappen-yapping-🗣️": {
+   "type": "video",
+   "headline": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0840-yt",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A",
+   "source_title": "Leclerc & Verstappen - Always Yapping 🗣️",
+   "source_resolution": "1080x1920",
+   "source_fps": 50.0,
+   "source_duration": 26,
+   "duration": 26.25,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt04-alway-leclerc-verstappen-yapping-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 31.0,
+   "video_1080_bitrate_mbps": 9.9,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
    "key": "england-odi-pakistan-rawalpindi-serie-tri",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "no source could be read",
    "source_url": "https://www.youtube.com/watch?v=pVVagON6BIs"
   },
   {
-   "key": "amg-antonelli-bmw-driver-george-kimi-mercede-powered-road-russell-suvs",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=bS4frukwJXU"
-  },
-  {
    "key": "10-19-26-cook-raw-review-wwe",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=prG81LiIgbQ"
   },
   {
-   "key": "alway-leclerc-verstappen-yapping-🗣️",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
-  },
-  {
    "key": "chemistry-excite-jayshetty-only-short",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "best source only 720p",
    "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
   }
  ]
