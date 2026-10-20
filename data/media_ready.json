@@ -1,224 +1,36 @@
 {
- "generated_at_utc": "2026-10-20T17:33:59Z",
- "generated_at_ist": "2026-10-20 23:03 IST",
- "candidates_generated_at_utc": "2026-10-20T17:10:25Z",
- "candidates_generated_at_ist": "2026-10-20 22:40 IST",
- "release_tag": "m-20261020-1711",
+ "generated_at_utc": "2026-10-20T18:09:01Z",
+ "generated_at_ist": "2026-10-20 23:39 IST",
+ "candidates_generated_at_utc": "2026-10-20T18:05:28Z",
+ "candidates_generated_at_ist": "2026-10-20 23:35 IST",
+ "release_tag": "m-20261020-1806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-1711",
-   "runtime_sec": 62,
-   "generated_at_ist": "2026-10-20 22:42 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-1731-yt",
-   "runtime_sec": 161,
-   "generated_at_ist": "2026-10-20 23:03 IST"
+   "release_tag": "m-20261020-1806",
+   "runtime_sec": 160,
+   "generated_at_ist": "2026-10-20 23:39 IST"
   }
  ],
  "stats": {
-  "videos": 5,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 6,
-  "skipped": 1
+  "photo_stories": 2,
+  "skipped": 6
  },
  "items": {
-  "333-evloev-moment-movsar-ufc-waiting": {
+  "beat-dvalishvili-malley-merab-petr-rooting-sean-yan-’": {
    "type": "video",
-   "headline": "Movsar Evloev: 'This Moment Is What I've Been Waiting For' | UFC 333",
+   "headline": "Sean O’Malley Rooting for Petr Yan to Beat Merab Dvalishvili",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/36006700-6f00-4300-a700-6d0064004f00/1080p.mp4",
-   "source_title": "1080p",
+   "release_tag": "m-20261020-1806",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/e9e9385b-a9ca-3896-8e6b-b5943dd83458.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
+   "source_title": "e9e9385b-a9ca-3896-8e6b-b5943dd83458",
    "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": null,
-   "duration": 30.02,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1711/05-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 35.1,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-333-evloev-moment-movsar-ufc-waiting-f3.jpg"
-   ]
-  },
-  "american-announce-date-north-sienna-spiro-tour": {
-   "type": "video",
-   "headline": "Sienna Spiro Announces 2027 North American Tour Dates",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1731-yt",
-   "source_url": "https://www.youtube.com/watch?v=JEmbyx8NLxA",
-   "source_title": "Calvin Harris, Clementine Douglas - Blessings (Official Video)",
-   "source_resolution": "1920x1080",
-   "source_fps": 25.0,
-   "source_duration": 219,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 40.3,
-   "trim_reason": "heatmap peak at 80s",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt01-american-announce-date-north-sienna-spiro-tour-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt01-american-announce-date-north-sienna-spiro-tour-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 167.0,
-   "video_1080_bitrate_mbps": 10.0,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-american-announce-date-north-sienna-spiro-tour-f3.jpg"
-   ]
-  },
-  "abu-continue-dhabi-expect-fia-planned-qatar-race": {
-   "type": "photo",
-   "headline": "FIA expects F1 races in Qatar and Abu Dhabi to continue as planned",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p1.jpg",
-     "source_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1441887_hires.jpg?width=2048&aspect_ratio=16:9",
-     "width": 2048,
-     "height": 1152
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-continue-dhabi-expect-fia-planned-qatar-race-p2.jpg",
-     "source_url": "https://static.independent.co.uk/2026/07/06/17/c83c1144926b0d142275af9cbbc2d799Y29udGVudHNlYXJjaGFwaSwxNzgzNDI4NzI4-2.85184736.jpg?width=2048&crop=1200:800",
-     "width": 2048,
-     "height": 1365
-    }
-   ]
-  },
-  "10m-cars-driven-each-hamilton-mclaren-norri-sell-senna-£": {
-   "type": "photo",
-   "headline": "McLaren to sell F1 cars driven by Senna, Hamilton and Norris for up to £10m each",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-10m-cars-driven-each-hamilton-mclaren-norri-sell-s-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-10m-cars-driven-each-hamilton-mclaren-norri-sell-s-p1.jpg",
-     "source_url": "https://hermes.media.static.aol.com/media/2026/10/20/9bd718f4-d6dc-3366-b98f-5ea7ade7625b/a496d864-14de-4df0-a56b-89774ed7c7aa.jpeg",
-     "width": 2399,
-     "height": 1498
-    }
-   ]
-  },
-  "evloev-favored-roster-ufc-volkanovski": {
-   "type": "photo",
-   "headline": "Volkanovski Favored Over Evloev By UFC Roster",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p1.jpg",
-     "source_url": "https://vsin.com/wp-content/uploads/2026/10/2023-07-09T054214Z_1504680093_MT1USATODAY21013968_RTRMADP_3_MMA-UFC-290-VOLKANOVSKI-VS-RODRIGUEZ.jpg",
-     "width": 5015,
-     "height": 3343
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-evloev-favored-roster-ufc-volkanovski-p2.jpg",
-     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/07/GettyImages-2285701635-scaled.jpg",
-     "width": 1920,
-     "height": 1280
-    }
-   ]
-  },
-  "alum-bkfc-darren-jake-lambast-next-opponent-paul-speculation-till-ufc": {
-   "type": "photo",
-   "headline": "UFC alum Darren Till lambasts Jake Paul amid speculation about next BKFC opponent",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-alum-bkfc-darren-jake-lambast-next-opponent-paul-s-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-alum-bkfc-darren-jake-lambast-next-opponent-paul-s-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/Darren%20Till_20261020_161516_0000.webp",
-     "width": 1920,
-     "height": 1200
-    }
-   ]
-  },
-  "20m-flag-hyperliquid-laundering-ring-xmr-zachxbt": {
-   "type": "photo",
-   "headline": "ZachXBT Flags $20M XMR Laundering Ring on Hyperliquid",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-20m-flag-hyperliquid-laundering-ring-xmr-zachxbt-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-20m-flag-hyperliquid-laundering-ring-xmr-zachxbt-p1.jpg",
-     "source_url": "https://s.yimg.com/lo/mysterio/api/42a91429723431fd951a890c0edd10d8821520bec2d9dacb6d79ae6d0918fe7e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbankless_325%2Fc20bf451e6b09d15966dcfd97c7582de.png",
-     "width": 1200,
-     "height": 1200
-    }
-   ]
-  },
-  "chief-deepak-evoluteiq-founder-interview-kinger-officer-serie-strategy-–": {
-   "type": "photo",
-   "headline": "Deepak Kinger, Chief Strategy Officer and Co-founder of EvoluteIQ – Interview Series",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1711",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-chief-deepak-evoluteiq-founder-interview-kinger-of-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-chief-deepak-evoluteiq-founder-interview-kinger-of-p1.jpg",
-     "source_url": "https://www.unite.ai/wp-content/uploads/2026/10/Deepak-KingerEIQ.png",
-     "width": 1919,
-     "height": 1080
-    }
-   ]
-  },
-  "cristiano-down-erik-hag-let-manchester-ronaldo-ten-united": {
-   "type": "video",
-   "headline": "Cristiano Ronaldo let Manchester United down, says Erik ten Hag",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1731-yt",
-   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs",
-   "source_title": "Can a Premier League Footballer Beat a Pro Photographer? Merlin Rohl vs Expired Film Club",
-   "source_resolution": "1920x1080",
-   "source_fps": 25.0,
-   "source_duration": 516,
-   "duration": 140.0,
+   "source_fps": 29.97,
+   "source_duration": 339,
+   "duration": 140.01,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
    "trim_reason": "from 0:00",
@@ -226,83 +38,114 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1806/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.8,
-   "video_1080_bitrate_mbps": 10.3,
+   "video_1080_size_mb": 170.1,
+   "video_1080_bitrate_mbps": 10.2,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-cristiano-down-erik-hag-let-manchester-ronaldo-ten-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f3.jpg"
    ]
   },
-  "alia-bhatt-diagnosi-felt-relief": {
+  "bowl-halftime-himself-jay-pick-reportedly-show-super": {
    "type": "video",
-   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1731-yt",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
-   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "headline": "Jay-Z reportedly picks himself for Super Bowl halftime show",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1806",
+   "source_url": "https://dcs-vod.mp.lura.live/vod/p/master.m3u8?encp=z_ki9KpOuGLAouVuBpp-hw:-YSIWT_qXJ94pfi7Q9-YmoJ2QrdLEcYb__95Z0sIRcSGwuz3Q_vD37Lgbjj6EwHeRFi50QpK0i5BsPRsGnIeoIEWuQdyYHPjiLQ_zZW0aSY_uVA_blOrWXMCPvG4bNR4tRSbqdnlEN0sqeUfRdeNY8MZqLoaMts5Kos5dqmxvdlipdMy3RjsMbbaKG9iD78QM-MNX2qIycs8nRoHLivK2oadoedwsA3kKXrnSIiTildKE4M2_oQKfHjQPGn6pgxPCGXlggRsgYM6G4AudDYpuWOw2AL9AFi-Hpq3w7Fw0LfJ0Q9xX5ThHXV23oxbIzLdEbmOeeYP-rOHTqm1CQSKiyxrg1OZfQRxaQeAokYTfui6i95-WrkMjq9q9cgBk-ksRuhXSZhnU8kBRIK_92eDrvOXUhnoJ1A5BbA-4CC7xK791rJPMWug_fJcq33p01kqrgJeLfjcY8hI9VK8vYhpUA&anvtrid=98caf72872c88f07ecf595c0f68c7959&anvauth=tb=0~te=1792519673~sgn=47a75145eae38c0deb6407fc72cf1aa4d0d1165d81e25d80989306989019e884&t=1792519583",
+   "source_title": "master",
    "source_resolution": "1920x1080",
-   "source_fps": 23.98,
-   "source_duration": 3586,
-   "duration": 140.04,
+   "source_fps": 29.97,
+   "source_duration": 268,
+   "duration": 140.01,
    "trimmed_to_140s": true,
-   "trim_start_sec": 3015.0,
-   "trim_reason": "chapter 'Best advice from her father'",
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
    "resolution": "1920x1080",
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt04-alia-bhatt-diagnosi-felt-relief-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt04-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1806/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.3,
+   "video_1080_size_mb": 171.1,
    "video_1080_bitrate_mbps": 10.3,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alia-bhatt-diagnosi-felt-relief-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f3.jpg"
    ]
   },
-  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
-   "type": "video",
-   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1731-yt",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
-   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "source_resolution": "1080x1920",
-   "source_fps": 30.0,
-   "source_duration": 15,
-   "duration": 15.42,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1731-yt/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 17.9,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+  "album-gaga-hiatu-hint-indefinite-lady": {
+   "type": "photo",
+   "headline": "Lady Gaga hints at new album amid indefinite hiatus",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg",
+     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P106DJXT-e1792498389889.jpg?w=2048",
+     "width": 1800,
+     "height": 1200
+    }
+   ]
+  },
+  "333-evloev-fighter-rise-ufc-volkanovski": {
+   "type": "photo",
+   "headline": "Fighters on the Rise | UFC 333: Volkanovski vs Evloev",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fighter-rise-ufc-volkanovski-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fighter-rise-ufc-volkanovski-p1.jpg",
+     "source_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1940926032-e1792516155455.jpg?quality=65&strip=all",
+     "width": 3136,
+     "height": 1767
+    }
    ]
   }
  },
  "skipped": [
   {
-   "key": "ali-emotional-gets-golden-khan-offering-prayer-sara-temple-while",
-   "reason": "best source only 858p",
-   "source_url": "https://www.youtube.com/watch?v=hN_ZUElLH44"
+   "key": "20-2nd-match-odi-pakistan-rawalpindi-serie-tri",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
+  },
+  {
+   "key": "album-gaga-hiatu-hint-indefinite-lady",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ"
+  },
+  {
+   "key": "did-drake-janice-steal-stfu-“-”",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek"
+  },
+  {
+   "key": "alia-bhatt-diagnosi-felt-relief",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
+  },
+  {
+   "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
+  },
+  {
+   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
   }
  ]
 }
