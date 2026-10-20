@@ -1,185 +1,162 @@
 {
- "generated_at_utc": "2026-10-20T08:43:33Z",
- "generated_at_ist": "2026-10-20 14:13 IST",
- "candidates_generated_at_utc": "2026-10-20T08:05:24Z",
- "candidates_generated_at_ist": "2026-10-20 13:35 IST",
- "release_tag": "m-20261020-0806",
+ "generated_at_utc": "2026-10-20T15:07:21Z",
+ "generated_at_ist": "2026-10-20 20:37 IST",
+ "candidates_generated_at_utc": "2026-10-20T15:05:26Z",
+ "candidates_generated_at_ist": "2026-10-20 20:35 IST",
+ "release_tag": "m-20261020-1506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-0806",
-   "runtime_sec": 16,
-   "generated_at_ist": "2026-10-20 13:36 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-0840-yt",
-   "runtime_sec": 208,
-   "generated_at_ist": "2026-10-20 14:13 IST"
+   "release_tag": "m-20261020-1506",
+   "runtime_sec": 37,
+   "generated_at_ist": "2026-10-20 20:37 IST"
   }
  ],
  "stats": {
-  "videos": 2,
-  "videos_4k": 1,
+  "videos": 1,
+  "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 3
+  "skipped": 7
  },
  "items": {
-  "academy-best-carpet-gala-look-museum-red": {
-   "type": "photo",
-   "headline": "The Best Red Carpet Looks at Academy Museum Gala 2026",
+  "333-evloev-moment-movsar-ufc-waiting": {
+   "type": "video",
+   "headline": "Movsar Evloev: 'This Moment Is What I've Been Waiting For' | UFC 333",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p1.jpg",
-     "source_url": "https://www.datocms-assets.com/55010/1792467012-1792328363-academy-museum-gala-2026-migliori-look-star-celebrities-foto-lofficiel1.jpg?auto=format&fit=max&w=2048",
-     "width": 2048,
-     "height": 1365
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p2.jpg",
-     "source_url": "https://www.stylerave.com/wp-content/uploads/2026/10/academy-museum-gala.jpeg",
-     "width": 1280,
-     "height": 1280
-    }
-   ]
-  },
-  "amg-antonelli-bmw-driver-george-kimi-mercede-powered-road-russell-suvs": {
-   "type": "video",
-   "headline": "Mercedes-AMG F1 Drivers George Russell and Kimi Antonelli Go Off-Road in BMW-Powered SUVs",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0840-yt",
-   "source_url": "https://www.youtube.com/watch?v=bS4frukwJXU",
-   "source_title": "INEOS Grenadier Grit Stop with Kimi Antonelli & George Russell",
-   "source_resolution": "3840x2160",
-   "source_fps": 25.0,
-   "source_duration": 65,
-   "duration": 65.04,
+   "release_tag": "m-20261020-1506",
+   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/36006700-6f00-4300-a700-6d0064004f00/1080p.mp4",
+   "source_title": "1080p",
+   "source_resolution": "1920x1080",
+   "source_fps": 30.0,
+   "source_duration": null,
+   "duration": 30.02,
    "trimmed_to_140s": false,
    "trim_start_sec": 0,
    "trim_reason": "full",
-   "resolution": "3840x2160",
-   "video_4k_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-2160.mp4",
-   "video_4k_resolution": "3840x2160",
-   "video_4k_size_mb": 206.8,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 75.5,
-   "video_1080_bitrate_mbps": 9.7,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-amg-antonelli-bmw-driver-george-kimi-mercede-power-f3.jpg"
-   ]
-  },
-  "continue-kyuhyun-release-“-”": {
-   "type": "photo",
-   "headline": "Kyuhyun to Release New EP “CONTINUE” in November",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-continue-kyuhyun-release-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-continue-kyuhyun-release-p1.jpg",
-     "source_url": "https://www.chosun.com/resizer/v2/GYYTANJXGBSTOOLDHEYWIYJXGM.jpg?auth=6196916b6b5f47679863755a2ee2da03a582cfc03e17d96fb1fa9453a66f758e&width=2048&smart=true",
-     "width": 2048,
-     "height": 1150
-    }
-   ]
-  },
-  "deposit-engineer-glamsterdam-hijack-lido-staking-warn": {
-   "type": "photo",
-   "headline": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-deposit-engineer-glamsterdam-hijack-lido-staking-w-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-deposit-engineer-glamsterdam-hijack-lido-staking-w-p1.jpg",
-     "source_url": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=2048&fit=max&fm=jpg&q=75&bg=ffffff",
-     "width": 2048,
-     "height": 1152
-    }
-   ]
-  },
-  "best-during-holiday-investment-make": {
-   "type": "photo",
-   "headline": "The Best Investments You Can Make During the Holidays",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg",
-     "source_url": "https://images.ctfassets.net/38eowqxxlfkc/tFSvqSZZ3aJ6kvBxHsbj4/8d22284e5509ad6167d13e67682c8b0b/woman-calculating-christmas-holiday-budget_iStock-1352656173.jpg?fm=jpg&q=95&w=2048&fit=fill&f=face",
-     "width": 2048,
-     "height": 1152
-    }
-   ]
-  },
-  "alway-leclerc-verstappen-yapping-🗣️": {
-   "type": "video",
-   "headline": "Leclerc & Verstappen - Always Yapping 🗣️",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0840-yt",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A",
-   "source_title": "Leclerc & Verstappen - Always Yapping 🗣️",
-   "source_resolution": "1080x1920",
-   "source_fps": 50.0,
-   "source_duration": 26,
-   "duration": 26.25,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
+   "resolution": "1920x1080",
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0840-yt/yt04-alway-leclerc-verstappen-yapping-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 31.0,
-   "video_1080_bitrate_mbps": 9.9,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1506/06-333-evloev-moment-movsar-ufc-waiting-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 35.1,
+   "video_1080_bitrate_mbps": 9.8,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-alway-leclerc-verstappen-yapping-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-333-evloev-moment-movsar-ufc-waiting-f3.jpg"
+   ]
+  },
+  "album-gaga-hiatu-hint-indefinite-lady": {
+   "type": "photo",
+   "headline": "Lady Gaga hints at new album amid indefinite hiatus",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg",
+     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P106DJXT-e1792498389889.jpg?w=2048",
+     "width": 1800,
+     "height": 1200
+    }
+   ]
+  },
+  "almost-chri-hollywood-like-name-one-pratt-ridiculou-went-word-zendaya": {
+   "type": "photo",
+   "headline": "Chris Pratt Almost Went With A One-Word Name In Hollywood. (Like Zendaya, But Ridiculous)",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-almost-chri-hollywood-like-name-one-pratt-ridiculo-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-almost-chri-hollywood-like-name-one-pratt-ridiculo-p1.jpg",
+     "source_url": "https://cdn.mos.cms.futurecdn.net/wQoGNsHjgEaqHQ23o6o2MU-2000-80.jpg",
+     "width": 2000,
+     "height": 1125
+    }
+   ]
+  },
+  "award-company-data-finalist-industry-merit-spotlight-technology": {
+   "type": "photo",
+   "headline": "Company spotlight: Merit Data & Technology, UK IT Industry Awards 2026 finalist",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-award-company-data-finalist-industry-merit-spotlig-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-award-company-data-finalist-industry-merit-spotlig-p1.jpg",
+     "source_url": "https://www.computing.co.uk/sponsored/2026/media_1fbc8baa9ea88a3dab428cdea3460fb210314d1a5.jpg?width=2048&format=pjpg&optimize=medium",
+     "width": 2048,
+     "height": 1365
+    }
+   ]
+  },
+  "3-actually-alternative-code-give-leave-reason": {
+   "type": "photo",
+   "headline": "These 3 VS Code alternatives actually give you a reason to leave VS Code",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-3-actually-alternative-code-give-leave-reason-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-actually-alternative-code-give-leave-reason-p1.jpg",
+     "source_url": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/10/closer-angle-of-a-macbook-on-code-visualstudio-com-with-the-download-for-macos-button.jpeg?w=2048&fit=crop",
+     "width": 2048,
+     "height": 1366
+    }
    ]
   }
  },
  "skipped": [
   {
-   "key": "england-odi-pakistan-rawalpindi-serie-tri",
-   "reason": "no source could be read",
-   "source_url": "https://www.youtube.com/watch?v=pVVagON6BIs"
+   "key": "back-charle-england-harry-important-king-most-move-open-prince-reconcile-thing",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=6-rhaR1ZlAs"
   },
   {
-   "key": "10-19-26-cook-raw-review-wwe",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=prG81LiIgbQ"
+   "key": "album-gaga-hiatu-hint-indefinite-lady",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ"
   },
   {
-   "key": "chemistry-excite-jayshetty-only-short",
-   "reason": "best source only 720p",
-   "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
+   "key": "almost-chri-hollywood-like-name-one-pratt-ridiculou-went-word-zendaya",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=UpM0RaEvOWY"
+  },
+  {
+   "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
+  },
+  {
+   "key": "applegate-christina-does-misdiagnosed-reveal",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=UvDm3V8pVSQ"
+  },
+  {
+   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
+  },
+  {
+   "key": "alway-leclerc-verstappen-yapping-🗣️",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
   }
  ]
 }
