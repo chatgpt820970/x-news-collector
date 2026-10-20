@@ -1,66 +1,35 @@
 {
- "generated_at_utc": "2026-10-20T04:29:48Z",
- "generated_at_ist": "2026-10-20 09:59 IST",
- "candidates_generated_at_utc": "2026-10-20T04:05:25Z",
- "candidates_generated_at_ist": "2026-10-20 09:35 IST",
- "release_tag": "m-20261020-0406",
+ "generated_at_utc": "2026-10-20T05:08:42Z",
+ "generated_at_ist": "2026-10-20 10:38 IST",
+ "candidates_generated_at_utc": "2026-10-20T05:05:23Z",
+ "candidates_generated_at_ist": "2026-10-20 10:35 IST",
+ "release_tag": "m-20261020-0506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-0406",
-   "runtime_sec": 26,
-   "generated_at_ist": "2026-10-20 09:36 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-0424-yt",
-   "runtime_sec": 332,
-   "generated_at_ist": "2026-10-20 09:59 IST"
+   "release_tag": "m-20261020-0506",
+   "runtime_sec": 137,
+   "generated_at_ist": "2026-10-20 10:38 IST"
   }
  ],
  "stats": {
-  "videos": 2,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 3,
-  "skipped": 5
+  "photo_stories": 5,
+  "skipped": 4
  },
  "items": {
-  "3-333-countdown-dvalishvili-merab-petr-ufc-yan": {
-   "type": "photo",
-   "headline": "UFC 333 Countdown: Petr Yan vs. Merab Dvalishvili 3",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0406",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/petr-yan.webp",
-     "width": 1920,
-     "height": 1200
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p2.jpg",
-     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2025/05/GettyImages-1435653703-scaled.jpg",
-     "width": 1920,
-     "height": 1394
-    }
-   ]
-  },
-  "backstage-claim-confrontation-gable-him-knock-nickal-steveson-threatened": {
+  "clashe-course-doj-federal-golf-judge-wrap": {
    "type": "video",
-   "headline": "Bo Nickal claims Gable Steveson threatened to knock him out in backstage confrontation",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0424-yt",
-   "source_url": "https://www.youtube.com/watch?v=78rPPj5PotU",
-   "source_title": "Petr Yan, Bo Nickal, Mike Malott, Jasmine Jasudavicius, Weekend Recap, More | TAHS | 10/19/26",
+   "headline": "News Wrap: Federal judge clashes with DOJ over D.C. golf course",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0506",
+   "source_url": "https://player.pbs.org/viralplayer/3114718482",
+   "source_title": "PBS News Hour - News Wrap: Judge clashes with DOJ over D.C. golf course",
    "source_resolution": "1920x1080",
-   "source_fps": 59.94,
-   "source_duration": 16380,
+   "source_fps": 29.97,
+   "source_duration": 271,
    "duration": 140.01,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
@@ -69,32 +38,86 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt06-backstage-claim-confrontation-gable-him-knock-nick-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt06-backstage-claim-confrontation-gable-him-knock-nick-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0506/05-clashe-course-doj-federal-golf-judge-wrap-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 168.7,
-   "video_1080_bitrate_mbps": 10.1,
+   "video_1080_size_mb": 171.2,
+   "video_1080_bitrate_mbps": 10.3,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f3.jpg"
    ]
   },
-  "abu-andrea-black-bocelli-clubbing-coffee-concert-dhabi-dragon-guide-imagine": {
+  "carpet-celebrity-fashion-look-red-secret-show-victoria": {
    "type": "photo",
-   "headline": "Abu Dhabi F1 concert and clubbing guide, from Andrea Bocelli and Imagine Dragons to Black Coffee",
-   "category": "sports",
+   "headline": "Victoria's Secret Fashion Show 2026: Celebrity Red Carpet Looks",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0406",
+   "release_tag": "m-20261020-0506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-abu-andrea-black-bocelli-clubbing-coffee-concert-d-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-andrea-black-bocelli-clubbing-coffee-concert-d-p1.jpg",
-     "source_url": "https://www.thenationalnews.com/resizer/v2/HHAFOKI7NVDGZM7R72J5FHNHUU.jpg?auth=473041fcb4aa8a08ce90f220e12edeab03f2996203d313d1828124b4093bcbda&focal=1948%2C1351&width=2048",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg",
+     "source_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261018/b3c3c3f7-9416-4f68-8d68-ce0badd67103_1792361237.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+     "width": 1200,
+     "height": 1200
+    }
+   ]
+  },
+  "333-alexander-countdown-evloev-movsar-ufc-volkanovski": {
+   "type": "photo",
+   "headline": "UFC 333 Countdown: Alexander Volkanovski vs. Movsar Evloev",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-countdown-evloev-movsar-ufc-volkanov-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-countdown-evloev-movsar-ufc-volkanov-p1.jpg",
+     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2025/04/GettyImages-2188815279-scaled.jpg",
+     "width": 1920,
+     "height": 1280
+    }
+   ]
+  },
+  "drake-maye-three-tosse-win": {
+   "type": "photo",
+   "headline": "Drake Maye Three more TD tosses in win",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-drake-maye-three-tosse-win-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-drake-maye-three-tosse-win-p1.jpg",
+     "source_url": "https://www.audacy.com/media-library/image.jpg?id=68486150&width=2048",
      "width": 2048,
-     "height": 1536
+     "height": 1152
+    }
+   ]
+  },
+  "agenda-arrive-india-marco-rubio-security-technology-trade": {
+   "type": "photo",
+   "headline": "Marco Rubio to arrive in India today; trade, security and technology on agenda | India News",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-agenda-arrive-india-marco-rubio-security-technolog-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-agenda-arrive-india-marco-rubio-security-technolog-p1.jpg",
+     "source_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-26T055926Z_1447473893_RC2TGLAS2BBQ_RTRMADP_3_INDIA-USA-1792229243.jpg?resize=2048%2C1440",
+     "width": 2048,
+     "height": 1440
     }
    ]
   },
@@ -103,7 +126,7 @@
    "headline": "The Best Investments You Can Make During the Holidays",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0406",
+   "release_tag": "m-20261020-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg"
    ],
@@ -115,63 +138,28 @@
      "height": 1152
     }
    ]
-  },
-  "come-comparison-down-enrique-football-going-lamine-lionel-luis-messi-nobody-play": {
-   "type": "video",
-   "headline": "Luis Enrique plays down Lamine Yamal comparisons with Lionel Messi: ‘Nobody is going to come out on top’ | Football News",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0424-yt",
-   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs",
-   "source_title": "Hindustan Times@100 - Voice Of The Nation. Since 1924 | #HTat100",
-   "source_resolution": "1920x1080",
-   "source_fps": 25.0,
-   "source_duration": 117,
-   "duration": 117.0,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt02-come-comparison-down-enrique-football-going-lamine-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 131.9,
-   "video_1080_bitrate_mbps": 9.5,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f3.jpg"
-   ]
   }
  },
  "skipped": [
   {
-   "key": "ant-dougla-man-marvel-michael-misery-put-won",
-   "reason": "download failed or under 1080p",
+   "key": "ant-asked-dougla-killed-let-man-marvel-michael-wouldn-‘-’-“",
+   "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
   },
   {
-   "key": "3-333-countdown-dvalishvili-merab-petr-ufc-yan",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=FeVkOM0NUJo"
+   "key": "documentary-elon-florida-musk-see-slammed",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=BzZfEbA1_Po"
   },
   {
-   "key": "ann-brown-drake-judy",
-   "reason": "best source only 720p",
-   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/6d5f195f-2b94-438e-801a-18b40fb82396/720p.mp4"
+   "key": "agenda-arrive-india-marco-rubio-security-technology-trade",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs"
   },
   {
-   "key": "66-ann-critic-dies-film-hornaday-longtime-post-washington",
-   "reason": "best source only 720p",
-   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/6d5f195f-2b94-438e-801a-18b40fb82396/720p.mp4"
-  },
-  {
-   "key": "adelaide-challenge-perth-scorcher-spring-striker-t20",
+   "key": "drake-maye-three-tosse-win",
    "reason": "no source could be read",
-   "source_url": "https://m.cricbuzz.com/cricket-videos/214376/short-highlights-south-africa-vs-australia-day-2-2nd-test"
+   "source_url": "https://www.dailymotion.com/embed/video/xbpnd8m"
   }
  ]
 }
