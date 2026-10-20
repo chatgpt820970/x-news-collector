@@ -1,142 +1,101 @@
 {
- "generated_at_utc": "2026-10-20T05:11:13Z",
- "generated_at_ist": "2026-10-20 10:41 IST",
- "candidates_generated_at_utc": "2026-10-20T05:05:23Z",
- "candidates_generated_at_ist": "2026-10-20 10:35 IST",
- "release_tag": "m-20261020-0506",
+ "generated_at_utc": "2026-10-20T08:06:43Z",
+ "generated_at_ist": "2026-10-20 13:36 IST",
+ "candidates_generated_at_utc": "2026-10-20T08:05:24Z",
+ "candidates_generated_at_ist": "2026-10-20 13:35 IST",
+ "release_tag": "m-20261020-0806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-0506",
-   "runtime_sec": 137,
-   "generated_at_ist": "2026-10-20 10:38 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-0508-yt",
-   "runtime_sec": 185,
-   "generated_at_ist": "2026-10-20 10:41 IST"
+   "release_tag": "m-20261020-0806",
+   "runtime_sec": 16,
+   "generated_at_ist": "2026-10-20 13:36 IST"
   }
  ],
  "stats": {
-  "videos": 4,
+  "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 1
+  "photo_stories": 5,
+  "skipped": 5
  },
  "items": {
-  "clashe-course-doj-federal-golf-judge-wrap": {
-   "type": "video",
-   "headline": "News Wrap: Federal judge clashes with DOJ over D.C. golf course",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
-   "source_url": "https://player.pbs.org/viralplayer/3114718482",
-   "source_title": "PBS News Hour - News Wrap: Judge clashes with DOJ over D.C. golf course",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 271,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0506/05-clashe-course-doj-federal-golf-judge-wrap-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.2,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-clashe-course-doj-federal-golf-judge-wrap-f3.jpg"
-   ]
-  },
-  "carpet-celebrity-fashion-look-red-secret-show-victoria": {
+  "academy-best-carpet-gala-look-museum-red": {
    "type": "photo",
-   "headline": "Victoria's Secret Fashion Show 2026: Celebrity Red Carpet Looks",
+   "headline": "The Best Red Carpet Looks at Academy Museum Gala 2026",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
+   "release_tag": "m-20261020-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg",
-     "source_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261018/b3c3c3f7-9416-4f68-8d68-ce0badd67103_1792361237.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-     "width": 1200,
-     "height": 1200
-    }
-   ]
-  },
-  "333-alexander-countdown-evloev-movsar-ufc-volkanovski": {
-   "type": "photo",
-   "headline": "UFC 333 Countdown: Alexander Volkanovski vs. Movsar Evloev",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-countdown-evloev-movsar-ufc-volkanov-p1.jpg"
-   ],
-   "photos": [
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p1.jpg",
+     "source_url": "https://www.datocms-assets.com/55010/1792467012-1792328363-academy-museum-gala-2026-migliori-look-star-celebrities-foto-lofficiel1.jpg?auto=format&fit=max&w=2048",
+     "width": 2048,
+     "height": 1365
+    },
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-countdown-evloev-movsar-ufc-volkanov-p1.jpg",
-     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2025/04/GettyImages-2188815279-scaled.jpg",
-     "width": 1920,
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-best-carpet-gala-look-museum-red-p2.jpg",
+     "source_url": "https://www.stylerave.com/wp-content/uploads/2026/10/academy-museum-gala.jpeg",
+     "width": 1280,
      "height": 1280
     }
    ]
   },
-  "drake-maye-three-tosse-win": {
+  "amg-antonelli-bmw-driver-george-kimi-mercede-powered-road-russell-suvs": {
    "type": "photo",
-   "headline": "Drake Maye Three more TD tosses in win",
-   "category": "celebrity_music",
+   "headline": "Mercedes-AMG F1 Drivers George Russell and Kimi Antonelli Go Off-Road in BMW-Powered SUVs",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
+   "release_tag": "m-20261020-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-drake-maye-three-tosse-win-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-amg-antonelli-bmw-driver-george-kimi-mercede-power-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-drake-maye-three-tosse-win-p1.jpg",
-     "source_url": "https://www.audacy.com/media-library/image.jpg?id=68486150&width=2048",
-     "width": 2048,
-     "height": 1152
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-amg-antonelli-bmw-driver-george-kimi-mercede-power-p1.jpg",
+     "source_url": "https://s1.cdn.autoevolution.com/images/news/mercedes-amg-f1-drivers-george-russell-and-kimi-antonelli-go-off-road-in-bmw-powered-suvs-277264_1.jpeg",
+     "width": 1779,
+     "height": 1080
     }
    ]
   },
-  "agenda-arrive-india-marco-rubio-security-technology-trade": {
-   "type": "video",
-   "headline": "Marco Rubio to arrive in India today; trade, security and technology on agenda | India News",
+  "continue-kyuhyun-release-“-”": {
+   "type": "photo",
+   "headline": "Kyuhyun to Release New EP “CONTINUE” in November",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-continue-kyuhyun-release-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-continue-kyuhyun-release-p1.jpg",
+     "source_url": "https://www.chosun.com/resizer/v2/GYYTANJXGBSTOOLDHEYWIYJXGM.jpg?auth=6196916b6b5f47679863755a2ee2da03a582cfc03e17d96fb1fa9453a66f758e&width=2048&smart=true",
+     "width": 2048,
+     "height": 1150
+    }
+   ]
+  },
+  "deposit-engineer-glamsterdam-hijack-lido-staking-warn": {
+   "type": "photo",
+   "headline": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
    "category": "other",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0508-yt",
-   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs",
-   "source_title": "Hindustan Times@100 - Voice Of The Nation. Since 1924 | #HTat100",
-   "source_resolution": "1920x1080",
-   "source_fps": 25.0,
-   "source_duration": 117,
-   "duration": 116.97,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt04-agenda-arrive-india-marco-rubio-security-technolog-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 131.4,
-   "video_1080_bitrate_mbps": 9.4,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-deposit-engineer-glamsterdam-hijack-lido-staking-w-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-deposit-engineer-glamsterdam-hijack-lido-staking-w-p1.jpg",
+     "source_url": "https://cdn.sanity.io/images/6oftkxoa/production/56df78608359e19a18ef58e22e2a527a7551431a-2048x1152.png?w=2048&fit=max&fm=jpg&q=75&bg=ffffff",
+     "width": 2048,
+     "height": 1152
+    }
    ]
   },
   "best-during-holiday-investment-make": {
@@ -144,7 +103,7 @@
    "headline": "The Best Investments You Can Make During the Holidays",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
+   "release_tag": "m-20261020-0806",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg"
    ],
@@ -156,73 +115,33 @@
      "height": 1152
     }
    ]
-  },
-  "ant-asked-dougla-killed-let-man-marvel-michael-wouldn-‘-’-“": {
-   "type": "video",
-   "headline": "Michael Douglas Asked To Be Killed Off Marvel’s ‘Ant-Man’: “They Wouldn’t Let Me”",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0508-yt",
-   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI",
-   "source_title": "Michael Douglas on ONE HELLUVA RIDE, WALL STREET, ANT-MAN, BEHIND THE CANDELABRA, & more!",
-   "source_resolution": "1920x1080",
-   "source_fps": 59.94,
-   "source_duration": 4046,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.2,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f3.jpg"
-   ]
-  },
-  "documentary-elon-florida-musk-see-slammed": {
-   "type": "video",
-   "headline": "'Musk' documentary slammed by Elon Musk. Where to see it in Florida",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-0508-yt",
-   "source_url": "https://www.youtube.com/watch?v=BzZfEbA1_Po",
-   "source_title": "Musk | \"Let Me Sell You a Dream\" Music Video | Bleecker Street",
-   "source_resolution": "3840x1920",
-   "source_fps": 23.98,
-   "source_duration": 189,
-   "duration": 140.04,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "2160x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt02-documentary-elon-florida-musk-see-slammed-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt02-documentary-elon-florida-musk-see-slammed-1080.mp4",
-   "video_1080_resolution": "2160x1080",
-   "video_1080_size_mb": 169.1,
-   "video_1080_bitrate_mbps": 10.1,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f3.jpg"
-   ]
   }
  },
  "skipped": [
   {
-   "key": "drake-maye-three-tosse-win",
-   "reason": "no source could be read",
-   "source_url": "https://www.dailymotion.com/embed/video/xbpnd8m"
+   "key": "england-odi-pakistan-rawalpindi-serie-tri",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=pVVagON6BIs"
+  },
+  {
+   "key": "amg-antonelli-bmw-driver-george-kimi-mercede-powered-road-russell-suvs",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=bS4frukwJXU"
+  },
+  {
+   "key": "10-19-26-cook-raw-review-wwe",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=prG81LiIgbQ"
+  },
+  {
+   "key": "alway-leclerc-verstappen-yapping-🗣️",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
+  },
+  {
+   "key": "chemistry-excite-jayshetty-only-short",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
   }
  ]
 }
