@@ -1,263 +1,215 @@
 {
- "generated_at_utc": "2026-10-20T18:14:44Z",
- "generated_at_ist": "2026-10-20 23:44 IST",
- "candidates_generated_at_utc": "2026-10-20T18:05:28Z",
- "candidates_generated_at_ist": "2026-10-20 23:35 IST",
- "release_tag": "m-20261020-1806",
+ "generated_at_utc": "2026-10-20T23:06:56Z",
+ "generated_at_ist": "2026-10-21 04:36 IST",
+ "candidates_generated_at_utc": "2026-10-20T23:05:25Z",
+ "candidates_generated_at_ist": "2026-10-21 04:35 IST",
+ "release_tag": "m-20261020-2306",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-1806",
-   "runtime_sec": 160,
-   "generated_at_ist": "2026-10-20 23:39 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "runtime_sec": 395,
-   "generated_at_ist": "2026-10-20 23:44 IST"
+   "release_tag": "m-20261020-2306",
+   "runtime_sec": 20,
+   "generated_at_ist": "2026-10-21 04:36 IST"
   }
  ],
  "stats": {
-  "videos": 7,
+  "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 1,
-  "skipped": 1
+  "photo_stories": 8,
+  "skipped": 8
  },
  "items": {
-  "beat-dvalishvili-malley-merab-petr-rooting-sean-yan-’": {
-   "type": "video",
-   "headline": "Sean O’Malley Rooting for Petr Yan to Beat Merab Dvalishvili",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1806",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/e9e9385b-a9ca-3896-8e6b-b5943dd83458.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-   "source_title": "e9e9385b-a9ca-3896-8e6b-b5943dd83458",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 339,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1806/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.1,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/02-beat-dvalishvili-malley-merab-petr-rooting-sean-ya-f3.jpg"
-   ]
-  },
-  "bowl-halftime-himself-jay-pick-reportedly-show-super": {
-   "type": "video",
-   "headline": "Jay-Z reportedly picks himself for Super Bowl halftime show",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=wCYasv5wRVk",
-   "source_title": "Super Bowl Halftime: SZA Performs HITS with Kendrick Lamar",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 58,
-   "duration": 57.6,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 64.7,
-   "video_1080_bitrate_mbps": 9.4,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f3.jpg"
-   ]
-  },
-  "album-gaga-hiatu-hint-indefinite-lady": {
-   "type": "video",
-   "headline": "Lady Gaga hints at new album amid indefinite hiatus",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ",
-   "source_title": "Andrew Watt on Madonna, Gaga, Elton John, McCartney, the Stones, & Ozzy | The Rolling Stone Studio",
-   "source_resolution": "3840x2160",
-   "source_fps": 23.98,
-   "source_duration": 2092,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "3840x2160",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt03-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt03-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.1,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f3.jpg"
-   ]
-  },
-  "333-evloev-fighter-rise-ufc-volkanovski": {
+  "76er-era-jame-lebron-philadelphia-podcast-sixer-start": {
    "type": "photo",
-   "headline": "Fighters on the Rise | UFC 333: Volkanovski vs Evloev",
-   "category": "celebrity_music",
+   "headline": "The Sixers' LeBron James Era starts TONIGHT!!! - Philadelphia 76ers Podcast",
+   "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-1806",
+   "release_tag": "m-20261020-2306",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fighter-rise-ufc-volkanovski-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-76er-era-jame-lebron-philadelphia-podcast-sixer-st-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fighter-rise-ufc-volkanovski-p1.jpg",
-     "source_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1940926032-e1792516155455.jpg?quality=65&strip=all",
-     "width": 3136,
-     "height": 1767
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-76er-era-jame-lebron-philadelphia-podcast-sixer-st-p1.jpg",
+     "source_url": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-nmtj5152o-1792365338611.jpg?quality=75&strip=all&1792351002&w=2048",
+     "width": 2000,
+     "height": 1333
     }
    ]
   },
-  "20-2nd-match-odi-pakistan-rawalpindi-serie-tri": {
-   "type": "video",
-   "headline": "2nd Match (D/N), Pakistan ODI Tri-Series at Rawalpindi, Oct 20 2026",
+  "africa-bavuma-south-stood-stumbled-tall": {
+   "type": "photo",
+   "headline": "When South Africa stumbled, Bavuma stood tall",
    "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs",
-   "source_title": "Can a Premier League Footballer Beat a Pro Photographer? Merlin Rohl vs Expired Film Club",
-   "source_resolution": "1920x1080",
-   "source_fps": 25.0,
-   "source_duration": 516,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.8,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-africa-bavuma-south-stood-stumbled-tall-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-africa-bavuma-south-stood-stumbled-tall-p1.jpg",
+     "source_url": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=2048",
+     "width": 2048,
+     "height": 1365
+    }
    ]
   },
-  "did-drake-janice-steal-stfu-“-”": {
-   "type": "video",
-   "headline": "Did Drake Steal “Janice STFU”?",
+  "333-evloev-fight-intelligently-movsar-ufc": {
+   "type": "photo",
+   "headline": "Movsar Evloev will have to fight intelligently at UFC 333",
    "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
-   "source_title": "Drake - Janice STFU",
-   "source_resolution": "2968x2160",
-   "source_fps": 24.0,
-   "source_duration": 236,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "heatmap peak at 27s",
-   "resolution": "2968x2160",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt04-did-drake-janice-steal-stfu-1080.mp4",
-   "video_1080_resolution": "1484x1080",
-   "video_1080_size_mb": 172.7,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/movsar-evloev-vs-alexander-volkanovski.webp",
+     "width": 1920,
+     "height": 1200
+    }
    ]
   },
-  "alia-bhatt-diagnosi-felt-relief": {
-   "type": "video",
-   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
-   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
-   "source_resolution": "1920x1080",
-   "source_fps": 23.98,
-   "source_duration": 3586,
-   "duration": 140.04,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 3015.0,
-   "trim_reason": "chapter 'Best advice from her father'",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt06-alia-bhatt-diagnosi-felt-relief-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt06-alia-bhatt-diagnosi-felt-relief-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.3,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f3.jpg"
+  "american-back-bad-bowl-bringing-bunny-himself-jay-legend-move-music-super": {
+   "type": "photo",
+   "headline": "Move Over, Bad Bunny. Jay-Z Is Bringing An American Music Legend Back To The Super Bowl: Himself",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-american-back-bad-bowl-bringing-bunny-himself-jay-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-american-back-bad-bowl-bringing-bunny-himself-jay-p1.jpg",
+     "source_url": "https://dw-wp-production.imgix.net/2026/10/jay-z-copy.jpg?ar=16%3A9&auto=compress&crop=faces&cs=origin&fit=crop&w=2048&ixlib=react-9.11.0",
+     "width": 2048,
+     "height": 1152
+    }
    ]
   },
-  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
-   "type": "video",
-   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+  "abuse-bid-human-right-rwanda-spark-uproar-winning": {
+   "type": "photo",
+   "headline": "Rwanda’s winning F1 bid sparks uproar over human rights abuses",
    "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261020-1808-yt",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
-   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "source_resolution": "1080x1920",
-   "source_fps": 30.0,
-   "source_duration": 15,
-   "duration": 15.42,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 17.9,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-abuse-bid-human-right-rwanda-spark-uproar-winning-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abuse-bid-human-right-rwanda-spark-uproar-winning-p1.jpg",
+     "source_url": "https://www.theglobeandmail.com/resizer/v2/J772X7VWMNFALG5557ABRNXFXE.jpg?auth=cdb4a89a9042fe63f7ba52eee95df5a2c9dac2009c9fe55f28909682db7a213b&width=2048&quality=80&smart=true",
+     "width": 2048,
+     "height": 1365
+    }
+   ]
+  },
+  "205-coach-dricu-grand-lbs-plessi-prix-ufc-wanted": {
+   "type": "photo",
+   "headline": "UFC Wanted 205 lbs Grand Prix, Says Coach of Dricus du Plessis",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-205-coach-dricu-grand-lbs-plessi-prix-ufc-wanted-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-205-coach-dricu-grand-lbs-plessi-prix-ufc-wanted-p1.jpg",
+     "source_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1406302275-e1792536558607.jpg?quality=65&strip=all",
+     "width": 6000,
+     "height": 3380
+    }
+   ]
+  },
+  "1-assemble-hope-marvel-peek-sneak-star-wars": {
+   "type": "photo",
+   "headline": "New Sneak Peek Of Star Wars | Marvel: Hope Assembles #1",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-1-assemble-hope-marvel-peek-sneak-star-wars-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-1-assemble-hope-marvel-peek-sneak-star-wars-p1.jpg",
+     "source_url": "https://icv2.com/images/uploads/c961a8917966dfb5c52cf670d245cf2757bc3f9e8ba081736cf0af28.jpg",
+     "width": 1200,
+     "height": 1822
+    }
+   ]
+  },
+  "agency-attack-data-driven-machine-note-rise-secure-“-”": {
+   "type": "photo",
+   "headline": "News agency notes rise in machine-driven attacks on “secure” data",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-agency-attack-data-driven-machine-note-rise-secure-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-agency-attack-data-driven-machine-note-rise-secure-p2.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-agency-attack-data-driven-machine-note-rise-secure-p1.jpg",
+     "source_url": "https://mindmatters.ai/wp-content/uploads/sites/2/2026/10/secure-ai-agent-monitoring-digital-systems-detecting-cyber-t-2203018364-stockpack-adobestock-scaled.jpg",
+     "width": 3194,
+     "height": 1797
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-agency-attack-data-driven-machine-note-rise-secure-p2.jpg",
+     "source_url": "https://mindmatters.ai/wp-content/uploads/sites/2/2025/11/evil-ai-agent-robot-hacking-stockpack-adobe-stock-1330157571-stockpack-adobestock.jpg",
+     "width": 2688,
+     "height": 1536
+    }
    ]
   }
  },
  "skipped": [
   {
+   "key": "76er-era-jame-lebron-philadelphia-podcast-sixer-start",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=8Y3C9fRUkAE"
+  },
+  {
+   "key": "30-cristiano-handed-portugal-ronaldo-suspension-walking",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=qv4L-SArLuE"
+  },
+  {
+   "key": "acton-amy-estranged-featuring-governor-mother-ohio-race-roiled-viral",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=u_9GX4n5GHI"
+  },
+  {
+   "key": "333-evloev-fight-intelligently-movsar-ufc",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=WC-EgPIjNZU"
+  },
+  {
+   "key": "american-back-bad-bowl-bringing-bunny-himself-jay-legend-move-music-super",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=xEMniH7jzs4"
+  },
+  {
+   "key": "alia-bhatt-diagnosi-felt-relief",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
+  },
+  {
+   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
+  },
+  {
    "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
-   "reason": "download failed or under 1080p",
+   "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
   }
  ]
