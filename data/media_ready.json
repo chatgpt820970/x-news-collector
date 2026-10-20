@@ -1,103 +1,98 @@
 {
- "generated_at_utc": "2026-10-20T02:08:42Z",
- "generated_at_ist": "2026-10-20 07:38 IST",
- "candidates_generated_at_utc": "2026-10-20T02:05:22Z",
- "candidates_generated_at_ist": "2026-10-20 07:35 IST",
- "release_tag": "m-20261020-0206",
+ "generated_at_utc": "2026-10-20T04:07:00Z",
+ "generated_at_ist": "2026-10-20 09:37 IST",
+ "candidates_generated_at_utc": "2026-10-20T04:05:25Z",
+ "candidates_generated_at_ist": "2026-10-20 09:35 IST",
+ "release_tag": "m-20261020-0406",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261020-0206",
-   "runtime_sec": 120,
-   "generated_at_ist": "2026-10-20 07:38 IST"
+   "release_tag": "m-20261020-0406",
+   "runtime_sec": 26,
+   "generated_at_ist": "2026-10-20 09:36 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 3,
-  "skipped": 8
+  "photo_stories": 4,
+  "skipped": 7
  },
  "items": {
-  "edmonton-make-matche-next-one-ufc": {
-   "type": "video",
-   "headline": "On To the Next One: Matches to make after UFC Edmonton",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0206",
-   "source_url": "https://video.twimg.com/amplify_video/2112258751160098816/vid/avc1/1920x1080/EKlDQUfXitdYnhtR.mp4",
-   "source_title": "EKlDQUfXitdYnhtR",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.99,
-   "source_duration": null,
-   "duration": 140.0,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-edmonton-make-matche-next-one-ufc-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0206/04-edmonton-make-matche-next-one-ufc-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.7,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/04-edmonton-make-matche-next-one-ufc-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-edmonton-make-matche-next-one-ufc-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-edmonton-make-matche-next-one-ufc-f3.jpg"
-   ]
-  },
-  "carpet-celebrity-fashion-look-red-secret-show-victoria": {
+  "3-333-countdown-dvalishvili-merab-petr-ufc-yan": {
    "type": "photo",
-   "headline": "Victoria's Secret Fashion Show 2026: Celebrity Red Carpet Looks",
+   "headline": "UFC 333 Countdown: Petr Yan vs. Merab Dvalishvili 3",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0206",
+   "release_tag": "m-20261020-0406",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-carpet-celebrity-fashion-look-red-secret-show-vict-p1.jpg",
-     "source_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261018/b3c3c3f7-9416-4f68-8d68-ce0badd67103_1792361237.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-     "width": 1200,
-     "height": 1200
-    }
-   ]
-  },
-  "clearpool-credit-expand-institutional-marketpla": {
-   "type": "photo",
-   "headline": "JUST IN: Clearpool expands institutional credit marketpla",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0206",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-clearpool-credit-expand-institutional-marketpla-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-clearpool-credit-expand-institutional-marketpla-p1.jpg",
-     "source_url": "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p1.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/petr-yan.webp",
      "width": 1920,
-     "height": 1080
+     "height": 1200
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-333-countdown-dvalishvili-merab-petr-ufc-yan-p2.jpg",
+     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2025/05/GettyImages-1435653703-scaled.jpg",
+     "width": 1920,
+     "height": 1394
     }
    ]
   },
-  "advancing-coding-language-low-programming-resource-‑": {
+  "backstage-claim-confrontation-gable-him-knock-nickal-steveson-threatened": {
    "type": "photo",
-   "headline": "Advancing coding in low‑resource programming languages",
-   "category": "other",
+   "headline": "Bo Nickal claims Gable Steveson threatened to knock him out in backstage confrontation",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261020-0206",
+   "release_tag": "m-20261020-0406",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-advancing-coding-language-low-programming-resource-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-backstage-claim-confrontation-gable-him-knock-nick-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-advancing-coding-language-low-programming-resource-p1.jpg",
-     "source_url": "https://images.ctfassets.net/kftzwdyauwt9/1wQpFFie9sKfVWvApPYyn5/db28adb6a2dfdfdef39fb548fca8913d/low_resource_programming__SEO_Card__3_.png?w=2048&fit=fill",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-backstage-claim-confrontation-gable-him-knock-nick-p1.jpg",
+     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/01/GettyImages-2246896100-scaled.jpg",
+     "width": 1920,
+     "height": 1280
+    }
+   ]
+  },
+  "abu-andrea-black-bocelli-clubbing-coffee-concert-dhabi-dragon-guide-imagine": {
+   "type": "photo",
+   "headline": "Abu Dhabi F1 concert and clubbing guide, from Andrea Bocelli and Imagine Dragons to Black Coffee",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0406",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-abu-andrea-black-bocelli-clubbing-coffee-concert-d-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abu-andrea-black-bocelli-clubbing-coffee-concert-d-p1.jpg",
+     "source_url": "https://www.thenationalnews.com/resizer/v2/HHAFOKI7NVDGZM7R72J5FHNHUU.jpg?auth=473041fcb4aa8a08ce90f220e12edeab03f2996203d313d1828124b4093bcbda&focal=1948%2C1351&width=2048",
+     "width": 2048,
+     "height": 1536
+    }
+   ]
+  },
+  "best-during-holiday-investment-make": {
+   "type": "photo",
+   "headline": "The Best Investments You Can Make During the Holidays",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261020-0406",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-best-during-holiday-investment-make-p1.jpg",
+     "source_url": "https://images.ctfassets.net/38eowqxxlfkc/tFSvqSZZ3aJ6kvBxHsbj4/8d22284e5509ad6167d13e67682c8b0b/woman-calculating-christmas-holiday-budget_iStock-1352656173.jpg?fm=jpg&q=95&w=2048&fit=fill&f=face",
      "width": 2048,
      "height": 1152
     }
@@ -106,44 +101,39 @@
  },
  "skipped": [
   {
-   "key": "continue-kyuhyun-release-“-”",
+   "key": "come-comparison-down-enrique-football-going-lamine-lionel-luis-messi-nobody-play",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=RLmt6879wAg"
+   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs"
   },
   {
-   "key": "die-dougla-let-marvel-michael-won",
+   "key": "ant-dougla-man-marvel-michael-misery-put-won",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
   },
   {
-   "key": "documentary-elon-florida-musk-see-slammed",
+   "key": "3-333-countdown-dvalishvili-merab-petr-ufc-yan",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=FFTf1lzcs28"
+   "source_url": "https://www.youtube.com/watch?v=FeVkOM0NUJo"
   },
   {
-   "key": "announced-bradman-cricket-don-switch",
+   "key": "backstage-claim-confrontation-gable-him-knock-nickal-steveson-threatened",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=GZ1jk91MAdw"
+   "source_url": "https://www.youtube.com/watch?v=78rPPj5PotU"
   },
   {
-   "key": "alway-leclerc-verstappen-yapping-🗣️",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=y2sj3mKC26A"
+   "key": "ann-brown-drake-judy",
+   "reason": "best source only 720p",
+   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/6d5f195f-2b94-438e-801a-18b40fb82396/720p.mp4"
   },
   {
-   "key": "chemistry-excite-jayshetty-only-short",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=2wK1Z1tJ0Mk"
+   "key": "66-ann-critic-dies-film-hornaday-longtime-post-washington",
+   "reason": "best source only 720p",
+   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/6d5f195f-2b94-438e-801a-18b40fb82396/720p.mp4"
   },
   {
-   "key": "beast-completely-different-fitness-influence-kohli-leadership-reveal-rohit-sharma-suryakumar-virat",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=eAk4AURYpkg"
-  },
-  {
-   "key": "333-alexander-conference-press-ufc-volkanovski",
+   "key": "adelaide-challenge-perth-scorcher-spring-striker-t20",
    "reason": "no source could be read",
-   "source_url": "https://www.sherdog.com/videos/sherdogradio/UFC-333-preview-VolkanovskiEvloev-YanDvalishvili-trilogy-23888"
+   "source_url": "https://m.cricbuzz.com/cricket-videos/214376/short-highlights-south-africa-vs-australia-day-2-2nd-test"
   }
  ]
 }
