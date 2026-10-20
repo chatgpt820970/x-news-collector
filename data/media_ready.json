@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T18:09:01Z",
- "generated_at_ist": "2026-10-20 23:39 IST",
+ "generated_at_utc": "2026-10-20T18:14:44Z",
+ "generated_at_ist": "2026-10-20 23:44 IST",
  "candidates_generated_at_utc": "2026-10-20T18:05:28Z",
  "candidates_generated_at_ist": "2026-10-20 23:35 IST",
  "release_tag": "m-20261020-1806",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-1806",
    "runtime_sec": 160,
    "generated_at_ist": "2026-10-20 23:39 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "runtime_sec": 395,
+   "generated_at_ist": "2026-10-20 23:44 IST"
   }
  ],
  "stats": {
-  "videos": 2,
+  "videos": 7,
   "videos_4k": 0,
-  "photo_stories": 2,
-  "skipped": 6
+  "photo_stories": 1,
+  "skipped": 1
  },
  "items": {
   "beat-dvalishvili-malley-merab-petr-rooting-sean-yan-’": {
@@ -53,48 +59,60 @@
    "type": "video",
    "headline": "Jay-Z reportedly picks himself for Super Bowl halftime show",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1806",
-   "source_url": "https://dcs-vod.mp.lura.live/vod/p/master.m3u8?encp=z_ki9KpOuGLAouVuBpp-hw:-YSIWT_qXJ94pfi7Q9-YmoJ2QrdLEcYb__95Z0sIRcSGwuz3Q_vD37Lgbjj6EwHeRFi50QpK0i5BsPRsGnIeoIEWuQdyYHPjiLQ_zZW0aSY_uVA_blOrWXMCPvG4bNR4tRSbqdnlEN0sqeUfRdeNY8MZqLoaMts5Kos5dqmxvdlipdMy3RjsMbbaKG9iD78QM-MNX2qIycs8nRoHLivK2oadoedwsA3kKXrnSIiTildKE4M2_oQKfHjQPGn6pgxPCGXlggRsgYM6G4AudDYpuWOw2AL9AFi-Hpq3w7Fw0LfJ0Q9xX5ThHXV23oxbIzLdEbmOeeYP-rOHTqm1CQSKiyxrg1OZfQRxaQeAokYTfui6i95-WrkMjq9q9cgBk-ksRuhXSZhnU8kBRIK_92eDrvOXUhnoJ1A5BbA-4CC7xK791rJPMWug_fJcq33p01kqrgJeLfjcY8hI9VK8vYhpUA&anvtrid=98caf72872c88f07ecf595c0f68c7959&anvauth=tb=0~te=1792519673~sgn=47a75145eae38c0deb6407fc72cf1aa4d0d1165d81e25d80989306989019e884&t=1792519583",
-   "source_title": "master",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=wCYasv5wRVk",
+   "source_title": "Super Bowl Halftime: SZA Performs HITS with Kendrick Lamar",
    "source_resolution": "1920x1080",
    "source_fps": 29.97,
-   "source_duration": 268,
-   "duration": 140.01,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
+   "source_duration": 58,
+   "duration": 57.6,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
    "resolution": "1920x1080",
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1806/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.1,
-   "video_1080_bitrate_mbps": 10.3,
+   "video_1080_size_mb": 64.7,
+   "video_1080_bitrate_mbps": 9.4,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-bowl-halftime-himself-jay-pick-reportedly-show-sup-f3.jpg"
    ]
   },
   "album-gaga-hiatu-hint-indefinite-lady": {
-   "type": "photo",
+   "type": "video",
    "headline": "Lady Gaga hints at new album amid indefinite hiatus",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-1806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-album-gaga-hiatu-hint-indefinite-lady-p1.jpg",
-     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P106DJXT-e1792498389889.jpg?w=2048",
-     "width": 1800,
-     "height": 1200
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ",
+   "source_title": "Andrew Watt on Madonna, Gaga, Elton John, McCartney, the Stones, & Ozzy | The Rolling Stone Studio",
+   "source_resolution": "3840x2160",
+   "source_fps": 23.98,
+   "source_duration": 2092,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "3840x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt03-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt03-album-gaga-hiatu-hint-indefinite-lady-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.1,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-album-gaga-hiatu-hint-indefinite-lady-f3.jpg"
    ]
   },
   "333-evloev-fighter-rise-ufc-volkanovski": {
@@ -114,38 +132,133 @@
      "height": 1767
     }
    ]
+  },
+  "20-2nd-match-odi-pakistan-rawalpindi-serie-tri": {
+   "type": "video",
+   "headline": "2nd Match (D/N), Pakistan ODI Tri-Series at Rawalpindi, Oct 20 2026",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs",
+   "source_title": "Can a Premier League Footballer Beat a Pro Photographer? Merlin Rohl vs Expired Film Club",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.0,
+   "source_duration": 516,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.8,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-20-2nd-match-odi-pakistan-rawalpindi-serie-tri-f3.jpg"
+   ]
+  },
+  "did-drake-janice-steal-stfu-“-”": {
+   "type": "video",
+   "headline": "Did Drake Steal “Janice STFU”?",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek",
+   "source_title": "Drake - Janice STFU",
+   "source_resolution": "2968x2160",
+   "source_fps": 24.0,
+   "source_duration": 236,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "heatmap peak at 27s",
+   "resolution": "2968x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt04-did-drake-janice-steal-stfu-1080.mp4",
+   "video_1080_resolution": "1484x1080",
+   "video_1080_size_mb": 172.7,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-did-drake-janice-steal-stfu-f3.jpg"
+   ]
+  },
+  "alia-bhatt-diagnosi-felt-relief": {
+   "type": "video",
+   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
+   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "source_resolution": "1920x1080",
+   "source_fps": 23.98,
+   "source_duration": 3586,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 3015.0,
+   "trim_reason": "chapter 'Best advice from her father'",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt06-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt06-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.3,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-alia-bhatt-diagnosi-felt-relief-f3.jpg"
+   ]
+  },
+  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
+   "type": "video",
+   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-1808-yt",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
+   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "source_resolution": "1080x1920",
+   "source_fps": 30.0,
+   "source_duration": 15,
+   "duration": 15.42,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-1808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 17.9,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "20-2nd-match-odi-pakistan-rawalpindi-serie-tri",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
-  },
-  {
-   "key": "album-gaga-hiatu-hint-indefinite-lady",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=o17DqX_l8EQ"
-  },
-  {
-   "key": "did-drake-janice-steal-stfu-“-”",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=SD4yRDY9mek"
-  },
-  {
-   "key": "alia-bhatt-diagnosi-felt-relief",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
-  },
-  {
    "key": "apple-ceo-elon-mark-musk-now-once-thanking-thread-trashed-zuckerberg-—",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=7k1ehaE0bdU"
-  },
-  {
-   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
   }
  ]
 }
