@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T04:07:00Z",
- "generated_at_ist": "2026-10-20 09:37 IST",
+ "generated_at_utc": "2026-10-20T04:29:48Z",
+ "generated_at_ist": "2026-10-20 09:59 IST",
  "candidates_generated_at_utc": "2026-10-20T04:05:25Z",
  "candidates_generated_at_ist": "2026-10-20 09:35 IST",
  "release_tag": "m-20261020-0406",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-0406",
    "runtime_sec": 26,
    "generated_at_ist": "2026-10-20 09:36 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-0424-yt",
+   "runtime_sec": 332,
+   "generated_at_ist": "2026-10-20 09:59 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 7
+  "photo_stories": 3,
+  "skipped": 5
  },
  "items": {
   "3-333-countdown-dvalishvili-merab-petr-ufc-yan": {
@@ -45,21 +51,33 @@
    ]
   },
   "backstage-claim-confrontation-gable-him-knock-nickal-steveson-threatened": {
-   "type": "photo",
+   "type": "video",
    "headline": "Bo Nickal claims Gable Steveson threatened to knock him out in backstage confrontation",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0406",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-backstage-claim-confrontation-gable-him-knock-nick-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-backstage-claim-confrontation-gable-him-knock-nick-p1.jpg",
-     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/01/GettyImages-2246896100-scaled.jpg",
-     "width": 1920,
-     "height": 1280
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0424-yt",
+   "source_url": "https://www.youtube.com/watch?v=78rPPj5PotU",
+   "source_title": "Petr Yan, Bo Nickal, Mike Malott, Jasmine Jasudavicius, Weekend Recap, More | TAHS | 10/19/26",
+   "source_resolution": "1920x1080",
+   "source_fps": 59.94,
+   "source_duration": 16380,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt06-backstage-claim-confrontation-gable-him-knock-nick-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt06-backstage-claim-confrontation-gable-him-knock-nick-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 168.7,
+   "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt06-backstage-claim-confrontation-gable-him-knock-nick-f3.jpg"
    ]
   },
   "abu-andrea-black-bocelli-clubbing-coffee-concert-dhabi-dragon-guide-imagine": {
@@ -97,28 +115,48 @@
      "height": 1152
     }
    ]
+  },
+  "come-comparison-down-enrique-football-going-lamine-lionel-luis-messi-nobody-play": {
+   "type": "video",
+   "headline": "Luis Enrique plays down Lamine Yamal comparisons with Lionel Messi: ‘Nobody is going to come out on top’ | Football News",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0424-yt",
+   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs",
+   "source_title": "Hindustan Times@100 - Voice Of The Nation. Since 1924 | #HTat100",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.0,
+   "source_duration": 117,
+   "duration": 117.0,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0424-yt/yt02-come-comparison-down-enrique-football-going-lamine-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 131.9,
+   "video_1080_bitrate_mbps": 9.5,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-come-comparison-down-enrique-football-going-lamine-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
-   "key": "come-comparison-down-enrique-football-going-lamine-lionel-luis-messi-nobody-play",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs"
-  },
-  {
    "key": "ant-dougla-man-marvel-michael-misery-put-won",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
   },
   {
    "key": "3-333-countdown-dvalishvili-merab-petr-ufc-yan",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=FeVkOM0NUJo"
-  },
-  {
-   "key": "backstage-claim-confrontation-gable-him-knock-nickal-steveson-threatened",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=78rPPj5PotU"
   },
   {
    "key": "ann-brown-drake-judy",
