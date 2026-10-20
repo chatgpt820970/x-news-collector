@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-20T05:08:42Z",
- "generated_at_ist": "2026-10-20 10:38 IST",
+ "generated_at_utc": "2026-10-20T05:11:13Z",
+ "generated_at_ist": "2026-10-20 10:41 IST",
  "candidates_generated_at_utc": "2026-10-20T05:05:23Z",
  "candidates_generated_at_ist": "2026-10-20 10:35 IST",
  "release_tag": "m-20261020-0506",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261020-0506",
    "runtime_sec": 137,
    "generated_at_ist": "2026-10-20 10:38 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261020-0508-yt",
+   "runtime_sec": 185,
+   "generated_at_ist": "2026-10-20 10:41 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 4,
   "videos_4k": 0,
-  "photo_stories": 5,
-  "skipped": 4
+  "photo_stories": 4,
+  "skipped": 1
  },
  "items": {
   "clashe-course-doj-federal-golf-judge-wrap": {
@@ -104,21 +110,33 @@
    ]
   },
   "agenda-arrive-india-marco-rubio-security-technology-trade": {
-   "type": "photo",
+   "type": "video",
    "headline": "Marco Rubio to arrive in India today; trade, security and technology on agenda | India News",
    "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261020-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-agenda-arrive-india-marco-rubio-security-technolog-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-agenda-arrive-india-marco-rubio-security-technolog-p1.jpg",
-     "source_url": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-05-26T055926Z_1447473893_RC2TGLAS2BBQ_RTRMADP_3_INDIA-USA-1792229243.jpg?resize=2048%2C1440",
-     "width": 2048,
-     "height": 1440
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0508-yt",
+   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs",
+   "source_title": "Hindustan Times@100 - Voice Of The Nation. Since 1924 | #HTat100",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.0,
+   "source_duration": 117,
+   "duration": 116.97,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt04-agenda-arrive-india-marco-rubio-security-technolog-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 131.4,
+   "video_1080_bitrate_mbps": 9.4,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-agenda-arrive-india-marco-rubio-security-technolog-f3.jpg"
    ]
   },
   "best-during-holiday-investment-make": {
@@ -138,24 +156,69 @@
      "height": 1152
     }
    ]
+  },
+  "ant-asked-dougla-killed-let-man-marvel-michael-wouldn-‘-’-“": {
+   "type": "video",
+   "headline": "Michael Douglas Asked To Be Killed Off Marvel’s ‘Ant-Man’: “They Wouldn’t Let Me”",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0508-yt",
+   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI",
+   "source_title": "Michael Douglas on ONE HELLUVA RIDE, WALL STREET, ANT-MAN, BEHIND THE CANDELABRA, & more!",
+   "source_resolution": "1920x1080",
+   "source_fps": 59.94,
+   "source_duration": 4046,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.2,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-ant-asked-dougla-killed-let-man-marvel-michael-wou-f3.jpg"
+   ]
+  },
+  "documentary-elon-florida-musk-see-slammed": {
+   "type": "video",
+   "headline": "'Musk' documentary slammed by Elon Musk. Where to see it in Florida",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261020-0508-yt",
+   "source_url": "https://www.youtube.com/watch?v=BzZfEbA1_Po",
+   "source_title": "Musk | \"Let Me Sell You a Dream\" Music Video | Bleecker Street",
+   "source_resolution": "3840x1920",
+   "source_fps": 23.98,
+   "source_duration": 189,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "2160x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt02-documentary-elon-florida-musk-see-slammed-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261020-0508-yt/yt02-documentary-elon-florida-musk-see-slammed-1080.mp4",
+   "video_1080_resolution": "2160x1080",
+   "video_1080_size_mb": 169.1,
+   "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-documentary-elon-florida-musk-see-slammed-f3.jpg"
+   ]
   }
  },
  "skipped": [
-  {
-   "key": "ant-asked-dougla-killed-let-man-marvel-michael-wouldn-‘-’-“",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=v1X8m3yEptI"
-  },
-  {
-   "key": "documentary-elon-florida-musk-see-slammed",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=BzZfEbA1_Po"
-  },
-  {
-   "key": "agenda-arrive-india-marco-rubio-security-technology-trade",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs"
-  },
   {
    "key": "drake-maye-three-tosse-win",
    "reason": "no source could be read",
