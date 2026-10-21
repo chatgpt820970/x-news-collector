@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-21T17:05:27Z",
-  "generated_at_ist": "2026-10-21 22:35 IST",
+  "generated_at_utc": "2026-10-21T18:05:25Z",
+  "generated_at_ist": "2026-10-21 23:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
-    "feeds_ok": 87,
-    "feeds_failed": 2,
-    "raw_items": 6008,
-    "fresh_items": 5066,
-    "clusters": 2320,
+    "feeds_ok": 89,
+    "feeds_failed": 0,
+    "raw_items": 6052,
+    "fresh_items": 5134,
+    "clusters": 2304,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 113,
-    "youtube_items": 2,
-    "famous_items": 5,
+    "youtube_uploads_fresh": 117,
+    "youtube_items": 3,
+    "famous_items": 4,
     "trends_terms": 40,
-    "page_fetches": 59,
-    "with_video": 9,
-    "runtime_sec": 27.2
+    "page_fetches": 53,
+    "with_video": 8,
+    "runtime_sec": 29.1
   },
   "categories": {
     "famous_clip": 3,
@@ -32,296 +32,235 @@
     "other": 6
   },
   "top_trends": [
-    "galatasaray (US 2000+)",
-    "james madison dukes football (US 200+)",
-    "fraud (US 2000+)",
-    "mark consuelos (US 500+)",
-    "flagstaff tornado (US 10000+)",
-    "tornado warning flagstaff (US 500+)",
-    "vincent fiordilino mother interview (US 2000+)",
-    "amazon ftc settlement refund eligibility (US 5000+)",
-    "deadly measles outbreak pennsylvania community (US 500+)",
-    "norovirus cases overland park school (US 500+)",
-    "dearness allowance delay july 2026 (IN 200+)",
-    "andrey santos (IN 200+)",
-    "york cinemas (IN 200+)",
-    "दुष्काळ (IN 500+)",
-    "రజిత (IN 200+)",
-    "ब्रिज (IN 200+)",
-    "como (IN 50000+)",
-    "real madrid vs rb leipzig (IN 500+)",
-    "ஹர்பஜன் சிங் (IN 200+)",
-    "इस्तीफा (IN 1000+)"
+    "joanna gaines ella 20th birthday (US 1000+)",
+    "anthem (US 500+)",
+    "soriba diaoune (US 500+)",
+    "levante - athletic (US 5000+)",
+    "royal family news (US 10000+)",
+    "week 7 start 'em, sit 'em (US 500+)",
+    "man united vs como (US 500+)",
+    "bioware (US 20000+)",
+    "sam laporta (US 1000+)",
+    "walter johnson high school (US 1000+)",
+    "bioware (IN 200+)",
+    "arishfa khan (IN 500+)",
+    "soriba diaoune (IN 200+)",
+    "manchester united (IN 50000+)",
+    "पाकिस्तान क्रिकेट बोर्ड (IN 200+)",
+    "nirmala sitharaman (IN 200+)",
+    "bryan mbeumo (IN 200+)",
+    "levante vs athletic (IN 1000+)",
+    "air india ultra long haul route (IN 200+)",
+    "ज़ी बिज़नेस (IN 200+)"
   ],
   "items": [
     {
-      "id": "3666cbe234",
-      "key": "84-actor-advised-amitabh-bachchan-concern-health-old-recover-rest-spark",
-      "headline": "Amitabh Bachchan Advised To 'Rest And Recover', 84-Year-Old Actor Sparks Health Concerns",
-      "summary": "https://www.moneycontrol.com/entertainment/bollywood/Amitabh Bachchan has informed fans that he will take a break from his regular social media updates after being advised to rest and recover. The veteran actor apologised to his followers but did not disclose the reason behind the medical advice.",
+      "id": "ab1dafd6f0",
+      "key": "333-evloev-there-ufc-value-volkanovski",
+      "headline": "Why There's Value on Volkanovski vs. Evloev at UFC 333",
+      "summary": "https://www.covers.com/ufc/Wondering how to bet on Volkanovski this weekend? Get our UFC 333 prediction, Kalshi odds and analysis for his title fight against Movsar Evloev.",
       "sources": [
-        "Moneycontrol.com",
-        "Hindustan Times",
-        "The Times of India",
-        "NDTV",
-        "India Today",
-        "Rediff",
-        "News18"
+        "MMA Mania",
+        "Combat Press",
+        "MMA Sucka",
+        "The Sun",
+        "MMA Junkie",
+        "RotoWire",
+        "NY Fights",
+        "Sherdog",
+        "Yahoo Sports",
+        "MMA Fighting"
       ],
       "article_urls": [
-        "https://www.news18.com/amp/movies/bollywood/amitabh-bachchan-advised-to-rest-and-recover-84-year-old-actor-sparks-health-concerns-ws-lrt-10391434.html",
-        "https://www.moneycontrol.com/entertainment/bollywood/amitabh-bachchan-shares-health-update-says-he-has-been-advised-to-take-a-few-days-off-to-rest-and-recover-article-14057007.html",
-        "https://www.hindustantimes.com/entertainment/bollywood/amitabh-bachchan-advised-strict-rest-apologises-to-fans-as-health-update-from-84-year-old-actor-sparks-concern-101792584788503.html",
-        "https://news.google.com/rss/articles/CBMijAJBVV95cUxQa3N5NzN5cEYyNG9XWHlHWklkSFNQajRyVTBIb0NxZ0VudzRKbTZNUzlycU03dnZsWUVzdUVDeF9fX2VQQUhFTHFwbWxhQloxLTA3NW9GRDY2YkN5Rzk3ckt1eTQzSHJGVm9HaEFQbmZLelZ2VFNLTFJpOG16VldMNzd5Wkx6S0NINnEzaEkwRy0xTFNhRTU5ckRNVzYxNG1Wd1hGVHNjdHNoSDBVT2w1YmYtUEdUSHVpQWV2c3JVQmg1UEFmUVphbkNmMHEyLTYySXNUQzZHREQ0YXlmSkh2YTdzdGpXQl9Pd1BrYklzbDg1a3BUMFlISHdxX3hMNnVkdF9HRXlCOGttTjZY0gGSAkFVX3lxTE1keFRpRHlydzVDSnZTWUJyTU0xd3ktZ3BoOHRVMlE0RnhpQXRhYmJyczJ6bjBwbXRhbEpBMUxGZE5RemJxb3I2ZDZ5blF4bVFSYWRWNXJXTm1zUlNXamdUM2RiZUxYNll2R2taOXVNcTZlaVpsdlAza0FxZ0VPX1F6WWZWMXBfLV9rb3dWeG10M0t5eVc0OTB6ZmtOakMzNGM4LVREanJpdVU0YWJQd2x5djktRS1RaGNrYkhpTzR4NFdra3cybzl6THpBZzJfRkUzeDl0dmNNOTJkN3FoUVF6YzVXTjladTRFY1puTWlSTkhtdWlidnVFVlZhY2RYMVdiVjB1UlMzMUIwekZXRDViM0E?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxQUmF6My0yNy1adlJGV05ad1ltbmtEdnY5VS00MUozaS1mb19QLWw0RHEzQ0d1TUhyaEFiVkg4ZTduYV9aV1VtQXVNbWF4M1hQMzBrZ0M3V1VETXJ6UGx3cDB2OWM0Q1VLTnhHaWg1NHl4Nmdoanl0azNaTnMxUnRtS0VINjg5RmYxTjRBVFp0VTc4T0I4UGNBdW5SeUdPalR1NzlrcVp0RV95aHNtc3FJM3JtY2J3WlNtUXNkcTZwMlBKSHlQUGhPU0dXTG9CNFVDZ3pwazZQa3FTMV9GdjkzSHBldmpJcEZxYlVwNHI2NHBqTlJCaUg0ZnJrMFJhQ1Uta1I1ZnphbnlqMURFR1FJclMzR2jSAZoCQVVfeXFMTjNvQkNJRm5HNVNuVjJWYVU1NGJsNjJDM2dtOFlTR0JNajAzNDVZaGRlakhXSHhvSEFJQUlOZ1NLcmFRT1BvVEs0TGtDNXN3WWc5aXlaZXA0YzdCXy1Bd2w5QUtzZlhILUNIc3J1Y0hYNGJ6ZTlrLW1EZU5TMkREYV9VbGViOVRqaTY5SkR5dDUzZWlqdUFNNUxJV3VDaG1FaTVqOG5sWVhjMHhjVzFFcmVEZVZ1Mm91bFpveEIxRDBSMW85eTc2UTl1NzY4X0tjMjJQVzF2ZUUyd0FUUUdMYjZYSU1YNGFUMV9FSjhuTXVqOERZbFRVVS1VcHI0bl9WcnRfV1gybTdETjljWXdDRzBzSkhQZmIzRHZ3?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdU5KcTBfeVI1V1ZHMVZxQVBoenpPeUdBSDN4Z3JzMFZLRVZtTEd6b3B2MHpNc24tYV84M3ZkcFl0emlyVXJGSkc1bEgzeWdtck1KTlZ3cDF2bWszT2xRN3g3anhxVy1LNjBmQWNFNkd2cVhvLTR6MFNmTXdEVDlOUzc3bUM5anVYT0V2UnhETlFqRXNhNnJYSFhPdVdfQUlDaEZ4NUNBbF9ZblhwbTdoV3lCQTVPVWlER3JxYmFVMHBJOUxBYVBSa05ERDByVDlhVTh5cVFvN3ZhcG1KOUM4WVVxeS1idUNoRnJEb2oyMVRsWUlVVzZwWjhLNEptQ3h3bWNCNUJuOWl4azUzNjZQcFJRUzZOczhpMzNxR0pWZDZYRnhLNG4wVlIzVU1rSDJZMFRrbEcyTUVKYmZaZklqWUVXQlNacENkMm9pNlphVlZCVGdzU3NNdHJFbHNDdVk?oc=5",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNmU3SmxTSG9oa1JvdEZJejhjQ01oSHdHN1pqeWNpMzNPYUFxZ09IR2F3eDNCTExtNGJzSVhkT3pwSkUtdjd5T3hGMVBXRnF3RE53UF9YX3NSNlprVWE5NG56SFkzeGp4VUV1Y0IzQ0psaXVMZng1UFJvQ0ZnaXFXWjJ2OUZ4ZUFMSVYyY0tMbEV4clJ1N2N4aHpQYjNmWnhPZE1RajJuRTVjVlpRam1jMWlNWTFhNExwQUhiaTNQU2RhbGpMRlp5RnFhSGtmVjZhR2VVby1meHRHMkxZQTlz?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMDNsNUYtTzFaOFA4TWFUZnZqS1REQkhhUHhtRnRlUUJQTTVNVDhKcC1fblhkOUlvSEJfRHltOGNkanpXWENMSEg3OXByY0JreGdOdVk2cUxBaWFwejcwM25ESFQyVDlTaGpjMHQycjQ0QVdkY0JrV3FKY2VQbTBjWHEwYUMwanE4aVduV1dXOVBRekFYVnRCQ2o2cWJGNUJtaVhpNWEwWWttTEpnbjVBMjRReVVKRjMxczA5NWM1bWVBeTJCOWRHVGhtWFpaT21wcHBqcHh4aTBJQ2JmU2RSUDNrVXA?oc=5"
+        "https://www.covers.com/ufc/333-alex-volkanovski-predictions-oct-24",
+        "https://www.mmamania.com/ufc-333-fight-card-start-time-live-stream-volkanovski-vs-evloev/480858/alex-volkanovski-challenges-justin-gaethje-champion-vs-champion-retirement-fight-ufc-333",
+        "https://news.google.com/rss/articles/CBMikgJBVV95cUxNM1YzZFg4ZnNSZENYdkRtbmw0aW9vRm9DSmVoLU1mZnVOamFsOTV2QnU5WVI2Y0JweXd1VGkzVEw1VmFoQzY3ckhER0M4RE93ZThNNkRrU1RYRU9PM1A1MlBiQWx3UVB4M0FxQmQ2V0F1R25mdkpIbVVfSzhkN19GOTVPUU5WeE1fVEx6ZVRya2hnTzhwRGhyRlNBUDNuSXNLdXZsY3BFa2Z1djNNVDdBSmRudW4zWlBVMVU2Rl9jT0Utb3h2eHJBTTJZRXF2clFvbF9qbl9GenhCZkhQQVFKcDBfbXJOMmE5REtrb2JHb1F6Z3dXeENoNXp3UGQ1Z0liRDFjNXkyUnRYa1RWLWlhTEtR?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZGpxd3c1SndlNlV1ZTRDT1E3LVFrMW5LNVZyYzJRWF82cTNiZHBSTlEtTHRPdHJpZlJNODZoR2tlRTVLSHk5SU5PLUU0Ty1lTzVQeV9zRnlYU1d4UTRPVFZPay1YYkFNazNhRjlDdzhEeUtZa0dFOTBzSlRUQVlyZ1VZR3VYbTdDVzlYN2s5aw?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxNME9pbE42UDRTVi1pbXB0WC1zS0UzOUZEckgzb1hFV2MxdkxpNDQxLWZTN2txbzBjdUNjZG1ZOXlrMUNsXzUwVTBqWDBNTVFUSlNEcGJmeFhtMkJPQm9XOGtoNVJEX3ZneTR3SVVTSk5zMmowSnZpcDJDdXkyU1EyRVUwNmViRE9OQ0lCOXp5RGVycDcyUGpRTWtFMnlxcWlwMDlWTGUyUHFKd0VTWnQ3WHZQUFA0UjQ?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE9jLWR3QVRGbGlLU2NLMGFhWk5tZXNfZ0dxMGVrVnVVZVM2TXdVang4Z2tWcFBTLUI3VmVUT3Bfb3pYNDdlaGU0aVJQVWxTZlRXcXJ5NEdOQ1R5czFndk5EMXdvVWxRTUdiUkc2cl9EMVRUXzZvX0h1RW0tLVI2NEFyRkZQRjNpM3BnbGpB?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdUZoaVYwZU1Lb3ZVTUJhRi1ZenZwMkVqMGkwXzNINkIwUW1ldUF3ME9iVE5fWmV6cFlqQWpfSEI1NHVFcS1XSWZsR0ZrSGhMWm94elZVSU94WGRoRWxRWGRxcUhXV1paamFkcXFkeFl3RmJxeWpHTVpEdkNNNVFCelV2VkQtU2YtcEdlcWRUc1JVRVpCbjVWVXg1WVhmTHdQVml0dVhSUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYUNINDNPR0pxeGVjeVVjekl0c3ZrbnpKdXJTN2ExZktuOVRlR3pYVnQxOXBWMHg5MHZhSVNVWWt2bnBQT0FSY0dJTy1hcHVpMy1oZWMwMV9EX1dpUnc5My1WaDRJdldHeVVZNTh2bFJmX1AwSUtwYUhmNEhaMVdtMnVpbVQ3U3FCNW9uT0xLdnZ2c0cxc0dpME5QZnFWc05xbXBqaU1hS0FEcWJYYmlEazlxVHdYa2txblhucGwyaTZzNzM1ZFdkbGVSaEI3cnpqaFFLTEkzc3JfMjVjUlNZSUphMVBoaFlGbXdzS0lfNGhHZw?oc=5"
       ],
-      "published_at_utc": "2026-10-21T16:36:09Z",
-      "published_at_ist": "2026-10-21 22:06 IST",
-      "first_seen_utc": "2026-10-21T11:21:34Z",
-      "age_minutes": 29,
-      "trend_score": 12,
-      "rank_score": 0.9866,
+      "published_at_utc": "2026-10-21T17:59:24Z",
+      "published_at_ist": "2026-10-21 23:29 IST",
+      "first_seen_utc": "2026-10-21T09:21:17Z",
+      "age_minutes": 6,
+      "trend_score": 25,
+      "rank_score": 0.9668,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
-      "famous_names": [
-        "Amitabh Bachchan"
-      ],
+      "famous_names": [],
       "region": [
-        "IN"
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "UFC 333’s Alex Volkanovski doubles down on ‘champion vs. champion’ retirement fight against Justin Gaethje",
+        "UFC 333: Volkanovski vs. Evloev Preview and Predictions",
+        "Mike Brown Questions Alexander Volkanovski’s Prime Ahead of UFC 333 Movsar Evloev Showdown",
+        "Movsar Evloev to Break Unwanted Record With Win at UFC 333"
+      ],
+      "image_urls": [
+        "https://img.covers.com/cms/covers/e2a8f693-203f-4bec-bf02-87c7d806a228.webp",
+        "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/10/volks-gaethje.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=xk-xko13KPA"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "8d943bed55",
+      "key": "20th-birthday-celebration-daughter-ella-gaine-haired-joanna-lavish-look-rare-raven",
+      "headline": "Joanna Gaines shares ultra-rare look at raven-haired daughter Ella from lavish 20th birthday celebrations",
+      "summary": "https://people.com/Joanna Gaines celebrates her daughter Ella’s 20th birthday with a few rare throwback photos on her Instagram.",
+      "sources": [
+        "HELLO! Magazine"
+      ],
+      "article_urls": [
+        "https://people.com/joanna-gaines-celebrates-daughter-ellas-20th-birthday-with-rare-throwback-photos-12186139",
+        "https://www.yahoo.com/lifestyle/videos/joanna-gaines-lookalike-daughter-appears-160933364.html",
+        "https://www.hellomagazine.com/us/930435/joanna-gaines-rare-look-daughter-ella-20th-birthday-video/",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0daZkN6aWVhRGVuRVJETnFXRFl2M0tEbGdsa2JHNWpnNFVGUVo5V2owTTQxZGlUa0tTMUlNRUY2Tk9kcGx6bUxXNkxGekFVbXZtc1lWQkVZSV9FSUs2ZWdrM2ZSMmNtUFFFU3lNa2Y1UDBfYThHQnBvbkFvTVIwVnoyc2tvMkZuQWFKZXlWM2JpTEg4Q3BaZkFkNDZQTUE?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T16:15:28Z",
+      "published_at_ist": "2026-10-21 21:45 IST",
+      "first_seen_utc": "2026-10-21T16:15:28Z",
+      "age_minutes": 109,
+      "trend_score": 10,
+      "rank_score": 0.9662,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
       ],
       "language": "en",
       "priority_queries": [
         "Celebrities & music"
       ],
-      "google_trends": [],
+      "google_trends": [
+        "joanna gaines ella 20th birthday (US 1000+)"
+      ],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "Amitabh Bachchan shares health update, says he has been advised to take a few days off to 'rest and...",
-        "Amitabh Bachchan advised strict rest, apologises to fans as health update from 84-year-old actor sparks concern | Bollywood",
-        "'I Beg Your Forgiveness': 84-Year-Old Amitabh Bachchan Shares Health Update, Says He's Been Advised To Rest"
-      ],
+      "other_headlines": [],
       "image_urls": [
-        "https://images.moneycontrol.com/static-mcnews/2026/01/20260109122619_amitabh-bachchan-mobbed-.jpg"
+        "https://people.com/thmb/6PVhiWoomViGflm-gsHNIy3nTs0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Joanna-Gaines-Celebrates-Daughter-Ellas-20th-Birthday-with-Rare-Throwback-Photos-102126-ac35e12dae7d4db49a81d5516af44e80.jpg",
+        "https://s.yimg.com/lo/mysterio/api/ad7cbf40f0c40abc15652a4061f8b8b3b6bd37ea005cdc2a85e74cf7be2ee2ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F2c86bedf13b90e190f41eaaedfef73ac.jpg",
+        "https://s.yimg.com/lo/mysterio/api/c89b6f6b6db05fc4679bd667051f6d5e4e33ffe100c60c62a535ae5677490dd6/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F2c86bedf13b90e190f41eaaedfef73ac.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlHHw1dzdDadmLiYU9Z4HdHZvfZf_Uat0mQxM7tHsAl84NSXJjdthCO7HXnZ4",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsNYrtB4O7AVlWizWgPCw-VvAWRNC5SBvMa8hI3HUMrGwfameN3d1I3rNPdt8",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQulmXLNXWoNCF92Zg7d-JgckiTGKA8E7jMd-Bu6NLJQ00a3G8NKhJ6xxg0tLY"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=T50u-Ka1XAs"
+        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/bb437ac7-df17-39c5-9e02-261e83a0f30c.m3u8?site=lifestyle&region=US&lang=en-US&devtype=desktop",
+        "https://www.yahoo.com/lifestyle/videos/joanna-gaines-lookalike-daughter-appears-160933364.html?format=embed"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "7c9e3df5d2",
-      "key": "dramatic-grand-look-mercede-prix-state-united-unveil",
-      "headline": "Mercedes F1 unveils dramatic new look for United States Grand Prix",
-      "summary": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/Mercedes has unveiled a striking blue livery for the 2026 United States Grand Prix, complete with matching driver race suits and road cars",
+      "id": "38e1ec0748",
+      "key": "fcbarcelona-football-game-season-short-single",
+      "headline": "It’s a season, not a single game.  #fcbarcelona #football #shorts",
+      "summary": "SUBSCRIBE NOW: ▶ www.youtube.com/user/fcbarcelona 🔒Join as a member 👉 https://youtube.com/fcbarcelona/join 📱 App: http://barca.link/kXum50R6rNO 🌐 Site: www.fcbarcelona.com 📸 Instagram: http://www.instagram.com/fcbarcelona 𝕏 X: https://x.com/FCBarcelona 🎶 Tiktok: https://www.tiktok.com/@fcbarcelona 🔵 Facebook: http://www.facebook.com/fcbarcelona 👾 Discord: https://discord.gg/fcbarcelonaofficial 🛍 G",
       "sources": [
-        "Motorsport.com",
-        "Formula 1",
-        "GPblog",
-        "RacingNews365",
-        "Paddy Power News",
-        "F1 Academy",
-        "PlanetF1",
-        "Formula One World Championship Limited",
-        "Grande Prêmio",
-        "Forbes"
+        "YouTube: FC Barcelona"
       ],
       "article_urls": [
-        "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/",
-        "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
-        "https://www.gpblog.com/en/news/united-states-gp-weather-austin-set-to-offer-a-sharp-contrast-to-recent-races",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWl2U2pRbURIZzV0UjZoN01VMmJuYXlIMVE5T0NWa3k4cDFWRUYxZ3lweldyVC1INGdIU3ZfRW8wTlR2cnFWd2Rqbm9NSVNMVkJycldLanJ4ZDRHNHZ2TFdBNlg2NW9aU2NWam9NbmZMc0c0U1FvOVNfVS12VHNnQmhtcFQ2OGd0T2NtOE93Q2tZSFFoZTdHbmJSWXR6YkQ3X05jcm1CWU9JVWctWHdRSQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOHFqR1NyUnhEcVBwOW1zWWpPc2Y0X0RQU01kcjMxUWt5SUF3TjNBdU9RUnN3R1dYSERQeGVXZW5taHZDTUtIWGtZS1NfblN5Uk93Mi1nTDhGTWpXN3VON3JTM3FjaUF0TXdLZEtURXk3VFlfR2l5Q1NxUXgtc2Z2Sm5Tdk9xY09yWHd6Z3hsakU3VzdKNWZqSEUtYXhSRnRVRmhBV2V6SXhTcVRzczloSUxYZDhEcm9waTJwNzgwdnJobnN3Uk5fV0xTVHR1MGNPRm1r?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmJKQ0ZDQThWczFmbzc3N1VPRXI5cTJNN21kZWctSE5Kc1FmLWM2YXZCdDNnRDdqNkg4TFE0eFFYODRBZUNXbVZwbzJ5dkhmOFFYaVp6NURieEl4dGFkT0plT2ZibVE3SkJNTTM1NnhocEh4cDNPSGg4cTNQRVB5NnFRVDRNSFBpUlc2YXFFOHBrd3M1OFMxaU9aa2o3SXQxT05PYW1uR3hBYlk5?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzVTV2Z0VDZ6VUFneklDZnZ1N01LX2tiMkp6VXo0bmZNdFBVTTJZalo4a3VId0Z1NjlkVXRoZDVFSGRDMTNWZzdTVlFMUTBIeDJTNVRlb19DSG9zOHlacWRvcUNXQjFSUHdpRlBZSG1KVmw1UUxXRlZDaDdubTRUM2RwUENzVm11dldDT3NKRGhrdlAyNlJINHJGaHYtU0dVUlNvWk16bWtuZw?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2tHTGl2X0FiS1JSaVdIRTBSRlhuOEkxMFFCQXRscENtQkZidmZ5RUNMNkhXNU5uSFB3ZmNjUVR1QWQ4WmxBRFdta0laa0RCMzdQM0oxaHhWalhZSUVBWHd2a1NDNW13N1plbnhWQlZvRFRFV3c0aGx1MFpFMXd1NjBzSE9wSk56QnJQLThtUkVSOWM?oc=5"
+        "https://www.tntsports.co.uk/football/champions-league/2026-2027/uefa-champions-league-live-build-up-to-huge-games-for-liverpool-and-manchester-city-juggernauts-paris-saint-germain-and-barcelona-go-head-to-head_lci50030624/liveevent.shtml",
+        "https://www.racingpost.com/sport/football-tips/football-acca-tips/champions-league-accumulator-tips-for-wednesday-october-21-back-our-acca-at-5-1-ac3SG1g4koih/",
+        "https://www.theguardian.com/football/live/2026/oct/20/psg-v-barcelona-manchester-city-v-aek-athens-and-more-champions-league-live?page=with:block-6ad7b9448f08ed9449649a54",
+        "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
       ],
-      "published_at_utc": "2026-10-21T16:48:18Z",
-      "published_at_ist": "2026-10-21 22:18 IST",
-      "first_seen_utc": "2026-10-21T09:38:15Z",
-      "age_minutes": 17,
-      "trend_score": 23,
-      "rank_score": 0.9448,
+      "published_at_utc": "2026-10-21T13:00:13Z",
+      "published_at_ist": "2026-10-21 18:30 IST",
+      "first_seen_utc": "2026-10-21T13:00:13Z",
+      "age_minutes": 305,
+      "trend_score": 10,
+      "rank_score": 0.9604,
       "category": "sports",
-      "section": "top",
-      "source_type": "news",
+      "section": "sports",
+      "source_type": "youtube",
       "famous_names": [],
       "region": [
-        "GB",
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "F1"
+        "football"
       ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "GALLERY: Aston Martin reveal special livery for United States Grand Prix",
-        "Austin GP weather forecast: Will rain disrupt the United States Grand Prix?",
-        "Hamilton and Antonelli called up by the FIA at the United States Grand Prix",
-        "Aston Martin uncover celebratory livery tweak for US Grand Prix"
-      ],
-      "image_urls": [
-        "https://cdn-3.motorsport.com/images/amp/0R7BqXM2/s6/72945935-18-2.jpg",
-        "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Aston%20Martin/87802686-3337-19f7-f906-9ec5bb330be3.webp",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2025-10%2F20251017-0398m-68f3a26d9965b.jpg",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2025-10/20251017-0398m-68f3a26d9965b.jpg@webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f8d28794f9",
-      "key": "333-malley-run-title-ufc-yan",
-      "headline": "Yan On O'Malley's Title Run After UFC 333",
-      "summary": "https://boxingnews.com/news/Petr Yan says Sean O'Malley has proved he deserves a title shot next, though a rematch depends on Yan's trilogy with Merab Dvalishvili at UFC 333 this weekend.",
-      "sources": [
-        "Heavy.com",
-        "boxingnews.com",
-        "Yahoo Sports",
-        "Covers.com",
-        "The National",
-        "MMA Junkie",
-        "FightNews",
-        "MMA Sucka",
-        "talkSPORT",
-        "RG.org"
-      ],
-      "article_urls": [
-        "https://boxingnews.com/news/yan-omalley-rematch-ufc-333",
-        "https://heavy.com/sports/ufc/petr-yan-open-sean-omalley-rematch/",
-        "https://sports.yahoo.com/articles/rematch-petr-yan-insists-sean-155918504.html",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE5EU0cwNjhIUXYza3dBU2VIc2VySS1TZlJVWERXSi1GbmJqZzRuZGVIQUplaENTazV2bXBiS3Z2Z3RyODBxSmV3dEh4SGN5TURvN0tGYnAxUndKcXJUekowOGxMcDJPUkt3TnR4cGE4bklRUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTZkhzQm1hTGtHbVBsMVd1eUlsY2x2U2NycGE4ZzNsMW5Yb2poNkVWZGN4enJJUDN2dVRlSktnV210VWl1a25RRmdsbzN0R2tuZi03cDRHUUtmSEl0dUVZa2hDalFLdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWnlxUjd6RXVJX3ZuQTZ5VnVNY1MtMHVUOVFsUTlxUDQ2aDZrSjZLR082eXl6MXRuaE05ZFBTN3VlSU03YUVtWWlTams2TjZMa0traUZ2LV9TdEY2Ul84Y1pYTkx6UEx3ZnNOYS1XbDR3TkFDRkVaVndXRk9LWWktR1hSZjg?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT2FoRzVxVHZ0SjF0dnBDZHpUNHR4dGd6T3pidUpXWkRlUVdPaGVRcnNQb0g5U19nQWY5MGUyclpFWGpvc0o2d19MMmVSaU9aWHItUm5LdVlZOFVaS0I1OFBmcExMYlB4eHhpSHhkRGdzTk1XZHcwaHlKaVFlWXA0MDlnMEM?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE54UUR5d3hHdXFIcUN2TmxnUVl2MmhSWk1zN0YyQmxGeDB1b3ZKSzNUcllEQmpjTWdfWUU3ZFotYlplZ3czd2M4VnFKVHl6eUVITktBTS1KZW1scmpIdmRiX09ZVzJjQm9WS2pLd2ZUbHJScjNz?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T16:39:45Z",
-      "published_at_ist": "2026-10-21 22:09 IST",
-      "first_seen_utc": "2026-10-21T08:20:48Z",
-      "age_minutes": 25,
-      "trend_score": 22,
-      "rank_score": 0.9314,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Petr Yan Open to Sean O’Malley Rematch After UFC 333",
-        "Rematch! Petr Yan insists Sean O’Malley ‘definitely proved he is the next one’ after UFC 333 title defense",
-        "UFC 333 open workout highlights: Volkanovski, Evloev, Yan, Dvalishvili",
-        "Why There's Value on Volkanovski vs. Evloev at UFC 333"
-      ],
-      "image_urls": [
-        "https://images.unsplash.com/photo-1681040553724-d077fd769f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mjg0NTd8MHwxfHNlYXJjaHwyOHx8b2N0YWdvbiUyMGNhZ2UlMjBmaWdodHxlbnwxfDB8fHwxNzkyNTg5NDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-        "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1244153084-e1792600433341.jpg?quality=65&strip=all",
-        "https://s.yimg.com/lo/mysterio/api/0e84b8ff7dc18a97600e8b50b990932007bb5e24f26333e9344743130db3a0cc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2Fbc0e58d38336c3d677f7218dd304e547.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b53391bf98",
-      "key": "220-blockbuster-bring-comedy-grossed-hbo-max-million-romantic-sweeney-sydney",
-      "headline": "Sydney Sweeney Brings the Blockbuster Romantic Comedy That Grossed $220 Million to HBO Max",
-      "summary": "https://vergemagazine.co.uk/vodafone-together-offers-families-up-to-1054-in-savings-with-free-hbo-max-and-supermobile-plans/Vodafone has announced a major expansion of its Vodafone Together offering, giving UK families the opportunity to save up to £1,054 over two years while enjoying HBO Max at no extra cost, faster 5G+ connectivity and enhanced online security.",
-      "sources": [
-        "MARCA"
-      ],
-      "article_urls": [
-        "https://vergemagazine.co.uk/vodafone-together-offers-families-up-to-1054-in-savings-with-free-hbo-max-and-supermobile-plans/",
-        "https://www.aol.com/articles/5-years-later-hbo-maxs-212315000.html",
-        "https://www.cbr.com/hbo-dune-prophecy-bigger-than-game-of-thrones/",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQal9ZRXFtUlZOYlVQbHlHOF9jOUxPMXMxbk0xWFBsOGRzNWlOWGRyQmpzOUJ2SVdyVGt3R0dXcEp1Qk0yWmRhYnZ1dU81M0h4blR2dS1XOGhWa0h4bENLVmN6d21BRGc4UzZ2Q180N3dIT19MYUU3dWZsZ2RBakQwRUlkbUVRUXJ5NHoxU0tBOXFXanlURGJoWlAtVFNmeUJCQVBrdTYyYk5NZF9TNFMyeGd6UTlIWjgxRlVQUDZJZFNEa1R1WFVhTkpTUW5fX0hqY3cwNmNXSklKdDJWVUtBaNIB4AFBVV95cUxQal9ZRXFtUlZOYlVQbHlHOF9jOUxPMXMxbk0xWFBsOGRzNWlOWGRyQmpzOUJ2SVdyVGt3R0dXcEp1Qk0yWmRhYnZ1dU81M0h4blR2dS1XOGhWa0h4bENLVmN6d21BRGc4UzZ2Q180N3dIT19MYUU3dWZsZ2RBakQwRUlkbUVRUXJ5NHoxU0tBOXFXanlURGJoWlAtVFNmeUJCQVBrdTYyYk5NZF9TNFMyeGd6UTlIWjgxRlVQUDZJZFNEa1R1WFVhTkpTUW5fX0hqY3cwNmNXSklKdDJWVUtBaA?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T13:55:14Z",
-      "published_at_ist": "2026-10-21 19:25 IST",
-      "first_seen_utc": "2026-10-21T13:55:14Z",
-      "age_minutes": 190,
-      "trend_score": 12,
-      "rank_score": 0.9132,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
       "google_trends": [
-        "hbo max (GB 1000+)"
+        "football tonight (GB 500+)"
       ],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://vergemagazine.co.uk/wp-content/uploads/2026/10/img-4d0c1706-fba1-4f04-8d38-d73d61594ac3-Medium.jpeg",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHkPvRMtzwPuKXDU4IAkwZBhEQSU0P-_Jof8WCeWqdOlCW87cXAqKFalPw3Xw",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRPKC2PpKSN7EcFmwgGW4_EtaTKq2qPUbPOBcwiZmmn6pfwSLUGyAd0bV0hc8",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROOHspM1XX6G3RU0zGLDK6F1D-0oqkYBX0eTTmEFRHA7b0ZjjNsu2B4g0GpPs"
+        "https://i2.ytimg.com/vi/AoqWNdbZ-7Q/hqdefault.jpg",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQKEqMTdFf-LEdQOnHzj52FqH9oIohVtpsr9vIOFOxaT-jtshulIjBS8KGqwO4",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwNVvOw4etIn3HAzBWT61NooWkpuatrUBt3LfRXA2h3fOQ4CPqs7Ml6WM95No"
       ],
       "video_urls": [
-        "https://www.youtube.com/embed/eo1YpDaDgec?autoplay=1&mute=1"
+        "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
       ],
       "has_video": true,
-      "youtube_videos": []
+      "youtube_videos": [
+        {
+          "title": "It’s a season, not a single game.  #fcbarcelona #football #shorts",
+          "channel": "FC Barcelona",
+          "url": "https://www.youtube.com/watch?v=AoqWNdbZ-7Q",
+          "published_at_ist": "2026-10-21 18:30 IST",
+          "thumbnail": "https://i2.ytimg.com/vi/AoqWNdbZ-7Q/hqdefault.jpg",
+          "is_short": true
+        }
+      ]
     },
     {
-      "id": "e9a55cc8f1",
-      "key": "76er-adam-appropriate-deal-helicopter-involved-lebron-perfectly-silver",
-      "headline": "Adam Silver says LeBron's helicopter deal 'perfectly appropriate' if 76ers not involved",
-      "summary": "https://sports.yahoo.com/articles/The helicopter LeBron James is using to commute from New York to Philadelphia is tied to Fanatics.",
+      "id": "b110d9b2e9",
+      "key": "2569-bill-experience-joe-rogan-thompson",
+      "headline": "Joe Rogan Experience #2569 - Bill Thompson",
+      "summary": "https://finance.biggo.com/podcast/Bill Thompson, founder of the hunting-scouting app Spartan Forge, argues that resilience and performance under pressure are learned skills built through re",
       "sources": [
-        "Yahoo Sports"
+        "finance.biggo.com",
+        "YouTube: PowerfulJRE"
       ],
       "article_urls": [
-        "https://sports.yahoo.com/articles/adam-silver-says-lebrons-helicopter-164111448.html",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV3dpSFlWVW1obDFvaWxBektQWk5PcTN1MFFlTXdTaWpNeDBfSlAxSjBWLV9waXd3aHdDcnJVQ3lwMlM1Mmx4cHFsZTZWUVdlWi1hRXVGd00yN1FVdkNTNkZxdS0xQ283OHZvazBaUW5jTVRtZ25ydVVTSEROS1NTUWJhZ3doZ2l5VWFObg?oc=5"
+        "https://finance.biggo.com/podcast/60c414582d8dfc61",
+        "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXcmZlTENsZWVKQlhVRWFMazZibTdvUnBudnJ3MlRoMFNCaHJMTkM3NW5wLWl4b0NjMGh3NE5Hb0tlZkJYRnlhUkJaTG1ZSXNFX0o2Z3VVODVDcG5iamdz?oc=5",
+        "https://www.youtube.com/watch?v=vamsa0e8y4Y"
       ],
-      "published_at_utc": "2026-10-21T16:41:11Z",
-      "published_at_ist": "2026-10-21 22:11 IST",
-      "first_seen_utc": "2026-10-21T16:41:11Z",
-      "age_minutes": 24,
-      "trend_score": 7,
-      "rank_score": 0.9131,
+      "published_at_utc": "2026-10-21T17:27:39Z",
+      "published_at_ist": "2026-10-21 22:57 IST",
+      "first_seen_utc": "2026-10-21T17:00:03Z",
+      "age_minutes": 37,
+      "trend_score": 8,
+      "rank_score": 0.9211,
       "category": "famous_clip",
       "section": "top",
-      "source_type": "news",
+      "source_type": "news+youtube",
       "famous_names": [
-        "LeBron James"
+        "Joe Rogan"
       ],
       "region": [
         "GB",
-        "IN",
-        "US"
+        "US",
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
@@ -334,46 +273,188 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/a08a0788ace78c9e34244b4407f35368e302ce6d7fd59592c2cd0b7b8e582f5d/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fnbcsports.com%2Ff232d5820f6087de0a3756a6ab9aa397.jpg"
+        "https://i3.ytimg.com/vi/vamsa0e8y4Y/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/3a15d5e7-e4c8-3786-9a11-102dbcea93ca.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-        "https://sports.yahoo.com/videos/lebron-still-getting-rhythm-76ers-021453138.html?format=embed"
+        "https://www.youtube.com/watch?v=vamsa0e8y4Y"
       ],
       "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Joe Rogan Experience #2569 - Bill Thompson",
+          "channel": "PowerfulJRE",
+          "url": "https://www.youtube.com/watch?v=vamsa0e8y4Y",
+          "published_at_ist": "2026-10-21 22:30 IST",
+          "thumbnail": "https://i3.ytimg.com/vi/vamsa0e8y4Y/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "488539489e",
+      "key": "billie-business-collection-eilish-enter-finnea-hardy-jewelry-john",
+      "headline": "Billie Eilish and Finneas Enter the Jewelry Business With New John Hardy Collection",
+      "summary": "https://variety.com/2026/shopping/news/billie-eilish-finneas-jewelry-collection-john-hardy-1236918976/Billie Eilish and Finneas have entered their jewelry collection with two sustainable collections with the luxury jewelry brand John Hardy.",
+      "sources": [
+        "Variety",
+        "Business Upturn",
+        "Billboard",
+        "Yahoo News Canada",
+        "The Express Tribune",
+        "Daily Front Row",
+        "شبكة تواصل الإخبارية",
+        "People.com",
+        "Vogue",
+        "Glossy"
+      ],
+      "article_urls": [
+        "https://variety.com/2026/shopping/news/billie-eilish-finneas-jewelry-collection-john-hardy-1236918976/",
+        "https://businessupturn.com/entertainment/celebrity/billie-eilish-and-finneas-announce-first-jewelry-line-with-john-hardy-heres-everything-to-know/",
+        "https://www.billboard.com/culture/product-recommendations/billie-eilish-finneas-john-hardy-jewelry-2026-buy-online-1236364477/",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNREloU3Vnb1liSXpaX21RYVVSNXNSR0lTb0ZTRGxoeW82U3B4bVBOYWJxNWVyMVJwX0pHdEJZZEtaQUxqcW52dDAwWTNhcFBXU3J1ODg0VE9WMEVjSTQ2VFZVV2RLMWN6M3pFR1VyNXhTbXl5aU9lZVNVT3RMSzVkdHhBMU85cV9WOWJJcWRvMy1RYmlTcmlBdVNIU1p3NUQzNVJuRw?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVg1WnBibXpKSDF6M2Q3OGpFU2k0QzcxR3BsRENYdTB6akgwTkt5anNNVUlVWThOazBVYmFrS0tDTmU3RDFXeXNFdEhWSVpzQk9HNDFFT1hPc3A0Wnd3Nzc4TmlpYThyS0FoWHNCMFdqal90STJ6SXpNM1lQQUdqS2szU3FaOWpuUXlhUTFaQUtkUG9GT1FpRzA1dmJqR052ZlBHMlJqOVk2aDJMZ0Jqb3kxR1kzWmdwRG82YXVNdVZqZmJZb1FYWVZ1SlYxV3cwSHZ0VEtZdmpNUXp1YjEw?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRUtkS0F3NmJiWUcydnVKVEdSc2JiRnFMaXBJc1hyTjlaOE5hWmNNYkhadHpWejNGLVNQc09QUC1qcnJleHdBRHVKTl9mdUhER2hMQzY2WDh3SnpIRGFLVFcxZ25SZ0MtQnNKckwxQTdiQ3R6VHVUdDZIQlFkSXp4ZHlZUUZmRmhzbnlQTUpNUlFYSUhGMEIxbkI3M1BUU19DdmsycC1KOV9qMWNaN2hjVDNuajFhdEVjeEZHVkc5bWl2SW5E?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VV2hxbjZpVWVZRFpYLXBZVFpkUWJGSFZGRFJIcVFTX1BuT0tJRDhkUUZTUVkzbXJzWWo4bTEzSk9aWGVyNExmZWV2aXhGcXhOM2hXbUl5OVB3V2JON2NSNHlFbld3X000ZGluUG94cWpRSU1kdDAyWVhOcE83dw?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdlhaQWp4LTJkSGxxUjE2c1pETnFNX0FjR0pNM2xhbFhCeVBvMEMtaTdEMkJWS19SZWxCdnhkODI0N3VMcGwtNF85NVpja2J5TmJCYmIzbmU5OUtnYmR5RWtLX1paX3BncWZNU3NwV29QOE9yUzNkSGJhU2ZfaU10T1FwN3pGdXUyUHJQMmFQajBsYmlEMVBpVDMyUG1TRzhoRURvWVFkaTFRbkFDTmplTNIBuAFBVV95cUxNUTVnNktHOGN5MVdhb0FCaFZYMG5LS0hUYjNVYlNQdWlQYkRvMXU1aFBBdWpBYm8xR0ZlaUlsWnlZVnJHcHYwOWxmUHFxRk5Vb2s2dWdLaG1SeGxDbk9uc0VxUFJzSmNaM0VqQ1VIaHpOcmZIVXBCRUFVZXVKeEt4RlFrUkRIeVZYRHBoaTM3ZFBSb0k5Z1NBOWRiOExxTFM4VFBtaGVUZ3QyNXJTN1VaQXc0VG44RWNL?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T17:38:00Z",
+      "published_at_ist": "2026-10-21 23:08 IST",
+      "first_seen_utc": "2026-10-21T09:07:40Z",
+      "age_minutes": 27,
+      "trend_score": 17,
+      "rank_score": 0.9204,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Billie Eilish"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Billie Eilish and Finneas announce first jewelry line with John Hardy: Here’s everything to know",
+        "Billie Eilish and Finneas' New John Hardy Collection Takes ‘Wildflower’ From Soft Florals to Chunky Chains",
+        "Billie Eilish and Finneas Just Added Jewelry Designer to Their Resumes",
+        "Billie Eilish and FINNEAS launch new jewellery collections with John Hardy"
+      ],
+      "image_urls": [
+        "https://variety.com/wp-content/uploads/2026/10/billie-eilish-finneas-jewelry-collection.png?w=1000&h=563&crop=1",
+        "https://businessupturn.com/uploads/media/1792602837744-1oyuqn-untitled-design.webp",
+        "https://www.billboard.com/wp-content/uploads/2026/10/Billie-Finneas-Jewelry-Billboard-1548.png?w=1024"
+      ],
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "9d337ae02a",
-      "key": "cap-close-cost-enforce-fia-loophole-rule",
-      "headline": "FIA enforces new rule to close F1 cost cap loophole",
-      "summary": "https://www.motorsport.com/f1/news/fia-enforces-new-rule-to-close-f1-cost-cap-loophole/10866642/Teams will have to clearly separate their F1 and non-F1 staff from next season onwards",
+      "id": "a23557ee52",
+      "key": "anderson-contract-jame-lancashire-offered",
+      "headline": "James Anderson not offered new contract by Lancashire",
+      "summary": "https://www.bbc.com/sport/cricket/articles/James Andersonâs legendary career could be over after Lancashire opt against offering Englandâs all-time leading wicket-taker a new deal.",
       "sources": [
-        "RacingNews365",
-        "Autosport",
-        "The Race",
-        "Nextgen-Auto.com",
-        "Yahoo Sports",
-        "Motorsport.com"
+        "Sky Sports",
+        "BBC",
+        "The Guardian",
+        "The Telegraph",
+        "The Times",
+        "www.cricketnews.com",
+        "The Independent",
+        "Rediff",
+        "Cricinfo",
+        "Daily Mail"
       ],
       "article_urls": [
-        "https://www.motorsport.com/f1/news/fia-enforces-new-rule-to-close-f1-cost-cap-loophole/10866642/",
-        "https://racingnews365.com/fia-scraps-removal-of-f1-power-unit-rule-change-after-tweaks-to-regulations",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaUhhV3lPRDJoZzJheE5WaGs0RFpXYUJOQ19BV1lxTGJULUhTM3A4V1B2UFdPUHpqM3FwY2VuQXRIejhJM3hlamR6aUlIOFlsVGdsYlFHZWhyODdubXJWWDhBSXdqYndHTEV6dWFscEEtaGRwSWllejRaUlAzNWFqTWg4bW9pYTQ3LU1JeTNSdWpOQ1lUWFlGN2ZUTC0ybENJdjg4?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcnBUUjBCdElhc1NfWnAzQloyWURmemxHWnhQN01YeXZSOWk2Rk94SHVzSWRwcmtPNkRZLTRoZUl0MzZBMFJKdFczWmxYeE02Y1B1elVTdXFyNk5Db3QtYUdmeUdZaWhlXzJVZUhRZTQzaW1fOC1HTnZENnRGNnhPWFFFS2ZUNjRE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXFPckJMbzJvZFlaRHJOZExhVGR1RDk1cWkzOXBfNG1Ya1BCeHY1RGt2WHZhSXp6d0JxUDZJb25UWmREeGN3RmZHMktnU2lWcDV2VmNCREo4a0ZzTkxSVmdBWEJRaGZkSHZ1ZEdQeFJycTc0RDhqNEVJUjZaSzVVRDZXSUVpY0xUYkgtdWRGZTRQX3lLUmlBMVhFNUs0TFdzUkdPTl9BWEtuTnM3UlE?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjhDZzVTMnVhV01rSjBualJPRGVRRDd6eFZSM1VlSkExcHZELTJnODlESW1xWHk3NkNFOTdsRUpWMUFxVUVqbXM2N1NhRWVvOGlZQlBlZGNQeUttOGtnQnRWVnVUYzgyWC1udGs2N3h4QklJeWh1YjVlY2h6U2FRSGMzc1RSYloyNnNGRjBIOXp1YjhmQ2EzakJwVF83ejVINzk5aWdWTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXRDaEpKazVYWE95cmZreFYxUmlUY0hUV0Uxc3NPQndKazZWT2E2Ynl3SXVhcWhFSklBLVJBTjZ3YVpiMjRjT3hpdFlfa1ZVa0xnN3pnTW95a2xOZlg5MXdjVEZ2OGtLbFlyOENndldLQ2dMZ2VtV1BIM3lRNVhSNnR3bC1iSDJDWWd3bQ?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2hLVUJ2bDRFbGtrT2JzNEQ1X0sxeHNlTXFLTzdIanlFanhOYi1ySnNSZXVhT2t0RkpjQXRiQnVNN0lpbDMwWG82bFVLSjZjUDRZbTJ2eHlneXVaNTFDT2VWRTFRakJTT2hOenBwTVlGeFpMYU1TMTZDZWo5NHlUcHVoTTNPVVU0TDZDalNldzVmZUxGY2FyQlRmeVg?oc=5"
+        "https://www.bbc.com/sport/cricket/articles/cmy0ek8vnxzko",
+        "https://www.skysports.com/cricket/news/13601941/james-anderson-lancashire-decide-not-to-renew-contract-of-record-wicket-taking-seamer",
+        "https://www.cricketnews.com/en/cricket/news/james-anderson-retire-cricket-44-lancashire-contract/df9b3c73c310df1ba4f3657b",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmlReDlkck8wWWU3MXhGejl1d2R1Yko5Q3lKZzNDLVpGUTNNdUpZSzd1QTZka3U3aHJBT09WZlQwck9Yei1LNTdSamFMUllGeWdCMFVqd1pKMDBxek05dUYyenp3cUMyenB0WG1RYThwLXNGa0xBU1oyZWdaX2pQanRxRm1hMEtLSVFSZkdicHI0V3ZHcU10MlAzTFFUZ0RCWThzbTBuTzdEWGVRdktGdmRiVmFyazJrSHpKYUhQUElqc2tsNHNfTnJ5ZUtUUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ORmN2LXZHNmVZalZvOXBWd3dVSUF6c1JaekdzSFpxM1VwUEt4WlFMaEQ5dmYwN1JkZkdidXJNak5IU3pfYXZNQU03NDRFNE04MXlsakF5cEYxS01KY3gzcUlJM2xjUU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSGFEYnMyb0xJQWtzd1dmMkV6cnU1MElROExRYVp2YWFDT01pTkRYY2QxSnp3RksxeTRpeDItcmVYTmE4UG1fcEF6SFZoa3BEQV91MTlfcV82SXZJenA4TUhlYW95ZTNjblNoYVZIYXBrbWtyQkxGckY1LTZPNks4YkExdmZjeUYxVS1jR2ZoT0I4TDJDd0phcFFsUUVKSGlURGNLMGNkUGlaNFE?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0ZISnh1M2JzcTIybC1vdjJDdmJmeWFnNkZ0cEo1LXkxYjRIWTJnUDV5Uk9FS0JsNWRtRTJVMC1UUDNvQk9mVzZrWGdZSzFBRldicTVsM1dFUWF2Nmc0MXZIQlA5b2FmY0ZLYmZWbGZXczg3QnBqWGF5bEpLbmNvZUF1aTJVbDlCSGRLd0pwSlljVVJsQlhMeDBsRU5tVm5GOE5UTmhlTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDZoYkNBckZULUVQeVZwWVdjYTc3ZHhRQlBMV0s1ZWR4ZkJBVkJWYUMxYXJhQ3JhcHZ4RTFoXy1raGxBWERsUUMyMGN6dVVvYmhkRFh4WWRBUkdicXBUaXRjR2R6b1V0X2dCMnNnaEYzUzducDhhUF9pVWN1R1lfeFJ3RS1HMTMya0lEVjFDTGRpM0FvUEV1dTdjZ0FpX0toVVEzYnkySG1udnM?oc=5"
       ],
-      "published_at_utc": "2026-10-21T16:40:00Z",
-      "published_at_ist": "2026-10-21 22:10 IST",
-      "first_seen_utc": "2026-10-21T08:21:32Z",
-      "age_minutes": 25,
+      "published_at_utc": "2026-10-21T18:00:00Z",
+      "published_at_ist": "2026-10-21 23:30 IST",
+      "first_seen_utc": "2026-10-21T13:20:00Z",
+      "age_minutes": 5,
       "trend_score": 17,
-      "rank_score": 0.8921,
+      "rank_score": 0.9088,
       "category": "sports",
       "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "James Anderson: Lancashire decide not to renew contract of record wicket-taking seamer",
+        "James Anderson to retire from cricket at 44 after Lancashire deny new contract: England legend's international and domestic record listed",
+        "England cricket great James Anderson facing uncertain future after Lancashire contract decision",
+        "Jimmy Anderson set to retire from cricket at 44 years old after Lancashire snub new contract offer"
+      ],
+      "image_urls": [
+        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f69/live/208a7fc0-cd63-11f1-a64c-550be9e3c66b.jpg",
+        "https://ng-sportingnews.com/s3/files/styles/crop_style_16_9_1280_webp/s3/2024-07/James%20Anderson.jpg.webp?itok=Q9TC8GpE",
+        "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2024-07/James%20Anderson.jpg?itok=qp1jVMPS"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "39cd835220",
+      "key": "grand-laps-oracle-prix-state-united-virtual",
+      "headline": "Oracle Virtual Laps: United States Grand Prix 2026",
+      "summary": "",
+      "sources": [
+        "Oracle Red Bull Racing",
+        "Motorsport.com",
+        "Formula 1",
+        "GPblog",
+        "Paddy Power News",
+        "F1 Academy",
+        "PlanetF1",
+        "Formula One World Championship Limited",
+        "Grande Prêmio",
+        "Forbes"
+      ],
+      "article_urls": [
+        "https://www.redbullracing.com/int-en/videos/oracle-virtual-laps-united-states-grand-prix-2026",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcXNyUDNhRkFpWkFkZG0yckdQcXJxeDdBb0lzME93SkR6ZmZYUVBrS3dGQzZ3Z0dEN1k0S3FWbUZ1VWR2T3N1SXpPRG9sdXVCMl9IMFdnTzRETW4ybEh3WExUbzRIblZUdldxYTFTUTd3eEZRZmlMRW9MX0ZFQVVHdmtXWC01NTJqbjNlNDBXR1VxUVplUjFSMA?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWl2U2pRbURIZzV0UjZoN01VMmJuYXlIMVE5T0NWa3k4cDFWRUYxZ3lweldyVC1INGdIU3ZfRW8wTlR2cnFWd2Rqbm9NSVNMVkJycldLanJ4ZDRHNHZ2TFdBNlg2NW9aU2NWam9NbmZMc0c0U1FvOVNfVS12VHNnQmhtcFQ2OGd0T2NtOE93Q2tZSFFoZTdHbmJSWXR6YkQ3X05jcm1CWU9JVWctWHdRSQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOHFqR1NyUnhEcVBwOW1zWWpPc2Y0X0RQU01kcjMxUWt5SUF3TjNBdU9RUnN3R1dYSERQeGVXZW5taHZDTUtIWGtZS1NfblN5Uk93Mi1nTDhGTWpXN3VON3JTM3FjaUF0TXdLZEtURXk3VFlfR2l5Q1NxUXgtc2Z2Sm5Tdk9xY09yWHd6Z3hsakU3VzdKNWZqSEUtYXhSRnRVRmhBV2V6SXhTcVRzczloSUxYZDhEcm9waTJwNzgwdnJobnN3Uk5fV0xTVHR1MGNPRm1r?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmJKQ0ZDQThWczFmbzc3N1VPRXI5cTJNN21kZWctSE5Kc1FmLWM2YXZCdDNnRDdqNkg4TFE0eFFYODRBZUNXbVZwbzJ5dkhmOFFYaVp6NURieEl4dGFkT0plT2ZibVE3SkJNTTM1NnhocEh4cDNPSGg4cTNQRVB5NnFRVDRNSFBpUlc2YXFFOHBrd3M1OFMxaU9aa2o3SXQxT05PYW1uR3hBYlk5?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOM0QtT1UtYUhOSmdoalp3S1poZ1BoeGJ6UER6Z0wyYWx3ckh2R0ZkNXhuMUVCM1NGWE1vRERPZjMtTWNKLW5VY3A2cUwwY2tlb0RRNjczMF9TYkpKS0dPRkFtVXpYOGxKT3hRQWk3YThpS0gxVE5fTGdvSV9zUjlnenliNVZNYnZ5bmRpZVFYR0w?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlo2a3NDandBTm14Zk01X05KSENhVklncEFoZ19JQ1p0M3pIY3RGM1drQ25IU0M0R1FsTHhPOEdudXBoUDJvWWstUl9aeVdSaF9vMDdBaDFfWFJOQ1hhd1MtVG5xVjJoa0RVSVNQMUlSNVFSTUlYa3ZEYW1hSTFtWkIyTkNDVVlZckd6QzZ1WmdyeW55bzRFZTJqYmpNRFRESkxUTl9Dck9DYldJX2JpWUg5N0VPSVl2U3luSzNsamtwbVY3eFZqcW81ZEw2UW5laHBBZkl0N3pCNU0?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT1FXQ1hHVG1FWm9hZy1kZVVTZEtWRnRZM0I1Y0k5X1lvMjFzX1RoRjd6M1l1d1E2Z2k1dDBXc2s0QV9McWpvbkdnSjdkdzhOMlBEYms4UUdVaWMzc2FUaGhMOXUyODhDRkZGUTJNUTVhUkZ4OUQ1TWxxd0ctU1VEa19B?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T17:05:48Z",
+      "published_at_ist": "2026-10-21 22:35 IST",
+      "first_seen_utc": "2026-10-21T11:03:00Z",
+      "age_minutes": 59,
+      "trend_score": 21,
+      "rank_score": 0.8959,
+      "category": "sports",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
@@ -390,19 +471,166 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "FIA scraps removal of F1 power unit rule change after tweaks to regulations",
-        "FIA set to close F1 cost cap loophole with new rules",
-        "FIA imposes draconian rules on teams to stop cost cap exploitation"
+        "Mercedes F1 unveils dramatic new look for United States Grand Prix",
+        "GALLERY: Aston Martin reveal special livery for United States Grand Prix",
+        "Austin GP weather forecast: Will rain disrupt the United States Grand Prix?",
+        "F1 Tips: United States Grand Prix best bets include 7/2 Liam Lawson play"
       ],
       "image_urls": [
-        "https://cdn-8.motorsport.com/images/amp/0ZqAL586/s6/grid-2.jpg",
-        "https://cdn.racingnews365.com/XPB_1431764_HiRes.jpg?v=1792572640&width=1800&height=945&quality=75&crop=6000%2C3150%2C0%2C425"
+        "https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2026/10/21/t593h74pqseokuf7cwxe/oracle-virtual-laps-united-states-grand-prix-2026",
+        "https://img.redbull.com/images/c_fill,g_auto,w_1200,h_600/f_auto,q_auto/redbullcom/2026/10/21/t593h74pqseokuf7cwxe/oracle-virtual-laps-united-states-grand-prix-2026"
       ],
       "video_urls": [
-        "https://youtu.be/UtSUddTdDtA",
-        "https://www.youtube.com/watch?v=VAJPfvBXxbo"
+        "https://www.redbull.com/embed/rrn:content:videos:d1c4cba2-e018-4e51-be07-7a1af0bd62aa:en-INT"
       ],
       "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "1f039f5f90",
+      "key": "000-16-award-ceremonie-days-fly-lionel-matche-messi-mile-seven-two",
+      "headline": "Two matches, two awards ceremonies: Is Lionel Messi about to fly 16,000 miles in seven days?",
+      "summary": "",
+      "sources": [
+        "The New York Times"
+      ],
+      "article_urls": [
+        "https://www.nytimes.com/athletic/7710931/2026/10/21/lionel-messi-award-ceremonies-travel-air-miles/",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbTVod1lWWlRSTGdSOTZHZEkwWUxkbE9IQ3FUSTZKTVFMbWQxVUhsQW9ZV0J1eVVTRkZMS3hSYzZMMi0wMTlnelBkT29Nc2h2ZEY2R0Z1cjNHZWVwckRXcGhzZ0pRNmR1dGowOHVFUzFTaGZXNUM4RUJtRjdBR2tJZUFxSFJsbWNNUURQeG9ycXVYZzN0TEx2R29IbXVxY3ds?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T17:50:00Z",
+      "published_at_ist": "2026-10-21 23:20 IST",
+      "first_seen_utc": "2026-10-21T17:50:00Z",
+      "age_minutes": 15,
+      "trend_score": 12,
+      "rank_score": 0.8783,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Lionel Messi"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips",
+        "football"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "e15bc4f9a2",
+      "key": "grand-premium-prix-state-stream-united",
+      "headline": "How to stream the United States Grand Prix on F1 TV Premium",
+      "summary": "https://www.formula1.com/en/latest/article/Here is all the information you need to follow the United States Grand Prix weekend live on F1 TV.",
+      "sources": [
+        "Autoguide.com",
+        "GM Authority",
+        "Formula 1",
+        "Sky Sports",
+        "duPont REGISTRY News"
+      ],
+      "article_urls": [
+        "https://www.formula1.com/en/latest/article/how-to-stream-the-formula-1-2026-united-states-grand-prix-on-f1-tv-premium.1znJHvmSyYCxSTBDenzXtC",
+        "https://www.autoguide.com/auto/cadillac-f1-shows-off-western-wear-paint-job-for-us-grand-prix-44640769",
+        "https://gmauthority.com/blog/2026/10/cadillac-f1-team-gets-western-for-united-states-grand-prix/",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT0p1NG1teGw1azBzdGNjYjVXV0xxSHNFODlpREpYaWxfeVU5cmVfV1I5YUlkNkpqa1Q0Wmc1WldNQ2Z0UGZTLUY0cG1iMVdmbm9qeHB6WjBmSDluZWNxZW81VjdpdVBQdlZ2WkpMcnF2RVMycWJ1bUpfb1FaSFFLNEtBMVVqdDItUEtHa3lIdXhpdl92T1FCaUtZS3BlYW8xLURnZA?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzBSMjdkLS13bU9Dbi0zdkQ3cERFMGd2R1RndDFLUTlNcWFHQ19WY2hETGQycXJlV1g5U2c0Y1UydjlQMlQyTXlVemJ4TldLZUthZXhMWjhxU2x3UVZFbW9XU3hUWjBiTGdpcUZVVnp0TjdZSUoyTEs3MS16M202MlpSWFc0c05ZalhoeVdFMl82dmtSaXVPV1h1eXU?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa0dwcGNUVk1FUFNGSE5Ma0gwaEpOMzVWUzdQZU5DRGx3MEQxTHVSaXphdEFpdERCR1RqMUt2VWM3Z1ZFakdLNmVFUzNvNzNyMThscnBad05HTWJQeHE2VUJUNTF2b3RVeVk3U2hJZ1oxbTc1aC0tRjRJb3hjRDRlYktrZGRWNmJJX3hDSHpwT0hSbG5zNjd3dTZibVJWdUFxVUlreWI3a2NCXzVJRnR4dzRvRkFrNlRHOWd5TlBvTG85LXQzN2lnT3R4emk1N1JUWlpBZXZQYw?oc=5",
+        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQS3Z3ZlJMWmY2QnpDSmhpOGlHeGpLUng3VEVXM1VNNlR1X1l5MnFJNVBoWHdSOEpNSlVaQXpPYy1sVTFZSW5QNEhPWkpiMUxYVHBZbFBJWXFYNXd2d0I3aldsY0o4WU91WERUQ2ljMEp0dms5M3QzdkQtY0RrZDV2YUlmLUFaWkhJalZzZTVYdkRFNUs4RTNzWGFIVmNpSHVvSm1NenZ3MDJyMGtOTUI1X2NGdEZ2Q3I0UmtjTHA2SGpFZDg3N0dVR0g3VFJwTmFpYVJ1U0IzcXJiTHVENERpMmJqTHg?oc=5",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVVBScmVCU21ZR3M5Wnp3RVJGWlJib0RaTHRySmEyaVNIekVvMW50WTV0UmVFVFdELVhSSmRfMTFFd0pOcFEtLTlnSzBncy16V1JkSHJWdzVPbzhFZFFxZV9nN2UzUFFMQUNpNEJlV2w1T0E1VjREc3ZqSXc5VGVVNGcyZ2NsQU5aVE92R3hQYVRKQVVoTWhuenQ0YzFETVhKS3pTeXhUVzNuR2hYXzJ5LU9n?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T17:43:05Z",
+      "published_at_ist": "2026-10-21 23:13 IST",
+      "first_seen_utc": "2026-10-21T10:00:00Z",
+      "age_minutes": 22,
+      "trend_score": 15,
+      "rank_score": 0.8757,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Cadillac F1 Shows Off Western-Wear Paint Job For US Grand Prix",
+        "Cadillac F1 Team Gets Western For United States Grand Prix",
+        "Mercedes confirm Kimi Antonelli. George Russell to both run latest car upgrades at United States Grand Prix",
+        "Cadillac F1 Goes Full Western for the 2026 U.S. Grand Prix at COTA"
+      ],
+      "image_urls": [
+        "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2025/F1%20TV/F1TVPREMIUM_CANADA_MULTISCREEN_PRODUCT1_ENGLISH_726947_1920x1080.webp",
+        "https://cdn-fastly.autoguide.com/media/2026/10/21/13341/post.jpg?size=1200x628"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "eb093553bf",
+      "key": "31st-birthday-cat-doja-hot-paint-red-shot-town",
+      "headline": "Doja Cat Paints The Town Red With Hot Shots For Her 31st Birthday",
+      "summary": "https://www.tmz.com/2026/10/21/doja-cat-hot-pictures-for-her-birthday/Another day, another dollar, another birthday -- but this time, it's Doja Cat serving birthday suit realness!",
+      "sources": [
+        "TMZ"
+      ],
+      "article_urls": [
+        "https://www.tmz.com/2026/10/21/doja-cat-hot-pictures-for-her-birthday/",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFA4MkxNT2wwRnIxZ2FST1pXaUllbWUtNVc4aXZRLXUwVldpTWFvZGNTRVVRTUVJMzhVR1h4akQ0UDhDSF9tMlZoMkFLb3RaS2daUF9Ybmt6ZEVlUTJSVURLeENoc2VFQVkzUXY2VDkwcF9aQ002Z0NFTnNn?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T18:00:14Z",
+      "published_at_ist": "2026-10-21 23:30 IST",
+      "first_seen_utc": "2026-10-21T18:00:14Z",
+      "age_minutes": 5,
+      "trend_score": 11,
+      "rank_score": 0.8438,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://imagez.tmz.com/image/db/16by9/2026/10/14/db05879e514d40caa204e170e5c50cbe_xl.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -423,9 +651,9 @@
       "published_at_utc": "2026-10-21T16:38:18Z",
       "published_at_ist": "2026-10-21 22:08 IST",
       "first_seen_utc": "2026-10-21T15:35:00Z",
-      "age_minutes": 27,
+      "age_minutes": 87,
       "trend_score": 11,
-      "rank_score": 0.8555,
+      "rank_score": 0.8055,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -460,161 +688,40 @@
       "youtube_videos": []
     },
     {
-      "id": "a23557ee52",
-      "key": "anderson-contract-jame-lancashire-offered",
-      "headline": "James Anderson not offered new contract by Lancashire",
-      "summary": "https://www.bbc.com/sport/cricket/articles/James Andersonâs legendary career could be over after Lancashire opt against offering Englandâs all-time leading wicket-taker a new deal.",
+      "id": "49458c1e07",
+      "key": "another-blast-chemical-evacuation-explosion-fear-force-ohio-raise-tank",
+      "headline": "Ohio chemical tank blast forces evacuations, raises fears of another explosion",
+      "summary": "https://www.cnn.com/2026/10/21/us/live-news/A hazardous chemical tank release in Toledo, Ohio, forced hundreds of residents to evacuate or shelter in place, and the mayor warned Wednesday that it could still be explosive. Follow for live updates.",
       "sources": [
-        "The Independent",
-        "Sky Sports",
-        "Daily Mirror",
-        "Rediff",
-        "The Telegraph",
-        "BBC",
-        "The Times"
+        "CNN",
+        "wtol.com",
+        "Detroit Free Press",
+        "FOX Weather",
+        "Toledo Blade"
       ],
       "article_urls": [
-        "https://www.bbc.com/sport/cricket/articles/cmy0ek8vnxzko",
-        "https://www.independent.co.uk/bulletin/sport/james-anderson-lancashire-contract-offer-cricket-retirement-b3070924.html",
-        "https://www.skysports.com/cricket/news/13601941/james-anderson-lancashire-decide-not-to-renew-contract-of-record-wicket-taking-seamer",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGw4YmpVN2RjTUpTb3MzUHNVZ1JwRzhvQzZUODhIeS01S1dzYWxpajdkSnhURXl4ODZzYWFNcjJFZWU5ZGFzSnAyQThfdXdPelEtTGFTM0lfLWNjclVkQ0NVQ1RoVFZfVUE3ZGJHajAyel9lNG1qd0VXd0VPc1RzbV9ucV9OQWNYVllpeGxTdzM4WDdLM0ZOcDVxV3RRWEQ5UVZ0NGJ5MnRSdDItYmxBeDduRkxQTGtFYUE?oc=5",
-        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZmlReDlkck8wWWU3MXhGejl1d2R1Yko5Q3lKZzNDLVpGUTNNdUpZSzd1QTZka3U3aHJBT09WZlQwck9Yei1LNTdSamFMUllGeWdCMFVqd1pKMDBxek05dUYyenp3cUMyenB0WG1RYThwLXNGa0xBU1oyZWdaX2pQanRxRm1hMEtLSVFSZkdicHI0V3ZHcU10MlAzTFFUZ0RCWThzbTBuTzdEWGVRdktGdmRiVmFyazJrSHpKYUhQUElqc2tsNHNfTnJ5ZUtUUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR3pyQmFMYV9GX21EVkJNbVMxZHlsZzhZNm9GME9HUXBMV1BLQkVmdGZIRTY0MDJ6aVVjU3ZHREpzRGZ0OFJBaDczTjhfdVhKdWo0TGgyT1pXNWxEQ1N3Ri1aUEJJUU1mVnUwUjJrbTV2ZkRXRTJLV0ZWZkRFVW1WV3Jya3RnZ0pSZkVlWTNobGlmY3NWZEHSAZsBQVVfeXFMTmdvRFNDN3Y4OS1mWDNNampXVlYtTU4teHBaTmF4V3J6WGlQTXUtWmhmT2RtTngyMXNJc05QVnNpeXVENmIzYTBJdTFHbjFfSHdpRWtTeGR3M3c4QkFMeFBRZjN4MnhtZGFJUkNCOUJyV2hfdkNEQnhWTDhacnpNQVRHcU1VUEVtLUJnR3pKMG1DYk1EazROTjhmTzg?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTWN4c083SmlicG9QdHhRTmJaWEZSaVgxX2RIc3hfLVZ4enBaQ3gyRzlDN2M3VXYxaWVJYU5HVXpscEJnMjJCS01qRy1SdlpNd1I2Ylc1ZklBWE5BZ1FsRWl3NzRTV3lxTldrcjE2XzVENDJTQnFYd1FlSzhEMHZjb2JPd2kzekF6R3FvMTZaT2UydDByS1hjVTdCNGxWanlWbENIaEVxQXFYZUYxcFZGVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVVKNlVuN3RFdWdVcW80ZTFlZk9yOHZBZFVLUFkydWc1YlpzSTZnSjZxZ1dQS2Rlc0kxRHpzOG4xWjk1elcxNU50NThHRDhaVUMtMFAzMnBQSGpXQUhYc0QxRnZBR3ZFaTRXRGVOQ1hhcnB4b1pvRGpid0poTnlQV0IxYXYzYnU4QXlNSk9aYU5DdDFPSk14N3RlaVhtcE1jbFHSAaQBQVVfeXFMTzNQZHZyRzEzMXI4NDJWX2o3VDlfYmlLbUFLRlpzU3VzcTc1em1xNEpub3FYc0ZwekJmMUJjT0xUXzVhS1Nkc3BMUUFPTmJuSWQxNUJDVjhnbVAzLVpaSDBSWE5TQXlGb1F2YjdCOXJIWG0zdlpRNlNkTmRPR0ZnT3Z2NllfY3FETHBma3g2QVZGcnlGMXdVTHNXTWNZeC1DRXNfX1k?oc=5"
+        "https://www.cnn.com/2026/10/21/us/live-news/toledo-chemical-tank-explosion-ohio",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWk1lekVKWUpRSFJITzkyYVNPOEdfYjlCc2swZzQ1cnQ2UXJNZjYzQ290QVdvU1h4am8tbjFQV1FBLVI2bXpEUEhLSDduZHB0eVNGZ2JLOTZwRFVNMWVLMWp4RzhvamZkWnQtd1pnVzM3Y0FlSmpEbGFvN1hmb2U2QzAweUx5UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3pnRU1VWTZwMnozeDd6TFRaOVl4TE8wYzE2Q2Z1UWFOenBpNGRGcXZQSmhUVl9ZRzVTYndydDNvZGdwSEl1SnBpLXo3bUNEbGtJbHFGMmlQOGRUZFBWTU03SEpLQzJQYzh0U0h2NmtpNjlrUFRheldwVkE5dzVEemlyWGptN0VGRnZmSTNyMWFTdDRfTVZQMHZDOG5iVThxS3Q3d205cHlXaWlyNHV1VmF4OU5yMUVYZjVIVG5Iaw?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZDZja3Z2aXBLNWM4WkppNmROcktySnZtbEhtYWtqSHFvZEp6d0JGanZacFJ0cDhCR1E3aDAwajRHbXZObDYyUG95WGpyc2JHVzh4VGt0LUdPa3lZRHpZTHBhSDQxVV9mX0JqSFMxcFoySGhPMDE2Mm0xTnNfbVh5UWlwc2VlT0x6dW9WRWc4TFh3RVlTdERUWElfOTFXMjR0MGdmOEdtc3ZOWERkci1fQndFS1lkMTVGMHlXbFVTQ2xSU0JQWE5ZR0tIM2FFdFl0SHIzWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQREQ1TzB0WlpRU3VxcmtwenNJX01VZGVSakpIU0FhX0xPLXRaam0zb1UyY0c5ako2elZMWFM5anBFUzdBdFlibDVwUmVWR3RVQmZaTlFhOFM2SFVlOWR0MmdPeWpxTDlPRmtGaFpCZ0J2ZzZrQ3VsVnpfRmZXaG1YdEdGOFRmQmlEbUJDdzVabWN1UTBvNEZEOFlxcUNlMkwtVl91eEdDWjRCb3BGajBvM0FlWWFIbTjSAbwBQVVfeXFMTWRsSzV4ZFlDRlFxSDVzSnhPaTZxUGp5MnNjNU1xTVBFeEhXR3RDMVRWOXlra3F0V05zaWVCX1BsdWp2ZE1fd2hJamh0Zi1oMGJHaXIzckhMNS0wakhXUUhCZFFyRGdCakFwM2M0eGJDTUVTcWRzSnI2WUxqMWZMS0cyRmRqdWVkWE4zR1oydnRZUWNrXzNySWZxYmkwVjF4am0xSWhRN2pfWXp2U3BuTmFQem4zU1czNlZaY3U?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR0lkVS1VcW9XTnBjaDR1RFNaOUpRcHVtcFp4aUdvbFlVUm9kOXhqTHpYUUtJZWcwdDVZbVZGckN3MWVxaTAxa1lCTHFIS2tHVEZ2ZFMxaXpPSHcyazBDMjZqSVpTTGVMV05PdXp4SDgxR1pzSTI4WGxPX3ltdXpCRmk4XzZzamN5eG1uOW9QZmFsaTI0ZlFRTmZNSi1yN0pNZmdrcFN6N29NUzE0dWhrM0p3M3h5UjZfcjIxTktpWkpFWnRTS05rS3Rn?oc=5"
       ],
-      "published_at_utc": "2026-10-21T16:36:00Z",
-      "published_at_ist": "2026-10-21 22:06 IST",
-      "first_seen_utc": "2026-10-21T13:20:00Z",
+      "published_at_utc": "2026-10-21T17:36:00Z",
+      "published_at_ist": "2026-10-21 23:06 IST",
+      "first_seen_utc": "2026-10-21T17:36:00Z",
       "age_minutes": 29,
-      "trend_score": 13,
-      "rank_score": 0.8485,
-      "category": "sports",
-      "section": "sports",
+      "trend_score": 6,
+      "rank_score": 0.7375,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "England cricket great James Anderson facing uncertain future after Lancashire contract decision",
-        "James Anderson: Lancashire decide not to renew contract of record wicket-taking seamer",
-        "Jimmy Anderson 'set to retire' as Lancashire decline England icon, 44, new deal",
-        "Jimmy Anderson set to retire from cricket at 44 years old after Lancashire snub new contract offer"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/4f69/live/208a7fc0-cd63-11f1-a64c-550be9e3c66b.jpg",
-        "https://static.independent.co.uk/2026/10/21/17/2276418710..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "1bfc2f9762",
-      "key": "billie-collaboration-designing-eilish-finnea-jewelry",
-      "headline": "Billie Eilish and Finneas’s Latest Collaboration? Designing Jewelry",
-      "summary": "https://www.vogue.com/article/The brother-sister duo have designed a new sustainably-minded jewelry collection for John Hardy.",
-      "sources": [
-        "InMusic Blog",
-        "Vogue",
-        "Glossy"
-      ],
-      "article_urls": [
-        "https://www.vogue.com/article/billie-eilish-finneas-john-hardy-jewelry-10-21-2026",
-        "https://inmusicblog.com/news/billie-eilish-fourth-album-update/",
-        "https://www.glossy.co/fashion/john-hardy-embraces-celebrity-collabs-with-new-billie-eilish-and-finneas-collections/",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTE51bHFhVmdIVkdCQ21PWXdWYlNjVThzdzdON2kxTXU5eDAyRTlmOGFSZFpBTUtsUTAzR2FZOUFQc1cwMVNjeGdfRS1feG1xdlJuUnBlVHUtcENCOEhPeWsySWVYUFdTTHhoVVhJblR0WHY?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUl4cW9LLV9pcUxudEFMeW9tVjZxQnRrX3lkN25aQ2tMSGRXNy1YbE4xb1U3LU5JZXprTDJkTjZIM3VXallvNHpacmtEdmZaY2xQSWRrSEc5OU9xamtCcUdzMnBNRDZKcHVIc0kwNEF3TENkNnFqclVpUWx2dkNmdVNqbGxQNHJK?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN005VlRhNGNXWGNVWEIwV1Jya3FjQWw4dEpUQVZ4YnRvZXEzWUtya0tKTDZDZzdvY3VpOUtpMEpDRHRaZGdTUC1ZcVFnZ2xCYjU0dDF3cjdWbEFYTHVVem80WE9XazZLYU1jUlhEcERQai1xNTAzQ2p4SXcxMW9RdmlpZ2k3VkJ1NE9teHJrekI1Zko1WDAzZ0JWandsM09wdGtCckhnYm5QM3p5bnBPQnp6RlQ2dw?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T16:38:11Z",
-      "published_at_ist": "2026-10-21 22:08 IST",
-      "first_seen_utc": "2026-10-21T09:07:40Z",
-      "age_minutes": 27,
-      "trend_score": 10,
-      "rank_score": 0.8416,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Billie Eilish"
-      ],
-      "region": [
-        "GB",
         "US"
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Billie Eilish Says She and Finneas Are in “Serious Album Mode”",
-        "John Hardy enlists Billie Eilish and Finneas as first celeb collaborators"
-      ],
-      "image_urls": [
-        "https://assets.vogue.com/photos/6ad77c05601881353024cc15/16:9/w_1280,c_limit/B&F_COLLAB_FINNEAS_BILLIE_DUO_FALL_26_R300_4x5%20(1).jpg",
-        "https://assets.vogue.com/photos/6ad77c05601881353024cc15/16:9/w_1280,c_limit/B&F_COLLAB_FINNEAS_BILLIE_DUO_FALL_26_R300_4x5%20(1).jpg?mbid=social_retweet",
-        "https://www.glossy.co/wp-content/uploads/sites/4/2026/10/BF_COLLAB_FINNEAS_BILLIE_DUO_FALL_26_R300_4x5.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "fff6e5ba0c",
-      "key": "000-40-dawn-game-huge-overview-revealed-trailer-war-warhammer",
-      "headline": "Huge Warhammer 40,000: Dawn of War IV game overview trailer revealed",
-      "summary": "https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed/Discover the factions, missions, maps, and more for the video game.",
-      "sources": [
-        "Warhammer Community",
-        "PC Gamer",
-        "Inven Global",
-        "IGN",
-        "TechRadar",
-        "Polygon.com"
-      ],
-      "article_urls": [
-        "https://www.warhammer-community.com/en-gb/articles/0ruvpa79/huge-warhammer-40000-dawn-of-war-iv-game-overview-trailer-revealed/",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGgyN3lvYVJJOE5QRUx5Nk11UElfVUF0dUJJV3NscUlUU3F0cjdTRktKdzl2V29SMFdOVXRVb094NThldkp1SVNpUmxCUlJjLThmNUJoR0JpblBoU3h5TnlMcU5LN2VfdFJRZnZFYWtFYmJxT2E0QVBXR05mU2pMVUJWVElwcTBVd1dqRHFlWWNTQjdwTkFoZGpEWDJsWVZzYlVKbnpVRTNRdFJUUENzYjQwNk5VY0tFazFuNVBwMnhlbFVEYUE?oc=5",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSy0zMkZIQXhlT2I0QjZlYjd1MEtmd0tKb21id3RtNDNHY0NfR2pzcVRmczZVaXp2ZlI3NU1aRzZpOHhmczdOVzRMZFdfdkR4Y3oweXB5dW93aGs4RFZPZ1BjZ1pLei1wTFlEbkYyeHpaaTREM1ZWQmw5ZFNyZlhJOXpKUEd6N0F5dWx1YjMxRTVabUNTT3oyamxYNmc1MEdGYVVhQlZpM1NGOW1LZUptSlpHclk?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUV9EZ0dRWDRyeGN2cnV3TjdzdDM5THM1OUpNdUJUNFFxXzFwb2Q1TnpCWWZPRlEyTENnN2wyNWhGYlZVdTRZV2xCMS1pdDJsOW1XMmk1eGl5WWlzSFZzLWE4QURYa1U1VlNBMzhLVGtVZGYxTl8zSjREbDdTOGJ2RlYzRW52M1ZtUVpMT2l3ZmwxV09ZX2pkWTVaOEozVUdVZ2l2QWZCTlhDdE9h?oc=5",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVVZmNkdYTXpjUmNYN2RockJzQy1waUtWX2Q1N2lLNm42dFVXOXRlMC1LVGs1aEdQTnpkWXNuWW05WGIwbE1rOUZ2eUNzOXZLLVhqVjFQajZ5VXdxRjFYNExERl9FNUM0UFR4bmFoXzBuQ2VhYzFwX1F4ZWNRZ1dmWGphenJYUS1MNFE1WVEweXJ2MVR3c1U2SGtROHV0ZXhiNmhSZlhleXpVbjFtWmNYLWNib0xMWThRMk0zSWVsSDk2Slk?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZeHJmSFJSMHBoWGRKX2lLVVE2SkVkc25nM0oxd3dhRmhTOWJMV1RUcW1yYTVEQ2tReWlhY2NiN21LQUdGMUVFcUhCVHhGSW5oWmNKTVlROFlSOXFxQkdNUEd0WFllOS04cDhvVE1fZzVIVzRlLVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3czJRWnRHVExJbGdXTUN6b0xqT3dCay1WY0pYYWJGTjlsS2trc1ViVVZTN2hkTjB6dE1iN2Zic1Q0UHNPMU1hTk96ZlBsdGo0aTVfWUprVGZOUQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T16:37:09Z",
-      "published_at_ist": "2026-10-21 22:07 IST",
-      "first_seen_utc": "2026-10-21T16:37:09Z",
-      "age_minutes": 28,
-      "trend_score": 12,
-      "rank_score": 0.8375,
-      "category": "celebrity_music",
-      "section": "technology",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
@@ -622,32 +729,34 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://assets.warhammer-community.com/dow_gametrailer-oct21-1-feature-dscknvvdp5.jpg"
+        "https://media.cnn.com/api/v1/images/stellar/prod/still-23090541-29632-735-still.jpg?c=16x9&q=w_800,c_fill"
       ],
       "video_urls": [
-        "https://www.youtube.com/embed/looanXFCb_k?si=Mry27X_51AIRoYls"
+        "https://media.cnn.com/api/v1/images/stellar/prod/still-23090541-29632-735-still.jpg?c=original",
+        "https://clips-media-aka.warnermediacdn.com/cnn/clips/2026-10/2405719-ddbb9f3c1921478b8d039a0dd15f63b2/mp4/toldedo-hazmat-tank-aerial-2405719-1920x1080_8000k.mp4",
+        "https://media.cnn.com/api/v1/images/stellar/videothumbnails/98585786-94666684-generated-thumbnail.jpg?c=original"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "3dc24f9575",
-      "key": "agent-ceo-happen-never-only-pnc-transaction-‘-’",
-      "headline": "PNC CEO: Agent-only transactions ‘will never happen’",
-      "summary": "https://www.bankingdive.com/news/pnc-ceo-bill-demchak-ai-agent-only-transactions-will-never-happen/833609/The Pittsburgh-based regional bank has made big bets on AI internally. But Bill Demchak said agents transacting could “mess with people’s lives.”",
+      "id": "818360e5c0",
+      "key": "beta-context-data-mcp-model-notified-open-program-protocol-service",
+      "headline": "Notified Opens Model Context Protocol (MCP) Beta Program for PR and IR Data and Services",
+      "summary": "https://markets.businessinsider.com/news/stocks/Key Facts: Notified MCP connects Notified’s Content OS and IR Hub platforms to AI agents, starting with Microsoft Teams and Copilot and the agents...",
       "sources": [
-        "Banking Dive"
+        "markets.businessinsider.com"
       ],
       "article_urls": [
-        "https://www.bankingdive.com/news/pnc-ceo-bill-demchak-ai-agent-only-transactions-will-never-happen/833609/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUHVYZktEdTlLNEQ4ejYxcU1xT3o1SnczbXBLYnlUUld3R1FTZHhXWEJqd09VdWQxME9WYUZaQjBKM1QxUGRWY2c4RDkwQjFLckdxdVZKbVl3RUxZQndjOS12cDMyY2tURTU2OUlVSUpUZWFXTXh4Q1ZTcnZJd0NoZXdIWVRPbTlrVjNzZnBLNV9DRmRWTUZ2cVZkeWZkYmpLWGpNUnpoa09vQQ?oc=5"
+        "https://markets.businessinsider.com/news/stocks/notified-opens-model-context-protocol-mcp-beta-program-for-pr-and-ir-data-and-services-1036650326",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWTdRTzcxWjVnUnhMWTJfSnBOWlhRYzM2Q1JTN1NVcmE0ZWxTTHJjRWRSenBNUGJHakVnOFJGMDItNThjclhLWGNtdXZvMkVkNWRRRG9UZW94RTlSQ3lVdXR2Y1NmNUZyU3Q1STA1eExDYjEtYkJVZkZ1STlwUWZJQmN5MjJyRkdyaHZFZXo1cUx3T2wwR255TDJXdWE0VmFmNUNhU21zS1lueWpCOWtqazVac0NqbHVhRDkwTWNQbURyVFFFNDNFck5iTVdkQjg4UnMyRW5jR3FGUkRrOFE?oc=5"
       ],
-      "published_at_utc": "2026-10-21T16:41:41Z",
-      "published_at_ist": "2026-10-21 22:11 IST",
-      "first_seen_utc": "2026-10-21T16:41:41Z",
-      "age_minutes": 23,
+      "published_at_utc": "2026-10-21T17:16:31Z",
+      "published_at_ist": "2026-10-21 22:46 IST",
+      "first_seen_utc": "2026-10-21T17:16:31Z",
+      "age_minutes": 48,
       "trend_score": 6,
-      "rank_score": 0.7425,
+      "rank_score": 0.7217,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -667,57 +776,55 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://imgproxy.divecdn.com/HPibrk6DDcZNrOwnu_mkpVtsyccMJ-Im_nNkarjl6SA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iaWxsX2QuanBn.webp"
+        "https://ml.globenewswire.com/Resource/Download/5ee24f13-0f4b-420a-9586-e4b21532dca3/notified-mcp-first-of-its-kind-for-public-relations-and-investor-relations.png"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "f7a6a95815",
-      "key": "bayern-chelsea-cristiano-erik-hag-lays-munich-radar-ronaldo-star-ten",
-      "headline": "Bayern Munich News: Chelsea star not on FC Bayern’s radar; Erik ten Hag lays out Cristiano Ronaldo; and MORE!",
-      "summary": "https://www.bavarianfootballworks.com/transfer-rumors/269826/FC Bayern might eventually want a right-back, just not right now.",
+      "id": "514dedb72b",
+      "key": "boston-def-discuss-doll-garden-goo-leppard-tour-upcoming",
+      "headline": "Def Leppard and Goo Goo Dolls discuss upcoming 2027 tour at Boston TD Garden",
+      "summary": "https://www.cbsnews.com/boston/video/def-leppard-and-goo-goo-dolls-discuss-upcoming-2027-tour-at-boston-td-garden/Members of the two iconic rock bands discuss their career and what fans should expect when they perform at Boston TD Garden in March 2027.",
       "sources": [
-        "Bavarian Football Works"
+        "CBS News"
       ],
       "article_urls": [
-        "https://www.bavarianfootballworks.com/transfer-rumors/269826/bayern-munich-chelsea-erik-ten-hag-manchester-united-cristiano-ronaldo-tottenham",
-        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNXdqTmNoYTExQnV1alBHSWRJbVBLTGhQZ2JKc3ZCcGU0bVhtTUszLW9hRWlmWGR6SU0tNWRpR29rQ2tvMDZLRjFHdFJxVE5RT29QQklKdGpYSWhkZWVkTFZpX3dBS00ycjkxNXU0eUlzYktHNzBKeG9aUEhvR3duTmQ5QzNxXzVwSTZaRnp2Nm5maGxuNVVLdURtYlRHcllDTW9CWEEwcnJhT3FjY2FUYjQ1V0lNU0RxZ0Z4TnpQTWplUkxVNFNxR3FVeXI2clBvV1M4c0I2cWg?oc=5"
+        "https://www.cbsnews.com/boston/video/def-leppard-and-goo-goo-dolls-discuss-upcoming-2027-tour-at-boston-td-garden/",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzZacGl5TGZzeXJVd3dmNE8wNVJoZXZWd0hYd3NQcGc4UVFxYmk3OHNKZFRLb1RqZW5mZnBkSzhFZEFxV1daZ1ZrU0staTh0SVNuY0ZxQ3gyOC1SQmNoVXZrbmVLRmFnNDdET0JkUThjdjBrbGFUWHpnb2x0SmVqV3ZWV0hSS05LeHBrNGVoUTFmMTVmV3RPVHVxWkxMLTl2X282ZDdTNlVORnJDUVVnOUUta2E?oc=5"
       ],
-      "published_at_utc": "2026-10-21T13:45:00Z",
-      "published_at_ist": "2026-10-21 19:15 IST",
-      "first_seen_utc": "2026-10-21T13:45:00Z",
-      "age_minutes": 200,
-      "trend_score": 13,
-      "rank_score": 0.736,
-      "category": "famous_clip",
+      "published_at_utc": "2026-10-21T17:12:00Z",
+      "published_at_ist": "2026-10-21 22:42 IST",
+      "first_seen_utc": "2026-10-21T17:12:00Z",
+      "age_minutes": 53,
+      "trend_score": 6,
+      "rank_score": 0.7175,
+      "category": "other",
       "section": "top",
       "source_type": "news",
-      "famous_names": [
-        "Cristiano Ronaldo"
-      ],
+      "famous_names": [],
       "region": [
-        "GB",
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips",
-        "football"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2300991053.jpg?quality=90&strip=all&crop=0%2C11.489286999764%2C100%2C77.021426000473&w=1200"
+      "image_urls": [],
+      "video_urls": [
+        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910968_hls/master.m3u8",
+        "https://www.cbsnews.com/boston/video/def-leppard-and-goo-goo-dolls-discuss-upcoming-2027-tour-at-boston-td-garden/?embed=1&ftag=CNM-00-10aag7j",
+        "https://www.cbsnews.com/boston/video/def-leppard-and-goo-goo-dolls-discuss-upcoming-2027-tour-at-boston-td-garden/?embed=1"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -738,14 +845,15 @@
       "published_at_utc": "2026-10-21T16:06:34Z",
       "published_at_ist": "2026-10-21 21:36 IST",
       "first_seen_utc": "2026-10-21T16:06:00Z",
-      "age_minutes": 58,
-      "trend_score": 7,
-      "rank_score": 0.7347,
+      "age_minutes": 118,
+      "trend_score": 8,
+      "rank_score": 0.7036,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
+        "IN",
         "US"
       ],
       "language": "en",
@@ -780,9 +888,9 @@
       "published_at_utc": "2026-10-21T16:00:14Z",
       "published_at_ist": "2026-10-21 21:30 IST",
       "first_seen_utc": "2026-10-21T16:00:14Z",
-      "age_minutes": 65,
+      "age_minutes": 125,
       "trend_score": 5,
-      "rank_score": 0.7167,
+      "rank_score": 0.6979,
       "category": "other",
       "section": "top",
       "source_type": "youtube",
@@ -819,146 +927,6 @@
       ]
     },
     {
-      "id": "509f77daa4",
-      "key": "21-forecast-midday-next-wbz-weather",
-      "headline": "Next Weather: WBZ midday forecast for Oct. 21, 2026",
-      "summary": "https://www.cbsnews.com/boston/video/next-weather-wbz-midday-forecast-for-oct-21-2026/Sarah Wroblewski has your latest weather forecast.",
-      "sources": [
-        "CBS News"
-      ],
-      "article_urls": [
-        "https://www.cbsnews.com/boston/video/next-weather-wbz-midday-forecast-for-oct-21-2026/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMlhLR2lxcnhiQjQ1SU5walpDaUJfZ3VwZXFhci1uNmZNRjlQaDgwQUEwN09rZnFMVDdpZmN2V3V0YlJBeUZEam5DYkJ1MEREb3UxTEdIZmFncFBVMzgxdElSU3JUQTREbDl4YkMzUDNTWjRoemNJMi1LSi1CYVNMaG9UZHlyYU93dGxWUjRmZw?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T16:20:00Z",
-      "published_at_ist": "2026-10-21 21:50 IST",
-      "first_seen_utc": "2026-10-21T16:20:00Z",
-      "age_minutes": 45,
-      "trend_score": 5,
-      "rank_score": 0.6995,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [
-        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910808_hls/master.m3u8",
-        "https://www.cbsnews.com/boston/video/next-weather-wbz-midday-forecast-for-oct-21-2026/?embed=1&ftag=CNM-00-10aag7j",
-        "https://www.cbsnews.com/boston/video/next-weather-wbz-midday-forecast-for-oct-21-2026/?embed=1"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "ad50c0eaee",
-      "key": "explain-farwell-grooming-matthew-psychologist-stage-trial",
-      "headline": "Psychologist explains stages of grooming in Matthew Farwell trial",
-      "summary": "https://www.cbsnews.com/boston/video/psychologist-explains-stages-of-grooming-in-matthew-farwell-trial/Prosecutors claim Matthew Farwell groomed Sandra Birchmore when she was a teen, allowing him to abuse her for years. WBZ-TV’s Penny Kmitt reports.",
-      "sources": [
-        "CBS News"
-      ],
-      "article_urls": [
-        "https://www.cbsnews.com/boston/video/psychologist-explains-stages-of-grooming-in-matthew-farwell-trial/",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUTVmU1VVRXV1bmp2bUlzeVoxcHQ2SnJlaGI4ck1rdi1ZNXVZWnc2ZERzclBFYjRhbTNfY3g4UVpmR3lSQTFzVzF4ajNBZjlsU3pHMGU0Q2FkTEJKWmhlWHkxdGY0VFJCWGR2dHBXNW9Tdl95TGozYU1xNm5Mc0xKM0RGRnd1TmpXZzd2cUZ4bzF1SHlxRDdHbGtZeW9TTDZJME9qY21B?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T16:09:00Z",
-      "published_at_ist": "2026-10-21 21:39 IST",
-      "first_seen_utc": "2026-10-21T16:09:00Z",
-      "age_minutes": 56,
-      "trend_score": 5,
-      "rank_score": 0.6903,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [
-        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910744_hls/master.m3u8",
-        "https://www.cbsnews.com/boston/video/psychologist-explains-stages-of-grooming-in-matthew-farwell-trial/?embed=1&ftag=CNM-00-10aag7j",
-        "https://www.cbsnews.com/boston/video/psychologist-explains-stages-of-grooming-in-matthew-farwell-trial/?embed=1"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "38e1ec0748",
-      "key": "fcbarcelona-football-game-season-short-single",
-      "headline": "It’s a season, not a single game.  #fcbarcelona #football #shorts",
-      "summary": "SUBSCRIBE NOW: ▶ www.youtube.com/user/fcbarcelona 🔒Join as a member 👉 https://youtube.com/fcbarcelona/join 📱 App: http://barca.link/kXum50R6rNO 🌐 Site: www.fcbarcelona.com 📸 Instagram: http://www.instagram.com/fcbarcelona 𝕏 X: https://x.com/FCBarcelona 🎶 Tiktok: https://www.tiktok.com/@fcbarcelona 🔵 Facebook: http://www.facebook.com/fcbarcelona 👾 Discord: https://discord.gg/fcbarcelonaofficial 🛍 G",
-      "sources": [
-        "YouTube: FC Barcelona"
-      ],
-      "article_urls": [
-        "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
-      ],
-      "published_at_utc": "2026-10-21T13:00:13Z",
-      "published_at_ist": "2026-10-21 18:30 IST",
-      "first_seen_utc": "2026-10-21T13:00:13Z",
-      "age_minutes": 245,
-      "trend_score": 5,
-      "rank_score": 0.6604,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "youtube",
-      "famous_names": [],
-      "region": [
-        "YT"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://i2.ytimg.com/vi/AoqWNdbZ-7Q/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "It’s a season, not a single game.  #fcbarcelona #football #shorts",
-          "channel": "FC Barcelona",
-          "url": "https://www.youtube.com/watch?v=AoqWNdbZ-7Q",
-          "published_at_ist": "2026-10-21 18:30 IST",
-          "thumbnail": "https://i2.ytimg.com/vi/AoqWNdbZ-7Q/hqdefault.jpg",
-          "is_short": true
-        }
-      ]
-    },
-    {
       "id": "9829ed9bf6",
       "key": "agent-keep-misalignment-monitoring-turning-‘-’",
       "headline": "‘Our agents keep turning off misalignment monitoring’",
@@ -973,9 +941,9 @@
       "published_at_utc": "2026-10-21T14:17:50Z",
       "published_at_ist": "2026-10-21 19:47 IST",
       "first_seen_utc": "2026-10-21T14:17:50Z",
-      "age_minutes": 167,
+      "age_minutes": 227,
       "trend_score": 5,
-      "rank_score": 0.5978,
+      "rank_score": 0.5478,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1001,6 +969,50 @@
       "youtube_videos": []
     },
     {
+      "id": "34d1ac6e24",
+      "key": "future-higher-jump-netflix-open-pre-slip-spacex",
+      "headline": "US pre-open: Futures higher as SpaceX jumps, Netflix slips",
+      "summary": "https://www.sharecast.com/news/market-report-us-pre-open/Wall Street futures were in the green ahead of the open on Wednesday, buoyed by upbeat corporate earnings and a rebound in risk appetite despite lingering pressure in the tech space.",
+      "sources": [
+        "Sharecast.com"
+      ],
+      "article_urls": [
+        "https://www.sharecast.com/news/market-report-us-pre-open/wall-street-nyse-usa-stocks-equities-dow-jones-nasdaq--23897740.html",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenBUVDFhdXRLMkhUbjh0VU5hTElSb0h0WUlkODBBS0tUOE4zVnFOcGJ1SGZHWDJqYS13Yjd2V0kzUXY0X19WMkJrMUFJdFZGUXA4RU8tUThvcGRSak1QOGRlcTYwM2VOdi1XWDdXOHM5OHo2ekEtV0lXak1GaGV6LWFNUlltazdFMVNhY3phTm0wTFRZVy0xNFNFVlgwY0tlSnFja1R3U0RlM1pFbmdaZ3kyOTBjUmZPWFlKQ0tia1lCY1E?oc=5"
+      ],
+      "published_at_utc": "2026-10-21T11:40:21Z",
+      "published_at_ist": "2026-10-21 17:10 IST",
+      "first_seen_utc": "2026-10-21T11:40:21Z",
+      "age_minutes": 385,
+      "trend_score": 5,
+      "rank_score": 0.4161,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk",
+        "Finance & markets"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://img.s3wfg.com/web/img/images_uploaded/d/2/dl-nyse-new-york-stock-exchange-wall-st-street-city-finance-dow-jones-nasdaq-sp-finance-dollar-dollars-us-usa-united-states-of-america.jpg",
+        "https://img.s3wfg.com/web/img/images_uploaded/d/2/dl-nyse-new-york-stock-exchange-wall-st-street-city-finance-dow-jones-nasdaq-sp-finance-dollar-dollars-us-usa-united-states-of-america_620x350.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "5a67c00b2d",
       "key": "5-buy-crashed-expert-gold-jewellery-month-now-season-should-suggest-wait",
       "headline": "Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait? Experts suggest",
@@ -1015,9 +1027,9 @@
       "published_at_utc": "2026-10-21T09:31:15Z",
       "published_at_ist": "2026-10-21 15:01 IST",
       "first_seen_utc": "2026-10-21T09:31:15Z",
-      "age_minutes": 454,
+      "age_minutes": 514,
       "trend_score": 6,
-      "rank_score": 0.3833,
+      "rank_score": 0.3333,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
