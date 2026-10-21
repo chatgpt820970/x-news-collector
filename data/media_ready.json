@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T05:06:56Z",
- "generated_at_ist": "2026-10-21 10:36 IST",
+ "generated_at_utc": "2026-10-21T05:22:18Z",
+ "generated_at_ist": "2026-10-21 10:52 IST",
  "candidates_generated_at_utc": "2026-10-21T05:05:23Z",
  "candidates_generated_at_ist": "2026-10-21 10:35 IST",
  "release_tag": "m-20261021-0506",
@@ -10,31 +10,49 @@
    "release_tag": "m-20261021-0506",
    "runtime_sec": 18,
    "generated_at_ist": "2026-10-21 10:36 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261021-0518-yt",
+   "runtime_sec": 219,
+   "generated_at_ist": "2026-10-21 10:52 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 6,
-  "skipped": 4
+  "photo_stories": 4,
+  "skipped": 2
  },
  "items": {
   "76er-jame-knick-lebron-night-pretty-ring-special-spoil-‘-’": {
-   "type": "photo",
+   "type": "video",
    "headline": "LeBron James says it was ‘pretty special’ for 76ers to spoil the Knicks’ ring night",
    "category": "famous_clip",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-76er-jame-knick-lebron-night-pretty-ring-special-s-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-76er-jame-knick-lebron-night-pretty-ring-special-s-p1.jpg",
-     "source_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300686889_large_cropped.jpg?w=2048",
-     "width": 2048,
-     "height": 1152
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0518-yt",
+   "source_url": "https://www.youtube.com/watch?v=ajVhtWbKYEo",
+   "source_title": "New York Knicks FULL NBA Championship Banner Raising Ceremony!",
+   "source_resolution": "1920x1080",
+   "source_fps": 59.95,
+   "source_duration": 871,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.2,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f3.jpg"
    ]
   },
   "333-mma-pick-ufc-underdog": {
@@ -56,21 +74,33 @@
    ]
   },
   "aldo-cut-evloev-jose-movsar-ufc": {
-   "type": "photo",
+   "type": "video",
    "headline": "Jose Aldo Says He Would Cut Movsar Evloev From the UFC",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-aldo-cut-evloev-jose-movsar-ufc-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-aldo-cut-evloev-jose-movsar-ufc-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/movsar-evloev-vs-alexander-volkanovski.webp",
-     "width": 1920,
-     "height": 1200
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0518-yt",
+   "source_url": "https://www.youtube.com/watch?v=WC-EgPIjNZU",
+   "source_title": "Rise of Movsar Evloev",
+   "source_resolution": "1920x1080",
+   "source_fps": 29.97,
+   "source_duration": 406,
+   "duration": 140.03,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 210.3,
+   "trim_reason": "heatmap peak at 250s",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt04-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.8,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f3.jpg"
    ]
   },
   "500-grand-honda-prix-race-reache-state-united": {
@@ -130,24 +160,14 @@
  },
  "skipped": [
   {
-   "key": "76er-jame-knick-lebron-night-pretty-ring-special-spoil-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=ajVhtWbKYEo"
-  },
-  {
    "key": "carpenter-interview-lefty-olivia-pick-rodrigo-sabrina-stella",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "best source only 480p",
    "source_url": "https://www.youtube.com/watch?v=-LMebrVm-uU"
   },
   {
    "key": "333-mma-pick-ufc-underdog",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=lXUOhMEOrnc"
-  },
-  {
-   "key": "aldo-cut-evloev-jose-movsar-ufc",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=WC-EgPIjNZU"
   }
  ]
 }
