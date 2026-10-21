@@ -1,36 +1,36 @@
 {
- "generated_at_utc": "2026-10-21T17:11:12Z",
- "generated_at_ist": "2026-10-21 22:41 IST",
- "candidates_generated_at_utc": "2026-10-21T17:05:27Z",
- "candidates_generated_at_ist": "2026-10-21 22:35 IST",
- "release_tag": "m-20261021-1706",
+ "generated_at_utc": "2026-10-21T18:09:24Z",
+ "generated_at_ist": "2026-10-21 23:39 IST",
+ "candidates_generated_at_utc": "2026-10-21T18:05:25Z",
+ "candidates_generated_at_ist": "2026-10-21 23:35 IST",
+ "release_tag": "m-20261021-1806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261021-1706",
-   "runtime_sec": 275,
-   "generated_at_ist": "2026-10-21 22:41 IST"
+   "release_tag": "m-20261021-1806",
+   "runtime_sec": 171,
+   "generated_at_ist": "2026-10-21 23:39 IST"
   }
  ],
  "stats": {
-  "videos": 3,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 4,
+  "photo_stories": 3,
   "skipped": 6
  },
  "items": {
-  "76er-adam-appropriate-deal-helicopter-involved-lebron-perfectly-silver": {
+  "another-blast-chemical-evacuation-explosion-fear-force-ohio-raise-tank": {
    "type": "video",
-   "headline": "Adam Silver says LeBron's helicopter deal 'perfectly appropriate' if 76ers not involved",
-   "category": "famous_clip",
+   "headline": "Ohio chemical tank blast forces evacuations, raises fears of another explosion",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/3a15d5e7-e4c8-3786-9a11-102dbcea93ca.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-   "source_title": "3a15d5e7-e4c8-3786-9a11-102dbcea93ca",
+   "release_tag": "m-20261021-1806",
+   "source_url": "https://clips-mp4-aka.warnermediacdn.com/cnn/clips/2026-10/2405719-ddbb9f3c1921478b8d039a0dd15f63b2/mp4/toldedo-hazmat-tank-aerial-2405719-1920x1080_8000k.mp4",
+   "source_title": "toldedo-hazmat-tank-aerial-2405719-1920x1080_8000k",
    "source_resolution": "1920x1080",
    "source_fps": 29.97,
-   "source_duration": 50,
-   "duration": 50.5,
+   "source_duration": null,
+   "duration": 41.3,
    "trimmed_to_140s": false,
    "trim_start_sec": 0,
    "trim_reason": "full",
@@ -38,28 +38,28 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/03-76er-adam-appropriate-deal-helicopter-involved-leb-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1706/03-76er-adam-appropriate-deal-helicopter-involved-leb-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/06-another-blast-chemical-evacuation-explosion-fear-f-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1806/06-another-blast-chemical-evacuation-explosion-fear-f-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 60.6,
-   "video_1080_bitrate_mbps": 10.1,
+   "video_1080_size_mb": 50.1,
+   "video_1080_bitrate_mbps": 10.2,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/03-76er-adam-appropriate-deal-helicopter-involved-leb-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/03-76er-adam-appropriate-deal-helicopter-involved-leb-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/03-76er-adam-appropriate-deal-helicopter-involved-leb-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/06-another-blast-chemical-evacuation-explosion-fear-f-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-another-blast-chemical-evacuation-explosion-fear-f-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-another-blast-chemical-evacuation-explosion-fear-f-f3.jpg"
    ]
   },
-  "21-forecast-midday-next-wbz-weather": {
+  "boston-def-discuss-doll-garden-goo-leppard-tour-upcoming": {
    "type": "video",
-   "headline": "Next Weather: WBZ midday forecast for Oct. 21, 2026",
+   "headline": "Def Leppard and Goo Goo Dolls discuss upcoming 2027 tour at Boston TD Garden",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "source_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910808_hls/master.m3u8",
+   "release_tag": "m-20261021-1806",
+   "source_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910968_hls/master.m3u8",
    "source_title": "master",
    "source_resolution": "1920x1080",
    "source_fps": 29.97,
-   "source_duration": 203,
+   "source_duration": 163,
    "duration": 140.01,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
@@ -68,147 +68,87 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/07-21-forecast-midday-next-wbz-weather-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1706/07-21-forecast-midday-next-wbz-weather-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/07-boston-def-discuss-doll-garden-goo-leppard-tour-up-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1806/07-boston-def-discuss-doll-garden-goo-leppard-tour-up-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 166.4,
-   "video_1080_bitrate_mbps": 10.0,
+   "video_1080_size_mb": 171.4,
+   "video_1080_bitrate_mbps": 10.3,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/07-21-forecast-midday-next-wbz-weather-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/07-21-forecast-midday-next-wbz-weather-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/07-21-forecast-midday-next-wbz-weather-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/07-boston-def-discuss-doll-garden-goo-leppard-tour-up-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/07-boston-def-discuss-doll-garden-goo-leppard-tour-up-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/07-boston-def-discuss-doll-garden-goo-leppard-tour-up-f3.jpg"
    ]
   },
-  "explain-farwell-grooming-matthew-psychologist-stage-trial": {
-   "type": "video",
-   "headline": "Psychologist explains stages of grooming in Matthew Farwell trial",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "source_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4910744_hls/master.m3u8",
-   "source_title": "master",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 126,
-   "duration": 126.83,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/08-explain-farwell-grooming-matthew-psychologist-stag-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1706/08-explain-farwell-grooming-matthew-psychologist-stag-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 154.6,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/08-explain-farwell-grooming-matthew-psychologist-stag-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/08-explain-farwell-grooming-matthew-psychologist-stag-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/08-explain-farwell-grooming-matthew-psychologist-stag-f3.jpg"
-   ]
-  },
-  "dramatic-grand-look-mercede-prix-state-united-unveil": {
+  "20th-birthday-celebration-daughter-ella-gaine-haired-joanna-lavish-look-rare-raven": {
    "type": "photo",
-   "headline": "Mercedes F1 unveils dramatic new look for United States Grand Prix",
-   "category": "sports",
+   "headline": "Joanna Gaines shares ultra-rare look at raven-haired daughter Ella from lavish 20th birthday celebrations",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
+   "release_tag": "m-20261021-1806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-dramatic-grand-look-mercede-prix-state-united-unve-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-20th-birthday-celebration-daughter-ella-gaine-hair-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-dramatic-grand-look-mercede-prix-state-united-unve-p1.jpg",
-     "source_url": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Aston%20Martin/87802686-3337-19f7-f906-9ec5bb330be3.webp",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-20th-birthday-celebration-daughter-ella-gaine-hair-p1.jpg",
+     "source_url": "https://s.yimg.com/lo/mysterio/api/ad7cbf40f0c40abc15652a4061f8b8b3b6bd37ea005cdc2a85e74cf7be2ee2ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fhello_us_861%2F2c86bedf13b90e190f41eaaedfef73ac.jpg",
+     "width": 1200,
+     "height": 1200
+    }
+   ]
+  },
+  "grand-premium-prix-state-stream-united": {
+   "type": "photo",
+   "headline": "How to stream the United States Grand Prix on F1 TV Premium",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261021-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-grand-premium-prix-state-stream-united-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-grand-premium-prix-state-stream-united-p1.jpg",
+     "source_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2025/F1%20TV/F1TVPREMIUM_CANADA_MULTISCREEN_PRODUCT1_ENGLISH_726947_1920x1080.webp",
+     "width": 1920,
+     "height": 1080
+    }
+   ]
+  },
+  "31st-birthday-cat-doja-hot-paint-red-shot-town": {
+   "type": "photo",
+   "headline": "Doja Cat Paints The Town Red With Hot Shots For Her 31st Birthday",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261021-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-31st-birthday-cat-doja-hot-paint-red-shot-town-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-31st-birthday-cat-doja-hot-paint-red-shot-town-p1.jpg",
+     "source_url": "https://imagez.tmz.com/image/db/16by9/2026/10/14/db05879e514d40caa204e170e5c50cbe_xl.jpg",
      "width": 2048,
      "height": 1152
-    }
-   ]
-  },
-  "333-malley-run-title-ufc-yan": {
-   "type": "photo",
-   "headline": "Yan On O'Malley's Title Run After UFC 333",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-malley-run-title-ufc-yan-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-malley-run-title-ufc-yan-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-malley-run-title-ufc-yan-p1.jpg",
-     "source_url": "https://images.unsplash.com/photo-1681040553724-d077fd769f95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mjg0NTd8MHwxfHNlYXJjaHwyOHx8b2N0YWdvbiUyMGNhZ2UlMjBmaWdodHxlbnwxfDB8fHwxNzkyNTg5NDQwfDA&ixlib=rb-4.1.0&q=80&w=2048",
-     "width": 2048,
-     "height": 1639
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-malley-run-title-ufc-yan-p2.jpg",
-     "source_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1244153084-e1792600433341.jpg?quality=65&strip=all",
-     "width": 6000,
-     "height": 3380
-    }
-   ]
-  },
-  "anderson-contract-jame-lancashire-offered": {
-   "type": "photo",
-   "headline": "James Anderson not offered new contract by Lancashire",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-anderson-contract-jame-lancashire-offered-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-anderson-contract-jame-lancashire-offered-p1.jpg",
-     "source_url": "https://static.independent.co.uk/2026/10/21/17/2276418710..?trim=0,0,0,0&width=2048&crop=1200:800",
-     "width": 2048,
-     "height": 1365
-    }
-   ]
-  },
-  "billie-collaboration-designing-eilish-finnea-jewelry": {
-   "type": "photo",
-   "headline": "Billie Eilish and Finneas’s Latest Collaboration? Designing Jewelry",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-1706",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-billie-collaboration-designing-eilish-finnea-jewel-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-billie-collaboration-designing-eilish-finnea-jewel-p1.jpg",
-     "source_url": "https://www.glossy.co/wp-content/uploads/sites/4/2026/10/BF_COLLAB_FINNEAS_BILLIE_DUO_FALL_26_R300_4x5.jpg",
-     "width": 2160,
-     "height": 1341
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "84-actor-advised-amitabh-bachchan-concern-health-old-recover-rest-spark",
+   "key": "333-evloev-there-ufc-value-volkanovski",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=T50u-Ka1XAs"
+   "source_url": "https://www.youtube.com/watch?v=xk-xko13KPA"
   },
   {
-   "key": "220-blockbuster-bring-comedy-grossed-hbo-max-million-romantic-sweeney-sydney",
+   "key": "fcbarcelona-football-game-season-short-single",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=eo1YpDaDgec"
+   "source_url": "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
   },
   {
-   "key": "cap-close-cost-enforce-fia-loophole-rule",
+   "key": "2569-bill-experience-joe-rogan-thompson",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=UtSUddTdDtA"
-  },
-  {
-   "key": "000-40-dawn-game-huge-overview-revealed-trailer-war-warhammer",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=looanXFCb_k"
+   "source_url": "https://www.youtube.com/watch?v=vamsa0e8y4Y"
   },
   {
    "key": "bum-cardi-cardib-don-jayshetty-please-short",
@@ -216,9 +156,14 @@
    "source_url": "https://www.youtube.com/watch?v=q2JTPa8Ej4k"
   },
   {
-   "key": "fcbarcelona-football-game-season-short-single",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
+   "key": "20th-birthday-celebration-daughter-ella-gaine-haired-joanna-lavish-look-rare-raven",
+   "reason": "best source only 720p",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/bb437ac7-df17-39c5-9e02-261e83a0f30c.m3u8?site=lifestyle&region=US&lang=en-US&devtype=desktop"
+  },
+  {
+   "key": "grand-laps-oracle-prix-state-united-virtual",
+   "reason": "no source could be read",
+   "source_url": "https://www.redbull.com/embed/rrn:content:videos:d1c4cba2-e018-4e51-be07-7a1af0bd62aa:en-INT"
   }
  ]
 }
