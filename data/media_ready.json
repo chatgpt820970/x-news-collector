@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T04:07:08Z",
- "generated_at_ist": "2026-10-21 09:37 IST",
+ "generated_at_utc": "2026-10-21T04:14:24Z",
+ "generated_at_ist": "2026-10-21 09:44 IST",
  "candidates_generated_at_utc": "2026-10-21T04:05:26Z",
  "candidates_generated_at_ist": "2026-10-21 09:35 IST",
  "release_tag": "m-20261021-0406",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261021-0406",
    "runtime_sec": 40,
    "generated_at_ist": "2026-10-21 09:37 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261021-0408-yt",
+   "runtime_sec": 377,
+   "generated_at_ist": "2026-10-21 09:44 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 2,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 3
+  "skipped": 1
  },
  "items": {
   "basharat-blast-mokaev-narrative-release-ufc": {
@@ -97,19 +103,69 @@
      "height": 1080
     }
    ]
+  },
+  "done-hell-home-joke-music-rihanna-rocky-shouldn-teased-‘-’": {
+   "type": "video",
+   "headline": "A$AP Rocky Jokes ‘It Was Hell’ at Home After He Teased New Rihanna Music: ‘I Shouldn’t Have Done That’",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0408-yt",
+   "source_url": "https://www.youtube.com/watch?v=o7OOxa2F8EM",
+   "source_title": "A$AP Rocky Shares Harlem Stories That Made Him, Rihanna, Fatherhood & Impact | The Jason Lee Show",
+   "source_resolution": "1920x1080",
+   "source_fps": 23.98,
+   "source_duration": 6690,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 5947.6,
+   "trim_reason": "heatmap peak at 5988s",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0408-yt/yt01-done-hell-home-joke-music-rihanna-rocky-shouldn-te-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0408-yt/yt01-done-hell-home-joke-music-rihanna-rocky-shouldn-te-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 168.5,
+   "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt01-done-hell-home-joke-music-rihanna-rocky-shouldn-te-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-done-hell-home-joke-music-rihanna-rocky-shouldn-te-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt01-done-hell-home-joke-music-rihanna-rocky-shouldn-te-f3.jpg"
+   ]
+  },
+  "aldo-cut-evloev-jose-movsar-ufc": {
+   "type": "video",
+   "headline": "Jose Aldo Says He Would Cut Movsar Evloev From the UFC",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0408-yt",
+   "source_url": "https://www.youtube.com/watch?v=GSbj9v88-ak",
+   "source_title": "Every Alex Pereira Knockout",
+   "source_resolution": "1920x1080",
+   "source_fps": 30.0,
+   "source_duration": 5125,
+   "duration": 140.02,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 3419.4,
+   "trim_reason": "heatmap peak at 3459s",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt02-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0408-yt/yt02-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.5,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt02-aldo-cut-evloev-jose-movsar-ufc-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-aldo-cut-evloev-jose-movsar-ufc-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt02-aldo-cut-evloev-jose-movsar-ufc-f3.jpg"
+   ]
   }
  },
  "skipped": [
-  {
-   "key": "done-hell-home-joke-music-rihanna-rocky-shouldn-teased-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=o7OOxa2F8EM"
-  },
-  {
-   "key": "aldo-cut-evloev-jose-movsar-ufc",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=SQiAZLDW5F8"
-  },
   {
    "key": "autonomou-ericsson-expand-network-partnership-telstra",
    "reason": "best source only 200p",
