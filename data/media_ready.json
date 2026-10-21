@@ -1,6 +1,6 @@
 {
- "generated_at_utc": "2026-10-21T08:08:30Z",
- "generated_at_ist": "2026-10-21 13:38 IST",
+ "generated_at_utc": "2026-10-21T08:13:40Z",
+ "generated_at_ist": "2026-10-21 13:43 IST",
  "candidates_generated_at_utc": "2026-10-21T08:05:27Z",
  "candidates_generated_at_ist": "2026-10-21 13:35 IST",
  "release_tag": "m-20261021-0806",
@@ -10,13 +10,19 @@
    "release_tag": "m-20261021-0806",
    "runtime_sec": 131,
    "generated_at_ist": "2026-10-21 13:38 IST"
+  },
+  {
+   "by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "runtime_sec": 332,
+   "generated_at_ist": "2026-10-21 13:43 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 6,
   "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 7
+  "photo_stories": 3,
+  "skipped": 2
  },
  "items": {
   "elon-musk-ordered-reveal-role-slowdown-starlink-ukraine": {
@@ -86,28 +92,33 @@
    ]
   },
   "333-evloev-fight-intelligently-movsar-ufc": {
-   "type": "photo",
+   "type": "video",
    "headline": "Movsar Evloev will have to fight intelligently at UFC 333",
    "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/movsar-evloev-vs-alexander-volkanovski.webp",
-     "width": 1920,
-     "height": 1200
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p2.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/alexander-volkanovski-vs-movsar-evloev.webp",
-     "width": 1900,
-     "height": 1200
-    }
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "source_url": "https://www.youtube.com/watch?v=az6k8XvgAGc",
+   "source_title": "Alexander Volkanovski previews Movsar Evloev fight at UFC 333: \"The matchup favors me\"",
+   "source_resolution": "1920x1080",
+   "source_fps": 30.0,
+   "source_duration": 893,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 300.0,
+   "trim_reason": "chapter 'Reaction to Evloev vs. Murphy'",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt03-333-evloev-fight-intelligently-movsar-ufc-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 169.9,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f3.jpg"
    ]
   },
   "120-688-8-billion-coverage-gate-near-ratio-report-reserve": {
@@ -127,43 +138,138 @@
      "height": 1280
     }
    ]
+  },
+  "album-announce-change-northlane-release-single-tour": {
+   "type": "video",
+   "headline": "NEWS: Northlane release single and announce tour and album changes -",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "source_url": "https://www.youtube.com/watch?v=KVfjmiDzi4s",
+   "source_title": "Northlane - Deathwish [Official Visualiser]",
+   "source_resolution": "3840x2160",
+   "source_fps": 25.0,
+   "source_duration": 247,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "3840x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt04-album-announce-change-northlane-release-single-tou-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt04-album-announce-change-northlane-release-single-tou-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 166.7,
+   "video_1080_bitrate_mbps": 10.0,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f3.jpg"
+   ]
+  },
+  "2-4-770-88-advance-booking-cost-crore-hit-mumbai-ramayana-ticket": {
+   "type": "video",
+   "headline": "Ramayana advance bookings hit Rs 4.88 crore, Mumbai tickets cost Rs 2,770",
+   "category": "celebrity_music",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "source_url": "https://www.youtube.com/watch?v=AYkPRN874m8",
+   "source_title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
+   "source_resolution": "3840x2160",
+   "source_fps": 23.98,
+   "source_duration": 157,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "3840x2160",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.6,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f3.jpg"
+   ]
+  },
+  "alia-bhatt-diagnosi-felt-relief": {
+   "type": "video",
+   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "category": "famous_clip",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
+   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
+   "source_resolution": "1920x1080",
+   "source_fps": 23.98,
+   "source_duration": 3586,
+   "duration": 140.04,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 3015.0,
+   "trim_reason": "chapter 'Best advice from her father'",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt07-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt07-alia-bhatt-diagnosi-felt-relief-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 171.4,
+   "video_1080_bitrate_mbps": 10.3,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f3.jpg"
+   ]
+  },
+  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
+   "type": "video",
+   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "category": "sports",
+   "prepared_by": "box",
+   "release_tag": "m-20261021-0808-yt",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
+   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
+   "source_resolution": "1080x1920",
+   "source_fps": 30.0,
+   "source_duration": 15,
+   "duration": 15.42,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1080x1920",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
+   "video_1080_resolution": "1080x1920",
+   "video_1080_size_mb": 17.9,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+   ]
   }
  },
  "skipped": [
   {
    "key": "ariana-coco-dog-following-grande-heartfelt-passing-pays-tribute",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=InLNY87GPKs"
   },
   {
-   "key": "333-evloev-fight-intelligently-movsar-ufc",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=az6k8XvgAGc"
-  },
-  {
-   "key": "2-4-770-88-advance-booking-cost-crore-hit-mumbai-ramayana-ticket",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=AYkPRN874m8"
-  },
-  {
    "key": "acquisition-braze-lead-revenue-rush-salesforce-tech",
-   "reason": "YouTube source: prepared on the box",
+   "reason": "download failed or under 1080p",
    "source_url": "https://www.youtube.com/watch?v=VKeMKW8kCZo"
-  },
-  {
-   "key": "alia-bhatt-diagnosi-felt-relief",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
-  },
-  {
-   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
-  },
-  {
-   "key": "album-announce-change-northlane-release-single-tour",
-   "reason": "best source only 0p",
-   "source_url": "https://chaoszine.net/wp-content/uploads/2025/06/northlane-download-festival-2025-6.jpg"
   }
  ]
 }
