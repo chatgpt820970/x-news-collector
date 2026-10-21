@@ -1,275 +1,172 @@
 {
- "generated_at_utc": "2026-10-21T08:13:40Z",
- "generated_at_ist": "2026-10-21 13:43 IST",
- "candidates_generated_at_utc": "2026-10-21T08:05:27Z",
- "candidates_generated_at_ist": "2026-10-21 13:35 IST",
- "release_tag": "m-20261021-0806",
+ "generated_at_utc": "2026-10-21T15:07:11Z",
+ "generated_at_ist": "2026-10-21 20:37 IST",
+ "candidates_generated_at_utc": "2026-10-21T15:05:23Z",
+ "candidates_generated_at_ist": "2026-10-21 20:35 IST",
+ "release_tag": "m-20261021-1506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261021-0806",
-   "runtime_sec": 131,
-   "generated_at_ist": "2026-10-21 13:38 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "runtime_sec": 332,
-   "generated_at_ist": "2026-10-21 13:43 IST"
+   "release_tag": "m-20261021-1506",
+   "runtime_sec": 35,
+   "generated_at_ist": "2026-10-21 20:37 IST"
   }
  ],
  "stats": {
-  "videos": 6,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 3,
-  "skipped": 2
+  "photo_stories": 4,
+  "skipped": 9
  },
  "items": {
-  "elon-musk-ordered-reveal-role-slowdown-starlink-ukraine": {
+  "case-decline-department-handling-investigate-justice-lawyer-pool-reflecting-watchdog": {
    "type": "video",
-   "headline": "Who ordered Starlink slowdown in Ukraine? New report reveals Elon Musk’s role",
-   "category": "famous_clip",
+   "headline": "Justice Department watchdog declines to investigate handling of Reflecting Pool case, lawyers say",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0806",
-   "source_url": "https://slike-toi.akamaized.net/mm/nt/jnmmntokz9/hls/master.m3u8",
+   "release_tag": "m-20261021-1506",
+   "source_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4717729_hls/master.m3u8",
    "source_title": "master",
    "source_resolution": "1920x1080",
-   "source_fps": 24.0,
-   "source_duration": 518,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
+   "source_fps": 29.97,
+   "source_duration": 17,
+   "duration": 17.37,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
    "resolution": "1920x1080",
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0806/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/06-case-decline-department-handling-investigate-justi-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-1506/06-case-decline-department-handling-investigate-justi-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.9,
-   "video_1080_bitrate_mbps": 10.3,
+   "video_1080_size_mb": 23.1,
+   "video_1080_bitrate_mbps": 11.2,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/06-case-decline-department-handling-investigate-justi-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-case-decline-department-handling-investigate-justi-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/06-case-decline-department-handling-investigate-justi-f3.jpg"
    ]
   },
-  "ariana-coco-dog-following-grande-heartfelt-passing-pays-tribute": {
+  "grand-premium-prix-state-stream-united": {
    "type": "photo",
-   "headline": "Ariana Grande Pays Heartfelt Tribute to Her Dog Coco Following Her Passing",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-ariana-coco-dog-following-grande-heartfelt-passing-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ariana-coco-dog-following-grande-heartfelt-passing-p1.jpg",
-     "source_url": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/838305982.jpg",
-     "width": 1500,
-     "height": 2000
-    }
-   ]
-  },
-  "behind-cadillac-grand-livery-prix-symbol": {
-   "type": "photo",
-   "headline": "F1 2026: The Symbols Behind Cadillac's New Livery for the US Grand Prix",
+   "headline": "How to stream the United States Grand Prix on F1 TV Premium",
    "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0806",
+   "release_tag": "m-20261021-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-behind-cadillac-grand-livery-prix-symbol-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-grand-premium-prix-state-stream-united-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-behind-cadillac-grand-livery-prix-symbol-p1.jpg",
-     "source_url": "https://s1.cdn.autoevolution.com/images/news/cadillac-f1-team-unveils-texas-themed-livery-for-2026-united-states-grand-prix-277313_1.jpeg",
-     "width": 1728,
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-grand-premium-prix-state-stream-united-p1.jpg",
+     "source_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2025/F1%20TV/F1TVPREMIUM_CANADA_MULTISCREEN_PRODUCT1_ENGLISH_726947_1920x1080.webp",
+     "width": 1920,
      "height": 1080
     }
    ]
   },
-  "333-evloev-fight-intelligently-movsar-ufc": {
-   "type": "video",
-   "headline": "Movsar Evloev will have to fight intelligently at UFC 333",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "source_url": "https://www.youtube.com/watch?v=az6k8XvgAGc",
-   "source_title": "Alexander Volkanovski previews Movsar Evloev fight at UFC 333: \"The matchup favors me\"",
-   "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": 893,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 300.0,
-   "trim_reason": "chapter 'Reaction to Evloev vs. Murphy'",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt03-333-evloev-fight-intelligently-movsar-ufc-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 169.9,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt03-333-evloev-fight-intelligently-movsar-ufc-f3.jpg"
-   ]
-  },
-  "120-688-8-billion-coverage-gate-near-ratio-report-reserve": {
+  "333-ceremonial-evloev-ufc-volkanovski-weigh": {
    "type": "photo",
-   "headline": "Gate Reports $8.688 Billion in Reserves, Coverage Ratio Nears 120%",
-   "category": "other",
+   "headline": "Ceremonial Weigh-In | UFC 333: Volkanovski vs Evloev",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0806",
+   "release_tag": "m-20261021-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-120-688-8-billion-coverage-gate-near-ratio-report-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-ceremonial-evloev-ufc-volkanovski-weigh-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-120-688-8-billion-coverage-gate-near-ratio-report-p1.jpg",
-     "source_url": "https://media.bloomingbit.io/news/ed8d9f6b-81ef-4d98-bb5a-b72a565bc355.webp",
-     "width": 1920,
-     "height": 1280
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-ceremonial-evloev-ufc-volkanovski-weigh-p1.jpg",
+     "source_url": "https://www.thenationalnews.com/resizer/v2/2C6LGEFUJJC4THGOAJT5KTPVO4.jpg?auth=6686101d1a5f493a9fe72d93f76fd73a197c026014c1ab9cded621f8743a1741&focal=2465%2C1245&width=2048",
+     "width": 2048,
+     "height": 1395
     }
    ]
   },
-  "album-announce-change-northlane-release-single-tour": {
-   "type": "video",
-   "headline": "NEWS: Northlane release single and announce tour and album changes -",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "source_url": "https://www.youtube.com/watch?v=KVfjmiDzi4s",
-   "source_title": "Northlane - Deathwish [Official Visualiser]",
-   "source_resolution": "3840x2160",
-   "source_fps": 25.0,
-   "source_duration": 247,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "3840x2160",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt04-album-announce-change-northlane-release-single-tou-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt04-album-announce-change-northlane-release-single-tou-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 166.7,
-   "video_1080_bitrate_mbps": 10.0,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-album-announce-change-northlane-release-single-tou-f3.jpg"
+  "agent-coordination-critical-global-patch-planet-response-uncover-vulnerabilitie": {
+   "type": "photo",
+   "headline": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261021-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-agent-coordination-critical-global-patch-planet-re-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-agent-coordination-critical-global-patch-planet-re-p1.jpg",
+     "source_url": "https://images.ctfassets.net/kftzwdyauwt9/xq2rRszwLvIAxOynZi2qa/b1cf094a0d095f67821bf4b8cfaba0b9/coordinated-disclosure-of-critical-vulnerabilities-social.png?w=2048&fit=fill",
+     "width": 2048,
+     "height": 1152
+    }
    ]
   },
-  "2-4-770-88-advance-booking-cost-crore-hit-mumbai-ramayana-ticket": {
-   "type": "video",
-   "headline": "Ramayana advance bookings hit Rs 4.88 crore, Mumbai tickets cost Rs 2,770",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "source_url": "https://www.youtube.com/watch?v=AYkPRN874m8",
-   "source_title": "RAMAYANA: RISE OF A LEGEND - NEW TRAILER",
-   "source_resolution": "3840x2160",
-   "source_fps": 23.98,
-   "source_duration": 157,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "3840x2160",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.6,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt05-2-4-770-88-advance-booking-cost-crore-hit-mumbai-r-f3.jpg"
-   ]
-  },
-  "alia-bhatt-diagnosi-felt-relief": {
-   "type": "video",
-   "headline": "Why Alia Bhatt Felt Relief After Her Diagnosis",
-   "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0",
-   "source_title": "Why Alia Bhatt Felt Relief After Her Diagnosis",
-   "source_resolution": "1920x1080",
-   "source_fps": 23.98,
-   "source_duration": 3586,
-   "duration": 140.04,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 3015.0,
-   "trim_reason": "chapter 'Best advice from her father'",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt07-alia-bhatt-diagnosi-felt-relief-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt07-alia-bhatt-diagnosi-felt-relief-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 171.4,
-   "video_1080_bitrate_mbps": 10.3,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt07-alia-bhatt-diagnosi-felt-relief-f3.jpg"
-   ]
-  },
-  "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌": {
-   "type": "video",
-   "headline": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "category": "sports",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0808-yt",
-   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw",
-   "source_title": "🤌 Chef's kiss. ▶️ Mbappé #LaLigaHighlights #RealMadrid",
-   "source_resolution": "1080x1920",
-   "source_fps": 30.0,
-   "source_duration": 15,
-   "duration": 15.42,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1080x1920",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0808-yt/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-1080.mp4",
-   "video_1080_resolution": "1080x1920",
-   "video_1080_size_mb": 17.9,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt08-chef-kiss-laligahighlight-mbappe-realmadrid-f3.jpg"
+  "90-agent-cutting-cycle-intake-launche-pactum-purchase-request-time": {
+   "type": "photo",
+   "headline": "Pactum Launches Intake Agent, Cutting Purchase Request Cycle Time by 90%",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261021-1506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-90-agent-cutting-cycle-intake-launche-pactum-purch-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-90-agent-cutting-cycle-intake-launche-pactum-purch-p1.jpg",
+     "source_url": "https://mmx.prnewswire.com/media/MS1758806/Pactum-Logo.jpg?id=OA3031994&p=facebook",
+     "width": 2700,
+     "height": 1414
+    }
    ]
   }
  },
  "skipped": [
   {
-   "key": "ariana-coco-dog-following-grande-heartfelt-passing-pays-tribute",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=InLNY87GPKs"
+   "key": "berlin-gtc-huang-jensen-keynote",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=qdUQJArUk30"
   },
   {
-   "key": "acquisition-braze-lead-revenue-rush-salesforce-tech",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=VKeMKW8kCZo"
+   "key": "ciara-curve-fenty-flaunt-house-line-lingerie-miller-modeling-rihanna-savage-star",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0a_oNNSqPDg"
+  },
+  {
+   "key": "99-africa-australia-baggy-bowling-four-green-performance-protea-sensational-skittled-south",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
+  },
+  {
+   "key": "305km-change-cut-distance-grand-length-one-prix-race-return-season",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=tGyacU86Igs"
+  },
+  {
+   "key": "alexander-colman-olivia-premiere-skarsgard-step-wicker",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=kA9NfV4pM_Q"
+  },
+  {
+   "key": "fcbarcelona-football-game-season-short-single",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=AoqWNdbZ-7Q"
+  },
+  {
+   "key": "alia-bhatt-diagnosi-felt-relief",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
+  },
+  {
+   "key": "30-alleged-concert-fans-heat-kids-nation-nearly-negligence-pop-stray-sue",
+   "reason": "best source only 90p",
+   "source_url": "https://www.ticketnews.com/wp-content/uploads/2026/10/processorqx-ticketnews-oct2026.webm"
+  },
+  {
+   "key": "album-fans-gaga-intrigued-lady-upcoming",
+   "reason": "best source only 464p",
+   "source_url": "https://cdn-cabinet.ua.news/uploads/images/talents.mp4"
   }
  ]
 }
