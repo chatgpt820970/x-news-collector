@@ -1,41 +1,35 @@
 {
- "generated_at_utc": "2026-10-21T05:22:18Z",
- "generated_at_ist": "2026-10-21 10:52 IST",
- "candidates_generated_at_utc": "2026-10-21T05:05:23Z",
- "candidates_generated_at_ist": "2026-10-21 10:35 IST",
- "release_tag": "m-20261021-0506",
+ "generated_at_utc": "2026-10-21T08:08:30Z",
+ "generated_at_ist": "2026-10-21 13:38 IST",
+ "candidates_generated_at_utc": "2026-10-21T08:05:27Z",
+ "candidates_generated_at_ist": "2026-10-21 13:35 IST",
+ "release_tag": "m-20261021-0806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261021-0506",
-   "runtime_sec": 18,
-   "generated_at_ist": "2026-10-21 10:36 IST"
-  },
-  {
-   "by": "box",
-   "release_tag": "m-20261021-0518-yt",
-   "runtime_sec": 219,
-   "generated_at_ist": "2026-10-21 10:52 IST"
+   "release_tag": "m-20261021-0806",
+   "runtime_sec": 131,
+   "generated_at_ist": "2026-10-21 13:38 IST"
   }
  ],
  "stats": {
-  "videos": 2,
+  "videos": 1,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 2
+  "skipped": 7
  },
  "items": {
-  "76er-jame-knick-lebron-night-pretty-ring-special-spoil-‘-’": {
+  "elon-musk-ordered-reveal-role-slowdown-starlink-ukraine": {
    "type": "video",
-   "headline": "LeBron James says it was ‘pretty special’ for 76ers to spoil the Knicks’ ring night",
+   "headline": "Who ordered Starlink slowdown in Ukraine? New report reveals Elon Musk’s role",
    "category": "famous_clip",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0518-yt",
-   "source_url": "https://www.youtube.com/watch?v=ajVhtWbKYEo",
-   "source_title": "New York Knicks FULL NBA Championship Banner Raising Ceremony!",
+   "prepared_by": "ci",
+   "release_tag": "m-20261021-0806",
+   "source_url": "https://slike-toi.akamaized.net/mm/nt/jnmmntokz9/hls/master.m3u8",
+   "source_title": "master",
    "source_resolution": "1920x1080",
-   "source_fps": 59.95,
-   "source_duration": 871,
+   "source_fps": 24.0,
+   "source_duration": 518,
    "duration": 140.0,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
@@ -44,130 +38,132 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0806/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.2,
-   "video_1080_bitrate_mbps": 10.2,
+   "video_1080_size_mb": 171.9,
+   "video_1080_bitrate_mbps": 10.3,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt01-76er-jame-knick-lebron-night-pretty-ring-special-s-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-elon-musk-ordered-reveal-role-slowdown-starlink-uk-f3.jpg"
    ]
   },
-  "333-mma-pick-ufc-underdog": {
+  "ariana-coco-dog-following-grande-heartfelt-passing-pays-tribute": {
    "type": "photo",
-   "headline": "MMA Underdog Pick of the Week: UFC 333",
+   "headline": "Ariana Grande Pays Heartfelt Tribute to Her Dog Coco Following Her Passing",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
+   "release_tag": "m-20261021-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-mma-pick-ufc-underdog-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-ariana-coco-dog-following-grande-heartfelt-passing-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-mma-pick-ufc-underdog-p1.jpg",
-     "source_url": "https://www.sportsgamblingpodcast.com/wp-content/uploads/2026/10/333.jpg",
-     "width": 1920,
-     "height": 1080
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ariana-coco-dog-following-grande-heartfelt-passing-p1.jpg",
+     "source_url": "https://media-cdn.socastsrm.com/wordpress/wp-content/blogs.dir/4023/files/2026/08/838305982.jpg",
+     "width": 1500,
+     "height": 2000
     }
    ]
   },
-  "aldo-cut-evloev-jose-movsar-ufc": {
-   "type": "video",
-   "headline": "Jose Aldo Says He Would Cut Movsar Evloev From the UFC",
-   "category": "celebrity_music",
-   "prepared_by": "box",
-   "release_tag": "m-20261021-0518-yt",
-   "source_url": "https://www.youtube.com/watch?v=WC-EgPIjNZU",
-   "source_title": "Rise of Movsar Evloev",
-   "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 406,
-   "duration": 140.03,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 210.3,
-   "trim_reason": "heatmap peak at 250s",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-0518-yt/yt04-aldo-cut-evloev-jose-movsar-ufc-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 170.8,
-   "video_1080_bitrate_mbps": 10.2,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/yt04-aldo-cut-evloev-jose-movsar-ufc-f3.jpg"
-   ]
-  },
-  "500-grand-honda-prix-race-reache-state-united": {
+  "behind-cadillac-grand-livery-prix-symbol": {
    "type": "photo",
-   "headline": "Honda Reaches 500 F1 Races at United States Grand Prix",
+   "headline": "F1 2026: The Symbols Behind Cadillac's New Livery for the US Grand Prix",
    "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
+   "release_tag": "m-20261021-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-500-grand-honda-prix-race-reache-state-united-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-behind-cadillac-grand-livery-prix-symbol-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-500-grand-honda-prix-race-reache-state-united-p1.jpg",
-     "source_url": "https://www.cnet.com/wp-content/uploads/sites/2/GettyImages-2294157867.jpg",
-     "width": 2000,
-     "height": 1125
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-behind-cadillac-grand-livery-prix-symbol-p1.jpg",
+     "source_url": "https://s1.cdn.autoevolution.com/images/news/cadillac-f1-team-unveils-texas-themed-livery-for-2026-united-states-grand-prix-277313_1.jpeg",
+     "width": 1728,
+     "height": 1080
     }
    ]
   },
-  "best-lighter-one-ticker-trade": {
+  "333-evloev-fight-intelligently-movsar-ufc": {
    "type": "photo",
-   "headline": "Today one of the best tickers to trade on Lighter RH is",
-   "category": "other",
+   "headline": "Movsar Evloev will have to fight intelligently at UFC 333",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
+   "release_tag": "m-20261021-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-best-lighter-one-ticker-trade-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-best-lighter-one-ticker-trade-p1.jpg",
-     "source_url": "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p1.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/movsar-evloev-vs-alexander-volkanovski.webp",
      "width": 1920,
-     "height": 1080
+     "height": 1200
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-evloev-fight-intelligently-movsar-ufc-p2.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/alexander-volkanovski-vs-movsar-evloev.webp",
+     "width": 1900,
+     "height": 1200
     }
    ]
   },
-  "brand-home-sail-sets-🛋️": {
+  "120-688-8-billion-coverage-gate-near-ratio-report-reserve": {
    "type": "photo",
-   "headline": "🛋️ A home brand sets sail",
+   "headline": "Gate Reports $8.688 Billion in Reserves, Coverage Ratio Nears 120%",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-0506",
+   "release_tag": "m-20261021-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-brand-home-sail-sets-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-120-688-8-billion-coverage-gate-near-ratio-report-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-brand-home-sail-sets-p1.jpg",
-     "source_url": "https://thehustle.co/hubfs/Wave1-ezgif.com-loop-count.gif",
-     "width": 1080,
-     "height": 1080
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-120-688-8-billion-coverage-gate-near-ratio-report-p1.jpg",
+     "source_url": "https://media.bloomingbit.io/news/ed8d9f6b-81ef-4d98-bb5a-b72a565bc355.webp",
+     "width": 1920,
+     "height": 1280
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "carpenter-interview-lefty-olivia-pick-rodrigo-sabrina-stella",
-   "reason": "best source only 480p",
-   "source_url": "https://www.youtube.com/watch?v=-LMebrVm-uU"
+   "key": "ariana-coco-dog-following-grande-heartfelt-passing-pays-tribute",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=InLNY87GPKs"
   },
   {
-   "key": "333-mma-pick-ufc-underdog",
-   "reason": "download failed or under 1080p",
-   "source_url": "https://www.youtube.com/watch?v=lXUOhMEOrnc"
+   "key": "333-evloev-fight-intelligently-movsar-ufc",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=az6k8XvgAGc"
+  },
+  {
+   "key": "2-4-770-88-advance-booking-cost-crore-hit-mumbai-ramayana-ticket",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=AYkPRN874m8"
+  },
+  {
+   "key": "acquisition-braze-lead-revenue-rush-salesforce-tech",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=VKeMKW8kCZo"
+  },
+  {
+   "key": "alia-bhatt-diagnosi-felt-relief",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=0GNhMnK5Kc0"
+  },
+  {
+   "key": "chef-kiss-laligahighlight-mbappe-realmadrid-́-▶️-🤌",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=1ZRirT79Buw"
+  },
+  {
+   "key": "album-announce-change-northlane-release-single-tour",
+   "reason": "best source only 0p",
+   "source_url": "https://chaoszine.net/wp-content/uploads/2025/06/northlane-download-festival-2025-6.jpg"
   }
  ]
 }
