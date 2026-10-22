@@ -1,30 +1,30 @@
 {
- "generated_at_utc": "2026-10-22T04:07:32Z",
- "generated_at_ist": "2026-10-22 09:37 IST",
- "candidates_generated_at_utc": "2026-10-22T04:05:22Z",
- "candidates_generated_at_ist": "2026-10-22 09:35 IST",
- "release_tag": "m-20261022-0406",
+ "generated_at_utc": "2026-10-22T05:07:10Z",
+ "generated_at_ist": "2026-10-22 10:37 IST",
+ "candidates_generated_at_utc": "2026-10-22T05:05:21Z",
+ "candidates_generated_at_ist": "2026-10-22 10:35 IST",
+ "release_tag": "m-20261022-0506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261022-0406",
-   "runtime_sec": 67,
-   "generated_at_ist": "2026-10-22 09:37 IST"
+   "release_tag": "m-20261022-0506",
+   "runtime_sec": 58,
+   "generated_at_ist": "2026-10-22 10:37 IST"
   }
  ],
  "stats": {
   "videos": 1,
   "videos_4k": 0,
   "photo_stories": 5,
-  "skipped": 3
+  "skipped": 4
  },
  "items": {
-  "14th-asia-btn-cricket-cup-icc-match-men-qat-qualifier-regional-squad": {
+  "1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifier-regional-squad": {
    "type": "video",
-   "headline": "Cricket match squads | BTN vs QAT, 14th Match, ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
+   "headline": "Cricket match squads | BTN vs MMR, 1st Match, ICC Men's T20 World Cup Asia Sub Regional Qualifier A 2026",
    "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
+   "release_tag": "m-20261022-0506",
    "source_url": "https://m.cricbuzz.com/cricket-videos/214509/new-zealand-vs-india-t20i-series-promo",
    "source_title": "New Zealand vs India T20I Series: PROMO",
    "source_resolution": "1920x1080",
@@ -38,32 +38,50 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-14th-asia-btn-cricket-cup-icc-match-men-qat-qualif-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-0406/04-14th-asia-btn-cricket-cup-icc-match-men-qat-qualif-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/03-1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifi-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-0506/03-1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifi-1080.mp4",
    "video_1080_resolution": "1920x1080",
    "video_1080_size_mb": 34.9,
    "video_1080_bitrate_mbps": 9.7,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/04-14th-asia-btn-cricket-cup-icc-match-men-qat-qualif-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-14th-asia-btn-cricket-cup-icc-match-men-qat-qualif-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-14th-asia-btn-cricket-cup-icc-match-men-qat-qualif-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/03-1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifi-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifi-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-1st-asia-btn-cricket-cup-icc-match-men-mmr-qualifi-f3.jpg"
    ]
   },
-  "apologise-kapoor-ranbir-slip-tongue": {
+  "carpet-dolly-parton-red-show-star-tribute-walk": {
    "type": "photo",
-   "headline": "Ranbir Kapoor Apologises For His Slip Of The Tongue",
+   "headline": "Stars walk the red carpet for Dolly Parton tribute show",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
+   "release_tag": "m-20261022-0506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-apologise-kapoor-ranbir-slip-tongue-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-carpet-dolly-parton-red-show-star-tribute-walk-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-apologise-kapoor-ranbir-slip-tongue-p1.jpg",
-     "source_url": "https://cdn.gulte.com/wp-content/uploads/2025/10/ranbir-kapoor-nepotism.jpg",
-     "width": 1599,
-     "height": 1200
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-carpet-dolly-parton-red-show-star-tribute-walk-p1.jpg",
+     "source_url": "https://cmg-cmg-rd-20031-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fcmg%2FOTQR35QJQJGZHCI3A2MADQS7YA.jpg?auth=8e08d3505e795aa5e7e085ea7f947466b766953ac2da49bef4f89dd2938d4d97&width=2048&smart=true",
+     "width": 2048,
+     "height": 1366
+    }
+   ]
+  },
+  "bcci-chance-chief-cup-decide-kohli-reveal-rohit-sharma-virat-world": {
+   "type": "photo",
+   "headline": "Virat Kohli, Rohit Sharma at 2027 World Cup? BCCI chief reveals what will decide their chances",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-bcci-chance-chief-cup-decide-kohli-reveal-rohit-sh-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-bcci-chance-chief-cup-decide-kohli-reveal-rohit-sh-p1.jpg",
+     "source_url": "https://media.assettype.com/gulfnews%2F2026-10-22%2Fvzww38id%2FASSS.jpg?w=2048&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+     "width": 2048,
+     "height": 1536
     }
    ]
   },
@@ -72,7 +90,7 @@
    "headline": "AMD and Intel make oneDNN the default PyTorch library for x86 CPUs",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
+   "release_tag": "m-20261022-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-amd-cpus-default-intel-library-make-onednn-pytorch-p1.jpg"
    ],
@@ -85,30 +103,12 @@
     }
    ]
   },
-  "69-cake-less-pancakeswap-percent-vote": {
-   "type": "photo",
-   "headline": "PancakeSwap vote: 69 percent less CAKE a day",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-69-cake-less-pancakeswap-percent-vote-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-69-cake-less-pancakeswap-percent-vote-p1.jpg",
-     "source_url": "https://d2jq4jjbn1fq59.cloudfront.net/pancakeswap_abstimmung_cake_emissionen_a4507b9878.webp",
-     "width": 1920,
-     "height": 1080
-    }
-   ]
-  },
   "access-broad-consistent-standard-through": {
    "type": "photo",
    "headline": "Broad access through consistent standards",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
+   "release_tag": "m-20261022-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-access-broad-consistent-standard-through-p1.jpg"
    ],
@@ -126,7 +126,7 @@
    "headline": "Warren Buffett's Latest Warning Is Sending Shockwaves Through Wall Street. Here's What History Says Could Happen Next.",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-0406",
+   "release_tag": "m-20261022-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-buffett-happen-here-history-next-sending-shockwave-p1.jpg"
    ],
@@ -142,14 +142,19 @@
  },
  "skipped": [
   {
-   "key": "333-alexander-betting-evloev-movsar-odds-ufc-volkanovski",
+   "key": "333-alexander-date-evloev-movsar-time-ufc-volkanovski-—",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=d6mbk6TNqUo"
+   "source_url": "https://www.youtube.com/watch?v=qe3n4Mx4RyQ"
   },
   {
-   "key": "apologise-kapoor-ranbir-slip-tongue",
+   "key": "advisory-france-india-issue-national-remain-vigilant-‘-’",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=QN1RGYCMhZY"
+   "source_url": "https://www.youtube.com/watch?v=dhyEHLcx-20"
+  },
+  {
+   "key": "beyond-champion-driver-fred-grid-making-mercede-presented-salesforce-third-vesti",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=cybiqrpbFrc"
   },
   {
    "key": "cybercab-demand-elon-expansion-musk-plan-reveal-surging-tesla-tout",
