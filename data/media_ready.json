@@ -1,36 +1,66 @@
 {
- "generated_at_utc": "2026-10-21T23:08:38Z",
- "generated_at_ist": "2026-10-22 04:38 IST",
- "candidates_generated_at_utc": "2026-10-21T23:05:22Z",
- "candidates_generated_at_ist": "2026-10-22 04:35 IST",
- "release_tag": "m-20261021-2306",
+ "generated_at_utc": "2026-10-22T02:09:46Z",
+ "generated_at_ist": "2026-10-22 07:39 IST",
+ "candidates_generated_at_utc": "2026-10-22T02:05:28Z",
+ "candidates_generated_at_ist": "2026-10-22 07:35 IST",
+ "release_tag": "m-20261022-0206",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261021-2306",
-   "runtime_sec": 131,
-   "generated_at_ist": "2026-10-22 04:38 IST"
+   "release_tag": "m-20261022-0206",
+   "runtime_sec": 203,
+   "generated_at_ist": "2026-10-22 07:39 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 8,
-  "skipped": 5
+  "photo_stories": 5,
+  "skipped": 2
  },
  "items": {
-  "3-4-ballot-change-future-massachusett-question-vote": {
+  "333-alexander-beat-evloev-laura-movsar-sanko-superior-ufc-volkanovski": {
    "type": "video",
-   "headline": "Massachusetts ballot Question 3 and Question 4 could change how you vote in the future",
-   "category": "other",
+   "headline": "Laura Sanko: 'Superior' Alexander Volkanovski beats Movsar Evloev at UFC 333",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
-   "source_url": "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4911678_hls/master.m3u8",
-   "source_title": "master",
+   "release_tag": "m-20261022-0206",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/e65835ad-426e-4e1e-9f84-9a5f91122e72.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
+   "source_title": "e65835ad-426e-4e1e-9f84-9a5f91122e72",
    "source_resolution": "1920x1080",
-   "source_fps": 29.97,
-   "source_duration": 199,
-   "duration": 140.01,
+   "source_fps": 30.3,
+   "source_duration": 124,
+   "duration": 124.69,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/03-333-alexander-beat-evloev-laura-movsar-sanko-super-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-0206/03-333-alexander-beat-evloev-laura-movsar-sanko-super-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 149.4,
+   "video_1080_bitrate_mbps": 10.1,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/03-333-alexander-beat-evloev-laura-movsar-sanko-super-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-333-alexander-beat-evloev-laura-movsar-sanko-super-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-333-alexander-beat-evloev-laura-movsar-sanko-super-f3.jpg"
+   ]
+  },
+  "across-austin-fan-find-free-zone": {
+   "type": "video",
+   "headline": "Where to find free F1 fan zones across Austin this week",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-0206",
+   "source_url": "https://stream.mux.com/ndya7ItBbAtU645W7L0202ZKsDA01aT01oSNLk4iqGry01nM.m3u8",
+   "source_title": "ndya7ItBbAtU645W7L0202ZKsDA01aT01oSNLk4iqGry01nM",
+   "source_resolution": "1920x1080",
+   "source_fps": 25.01,
+   "source_duration": 1230,
+   "duration": 140.0,
    "trimmed_to_140s": true,
    "trim_start_sec": 0.0,
    "trim_reason": "from 0:00",
@@ -38,69 +68,15 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-3-4-ballot-change-future-massachusett-question-vot-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261021-2306/04-3-4-ballot-change-future-massachusett-question-vot-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-across-austin-fan-find-free-zone-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-0206/04-across-austin-fan-find-free-zone-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 172.4,
-   "video_1080_bitrate_mbps": 10.3,
+   "video_1080_size_mb": 167.9,
+   "video_1080_bitrate_mbps": 10.1,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/04-3-4-ballot-change-future-massachusett-question-vot-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-3-4-ballot-change-future-massachusett-question-vot-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-3-4-ballot-change-future-massachusett-question-vot-f3.jpg"
-   ]
-  },
-  "333-alexander-betting-evloev-movsar-odds-ufc-volkanovski": {
-   "type": "photo",
-   "headline": "UFC 333: Alexander Volkanovski vs. Movsar Evloev Betting Odds",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-betting-evloev-movsar-odds-ufc-volka-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-alexander-betting-evloev-movsar-odds-ufc-volka-p1.jpg",
-     "source_url": "https://heavy.com/wp-content/uploads/2026/10/Betting-Odds-for-UFC-333.png",
-     "width": 1920,
-     "height": 1080
-    }
-   ]
-  },
-  "333-bringing-corner-make-petr-son-special-ufc-yan": {
-   "type": "photo",
-   "headline": "Petr Yan Makes UFC 333 Special by Bringing His Son Into His Corner",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-bringing-corner-make-petr-son-special-ufc-yan-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-bringing-corner-make-petr-son-special-ufc-yan-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/petr-yan.webp",
-     "width": 1920,
-     "height": 1200
-    }
-   ]
-  },
-  "3-lord-power-ring-season-trailer-unveiled": {
-   "type": "photo",
-   "headline": "'Lord of the Rings: The Rings Of Power' Season 3 Trailer Unveiled",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-3-lord-power-ring-season-trailer-unveiled-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-3-lord-power-ring-season-trailer-unveiled-p1.jpg",
-     "source_url": "https://deadline.com/wp-content/uploads/2024/08/Rings-of-Power-season-2-Ciaran-Hinds.jpg?w=2048",
-     "width": 2048,
-     "height": 1365
-    }
+    "https://chatgpt820970.github.io/chad-media/m/04-across-austin-fan-find-free-zone-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/04-across-austin-fan-find-free-zone-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/04-across-austin-fan-find-free-zone-f3.jpg"
    ]
   },
   "democrat-die-elon-goes-investigation-musk-posting-rampage-sword-threaten-‘-’": {
@@ -108,7 +84,7 @@
    "headline": "‘Die By the Sword’: Elon Musk Goes On Posting Rampage As Democrats Threaten Investigations",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
+   "release_tag": "m-20261022-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-democrat-die-elon-goes-investigation-musk-posting-p1.jpg"
    ],
@@ -121,39 +97,39 @@
     }
    ]
   },
-  "0-50-happen-hit-stellar-xlm": {
+  "biggest-goat-ilia-jon-jone-statu-threat-topuria-ufc": {
    "type": "photo",
-   "headline": "What Would Have to Happen for Stellar (XLM) to Hit $0.50?",
-   "category": "other",
+   "headline": "Jon Jones: Ilia Topuria Was Biggest Threat to UFC GOAT Status",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
+   "release_tag": "m-20261022-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-0-50-happen-hit-stellar-xlm-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-biggest-goat-ilia-jon-jone-statu-threat-topuria-uf-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-0-50-happen-hit-stellar-xlm-p1.jpg",
-     "source_url": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2030437919-scaled.jpg",
-     "width": 2560,
-     "height": 1460
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-biggest-goat-ilia-jon-jone-statu-threat-topuria-uf-p1.jpg",
+     "source_url": "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1471373850-e1792619688951.jpg?quality=65&strip=all",
+     "width": 3558,
+     "height": 2004
     }
    ]
   },
-  "100-hype-hyperliquid-worth": {
+  "australia-breaker-fame-hall-inducted-legend-lisa-sport-sthalekar": {
    "type": "photo",
-   "headline": "What Will 100 Hyperliquid (HYPE) Be Worth by 2030?",
-   "category": "other",
+   "headline": "Breakers legend Lisa Sthalekar inducted into Sport Australia Hall of Fame",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
+   "release_tag": "m-20261022-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-100-hype-hyperliquid-worth-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-australia-breaker-fame-hall-inducted-legend-lisa-s-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-100-hype-hyperliquid-worth-p1.jpg",
-     "source_url": "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2650621849-scaled.jpg",
-     "width": 2560,
-     "height": 1460
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-australia-breaker-fame-hall-inducted-legend-lisa-s-p1.jpg",
+     "source_url": "https://resources.cricket-nsw.pulselive.com/cricket-nsw/photo/2026/10/21/977b562a-bf6e-4a7e-84a7-7802b294c344/GettyImages-1873503706.jpg",
+     "width": 6933,
+     "height": 4622
     }
    ]
   },
@@ -162,7 +138,7 @@
    "headline": "Broad access through consistent standards",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
+   "release_tag": "m-20261022-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-access-broad-consistent-standard-through-p1.jpg"
    ],
@@ -175,50 +151,35 @@
     }
    ]
   },
-  "climb-drift-fall-netflix-spacex-street-wall": {
+  "buffett-happen-here-history-next-sending-shockwave-street-through-wall-warning-warren": {
    "type": "photo",
-   "headline": "Wall Street drifts as SpaceX climbs and Netflix falls",
-   "category": "celebrity_music",
+   "headline": "Warren Buffett's Latest Warning Is Sending Shockwaves Through Wall Street. Here's What History Says Could Happen Next.",
+   "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261021-2306",
+   "release_tag": "m-20261022-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-climb-drift-fall-netflix-spacex-street-wall-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-buffett-happen-here-history-next-sending-shockwave-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-climb-drift-fall-netflix-spacex-street-wall-p1.jpg",
-     "source_url": "https://www.thetimes-tribune.com/wp-content/uploads/2026/10/AP26289702683345.jpg?w=2048",
-     "width": 2000,
-     "height": 1333
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-buffett-happen-here-history-next-sending-shockwave-p1.jpg",
+     "source_url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891746%2Fbuffett16-tmf.jpg&w=2048&op=resize",
+     "width": 2048,
+     "height": 1365
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "333-belt-dvalishvili-mean-merab-ufc-win-yan",
+   "key": "biggest-goat-ilia-jon-jone-statu-threat-topuria-ufc",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=UrbDhJzucTw"
+   "source_url": "https://www.youtube.com/watch?v=ascPpZ-KAUU"
   },
   {
-   "key": "3-lord-power-ring-season-trailer-unveiled",
+   "key": "admit-bragging-car-carlo-casually-classic-drive-driver-ferrari-full-mercede-modest",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=maP_Kyy3DCA"
-  },
-  {
-   "key": "fcbarcelona-football-forget-moment-never-short",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=8K-bvTzMBI0"
-  },
-  {
-   "key": "bum-cardi-cardib-don-jayshetty-please-short",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=q2JTPa8Ej4k"
-  },
-  {
-   "key": "austin-disrupt-forecast-grand-prix-rain-state-united-weather",
-   "reason": "no source could be read",
-   "source_url": "https://www.nbcdfw.com/news/sports/f1-us-grand-prix-cota-austin-watch-schedule-start-time/4093953/"
+   "source_url": "https://www.youtube.com/watch?v=mRJ-LuSdB1E"
   }
  ]
 }
