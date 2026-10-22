@@ -1,27 +1,27 @@
 {
-  "generated_at_utc": "2026-10-21T23:05:22Z",
-  "generated_at_ist": "2026-10-22 04:35 IST",
+  "generated_at_utc": "2026-10-22T02:05:28Z",
+  "generated_at_ist": "2026-10-22 07:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
-    "feeds_ok": 88,
-    "feeds_failed": 1,
-    "raw_items": 5573,
-    "fresh_items": 4664,
-    "clusters": 2082,
-    "youtube_feeds_ok": 30,
-    "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 124,
-    "youtube_items": 2,
-    "famous_items": 3,
+    "feeds_ok": 89,
+    "feeds_failed": 0,
+    "raw_items": 5578,
+    "fresh_items": 4569,
+    "clusters": 1973,
+    "youtube_feeds_ok": 1,
+    "youtube_feeds_failed": 29,
+    "youtube_uploads_fresh": 1,
+    "youtube_items": 0,
+    "famous_items": 5,
     "trends_terms": 40,
-    "page_fetches": 54,
-    "with_video": 6,
-    "runtime_sec": 27.1
+    "page_fetches": 76,
+    "with_video": 4,
+    "runtime_sec": 16.5
   },
   "categories": {
-    "famous_clip": 3,
+    "famous_clip": 4,
     "ai": 0,
     "celebrity_music": 6,
     "finance": 0,
@@ -32,486 +32,60 @@
     "other": 6
   },
   "top_trends": [
-    "mitch mcconnell (US 500+)",
-    "anthony edwards (US 500+)",
-    "world series game 1 (US 500+)",
-    "david muir (US 200+)",
-    "jalen johnson (US 200+)",
-    "nobody wants this season 3 (US 1000+)",
-    "flyers vs sabres (US 1000+)",
-    "dc united - cincinnati (US 1000+)",
-    "dp world tour (US 1000+)",
-    "panthers vs senators (US 500+)",
-    "आसिम मुनीर (IN 5000+)",
-    "z (IN 2000+)",
-    "vinícius júnior (IN 100+)",
-    "aston villa vs viking fk standings (IN 5000+)",
-    "yan diomandé (IN 1000+)",
-    "kylian mbappé (IN 1000+)",
-    "champions league standings (IN 1000+)",
-    "claude duet (IN 1000+)",
-    "real madrid vs barcelona (IN 100+)",
-    "qazi touqeer (IN 200+)"
+    "jordin canada (US 500+)",
+    "julia roberts (US 500+)",
+    "gsw (US 500+)",
+    "dennis schröder (US 500+)",
+    "keon ellis (US 200+)",
+    "dru smith (US 200+)",
+    "dewanna bonner (US 1000+)",
+    "albania (US 1000+)",
+    "theo von (US 500+)",
+    "rj barrett (US 200+)",
+    "wizards vs bucks (IN 100+)",
+    "amit shah (IN 200+)",
+    "பிக் பாஸ் (IN 200+)",
+    "சிங்கப்பூர் (IN 100+)",
+    "అక్టోబర్ 22 (IN 100+)",
+    "ನೀರು (IN 100+)",
+    "windy (IN 500+)",
+    "rockets vs mavericks (IN 100+)",
+    "palmeiras vs fluminense (IN 100+)",
+    "നിക്ഷേപം (IN 100+)"
   ],
   "items": [
-    {
-      "id": "6605e083b8",
-      "key": "333-alexander-betting-evloev-movsar-odds-ufc-volkanovski",
-      "headline": "UFC 333: Alexander Volkanovski vs. Movsar Evloev Betting Odds",
-      "summary": "https://www.ufc.com/news/Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event",
-      "sources": [
-        "MMA Sucka",
-        "Cageside Press",
-        "Heavy.com",
-        "MMA Junkie",
-        "MMA Fighting"
-      ],
-      "article_urls": [
-        "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
-        "https://www.mmafighting.com/ufc/516853/alexander-volkanovski-movsar-evloev-has-incredible-wrestling-but-its-just-not-enough-for-me",
-        "https://heavy.com/sports/ufc/ufc-333-alexander-volkanovski-vs-movsar-evloev-betting-odds/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/18/alexander-volkanovski-ufc-333-vs-movsar-evloev-title-defense-wild-fashion/92318596007/",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQODh4cTVIdWRGMlQzVjQ5U21JM1o0TzdqaVRyUUpneGlHbkk4RmdYMGV4TmtybDJPUlRiR3hPcG5JYnc5b0YtTnFPVENlNVkyQjREbUktdlVQSU5GNnpvX3hlODVDTmVoYXk4NDdheFo4VVBNd1BucndQV0NBdVlKV3hiYURLSnlqRUhTVkkxYXdOMWwwMGJQNQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1A4OEt4NThLVUdaazVVU2RQbF9qR3RfRm1xSXVVSVFNT1VjVTh3M044cGRUVjVHczdpeGJjdnIxT1paOEg5THRlbUY2MUE0NUtnTWpRbFFjZkhDVE1jWmNoMjBZYU5wSTZKSVY1MFJaZmRfNVZOWjljUHI3MDBXOA?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzh2VkdCVDZXamxtc2JNRWRCX3RPX2RhQ0tVYzFOX19abnplaVRQSEVCQ2wxQ01oQXFEOVVmc0w3UXhMMHhYbnZJTFhLM3NtR0hmTUgxLTVsY3Z5Wm9sTXkzbUVhbEpWQ1Fkb0Z4WHJ3c1ViUXBCSl9MV2MzdmNpcF9oYzJyY2JWenRYQm1sbGxqQVE?oc=5",
-        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajRJekpTUEJlU2ViNk9JRDJqVjA0Mm9fQXRldzhtb29JRDVDRFVtTEhaRzJmUHYzVDRfcXVuYTJtUGhsZTVHZGFJVnJ5UEtHQkxJa2s0eTQzR2xRZldvRlVNVFlKaGNnVDBCU2hWRWFFSkVJY2lKWVJnWWhIdTJmT3NidGlzVWp3UVpIRkRld0xLNHdad0ZmYmNsVDFhRDROVHQ3RG1BeVAyUDdhZEd6dHEtQzh2UVZZUDZOejU0b0taUzlpaGhQd1AtVXREc3l4UWlJX19QV3JzRzdwMWRFNw?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:38:37Z",
-      "published_at_ist": "2026-10-22 04:08 IST",
-      "first_seen_utc": "2026-10-21T15:05:07Z",
-      "age_minutes": 26,
-      "trend_score": 19,
-      "rank_score": 1.1806,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ufc 333 (GB 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Alexander Volkanovski Targets Justin Gaethje Superfight",
-        "UFC 333: Alexander Volkanovski Feels Champ-Champ Fight with Gaethje Won't Hold Divisions Up",
-        "Laura Sanko: 'Superior' Alexander Volkanovski beats Movsar Evloev at UFC 333",
-        "UFC 333 broadcast team: Paul Felder steps in for Joe Rogan for Volkanovski vs. Evloev"
-      ],
-      "image_urls": [
-        "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-1465195081.jpg?quality=90&strip=all&crop=0%2C16.126179487329%2C100%2C78.550341700511&w=1200",
-        "https://heavy.com/wp-content/uploads/2026/10/Betting-Odds-for-UFC-333.png",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfkQrtGnkUXisVGRQfxxqw9o1ZUmQjgf1ugAi9PZ9yycnAzbQjkXajurcJBWQ",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RGKgSFthIKHl0VJ-2YFhwsPfcoGD3TdYimVI3j_WuMW4GbzGdHb6jp23Nn0",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQV77GL_y0G4uaQvySarEfy6VN2pGvWOBkkNj1v-EKVgtig3rYHkMAE1O6xR0"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "031fcfe5e7",
-      "key": "333-belt-dvalishvili-mean-merab-ufc-win-yan",
-      "headline": "Win Over Yan Means More Than Belt to UFC 333’s Merab Dvalishvili",
-      "summary": "https://www.ufc.com/news/Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event",
-      "sources": [
-        "Yahoo Sports",
-        "Cageside Press",
-        "BJPenn.com",
-        "UFC.com"
-      ],
-      "article_urls": [
-        "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
-        "https://www.mmafighting.com/ufc/516853/alexander-volkanovski-movsar-evloev-has-incredible-wrestling-but-its-just-not-enough-for-me",
-        "https://cagesidepress.com/2026/10/21/ufc-333-merab-dvalishvili-win-belt/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/18/alexander-volkanovski-ufc-333-vs-movsar-evloev-title-defense-wild-fashion/92318596007/",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRFhyN2l4akhLaFZsVGdpZ21FZ3J0bkZORjZTMDBaX1VsSkdGUUFEendWNncyNExoamljTlduWHZGMXdYSk9Wd1ZHMlpTZkR6aXpuZHAzTGI4RFdEYTdKNFB4MHR1aFBfZVExbjU3YThHU3c5Slc0RFgyN21KSTJ3bVowZzJET1ZNbHJvdkhMY1F6Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE56QTlUNThRcW9xZVhtTkRWTmZLdHppMnRZSFpIenRlU09VZGJSd3JEMk5WQVRoaVpPMnRLZklPQ3R6S1dfZ2haTDA5cHhJd1ZHSEx4eUt0dHI2X2luNG1ZY1BRZXNTRVhKMDc1U25rMGpwTGdVLWx2RXRIb1k?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN3BVeGZDYk1IS1JfY29yYTJTQ25YaXJGODBFOHJrRHFjVkN0eXJmYzVsb2NxYkZXY2RsUFJreko0em92SklyZzcxU1RkcGZRSUVyWENNUjZkUTA4bmhSZ21KS0hGeGhvZnBaWC10U3dGRG9WZkxjc0hPbWx6aVhURmE3a2tGWmZSX3g5RXVsb0dxUmdHa1o3UFhOeEZfT19kYTRCUk9XUjRZakk?oc=5",
-        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9CV3ZyRlNaYkhPbGZ5eHd1SV9ObXAxWjBLejZjZzdwdlJneGVBS1RCVmxTQU1zU3c5OTJRVm5nVFJuSmZTanBV?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:24:53Z",
-      "published_at_ist": "2026-10-22 03:54 IST",
-      "first_seen_utc": "2026-10-21T19:51:43Z",
-      "age_minutes": 40,
-      "trend_score": 18,
-      "rank_score": 1.1547,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ufc 333 (GB 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Merab Dvalishvili’s coach shares worrying update ahead of UFC 333",
-        "Merab Dvalishvili’s coach reveals major ‘problem’ he’ll fight with at UFC 333",
-        "Yan vs Dvalishvili Co-Main Event Preview | UFC 333"
-      ],
-      "image_urls": [
-        "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-1465195081.jpg?quality=90&strip=all&crop=0%2C16.126179487329%2C100%2C78.550341700511&w=1200",
-        "https://cagesidepress.com/wp-content/uploads/2026/10/Merab333.jpg",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfkQrtGnkUXisVGRQfxxqw9o1ZUmQjgf1ugAi9PZ9yycnAzbQjkXajurcJBWQ",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RGKgSFthIKHl0VJ-2YFhwsPfcoGD3TdYimVI3j_WuMW4GbzGdHb6jp23Nn0",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQV77GL_y0G4uaQvySarEfy6VN2pGvWOBkkNj1v-EKVgtig3rYHkMAE1O6xR0"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/UrbDhJzucTw?enablejsapi=1&feature=oembed&wmode=opaque&vq=hd720"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "b88d05123f",
-      "key": "333-bringing-corner-make-petr-son-special-ufc-yan",
-      "headline": "Petr Yan Makes UFC 333 Special by Bringing His Son Into His Corner",
-      "summary": "https://www.ufc.com/news/Renowned Striking Coach Sean Madden Drops In To Dissect Saturday’s UFC 333 Main Event",
-      "sources": [
-        "MMA Sucka",
-        "CBS Sports"
-      ],
-      "article_urls": [
-        "https://www.ufc.com/news/coach-conversation-ufc-333-alexander-volkanovski-vs-movsar-evloev",
-        "https://www.mmafighting.com/ufc/516853/alexander-volkanovski-movsar-evloev-has-incredible-wrestling-but-its-just-not-enough-for-me",
-        "https://mmasucka.com/news/petr-yan-makes-ufc-333-special-by-bringing-his-son-into-his-corner/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/18/alexander-volkanovski-ufc-333-vs-movsar-evloev-title-defense-wild-fashion/92318596007/",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYzFMd0RyUGtORE02MmJfeC1KTzRjUmxpOFpQejZaVjMwZ0Z2Tmx5Q3FGcGZLNUVLX01yTTczbFpUX0Z2OThodk1XTTM0RXUtRjdISFhkVjFyZlFnTXhGZWdzOFRZcGtmN3REVk50eEFjeEo0aG5KV3d4ZktCekJlbUE4R3hQOUE?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLWJHWTA4TFFLWXFaU09yWGJXV3J1ZzN1Y0xRT251aXlWSjZLejQ3dGgzMHVZUG50MDZ0Y3VNSlZ1a2VwTlNkc1A3Y3hqR1IyNkxjT2xNVUZaRE1yMS1pWi1QN0F6Qkx2VVRzRWlZSThQZ3dYOFk2UGlHeHdEcU5yMzNkNVlCc1FDQlU0ZHdDTHg0RjlXMWV6Sw?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWGJVb0FWX1ZEc0l4VW80am03U09TY2g4YnBsMl9FbXpRcFo5d2NYRXVhUmtfaUVWWl9JSTFjZ1Yxa1lrVHNOaWlTOXNDbTVZN19WSURtd25EUmtxa1ZhVFVuaFV2OENVZ3JJb0dpQ1AybVNrSndDYVFtMFhsTGd6RkpQZEQ5Q090Z0N1UXh3WXc?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:46:27Z",
-      "published_at_ist": "2026-10-22 04:16 IST",
-      "first_seen_utc": "2026-10-21T18:03:32Z",
-      "age_minutes": 18,
-      "trend_score": 14,
-      "rank_score": 1.1294,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ufc 333 (GB 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Ramazan Temirov is Out to Make a Statement at UFC 333",
-        "Merab Dvalishvili looks to make history in trilogy bout with Petr Yan at UFC 333: 'Age is just a number'"
-      ],
-      "image_urls": [
-        "https://ufc.com/images/styles/card/s3/2026-10/102026-hero-alexander-volkanovski-movsar-evloev.jpg?itok=4uIqCNdF",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-1465195081.jpg?quality=90&strip=all&crop=0%2C16.126179487329%2C100%2C78.550341700511&w=1200",
-        "https://mmasucka.com/api/media/file/petr-yan.webp",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfkQrtGnkUXisVGRQfxxqw9o1ZUmQjgf1ugAi9PZ9yycnAzbQjkXajurcJBWQ",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3RGKgSFthIKHl0VJ-2YFhwsPfcoGD3TdYimVI3j_WuMW4GbzGdHb6jp23Nn0",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQV77GL_y0G4uaQvySarEfy6VN2pGvWOBkkNj1v-EKVgtig3rYHkMAE1O6xR0"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "1f313cb69d",
-      "key": "cricket-india-platform-popular-stream-t20i-tiktok-zealand",
-      "headline": "Cricket on TikTok: India vs New Zealand T20Is to stream on popular video platform",
-      "summary": "https://www.cricbuzz.com/cricket-news/140599/India have had four days to swap Bengaluru for Christchurch, and they’ll have to find their balance quickly at the start of a big tour",
-      "sources": [
-        "Yahoo Sports",
-        "Sporting News",
-        "The Times of India",
-        "India Today"
-      ],
-      "article_urls": [
-        "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-t20i-1539432/match-preview",
-        "https://www.cricbuzz.com/cricket-news/140599/new-zealand-vs-india-1st-t20i-preview-little-time-to-unpack-as-india-open-in-christchurch-cricbuzzcom",
-        "https://www.indiatoday.in/sports/cricket/story/india-vs-new-zealand-t20i-series-live-stream-tiktok-3022228-2026-10-21",
-        "https://betting.betfair.com/cricket/india-cricket/new-zealand-v-india-first-t20-tips-kiwis-the-value-for-upset-211026-194.html",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUWVibFdjSXdjekVlY2tQVnhKa2lQTWtoQ0hWYlVhRkwtRUg2a1hUajdSQVh6bFppblpFTDlzaXBTdnptY0tzTkRhVGxPRHJKOGxNSi1ZSVR5T2UtS29PSXFOMnRzbGZ0bkxLX25POVJ5X2VBNUc2SA?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObXR6dWx5V251NnFQcTdJSXRGYjB1SXdvM3luSzVfTGdoOGRnOUYzYTRDcHVKQVNvOVJUUWZxVnAtMmFhZUVyTnhya1lycEdQb19UbnlxU0hGMUt1YTdXSTZyYjE2UkJBSVhqTzVPdGNCaGFtYzNsNkU4ajZTSDVkNjRjb0lYMG92bDk1VnBYa1QyOGhUQUJQaC1hUDhtcUhDaDhDY0s0bXI1UnFzenJBbDRCM19uMFBRdGlBZjBhUXk5Q2JVb0U3eXFRUUVKVXgzcFhpWGdnSG1iUVc3?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzBCV3FOcXFyeTQxN0tJWmpUWHJXUDdOeVNYZ0d2dlFfdEpuSjh2cWxQbklWQ2xzcDNONmFUdnBFNVpiY2pMUVBkQ1FPbzlMWVJYNUxicnNuWndDT1JqYlY2dU1vRWpIajRYXzdJa0drcWtvUVpqY0hDalJoUFUybW9Obw?oc=5",
-        "https://news.google.com/rss/articles/CBMimwJBVV95cUxONEtydjdEc2h4RjJsRWIxRmxRTFE5aV8wVVQzU3FTZWVFMWRwaGVaSkFXREt1Z20wZGlUeklGWEVvQnZibUJzUzhqaWJzc1RDX0xodnBFNjhPOUg5cFNqczhpWHlOZEdiWGdKdmszTWRYQXlCYmZOb3M5Q2hDMnRYR1FyMk9nbkVFWVA2OXFNWnluWnhvb2R3RGN0WXh1UzJiZmZKQ1ZJSGhxdjJjTmhuNXJDMVlVWXVSa3NCS2huRTY4RkthS2VzTklYc0VORVhUbzZTTTRsaW45a0hyY1pTVVdOeFFfbnB2MGQxbHFPSGlYcU1Zc1k3SWFpZ284QWc3TmRmSWc4cUp5RTFPQWxoQU52MG40Tk1yVVBB0gGgAkFVX3lxTE9rUTVQZkJ4SkExcmZaSDB5blU4b3FVb25RX1F0MmY0RUR0QldOeElPalJvRlUyVWpfbkY2TmFHQUxGQXN3V1VQYlR5RnBKQ3F4bGdSYmpjQ1hwek5OYTBaVnYtSzVhUzQzNjlleUxDS1RCUGY3SGZZclIwLVUzLVQzbE1oY2ItMWtYdXhFd3JTX1pMcUNuYWxMQWVhdXMyMlE1b1lsNUFGc09NU254NmJhNklSd0xKUlY4NlF1Smp6OFBxMmlFY0dGdTFhM3VyNUc1RzZzRDd5ZlJaNTNqQV82dzFBMDh5OTl2NmM0Y1lRellsT1lDWWlnbkFHT05uc3FGdWlpRXBTS3RnLWphSnhUbFVaODVhT21HcUNzSEQ0Vg?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:30:01Z",
-      "published_at_ist": "2026-10-22 04:00 IST",
-      "first_seen_utc": "2026-10-21T15:00:31Z",
-      "age_minutes": 35,
-      "trend_score": 14,
-      "rank_score": 1.1109,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [
-        "ind vs nz (GB 100+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "How to watch IND vs NZ T20I 2026 live: Start time, TV channels and streaming details for India tour of New Zealand",
-        "Where to watch New Zealand vs. India live stream, TV channel, start time and lineups for 1st T20I in Christchurch",
-        "Where to watch New Zealand vs. India free live stream, TV channel, start time for 1st T20 match",
-        "When and where to watch IND vs NZ first T20I: Match date, time, venue and live streaming details"
-      ],
-      "image_urls": [
-        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/india-vs-new-zealand-210439137-16x9_0.jpg?VersionId=l5Ktsj3jm3rlD_ViUQZ8yMtS0rMTUBzP",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQubpvFwXNZW4VSxM0b-vAm1bkGfRfmCQ1sOD1l_U0wDyq2GBnLFEgiZJ-7q2A",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgVl-d5qxAO6Pbwq7QcXejphO-BYoL2slXI57RygBvvzoIGbI70VcDZ3CSxU8",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRU5fKuqtCvnxopvbMlBk-755sq2ro5Akk9WqT5ynB8oixAWufJXU1D0bZxoaA"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f4be281d69",
-      "key": "austin-disrupt-forecast-grand-prix-rain-state-united-weather",
-      "headline": "Austin GP weather forecast: Will rain disrupt the United States Grand Prix?",
-      "summary": "https://www.gpblog.com/en/news/The 2026 United States Grand Prix forecast predicts hot, mostly dry conditions in Austin, with temperatures near 30°C and little chance of rain.",
-      "sources": [
-        "KXAN Austin",
-        "NBC 5 Dallas-Fort Worth",
-        "GPblog",
-        "Yahoo Sports",
-        "Paddy Power News",
-        "F1 Academy",
-        "PlanetF1",
-        "Formula One World Championship Limited",
-        "Formula 1"
-      ],
-      "article_urls": [
-        "https://www.gpblog.com/en/news/united-states-gp-weather-austin-set-to-offer-a-sharp-contrast-to-recent-races",
-        "https://www.kxan.com/sports/f1-austin/formula-1-themed-events-happening-around-austin-as-grand-prix-heads-to-cota/",
-        "https://www.nbcdfw.com/news/sports/f1-us-grand-prix-cota-austin-watch-schedule-start-time/4093953/",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlg5b3FQNGd1dmRpeTVmT1p1Wm9pRDBkT2l1cVM1QkljQkpiM3dUTGtidnkxRTNray1PdmtEMHpzRTFBR18xT25kaC15T2ZMM2VObS0wdmRxbTk0aTVNbHhVU3QwVGt6Skl1YWx1NnBITk1wdUg2WnFYZFB4Z0VOY0t0QTJkakNqQ2ZzbWxHZWNROC15UE9UemlHQnFxQkFZbklzU2tTdnhCVEhDX3k0VnFxNFHSAboBQVVfeXFMTTB3Q3p6OENpQnJEdFNNSmh1WWpNeGxWZ1NhcEoxWkRZVFJJUUp0QlVHTEM0T0tJeWZFM181dGpLNUx2bV9QaFJjaW1IQnI5VEJQaEdGMEdLQjUyQlJqX2hYZHpFOVdHUS1lRlJmT1dmZllUaU55QjNXV0k0RVZraE94aGhQV1pWM2xyUkU4dzhFM1dQOVdrUGd5b0ZxcWc5dU11NGgwcUlXdEpWR1BIZHllUnRwSHA5SjRn?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLTFTdjVtLTVXZUFtTENkbHBwd2RnR2JsU0JSZ21ocW9MVXpYT1hJd1JpSTRRWEJpbDJFVjYtYXhtR3dTSDFaQmNJZXJ4U3JNSW5Kb0FMbVhFLVhVS1lPVnRYYXlSaW80anV5RGRXdk1hSzEyMUw0QnNMRGpiSFFDcHhrLWhFZ2ZXNmZTNHRKQkZ4a0VTZUVqRl9pNWF4dE3SAacBQVVfeXFMTmJFZzRJdmJzVEdqemc2OTU4MDlqcEJuT2dsc0FZOFJ4STlEMVF5c180cHlNNkYtSTdPcXhDWFB4Q1NWeDRTVmFXVHVKLTJzR3hEQkxvYjFndERUYm84WHBRX3NUX0dwTUZCdnNGZkhEQldtd09USG4tQ0p5Y1FVZEdFTDNXRHBmZ2NUSVhxMnBWZDVmMjcwNkN4LVNLa3hYMHhfZTRPdFE?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUmJKQ0ZDQThWczFmbzc3N1VPRXI5cTJNN21kZWctSE5Kc1FmLWM2YXZCdDNnRDdqNkg4TFE0eFFYODRBZUNXbVZwbzJ5dkhmOFFYaVp6NURieEl4dGFkT0plT2ZibVE3SkJNTTM1NnhocEh4cDNPSGg4cTNQRVB5NnFRVDRNSFBpUlc2YXFFOHBrd3M1OFMxaU9aa2o3SXQxT05PYW1uR3hBYlk5?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMzVTV2Z0VDZ6VUFneklDZnZ1N01LX2tiMkp6VXo0bmZNdFBVTTJZalo4a3VId0Z1NjlkVXRoZDVFSGRDMTNWZzdTVlFMUTBIeDJTNVRlb19DSG9zOHlacWRvcUNXQjFSUHdpRlBZSG1KVmw1UUxXRlZDaDdubTRUM2RwUENzVm11dldDT3NKRGhrdlAyNlJINHJGaHYtU0dVUlNvWk16bWtuZw?oc=5",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM0M1U2ZEdXRyOUstanpJaWNRT1FESHVOMXRNb1dleFdNOWdHbndSZHVJajJ6RG1ya1VjOEVoTFlPb1JuOGNibW5EZ0FBYklhbm9nbVRyM2dud1NpWmlwSXZ3cHZYWUNaWm9sdFN6d3J0aG1lNjNYWFNuVHVQRldmMw?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:26:38Z",
-      "published_at_ist": "2026-10-22 03:56 IST",
-      "first_seen_utc": "2026-10-21T14:24:46Z",
-      "age_minutes": 38,
-      "trend_score": 19,
-      "rank_score": 0.8981,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Formula 1 themed events happening around Austin as Grand Prix heads to COTA",
-        "Previewing the F1 U.S. Grand Prix in Austin: How to watch, schedule, predictions",
-        "Lewis Hamilton called up by the FIA at the United States Grand Prix",
-        "F1 Tips: United States Grand Prix best bets include 7/2 Liam Lawson play"
-      ],
-      "image_urls": [
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2025-10%2F20251017-0398m-68f3a26d9965b.jpg",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2025-10/20251017-0398m-68f3a26d9965b.jpg@webp",
-        "https://media.nbcdfw.com/2026/10/261021-ferrari-cota-getty.jpg?quality=85&strip=all&resize=1200%2C675"
-      ],
-      "video_urls": [
-        "https://www.nbcdfw.com/news/sports/f1-us-grand-prix-cota-austin-watch-schedule-start-time/4093953/"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "e2e2be370c",
-      "key": "ferrari-grand-livery-prix-reveal-special-state-united",
-      "headline": "Ferrari reveals special livery for the F1 United States Grand Prix",
-      "summary": "https://sports.yahoo.com/articles/Ferrari has revealed the livery it has been teasing over the past few days, following the announcement of its race suits. This is what the SF-26 will look like this weekend.",
-      "sources": [
-        "Motorsport.com",
-        "Yahoo Sports",
-        "Covers.com",
-        "Formula 1",
-        "MotorBiscuit",
-        "RacingNews365",
-        "news.gp",
-        "Ferrari",
-        "Oracle Red Bull Racing",
-        "Motorsport Week"
-      ],
-      "article_urls": [
-        "https://sports.yahoo.com/articles/ferrari-reveals-special-livery-f1-210300222.html",
-        "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/",
-        "https://www.covers.com/f1/united-states-grand-prix-predictions-picks-odds-2026",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWM2enlrSEdmZ2RQTnR3WURxNnFBeHBFcEU4Qk15RFg2b0ZQbVd2T0dMbWdEX1kxdUk3Yll0WFhibDdiUHJubFpkaWRPX00yZGhpSUJRcGx5TGhIRFEwSXotSTlSN0g5WGZGajQyVGpoQk1tcUdYWTMzYjdPcU5JTExZbVk1bjR4TFgzNW9DUE1RZXJ6WXZjMTRTZnhZdFBPbTZCNmdXODBfMlF2SVBSaXJMWkZkSmxlX2xRam0zM3I?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOVFRaHJ2Q1o4Z3psNE9PVFFiSUdrdm5WazlHMk50RTJzc2d4TjZWakRWenZwYXY1amRrblhjdmRGeFhLSUU5VEVVSnBMZ3p4blZvSlFoRHQ5R2w2cmVFd2hFVEZ6cVdBM3V0ZTJuX3c5RlhMeEUxRno3RERMTzdWZkRIcUVGa2Z6dGc?oc=5",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVMtbG96RTYwVVBNMldFRmRYcDR5dm92SmwwS0JvX0psQXNkVmFFUFU0bVQ3RlZ3M3hoVHFyekFOb3EyRVJXbjFRNEd4Y3pKa2ZCTG1YSUN2MVg2RUloaFFtQzE4UkI3SjlMQ0w4SHdJbkpmcWNPOVBlMlNHY2xpMm1HeEM?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSy01UWdrZlo0UTJKMmV5dzViVERhMmdFa2IyeWg4Y2RvLWoybXJUc2VFbElFRzdmRW1HTk5VYjBFTnJfeWJybWZMYlk2aTFYa1o1d1BlblVpLUxfLVJGSFRPT0RTRGUweVBHTmxVTVA3NVhHNTZWWWphRlB6QVQ4WW5EbnN4MVBVQU1FSzExWDhteHZncjNtRDFTdHNGNU1pYWlhMDR2WkZDdWJ6V3FXMXYtNnpXV0VNRVI2WGZQQXVHWUs3eDVnNDlBeHppS2oxZUs0aXRQRjZRNy01empIdkluSExydExacVE?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQTNiZUhIa09yNlZSX09MbEUxeThibmpObTM4R2xNLVkxblhWMjFzZG1kWU9tTVkyVWdOZDF5ZUVqOXNUTlBqQ0FoYlViU2VVM1VqTGx6TEN5TUVzaGNuVjlxblE2My1QenpnUl9NOXBMQ1djUE14STh3R3BNLWJuNUZ5Y1BSOVlLWHJoSks2OEF3RGtjcmU4ZWR2REh5Y1UtUUE?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T21:28:02Z",
-      "published_at_ist": "2026-10-22 02:58 IST",
-      "first_seen_utc": "2026-10-21T15:53:40Z",
-      "age_minutes": 97,
-      "trend_score": 21,
-      "rank_score": 0.8642,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Lando Norris launches new clothing collection ahead of United States Grand Prix",
-        "F1 United States Grand Prix Prediction, Picks & Odds: COTA 2026",
-        "Ferrari latest team to unveil special livery for US GP",
-        "Ferrari and Aston Martin Reveal Special Liveries for the US Grand Prix"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/80b7386a7ecc0ae8f5a5947cef8cf37e62215db29992b7abc764dffed6929981/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fgpblog_716%2F78a6be88cb25ec3beb919985c2deae9b",
-        "https://cdn-3.motorsport.com/images/amp/2Qed4A32/s6/72945935-20.jpg",
-        "https://img.covers.com/cms/covers/059cfaaa-54de-442e-9185-27e37e16004a.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "826c3387a2",
-      "key": "3-lord-power-ring-season-trailer-unveiled",
-      "headline": "'Lord of the Rings: The Rings Of Power' Season 3 Trailer Unveiled",
-      "summary": "https://deadline.com/2026/10/lord-of-the-rings-the-rings-of-power-season-3-trailer-1237169096/Prime Video has dropped the official trailer for its upcoming series 'Lord of the Rings: The Rings Of Power'",
-      "sources": [
-        "Facebook",
-        "IMDb",
-        "Filmibeat",
-        "Business Upturn",
-        "The Hollywood Reporter",
-        "Deadline",
-        "Gizmodo",
-        "Variety",
-        "Yahoo"
-      ],
-      "article_urls": [
-        "https://deadline.com/2026/10/lord-of-the-rings-the-rings-of-power-season-3-trailer-1237169096/",
-        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdW5IWENrUWNZVVNVRF9UdUFzaXZPQ1VMcFFQTDFLbHRiZDRjSHhBdklucVMwN09Bb0xPWjJSbFUtT09DbGcwSFhDTV9pUEcwd0RydU5xVUQ2Rnc0My01aW4zdHc0dEN6bUJVc3ZGWExRbjBLVGdRV01uaGhVSDBRTGlSTjJaSy03ZUtoSjV1czByUTh4RXJCUXUteFZpMFlwTGVBTE45UG05SHNhcHd1a3BMVXh6bW05X1o5MUUzb19sMnpic3hhcEJGbkhVdnZ3QUI0Mw?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjRLQThNRkNRMzFzUDkzUF9MV21GT1lKcURPRVE0dzczeG5KcjlsUzRaX0ZIeTRmaGdpdl93cGhtREpyUDE3dld0SFJINHRZVFcyb1dJV3pvaTNTZzNOLTVRU2xaYVZVWWl4UFhNZmc5cEwzVWczM0RBRXJjWTJ0dkJxZ1h2RzRQeHdmdkEyNXd6SW51OFdtMDQtOEVlUm01MjNxU2JNcmgzSnN1dllCQVRMY3R0cTB2ei1ERHZiV2NLZVprc1ViRzJoNUc5WE1sbm5oYkpB?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyRmluTlI2MXl1U282VmRMSHhsUWZ4MlFQM0h3Q1ExZ1VadDZOWFFBUkN0RUQ4TGN3b1lpNzl4ZkYzMFpXXzF5QmJhUFhXa1FqRlA3MkQ1VEt1TVRLVjV4RXZpOTU4WkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6Y3RDbG1OclFaLUs3bzg4dVpObFAzWGU0QVN0UUx5WXBUQlhnWFZVR3F1a1FfazkzNFJEWVdkNWR4dkpueHdscW1pQ3ZvUk1WYXB4M0QzbElEeWYwaEFaOHN4Yl83czA?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FbXFOQklKTUVFMUJ2Skhkd0NhMEthRjl1YS1VYWc0akVhZWhIQ2wwakVreXBwS3laSXNkUkhxZ3hBOE9WemFHYXhKTjQ1ZF9VdzJnY3lOQlQ4cFkzSWdkeEUtb2ZqSEk?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5obUIxZU9xNWl4N0c1SmFEV05CVnlnSVlCbTVKNlVsd3ZKVUJLb2N1Y0FFdEhKa0VqUlZOUmRGaGhQU2c0enNQS0hrZjRSclFvaDBIN09mNkF5NjFXR0xRTEp1RnVnU00?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCN01qdEplLTByY2lZQlpDbmNoVV9iVkxsTjRKMGpNZ084a3BoYURIakgtSXZoV1c4LVU3aEZfSXRUaHdWcXFQZDI5Z1gwOF9aMzVSQVBUUVROdzYxaHA0MGRwTjZDNzhvMHc?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:00:14Z",
-      "published_at_ist": "2026-10-22 03:30 IST",
-      "first_seen_utc": "2026-10-21T16:31:00Z",
-      "age_minutes": 65,
-      "trend_score": 14,
-      "rank_score": 0.8296,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Prime Video has dropped the official trailer for its upcoming series 'Lord of the Rings: The Rings Of Power' Read more below.",
-        "Deadline Hollywood. . We’re getting a look at the highly anticipated ‘The Lord of the Rings: The Rings of Power’ Season 3 in the new trailer that dropped. The series picks up seven years after the events of Season 2 and begins at the height of the War of Elves",
-        "The Lord Of The Rings: The Rings Of Power Season 3 Trailer: Sauron's War Finally Arrives",
-        "‘The Lord of the Rings: The Rings of Power’ Finally Shows Sauron Forging the One Ring in Fiery New Trailer"
-      ],
-      "image_urls": [
-        "https://deadline.com/wp-content/uploads/2024/08/Rings-of-Power-season-2-Ciaran-Hinds.jpg?w=1024"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/maP_Kyy3DCA?version=3&enablejsapi=1&origin=https://deadline.com&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://www.youtube.com/embed/maP_Kyy3DCA?version=3&enablejsapi=1&origin=https://deadline.com&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
     {
       "id": "a2b1db98a6",
       "key": "democrat-die-elon-goes-investigation-musk-posting-rampage-sword-threaten-‘-’",
       "headline": "‘Die By the Sword’: Elon Musk Goes On Posting Rampage As Democrats Threaten Investigations",
       "summary": "https://www.mediaite.com/media/news/die-by-the-sword-elon-musk-goes-on-posting-rampage-as-democrats-threaten-investigations/Musk replied to the clip, “Live by the sword, die by the sword. Sounds like [Kara] Swisher really wants to go to prison.”",
       "sources": [
-        "Mediaite"
+        "Benzinga",
+        "NDTV",
+        "Fox Business",
+        "Mediaite",
+        "TRT World",
+        "Breitbart News",
+        "Townhall",
+        "Raw Story",
+        "Forbes"
       ],
       "article_urls": [
         "https://www.mediaite.com/media/news/die-by-the-sword-elon-musk-goes-on-posting-rampage-as-democrats-threaten-investigations/",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlpwYWlBN1pzX1V2N2tVZjU5OVJSbm5iM3NxWmVDNWtZclBnU2FIOTV5dWtibXRzaWppaGdTSFZHZ1hxbkdKblZRcXc3SUNWclA4dFp3bUtfMklQUjlGRXJnTm9YS2UtOHZKMldlYy1Idkt2Z3BKbFU5bHZQVE1Bb0lGOWZKNGZtazJ0Q1ZKeGVwTXNvZ0FxaHlDblRGcFlIcmNBSGlTNGlEa3ZTNEhHOThlQ29RdENMc2s1XzdJQVFqQQ?oc=5"
+        "https://www.benzinga.com/news/politics/26/10/62515794/musk-vows-to-find-who-is-pulling-strings-democrats-weigh-probe-after-midterms",
+        "https://www.ndtv.com/world-news/live-by-the-sword-die-by-the-sword-elon-musks-message-to-democrats-12217776",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSzY5ZHpQTTBYM2xMaFFMdElMaGJUNmJEaG5qMFU1S2Q0aDBJZW5QTzRFOGN4SmJDS0xSYnFBU1BsRWVPSGJNU2pOTzA3U216YnRaSjR0UThkZnk3OWZ1c0Z5QUpfX1BZTzNhRlpQVHNrRlJYWlZ0bGRGN09GMDZVTHZxTng4MWQxd3ZoUFpvRlVtLXI2ZmhtTlMzbklQMkpkdXQyX3NjREpkOW03ZDZMQXhIdXhNY2RCX1ZOODhHaDkzS2JmREQ0RmZPZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaER2Y1lzSDJldWphcFN1MVU4TXAtbHBxWGUyRmV5U1B3UUtieDdBaGFIWFNUblpHQUk1VndpOTFMYU1oaFdKdmNMM3l0RGRoYVdZWHlVd2M0R0dtTW0zdkNESjZ5MlFscGZaQ2kwdVIyOUZSRHA2dDFSQldja0RQZlQ1c25XQXRCdXppaGpwU01Dd0xicXd1enBSdkEtc2liTHhmN082TmNKZHfSAbMBQVVfeXFMUEhwMjFtVjRKRWk1SUM5OEt1OTNaR3B1bHZtRllqdGVRVE5TdnZqRzNrbHV0WmN2OTZjai1lSlNCNk5sRXd3X1owNjNBbmRoNS1DMkViQTNHMEcwSlpscWdwalEwXzVhd3ZIeXJ5enR4S3BUUzlyMGdtYm1KRV9GaXFOWkdNRl9CenFiOVFsTURVVFI3SXhIMUdoRnBaTWRKVTNza1NoWFhxWER1cEVOUzR3NFE?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRzd5aFBFQVNtcmY4V3oxOVdxLS1HT0x1RXUzUjIyMThWZVRuYUk5MDhZM3pxQWhycW5MbDRuTmVaaFkwdjFQMng1bFBwMmR3aWN2TkhEVThDWlFEUlF2Rm93eWc3TW5HRW5nVmFLN3Q4MnZJRGRmVF9jQ2RxZFpaMk1aNGZCLVo0VnZFTU9kalEtNTdhS3JURUlvc29SbFFod3loRlE0RFU1YWRSalVn0gG0AUFVX3lxTFBBQ2FMeUtHUXRvX1Fuams5dWx1Tnh5U0szaE1FUXdseldhWGYzLS1KS1k0UWxheU1TeGl1ck5GVmVwNUhxdWE2SkF2WUV3Wldla0tYNTZYcUU5VkRWWHQxY1RjelZ3Ymx2ZTdsam0xMVl3UVpkX0lFdXAtVzhOTmxXY0ZTUXJsTnYwVUw5ZUhpbVM4N2VkcEh2YnphZ1U2eU1sOHZfQVpaelJkZVZ6NzRCN19xSA?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdlpwYWlBN1pzX1V2N2tVZjU5OVJSbm5iM3NxWmVDNWtZclBnU2FIOTV5dWtibXRzaWppaGdTSFZHZ1hxbkdKblZRcXc3SUNWclA4dFp3bUtfMklQUjlGRXJnTm9YS2UtOHZKMldlYy1Idkt2Z3BKbFU5bHZQVE1Bb0lGOWZKNGZtazJ0Q1ZKeGVwTXNvZ0FxaHlDblRGcFlIcmNBSGlTNGlEa3ZTNEhHOThlQ29RdENMc2s1XzdJQVFqQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FQ293WmpRQ3lCdmRCeGF1Qlc3SGh6Sk90SXFmbDFDSkNOVldCUTNXVEk0WDdHaFYxd0xoakp4bGVzanl6RVFwVUFFUC1BR0hoem1XN0ZFSHA?oc=5"
       ],
-      "published_at_utc": "2026-10-21T22:02:00Z",
-      "published_at_ist": "2026-10-22 03:32 IST",
-      "first_seen_utc": "2026-10-21T22:02:00Z",
-      "age_minutes": 63,
-      "trend_score": 9,
-      "rank_score": 0.7963,
+      "published_at_utc": "2026-10-22T01:46:04Z",
+      "published_at_ist": "2026-10-22 07:16 IST",
+      "first_seen_utc": "2026-10-21T19:21:41Z",
+      "age_minutes": 19,
+      "trend_score": 19,
+      "rank_score": 0.944,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -532,7 +106,12 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Elon Musk Vows to Go After Critics As Democrats Weigh Probing Him - SpaceX (NASDAQ:SPCX)",
+        "\"Live By The Sword, Die By The Sword\": Elon Musk's Message To Democrats",
+        "Elon Musk says he will retaliate against Democrats who investigate him",
+        "Elon Musk warns Democrats teeing up congressional probes as MAGA Inc unleashes $277M midterm blitz"
+      ],
       "image_urls": [
         "https://www.mediaite.com/wp-content/uploads/2025/07/AP25150694215290-scaled.jpg"
       ],
@@ -541,29 +120,162 @@
       "youtube_videos": []
     },
     {
-      "id": "41d1cd33b3",
-      "key": "behind-include-kate-middleton-photo-prince-scene-twist-two-unexpected-william",
-      "headline": "Kate Middleton and Prince William’s Behind-the-Scenes Photo Includes Two Unexpected Twists",
-      "summary": "https://www.instyle.com/Kate Middleton and Prince William’s behind-the-scenes photo features two unexpected twist. Here’s a closer look at their latest royal portrait.",
+      "id": "853f7e9154",
+      "key": "carpet-celebration-cma-dolly-parton-photo-red",
+      "headline": "PHOTOS: CMA's Dolly Parton Celebration, Red Carpet",
+      "summary": "https://fox17.com/news/local/Fox 17 provides local news, weather, sports, traffic and entertainment for Nashville and nearby towns and communities in Middle Tennessee, including Forest Hills, Brentwood, Franklin, Fairview, Dickson, Clarksville, White House, Greenbrier, Springfield, Gallatin, Hartsville, Lebanon, Mt Juliet, Smyrna, College Grove, Thompson’s Station, Centerville, Murfreesboro, Colum",
       "sources": [
-        "InStyle"
+        "Deadline",
+        "DRGNews",
+        "USA Today",
+        "WZTV",
+        "Taste of Country",
+        "Page Six",
+        "98.1 KHAK",
+        "107.7 WGNA",
+        "Q98.5",
+        "b985.fm"
       ],
       "article_urls": [
-        "https://www.instyle.com/kate-middleton-prince-william-bts-photo-includes-two-unexpected-twists-12187040",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxORF84YzVJdnprRWx4dE15X2h6OXVUVVVqOWFPbUc0SUFaakVoQlVSMy10cld0Zi1yMEhGTFlKcGRVN19GalhOOGtHYm5ZSTNReFZOT05TNXdic1VzNWtlRVdQa1YxdElkT2FaaGlGa1JoTFZxRzFIY3J6WGplaXM0Y0lJajRnaGtwX3hQN2hfQXI4WDhNVVFIZ1piMzJNMEtyVG1BcWFR?oc=5"
+        "https://fox17.com/news/local/photos-dolly-parton-celebration-red-carpet-cma-tribute-in-nashville",
+        "https://deadline.com/gallery/cmas-dolly-parton-celebration-red-carpet-reba-mcentire-katy-perry-kristin-chenoweth-more/",
+        "https://drgnews.com/2026/10/21/dolly-parton-tribute-concert-pictures-best-from-the-red-carpet/",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa1NNemdlSVRyTmdjUmJVMzdIR0RUZnN4V2xUakN6Q1BNdm9wQVdnWWZLbEJQSHpoVERTOFlKcmd3d210MVBrU2hVNXlVT29TV2JJTmVNOUNnYjRuM1F1dkNYMWROZVYxaHVpeWZIWWtQTk5BTml0SlVLSlZXaF9BNzE0cmk4UEhhTzNFSGo5TGoyZWtnMWNPaDFuU3Y1Y0xhNXVNbHB1NGc3S1Y1d3hqNEdZTDVUMUVxdGc?oc=5",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeG55MjNfNGV3SXZteUlyVUVaM01ZNFIzTzJpZ3BlaGFMQnJQWDVqYlZCQVZsaHhUNkEyRWhkcXBfbmZmOXE5WmVPV19nSlF1TF9vNGVYZGlTTGdPbzJOd0t3a0tFbW5VdjE3bGhDTnJqTG9RQ0VwREJoRjdUaU1KalhKbVBlSDJqRXl3MzljaUd6ejBjY2xRek5R?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTEpqR0ExT3U5TVBpbUloOVc4SV9RcGVfWDE1V3JpQ3AycUNnTWVsYkpyemVnM3hoQ0traFlubXBMd3B5NWd4M0tXV2xUdUpZNDVEUm5DQklVXzE1VDl3SXFPMjUxU19ldVBSQ2JqWmd0blNTSjROd1ByMDdUOC1ZV1NBdW1rT3dxZU1sdXp4QkJSMlFxcVdfbk51ejJnd2dNQkkwb045SDhHUnlkTzNINEY4QVFOd3V5cHdvMVF6cUxkdGNzVUE?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkJGcEVCQi1wT3hfeWxjc29yUWRNalJTQ3piZ3JSR0VMNjlCNWkzemZ1NTZHbEpWTVlXWm8zYTRrUFRQckdDcXhKcldQb1hkemduNjR2ZFF1SjQ2LXB4a3p0WHgwWWJTRFRHdXBmMHhGNnczUkQyTGVkUmtua1dLNlBYdWViYjRYNG14SWZGSHhRcHIzLTJRbEFvOXg?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdFdFQ1V3UTZxY3NjeUd5dFJ4V3ZWcTBrVVNRNzVGYm1sYXZWMHI2Y0licnp4NGYzRV9vTmRQOXNZaE01SDVTa1JPTExscUNKR0s0UGRKaE9VM181ZUtJYWVUcUZGZ005T3RxOGp2bDlJT1R2OWFLVkViM1p5Z2sxMnI3OV9sbXVveWg5SlhFd0dSZVc3alpCWDdxb0NBRkZ4clhIWUFJVQ?oc=5"
       ],
-      "published_at_utc": "2026-10-21T22:46:15Z",
-      "published_at_ist": "2026-10-22 04:16 IST",
-      "first_seen_utc": "2026-10-21T22:46:15Z",
-      "age_minutes": 19,
-      "trend_score": 8,
-      "rank_score": 0.7861,
+      "published_at_utc": "2026-10-22T01:49:00Z",
+      "published_at_ist": "2026-10-22 07:19 IST",
+      "first_seen_utc": "2026-10-21T22:49:00Z",
+      "age_minutes": 16,
+      "trend_score": 14,
+      "rank_score": 0.8704,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
         "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "CMA’s Dolly Parton Celebration Red Carpet: Reba McEntire, Katy Perry, Kristin Chenoweth & More",
+        "Dolly Parton Tribute Concert Pictures: Best from the Red Carpet",
+        "Stars turn out for CMA's Dolly Parton special: See red carpet photos",
+        "‘CMA Presents I Will Always Love You: A Celebration of Dolly Parton’ red carpet: Reba McEntire, Katy Perry, Kelsea Ballerini and more"
+      ],
+      "image_urls": [
+        "https://fox17.com/resources/media2/16x9/1093/1320/34x0/90/c8c11ff1-2a5a-4f5b-96fa-931210f48942-CMADOLLY10.png",
+        "https://deadline.com/wp-content/uploads/2026/10/CMA-Dolly-Parton-5-shot.jpg?w=1024",
+        "https://townsquare.media/site/204/files/2026/10/attachment-taste-of-country-43.png?format=natural"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "3f119f2924",
+      "key": "biggest-goat-ilia-jon-jone-statu-threat-topuria-ufc",
+      "headline": "Jon Jones: Ilia Topuria Was Biggest Threat to UFC GOAT Status",
+      "summary": "https://heavy.com/sports/ufc/jon-jones-ilia-topuria-biggest-threat/UFC legend Jon Jones says that former lightweight and featherweight champion Ilia Topuria was the biggest threat to his GOAT status.",
+      "sources": [
+        "Yahoo Sports",
+        "Heavy.com",
+        "MMA Fighting",
+        "Bloody Elbow",
+        "Sportscape Magazine",
+        "MMA Sucka"
+      ],
+      "article_urls": [
+        "https://heavy.com/sports/ufc/jon-jones-ilia-topuria-biggest-threat/",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTjVWTVdZa2dsNWVpZmNEUXZmb2hXSW9ZdEJvRC1GbDNUQ2hMX1RnRmF3Q1laeENGTTlpQnEwZFlnVXlQem1xTzhXMFoyZUJUSEFiZGY1U29KZ3pKY3RUVWZrU2U3UktkNzJ1bHptbDk0VlJjS2V1bERjS19fbTRYNGdOdGw?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YZDREWXdjZmpBWUlzTnhmUmRxVmk4UUoxSUxFaDRjZ21YMnp2TUZTM2wwcEpxQXNqZ2k0WG1TRHdyOHlLbXRTTXFYSkVKOEhVeVZadzN2TE9lcGdJZmd0M09ET3RyamZEc2FpejdqdkFKelhfTFE?oc=5",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHBVY3VlUnAtZlVvaWV1U0lOMFZ6M0hOWk01YW03cmstSlFncGlKcDlHSDhtN2stRmttM01vUjM1NzNTcDJfNUZ5c19TQlc0Q0trZ2dyV2w2SktXNWdfQ205X09DSUlBN1dOUHNhc25GcVozemFsMFZxanRrNXdiQlFFNE9hQzE4c3JoMmkzYXFFV1VuUjdSZ1pUdzNPcER0MGdNVmppSjc4NnFkQ2tXSWhrZ1NPQldNcXltb2dtdGpQY090dFkzbjBod0MyQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcDAyNWxoTzlFMjRyZEZ3bS1neFAtaDdBdVh0Mk1SSTI0ZEk0c3VCQ3h1OWVQM2RfY3hfTlUwb2hsRDhGZU92aDJvRUpRQzllNDVpRlBMQXpXbllVZGZ6cE1teE8yaHNiSFZkWkpSSnZpalE4cnZUWEtWMmpzOFZkUW1DSVJmMmVzV241SE9RMHRNelJ5RUZmWU1SY0l4Y0JKUXZLYW1ZMTZGZnIxOF9XSnB2cDF1dw?oc=5",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYkFaZXlKcFVfU1E3cUNBSU90VmVKdkZqOTRZTXhYOTA4WXRqb2F2SzJpVGJzRjJYUWN2ZzNpTWp6M0dJaHdRWjJiN3BnbGJlNVllNlFFeXI2ZzgzdzRwNThVak5RS0kzbzhrb1hJb0VVdmhIZ3VpeENqRzRtN1c1X25adUtpWmNKMG1mbVY1SkxEMkU?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkk5VWR5OEZaNzVBN2VYZEN6elI2Z3pXcTFEOUtSNV94VFFPY05tNUJfNmU1MnBvZnVLamtNWE1NZGdKWTlWcmtDamY0V29JRDB4eEJyUm1RNllVUnhXY3pyNDVKSWFXc1RWejZMSmlpR2tiVXJDY1NmZFhWLUgxUVdYbkpPYkl1YXlVcEh4VmVLUGtibng1a042N3lMX2ZzcmdYOHRhY1ZUcE0?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:36:00Z",
+      "published_at_ist": "2026-10-22 07:06 IST",
+      "first_seen_utc": "2026-10-21T21:00:00Z",
+      "age_minutes": 29,
+      "trend_score": 15,
+      "rank_score": 0.8699,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Jon Jones Admits Ilia Topuria Threatened His UFC GOAT Status Before White House Setback",
+        "Jon Jones considered Ilia Topuria ‘first threat’ to his ‘GOAT’ status until loss to Justin Gaethje"
+      ],
+      "image_urls": [
+        "https://heavy.com/wp-content/uploads/2026/10/GettyImages-1471373850-e1792619688951.jpg?quality=65&strip=all"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=ascPpZ-KAUU"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "8a25db68c1",
+      "key": "album-announce-australian-king-leon-release-tour",
+      "headline": "Kings of Leon Announce Australian Tour for 2027 with New Album Release",
+      "summary": "https://news.ssbcrack.com/kings-of-leon-announce-australian-tour-for-2027-with-new-album-release/Kings of Leon have officially announced their highly anticipated return to Australia, set to take place from February 28 to March 5, 2027. The Grammy-winning",
+      "sources": [
+        "SSBCrack",
+        "theMusic",
+        "Metal on Tap",
+        "Exclaim!",
+        "Los Angeles Daily News",
+        "The Note",
+        "Glide Magazine",
+        "The Mosh Network",
+        "Our Culture Mag",
+        "JamBase"
+      ],
+      "article_urls": [
+        "https://news.ssbcrack.com/kings-of-leon-announce-australian-tour-for-2027-with-new-album-release/",
+        "https://themusic.com.au/news/northlane-reschedule-2026-australian-tour-push-back-anemoia-album-release/wfl_1dTX1tk/22-10-26",
+        "https://metalontap.com/northlane-release-new-single-deathwish-announce-album-tour-date-changes/",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQa3VJWElUNmJWQ2NIVnU3TUxPdzZ4OEk5bXl1TDRtZXJtWXE4MDV0T1otWTlsMURta0dlM3c3Rmg1bl9yUVlZaVpuaTduem1Bc0hYcFZvMkdiSUpFb2JoSFEwSFJQYmlBWGJVNHZRLVZtdnQwaUcxRF9qQ25VaE5MNGRuWUVsVUtoNTYyeE1IdDFmd2tEdC1CdlZ3U3pJZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnhvT2hkSXp4REZfR1RvcHlCNTRNSTVXY213RU9BaUhjQ3dMZElqQUwtS2JQNXdGZHBEMnhOTy01V0lCb2NiRElhanYxazJMQmpER0tWTExzbWxtMy13Z3VodC1yVDM5V2syYzNFM1VHbERKemFiREtQaG92dURqMTJtanZ0enF6Ym9XX2dpM2JWOTA5Y1JwSWdrUFBvcTNYX0ktdUlPNEx6WjFjelI5dVdiMzh4TWVYczd4azI2ZXU?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQXpSWXV5eU1KNUZOVWQ2dkpuY2M1Q3JnR0Z3RXB3TlpmdFBraXJ3dExYUkhtUFBzVUV4QWNCRTRMb1BPOGx2YWlCd3g1bThVLTM1OThWTDBwRnlpX044ZkFqTThaZjJZZjlyOXk2REpfU3hPeEhlR1lFWFlPNVRoSUpYUXprdy1iQ1NKdUYydkVjRlc0UVVTY3prYw?oc=5",
+        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2taZEpzaU9iaWtkcmlJR0tBOXo1Q2JrVFR6LWVRRFpQWmgwczQyZUFSTEdsMnpELTY3bUprVGRFTzRqSFdOT1JBOTVDU1lWbkZUOGtUdGNGMTVyaG1IbDluc3hRNmlrRWZLb2lDVVZmUk1wb0NNWml4WldPYnlvM0FRMWMzNzdSd0xSV2FlMzVFdTV2Z2EycVU5TUM4cmFsU1A5U2k2SHBmUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY0Q4V0NQVmNzSER5bk40SWFZd3J4RWRYb2xxNU4xcTNadTlWOEJ5TUdEQXp6djBnbURIbXJwak5FYURGOEN3cUNUckRzS0labkt5bnd3WjBsNlVjVGZvNW1iTDRpMzd5OUhwTkRYUlRxZ1lsUTZzOE5WZE1lcXA3X2h2dnVPUFVGUWVaVkVUeXk2N2xyVVhBQWsxZllTNXhIX0tlNktDQzFWQTY3NFd1MHNZUQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T00:42:58Z",
+      "published_at_ist": "2026-10-22 06:12 IST",
+      "first_seen_utc": "2026-10-21T17:54:13Z",
+      "age_minutes": 82,
+      "trend_score": 17,
+      "rank_score": 0.8446,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "IN",
         "US"
       ],
@@ -576,57 +288,343 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Northlane Reschedule 2026 Australian Tour, Push Back 'Anemoia' Album Release",
+        "NORTHLANE Release New Single \"Deathwish\" + Announce Album & Tour Date Changes",
+        "CHVRCHES Announce New Album 'All the King's Men,' Map Out 2027 Tour",
+        "CHVRCHES announces new album and 2027 tour with Los Angeles, San Diego stops"
+      ],
       "image_urls": [
-        "https://www.instyle.com/thmb/7F_vFpWPXOcwJby6dLM7oxbkq9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-23006585751-d4022cc631974847ac521ac7a2bc6d88.jpg"
+        "https://news.ssbcrack.com/wp-content/uploads/2026/10/Kings-of-Leon-Announce-Australian-Tour-for-2027-with-New.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "1ad252eeef",
-      "key": "21-76er-jame-knick-lebron-locked-outlast-philadelphia-sport-york",
-      "headline": "LeBron James and the Philadelphia 76ers OUTLAST the New York Knicks | Locked On Sports Today | Oct 21, 2026",
-      "summary": "",
+      "id": "926048123a",
+      "key": "following-gaga-hint-lady-mayhem-music-‘-’",
+      "headline": "Lady Gaga Hints at New Music Following ‘Mayhem’",
+      "summary": "http://www.bgnes.com/entertainment/Fans of Lady Gaga may soon have new music to look forward to, People reports. The singer posted a video on TikTok promoting a new four-piece makeup brush set from her cosmetics brand, Haus",
       "sources": [
-        "The Shadow League",
-        "ABC10",
-        "kare11.com",
-        "newswest9.com",
-        "WWLTV.com",
-        "Fox News"
+        "BGNES",
+        "Yahoo News UK"
       ],
       "article_urls": [
-        "https://www.abc10.com/video/sports/locked-on/lo-national/today-podcast/lebron-james-and-the-philadelphia-76ers-outlast-the-new-york-knicks-locked-on-sports-today-oct-21-2026/535-bef48801-1940-46b5-8939-44db068addf8",
-        "https://theshadowleague.com/lebron-james-curses-new-york-knicks-fan-video-philadelphia-76ers-debut-ring-night/",
-        "https://www.kare11.com/video/sports/locked-on/lo-national/today-podcast/lebron-james-and-the-philadelphia-76ers-outlast-the-new-york-knicks-locked-on-sports-today-oct-21-2026/535-bef48801-1940-46b5-8939-44db068addf8",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTl3NGRuSUU0YkdhLU5nSDVfUU9YalV3VmpuUlc0eE53bGRIV0ZaMW40a3lRRHhMS1FEb1hQRHpmRGlJRnV0cGJ2QTFNSkxDWm1haVgtYjB5MUNmSHdYaGQ5RWd3ZVhwb3JFY0wta2EyX3ZXaHNEUlFmZFMtbU0zaTc4MFlVQnQyS0pPazB3X3AySnJucWJmQXhvcVhOSDVZNHFDUm1QYW1raklpZ1Zr?oc=5",
-        "https://news.google.com/rss/articles/CBMiugJBVV95cUxNS3hnNVU0UG5rQzczd3VlQ2loM3JJWXpkS3UwNWRfdzY4ZXJmWlJBX2pvdUFERzE3S0NjOWJ5SjY1d1hlN0l6Um1HblNjX3JhcV80c0lsQ29hd2NtRUlGUDRCdGRGWl9vT2QwcHk2cGVCbE1jZWpfTjh4eFVlNjdLNXlwcjMzYVJUWmwtMVhPTUhmTmVmWGFZNmVEeDhtbmJ5ak9sQTBsY1ZpODIzMGF6elhCWUJmVTJtMFdqZmJUWGotM092clFRM3Y5Z3RHSFNXMG5CNjl5U3dlMlQ2WDNwQ1N1Z25PdWNXbUEtMFZKZWRxajctNFhaT05XSFpKTHl5UXdNc2dZMzMxYWI1aWM1NW00YVZXT1JSR2tpTDlQRVJLeDRPSnAxdlJtZmVaaldjOE9adjA2MFc2UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZzhUQVkxRkM0c0FtRnNBbVZGdElybVpDZ1MybjU3WUxTS3JqY1pKT1QzQVA2R0hKNi1xY2s0MTFhNUZLMktGNnZXNGY4N2dDdkRpWkY3aFdYcmRXMkMyZS1PNG9xMEQ3QVNzNnIyc3plY3g4a1NQN3FQanlkbi14WFRkamJQcWczUlRPMEhzZjNDbkU5NXVQZC00YVhwQkZ1N2dESHRLV2xVclpKRXlDd3hqcjJRUF82X2UzM3dhTG5UN3JuMmo1QW9fdTBRRGMwNjQtemZuTExwSEdGZWlpVUdheVJIR01aZE9oZmE2ajJ0WGlFYWdZNFNCbXg0SVh0elMyTklrWFRrU3FfblJWR1pnRWdDTW9iX1dDOHVadV9aNHFSUjRkLXZZcmh1WC02S2FodEhOYlNZY0k?oc=5",
-        "https://news.google.com/rss/articles/CBMivwJBVV95cUxPczJ6VjJJaHh6Mkk1WHpDNWNnOWtBcnpFdlNTNlo0VC1xLVh2ZVpQOEJHN0Y2SGc4dmdoWG5ZcmpiYm5CQkZ3VXhxN1JlMXhIS3QtVGFaR2tNMUlEQjFEOWRkTDNjTWF2YV94UF9DQVFPeDRDek1GY1dyNnRrdkN2RHZ0NmEzSmZwOGZQTW9raFlqMFkzcDVNSVd1RE5XTC1mNkxLelUwZWhVNi1YQ2ZwUjVLZDI2a3NFZ1dRUzRFUkwyYWpfR3Fhd2hHZVp3ZldHQWhlUGphY0pXTkpGeE8yM3dqSUVkckI2LVJMaWs4Y05tSEs1X1Y1VlNJRWxGbk9QREpzMThCRm5kNnpybTZ6VG8xbVBLZkJrZXFJWkFYYVNIaWluaWx4S3pLXzJIZk1xYVU2dFRUTl82MzdOMHdn?oc=5",
-        "https://news.google.com/rss/articles/CBMiugJBVV95cUxOZUJGeXJsWmNKOW9JMmZvZzlVT0pDTlpUQVlwM3Jucmo4cXRVeUhxSmxQbEt4TmpkUzJ5dGNnLVo0WDItcVhydUJfX3VfLURoRzQ3eU1RUktDU2ZMT2hkYTZ0Um12SC12cklVTmx0cU1vcV8ySHFFOXFKdVhVcF9fdWpRUzFCQWdXUkhScElsdnNIRHUza1U2X0U5Tm10V1F6c1lVczNZd01OaEtZSEkxWHhmM2QtUUtZWEY1TU5pNmJ0am0yODAwWk9hLThPWkd2WEpBTy15d3l1QmNGMDdFWmZwTEpvZHhqcE5VM1VaVE03WFBQXzVTNlpmNzFOVUJBMkl3Ymt1X1NXdHJaRTllbTZIN1AtYWY5NV8zMWdQdGFiaEhsZi1xRlh0ZVFRTlB6cVR6aVdQWkJnQQ?oc=5"
+        "http://www.bgnes.com/entertainment/lady-gaga-hints-at-new-music-following-mayhem",
+        "https://uk.news.yahoo.com/lady-gaga-hints-music-horizon-014518007.html",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOGhISVlYT1Rjc3dnWWp6RFlVNVFZc2pYQ0toaHc2TC11RWZuekxhQWszQ0dqTTdwakU3SzN1WEhjemJWZWdhRG1EQVpGTEVpem0zbnJZVmRXUTdBeWlQOUJnNTl3b2hCUEZKOU8tZEQwRWRLQU9ZMi13YkxlRXpoYWJfaUtOVWM?oc=5",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBrOWotY19JZ0JIVmpDNU5pT3EzMXBkRld5Um1qY0JWeS1vV2RwMm9fZF83QTcwWWx0Vll4RG91MHZQcy01b0J0bldyUG5zZ2ZjRFNPazBxY1FHQ0lSVHdEcmtGQWpHczNsTlA2VWE4X0pZbnhyeWFSQ0JB?oc=5"
       ],
-      "published_at_utc": "2026-10-21T20:30:00Z",
-      "published_at_ist": "2026-10-22 02:00 IST",
-      "first_seen_utc": "2026-10-21T14:32:13Z",
-      "age_minutes": 155,
-      "trend_score": 12,
-      "rank_score": 0.7616,
-      "category": "famous_clip",
-      "section": "top",
+      "published_at_utc": "2026-10-22T01:58:40Z",
+      "published_at_ist": "2026-10-22 07:28 IST",
+      "first_seen_utc": "2026-10-22T01:45:00Z",
+      "age_minutes": 6,
+      "trend_score": 9,
+      "rank_score": 0.8438,
+      "category": "celebrity_music",
+      "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "LeBron James"
+        "Lady Gaga"
       ],
       "region": [
         "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Lady Gaga Hints New Music Is on the Horizon Following “Mayhem”"
+      ],
+      "image_urls": [
+        "https://www.bgnes.com/static/images/news/2026/10/22/23853/21880.webp",
+        "http://www.bgnes.com/entertainment/images/news/2026/10/22/23853/640X360-21880.webp",
+        "https://s.yimg.com/lo/mysterio/api/121be21ba800a31a1b0442a31ccd17992a12c35ef5749beaf2424303df5694b8/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd9a5821ef9b96a59127f1088d0957985.jpg",
+        "https://s.yimg.com/lo/mysterio/api/a7ef0809e4e75e60331f4575fb81c5661645d171e5e8de4065f1748f31089135/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fpeople_218%2Fd9a5821ef9b96a59127f1088d0957985.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c01cd4f8fa",
+      "key": "admit-bragging-car-carlo-casually-classic-drive-driver-ferrari-full-mercede-modest",
+      "headline": "In a room full of F1 drivers bragging about Ferraris and classic Mercedes, Carlos Sainz casually admits he only drives a very modest car",
+      "summary": "https://supercarblondie.com/carlos-sainz-vw-golf-car-collection/In a room full of F1 drivers bragging about the coolest daily drivers like Ferraris and classic Mercedes, Carlos Sainz only drives a very modest car",
+      "sources": [
+        "Supercar Blondie"
+      ],
+      "article_urls": [
+        "https://supercarblondie.com/carlos-sainz-vw-golf-car-collection/",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1hMGFxOGg2NVpUUHluV29ucjBSQlNkbmlfV0ZGU2d2WGRJSlVxOEhGNkRLbUEtREpJTWtiZUlYTVdxdnBsaGNYQXFGUVdRRkdiTE5VVmtnZ2ZhcXA5ZTBMSVBaWG5JZnB0NGowNEdhcG9Mdw?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:46:00Z",
+      "published_at_ist": "2026-10-22 07:16 IST",
+      "first_seen_utc": "2026-10-22T01:46:00Z",
+      "age_minutes": 19,
+      "trend_score": 11,
+      "rank_score": 0.8322,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Carlos-Sainz-drives-golf.jpg"
+      ],
+      "video_urls": [
+        "https://youtu.be/mRJ-LuSdB1E"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "c717d3917e",
+      "key": "333-alexander-beat-evloev-laura-movsar-sanko-superior-ufc-volkanovski",
+      "headline": "Laura Sanko: 'Superior' Alexander Volkanovski beats Movsar Evloev at UFC 333",
+      "summary": "https://sports.yahoo.com/mma/betting/article/Let's find some spots to attack on a card with relatively tight odds throughout that features a pair of excellent title fights.",
+      "sources": [
+        "Athlon Sports",
+        "Yahoo Sports",
+        "MMA Junkie"
+      ],
+      "article_urls": [
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/10/21/ufc-333-laura-sanko-prediction-alexander-volkanovski-superior-movsar-evloev/92334383007/",
+        "https://athlonsports.com/mma/ufc-333-alexander-volkanovski-movsar-evloev-early-start-time",
+        "https://sports.yahoo.com/mma/betting/article/best-value-bets-for-ufc-333-alexander-volkanovski-vs-movsar-evloev-215916102.html",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQTFjYjZqcDNZZ1lzZzZjT1dVTXNkX3VheExVaWlyV1FFc0dVX3NIb2Z3eUFZdFEwU2xhdWx2M0hlN0FxN1BPTVd1VTFpYmxfVDlsekJmNmhVSndGRVBHS0pSY0FDYXpCaGM5c25YeEpZQWpacV9WZ1B5Y2pNM0tBaGZGWjdzWklFcEYzUVMxdFgwazQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRU1QTlFBaWZaSWxyall1WWNDMzR3Qk5rdGNScGJyTVV6X09EVHQ0T1lyTmtzMHRiZEQxSy1DZkxDQmluY0EtcWZmOUdHbmx2R3NkZkxkc0xwYVlSYlFwUTg5WWVFazktcV9xa3pHTU5ZSXUwVDJwelR2TTQ2Z2R2dExBdmNiQmxsVWp0MS1feWtxeVh4aUJ4dTBOT212RzlTOXF3S3dKTzVEWDRVVXZIUTFsYjhjZ2N0cndibnQ1ekRmeEFi?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQajRJekpTUEJlU2ViNk9JRDJqVjA0Mm9fQXRldzhtb29JRDVDRFVtTEhaRzJmUHYzVDRfcXVuYTJtUGhsZTVHZGFJVnJ5UEtHQkxJa2s0eTQzR2xRZldvRlVNVFlKaGNnVDBCU2hWRWFFSkVJY2lKWVJnWWhIdTJmT3NidGlzVWp3UVpIRkRld0xLNHdad0ZmYmNsVDFhRDROVHQ3RG1BeVAyUDdhZEd6dHEtQzh2UVZZUDZOejU0b0taUzlpaGhQd1AtVXREc3l4UWlJX19QV3JzRzdwMWRFNw?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:56:00Z",
+      "published_at_ist": "2026-10-22 07:26 IST",
+      "first_seen_utc": "2026-10-21T19:30:00Z",
+      "age_minutes": 9,
+      "trend_score": 10,
+      "rank_score": 0.8266,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "UFC 333: Alexander Volkanovski vs. Movsar Evloev — Date, Time, How to Watch",
+        "Best value bets for UFC 333: Alexander Volkanovski vs. Movsar Evloev"
+      ],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/cb9fc16ae4794f42a1baaf7821817b22fbfec9a3339af7eb2f17fad059cad702/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-10%2Fece2e999-cd4e-4c74-9d83-91ab4b41b43e"
+      ],
+      "video_urls": [
+        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/e65835ad-426e-4e1e-9f84-9a5f91122e72.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
+        "https://sports.yahoo.com/video/petr-yans-viral-game-plan-taken-to-another-level-ahead-of-ufc-333-221657626.html?format=embed"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "1bdb3730fb",
+      "key": "across-austin-fan-find-free-zone",
+      "headline": "Where to find free F1 fan zones across Austin this week",
+      "summary": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/Williams, Mercedes and Red Bull are among those hosting free experiences across Austin",
+      "sources": [
+        "williamsf1",
+        "Motorsport.com",
+        "CW33.com"
+      ],
+      "article_urls": [
+        "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/",
+        "https://www.williamsf1.com/videos/23d16447-d636-490a-be52-ed161e0a4859/alex-sends-fans-wild-at-our-austin-fan-zone-presented-by-kraken?autoplay=1",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbGkwWHBQU3J1MkJaTnVUdDA2MkhRZi1qZ3VqQ2VoR1BMNUV6elEwWWszV3NXSEhBX1UzeGV4N25ETHVMdW9wT3hJSVRrQU1kbmR0VEo2SFhEaFlVclJaV3pnYnFfY1pyeFp4Z09leEEwTF9nNThrM2xEVlkxcnZINzlDc09fY19XSUxCbGxsQllMRTA0M1VTNzk5OVo2cUFlcWg4dEtmQkczVWcwNDBjOG53bFRQVklVTHhlSVlLWXhBT3NiVTctM3A2S0VsTjFHTnlEcWdYaFl2VGRnemc?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRDVRcUgzNFZKUHFmVG85VEttNVpYQkhQNnVGWWs3LV81MEw0cnpqbjlPejh1cGRVaGhUU3JRbUk1X3RKdGY1SzNlYVkzSGJxMHEzUXI1ZDdCTFlWZm1JWWZfUnBWQ1dKQ0VvUHlicl91M0RSOG50bHZXSXJ2VDNOSEE2Qlh5RmpzT0ZQSW1xUmgxZlNNS0JpeTdmanFQOWVQcXc?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWxrcm00YzZMZy13c1FRTEg3dzI3eFFfMVJnMFBpaXlNOHQyNXc4MVdLbUF4UHZoRW9sazJWbUFfeS1rNkNjN250dXRXeFA2RFNVbTZZanVFbTlSRGp2N2RrSjd3UzVRd2hxM2tHb3U2eUJTQ2lyX0xITnlMcmxBVmxQQzlKcDDSAYwBQVVfeXFMT3NxYjdmNGgtWm44UUp0RmhKWjFpN25HTWNpYUQ0WWVwRWNTUXVtOVZlZmxVY08tN2dIQmEwcGxKTjdxbThNNVpPQTdHV2dienZTSTNOTkdpSnF6ZXMycWVQN2pTTHN5TVB2eTVsM3MybFZMc3ZLQ2FmMVVUS01TQU5LN1E4clU5YjZBVlY?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:06:26Z",
+      "published_at_ist": "2026-10-22 06:36 IST",
+      "first_seen_utc": "2026-10-21T20:39:40Z",
+      "age_minutes": 59,
+      "trend_score": 13,
+      "rank_score": 0.8235,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Alex sends fans wild at our Austin Fan Zone, presented by Kraken",
+        "Free Mercedes F1 fan hub arrives in downtown Austin"
+      ],
+      "image_urls": [
+        "https://cdn-7.motorsport.com/images/amp/6AlvprEY/s6/72945935-19.jpg",
+        "https://cdn.sanity.io/images/fnx611yr/productionv2/bc6771e0129e67cb636da2ed09b96ec72f6429c8-9504x6336.jpg?rect=0,0,9504,4974&w=1200&h=628&auto=format"
+      ],
+      "video_urls": [
+        "https://stream.mux.com/ndya7ItBbAtU645W7L0202ZKsDA01aT01oSNLk4iqGry01nM.m3u8"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "5ecd868259",
+      "key": "academy-asaprocky-attending-gala-hell-home-joked-learned-lesson-museum-music-rapper",
+      "headline": "#ASAPRocky says he learned his lesson after spilling some tea about #Rihanna’s music! 😂 _____________________________________ While attending the 2026 Academy Museum Gala, the rapper joked that things at home were “hell” after he revealed in",
+      "summary": "",
+      "sources": [
+        "Instagram"
+      ],
+      "article_urls": [
+        "https://www.instagram.com/p/DewYxZxFr9Z/",
+        "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fbHR3R0UxZlh6VnBRb3BpdWJwV0JKdklyWE5oUkh3RHBVX2hydVlZYUN2ZzlXeTRibnJjbUZScWNYSFUyYWE5Q29pM1F0NnQya2c?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:02:32Z",
+      "published_at_ist": "2026-10-22 06:32 IST",
+      "first_seen_utc": "2026-10-22T01:02:32Z",
+      "age_minutes": 62,
+      "trend_score": 10,
+      "rank_score": 0.8124,
+      "category": "famous_clip",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Rihanna"
+      ],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "4f75558d7b",
+      "key": "anime-dandivine-music-nishikawa-opening-release-song-takanori",
+      "headline": "Takanori Nishikawa Releases Dandivine Anime Opening Song Music Video",
+      "summary": "https://www.crunchyroll.com/news/latest/2026/10/22/Stay on top of anime news and updates straight out of Japan with Crunchyroll News. From breaking stories to evergreen content, get all your anime and manga news updates in one place. You heard it here first!",
+      "sources": [
+        "Crunchyroll"
+      ],
+      "article_urls": [
+        "https://www.crunchyroll.com/news/latest/2026/10/22/dandivine-anime-opening-song-music-video-takanori-nishikawa",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUxlZ3BZcFBnaVpqXzBBdk1hQlp3MXFKUk1BanhndHpEdXZQMU9sSncwd2o4clFzTnVoZFFqcHctMzhGTTg3VmNGcms2UXpYTnVrWHgyRVNORmNySUI0Y1ZMb21mZjNobjRMVzU5MXYtNkh1ZzRRby0tOXBwLTQydkdmM3lVc2JyM0pDeHh5QkFROGNoSU1zcU0wMHpKcEhqWlNqdTJ1WUpQYTRDc1Vv?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:19:00Z",
+      "published_at_ist": "2026-10-22 06:49 IST",
+      "first_seen_utc": "2026-10-22T01:19:00Z",
+      "age_minutes": 46,
+      "trend_score": 11,
+      "rank_score": 0.8097,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://www.crunchyroll.com/news/img/favicons/favicon-v2-96x96.png"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "a891b0ab32",
+      "key": "critical-dark-patche-php-released-security-website",
+      "headline": "Critical PHP security patches released after websites go dark",
+      "summary": "https://cybersecuritynews.com/php-to-issue-emergency-patch/The PHP security team has warned users about two critical vulnerabilities and urged administrators to prepare for an upcoming security release.",
+      "sources": [
+        "CyberSecurityNews",
+        "The Eastleigh Voice",
+        "Cryptonews.net"
+      ],
+      "article_urls": [
+        "https://eastleighvoice.co.ke/news/414719/critical-php-security-patches-released-after-websites-go-dark",
+        "https://cybersecuritynews.com/php-to-issue-emergency-patch/",
+        "https://cryptonews.net/news/security/33625432/",
+        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vdnU5RG5PRmFiUHJ2X3pYU3Fkd0dqNWo5eTlpdm0xS0M5R0hBMGRKNHpxaTB0Yk4zb2FoQkNFQk52bDZ6Zmx2a3h4aTh1VFJLa3JfRzhRRUtocWU1X2owbnl5UGtLQWQ4dmVZ0gFwQVVfeXFMT05mc2ZvUlJ2TldiLUxmeVRld2JNWHJLQkpCUi1Ob0VGWHVKRFF6bmlzR3dUTENJdU5YYXRGSVo3WGlYdlZma0MwRVBiWmwzdUFrVWRFajE5YmtzQzN4Y3MwQmRDVzVlRkh3cXFCSkRPMg?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3hWYXgtdUJyQUxfTktwWXdHZ2I0d3hvVzA4T2JybklSS1BWTGF6UmZ1Ni05ckdjM0QzNnlwT1IySzdXRWJGRFNpS0Jwbnh6Y2F0SVAzNzlta3hua3NDX3ZhRUV6ampibk01NTVfSlp6dDRIQTZxS2tKZmRDeUsxeDJHNVZZZjgxWmFGTE5WQXJKWlg1S05DZnBGSlZLS1UwVEl2dQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TWDdPMDB6TlFsOHNuZVRfN2NJY2U4UnFzLXdSa1hUTjE5dXFpMTdUU28zb2FFOG0xOS15ZDVmaEdWYVNvN1JnX1BwYW5wY056R2VuTmZfUXQ2QQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:22:49Z",
+      "published_at_ist": "2026-10-22 06:52 IST",
+      "first_seen_utc": "2026-10-21T17:46:30Z",
+      "age_minutes": 42,
+      "trend_score": 10,
+      "rank_score": 0.7991,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
         "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -634,8 +632,110 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "'I'm Not From The West Coast': LeBron James Curses Out New York Knicks Fan Courtside As Philadelphia 76ers Spoil Team's Championship Ring Night In His Debut",
-        "LeBron James curses out Knicks fan in heated exchange: 'I don't know what the f--- you talking about'"
+        "PHP Warns of Two Critical 9.2 Security Vulnerabilities, Urges Users to Prepare for Patches",
+        "SlowMist Alerts Critical PHP Vulnerabilities, Potential"
+      ],
+      "image_urls": [
+        "http://cybersecuritynews.com/wp-content/uploads/2026/10/PHP-to-Issue-Emergency-Patch.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "b8f038a82d",
+      "key": "australia-breaker-fame-hall-inducted-legend-lisa-sport-sthalekar",
+      "headline": "Breakers legend Lisa Sthalekar inducted into Sport Australia Hall of Fame",
+      "summary": "https://www.cricketnsw.com.au/news/4596965/Cricket NSW congratulates Australia and NSW Breakers legend, respected cricket administrator and...",
+      "sources": [
+        "Cricket New South Wales"
+      ],
+      "article_urls": [
+        "https://www.cricketnsw.com.au/news/4596965/breakers-legend-lisa-sthalekar-inducted-into-sport-australia-hall-of-fame",
+        "https://www.cricketnsw.com.au/news/4596965/breakers-legend-lisa-sthalekar-inducted-into-sport-australia-hall-of-fame?tags=9692",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDQzYmx3azZFSG1rMGFlWFZGWXBMdFM1R0pUd0JMM3p2RTUtSXdkWXAxZEl0dnlBbk1idVJXS3VZcmhSWklMMTlwYUdacndBdVVYM1A2MkRVRHJaaGJfWHRGSUJ1akJheUdfQk1tYmI5QXQ3d05GTnVRaE9uT1lxamNXRFZOLTR1Qm95bWUwRFJZVzJNeS1qYTRUTXk2RkVEVk5VclM4eFNfSnJoeHh4akJtR3dtM00?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0VHcXBreGhzN0Z2YkkwR0N0WmtnZ2RfMFZWc0pTTDZ5Q3kyWFVFOTJkZXhYUzgxZV9MV0wxa3BhZWxkU0F2NHRiVUdJQWNVYWVXLVp6LUkwRHBiQTlYU2N2Z0Y1MnBsencyQk9YUTlNTHVrVjBmTmp3dllfd3JRdVRpTXMtU012Z1lTUXFCa0RnUEtjSF91ZWlHR0JzMEU5VFhfbk8yOGhIOTlnRThlRGt2dkFHaGdEYzVqaF8zSzNPSDho?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:00:00Z",
+      "published_at_ist": "2026-10-22 06:30 IST",
+      "first_seen_utc": "2026-10-22T01:00:00Z",
+      "age_minutes": 65,
+      "trend_score": 11,
+      "rank_score": 0.7938,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://resources.cricket-nsw.pulselive.com/cricket-nsw/photo/2026/10/21/977b562a-bf6e-4a7e-84a7-7802b294c344/GettyImages-1873503706.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "933f63e964",
+      "key": "1st-analysi-coverage-cricket-india-match-report-t20i-zealand",
+      "headline": "Cricket Coverage - New Zealand vs India 1st T20I 2026 Match Analysis, Reports",
+      "summary": "",
+      "sources": [
+        "The Indian Express",
+        "Yahoo Sports",
+        "India Today",
+        "ESPN India"
+      ],
+      "article_urls": [
+        "https://www.espn.in/cricket/series/24469/coverage/1539432/new-zealand-vs-india-1st-t20i-24469",
+        "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-1st-t20i-playing-11-bhuvneshwar-to-return-10931344/",
+        "https://indianexpress.com/article/sports/cricket/india-vs-new-zealand-1st-t20i-live-streaming-ind-v-nz-streaming-10931343/lite/",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmhwU0hfSXdsaWVOOTRUaXhRLTYwbjMwdkc4em9wY2lNODVXV3pJbFF1blFyajBZRWplcjFfSEJka0JEaUJXc0ZTM3VUemk4ay1hV1B0Y2RLNVRDVGI1VUwwQkt4V3pWb3M1SXJnREI1TWJYQncwbUlVOHlFekdlb1FtTjdaNXprcW9OcV9KOF9mWkxKeld4WWV5ZGx2ankxX0hUSTc1RTB6QkFLUW0xWnBjcExxUGpGWUQ4X1d30gHEAUFVX3lxTFAtUXJTaEtYcExRVlhBNWk4TWY0MmFIWW96ZUdNMEtJTlI3MkttLVdLTDFtcloxRmtRczdmZnctZF9DRnltb19FNHdxaDhmWXZEem5sN2xFMGpwY3V4cENhNVVEcXFXbW5sZEU4eEN4V3Rwb1lPMC1Nb3lMNXc1OGpPbW9HOXRLUlMtWENqYzRmaVFFd3A1S2NjejVyM3hYdWxlSGZKRHBKcVlpNk01UllsMDBpQWZkTW92UTVrQUl1bmZSWm4?oc=5",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdEtBUThYSzVqRGxEQ1ZHZFNBOW5GUkZQa3ZicXVGQmJZM2g5SVc4MlU2SllTVjZMNjVhcXVBblRzZlA4MjEzMHpiRGtQakFDdVZieWxnRThnMzZBdy0yb3NiVjBPNmZVblVqUXRhV1B1QXhmMWE4UklfZHVFSjcxbllwdEFJdjl0b1lqeFd0bW54QUw3YlV6R1p1dFVSRFhEeVRsTUtwRlZqSmtubDlvYmNlMkhUMmZJV3VIYnA3S1gwc2hyRnfSAcYBQVVfeXFMTnRLQVE4WEs1akRsRENWR2RTQTluRlJGUGt2YnF1RkJiWTNoOUlXODJVNkpZU1Y2TDY1YXF1QW5Uc2ZQODIxMzB6YkRrUGpBQ3VWYnlsZ0U4ZzM2QXctMm9zYlYwTzZmVW5ValF0YVdQdUF4ZjFhOFJJX2R1RUo3MW5ZcHRBSXY5dG9ZanhXdG1ueEFMN2JVekdadXRVUkRYRHlUbE1LcEZWakprbmw5b2JjZTJIVDJmSVd1SGJwN0tYMHNockZ3?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxUWVibFdjSXdjekVlY2tQVnhKa2lQTWtoQ0hWYlVhRkwtRUg2a1hUajdSQVh6bFppblpFTDlzaXBTdnptY0tzTkRhVGxPRHJKOGxNSi1ZSVR5T2UtS29PSXFOMnRzbGZ0bkxLX25POVJ5X2VBNUc2SA?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU09PRmFseVNFaFRHWXNOS2VsUHJPZTdsanktY05HemhINDBPanp0eXo0am1XcWxKTmhDUXRlT1ByZDdMVDduWkNhWmgwZHA4X2cwbW8wQlF6bHBVWVdCZmpPNUlRSWZUNzQ1Y25Gc28xdlJ2YUNfeDBPUVlOY2hZMzdRdXBnOXFaZ3BfakZCNkxkdGlrMHlhVlc1VUp5ZVR6aEJTNE9wcklHMWNHT0YwUHFoUVJHMVE2WTkza3hKT2FBQ2JzTjVsUkRhbW56RUZUSmUzUtIB1AFBVV95cUxQU09PRmFseVNFaFRHWXNOS2VsUHJPZTdsanktY05HemhINDBPanp0eXo0am1XcWxKTmhDUXRlT1ByZDdMVDduWkNhWmgwZHA4X2cwbW8wQlF6bHBVWVdCZmpPNUlRSWZUNzQ1Y25Gc28xdlJ2YUNfeDBPUVlOY2hZMzdRdXBnOXFaZ3BfakZCNkxkdGlrMHlhVlc1VUp5ZVR6aEJTNE9wcklHMWNHT0YwUHFoUVJHMVE2WTkza3hKT2FBQ2JzTjVsUkRhbW56RUZUSmUzUg?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX3NMV0JSMlhNc2JJdHJwTHZQU251WTk1eUZQMFZJUm41TW9TTHU1TUFBSkRLc0VVYjlBalR4a19iaHcxQjY5Rk5KMS1KM2JmOGhWd3h1RExYVGR4cHdLOFlXRGpRbmJTNzNhTzYzOU9qUm9iQjYyZGc2SExkc1hYa2FkaHd1V3NwRUxmRmt2WHZySkdQWmdvQQ?oc=5"
+      ],
+      "published_at_utc": "2026-10-22T01:00:29Z",
+      "published_at_ist": "2026-10-22 06:30 IST",
+      "first_seen_utc": "2026-10-21T17:55:20Z",
+      "age_minutes": 64,
+      "trend_score": 9,
+      "rank_score": 0.7655,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "India vs New Zealand 1st T20I Playing 11: Samson-Abhishek to open, Bhuvneshwar set for return",
+        "India vs New Zealand 1st T20I Live Streaming: When, where to watch IND vs NZ match?",
+        "How to watch IND vs NZ T20I 2026 live: Start time, TV channels and streaming details for India tour of New Zealand",
+        "NZ vs IND, 1st T20I preview: Sleep-deprived India face chilly Christchurch test"
       ],
       "image_urls": [],
       "video_urls": [],
@@ -643,23 +743,29 @@
       "youtube_videos": []
     },
     {
-      "id": "51971ac025",
-      "key": "0-50-happen-hit-stellar-xlm",
-      "headline": "What Would Have to Happen for Stellar (XLM) to Hit $0.50?",
-      "summary": "https://247wallst.com/investing/cryptocurrency/2026/10/21/what-would-have-to-happen-for-stellar-xlm-to-hit-0-50/Stellar must gain about 171% to reach $0.50. Here's what could drive the Stellar price upward, from Bitcoin trends to DTCC's 2027 plans.",
+      "id": "d60a0b9129",
+      "key": "chart-con-conconai-marketcap-usd",
+      "headline": "ConConAI price today, CON to USD live price, marketcap and chart",
+      "summary": "https://coinmarketcap.com/currencies/conconai/The live ConConAI price today is $0 USD with a 24-hour trading volume of $0 USD. We update our CON to USD price in real-time.",
       "sources": [
-        "24/7 Wall St."
+        "CoinMarketCap"
       ],
       "article_urls": [
-        "https://247wallst.com/investing/cryptocurrency/2026/10/21/what-would-have-to-happen-for-stellar-xlm-to-hit-0-50/",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSHRHeGEyc1pvR0JmV3h4RHN1VFVwSUxEZzFGbmhWbUVGS0dtellkZ19kXzM2eldYR01CY2pmUFZkZWRDeTcwZmZuTE5MdVZoNW9fRmlxcVpWMkQ1ajhKVGlhTEJkRlZ1RnVnVktPMjRJbTNvOUc1dC1KWkUwOHV1VlZPeE9TOHY4U1EtM1o0V09iWFowM0FveWpRX2JlX3B2MmYycTZQNUFhM2w5LVE4ZHhR?oc=5"
+        "https://coinmarketcap.com/currencies/conconai/",
+        "https://coinmarketcap.com/currencies/centel/",
+        "https://coinmarketcap.com/currencies/centric-swap-new/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wb2NndXh6UERCa0h4azJzMjdtbDZFRFcxMlFNMUNuaGd0RjNfOUs2dkJjLVU4bFhyM05nRWJRMVlWaGJrUEhKZjE3WFpUeFpPSE9EOW9XWHhPdw?oc=5",
+        "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HMEdKVXI1UlVOVndITU5CSFJHV1JNdG1nelAxcnd6RkpGTHV1c29La1otV2J1M015dHhwNVRpVWlDYUoyWmlzNVFvd1p4ZjhFakF3UThPNA?oc=5",
+        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5QmtkdUp4V3JUdklxandyOVNFeXY5RVlHVjNRbC1kampGZ0NiQzdFbWw1ZXRWbmF0QWlqRW95VEVybzZVYnRpRTZsV1Q5MjlQOGo1bmh3TTI2OFRYRHpxTjBrdTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pQWxRZm1VamZ0UVhLTHM2TEJMbG9BbjZpUGlCNmI3TndQSHhZS3czdzRqMHk5LTdqWjE4cS10QmhtVVd2MjRUMmxDM2RuNi1DaTNmWV9WWFJGaTU2ZG5mUlFHQ0pRbnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01aWlzOFIwdXVmM0czRUotNWxTOG11MHBWZUxmRi1oRGlOQ1M4eDNPbUxjUlJnTG1WT0t1aWwtU2VPcXc5TWk2TmRvWEFESkMtdFZiMEJfb2RKNHBBeWc?oc=5"
       ],
-      "published_at_utc": "2026-10-21T22:30:00Z",
-      "published_at_ist": "2026-10-22 04:00 IST",
-      "first_seen_utc": "2026-10-21T22:30:00Z",
-      "age_minutes": 35,
-      "trend_score": 6,
-      "rank_score": 0.7325,
+      "published_at_utc": "2026-10-22T00:56:04Z",
+      "published_at_ist": "2026-10-22 06:26 IST",
+      "first_seen_utc": "2026-10-21T18:00:13Z",
+      "age_minutes": 69,
+      "trend_score": 7,
+      "rank_score": 0.7256,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -677,75 +783,37 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Centel price today, CNT to USD live price, marketcap and chart",
+        "Centric Swap (new) price today, CNS to USD live price, marketcap and chart",
+        "Catecoin (cate.meme) price today, CATE to USD live price, marketcap and chart",
+        "Squid price today, QUID to USD live price, marketcap and chart"
+      ],
       "image_urls": [
-        "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2030437919-scaled.jpg"
+        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=ae43b97"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "5d0c248134",
-      "key": "100-hype-hyperliquid-worth",
-      "headline": "What Will 100 Hyperliquid (HYPE) Be Worth by 2030?",
-      "summary": "https://247wallst.com/investing/cryptocurrency/2026/10/21/what-will-100-hyperliquid-hype-be-worth-by-2030/Multicoin Capital just made Hyperliquid its largest hedge fund position, and a fee buyback mechanism quietly purchases HYPE every single day. Whether those forces can push 100 tokens to $15,000 by 2030 depends on three factors that have nothing to do with hype.",
+      "id": "1f9ac27bdc",
+      "key": "4-flaw-nation-nsa-php-pull-site-warn",
+      "headline": "NSA Warns on PHP Flaw as 4 Nations Pull Sites [2026]",
+      "summary": "",
       "sources": [
-        "24/7 Wall St."
+        "https://tech-insider.org/"
       ],
       "article_urls": [
-        "https://247wallst.com/investing/cryptocurrency/2026/10/21/what-will-100-hyperliquid-hype-be-worth-by-2030/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNVVhbDhrWENHcEF4ZVpjNUZuczlQRHdpRWZNcmlBb0pYaWxzbVVkM1Zfd1JYWXNpeG1PZ2hWU1BlaHFlWi1VV0V3WlVPb3liMHQxTnoxSE9kbHNKNlhiWDVNTHN4eFJsSTBLb2RpRVU4ZlpVcWVhd1RERDIwWHFEYjlaVTFiVExIMUFERVZtdnUyUnd4SVFfZ1pydGh5T2EtcHJ0cEl2MWF2QQ?oc=5"
+        "https://tech-insider.org/nsa-php-vulnerability-4-nations-pull-sites-2026/",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDQ2NLNlpJQ2dQdXJJRWtxWS15UXJyVXZzdmVva2xvXzgyZmJUOWg3Z3Nhc3l2VHh2VUt2Vm1OTElHb2t4RVRuLVU4MzRPMk5yME5TZThHZnkxNG5rN1oydVg2R0p1MVNZcVI3ZXJQMkl4RXotbHYxMDBxdE14UQ?oc=5"
       ],
-      "published_at_utc": "2026-10-21T22:00:00Z",
-      "published_at_ist": "2026-10-22 03:30 IST",
-      "first_seen_utc": "2026-10-21T22:00:00Z",
-      "age_minutes": 65,
-      "trend_score": 6,
-      "rank_score": 0.7075,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://247wallst.com/wp-content/uploads/2026/10/shutterstock_2650621849-scaled.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "741ca0c82e",
-      "key": "3-4-ballot-change-future-massachusett-question-vote",
-      "headline": "Massachusetts ballot Question 3 and Question 4 could change how you vote in the future",
-      "summary": "https://www.cbsnews.com/boston/video/massachusetts-ballot-question-3-and-question-4-could-change-how-you-vote-in-the-future/WBZ-TV's Kristina Rex breaks down both sides of two Massachusetts ballot questions.",
-      "sources": [
-        "CBS News"
-      ],
-      "article_urls": [
-        "https://www.cbsnews.com/boston/video/massachusetts-ballot-question-3-and-question-4-could-change-how-you-vote-in-the-future/",
-        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeHUwcVpqZkZzYXR4dm8yeVBNRnJIRGwtU2xfekVCcTI4Y1lTMXdCNEdMVGZqM2k5enJ5dzkydHl1TW9pTVE4TDFwZ0x3a1FfOElpLWNhZXVsVDdVbmJYS0dld3FGbGhFaVJiVFNHOHc4NTdRV2hGbnJBdTcydkJsNG9NaU9oeVdYcjdtSU5RanJsWDVFOWtoR1BVUTNVaWZHSWFkNnBfQk82WDlIZVVyR2M1LVcwNG1PY2VPc2lQVHZrdw?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T22:19:00Z",
-      "published_at_ist": "2026-10-22 03:49 IST",
-      "first_seen_utc": "2026-10-21T22:19:00Z",
-      "age_minutes": 46,
+      "published_at_utc": "2026-10-22T01:26:15Z",
+      "published_at_ist": "2026-10-22 06:56 IST",
+      "first_seen_utc": "2026-10-22T01:26:15Z",
+      "age_minutes": 39,
       "trend_score": 5,
-      "rank_score": 0.6986,
+      "rank_score": 0.7045,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -764,41 +832,39 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [
-        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4911678_hls/master.m3u8",
-        "https://www.cbsnews.com/boston/video/massachusetts-ballot-question-3-and-question-4-could-change-how-you-vote-in-the-future/?embed=1&ftag=CNM-00-10aag7j",
-        "https://www.cbsnews.com/boston/video/massachusetts-ballot-question-3-and-question-4-could-change-how-you-vote-in-the-future/?embed=1"
-      ],
-      "has_video": true,
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "f9192732e6",
-      "key": "fcbarcelona-football-forget-moment-never-short",
-      "headline": "A moment he'll never forget.  #fcbarcelona #football #shorts",
-      "summary": "SUBSCRIBE NOW: ▶ www.youtube.com/user/fcbarcelona 🔒Join as a member 👉 https://youtube.com/fcbarcelona/join 📱 App: http://barca.link/kXum50R6rNO 🌐 Site: www.fcbarcelona.com 📸 Instagram: http://www.instagram.com/fcbarcelona 𝕏 X: https://x.com/FCBarcelona 🎶 Tiktok: https://www.tiktok.com/@fcbarcelona 🔵 Facebook: http://www.facebook.com/fcbarcelona 👾 Discord: https://discord.gg/fcbarcelonaofficial 🛍 G",
+      "id": "774fe05feb",
+      "key": "1-bbb-blackberry-bstock-calculator-chf-rate-tokenized",
+      "headline": "Blackberry Tokenized bStocks to CHF (BBB/CHF) Today | 1 BBB to CHF Live Rate & Calculator",
+      "summary": "",
       "sources": [
-        "YouTube: FC Barcelona"
+        "Binance"
       ],
       "article_urls": [
-        "https://www.youtube.com/watch?v=8K-bvTzMBI0"
+        "https://www.binance.com/en/price/blackberry-tokenized-bstocks/CHF",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HVTRYVGJac2ZWX1NZZ2xONF9VSkRRdG9VeGROTm9hc3ItUGprZm5RSTd2MS1EZ2VIQTR6UnEyNWhDbjhWU3IxR0xTSGtNek1KY01FV2wyX3h6TmJhNERjcjdLR0g0Uko5dWhBenRMRlc1cVk?oc=5"
       ],
-      "published_at_utc": "2026-10-21T21:00:24Z",
-      "published_at_ist": "2026-10-22 02:30 IST",
-      "first_seen_utc": "2026-10-21T21:00:24Z",
-      "age_minutes": 124,
-      "trend_score": 5,
-      "rank_score": 0.6982,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "youtube",
+      "published_at_utc": "2026-10-22T00:31:31Z",
+      "published_at_ist": "2026-10-22 06:01 IST",
+      "first_seen_utc": "2026-10-22T00:31:31Z",
+      "age_minutes": 93,
+      "trend_score": 6,
+      "rank_score": 0.6842,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
       "famous_names": [],
       "region": [
-        "YT"
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "football"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -806,23 +872,10 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://i1.ytimg.com/vi/8K-bvTzMBI0/hqdefault.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=8K-bvTzMBI0"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "A moment he'll never forget.  #fcbarcelona #football #shorts",
-          "channel": "FC Barcelona",
-          "url": "https://www.youtube.com/watch?v=8K-bvTzMBI0",
-          "published_at_ist": "2026-10-22 02:30 IST",
-          "thumbnail": "https://i1.ytimg.com/vi/8K-bvTzMBI0/hqdefault.jpg",
-          "is_short": true
-        }
-      ]
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
     },
     {
       "id": "4932bcb53d",
@@ -839,9 +892,9 @@
       "published_at_utc": "2026-10-21T21:48:12Z",
       "published_at_ist": "2026-10-22 03:18 IST",
       "first_seen_utc": "2026-10-21T21:48:12Z",
-      "age_minutes": 77,
+      "age_minutes": 257,
       "trend_score": 6,
-      "rank_score": 0.6975,
+      "rank_score": 0.5475,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -882,9 +935,9 @@
       "published_at_utc": "2026-10-21T18:42:13Z",
       "published_at_ist": "2026-10-22 00:12 IST",
       "first_seen_utc": "2026-10-21T18:42:13Z",
-      "age_minutes": 263,
+      "age_minutes": 443,
       "trend_score": 12,
-      "rank_score": 0.6716,
+      "rank_score": 0.5216,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -913,32 +966,39 @@
       "youtube_videos": []
     },
     {
-      "id": "e71ad31a25",
-      "key": "bum-cardi-cardib-don-jayshetty-please-short",
-      "headline": "Cardi B: please don't be a bum #jayshetty #cardib #shorts",
-      "summary": "Cardi B on the people who have the looks, the brains and the talent and still end up nowhere, and the one thing she says separates them. Watch the FULL episode on Netflix & Spotify. #jayshetty #cardib #shorts #onpurpose #podcast",
+      "id": "cf14589595",
+      "key": "buffett-happen-here-history-next-sending-shockwave-street-through-wall-warning-warren",
+      "headline": "Warren Buffett's Latest Warning Is Sending Shockwaves Through Wall Street. Here's What History Says Could Happen Next.",
+      "summary": "https://www.fool.com/investing/2026/10/21/buffetts-latest-warning-is-sending-shockwaves/When Warren Buffett speaks, it can pay to listen.",
       "sources": [
-        "YouTube: Jay Shetty Podcast"
+        "The Motley Fool",
+        "Yahoo Finance"
       ],
       "article_urls": [
-        "https://www.youtube.com/watch?v=q2JTPa8Ej4k"
+        "https://www.fool.com/investing/2026/10/21/buffetts-latest-warning-is-sending-shockwaves/",
+        "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-latest-warning-sending-192700625.html",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxOY1FfcEhtYXJiU3FGaGpkNXRsUFI2Sjh5TVRtUFdZSVFtczdsSFluVDllVjVDYVNlWTQtZlRVNlNjMEJmTjd1OXJfYzZyaXJMYUprMkRzbFVuNTlXRTNTVUFFWS1NeDZaNzVhajFta0xFMkVxdUZad0FmT01LNzR0cTI3Yld4bU85WlhqMkU4S2d1Zw?oc=5",
+        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZGl4c2l2X3Y0NUMtZHQ3cFE0SnVfSjJTRVdkTFhWUDZ3SHAtZUJQcGh5LVlnb3J6dkpHc3VmLUNMQnl6ektjeG4wLWQ0RzJIdWNMYWVpeUlfOVh4ME02V0UzekZZcmZieUdfd09XcDBCTmtPOWdldVlpMl9qY2FuOGZVX3JYMHl4dmR1TDdCaTZQUTJRWjdxYWJ0Z3psS2diNVBCc3hn?oc=5"
       ],
-      "published_at_utc": "2026-10-21T16:00:14Z",
-      "published_at_ist": "2026-10-21 21:30 IST",
-      "first_seen_utc": "2026-10-21T16:00:14Z",
-      "age_minutes": 425,
-      "trend_score": 5,
-      "rank_score": 0.6042,
-      "category": "other",
+      "published_at_utc": "2026-10-21T20:07:00Z",
+      "published_at_ist": "2026-10-22 01:37 IST",
+      "first_seen_utc": "2026-10-21T19:27:00Z",
+      "age_minutes": 358,
+      "trend_score": 6,
+      "rank_score": 0.4933,
+      "category": "famous_clip",
       "section": "top",
-      "source_type": "youtube",
-      "famous_names": [],
+      "source_type": "news",
+      "famous_names": [
+        "Warren Buffett"
+      ],
       "region": [
-        "YT"
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips"
+        "Famous people clips",
+        "Finance & markets"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -947,22 +1007,12 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://i2.ytimg.com/vi/q2JTPa8Ej4k/hqdefault.jpg"
+        "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F891746%2Fbuffett16-tmf.jpg&w=1200&op=resize",
+        "https://s.yimg.com/lo/mysterio/api/9d680bb13a4d3ba5b7a59e832f2fcda2279b5d4f57ef3c27c1ef041c2dcf137e/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2Fb585f68d4c1e4cd20435ad9a7ba664ac.jpg"
       ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=q2JTPa8Ej4k"
-      ],
-      "has_video": true,
-      "youtube_videos": [
-        {
-          "title": "Cardi B: please don't be a bum #jayshetty #cardib #shorts",
-          "channel": "Jay Shetty Podcast",
-          "url": "https://www.youtube.com/watch?v=q2JTPa8Ej4k",
-          "published_at_ist": "2026-10-21 21:30 IST",
-          "thumbnail": "https://i2.ytimg.com/vi/q2JTPa8Ej4k/hqdefault.jpg",
-          "is_short": true
-        }
-      ]
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
     },
     {
       "id": "c67e939948",
@@ -979,9 +1029,9 @@
       "published_at_utc": "2026-10-21T19:04:36Z",
       "published_at_ist": "2026-10-22 00:34 IST",
       "first_seen_utc": "2026-10-21T19:04:36Z",
-      "age_minutes": 240,
+      "age_minutes": 420,
       "trend_score": 6,
-      "rank_score": 0.5617,
+      "rank_score": 0.4117,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1001,50 +1051,6 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "753246cf75",
-      "key": "climb-drift-fall-netflix-spacex-street-wall",
-      "headline": "Wall Street drifts as SpaceX climbs and Netflix falls",
-      "summary": "https://www.thetimes-tribune.com/2026/10/21/wall-street-earnings-reports/Treasury yields erased early dip in bond market as oil prices continued to swing.",
-      "sources": [
-        "Scranton Times-Tribune"
-      ],
-      "article_urls": [
-        "https://www.thetimes-tribune.com/2026/10/21/wall-street-earnings-reports/",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IWVhKV2RQQURPUWhWNTFrNGhMQnhRRjB0RTBvM1JJUkc3cWNWdVVKcEhDcW9wWFJjVXJtTG5BbFBwU1FHX2EwVlhHVldxRHFFUW5Sal9pMmFPUDhfb2d2UGhSSXdLbTNONmRiUF9fZEh5SVBaaDVSajBocU02UQ?oc=5"
-      ],
-      "published_at_utc": "2026-10-21T18:32:47Z",
-      "published_at_ist": "2026-10-22 00:02 IST",
-      "first_seen_utc": "2026-10-21T18:32:47Z",
-      "age_minutes": 272,
-      "trend_score": 5,
-      "rank_score": 0.5103,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk",
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.thetimes-tribune.com/wp-content/uploads/2026/10/AP26289702683345.jpg?w=2000&h=1333",
-        "https://www.thetimes-tribune.com/wp-content/uploads/2026/10/AP26289702683345.jpg?w=640"
-      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
