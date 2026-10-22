@@ -1,30 +1,96 @@
 {
- "generated_at_utc": "2026-10-22T17:07:01Z",
- "generated_at_ist": "2026-10-22 22:37 IST",
- "candidates_generated_at_utc": "2026-10-22T17:05:23Z",
- "candidates_generated_at_ist": "2026-10-22 22:35 IST",
- "release_tag": "m-20261022-1706",
+ "generated_at_utc": "2026-10-22T18:08:10Z",
+ "generated_at_ist": "2026-10-22 23:38 IST",
+ "candidates_generated_at_utc": "2026-10-22T18:05:26Z",
+ "candidates_generated_at_ist": "2026-10-22 23:35 IST",
+ "release_tag": "m-20261022-1806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261022-1706",
-   "runtime_sec": 25,
-   "generated_at_ist": "2026-10-22 22:36 IST"
+   "release_tag": "m-20261022-1806",
+   "runtime_sec": 96,
+   "generated_at_ist": "2026-10-22 23:38 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 4,
-  "skipped": 10
+  "photo_stories": 7,
+  "skipped": 9
  },
  "items": {
+  "case-charged-corruption-democrat-high-public-ranking-state-virginia": {
+   "type": "video",
+   "headline": "High-ranking Virginia state Democrat charged in public corruption case",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-1806",
+   "source_url": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nbcnews/video/2026/10/1792679480517_now_current_grumbach_va_dem_doj_261022_4500.mp4?format=redirect",
+   "source_title": "1792679480517_now_current_grumbach_va_dem_doj_261022_4500",
+   "source_resolution": "1920x1080",
+   "source_fps": 29.97,
+   "source_duration": null,
+   "duration": 74.77,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-1806/09-case-charged-corruption-democrat-high-public-ranki-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 89.4,
+   "video_1080_bitrate_mbps": 10.0,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f3.jpg"
+   ]
+  },
+  "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast": {
+   "type": "photo",
+   "headline": "VIDEO: Everton star Hayden Hackney chats Michael Carrick, idolising Cristiano Ronaldo, Southampton Spygate controversy & more in latest Beast Mode On Podcast",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg",
+     "source_url": "https://assets.goal.com/images/v3/blt5385e44a7221b840/261022_THUMBNAIL_BMO_HAYDEN-HACKNEY_V3.png",
+     "width": 1920,
+     "height": 1080
+    }
+   ]
+  },
+  "333-card-main-prediction-staff-ufc": {
+   "type": "photo",
+   "headline": "B/R Staff Predictions for UFC 333 Main Card",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-333-card-main-prediction-staff-ufc-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-card-main-prediction-staff-ufc-p1.jpg",
+     "source_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2295989805_large_cropped.jpg?w=2048",
+     "width": 2048,
+     "height": 1152
+    }
+   ]
+  },
   "333-attendance-evloev-father-movsar-ufc": {
    "type": "photo",
    "headline": "Movsar Evloev's father will be in attendance at UFC 333",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1706",
+   "release_tag": "m-20261022-1806",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-333-attendance-evloev-father-movsar-ufc-p1.jpg"
    ],
@@ -37,21 +103,46 @@
     }
    ]
   },
-  "age-announce-queen-stone-tour": {
+  "academy-disney-documentary-pursuit-racing-special": {
    "type": "photo",
-   "headline": "Queens of the Stone Age Announce 2027 U.S. Tour",
-   "category": "celebrity_music",
+   "headline": "\"The Pursuit: F1 ACADEMY\" Documentary Special Racing to Disney+ in November",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1706",
+   "release_tag": "m-20261022-1806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-academy-disney-documentary-pursuit-racing-special-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg",
-     "source_url": "https://therockrevival.com/wp-content/uploads/2026/10/queens-of-the-stone-age-announce-2027-tour.jpg",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-disney-documentary-pursuit-racing-special-p1.jpg",
+     "source_url": "https://www.laughingplace.com/uploads/media/2026/10/The-Pursuit-F1-ACADEMY-Documentary-Special-Racing-to-Disney-in-November.png",
      "width": 2048,
      "height": 1152
+    }
+   ]
+  },
+  "30-5-82-active-addresse-base-high-jump": {
+   "type": "photo",
+   "headline": "Base Active Addresses Jump 82.5% to a 30-Day High",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-1806",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p2.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p1.jpg",
+     "source_url": "https://cdn.sanity.io/images/6oftkxoa/production/9013b3848dc77c52e86840de18014bac5140639a-2048x1152.png?w=2048&fit=max&fm=jpg&q=75&bg=ffffff",
+     "width": 2048,
+     "height": 1152
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p2.jpg",
+     "source_url": "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
+     "width": 1920,
+     "height": 1080
     }
    ]
   },
@@ -60,16 +151,16 @@
    "headline": "Fireblocks Denies $2.5 Billion Visa Buyout Claims",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1706",
+   "release_tag": "m-20261022-1806",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-2-5-billion-buyout-claim-denie-fireblock-visa-p1.jpg"
    ],
    "photos": [
     {
      "url": "https://chatgpt820970.github.io/chad-media/m/ph-2-5-billion-buyout-claim-denie-fireblock-visa-p1.jpg",
-     "source_url": "https://media.bloomingbit.io/news/acc73b29-86cd-4cd1-852c-ad7a1bd8c27a.webp",
+     "source_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg",
      "width": 1920,
-     "height": 1280
+     "height": 1080
     }
    ]
   },
@@ -78,7 +169,7 @@
    "headline": "KDDI Brings SMS-Free Phone Number Checks to Apps Built on Firebase",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1706",
+   "release_tag": "m-20261022-1806",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-apps-bring-built-check-firebase-free-kddi-number-p-p1.jpg"
    ],
@@ -94,14 +185,24 @@
  },
  "skipped": [
   {
-   "key": "concert-delhi-deny-diljit-dosanjh-permission-police-security",
+   "key": "concert-delhi-denied-diljit-dosanjh-permission-show",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=-IyVBrqiSVc"
+   "source_url": "https://www.youtube.com/watch?v=Ql0afzpqYM8"
   },
   {
-   "key": "49er-brock-coach-explain-francisco-him-kyle-purdy-san-shanahan-viral-yelling",
+   "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=3KBDjpmAvds"
+   "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
+  },
+  {
+   "key": "1-4-champion-goal-league-leipzig-madrid-real",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=6CppQ_lup0Y"
+  },
+  {
+   "key": "currency-elon-future-irrelevant-money-musk-predict-reveal-think-‘-’",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=AQnwQHMnCrE"
   },
   {
    "key": "333-attendance-evloev-father-movsar-ufc",
@@ -109,24 +210,9 @@
    "source_url": "https://www.youtube.com/watch?v=86InbYfXTuw"
   },
   {
-   "key": "academy-coming-disney-pursuit-soon",
+   "key": "2-5-billion-buyout-claim-denie-fireblock-visa",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=pevI8sQK7Ik"
-  },
-  {
-   "key": "audi-debut-freddie-set-slater",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=Fp8mfqKQbRQ"
-  },
-  {
-   "key": "cars-debut-elon-flying-musk-real-roadster-tesla-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=6N02ihuobIs"
-  },
-  {
-   "key": "champion-league-leipzig-madrid-minuto-real-⏱️",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=SbGF1xglHh4"
+   "source_url": "https://www.youtube.com/watch?v=zpNQcVVlk7w"
   },
   {
    "key": "fcbarcelona-football-forget-moment-never-short",
@@ -136,12 +222,12 @@
   {
    "key": "advice-hookup-kanye-kardashian-kourtney-reveal-west",
    "reason": "no source could be read",
-   "source_url": "https://www.eonline.com/ca/videos/2518182467792/kourtney-kardashian-reveals-kanye-wests-hookup-advice"
+   "source_url": "https://www.eonline.com/videos/2518182467792/kourtney-kardashian-reveals-kanye-wests-hookup-advice"
   },
   {
-   "key": "age-announce-queen-stone-tour",
-   "reason": "best source only 90p",
-   "source_url": "https://www.ticketnews.com/wp-content/uploads/2026/08/sos-ticket-data-tools-ticketnews-banner-728x90-1.webm"
+   "key": "costume-halloween-kardashian-kim-north-show-west",
+   "reason": "best source only 720p",
+   "source_url": "https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_WAGA_49162389716_49162423894/49162423894/hf-uuid-f9d6d397-7771-42dc-8f14-e86073cbe74e/49162423894_lowres.mp4"
   }
  ]
 }
