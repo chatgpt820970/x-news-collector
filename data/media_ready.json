@@ -1,36 +1,36 @@
 {
- "generated_at_utc": "2026-10-22T18:08:10Z",
- "generated_at_ist": "2026-10-22 23:38 IST",
- "candidates_generated_at_utc": "2026-10-22T18:05:26Z",
- "candidates_generated_at_ist": "2026-10-22 23:35 IST",
- "release_tag": "m-20261022-1806",
+ "generated_at_utc": "2026-10-22T23:08:48Z",
+ "generated_at_ist": "2026-10-23 04:38 IST",
+ "candidates_generated_at_utc": "2026-10-22T23:05:24Z",
+ "candidates_generated_at_ist": "2026-10-23 04:35 IST",
+ "release_tag": "m-20261022-2306",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261022-1806",
-   "runtime_sec": 96,
-   "generated_at_ist": "2026-10-22 23:38 IST"
+   "release_tag": "m-20261022-2306",
+   "runtime_sec": 142,
+   "generated_at_ist": "2026-10-23 04:38 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 2,
   "videos_4k": 0,
-  "photo_stories": 7,
-  "skipped": 9
+  "photo_stories": 6,
+  "skipped": 7
  },
  "items": {
-  "case-charged-corruption-democrat-high-public-ranking-state-virginia": {
+  "basharat-cut-farid-joe-rogan-ufc-upset": {
    "type": "video",
-   "headline": "High-ranking Virginia state Democrat charged in public corruption case",
-   "category": "other",
+   "headline": "Joe Rogan Upset UFC Cut Farid Basharat",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
-   "source_url": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/nbcnews/video/2026/10/1792679480517_now_current_grumbach_va_dem_doj_261022_4500.mp4?format=redirect",
-   "source_title": "1792679480517_now_current_grumbach_va_dem_doj_261022_4500",
+   "release_tag": "m-20261022-2306",
+   "source_url": "https://video.twimg.com/amplify_video/2113350762260754432/vid/avc1/1920x1080/ePL1ck9_fgU-K6YI.mp4",
+   "source_title": "ePL1ck9_fgU-K6YI",
    "source_resolution": "1920x1080",
-   "source_fps": 29.97,
+   "source_fps": 30.0,
    "source_duration": null,
-   "duration": 74.77,
+   "duration": 140.0,
    "trimmed_to_140s": false,
    "trim_start_sec": 0,
    "trim_reason": "full",
@@ -38,15 +38,106 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-1806/09-case-charged-corruption-democrat-high-public-ranki-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-2306/01-basharat-cut-farid-joe-rogan-ufc-upset-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 89.4,
+   "video_1080_size_mb": 167.4,
    "video_1080_bitrate_mbps": 10.0,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/09-case-charged-corruption-democrat-high-public-ranki-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f3.jpg"
+   ]
+  },
+  "confusion-elon-moral-musk-ukraine": {
+   "type": "video",
+   "headline": "Elon Musk’s Moral Confusion on Ukraine",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-2306",
+   "source_url": "https://slike-toi.akamaized.net/aq/wh/jnaqwhokzu/hls/master.m3u8",
+   "source_title": "master",
+   "source_resolution": "1920x1080",
+   "source_fps": 24.0,
+   "source_duration": 481,
+   "duration": 140.0,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-2306/04-confusion-elon-moral-musk-ukraine-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 173.6,
+   "video_1080_bitrate_mbps": 10.4,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f3.jpg"
+   ]
+  },
+  "5-development-disney-halloweentown-‘-’": {
+   "type": "photo",
+   "headline": "‘Halloweentown 5’ in Development at Disney",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-5-development-disney-halloweentown-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-5-development-disney-halloweentown-p1.jpg",
+     "source_url": "https://variety.com/wp-content/uploads/2026/10/TSDHALL_EC003.jpg?w=2048&crop=1",
+     "width": 2048,
+     "height": 1374
+    }
+   ]
+  },
+  "age-announce-queen-stone-tour": {
+   "type": "photo",
+   "headline": "Queens of the Stone Age Announce 2027 U.S. Tour",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg",
+     "source_url": "https://therockrevival.com/wp-content/uploads/2026/10/queens-of-the-stone-age-announce-2027-tour.jpg",
+     "width": 2048,
+     "height": 1152
+    }
+   ]
+  },
+  "0-2-200-bts-million-music-surpasse-view": {
+   "type": "photo",
+   "headline": "BTS's '2.0' Music Video Surpasses 200 Million Views",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261022-2306",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p2.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p1.jpg",
+     "source_url": "https://www.chosun.com/resizer/v2/GFSWMYZZGMYTSMJUHE3WCZBXGE.jpg?auth=c60cddbad89cc245c715c8e2b98d3af96704625bf80b943a62b36aa3eff80715&width=2048&smart=true",
+     "width": 2048,
+     "height": 3072
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p2.jpg",
+     "source_url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1800,fit=cover,q=high,sharpen=2/21/2026/10/2026102307014196126_1.jpg",
+     "width": 1200,
+     "height": 1800
+    }
    ]
   },
   "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast": {
@@ -54,7 +145,7 @@
    "headline": "VIDEO: Everton star Hayden Hackney chats Michael Carrick, idolising Cristiano Ronaldo, Southampton Spygate controversy & more in latest Beast Mode On Podcast",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
+   "release_tag": "m-20261022-2306",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg"
    ],
@@ -67,132 +158,58 @@
     }
    ]
   },
-  "333-card-main-prediction-staff-ufc": {
+  "1-caller-game-grade-heat-reaction": {
    "type": "photo",
-   "headline": "B/R Staff Predictions for UFC 333 Main Card",
-   "category": "celebrity_music",
+   "headline": "Heat Game 1 Reaction & Caller Grades",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
+   "release_tag": "m-20261022-2306",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-card-main-prediction-staff-ufc-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-1-caller-game-grade-heat-reaction-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-card-main-prediction-staff-ufc-p1.jpg",
-     "source_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2295989805_large_cropped.jpg?w=2048",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-1-caller-game-grade-heat-reaction-p1.jpg",
+     "source_url": "https://www.audacy.com/media-library/image.jpg?id=68511574&width=2048",
      "width": 2048,
      "height": 1152
     }
    ]
   },
-  "333-attendance-evloev-father-movsar-ufc": {
+  "campu-draw-hokieai-mixed-platform-reaction-tech-virginia": {
    "type": "photo",
-   "headline": "Movsar Evloev's father will be in attendance at UFC 333",
-   "category": "celebrity_music",
+   "headline": "Virginia Tech’s HokieAI platform draws mixed reactions on campus",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
+   "release_tag": "m-20261022-2306",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-333-attendance-evloev-father-movsar-ufc-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-333-attendance-evloev-father-movsar-ufc-p1.jpg",
-     "source_url": "https://mmasucka.com/api/media/file/movsar-evloev-1.webp",
-     "width": 1920,
-     "height": 1200
-    }
-   ]
-  },
-  "academy-disney-documentary-pursuit-racing-special": {
-   "type": "photo",
-   "headline": "\"The Pursuit: F1 ACADEMY\" Documentary Special Racing to Disney+ in November",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-academy-disney-documentary-pursuit-racing-special-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-academy-disney-documentary-pursuit-racing-special-p1.jpg",
-     "source_url": "https://www.laughingplace.com/uploads/media/2026/10/The-Pursuit-F1-ACADEMY-Documentary-Special-Racing-to-Disney-in-November.png",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg",
+     "source_url": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/EKXYCTGDWNF6VO54OXEXV2JSKU.png?auth=51e9ff4521a4dda3d68c73f816576eab3998b5245c47aa1b00da47d2b58973ea&width=2048&smart=true",
      "width": 2048,
      "height": 1152
-    }
-   ]
-  },
-  "30-5-82-active-addresse-base-high-jump": {
-   "type": "photo",
-   "headline": "Base Active Addresses Jump 82.5% to a 30-Day High",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p1.jpg",
-     "source_url": "https://cdn.sanity.io/images/6oftkxoa/production/9013b3848dc77c52e86840de18014bac5140639a-2048x1152.png?w=2048&fit=max&fm=jpg&q=75&bg=ffffff",
-     "width": 2048,
-     "height": 1152
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-30-5-82-active-addresse-base-high-jump-p2.jpg",
-     "source_url": "https://assets.staticimg.com/@kudos/runtime/0.6.18/assets/og-ea52b6f9440e857c.jpg",
-     "width": 1920,
-     "height": 1080
-    }
-   ]
-  },
-  "2-5-billion-buyout-claim-denie-fireblock-visa": {
-   "type": "photo",
-   "headline": "Fireblocks Denies $2.5 Billion Visa Buyout Claims",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-2-5-billion-buyout-claim-denie-fireblock-visa-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-2-5-billion-buyout-claim-denie-fireblock-visa-p1.jpg",
-     "source_url": "https://bitcoinmagazine.com/wp-content/uploads/2026/10/Fireblocks-Denies-Report-of-2.5-Billion-Visa-Takeover-Talks.jpg",
-     "width": 1920,
-     "height": 1080
-    }
-   ]
-  },
-  "apps-bring-built-check-firebase-free-kddi-number-phone-sms": {
-   "type": "photo",
-   "headline": "KDDI Brings SMS-Free Phone Number Checks to Apps Built on Firebase",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-1806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-apps-bring-built-check-firebase-free-kddi-number-p-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-apps-bring-built-check-firebase-free-kddi-number-p-p1.jpg",
-     "source_url": "https://mobileidworld.com/wp-content/uploads/iStock_selfie.jpg",
-     "width": 5000,
-     "height": 3750
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "concert-delhi-denied-diljit-dosanjh-permission-show",
+   "key": "career-extend-forced-hamilton-issue-lewi-max-racingnews365-review-unacceptable-verdict-verstappen",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=Ql0afzpqYM8"
+   "source_url": "https://www.youtube.com/watch?v=UtSUddTdDtA"
   },
   {
-   "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
+   "key": "advice-dating-gave-kanye-kardashian-kourtney-west",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
+   "source_url": "https://www.youtube.com/watch?v=KJ73wbmwUEc"
+  },
+  {
+   "key": "age-announce-queen-stone-tour",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=IvzjnLQlM1M"
   },
   {
    "key": "1-4-champion-goal-league-leipzig-madrid-real",
@@ -200,34 +217,19 @@
    "source_url": "https://www.youtube.com/watch?v=6CppQ_lup0Y"
   },
   {
-   "key": "currency-elon-future-irrelevant-money-musk-predict-reveal-think-‘-’",
+   "key": "americano-continente-historia-repaso-¡",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=AQnwQHMnCrE"
+   "source_url": "https://www.youtube.com/watch?v=9b14MSFznco"
   },
   {
-   "key": "333-attendance-evloev-father-movsar-ufc",
+   "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=86InbYfXTuw"
+   "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
   },
   {
-   "key": "2-5-billion-buyout-claim-denie-fireblock-visa",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=zpNQcVVlk7w"
-  },
-  {
-   "key": "fcbarcelona-football-forget-moment-never-short",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=8K-bvTzMBI0"
-  },
-  {
-   "key": "advice-hookup-kanye-kardashian-kourtney-reveal-west",
+   "key": "1-caller-game-grade-heat-reaction",
    "reason": "no source could be read",
-   "source_url": "https://www.eonline.com/videos/2518182467792/kourtney-kardashian-reveals-kanye-wests-hookup-advice"
-  },
-  {
-   "key": "costume-halloween-kardashian-kim-north-show-west",
-   "reason": "best source only 720p",
-   "source_url": "https://static-clips.fox.com/proxy/fts_clip/svc_hf_fts_clip_prod/WM_WAGA_49162389716_49162423894/49162423894/hf-uuid-f9d6d397-7771-42dc-8f14-e86073cbe74e/49162423894_lowres.mp4"
+   "source_url": "https://www.dailymotion.com/embed/video/xbqjl9i"
   }
  ]
 }
