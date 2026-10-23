@@ -1364,7 +1364,7 @@ def publish_chad_media(files: list[tuple[str, Path]]) -> str | None:
 
 def patch_pages_workflow(text: str) -> str | None:
     """Point the Pages copy loop at the Grok JSON files and stamp it so the site redeploys."""
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.%fZ")
     if "grok-feed-stamp:" in text:
         return re.sub(r"# grok-feed-stamp:.*", f"# grok-feed-stamp: {stamp}", text, count=1)
     marker = "for f in candidates.json media_ready.json posted.json"
