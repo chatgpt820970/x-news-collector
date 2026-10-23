@@ -49,6 +49,7 @@ DAY_SLOTS = (
 REPLY_CLOCKS = ("09:30", "15:15")
 LOCK_MINUTES = 90
 REFRESH_HOURS = 6
+CAPTION_VERSION = 2
 
 HOSTED_VIRAL = (
     {
@@ -117,7 +118,7 @@ STOP = {
 EMOJI_RE = re.compile("[\U0001F300-\U0001FAFF\u2600-\u27BF]+")
 NUM_RE = re.compile(r"\b\d[\d,.]*%?\b")
 BAD_MEDIA_HOSTS = ("pbs.twimg.com", "twimg.com", "gstatic.com", "news.google.com", "encrypted-tbn")
-STATUS_RE = re.compile(r"https://x\.com/([A-Za-z0-9_]+)/status/(\d+)")
+STATUS_RE = re.compile(r"https?://(?:x|twitter)\.com/([A-Za-z0-9_]+)/status/(\d+)")
 SKIP_TWEET = re.compile(r"\b(kill yourself|rape|lynch|slur)\b", re.I)
 REPLY_ACCOUNTS = (
     ("elonmusk", "ai"),
@@ -139,10 +140,11 @@ REPLY_ACCOUNTS = (
     ("YouTube", "celebrity"),
     ("rihanna", "celebrity"),
     ("Reuters", "world"),
-    ("nytimes", "us_news"),
+    ("WhiteHouse", "us_news"),
     ("AP", "us_news"),
     ("Forbes", "us_news"),
-    ("WhiteHouse", "us_news"),
+    ("nytimes", "us_news"),
+    ("WSJ", "us_news"),
 )
 REPLY_NAMES = (
     "LeBron", "Maxey", "Embiid", "Jensen", "Elon Musk", "Starlink", "Tesla", "OpenAI",
@@ -348,24 +350,56 @@ def lead_name(headline: str, famous: list[str]) -> str:
     return match.group(1) if match else ""
 
 
+def stat_lead(text: str) -> str | None:
+    fact = reply_fact(text)
+    if fact:
+        return fact
+    for match in NUM_RE.finditer(text or ""):
+        raw = match.group(0).replace(",", "")
+        if re.fullmatch(r"20\d\d", raw):
+            continue
+        if raw.isdigit() and int(raw) < 10:
+            continue
+        return match.group(0)
+    return None
+
+
+def summary_context(headline: str, summary: str) -> str:
+    text = clean_sentence(summary or "", 500)
+    parts = [part.strip() for part in re.split(r"(?<=[.])\s+", text) if part.strip()]
+    head = (headline or "").lower()
+    kept = []
+    for part in parts:
+        low = part.lower()
+        if head and (low[:28] in head or head[:28] in low):
+            continue
+        kept.append(part)
+    return clean_sentence(" ".join(kept[:2]), 180)
+
+
 def news_caption(headline: str, summary: str, category: str, famous: list[str]) -> tuple[str, list[str]]:
     headline = clean_sentence(headline, 160)
     headline = re.sub(r"\bi want it now\b", "", headline, flags=re.I).strip(" .")
-    num = lead_number(headline) or lead_number(summary or "")
-    if num and not headline.startswith(num):
+    num = stat_lead(headline) or stat_lead(summary or "")
+    if num and num.lower() not in headline.lower():
         hook = f"{num} — {headline}"
     else:
         hook = headline
     who = lead_name(headline, famous)
-    contexts = {
-        "ai": "The first line is the concrete AI claim. That is the part verified tech readers actually open.",
-        "tech": "The spec in the first line is the product change. The photos show the thing, not a logo card.",
-        "sports": "The figure in the first line is what verified sports accounts pause on. The photos are from the event.",
-        "celebrity": f"{who or 'The person in the photos'} is who the stills show. The first line is the only claim in the post.",
-        "us_news": "The first line is the US fact. The rest of the writeup stays on the source page.",
-        "world": "The first line is the fact worth posting. The source page has the rest of the writeup.",
-    }
-    context = contexts.get(category, contexts["world"])
+    context = summary_context(headline, summary or "")
+    if len(context) < 40:
+        contexts = {
+            "ai": "The concrete claim is the first line. The photos show the product, not a logo card.",
+            "tech": "The product change is the first line. The photos show the thing itself.",
+            "sports": "The figure in the first line is the part worth a replay. The photos are from the event.",
+            "celebrity": (
+                f"{who} is the name on the story. The stills are from the moment, not a poster crop."
+                if who else "The name in the first line is the story. The stills are from the moment, not a poster crop."
+            ),
+            "us_news": "The first line is the US fact. The photos are the evidence, and the rest stays on the source page.",
+            "world": "The first line is the fact. The photos are what the source actually ran.",
+        }
+        context = contexts.get(category, contexts["world"])
     tags = []
     if who:
         tags.append("#" + re.sub(r"[^A-Za-z0-9]", "", who))
@@ -605,17 +639,20 @@ def xnc_raw(path: str) -> str:
     return f"https://raw.githubusercontent.com/{XNC_REPO}/main/{path}"
 
 
-def block_state(now: datetime) -> tuple[set[str], list[str], set[str]]:
+def block_state(now: datetime, ignore_keys: set[str] | None = None) -> tuple[set[str], list[str], set[str]]:
+    ignore = {str(k) for k in (ignore_keys or set())}
     posted_list = load_json(DATA / "posted.json", [])
     if not isinstance(posted_list, list):
         posted_list = []
-    posted = {str(k) for k in posted_list}
+    posted = {str(k) for k in posted_list if str(k) not in ignore}
     phrases = load_json(DATA / "blocklist.json", {}).get("phrases") or []
     history = load_json(DATA / "grok_history.json", {"entries": []})
     cutoff = now - timedelta(hours=48)
-    corpus: list[str] = [str(k) for k in posted_list[-50:]]
+    corpus: list[str] = [str(k) for k in posted_list[-50:] if str(k) not in ignore]
     fams: set[str] = set()
     for key in posted_list[-50:]:
+        if str(key) in ignore:
+            continue
         fams |= families_in(str(key))
         if re.search(r"20\d\d-\d\d-\d\d", str(key)):
             corpus.append(str(key))
@@ -628,6 +665,8 @@ def block_state(now: datetime) -> tuple[set[str], list[str], set[str]]:
         if at.tzinfo is None:
             at = at.replace(tzinfo=timezone.utc)
         if at < cutoff:
+            continue
+        if str(entry.get("key") or "") in ignore:
             continue
         kept.append(entry)
         corpus.append(entry.get("text") or "")
@@ -985,7 +1024,7 @@ def topic_of(text: str, account: str) -> str:
 
 def profile_status_ids(account: str) -> list[str]:
     ids: list[str] = []
-    for attempt in range(2):
+    for attempt in range(3):
         data, _ = fetch_bytes(
             f"https://r.jina.ai/https://x.com/{account}",
             timeout=22,
@@ -998,9 +1037,9 @@ def profile_status_ids(account: str) -> list[str]:
                     continue
                 if sid not in ids:
                     ids.append(sid)
-        if ids or attempt == 1:
+        if len(ids) >= 2 or attempt == 2:
             break
-        time.sleep(0.4)
+        time.sleep(0.6 * (attempt + 1))
     ids.sort(key=lambda sid: int(sid), reverse=True)
     return ids[:3]
 
@@ -1205,7 +1244,7 @@ def split_reply_slots(pool: list[dict]) -> tuple[list[dict], list[dict]]:
 
 def build_replies(now: datetime) -> list[dict]:
     found: list[dict] = []
-    with ThreadPoolExecutor(max_workers=6) as pool:
+    with ThreadPoolExecutor(max_workers=4) as pool:
         id_jobs = {pool.submit(profile_status_ids, acct): (acct, cat) for acct, cat in REPLY_ACCOUNTS}
         pairs = []
         for fut in as_completed(id_jobs):
@@ -1323,6 +1362,35 @@ def publish_chad_media(files: list[tuple[str, Path]]) -> str | None:
     return pushed
 
 
+def patch_pages_workflow(text: str) -> str | None:
+    """Point the Pages copy loop at the Grok JSON files and stamp it so the site redeploys."""
+    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    if "grok-feed-stamp:" in text:
+        return re.sub(r"# grok-feed-stamp:.*", f"# grok-feed-stamp: {stamp}", text, count=1)
+    marker = "for f in candidates.json media_ready.json posted.json"
+    idx = text.find(marker)
+    if idx < 0:
+        return None
+    line_start = text.rfind("\n", 0, idx) + 1
+    done_at = text.find("done", idx)
+    if done_at < 0:
+        return None
+    line_end = text.find("\n", done_at)
+    if line_end < 0:
+        line_end = len(text)
+    indent = text[line_start:idx]
+    block = (
+        f"{indent}for f in candidates.json media_ready.json posted.json grok_queue.json grok_replies.json; do\n"
+        f"{indent}  if [ -f \"xnc/data/$f\" ]; then cp \"xnc/data/$f\" site/feed/; fi\n"
+        f"{indent}  if [ ! -s \"site/feed/$f\" ]; then\n"
+        f"{indent}    curl -fsSL \"https://raw.githubusercontent.com/chatgpt820970/x-news-collector/main/data/$f\" -o \"site/feed/$f\" || true\n"
+        f"{indent}  fi\n"
+        f"{indent}done\n"
+        f"{indent}# grok-feed-stamp: {stamp}"
+    )
+    return text[:line_start] + block + text[line_end:]
+
+
 def publish_pages_hook() -> int:
     key = os.environ.get("CHAD_MEDIA_DEPLOY_KEY") or ""
     if not key.strip():
@@ -1352,19 +1420,13 @@ def publish_pages_hook() -> int:
         log("publish-pages.yml missing, skip")
         return 0
     text = yml.read_text(encoding="utf-8")
-    old = "for f in candidates.json media_ready.json posted.json; do"
-    new = "for f in candidates.json media_ready.json posted.json grok_queue.json grok_replies.json; do"
-    if new in text:
-        log("Pages feed already copies the Grok files.")
-        shutil.rmtree(tmp, ignore_errors=True)
-        shutil.rmtree(work, ignore_errors=True)
-        return 0
-    if old not in text:
+    patched = patch_pages_workflow(text)
+    if patched is None:
         log("Pages workflow copy loop not found, skip")
         shutil.rmtree(tmp, ignore_errors=True)
         shutil.rmtree(work, ignore_errors=True)
         return 0
-    yml.write_text(text.replace(old, new, 1), encoding="utf-8")
+    yml.write_text(patched, encoding="utf-8")
     run_git(repo, ["git", "config", "user.name", "x-news-collector[bot]"], env)
     run_git(repo, ["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], env)
     run_git(repo, ["git", "add", "--", ".github/workflows/publish-pages.yml"], env)
@@ -1582,7 +1644,11 @@ def select_posts(now: datetime, posted: set[str], corpus: list[str], fams: set[s
 
 def build(dry: bool) -> int:
     now = datetime.now(timezone.utc)
-    posted, corpus, fams = block_state(now)
+    existing = load_json(DATA / "grok_queue.json", {})
+    ignore_keys: set[str] = set()
+    if existing.get("caption_version") != CAPTION_VERSION:
+        ignore_keys = {str(k) for k in (existing.get("queued_keys") or [])}
+    posted, corpus, fams = block_state(now, ignore_keys)
     sha = github_commit_sha(MEDIA_REPO)
     tree = github_tree(MEDIA_REPO)
     tree_paths = {t["path"]: int(t.get("size") or 0) for t in tree}
@@ -1592,7 +1658,6 @@ def build(dry: bool) -> int:
     reply_fut = reply_pool.submit(build_replies, now)
     videos, photos, _fams = select_posts(now, posted, corpus, fams, sha, tree_paths, work)
     slots_meta = upcoming_slot_times(now)
-    existing = load_json(DATA / "grok_queue.json", {})
     generated_at = None
     if existing.get("generated_at_utc"):
         try:
@@ -1612,6 +1677,8 @@ def build(dry: bool) -> int:
     for meta in slots_meta:
         start = meta[0]
         prev = None if dry else existing_by_slot.get(start.isoformat())
+        if existing.get("caption_version") != CAPTION_VERSION:
+            prev = None
         if prev and reusable_post(prev, start, generated_at, now):
             chosen.append((meta, prev))
         else:
@@ -1682,6 +1749,7 @@ def build(dry: bool) -> int:
     videos_n = sum(1 for p in final_posts if p.get("media_kind") == "video")
     viral_n = sum(1 for p in final_posts if p.get("type") == "viral")
     doc = {
+        "caption_version": CAPTION_VERSION,
         "generated_at_utc": now.isoformat(timespec="seconds"),
         "generated_at_ist": now.astimezone(IST).strftime("%Y-%m-%d %H:%M IST"),
         "timezone": "Asia/Kolkata",
@@ -1766,8 +1834,26 @@ def self_test() -> int:
     assert shout and "CHET" not in shout and "WILD" not in shout and "SOON" not in shout
     fact_reply = reply_text("Lana hit 1 billion streams", "celebrity", "PopCrave", "8")
     assert "1 billion" in fact_reply
+    kalki, _tags = news_caption(
+        "Kalki 2 BTS: Prabhas returns as Bhairava",
+        "Prabhas is back as Bhairava in Kalki 2. The makers released a behind-the-scenes video on his birthday.",
+        "celebrity",
+        ["Prabhas"],
+    )
+    assert "2 —" not in kalki
+    assert "only claim" not in kalki.lower()
+    assert "birthday" in kalki.lower()
+    assert caption_ok(kalki)
     nasa_reply = reply_text("That is our jam from the telescope", "tech", "NASA", "4")
     assert "NASA" in nasa_reply and "CHET" not in nasa_reply
+    sample = (
+        "          for f in candidates.json media_ready.json posted.json grok_queue.json grok_replies.json; do\n"
+        "            [ -f \"xnc/data/$f\" ] && cp \"xnc/data/$f\" site/feed/ || true\n"
+        "          done\n"
+    )
+    patched = patch_pages_workflow(sample)
+    assert patched and "curl -fsSL" in patched and "grok-feed-stamp:" in patched
+    assert patch_pages_workflow(patched) != patched
     pool = [
         {"post_url": f"https://x.com/a/status/{i}", "reply": "r", "account": acct, "verified": True,
          "views": 100000 - i, "age_minutes": 20, "category": cat, "topic": topic}

@@ -3,7 +3,7 @@ name: Build Grok queue
 on:
   workflow_dispatch:
   # A push of this file starts one run. The scheduled crons do the daily work.
-  # Removed after the first end-to-end run so later edits do not queue extra jobs.
+  # Removed after the caption rebuild so later edits do not queue extra jobs.
   push:
     branches: [main]
     paths:
