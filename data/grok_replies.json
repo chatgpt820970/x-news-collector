@@ -1,0 +1,141 @@
+{
+  "generated_at_utc": "2026-10-23T10:14:33+00:00",
+  "generated_at_ist": "2026-10-23 15:44 IST",
+  "timezone": "Asia/Kolkata",
+  "buffer_channel": "chadriyo",
+  "rules": "6 targets, max 2 per topic, at least 4 categories, verified accounts, no links in the reply text.",
+  "slots": [
+    {
+      "time_ist": "2026-10-24T09:30:00+05:30",
+      "label": "09:30 IST",
+      "replies": [
+        {
+          "post_url": "https://x.com/NASA/status/2113358139999265160",
+          "reply": "NASA is the product detail worth stopping for",
+          "account": "NASA",
+          "verified": true,
+          "views": 559080,
+          "age_minutes": 861,
+          "category": "tech",
+          "topic": "nasa"
+        },
+        {
+          "post_url": "https://x.com/nvidia/status/2113565366660063496",
+          "reply": "The Jensen part is the one that actually sounds usable",
+          "account": "nvidia",
+          "verified": true,
+          "views": 12054,
+          "age_minutes": 37,
+          "category": "ai",
+          "topic": "nvidia"
+        },
+        {
+          "post_url": "https://x.com/PopCrave/status/2113545611459063994",
+          "reply": "They really just let this one out",
+          "account": "PopCrave",
+          "verified": true,
+          "views": 27847,
+          "age_minutes": 116,
+          "category": "celebrity",
+          "topic": "popcrave"
+        },
+        {
+          "post_url": "https://x.com/premierleague/status/2113544708374810700",
+          "reply": "That timing is ridiculous",
+          "account": "premierleague",
+          "verified": true,
+          "views": 203253,
+          "age_minutes": 119,
+          "category": "sports",
+          "topic": "premierleague"
+        },
+        {
+          "post_url": "https://x.com/premierleague/status/2113566427659854330",
+          "reply": "That replay is nasty in a good way",
+          "account": "premierleague",
+          "verified": true,
+          "views": 70742,
+          "age_minutes": 33,
+          "category": "sports",
+          "topic": "premierleague"
+        },
+        {
+          "post_url": "https://x.com/ufc/status/2113529349756555605",
+          "reply": "UFC made that look casual",
+          "account": "ufc",
+          "verified": true,
+          "views": 28863,
+          "age_minutes": 180,
+          "category": "sports",
+          "topic": "ufc"
+        }
+      ]
+    },
+    {
+      "time_ist": "2026-10-24T15:15:00+05:30",
+      "label": "15:15 IST",
+      "replies": [
+        {
+          "post_url": "https://x.com/elonmusk/status/2113506269260595431",
+          "reply": "Grok is the concrete piece in this",
+          "account": "elonmusk",
+          "verified": true,
+          "views": 22667479,
+          "age_minutes": 272,
+          "category": "ai",
+          "topic": "grok"
+        },
+        {
+          "post_url": "https://x.com/PopCrave/status/2113557437710217696",
+          "reply": "They really just let this one out",
+          "account": "PopCrave",
+          "verified": true,
+          "views": 15879,
+          "age_minutes": 69,
+          "category": "celebrity",
+          "topic": "popcrave"
+        },
+        {
+          "post_url": "https://x.com/premierleague/status/2113556043749802207",
+          "reply": "Baleba made that look casual",
+          "account": "premierleague",
+          "verified": true,
+          "views": 154076,
+          "age_minutes": 74,
+          "category": "sports",
+          "topic": "premierleague"
+        },
+        {
+          "post_url": "https://x.com/ufc/status/2113556044538335387",
+          "reply": "UFC made that look casual",
+          "account": "ufc",
+          "verified": true,
+          "views": 18726,
+          "age_minutes": 74,
+          "category": "sports",
+          "topic": "ufc"
+        },
+        {
+          "post_url": "https://x.com/ufc/status/2113571138336944585",
+          "reply": "Merab made that look casual",
+          "account": "ufc",
+          "verified": true,
+          "views": 9514,
+          "age_minutes": 14,
+          "category": "sports",
+          "topic": "ufc"
+        },
+        {
+          "post_url": "https://x.com/billboard/status/2113558729496932808",
+          "reply": "The clip is the whole story",
+          "account": "billboard",
+          "verified": true,
+          "views": 8506,
+          "age_minutes": 63,
+          "category": "celebrity",
+          "topic": "billboard"
+        }
+      ]
+    }
+  ]
+}

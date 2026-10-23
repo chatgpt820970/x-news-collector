@@ -1,0 +1,121 @@
+{
+  "generated_at_utc": "2026-10-23T10:14:33+00:00",
+  "generated_at_ist": "2026-10-23 15:44 IST",
+  "timezone": "Asia/Kolkata",
+  "buffer_channel": "chadriyo",
+  "media_commit": "bad5107e3d03f0002658ddbdf996146656bf5ac4",
+  "instructions": [
+    "Read this file only. Do not invent a post, a caption, a link, or a media file.",
+    "On Buffer, use the channel named chadriyo (list_channels, never guess the id). schedulingType automatic, mode customScheduled, dueAt exactly slot_ist.",
+    "text is the caption, copied exactly. assets are the media URLs in order: video kind uses a video url, image kind uses image urls.",
+    "If Buffer rejects a media file, skip that post and continue with the next one. Do not swap in a different file.",
+    "Replies come only from grok_replies.json. Post that reply text on the given post link. Add no link, no hashtag, and no extra sentence."
+  ],
+  "mix": {
+    "posts": 5,
+    "videos": 3,
+    "viral": 3,
+    "photo_posts": 2
+  },
+  "slots": [
+    {
+      "slot_ist": "2026-10-24T04:47:00+05:30",
+      "slot_end_ist": "2026-10-24T05:00:00+05:30",
+      "slot_time": "04:47",
+      "window": "04:47-05:00 IST",
+      "posts": [
+        {
+          "key": "place-dance-of-the-northern-lights-in-orange-cou",
+          "type": "viral",
+          "caption": "🌍 30 seconds of Northern Lights in Orange County NY\n\nThe color is the post. It is a real sky, not a filter laid on afterwards\n\n#Travel #World",
+          "media": [
+            "https://cdn.jsdelivr.net/gh/chatgpt820970/chad-media@bad5107e3d03f0002658ddbdf996146656bf5ac4/v/grok/place-dance-of-the-northern-lights-in-orange-cou.mp4"
+          ],
+          "media_kind": "video",
+          "source": "https://commons.wikimedia.org/wiki/File:Dance_of_the_Northern_Lights_in_Orange_County_NY.webm"
+        }
+      ]
+    },
+    {
+      "slot_ist": "2026-10-24T07:47:00+05:30",
+      "slot_end_ist": "2026-10-24T08:00:00+05:30",
+      "slot_time": "07:47",
+      "window": "07:47-08:00 IST",
+      "posts": [
+        {
+          "key": "cherki-goal-liverpool",
+          "type": "viral",
+          "caption": "⚽ 1 finish from Cherki against Liverpool, and the keeper never sets his feet\n\nThe touch is gone before the replay angle catches up. Football skill clips are what verified sports accounts actually replay\n\n#PremierLeague #Cherki",
+          "media": [
+            "https://cdn.jsdelivr.net/gh/chatgpt820970/chad-media@2ce5bbe5a14c90b92818f635f1b6df3f32c81aaa/v/livmci_cherki.mp4"
+          ],
+          "media_kind": "video",
+          "source": "https://github.com/chatgpt820970/chad-media/blob/main/v/livmci_cherki.mp4"
+        }
+      ]
+    },
+    {
+      "slot_ist": "2026-10-24T09:47:00+05:30",
+      "slot_end_ist": "2026-10-24T10:00:00+05:30",
+      "slot_time": "09:47",
+      "window": "09:47-10:00 IST",
+      "posts": [
+        {
+          "key": "artist-award-bad-billboard-bunny-latin-music-wins",
+          "type": "news",
+          "caption": "🎤 Bad Bunny wins Artist of the Year at the 2026 Billboard Latin Music Awards\n\nBad Bunny is who the stills show. The first line is the only claim in the post\n\n#BadBunny #Music",
+          "media": [
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/bad5107e3d03f0002658ddbdf996146656bf5ac4/m/grok/artist-award-bad-billboard-bunny-latin-music-win-p1.jpg",
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/bad5107e3d03f0002658ddbdf996146656bf5ac4/m/grok/artist-award-bad-billboard-bunny-latin-music-win-p2.jpg"
+          ],
+          "media_kind": "image",
+          "source": "https://www.yahoo.com/entertainment/music/articles/bad-bunny-wins-artist-2026-040532718.html"
+        }
+      ]
+    },
+    {
+      "slot_ist": "2026-10-24T10:47:00+05:30",
+      "slot_end_ist": "2026-10-24T11:00:00+05:30",
+      "slot_time": "10:47",
+      "window": "10:47-11:00 IST",
+      "posts": [
+        {
+          "key": "place-cascade-de-syratu",
+          "type": "viral",
+          "caption": "🌍 16 seconds of Cascade de Syratu\n\nThe water is the post. Short, loud, and filmed on the rock\n\n#Travel #World",
+          "media": [
+            "https://cdn.jsdelivr.net/gh/chatgpt820970/chad-media@bad5107e3d03f0002658ddbdf996146656bf5ac4/v/grok/place-cascade-de-syratu.mp4"
+          ],
+          "media_kind": "video",
+          "source": "https://commons.wikimedia.org/wiki/File:Cascade_de_Syratu.webm"
+        }
+      ]
+    },
+    {
+      "slot_ist": "2026-10-24T13:47:00+05:30",
+      "slot_end_ist": "2026-10-24T14:00:00+05:30",
+      "slot_time": "13:47",
+      "window": "13:47-14:00 IST",
+      "posts": [
+        {
+          "key": "2-bhairava-bts-kalki-prabha-return",
+          "type": "news",
+          "caption": "🎤 2 — Kalki 2 BTS: Prabhas returns as Bhairava\n\nPrabhas is who the stills show. The first line is the only claim in the post\n\n#Prabhas #Movies",
+          "media": [
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/bad5107e3d03f0002658ddbdf996146656bf5ac4/m/grok/2-bhairava-bts-kalki-prabha-return-p1.jpg",
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/bad5107e3d03f0002658ddbdf996146656bf5ac4/m/grok/2-bhairava-bts-kalki-prabha-return-p2.jpg"
+          ],
+          "media_kind": "image",
+          "source": "https://teluguone.com/tmdb/news/kalki-2-bts-prabhas-returns-as-bhairava-en-235140c1.html"
+        }
+      ]
+    }
+  ],
+  "queued_keys": [
+    "place-dance-of-the-northern-lights-in-orange-cou",
+    "cherki-goal-liverpool",
+    "artist-award-bad-billboard-bunny-latin-music-wins",
+    "place-cascade-de-syratu",
+    "2-bhairava-bts-kalki-prabha-return"
+  ]
+}
