@@ -1,87 +1,64 @@
 {
- "generated_at_utc": "2026-10-23T05:07:15Z",
- "generated_at_ist": "2026-10-23 10:37 IST",
- "candidates_generated_at_utc": "2026-10-23T05:05:24Z",
- "candidates_generated_at_ist": "2026-10-23 10:35 IST",
- "release_tag": "m-20261023-0506",
+ "generated_at_utc": "2026-10-23T08:06:49Z",
+ "generated_at_ist": "2026-10-23 13:36 IST",
+ "candidates_generated_at_utc": "2026-10-23T08:05:24Z",
+ "candidates_generated_at_ist": "2026-10-23 13:35 IST",
+ "release_tag": "m-20261023-0806",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261023-0506",
-   "runtime_sec": 47,
-   "generated_at_ist": "2026-10-23 10:37 IST"
+   "release_tag": "m-20261023-0806",
+   "runtime_sec": 17,
+   "generated_at_ist": "2026-10-23 13:36 IST"
   }
  ],
  "stats": {
-  "videos": 1,
+  "videos": 0,
   "videos_4k": 0,
-  "photo_stories": 8,
+  "photo_stories": 5,
   "skipped": 5
  },
  "items": {
-  "333-evloev-result-ufc-volkanovski-weigh": {
-   "type": "video",
-   "headline": "UFC 333: Volkanovski vs. Evloev weigh-in results",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
-   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/36006700-6f00-4300-a700-6d0064004f00/1080p.mp4",
-   "source_title": "1080p",
-   "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": null,
-   "duration": 30.02,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-0506/03-333-evloev-result-ufc-volkanovski-weigh-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 35.1,
-   "video_1080_bitrate_mbps": 9.8,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f3.jpg"
-   ]
-  },
-  "46th-appearance-birthday-kardashian-kim-make-rare-rob": {
+  "4-50mm-gorgeou-lens-now-sigma-small-super-want-working": {
    "type": "photo",
-   "headline": "Rob Kardashian makes rare appearance at Kim Kardashian's 46th birthday",
-   "category": "celebrity_music",
+   "headline": "Sigma is working on a gorgeous new super-small 50mm F1.4 lens and I want it NOW!",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
+   "release_tag": "m-20261023-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-46th-appearance-birthday-kardashian-kim-make-rare-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-46th-appearance-birthday-kardashian-kim-make-rare-p1.jpg",
-     "source_url": "https://imgix.bustle.com/uploads/image/2026/10/16/4a5738ec/kj_holiday26_3x4_1.jpg?w=2048&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.6833&fp-y=0.3219",
-     "width": 2048,
-     "height": 2731
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p1.jpg",
+     "source_url": "https://www.thephoblographer.com/wp-content/uploads/2026/10/Chris-Gampat-The-Phoblographer-Sigma-FP2-review-product-images-Canon-PowerShot-G1-X-Mark-IIICanon-PowerShot-G1-X-Mark-III2.81-1250s400-2.jpg",
+     "width": 2560,
+     "height": 1707
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p2.jpg",
+     "source_url": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/Sigma-50mm-F1.4-CL.jpg",
+     "width": 2250,
+     "height": 1500
     }
    ]
   },
-  "advice-ahead-antonelli-give-hamilton-hilariou-maiden-title-win": {
+  "appearance-birthday-kardashian-kim-make-public-rare-rob": {
    "type": "photo",
-   "headline": "Hamilton gives hilarious advice to Antonelli ahead of maiden F1 title win",
-   "category": "sports",
+   "headline": "Rob Kardashian Makes Rare Public Appearance for Kim Kardashian's Birthday",
+   "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
+   "release_tag": "m-20261023-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-advice-ahead-antonelli-give-hamilton-hilariou-maid-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-appearance-birthday-kardashian-kim-make-public-rar-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-advice-ahead-antonelli-give-hamilton-hilariou-maid-p1.jpg",
-     "source_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_United_States___Previews/2301489930.webp",
-     "width": 2048,
-     "height": 1152
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-appearance-birthday-kardashian-kim-make-public-rar-p1.jpg",
+     "source_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261021/b84663c5-eac5-48ea-b679-a8351870c60a_1792621229.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
+     "width": 1200,
+     "height": 1200
     }
    ]
   },
@@ -90,7 +67,7 @@
    "headline": "Bad Bunny wins Artist of the Year at the 2026 Billboard Latin Music Awards",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
+   "release_tag": "m-20261023-0806",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-artist-award-bad-billboard-bunny-latin-music-wins-p1.jpg"
    ],
@@ -103,122 +80,68 @@
     }
    ]
   },
-  "ceo-chief-close-fired-friend-marketing-polymarket-reportedly": {
+  "abstract-down-edgen-questioned-scrap-service-shut-standx-sustainability-tges-web3": {
    "type": "photo",
-   "headline": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+   "headline": "Web3 Sustainability Questioned as Abstract, StandX and Edgen Scrap TGEs, Shut Down Services",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
+   "release_tag": "m-20261023-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-ceo-chief-close-fired-friend-marketing-polymarket-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-abstract-down-edgen-questioned-scrap-service-shut-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ceo-chief-close-fired-friend-marketing-polymarket-p1.jpg",
-     "source_url": "https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?auto=format&fit=crop&crop=focalpoint&w=2048&q=75",
-     "width": 2048,
-     "height": 1365
-    }
-   ]
-  },
-  "admitting-despite-fight-gigantic-happen-hope-joe-reveal-rogan-ufc-unlikely-‘": {
-   "type": "photo",
-   "headline": "Joe Rogan reveals the ‘gigantic’ UFC fight he hopes happens despite admitting it’s unlikely",
-   "category": "famous_clip",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-admitting-despite-fight-gigantic-happen-hope-joe-r-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-admitting-despite-fight-gigantic-happen-hope-joe-r-p1.jpg",
-     "source_url": "https://bloodyelbow.com/wp-content/uploads/1/2026/04/Joe-Rogan-UFC-327.png",
-     "width": 1980,
-     "height": 1080
-    }
-   ]
-  },
-  "5-ada-asked-bet-cardano-copper-hitting-holder-million-record": {
-   "type": "photo",
-   "headline": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-5-ada-asked-bet-cardano-copper-hitting-holder-mill-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-5-ada-asked-bet-cardano-copper-hitting-holder-mill-p1.jpg",
-     "source_url": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=2048&q=75",
-     "width": 2048,
-     "height": 1365
-    }
-   ]
-  },
-  "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast": {
-   "type": "photo",
-   "headline": "VIDEO: Everton star Hayden Hackney chats Michael Carrick, idolising Cristiano Ronaldo, Southampton Spygate controversy & more in latest Beast Mode On Podcast",
-   "category": "famous_clip",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg",
-     "source_url": "https://assets.goal.com/images/v3/blt5385e44a7221b840/261022_THUMBNAIL_BMO_HAYDEN-HACKNEY_V3.png",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abstract-down-edgen-questioned-scrap-service-shut-p1.jpg",
+     "source_url": "https://media.bloomingbit.io/news/20b0e390-d262-4fe3-9815-7924ea2eb594.webp",
      "width": 1920,
-     "height": 1080
+     "height": 1280
     }
    ]
   },
-  "campu-draw-hokieai-mixed-platform-reaction-tech-virginia": {
+  "ceiling-chain-hit-lam-record-research-revenue-supply": {
    "type": "photo",
-   "headline": "Virginia Tech’s HokieAI platform draws mixed reactions on campus",
+   "headline": "Lam Research Hit Record Revenue. Supply Chain Is the New Ceiling.",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0506",
+   "release_tag": "m-20261023-0806",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-ceiling-chain-hit-lam-record-research-revenue-supp-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg",
-     "source_url": "https://gray-wdbj-prod.gtv-cdn.com/resizer/v2/EKXYCTGDWNF6VO54OXEXV2JSKU.png?auth=51e9ff4521a4dda3d68c73f816576eab3998b5245c47aa1b00da47d2b58973ea&width=2048&smart=true",
-     "width": 2048,
-     "height": 1152
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ceiling-chain-hit-lam-record-research-revenue-supp-p1.jpg",
+     "source_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8fd7517-3242-40a8-b91f-3ccc7d016f49/id-preview-695970b7--ec24b0e0-0e1c-4465-a020-ae230d71a977.lovable.app-1772814140584.png",
+     "width": 1920,
+     "height": 2714
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "46th-appearance-birthday-kardashian-kim-make-rare-rob",
+   "key": "3-333-breakdown-dvalishvili-merab-petr-prediction-ufc-yan",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=PqOGLljj9Lw"
+   "source_url": "https://www.youtube.com/watch?v=v2zy29pRtBs"
   },
   {
-   "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
+   "key": "damage-extent-max-racing-reveal-spine-verstappen-year",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
+   "source_url": "https://www.youtube.com/watch?v=UtSUddTdDtA"
   },
   {
-   "key": "billie-bob-dramatic-eilish-fans-haircut-short-stun",
-   "reason": "best source only 576p",
-   "source_url": "https://video.dailymail.com/video/mol/2026/09/02/8541838963140020161/1024x576_MP4_8541838963140020161.mp4"
+   "key": "appearance-birthday-kardashian-kim-make-public-rare-rob",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=S2aHO0sRiY8"
   },
   {
-   "key": "000-4-combine-kuwait-ooredoo-qatar-tower-zain",
-   "reason": "best source only 200p",
-   "source_url": "https://www.mobileeurope.co.uk/wp-content/uploads/2026/05/amdocs-test.mp4"
+   "key": "1-4-champion-goal-league-leipzig-madrid-real",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=6CppQ_lup0Y"
   },
   {
-   "key": "campu-draw-hokieai-mixed-platform-reaction-tech-virginia",
-   "reason": "best source only 720p",
-   "source_url": "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261022/6ada8331cef384722915275d/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4"
+   "key": "ahead-driver-grand-look-prix-race-state-united-weekend",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=xz7lnnnfo6c"
   }
  ]
 }
