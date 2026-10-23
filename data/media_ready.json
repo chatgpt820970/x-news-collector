@@ -1,39 +1,123 @@
 {
- "generated_at_utc": "2026-10-23T04:06:44Z",
- "generated_at_ist": "2026-10-23 09:36 IST",
- "candidates_generated_at_utc": "2026-10-23T04:05:22Z",
- "candidates_generated_at_ist": "2026-10-23 09:35 IST",
- "release_tag": "m-20261023-0406",
+ "generated_at_utc": "2026-10-23T05:07:15Z",
+ "generated_at_ist": "2026-10-23 10:37 IST",
+ "candidates_generated_at_utc": "2026-10-23T05:05:24Z",
+ "candidates_generated_at_ist": "2026-10-23 10:35 IST",
+ "release_tag": "m-20261023-0506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261023-0406",
-   "runtime_sec": 24,
-   "generated_at_ist": "2026-10-23 09:36 IST"
+   "release_tag": "m-20261023-0506",
+   "runtime_sec": 47,
+   "generated_at_ist": "2026-10-23 10:37 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 5,
+  "photo_stories": 8,
   "skipped": 5
  },
  "items": {
-  "ann-drake-get-info-know-maye-michael-photo-wife": {
-   "type": "photo",
-   "headline": "Who Is Drake Maye’s Wife? Get to Know Ann Michael Maye (Photos & Info)",
+  "333-evloev-result-ufc-volkanovski-weigh": {
+   "type": "video",
+   "headline": "UFC 333: Volkanovski vs. Evloev weigh-in results",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0406",
+   "release_tag": "m-20261023-0506",
+   "source_url": "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/36006700-6f00-4300-a700-6d0064004f00/1080p.mp4",
+   "source_title": "1080p",
+   "source_resolution": "1920x1080",
+   "source_fps": 30.0,
+   "source_duration": null,
+   "duration": 30.02,
+   "trimmed_to_140s": false,
+   "trim_start_sec": 0,
+   "trim_reason": "full",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-0506/03-333-evloev-result-ufc-volkanovski-weigh-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 35.1,
+   "video_1080_bitrate_mbps": 9.8,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/03-333-evloev-result-ufc-volkanovski-weigh-f3.jpg"
+   ]
+  },
+  "46th-appearance-birthday-kardashian-kim-make-rare-rob": {
+   "type": "photo",
+   "headline": "Rob Kardashian makes rare appearance at Kim Kardashian's 46th birthday",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-ann-drake-get-info-know-maye-michael-photo-wife-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-46th-appearance-birthday-kardashian-kim-make-rare-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ann-drake-get-info-know-maye-michael-photo-wife-p1.jpg",
-     "source_url": "https://photoresources.wtatennis.com/wta/photo/2026/10/22/9f6e22ac-71a5-4948-a6c4-f99bcffde47b/Li-R2.JPG",
-     "width": 3857,
-     "height": 2571
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-46th-appearance-birthday-kardashian-kim-make-rare-p1.jpg",
+     "source_url": "https://imgix.bustle.com/uploads/image/2026/10/16/4a5738ec/kj_holiday26_3x4_1.jpg?w=2048&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.6833&fp-y=0.3219",
+     "width": 2048,
+     "height": 2731
+    }
+   ]
+  },
+  "advice-ahead-antonelli-give-hamilton-hilariou-maiden-title-win": {
+   "type": "photo",
+   "headline": "Hamilton gives hilarious advice to Antonelli ahead of maiden F1 title win",
+   "category": "sports",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-advice-ahead-antonelli-give-hamilton-hilariou-maid-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-advice-ahead-antonelli-give-hamilton-hilariou-maid-p1.jpg",
+     "source_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_United_States___Previews/2301489930.webp",
+     "width": 2048,
+     "height": 1152
+    }
+   ]
+  },
+  "artist-award-bad-billboard-bunny-latin-music-wins": {
+   "type": "photo",
+   "headline": "Bad Bunny wins Artist of the Year at the 2026 Billboard Latin Music Awards",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-artist-award-bad-billboard-bunny-latin-music-wins-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-artist-award-bad-billboard-bunny-latin-music-wins-p1.jpg",
+     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P108RALL-e1792725007262.jpg?w=2048",
+     "width": 1800,
+     "height": 1200
+    }
+   ]
+  },
+  "ceo-chief-close-fired-friend-marketing-polymarket-reportedly": {
+   "type": "photo",
+   "headline": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+   "category": "other",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0506",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-ceo-chief-close-fired-friend-marketing-polymarket-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ceo-chief-close-fired-friend-marketing-polymarket-p1.jpg",
+     "source_url": "https://cdn.sanity.io/images/s3y3vcno/production/8244f5db1e6b709627e3a0daa0d726294d50e8c1-8390x5593.jpg?auto=format&fit=crop&crop=focalpoint&w=2048&q=75",
+     "width": 2048,
+     "height": 1365
     }
    ]
   },
@@ -42,7 +126,7 @@
    "headline": "Joe Rogan reveals the ‘gigantic’ UFC fight he hopes happens despite admitting it’s unlikely",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0406",
+   "release_tag": "m-20261023-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-admitting-despite-fight-gigantic-happen-hope-joe-r-p1.jpg"
    ],
@@ -55,21 +139,21 @@
     }
    ]
   },
-  "76er-bloody-collide-edgecombe-give-jame-lebron-nose-teammate-viral": {
+  "5-ada-asked-bet-cardano-copper-hitting-holder-million-record": {
    "type": "photo",
-   "headline": "Watch LeBron James Give VJ Edgecombe Bloody Nose After 76ers Teammates Collide in Viral Video",
-   "category": "famous_clip",
+   "headline": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record",
+   "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0406",
+   "release_tag": "m-20261023-0506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-76er-bloody-collide-edgecombe-give-jame-lebron-nos-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-5-ada-asked-bet-cardano-copper-hitting-holder-mill-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-76er-bloody-collide-edgecombe-give-jame-lebron-nos-p1.jpg",
-     "source_url": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-10/2300685554_large_cropped.jpg?w=2048",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-5-ada-asked-bet-cardano-copper-hitting-holder-mill-p1.jpg",
+     "source_url": "https://cdn.sanity.io/images/s3y3vcno/production/d015970fe04575c3819700e01e757b872ee9ad32-1500x1000.jpg?auto=format&fit=crop&crop=focalpoint&w=2048&q=75",
      "width": 2048,
-     "height": 1153
+     "height": 1365
     }
    ]
   },
@@ -78,7 +162,7 @@
    "headline": "VIDEO: Everton star Hayden Hackney chats Michael Carrick, idolising Cristiano Ronaldo, Southampton Spygate controversy & more in latest Beast Mode On Podcast",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0406",
+   "release_tag": "m-20261023-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg"
    ],
@@ -96,7 +180,7 @@
    "headline": "Virginia Tech’s HokieAI platform draws mixed reactions on campus",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0406",
+   "release_tag": "m-20261023-0506",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg"
    ],
@@ -112,14 +196,9 @@
  },
  "skipped": [
   {
-   "key": "333-evloev-ufc-volkanovski-weigh",
+   "key": "46th-appearance-birthday-kardashian-kim-make-rare-rob",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=ClFLFay4OBE"
-  },
-  {
-   "key": "333-conference-fight-pre-press-ufc",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=DHLdj5yFWmw"
+   "source_url": "https://www.youtube.com/watch?v=PqOGLljj9Lw"
   },
   {
    "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
@@ -127,9 +206,14 @@
    "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
   },
   {
-   "key": "ann-drake-get-info-know-maye-michael-photo-wife",
-   "reason": "best source only 0p",
-   "source_url": "https://players.brightcove.net/6041795521001/te01Hqw71_default/index.min.js"
+   "key": "billie-bob-dramatic-eilish-fans-haircut-short-stun",
+   "reason": "best source only 576p",
+   "source_url": "https://video.dailymail.com/video/mol/2026/09/02/8541838963140020161/1024x576_MP4_8541838963140020161.mp4"
+  },
+  {
+   "key": "000-4-combine-kuwait-ooredoo-qatar-tower-zain",
+   "reason": "best source only 200p",
+   "source_url": "https://www.mobileeurope.co.uk/wp-content/uploads/2026/05/amdocs-test.mp4"
   },
   {
    "key": "campu-draw-hokieai-mixed-platform-reaction-tech-virginia",
