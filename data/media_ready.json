@@ -1,36 +1,36 @@
 {
- "generated_at_utc": "2026-10-22T23:08:48Z",
- "generated_at_ist": "2026-10-23 04:38 IST",
- "candidates_generated_at_utc": "2026-10-22T23:05:24Z",
- "candidates_generated_at_ist": "2026-10-23 04:35 IST",
- "release_tag": "m-20261022-2306",
+ "generated_at_utc": "2026-10-23T02:07:56Z",
+ "generated_at_ist": "2026-10-23 07:37 IST",
+ "candidates_generated_at_utc": "2026-10-23T02:05:26Z",
+ "candidates_generated_at_ist": "2026-10-23 07:35 IST",
+ "release_tag": "m-20261023-0206",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261022-2306",
-   "runtime_sec": 142,
-   "generated_at_ist": "2026-10-23 04:38 IST"
+   "release_tag": "m-20261023-0206",
+   "runtime_sec": 84,
+   "generated_at_ist": "2026-10-23 07:37 IST"
   }
  ],
  "stats": {
-  "videos": 2,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 6,
-  "skipped": 7
+  "photo_stories": 8,
+  "skipped": 4
  },
  "items": {
-  "basharat-cut-farid-joe-rogan-ufc-upset": {
+  "46th-appearance-birthday-kardashian-kim-make-rare-rob": {
    "type": "video",
-   "headline": "Joe Rogan Upset UFC Cut Farid Basharat",
+   "headline": "Rob Kardashian makes rare appearance at Kim Kardashian's 46th birthday",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
-   "source_url": "https://video.twimg.com/amplify_video/2113350762260754432/vid/avc1/1920x1080/ePL1ck9_fgU-K6YI.mp4",
-   "source_title": "ePL1ck9_fgU-K6YI",
+   "release_tag": "m-20261023-0206",
+   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/383f4de6-fd8a-358e-ba53-d10a78745ada.m3u8?site=entertainment&region=US&lang=en-US&devtype=desktop",
+   "source_title": "383f4de6-fd8a-358e-ba53-d10a78745ada",
    "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": null,
-   "duration": 140.0,
+   "source_fps": 29.97,
+   "source_duration": 65,
+   "duration": 65.32,
    "trimmed_to_140s": false,
    "trim_start_sec": 0,
    "trim_reason": "full",
@@ -38,105 +38,129 @@
    "video_4k_url": null,
    "video_4k_resolution": null,
    "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-2306/01-basharat-cut-farid-joe-rogan-ufc-upset-1080.mp4",
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/02-46th-appearance-birthday-kardashian-kim-make-rare-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-0206/02-46th-appearance-birthday-kardashian-kim-make-rare-1080.mp4",
    "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 167.4,
-   "video_1080_bitrate_mbps": 10.0,
+   "video_1080_size_mb": 75.2,
+   "video_1080_bitrate_mbps": 9.7,
    "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/01-basharat-cut-farid-joe-rogan-ufc-upset-f3.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/02-46th-appearance-birthday-kardashian-kim-make-rare-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-46th-appearance-birthday-kardashian-kim-make-rare-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/02-46th-appearance-birthday-kardashian-kim-make-rare-f3.jpg"
    ]
   },
-  "confusion-elon-moral-musk-ukraine": {
-   "type": "video",
-   "headline": "Elon Musk’s Moral Confusion on Ukraine",
+  "elon-investment-made-musk-skydance": {
+   "type": "photo",
+   "headline": "Elon Musk made a $1B investment in Skydance, report says",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
-   "source_url": "https://slike-toi.akamaized.net/aq/wh/jnaqwhokzu/hls/master.m3u8",
-   "source_title": "master",
-   "source_resolution": "1920x1080",
-   "source_fps": 24.0,
-   "source_duration": 481,
-   "duration": 140.0,
-   "trimmed_to_140s": true,
-   "trim_start_sec": 0.0,
-   "trim_reason": "from 0:00",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261022-2306/04-confusion-elon-moral-musk-ukraine-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 173.6,
-   "video_1080_bitrate_mbps": 10.4,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/04-confusion-elon-moral-musk-ukraine-f3.jpg"
-   ]
-  },
-  "5-development-disney-halloweentown-‘-’": {
-   "type": "photo",
-   "headline": "‘Halloweentown 5’ in Development at Disney",
-   "category": "celebrity_music",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
+   "release_tag": "m-20261023-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-5-development-disney-halloweentown-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-elon-investment-made-musk-skydance-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-5-development-disney-halloweentown-p1.jpg",
-     "source_url": "https://variety.com/wp-content/uploads/2026/10/TSDHALL_EC003.jpg?w=2048&crop=1",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-elon-investment-made-musk-skydance-p1.jpg",
+     "source_url": "https://image.cnbcfm.com/api/v1/image/107094802-1658941667625-gettyimages-1232949289-20090101210517-99-633989.jpeg?v=1753916170&w=2048",
      "width": 2048,
-     "height": 1374
+     "height": 1351
     }
    ]
   },
-  "age-announce-queen-stone-tour": {
+  "another-hamilton-lewi-now-reason-stay": {
    "type": "photo",
-   "headline": "Queens of the Stone Age Announce 2027 U.S. Tour",
-   "category": "celebrity_music",
+   "headline": "Lewis Hamilton Now Has Another Reason to Stay in F1",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
+   "release_tag": "m-20261023-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-another-hamilton-lewi-now-reason-stay-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-queen-stone-tour-p1.jpg",
-     "source_url": "https://therockrevival.com/wp-content/uploads/2026/10/queens-of-the-stone-age-announce-2027-tour.jpg",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-another-hamilton-lewi-now-reason-stay-p1.jpg",
+     "source_url": "https://static.independent.co.uk/2026/10/22/21/b66a0dcda9ab13ac8a8063bae586a2a8Y29udGVudHNlYXJjaGFwaSwxNzkyNzg1NTg3-2.86272868.jpg?width=2048&crop=1200:800",
      "width": 2048,
-     "height": 1152
+     "height": 1365
     }
    ]
   },
-  "0-2-200-bts-million-music-surpasse-view": {
+  "now-sulfate-want-–-‘-’": {
    "type": "photo",
-   "headline": "BTS's '2.0' Music Video Surpasses 200 Million Views",
-   "category": "celebrity_music",
+   "headline": "Out Now: Sulfate – ‘And It Wants’",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
+   "release_tag": "m-20261023-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p2.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-now-sulfate-want-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-now-sulfate-want-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p1.jpg",
-     "source_url": "https://www.chosun.com/resizer/v2/GFSWMYZZGMYTSMJUHE3WCZBXGE.jpg?auth=c60cddbad89cc245c715c8e2b98d3af96704625bf80b943a62b36aa3eff80715&width=2048&smart=true",
-     "width": 2048,
-     "height": 3072
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-now-sulfate-want-p1.jpg",
+     "source_url": "https://cdn.hoopsrumors.com/files/2026/05/Donovan-Mitchell1.jpg",
+     "width": 2473,
+     "height": 1649
     },
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-0-2-200-bts-million-music-surpasse-view-p2.jpg",
-     "source_url": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1800,fit=cover,q=high,sharpen=2/21/2026/10/2026102307014196126_1.jpg",
-     "width": 1200,
-     "height": 1800
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-now-sulfate-want-p2.jpg",
+     "source_url": "https://cdn.hoopsrumors.com/files/2026/02/Donovan-Mitchell-vert.jpg",
+     "width": 1088,
+     "height": 1573
+    }
+   ]
+  },
+  "ariana-brother-collin-gosselin-grande-haircut-hannah-reveal-statu-storie": {
+   "type": "photo",
+   "headline": "Hannah Gosselin Reveals Status With Brother Collin, Ariana Grande’s Haircut and More Top Us Stories",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0206",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-ariana-brother-collin-gosselin-grande-haircut-hann-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ariana-brother-collin-gosselin-grande-haircut-hann-p1.jpg",
+     "source_url": "https://hermes.media.static.aol.com/media/2026/10/23/071bae1e-7098-3841-9469-2e5676062f59/6a1723fa-d04c-412c-93db-8ef1d1b514d4.jpg",
+     "width": 2000,
+     "height": 2000
+    }
+   ]
+  },
+  "baseball-belong-here-latin-serie-world": {
+   "type": "photo",
+   "headline": "The 2026 World Series belongs to Latin baseball. Here's why.",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0206",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-baseball-belong-here-latin-serie-world-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-baseball-belong-here-latin-serie-world-p1.jpg",
+     "source_url": "https://d.latintimes.com/en/full/593435/national-league-division-series-milwaukee-brewers-v-san-diego-padres.jpg",
+     "width": 2500,
+     "height": 1667
+    }
+   ]
+  },
+  "bump-control-cota-damage-fear-max-reveal-spinal-track-verstappen-“-”": {
+   "type": "photo",
+   "headline": "Max Verstappen reveals spinal damage fears from “out of control” COTA F1 track bumps",
+   "category": "famous_clip",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-0206",
+   "photo_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/ph-bump-control-cota-damage-fear-max-reveal-spinal-tr-p1.jpg"
+   ],
+   "photos": [
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-bump-control-cota-damage-fear-max-reveal-spinal-tr-p1.jpg",
+     "source_url": "https://www.crash.net/sites/default/files/2026-10/xpb_1445323_hires.jpg?width=2048&aspect_ratio=16:9",
+     "width": 2048,
+     "height": 1152
     }
    ]
   },
@@ -145,7 +169,7 @@
    "headline": "VIDEO: Everton star Hayden Hackney chats Michael Carrick, idolising Cristiano Ronaldo, Southampton Spygate controversy & more in latest Beast Mode On Podcast",
    "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
+   "release_tag": "m-20261023-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-beast-carrick-chat-controversy-cristiano-everton-h-p1.jpg"
    ],
@@ -158,30 +182,12 @@
     }
    ]
   },
-  "1-caller-game-grade-heat-reaction": {
-   "type": "photo",
-   "headline": "Heat Game 1 Reaction & Caller Grades",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-1-caller-game-grade-heat-reaction-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-1-caller-game-grade-heat-reaction-p1.jpg",
-     "source_url": "https://www.audacy.com/media-library/image.jpg?id=68511574&width=2048",
-     "width": 2048,
-     "height": 1152
-    }
-   ]
-  },
   "campu-draw-hokieai-mixed-platform-reaction-tech-virginia": {
    "type": "photo",
    "headline": "Virginia Tech’s HokieAI platform draws mixed reactions on campus",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261022-2306",
+   "release_tag": "m-20261023-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-campu-draw-hokieai-mixed-platform-reaction-tech-vi-p1.jpg"
    ],
@@ -197,29 +203,9 @@
  },
  "skipped": [
   {
-   "key": "career-extend-forced-hamilton-issue-lewi-max-racingnews365-review-unacceptable-verdict-verstappen",
+   "key": "333-evloev-ufc-volkanovski-weigh",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=UtSUddTdDtA"
-  },
-  {
-   "key": "advice-dating-gave-kanye-kardashian-kourtney-west",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=KJ73wbmwUEc"
-  },
-  {
-   "key": "age-announce-queen-stone-tour",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=IvzjnLQlM1M"
-  },
-  {
-   "key": "1-4-champion-goal-league-leipzig-madrid-real",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=6CppQ_lup0Y"
-  },
-  {
-   "key": "americano-continente-historia-repaso-¡",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=9b14MSFznco"
+   "source_url": "https://www.youtube.com/watch?v=ClFLFay4OBE"
   },
   {
    "key": "beast-carrick-chat-controversy-cristiano-everton-hackney-hayden-idolising-michael-mode-podcast",
@@ -227,9 +213,14 @@
    "source_url": "https://www.youtube.com/watch?v=tU4xTWUNAh8"
   },
   {
-   "key": "1-caller-game-grade-heat-reaction",
-   "reason": "no source could be read",
-   "source_url": "https://www.dailymotion.com/embed/video/xbqjl9i"
+   "key": "elon-investment-made-musk-skydance",
+   "reason": "best source only 300p",
+   "source_url": "https://pdl-iphone-cnbc-com.akamaized.net/7000428271/79db3d70-cdd7-11f1-ba43-b309d3a314e6/1792646071-49155309076-hd_L.mp4"
+  },
+  {
+   "key": "campu-draw-hokieai-mixed-platform-reaction-tech-virginia",
+   "reason": "best source only 720p",
+   "source_url": "https://d1l66zlxaqpl1u.cloudfront.net/wp-gray/20261022/6ada8331cef384722915275d/file_1920x1080-5400-v4/file_1280x720-2000-v3_1.mp4"
   }
  ]
 }
