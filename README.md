@@ -166,3 +166,29 @@ Secrets: `CHAD_MEDIA_DEPLOY_KEY` (here; pushes the trigger file), `XNC_DEPLOY_KE
 write deploy key for this repo), optional `YT_COOKIES` (in chad-media; if set, CI also does YouTube).
 The box uses its logged-in `gh` CLI. No keys in code.
 Local test without uploading: `DRY_RUN=1 MAX_VIDEOS=3 python media_prep.py box` (or no arg for CI mode).
+
+## Grok usage
+
+The day slots are already written. Grok copies them. It does not write captions, pick media, or invent a link.
+
+Queue (refreshed about 30 minutes before 04:47, 07:47, 09:47, 10:47 and 13:47 IST, plus 14:55 IST for the afternoon replies):
+
+https://raw.githubusercontent.com/chatgpt820970/x-news-collector/main/data/grok_queue.json
+
+Replies for 09:30 and 15:15 IST:
+
+https://raw.githubusercontent.com/chatgpt820970/x-news-collector/main/data/grok_replies.json
+
+When the chad-media Pages feed has been updated, the same files are also at:
+
+https://chatgpt820970.github.io/chad-media/feed/grok_queue.json
+
+https://chatgpt820970.github.io/chad-media/feed/grok_replies.json
+
+Do this, and nothing else:
+
+1. Open the queue URL. Read `slots`. For each slot, schedule every item in `posts` on the Buffer channel named `chadriyo` (`list_channels`; do not guess the id). `schedulingType` is `automatic`, `mode` is `customScheduled`, and `dueAt` is that slot's `slot_ist` (IST, `+05:30`).
+2. `text` is the `caption`, copied exactly. `assets` are the `media` URLs in order. `media_kind` `video` is a video asset. `media_kind` `image` is an image asset. Do not download, rehost, or crop them.
+3. If Buffer rejects a media file, skip that post and continue with the next post. Do not substitute a different file.
+4. Never invent a caption, a hashtag, a question, a link, or a media URL. If a slot has no post, leave it empty.
+5. Open the replies URL. At 09:30 IST post the 09:30 reply texts. At 15:15 IST post the 15:15 reply texts. Reply on `post_url` with `reply` only. Add no link, no hashtag, and no extra sentence.
