@@ -1,147 +1,136 @@
 {
- "generated_at_utc": "2026-10-23T08:06:49Z",
- "generated_at_ist": "2026-10-23 13:36 IST",
- "candidates_generated_at_utc": "2026-10-23T08:05:24Z",
- "candidates_generated_at_ist": "2026-10-23 13:35 IST",
- "release_tag": "m-20261023-0806",
+ "generated_at_utc": "2026-10-23T15:08:57Z",
+ "generated_at_ist": "2026-10-23 20:38 IST",
+ "candidates_generated_at_utc": "2026-10-23T15:05:22Z",
+ "candidates_generated_at_ist": "2026-10-23 20:35 IST",
+ "release_tag": "m-20261023-1506",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261023-0806",
-   "runtime_sec": 17,
-   "generated_at_ist": "2026-10-23 13:36 IST"
+   "release_tag": "m-20261023-1506",
+   "runtime_sec": 156,
+   "generated_at_ist": "2026-10-23 20:38 IST"
   }
  ],
  "stats": {
-  "videos": 0,
+  "videos": 1,
   "videos_4k": 0,
-  "photo_stories": 5,
-  "skipped": 5
+  "photo_stories": 3,
+  "skipped": 4
  },
  "items": {
-  "4-50mm-gorgeou-lens-now-sigma-small-super-want-working": {
-   "type": "photo",
-   "headline": "Sigma is working on a gorgeous new super-small 50mm F1.4 lens and I want it NOW!",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p2.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p1.jpg",
-     "source_url": "https://www.thephoblographer.com/wp-content/uploads/2026/10/Chris-Gampat-The-Phoblographer-Sigma-FP2-review-product-images-Canon-PowerShot-G1-X-Mark-IIICanon-PowerShot-G1-X-Mark-III2.81-1250s400-2.jpg",
-     "width": 2560,
-     "height": 1707
-    },
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-4-50mm-gorgeou-lens-now-sigma-small-super-want-wor-p2.jpg",
-     "source_url": "https://amateurphotographer.com/wp-content/uploads/sites/7/2026/10/Sigma-50mm-F1.4-CL.jpg",
-     "width": 2250,
-     "height": 1500
-    }
-   ]
-  },
-  "appearance-birthday-kardashian-kim-make-public-rare-rob": {
-   "type": "photo",
-   "headline": "Rob Kardashian Makes Rare Public Appearance for Kim Kardashian's Birthday",
+  "333-cartwheel-petr-successful-ufc-weigh-yan": {
+   "type": "video",
+   "headline": "Petr Yan cartwheels after successful UFC 333 weigh-in",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0806",
+   "release_tag": "m-20261023-1506",
+   "source_url": "https://www.cbssports.com/watch/ufc/video/ufc-333-preview-hq-ufc",
+   "source_title": "Payton Talbott Interview | UFC 332 | HQ UFC",
+   "source_resolution": "1920x1080",
+   "source_fps": 29.97,
+   "source_duration": 529,
+   "duration": 140.01,
+   "trimmed_to_140s": true,
+   "trim_start_sec": 0.0,
+   "trim_reason": "from 0:00",
+   "resolution": "1920x1080",
+   "video_4k_url": null,
+   "video_4k_resolution": null,
+   "video_4k_size_mb": null,
+   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/01-333-cartwheel-petr-successful-ufc-weigh-yan-1080.mp4",
+   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-1506/01-333-cartwheel-petr-successful-ufc-weigh-yan-1080.mp4",
+   "video_1080_resolution": "1920x1080",
+   "video_1080_size_mb": 170.7,
+   "video_1080_bitrate_mbps": 10.2,
+   "frame_urls": [
+    "https://chatgpt820970.github.io/chad-media/m/01-333-cartwheel-petr-successful-ufc-weigh-yan-f1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-333-cartwheel-petr-successful-ufc-weigh-yan-f2.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/01-333-cartwheel-petr-successful-ufc-weigh-yan-f3.jpg"
+   ]
+  },
+  "ariana-bob-debut-dramatic-grande-hairstyle": {
+   "type": "photo",
+   "headline": "Ariana Grande Debuts a Dramatic New Bob Hairstyle",
+   "category": "celebrity_music",
+   "prepared_by": "ci",
+   "release_tag": "m-20261023-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-appearance-birthday-kardashian-kim-make-public-rar-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-ariana-bob-debut-dramatic-grande-hairstyle-p1.jpg",
+    "https://chatgpt820970.github.io/chad-media/m/ph-ariana-bob-debut-dramatic-grande-hairstyle-p2.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-appearance-birthday-kardashian-kim-make-public-rar-p1.jpg",
-     "source_url": "https://akns-images.eonline.com/eol_images/Entire_Site/20261021/b84663c5-eac5-48ea-b679-a8351870c60a_1792621229.jpg?fit=around%7C1200:1200&output-quality=90&crop=1200:1200;center,top",
-     "width": 1200,
-     "height": 1200
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ariana-bob-debut-dramatic-grande-hairstyle-p1.jpg",
+     "source_url": "https://assets.purewow.com/wp-content/uploads/2026/10/Ariana-Grande-Bob.jpg",
+     "width": 2050,
+     "height": 1100
+    },
+    {
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ariana-bob-debut-dramatic-grande-hairstyle-p2.jpg",
+     "source_url": "https://d.ibtimes.com.au/en/full/208101/ariana-grande-new-album.jpg",
+     "width": 1614,
+     "height": 1107
     }
    ]
   },
-  "artist-award-bad-billboard-bunny-latin-music-wins": {
+  "adding-barcelona-encroache-european-indycar-race-turf": {
    "type": "photo",
-   "headline": "Bad Bunny wins Artist of the Year at the 2026 Billboard Latin Music Awards",
-   "category": "famous_clip",
+   "headline": "IndyCar Encroaches on F1’s European Turf by Adding Barcelona Race",
+   "category": "sports",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0806",
+   "release_tag": "m-20261023-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-artist-award-bad-billboard-bunny-latin-music-wins-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-adding-barcelona-encroache-european-indycar-race-t-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-artist-award-bad-billboard-bunny-latin-music-wins-p1.jpg",
-     "source_url": "https://www.billboard.com/wp-content/uploads/2026/10/P108RALL-e1792725007262.jpg?w=2048",
-     "width": 1800,
-     "height": 1200
-    }
-   ]
-  },
-  "abstract-down-edgen-questioned-scrap-service-shut-standx-sustainability-tges-web3": {
-   "type": "photo",
-   "headline": "Web3 Sustainability Questioned as Abstract, StandX and Edgen Scrap TGEs, Shut Down Services",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-0806",
-   "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-abstract-down-edgen-questioned-scrap-service-shut-p1.jpg"
-   ],
-   "photos": [
-    {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-abstract-down-edgen-questioned-scrap-service-shut-p1.jpg",
-     "source_url": "https://media.bloomingbit.io/news/20b0e390-d262-4fe3-9815-7924ea2eb594.webp",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-adding-barcelona-encroache-european-indycar-race-t-p1.jpg",
+     "source_url": "https://www.thedrive.com/wp-content/uploads/2026/10/Alex-Palou-Mission-Foods-Grand-Prix-of-Monterey-By_-Chris-Owens_Large-Image-Without-Watermark_m165738.jpg?w=2048",
      "width": 1920,
      "height": 1280
     }
    ]
   },
-  "ceiling-chain-hit-lam-record-research-revenue-supply": {
+  "arbistar-investigator-million-tenerife-track-transfer-worth": {
    "type": "photo",
-   "headline": "Lam Research Hit Record Revenue. Supply Chain Is the New Ceiling.",
+   "headline": "Investigators track Arbistar transfers worth millions on Tenerife",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-0806",
+   "release_tag": "m-20261023-1506",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-ceiling-chain-hit-lam-record-research-revenue-supp-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-arbistar-investigator-million-tenerife-track-trans-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-ceiling-chain-hit-lam-record-research-revenue-supp-p1.jpg",
-     "source_url": "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/a8fd7517-3242-40a8-b91f-3ccc7d016f49/id-preview-695970b7--ec24b0e0-0e1c-4465-a020-ae230d71a977.lovable.app-1772814140584.png",
-     "width": 1920,
-     "height": 2714
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-arbistar-investigator-million-tenerife-track-trans-p1.jpg",
+     "source_url": "https://www.teneriffa-news.com/media/e/efe/arbistar-derivo-y-oculto-fondos-millonarios-antes-y-despues-de-su-cola-efe-55021770979.jpg",
+     "width": 3387,
+     "height": 2258
     }
    ]
   }
  },
  "skipped": [
   {
-   "key": "3-333-breakdown-dvalishvili-merab-petr-prediction-ufc-yan",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=v2zy29pRtBs"
-  },
-  {
-   "key": "damage-extent-max-racing-reveal-spine-verstappen-year",
+   "key": "explain-ferrari-hamilton-instruction-lewi-overruled-strategy",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=UtSUddTdDtA"
   },
   {
-   "key": "appearance-birthday-kardashian-kim-make-public-rare-rob",
+   "key": "ago-depth-down-four-happened-kohli-mcg-rcb-then-virat-year-🥶🥶🥶",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=S2aHO0sRiY8"
+   "source_url": "https://www.youtube.com/watch?v=LRLH-A0VJBc"
+  },
+  {
+   "key": "blackpink-lisa-music-play-press-release-tarantino",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=-5ZXrO_lYSA"
   },
   {
    "key": "1-4-champion-goal-league-leipzig-madrid-real",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=6CppQ_lup0Y"
-  },
-  {
-   "key": "ahead-driver-grand-look-prix-race-state-united-weekend",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=xz7lnnnfo6c"
   }
  ]
 }
