@@ -1,90 +1,30 @@
 {
- "generated_at_utc": "2026-10-23T23:10:02Z",
- "generated_at_ist": "2026-10-24 04:40 IST",
- "candidates_generated_at_utc": "2026-10-23T23:05:22Z",
- "candidates_generated_at_ist": "2026-10-24 04:35 IST",
- "release_tag": "m-20261023-2306",
+ "generated_at_utc": "2026-10-24T02:06:42Z",
+ "generated_at_ist": "2026-10-24 07:36 IST",
+ "candidates_generated_at_utc": "2026-10-24T02:05:21Z",
+ "candidates_generated_at_ist": "2026-10-24 07:35 IST",
+ "release_tag": "m-20261024-0206",
  "parts": [
   {
    "by": "ci",
-   "release_tag": "m-20261023-2306",
-   "runtime_sec": 218,
-   "generated_at_ist": "2026-10-24 04:40 IST"
+   "release_tag": "m-20261024-0206",
+   "runtime_sec": 20,
+   "generated_at_ist": "2026-10-24 07:36 IST"
   }
  ],
  "stats": {
-  "videos": 2,
+  "videos": 0,
   "videos_4k": 0,
   "photo_stories": 4,
-  "skipped": 9
+  "skipped": 7
  },
  "items": {
-  "crunch-drop-mercede-test-troublesome-upgrade-verdict": {
-   "type": "video",
-   "headline": "Mercedes drops latest verdict on troublesome F1 upgrade after crunch US GP test",
-   "category": "sports",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/0d131462-8550-4189-ba8f-fef8040d35f2.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-   "source_title": "0d131462-8550-4189-ba8f-fef8040d35f2",
-   "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": 139,
-   "duration": 139.03,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/05-crunch-drop-mercede-test-troublesome-upgrade-verdi-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-2306/05-crunch-drop-mercede-test-troublesome-upgrade-verdi-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 167.6,
-   "video_1080_bitrate_mbps": 10.1,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/05-crunch-drop-mercede-test-troublesome-upgrade-verdi-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-crunch-drop-mercede-test-troublesome-upgrade-verdi-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/05-crunch-drop-mercede-test-troublesome-upgrade-verdi-f3.jpg"
-   ]
-  },
-  "agent-belong-config-guardrail-need-test": {
-   "type": "video",
-   "headline": "Agent Guardrails Belong in Config, and Config Needs Tests",
-   "category": "other",
-   "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
-   "source_url": "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/0d131462-8550-4189-ba8f-fef8040d35f2.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-   "source_title": "0d131462-8550-4189-ba8f-fef8040d35f2",
-   "source_resolution": "1920x1080",
-   "source_fps": 30.0,
-   "source_duration": 139,
-   "duration": 139.03,
-   "trimmed_to_140s": false,
-   "trim_start_sec": 0,
-   "trim_reason": "full",
-   "resolution": "1920x1080",
-   "video_4k_url": null,
-   "video_4k_resolution": null,
-   "video_4k_size_mb": null,
-   "video_1080_url": "https://chatgpt820970.github.io/chad-media/m/11-agent-belong-config-guardrail-need-test-1080.mp4",
-   "video_1080_backup_url": "https://github.com/chatgpt820970/chad-media/releases/download/m-20261023-2306/11-agent-belong-config-guardrail-need-test-1080.mp4",
-   "video_1080_resolution": "1920x1080",
-   "video_1080_size_mb": 167.6,
-   "video_1080_bitrate_mbps": 10.1,
-   "frame_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/11-agent-belong-config-guardrail-need-test-f1.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/11-agent-belong-config-guardrail-need-test-f2.jpg",
-    "https://chatgpt820970.github.io/chad-media/m/11-agent-belong-config-guardrail-need-test-f3.jpg"
-   ]
-  },
   "free-nbc-newlywed-premiere-‘-’": {
    "type": "photo",
    "headline": "‘Newlyweds’ premiere: How to watch free on NBC today",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
+   "release_tag": "m-20261024-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-free-nbc-newlywed-premiere-p1.jpg"
    ],
@@ -97,39 +37,39 @@
     }
    ]
   },
-  "age-announce-perfecth-pixie-queen-stone-tour-‘-’": {
+  "arman-lose-oliveira-shot-title-tsarukyan-ufc": {
    "type": "photo",
-   "headline": "Queens Of The Stone Age announce 2027 ‘Perfecth’ US tour with Pixies",
+   "headline": "Arman Tsarukyan could lose UFC title shot to Oliveira",
    "category": "celebrity_music",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
+   "release_tag": "m-20261024-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-perfecth-pixie-queen-stone-tour-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-arman-lose-oliveira-shot-title-tsarukyan-ufc-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-age-announce-perfecth-pixie-queen-stone-tour-p1.jpg",
-     "source_url": "https://www.nme.com/wp-content/uploads/2026/10/josh_homme_qotsa.jpg",
-     "width": 2000,
-     "height": 1270
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-arman-lose-oliveira-shot-title-tsarukyan-ufc-p1.jpg",
+     "source_url": "https://mmasucka.com/api/media/file/Arman%20Tsarukyan%20via%20imago.webp",
+     "width": 1920,
+     "height": 1200
     }
    ]
   },
-  "marvel-parent-review-wildwood-‘-’": {
+  "award-heir-messi-receive-spanish-throne": {
    "type": "photo",
-   "headline": "Parent Review: ‘Wildwood’ is a marvel",
-   "category": "celebrity_music",
+   "headline": "Messi receives top Spanish award from heir to throne",
+   "category": "famous_clip",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
+   "release_tag": "m-20261024-0206",
    "photo_urls": [
-    "https://chatgpt820970.github.io/chad-media/m/ph-marvel-parent-review-wildwood-p1.jpg"
+    "https://chatgpt820970.github.io/chad-media/m/ph-award-heir-messi-receive-spanish-throne-p1.jpg"
    ],
    "photos": [
     {
-     "url": "https://chatgpt820970.github.io/chad-media/m/ph-marvel-parent-review-wildwood-p1.jpg",
-     "source_url": "https://townsquare.media/site/442/files/2026/10/attachment-visionquest-000210.jpg?w=2048&q=75&format=natural",
+     "url": "https://chatgpt820970.github.io/chad-media/m/ph-award-heir-messi-receive-spanish-throne-p1.jpg",
+     "source_url": "https://img.asmedia.epimg.net/resizer/v2/WKBTPVST4ROCBD4UQ3L3I2SA4Y.jpg?auth=7a23dfb5d4ace9a85bb06ae2ffc29f6a830f38591190141c8b34147860bbb019&width=2048&focal=3930%2C1941",
      "width": 2048,
-     "height": 1365
+     "height": 1341
     }
    ]
   },
@@ -138,7 +78,7 @@
    "headline": "Will the A.I. Assistant Wars Produce a SuperApp?",
    "category": "other",
    "prepared_by": "ci",
-   "release_tag": "m-20261023-2306",
+   "release_tag": "m-20261024-0206",
    "photo_urls": [
     "https://chatgpt820970.github.io/chad-media/m/ph-assistant-produce-superapp-wars-p1.jpg",
     "https://chatgpt820970.github.io/chad-media/m/ph-assistant-produce-superapp-wars-p2.jpg"
@@ -161,49 +101,39 @@
  },
  "skipped": [
   {
-   "key": "swift-taylor",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=4p1yZgR4F9k"
-  },
-  {
-   "key": "333-evloev-prediction-ufc-volkanovski",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=rdM6nm5WIV0"
-  },
-  {
    "key": "free-nbc-newlywed-premiere-‘-’",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=JtswCuEQsEQ"
   },
   {
-   "key": "announce-date-extensive-haywire-tour-world",
+   "key": "1-box-collection-office-teer-udta",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=fLBMhYiehz4"
+   "source_url": "https://www.youtube.com/watch?v=ip_WGcWrUu0"
   },
   {
-   "key": "age-announce-perfecth-pixie-queen-stone-tour-‘-’",
+   "key": "arman-lose-oliveira-shot-title-tsarukyan-ufc",
    "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=rSsdVPOQWxA"
-  },
-  {
-   "key": "marvel-parent-review-wildwood-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=IzB6dCDMcpw"
-  },
-  {
-   "key": "behavior-elon-jail-kara-musk-swisher-threat-toddler-‘-’",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=KmwJy5_1nOw"
-  },
-  {
-   "key": "australia-ban-media-short-social-taking-teenager",
-   "reason": "YouTube source: prepared on the box",
-   "source_url": "https://www.youtube.com/watch?v=TnmmEkF4Hkg"
+   "source_url": "https://www.youtube.com/watch?v=TBzTo8700Tk"
   },
   {
    "key": "ago-depth-down-four-happened-kohli-mcg-rcb-then-virat-year-🥶🥶🥶",
    "reason": "YouTube source: prepared on the box",
    "source_url": "https://www.youtube.com/watch?v=LRLH-A0VJBc"
+  },
+  {
+   "key": "fcbarcelona-lamine-short-yamal-💁‍♂️",
+   "reason": "YouTube source: prepared on the box",
+   "source_url": "https://www.youtube.com/watch?v=V_4vV16msaA"
+  },
+  {
+   "key": "award-heir-messi-receive-spanish-throne",
+   "reason": "best source only 360p",
+   "source_url": "https://vdmedia.as.com/mcv/diarioas/multimedia/20261023/1229172_173136_video_1200.mp4"
+  },
+  {
+   "key": "alpha-generation-imitative-mind-tame",
+   "reason": "best source only 0p",
+   "source_url": "https://cdn-content.kompas.id/cds_text_to_speech/generation-alpha-tames-the-intellect-of-imitation.mp3"
   }
  ]
 }
