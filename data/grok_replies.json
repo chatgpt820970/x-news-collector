@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-24T06:31:13+00:00",
-  "generated_at_ist": "2026-10-24 12:01 IST",
+  "generated_at_utc": "2026-10-24T12:15:00+00:00",
+  "generated_at_ist": "2026-10-24 17:45 IST",
   "timezone": "Asia/Kolkata",
   "buffer_channel": "chadriyo",
   "rules": "6 targets, max 2 per topic, at least 4 categories, verified accounts, no links in the reply text.",
@@ -10,130 +10,130 @@
       "label": "09:30 IST",
       "replies": [
         {
-          "post_url": "https://x.com/F1/status/2113793553637736460",
-          "reply": "F1 is the bit that makes the replay worth it",
-          "account": "F1",
+          "post_url": "https://x.com/nvidia/status/2113757030754443437",
+          "reply": "Nvidia is the concrete piece in this",
+          "account": "nvidia",
           "verified": true,
-          "views": 169985,
-          "age_minutes": 347,
-          "category": "sports",
-          "topic": "f1"
+          "views": 67529,
+          "age_minutes": 836,
+          "category": "ai",
+          "topic": "nvidia"
         },
         {
-          "post_url": "https://x.com/WhiteHouse/status/2113726537677807943",
-          "reply": "Trump is the part that is going to stick",
-          "account": "WhiteHouse",
+          "post_url": "https://x.com/NASA/status/2113693409772761305",
+          "reply": "The NASA part is a real change",
+          "account": "NASA",
           "verified": true,
-          "views": 454516,
-          "age_minutes": 614,
-          "category": "us_news",
-          "topic": "trump"
-        },
-        {
-          "post_url": "https://x.com/PopCrave/status/2113843675805651051",
-          "reply": "The clip is the whole story",
-          "account": "PopCrave",
-          "verified": true,
-          "views": 42706,
-          "age_minutes": 148,
-          "category": "celebrity",
-          "topic": "popcrave"
-        },
-        {
-          "post_url": "https://x.com/PopCrave/status/2113844430545289664",
-          "reply": "They really just let this one out",
-          "account": "PopCrave",
-          "verified": true,
-          "views": 35230,
-          "age_minutes": 145,
-          "category": "celebrity",
-          "topic": "popcrave"
-        },
-        {
-          "post_url": "https://x.com/billboard/status/2113873153424286120",
-          "reply": "They really just let this one out",
-          "account": "billboard",
-          "verified": true,
-          "views": 7603,
-          "age_minutes": 31,
-          "category": "celebrity",
-          "topic": "billboard"
-        },
-        {
-          "post_url": "https://x.com/billboard/status/2113876495718326639",
-          "reply": "The clip is the whole story",
-          "account": "billboard",
-          "verified": true,
-          "views": 6968,
-          "age_minutes": 18,
-          "category": "celebrity",
-          "topic": "billboard"
-        }
-      ]
-    },
-    {
-      "time_ist": "2026-10-24T15:15:00+05:30",
-      "label": "15:15 IST",
-      "replies": [
-        {
-          "post_url": "https://x.com/F1/status/2113800642066096175",
-          "reply": "F1 made that look casual",
-          "account": "F1",
-          "verified": true,
-          "views": 119373,
-          "age_minutes": 319,
-          "category": "sports",
-          "topic": "f1"
-        },
-        {
-          "post_url": "https://x.com/WhiteHouse/status/2113746492926149081",
-          "reply": "Trump is the part that is going to stick",
-          "account": "WhiteHouse",
-          "verified": true,
-          "views": 180371,
-          "age_minutes": 534,
-          "category": "us_news",
-          "topic": "trump"
+          "views": 819289,
+          "age_minutes": 1089,
+          "category": "tech",
+          "topic": "nasa"
         },
         {
           "post_url": "https://x.com/PopCrave/status/2113843927463661610",
           "reply": "They really just let this one out",
           "account": "PopCrave",
           "verified": true,
-          "views": 39543,
-          "age_minutes": 147,
+          "views": 453424,
+          "age_minutes": 491,
           "category": "celebrity",
           "topic": "popcrave"
         },
         {
-          "post_url": "https://x.com/billboard/status/2113880688168432027",
+          "post_url": "https://x.com/premierleague/status/2113933519177031696",
+          "reply": "That timing is ridiculous",
+          "account": "premierleague",
+          "verified": true,
+          "views": 139530,
+          "age_minutes": 135,
+          "category": "sports",
+          "topic": "premierleague"
+        },
+        {
+          "post_url": "https://x.com/premierleague/status/2113959710650941685",
+          "reply": "That replay is nasty in a good way",
+          "account": "premierleague",
+          "verified": true,
+          "views": 113700,
+          "age_minutes": 31,
+          "category": "sports",
+          "topic": "premierleague"
+        },
+        {
+          "post_url": "https://x.com/ufc/status/2113948625277456838",
+          "reply": "UFC is the bit that makes the replay worth it",
+          "account": "ufc",
+          "verified": true,
+          "views": 40800,
+          "age_minutes": 75,
+          "category": "sports",
+          "topic": "ufc"
+        }
+      ]
+    },
+    {
+      "time_ist": "2026-10-25T15:15:00+05:30",
+      "label": "15:15 IST",
+      "replies": [
+        {
+          "post_url": "https://x.com/NASA/status/2113655288687431819",
+          "reply": "The NASA part is a real change",
+          "account": "NASA",
+          "verified": true,
+          "views": 684697,
+          "age_minutes": 1241,
+          "category": "tech",
+          "topic": "nasa"
+        },
+        {
+          "post_url": "https://x.com/PopCrave/status/2113843675805651051",
           "reply": "The clip is the whole story",
-          "account": "billboard",
+          "account": "PopCrave",
           "verified": true,
-          "views": 3994,
-          "age_minutes": 1,
+          "views": 85697,
+          "age_minutes": 492,
           "category": "celebrity",
-          "topic": "billboard"
+          "topic": "popcrave"
         },
         {
-          "post_url": "https://x.com/AP/status/2113791085306696169",
-          "reply": "That is the line people will quote",
-          "account": "AP",
+          "post_url": "https://x.com/premierleague/status/2113954083157504105",
+          "reply": "That replay is nasty in a good way",
+          "account": "premierleague",
           "verified": true,
-          "views": 74179,
-          "age_minutes": 357,
-          "category": "us_news",
-          "topic": "ap"
+          "views": 121748,
+          "age_minutes": 53,
+          "category": "sports",
+          "topic": "premier league"
         },
         {
-          "post_url": "https://x.com/netflix/status/2113782526275711273",
-          "reply": "They really put Netflix out like it was nothing",
-          "account": "netflix",
+          "post_url": "https://x.com/ufc/status/2113918427614109769",
+          "reply": "UFC made that look casual",
+          "account": "ufc",
           "verified": true,
-          "views": 446698,
-          "age_minutes": 391,
+          "views": 43842,
+          "age_minutes": 195,
+          "category": "sports",
+          "topic": "ufc"
+        },
+        {
+          "post_url": "https://x.com/PopCrave/status/2113844430545289664",
+          "reply": "They really just let this one out",
+          "account": "PopCrave",
+          "verified": true,
+          "views": 75267,
+          "age_minutes": 489,
           "category": "celebrity",
-          "topic": "netflix"
+          "topic": "popcrave"
+        },
+        {
+          "post_url": "https://x.com/ufc/status/2113856736385986994",
+          "reply": "UFC is the bit that makes the replay worth it",
+          "account": "ufc",
+          "verified": true,
+          "views": 34304,
+          "age_minutes": 440,
+          "category": "sports",
+          "topic": "ufc"
         }
       ]
     }

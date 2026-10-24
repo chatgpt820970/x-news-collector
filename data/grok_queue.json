@@ -1,10 +1,10 @@
 {
   "caption_version": 2,
-  "generated_at_utc": "2026-10-24T06:31:13+00:00",
-  "generated_at_ist": "2026-10-24 12:01 IST",
+  "generated_at_utc": "2026-10-24T12:15:00+00:00",
+  "generated_at_ist": "2026-10-24 17:45 IST",
   "timezone": "Asia/Kolkata",
   "buffer_channel": "chadriyo",
-  "media_commit": "40f788195378599db09dfeb65f28a17839a1467e",
+  "media_commit": "9a7b0fad3f50985210bf78acc43f63fa3d5bfdf5",
   "instructions": [
     "Read this file only. Do not invent a post, a caption, a link, or a media file.",
     "On Buffer, use the channel named chadriyo (list_channels, never guess the id). schedulingType automatic, mode customScheduled, dueAt exactly slot_ist.",
@@ -13,33 +13,52 @@
     "Replies come only from grok_replies.json. Post that reply text on the given post link. Add no link, no hashtag, and no extra sentence."
   ],
   "mix": {
-    "posts": 1,
+    "posts": 2,
     "videos": 1,
     "viral": 1,
-    "photo_posts": 0
+    "photo_posts": 1
   },
   "slots": [
     {
-      "slot_ist": "2026-10-24T13:47:00+05:30",
-      "slot_end_ist": "2026-10-24T14:00:00+05:30",
-      "slot_time": "13:47",
-      "window": "13:47-14:00 IST",
+      "slot_ist": "2026-10-25T04:47:00+05:30",
+      "slot_end_ist": "2026-10-25T05:00:00+05:30",
+      "slot_time": "04:47",
+      "window": "04:47-05:00 IST",
       "posts": [
         {
-          "key": "place-cascade-de-syratu",
-          "type": "viral",
-          "caption": "🌍 16 seconds of Cascade de Syratu\n\nThe water is the post. Short, loud, and filmed on the rock\n\n#Travel #World",
+          "key": "1-halt-incident-initia-layer-rollup-security",
+          "type": "news",
+          "caption": "📰 15 — Initia Halts Layer 1 and Rollups After Security Incident\n\nsaid its layer-1 network and rollups were halted at 15:41 UTC on Friday after a security incident, as Upbit paused INIT deposits and withdrawals\n\n#InitiaHaltsLayer",
           "media": [
-            "https://cdn.jsdelivr.net/gh/chatgpt820970/chad-media@b384dadab71613b194f6fb9f43ad31d5fc4fe7d5/v/grok/place-cascade-de-syratu.mp4"
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/9a7b0fad3f50985210bf78acc43f63fa3d5bfdf5/m/grok/1-halt-incident-initia-layer-rollup-security-p1.jpg",
+            "https://raw.githubusercontent.com/chatgpt820970/chad-media/9a7b0fad3f50985210bf78acc43f63fa3d5bfdf5/m/grok/1-halt-incident-initia-layer-rollup-security-p2.jpg"
+          ],
+          "media_kind": "image",
+          "source": "https://coinmarketcap.com/academy/article/initia-halts-l1-rollups-security-incident"
+        }
+      ]
+    },
+    {
+      "slot_ist": "2026-10-25T07:47:00+05:30",
+      "slot_end_ist": "2026-10-25T08:00:00+05:30",
+      "slot_time": "07:47",
+      "window": "07:47-08:00 IST",
+      "posts": [
+        {
+          "key": "football-kald-r-m-scored-the-goal-for-a-3-3-draw",
+          "type": "viral",
+          "caption": "⚽ 14 seconds, and the goal is already in at Kaldırım scored the goal for a 3-3 draw (Beşiktaş-Fenerbahçe Derby - February\n\nFootball skill and goal clips travel further than another match recap. The finish above is the whole post\n\n#Football #Goal",
+          "media": [
+            "https://cdn.jsdelivr.net/gh/chatgpt820970/chad-media@9a7b0fad3f50985210bf78acc43f63fa3d5bfdf5/v/grok/football-kald-r-m-scored-the-goal-for-a-3-3-draw.mp4"
           ],
           "media_kind": "video",
-          "source": "https://commons.wikimedia.org/wiki/File:Cascade_de_Syratu.webm"
+          "source": "https://commons.wikimedia.org/wiki/File:Kald%C4%B1r%C4%B1m_scored_the_goal_for_a_3-3_draw_(Be%C5%9Fikta%C5%9F-Fenerbah%C3%A7e_Derby_-_February_2019).webm"
         }
       ]
     }
   ],
   "queued_keys": [
-    "place-cascade-de-syratu"
-  ],
-  "verified": true
+    "1-halt-incident-initia-layer-rollup-security",
+    "football-kald-r-m-scored-the-goal-for-a-3-3-draw"
+  ]
 }
