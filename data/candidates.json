@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-10-29T16:40:01Z",
-  "generated_at_ist": "2026-10-29 22:10 IST",
+  "generated_at_utc": "2026-10-29T17:05:26Z",
+  "generated_at_ist": "2026-10-29 22:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5808,
-    "fresh_items": 4916,
-    "clusters": 2370,
+    "raw_items": 5902,
+    "fresh_items": 5008,
+    "clusters": 2390,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 103,
+    "youtube_uploads_fresh": 106,
     "youtube_items": 3,
-    "famous_items": 8,
+    "famous_items": 6,
     "trends_terms": 40,
-    "page_fetches": 60,
+    "page_fetches": 57,
     "with_video": 9,
-    "runtime_sec": 17.7
+    "runtime_sec": 28.1
   },
   "categories": {
     "famous_clip": 4,
@@ -32,28 +32,95 @@
     "other": 6
   },
   "top_trends": [
-    "valkyries vs dream (US 20000+)",
-    "wnba finals game 6 (US 2000+)",
-    "rockville 2027 lineup (US 500+)",
+    "snow (US 10000+)",
+    "voting near me (US 500+)",
+    "usa network (US 500+)",
+    "최불암 (US 500+)",
+    "mlb trade rumors (US 200+)",
+    "valkyries vs dream (US 50000+)",
+    "dune 3 popcorn bucket (US 500+)",
+    "rockville 2027 lineup (US 2000+)",
+    "jill wagner hollywood to tennessee (US 1000+)",
     "ios 27.3 expected release date (US 500+)",
-    "long covid (US 500+)",
-    "pipo nguyen-duy (US 1000+)",
-    "alcaraz (US 500+)",
-    "who is sophia bush (US 200+)",
-    "doordash acquire instacart (US 20000+)",
-    "sophia bush (US 5000+)",
-    "கத்தார் (IN 200+)",
-    "పాలు (IN 200+)",
-    "vision quest marvel (IN 200+)",
-    "అక్టోబర్ (IN 200+)",
-    "r3 (IN 200+)",
-    "nikoloz basilashvili (IN 200+)",
-    "shreyanka patil (IN 500+)",
-    "asian champions trophy india china (IN 200+)",
-    "sai pallavi (IN 5000+)",
-    "ಬರ (IN 1000+)"
+    "dax (IN 1000+)",
+    "प्रदूषण (IN 200+)",
+    "শুভশ্রী গঙ্গোপাধ্যায় (IN 200+)",
+    "hfcl (IN 200+)",
+    "विजय केडिया (IN 500+)",
+    "is gullu evicted from bigg boss (IN 1000+)",
+    "வங்கி விடுமுறை (IN 1000+)",
+    "arthur fery (IN 200+)",
+    "runner (IN 200+)",
+    "கத்தார் (IN 200+)"
   ],
   "items": [
+    {
+      "id": "bfd3f90a56",
+      "key": "bollywood-celebrate-celebritie-chauth-festival-karwa",
+      "headline": "Karwa Chauth 2026: How Bollywood Celebrities Celebrate the Festival",
+      "summary": "https://www.newindianexpress.com/cities/delhi/2026/Oct/29/Aalia Sayed, 23, sat on a bench in the park at Greater Kailash-2’s market, frazzled and spent. Every year she and other women from her Ahmedabad neighbourhood t",
+      "sources": [
+        "The News Mill",
+        "The Times of India",
+        "WION",
+        "Outlook India",
+        "The Economic Times",
+        "Bollywood Hungama"
+      ],
+      "article_urls": [
+        "https://www.newindianexpress.com/cities/delhi/2026/Oct/29/the-hunger-games-of-karwa-chauth",
+        "https://www.guardonline.com/news/world/india-hindu-festival/image_3cd18aaa-47d3-577f-a14e-9499e02db97b.html",
+        "https://economictimes.indiatimes.com/magazines/panache/karwa-chauth-2026-how-bollywood-celebrities-celebrate-the-festival/articleshow/135303142.cms?from=mdr",
+        "https://www.reutersconnect.com/item/india-women-do-shopping-and-apply-mehndi-at-markets-ahead-of-karwa-chauth-festival/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBMMElaNUM",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdWNyZ3Y3ZEdYUm1MT1Y2amEwek91N3ZhdEdGRWhWVmVJaDh0b0ZVaHNkT0tTUUxkSGU3MGpQcFF4TzFlR2NHRkR5bWJqUGUyekFWR2hQYnljeXpwV1lrempHd2xhTVpyYWJ4ekUxS1BObjNEQjJhaWRvWG03VlVKUUZKazZacmFPeHk0TGJiN1FIUFc0cEIzNXNUckFLMlZWak1HbkQ3UldOalpVQlp2SGdvcFdUTXFwLWdz?oc=5",
+        "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYkdtdTU5QnRlSUFiQ0QxdjhOX29McFRGMHVUQjlrVFQzaEljWEdGYzlyNWMzQUx6N1BYRFNXVzN4STNCajFjMzJOTUd5VXlOcnVQMWxaQWt6dEl2QTdOQ0dTY0lvM1k1SGtYZmswWHd1WUZoQ2NKS1RPQzNrb0tmMkcyWmZWbHg1YXptRE5sRUhOcGN6cHNNZ3l0S1IxQ3Z6OWNFYUQ0RGRET3pQZk9CdENkZGxic25DTmI2dUFIbm9lWVF6cGVTUTZVVnQxZERnSS1NVVBYMGU4TjFXcWRfT1VqSWlmMHNsRURfYlY1Q3A4WVJPOHNSWHNhWFhvb0V2Q29meFJudUMyVnQ3MDNKSzNlSTVPdF9oU3huY05sOWM5RjTSAasCQVVfeXFMTmRORG1vdEQzVjJLLTdtMDd5c1NudDZjaGVuNTJWRXI0VFh5bk1acEZRTHNrMktYQWtJcW1qU1Y3N0puVldaZ0V1NnUzMkNldVFtbG5GZ3NBUWlBYnI4a29OZngyaXE4Y0NpcjhVWjA0QlpWSkExMkhueEtPeHZ1Qmt2eGs2WGpsQXJiWlBvalg5ZFZFbmtQRllBWWZBSThqdy1ob1AwU1I0cEd5YTlSY25Pa2xZekdaUHU1SUNzNUpRQW5sRVphQlpSMHZTRmE4SC1FbmFTbmx0enFBM3FjWXBMM0xUT2hmSFFhY2RlZ3Vid3c4OXAtOXpkd09QMVdGRFVHdExJSUJEa3lyU2NRWjY3WmNWUjV6SU8wX2F1VktzZnBBTVpBNDR2dnc?oc=5",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQR1NoVEQxZ1EycFpxNVlZSS1KWTFyZUM0LXl2QkY0OEVkS1E1Mk5kUVZ1RVVWdWM2c3ktU1hyN0FEeW04MjhIdVBsZE95S2tucGZRbjNGMTNXWkZnUXZmTVdqX1lWYzMtdUtlZzQ2eHo5ODRjOE9RSmJTN1BtTVJQWGtrS1dTa0t3Z0tnUHZhbXJMM3BXU2NudGdIUDVPTGlvdlN0ZWNpWGNPWHNTMWY2U0Izc3B2TV9jRGhjQlRQVmJ2MlVsRjRvc3BfUDFOVHlfd3JtUHJtVXFncWE0Rzd1MQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORTdCajNHcW13M2NLMVEtUU5idVNQNkN2OHR6bldkMERBd19xTGdqQkdUVDhlLTdnQ2w0R2paSGF4Sk1qakMzWklHbnZBQ3hfZHFvaDdyZGZuV1VJQzRCTE9UaHE1SVE3bDQwc2NfZDRSVUNIUDBFd0xYM2NzbUJDY0VMamIwWHIzTFNjS185SFdQelFpUk1iR2N5aFNielZnRzFha0llWjZtd09KR0ZpY19oTzRwd1lXUlE4X0NXUFlac1hjTEdKck5ZZUlYUXVWNlQtMVp2d0XSAeYBQVVfeXFMUHlwdG1tdUFYMEtlYjk0c29TdTFjMnlfSUlacmI5QVlhVVMwNTZxaUJzdjBQaFVOVE81a25SX0t3NlVRX2tvbm5QZjIzMTJ6TkUzeGc2MWpuVE91MHFwT1Q1V0JXajByc3dtem5FcU5tMU80WjJBeTBJVDAycHREVnNYVklxc1g3VjcyLUtmRUU2RTRnekk5OUFIYTh2cFBlaW1KOEJleGd4em1lbUhMYWg3ek5acVNWb2RYdEU5U0JoMm1vR3F0anprazRVMDR5WWhMQlZwR0xHSUpDTkxVYTJkZTdJQ2c?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T16:47:14Z",
+      "published_at_ist": "2026-10-29 22:17 IST",
+      "first_seen_utc": "2026-10-29T10:01:27Z",
+      "age_minutes": 18,
+      "trend_score": 15,
+      "rank_score": 1.1428,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [
+        "moonrise today (GB 200+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Bollywood stars celebrate Karwa Chauth at Anil Kapoor’s residence in traditional attire",
+        "Sonam Kapoor to Shilpa Shetty: Bollywood’s Karwa Chauth looks that turned Anil Kapoor’s house into a fashion runway",
+        "From Anshula Kapoor to Bhavana Pandey, B-Town stars celebrate Karva Chauth 2026 at Anil Kapoor’s house",
+        "Karwa Chauth 2026: Shilpa Shetty, Anshula Kapoor Lead Bollywood Celebrities’ Festive Celebrations"
+      ],
+      "image_urls": [
+        "https://cf-images.assettype.com/newindianexpress%2F2026-10-28%2Fsobij8do%2FVernika-1.jpg?rect=0%2C1964%2C3024%2C1588&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "https://bloximages.newyork1.vip.townnews.com/guardonline.com/content/tncms/assets/v3/editorial/3/cd/3cd18aaa-47d3-577f-a14e-9499e02db97b/6ae36140b310f.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+        "https://img.etimg.com/thumb/msid-135306217,width-1200,height-900,imgsize-152086,overlay-etpanache/articleshow.jpg",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRt-fDjzh5fPpjKaoirqiRSYMxNqAcnv29bynW_ZLqo5Cfzk2RISaTvWIInLps",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStgzqsfc5lB7fPCFbj21dEQmuRVpAHVJjYUI4Gz69sOkmcNn9gMhg4o3W26cg",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ2CTagEsXYonMxhmWjDKOIN_GJkVnCs-nvOCAz7hiqsnLA5w6f2tm08N2Vqu4"
+      ],
+      "video_urls": [
+        "https://youtu.be/VNDkAsjhe5Y?si=4Dp3xqhoZSYtS1W6?utm_source=article-show&utm_medium=article-show&utm_campaign=et-ai-attendees-article-show"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
     {
       "id": "e68ddc11ba",
       "key": "ariana-criticism-cynthia-erivo-friendship-grande-respond",
@@ -64,12 +131,12 @@
         "TheMix.net",
         "The Tab",
         "TMZ",
-        "People.com",
-        "Yahoo",
         "Entertainment Weekly",
-        "Us Weekly",
         "The News International",
-        "Head Topics"
+        "Head Topics",
+        "LEADERSHIP Newspapers",
+        "Feminegra",
+        "Us Weekly"
       ],
       "article_urls": [
         "https://news.meaww.com/video/cynthia-erivo-responds-to-criticism-of-her-friendship-with-ariana-grande-mvtf556y",
@@ -78,15 +145,15 @@
         "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTTl3dzBYSnZEcHhQOE9ZMW0xZEpTVkt6M1kxVFVPUUtQTWhhWGs2MHNxSFgxZlE2TGFManRBRndIaE55U05HazUtc0NfV3pmblIzSDdndXY3ZVlaM1BodHFVN1JXNmlhbXMtM2NETm40XzV1UWNLd09sQXJyc0NyR3JzUlREYTdib3lOMlhTVHNQa2ZNejZEQnJB?oc=5",
         "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDdpZFdpTGRGNWowd0ltQ2RZUVFLcDZxQkUyRXN6XzFmQUVnZU9tUkQ2Q0ZqSFQ0ZV93a1dvWVA1TElSRDloTzk1bENSRUZBbkF5a3FmTzNvTWUyWEwySThXRDFHaHBSSWRwellYNGdFeFlPQkE5RWplSTNXOW42M19zczdZV2UzQTMxampscmpWMFJBN1cwRjZ5OUMxTExPWUNfMnI4RzE2SmRETFp1TnhNSHlsUUlnVkN6R2EyTWlaMXJBZzk2cHAzX0hCd3M?oc=5",
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbkxXVmROa1lFUk1OMU80c040NDQ0ak5MQTRjT1JmZlRvQ3UtbTVoMjJtNGNxMEJwS1MtRFgyRHlWRktnOHlaSnRSYlRoTTc1ZFIxal9meU5XV0F6VjA5Wm5VRmhzakdLRnEwSHM5aU9NOGR6Rm5hcFVUUF9VZThfbkdKTFc?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYTBaQWhwVmQ2LW5rSEZaWldxRGlGVVc4YVhPZzNxUmJSZHE5QU11cDVTQlhpemNVRnNDdkVwLWRJcllHbFppTF92MHdyTUt6cEVPRV9iZ1Q0dnUxLUdHVVRnNFEtczZaVUNiRGgzV1dtMWlwZ2lwWHFHSjVnNHhEUUliekxUejhqT1N3b3puQzhmd01VZktOb21tT2NELUxMcVdyN01vMA?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVVHNGE1ZjZmUDY3Q09MY2ZZcUxzV3Nta2tVaEwzSE5JZkx4V0ZDTVBpMGFGTjVFRmhhZHdnQnBvbmNIMzNHSUhYTVhqb2tvWm5yNUNQSkVnZ2VQNHVMYndPeHBpVG1SQ2tyWEZiMFc5ZWJKSUhUZmttZDlMRGJNTnk2WVpXd3hnRXVUemVTY3BRUXZVaHFfLXJ1dktzbEpCeVU4Zkhn?oc=5"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLVh3Z2RSX05mWG9ZQUdYcDZrWmJpbmtCNTBiV2NCRVFabG5EUVVTMkE5aGdMbG11b2hoZjlTMl9YbmJEUTdyeklOcDZfWVZPN0VWNk1nY2h2Y1ZoQXJzTEd6VDhzRDhhUDd4azRGVUxFS0JwTVRmdlFNdVRIVmh5UFJVRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFMwMmRUMEtXbDhMWTduQ3RVanRSYllFQ1MteWNPaUdRTUppcU90dkpEblFvbGNjRk9Wb0FmRkFWUU9HUGdZU0Z2RVJXN0xqYXhvZ29sTVJ0UF9MQmxiV2p4MmljMENYd0paZVFlNUZGa3B2d1Z2d1UtZnhxdGUzMVgwaDlXRzNJSnRhb1Q1WnNBWkJuRFlRRHo5a0s4OXdVUnRLUTMyRS1VeHBSdU1FZWZBRVl4TmR4SHZQd1hn0gG6AUFVX3lxTE5XZ1pjQW1wcDg5NFIyVVJKeGZiQm9ZUEVVY0pVMkMwZzMzNXA0aUlXeDNrNmRJbHh2Sm1yanpkS2xmeVBUX3N0RjgxU3FKZUdBcFAyQS1jbTNGejNLd0FTcEwzT2ppVzd5R1g3SjNRTENQZVoxUXJfODRSTmRPbFBDajVZV3lpc24yaVRTUXhxWFU1RHV5WTRweVVESDFSbzNSTDk0b3ZMMnJSSUoydWFzb0hCUjY0c2J5dw?oc=5"
       ],
       "published_at_utc": "2026-10-29T16:05:58Z",
       "published_at_ist": "2026-10-29 21:35 IST",
       "first_seen_utc": "2026-10-29T08:31:00Z",
-      "age_minutes": 34,
-      "trend_score": 32,
-      "rank_score": 1.1217,
+      "age_minutes": 59,
+      "trend_score": 29,
+      "rank_score": 1.0956,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -121,43 +188,42 @@
       "youtube_videos": []
     },
     {
-      "id": "1e9a0a1eca",
-      "key": "cut-esophagu-irregularitie-kardashian-kim-reveal-surgery",
-      "headline": "Kim Kardashian Reveals Esophagus Surgery To Cut Out 'Irregularities'",
-      "summary": "https://www.tmz.com/2026/10/29/kim-kardashian-esophagus-surgery/Kim Kardashian revealed a scary medical issue she went through ... explaining she had \"irregularities\" surgically removed from her throat ... and it's the same symptom her late dad Robert Kardashian experienced.",
+      "id": "0010c554f3",
+      "key": "biggest-fear-photo-reveal-secret-swift-taylor-wedding",
+      "headline": "Taylor Swift’s secret wedding photos: Report reveals her biggest fear",
+      "summary": "https://arynews.tv/The pop star’s dreamy wedding to the NFL star at Madison Square Garden in New York took place three months ago, but their wedding...",
       "sources": [
-        "Yahoo",
-        "IMDb",
-        "The News International",
-        "Just Jared",
-        "Istituto Impariamo",
-        "Page Six",
-        "Legit News",
-        "TMZ",
-        "People.com",
-        "AOL.com"
+        "ARYnews.tv",
+        "Heavy.com",
+        "Cinemablend",
+        "Metro.co.uk",
+        "Heatworld",
+        "samaa tv",
+        "Jang",
+        "hungamaexpress.com",
+        "شبكة تواصل الإخبارية"
       ],
       "article_urls": [
-        "https://www.tmz.com/2026/10/29/kim-kardashian-esophagus-surgery/",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxQejhMc3dwLWQxQkpGaFpCTEpWNy1hTGtFSW1uajB3c0hTSFN2ejNlaDhvMzViOXdDVjJOMi1XaUx1ejNVa3IzNU1TQWVGTmdERzdELWJBeEhZMkkwaGVDWmh2QzFmTlFQRmNGYy13dkhTa2lkVVdMdkxtV25IcEtsbmZuS2x6NkY2YTlFSl9hWnR1N0h3bUJxeEVmQXFicVQ1M0hfa2pvMUpjZk9FNG5KaFFn?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NVS1HZWYzMGF5ZERjSWZTUnNEUmR1SklMblQ0VmhSZFFqODkyZjFnV2RLQ1pWM2J6Vkh0QXdOeHlXR0pWV0MzWl9tUkd4cGdvcWNTU1RTRFlCeGcwQkp5ZXAxaU9EclZaX2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVJSWRGM0FkZnhwWlpndGEwNWNMSWZmUUcwM2tJSDdYTGhBN2J4cmRuUnI3SmVIQmdvem9WZUM0X2I1RkdSYWhFT3BOTHdjTThLZGZ3eVVlMGJqa1hZY2tFSmtnU3VzTXp6eVZNNGVadEoyS2F2dVdyYXZtR21idGhMNF9YS3o3bHhFclZ2YXRFX0s2a21GdTdvYWJ4SkpCbWptdXRYZm4tbnNuOWNIazlnUdIBrwFBVV95cUxNSmFNZ0kyU0NBb2pBclJCb09hTlNVRGVuSWVFcmFqX01mdTctNnA5dW82UDNPZ0lOeEdlOFVtalp0N2dCYnhwRE4teVMtcG9qV1pUaGlxQlRhb3V6OWhmRnRmcXNvM1lxd2t2ZzZlYUhEdTVNTDJlZ2I5Z0lYM2JzTnkwcF9RWW9FYkhZbEVMQ0I3UmZxdHllLXhsOVpOTXBrd3ljME1uSXFGTy1DenZR?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ1AwU0dicG04OGlyMWpNTW5UZ3dkVmNHQkNYNnA4MHBpME1sT3JyT0lvaUpMQVlIX0JzQ3FGZi1RUzBBOURzRTlfX1JuVEd0akZWUHNsd0ktdEpvcFk2b1JLdU9yQVIwMnFqaWxEcFFrVEViNjQyaDVNMG5rMFBjZno5WGU5ZV9MOWpQSHRYVzY4T3BVbTgwUUVCMGQxMzUzY1BwYVdDMTI4c0pNSkZRcnhSTklDUVY2b1RnYndJYk5iOEF3T3JlU01vUXJhWlpy?oc=5",
-        "https://news.google.com/rss/articles/CBMisgFBVV95cUxPanVkaUdGZkRnOG1oQS0tQThNampBQWs1ZlZOa1U1bmRCdmtpQ08zWmdoMXBMck9KejVvZlVlUmNoeTB1dEw1QTk0b3g0dF9hNWhRTTYyUUVQTkJwekg5UE94cFI1SEd2aW5qMldTcUFjSkl2eEg1TDZGLVhPSVdHOEoyTGV6TVUtVXUwcHdnYXREamNzLXdNQzFISmxzczNIeVQ0RDg2TG5BMWdKSFlmX1Bn?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSUtQQ0xWOTJvWUVKR3ZSeVRzZVFPZFIybGZBWWFPMlZWU1JzZGlPM1FZUEJaNXQwTjlfbTB1QmRSbWxLelR2d2RrWlI1Q2lWQXdxVTRac3ViVjB6RWF0ZU80NWpSZ0RMM1IxWm1YNDV2UDVpYmFqb0gzV1VFLWNoUkpGS3N6UjVZcEZmUHM0Z0pNb0VwdU91S1dTamJMY3ZjQmFwUjhILXp5MDBkRGF6UmZGWk1BN1gyN3RWRlBPWUc0YlRxN3ltYmYyZXFzSks0NHd0MkQyVlU4ZnhaN1lGTFp2bW9BQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVFmRjVIQjRZZDNiNE11VXZucng5dUxMajh6M0hfdmxBSHBCSU12SlQ2VERrVnhfNTlsTjQxLU9LemgycGs1SUZSaDdtU19HVlRMRXNpazExUTdudXJhSE1kNmhieVA1WmZ0RjVER3U0X21nWkxXYVFvZXBfXzhzRU1zd1Z2SlBieFUxYkVkU202My1jbzF4Z3E4QWlSNVhxVUN5NmszWkdMV2diMmhhcmwzOE90dHUxbENsMlNKVWg3UmRO?oc=5"
+        "https://arynews.tv/taylor-swifts-secret-wedding-photos-report-reveals-her-biggest-fear",
+        "https://heavy.com/sports/nfl/kansas-city-chiefs/taylor-swift-travis-kelce-wedding-photos-3/",
+        "https://www.cinemablend.com/streaming-news/why-taylor-swift-reportedly-furious-wedding-photo-leaks",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSnFVcmpZVWFGb1Q5V0E5ZGVtbjhoRHB6M1kwVXMwTDV3QXQ0MXlBV0tJVTEwdGJRSndYNl9XaG1GX1JWd0tqRlRybVNyT29PSkdEajg0aXllaFJvVEVLSHpkd0JuWjFmNGNPX2NiOU43VTNGSHg4Y3R6a3p6WHZpeUJyd0p6Nzl1S2Z4ekFXYw?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRjlXTEdvVXJkUjlxZXFwUncwTjQ0ejlzNWQzWUhWbF93aGR1TnpzdUpRM19HOXY1WENmVzF2M3Y3R1dqR012TDZWNGRrcGFJLXNxbGRXT1RyTXo5ekszT1lVZV9UVVEzMTZBR3FWNndFUTNDQURseFZSWjdoVjNqdVg0SGc2RDFaUkU5V2MtaEUwX0JJNmc?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZzZLNFZqOHRwb3JnelFNX2dlX3BZRVd1elNqY0VuZ2paUWljdG9EbUprcmRwRWl6bkVMWkR5Q3BxUV8wbWFSU3hfUVo3UUE3dlVQX1hRX2ZOM1UtYzBMWUJqS28tclpSamlrQjBBQUpuX3FFeTFqaEhMRHRkdl84Ym9PeXc2QmlBc1NnS2hHV1Y5MWVYVl9sMlllNDJpLTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUZkNDJCaVlOV1R1dUNsRUc5dkp6NDQwQzhNazNOQ29BMVp2T0g4SG5YX0RpMzNqeHV5NV91dnMyQTBZUFlJMGE3VVFGMy1MWVN3dlhITkhPN2dZQ2VIM2lvSEJLQ0ktNmd2YjMyWXNRRTNQcjVucENKbnQ4cHZyNGt6TFBwXzBCMGFoUUxWd0JmNlFUekU2VEFGdnZkNjNUdTN2ejlvZnUyM2RjU2fSAbMBQVVfeXFMTWhjeHNJdU9zTHUtdjZ4VkZhZGVwNE5wU3BrOGxJMk5pdTZYSVR3OC1rTURmSG9lTU9OZE5tQ0R3ek5QbnBXbUc4VG1abzFEOHZQTFRhdll0RjhZUU9pSlB6Ym14NTVDVF9LLUtha2pMSGhzY0hSQXZJbXRUX2g3a3JPaGxFckRfeExtdGVCV3o5a2V2R3JqbmVUZ1lISVk2eW9mWF8yOTJ1NGFwTUxyOXVjdUU?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOXzRFaDUybFZiN3Y0QlRpUmhDRVNMTUg4OS1LVWtxN2xYSGIyRjdVSGl3S1h6YllENnRnSGhxaVZuOC0yNVlITkl6UURFWjYwMWgxYmE5S1FVbW5MMnFISkRMLU55cld3YkF5UGxrWHlNcEE4Y0N2OEZMOU9aZnJwd3dsMGNySjJiYW83cEozTEltb0RBNGp3M2NOU1IxclI1cTBubElVMVZMT3pf?oc=5"
       ],
-      "published_at_utc": "2026-10-29T16:01:41Z",
-      "published_at_ist": "2026-10-29 21:31 IST",
-      "first_seen_utc": "2026-10-29T08:00:00Z",
-      "age_minutes": 38,
-      "trend_score": 30,
-      "rank_score": 1.1183,
+      "published_at_utc": "2026-10-29T16:25:55Z",
+      "published_at_ist": "2026-10-29 21:55 IST",
+      "first_seen_utc": "2026-10-29T08:56:52Z",
+      "age_minutes": 39,
+      "trend_score": 21,
+      "rank_score": 1.0626,
       "category": "famous_clip",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "Kim Kardashian"
+        "Taylor Swift"
       ],
       "region": [
         "GB",
@@ -166,6 +232,7 @@
       ],
       "language": "en",
       "priority_queries": [
+        "Celebrities & music",
         "Famous people clips"
       ],
       "google_trends": [],
@@ -174,68 +241,19 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Kim Kardashian Undergoes Surgery for Condition Her Late Dad Also Had: ‘Really Hits Home’",
-        "Kim Kardashian Undergoes Medical Procedure on Esophagus, Reveals It’s the ‘Same Thing’ Her Father Had",
-        "Kim Kardashian's health sparks concern in latest 'The Kardashians' episode",
-        "Kim Kardashian Undergoes Medical Procedure on Esophagus, Reveals It's the 'Same Thing' Her Father Had"
+        "Taylor Swift and Travis Kelce's Wedding Photos Spark New Questions After Reported $30 Million Event",
+        "Why Taylor Swift Is (Reportedly) ‘Furious’ About Those Wedding Photo Leaks",
+        "Taylor Swift 'won't share photos of $30,000,000 wedding for fear of looking out of touch'",
+        "‘Hollywood’s most hated couple’ plan lavish wedding to rival Taylor Swift"
       ],
       "image_urls": [
-        "https://imagez.tmz.com/image/b4/16by9/2026/10/29/b4f1b743e4d5419cbbbb8f85f814314f_xl.png"
+        "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-29T212206.324.jpg",
+        "https://heavy.com/wp-content/uploads/2026/10/Taylor-Swift-Travis-Kelce-Wedding-.jpg?quality=65&strip=all",
+        "https://cdn.mos.cms.futurecdn.net/aeABLztPhmxpRzDCJkoPYC-2000-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/aeABLztPhmxpRzDCJkoPYC-1200-80.jpg"
       ],
       "video_urls": [
-        "https://share.tmz.com/videos/kim-kardashian-has-surgery-to-remove-throat-irregularities-10-29-2026/",
-        "https://ovp.tmz.com/video/e2/o/2026/10/29/e209e55b836e444cb671ceb00a6739e8.mp4"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "845636de8a",
-      "key": "daniel-door-max-open-racing-return-reunion-ricciardo-verstappen",
-      "headline": "Daniel Ricciardo opens door to racing return with Max Verstappen reunion",
-      "summary": "https://racingnews365.com/Daniel Ricciardo has not taken part in a professional race event since exiting F1 towards the end of the 2024 season.",
-      "sources": [
-        "RacingNews365",
-        "AutoRacing1.com"
-      ],
-      "article_urls": [
-        "https://racingnews365.com/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-reunion",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVo5cEpEVzF6enBSUUNqYzRkLUlXX1BBQkh6eXdYZkZYTTY4Z0F1WndLRm5MSTVfTE1sYnpSblEtUTB0dlNNNVdFSVJCWloxWU9kU3pidy16MTdDNTdJcmZuUzhLbFRyTVpQWk5sUkstdmE4ZmVRS3FOVTNpdmNrQWdvSWJCMlotRW82RXh5NlZqRTdmUTNYM25jbi1ycDA?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdy1oSjlKZWxWTUlnUFBQdWdRQk5ZZmpndGpheWYzN25ZaG96cml3aHRoOUxLeF9BQ1dna3p6c0o1R1RSVWJFZTFVRkJvS2N1RUdaVEdkX3BWLTcyaTF3MTF1N29vUWhwcXE3OHdDVkk2SlUxb1NyN1VMUmQxQmR2Y1c0RTZ2T2pMeHMxV2pYVWc3M0J3aERoTHduTDdRVnkxT1hEV1ZQdlA0OWw2?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T16:20:00Z",
-      "published_at_ist": "2026-10-29 21:50 IST",
-      "first_seen_utc": "2026-10-29T11:11:17Z",
-      "age_minutes": 20,
-      "trend_score": 12,
-      "rank_score": 0.9941,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Max Verstappen"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Formula 1 News: Ricciardo open to racing return after bitter F1 ending"
-      ],
-      "image_urls": [
-        "https://cdn.racingnews365.com/Verstappen-Ricciardo.jpg?v=1793273614&width=1800&height=945&quality=75&crop=5185%2C2723%2C0%2C369"
-      ],
-      "video_urls": [
-        "https://youtu.be/F_-XdXIsn7s"
+        "https://www.youtube.com/watch?v=cZKgEhA_KyA"
       ],
       "has_video": true,
       "youtube_videos": []
@@ -244,35 +262,35 @@
       "id": "131a48edc1",
       "key": "kahan-noah-sets-stadium-tour-world",
       "headline": "Noah Kahan Sets Stadium World Tour For 2027",
-      "summary": "https://deadline.com/2026/10/noah-kahan-2027-tour-1237208244/Noah Kahan has revealed plans for a two-month 2027 world tour of stadiums dubbed \"The Last of Bugs.\" Separately, LL Cool J announced a Las Vegas residency.",
+      "summary": "https://uk.news.yahoo.com/Noah Kahan will trek across the great divide and around the world next year. The singer-songwriter on Thursday revealed plans for a two-month world tour of stadiums dubbed “The Last of Bugs” that will...",
       "sources": [
+        "Yahoo News UK",
         "Deadline",
         "Houston Chronicle",
         "10TV",
-        "Nova.ie",
+        "K-Jewel 99.3 FM",
+        "Detroit Free Press",
         "Variety",
-        "AL.com",
-        "Yahoo",
-        "NBC Boston",
-        "Channel 3000",
-        "Verge Magazine"
+        "Chron",
+        "inmusicblog.com",
+        "Buffalo Bills"
       ],
       "article_urls": [
+        "https://uk.news.yahoo.com/noah-kahan-sets-stadium-world-162530302.html",
         "https://deadline.com/2026/10/noah-kahan-2027-tour-1237208244/",
         "https://www.houstonchronicle.com/news/houston-texas/trending/article/noah-kahan-tour-22500622.php",
-        "https://www.10tv.com/article/entertainment/music/noah-kahan-world-tour-ohio-stadium-columbus-concert/530-e43d5e37-a1ac-4cc0-b378-4526365aee7b",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pTXllaERvSC03bU9vU1NiM3ZFaXBiRUpxejVpQ3Y0QkpfdzZCdjBjdjI1Mk1iOVBodTdlWk51QWFQOF96VTRtVk5qbDZPOEoycW1KWGRKeUlMdzMxSXh2QmZMUTNWNmt1WlFINUl0aGMtTHJHc2hHMzJB?oc=5",
         "https://news.google.com/rss/articles/CBMibkFVX3lxTE4wRFlzODlWSllvc1lPRUlCZ1hTZjlVVE85X3VhR0dheTJpTzY3NGtWbFNrRHBxRFlJRldtZDZROENQV0o4NWwtaGFJc1hyMTc0UmhYSnE3TE14dzdQOGVfNUwwR01Ha2dPaURWbHJR?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxQMHJXeGk3TnIzdFhVdk5jczJaY2Y0VFU1R3pxWlpaeHJBcEw2a2tYZi1WOWJ2TVNWWmJramZqUmRoZFJDVlRKa1RidXd6a09mVnRRWnRpYm1YNHE3VFVqNWw5QTBQQmdJZHFfbE1IdGk5MFB2ZURnSmJFQVN4cTlxX04ycmZTbmVXUkRLcTZ3dFJKWkhYS0lablJOZDVZdw?oc=5",
         "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUjd1MnVEVzJQbEFSbkppNE9UcjBmX2pNN1cyWDYwMTFzY3RLdklUTks5NzZETVJHbzd6dWwxWllueHVXNURhNS1DR1NIaHQ5dWJ0Y0x6eExiOXRjZXlzMzJLYUtYLWEydnhIcUhvemNQSjVVeld5TFNhYmcwMHlHelJkM20wV2hPcVVkczRHcDBuRW0tSHFydTVzTllrTDZrNndCMHJVMDF0MXpDLWZiM1I0eGxDc0ZXUEJ3MVJBZEl1S0JmMUxmVTBfTzgtOTRDejFHeEFlekM?oc=5",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1paUlsSEFzWmFPcTRETGxkZXlmV3ZjTFlvYVV3UnJZaHZQaFJLeklqaGN4N1EyTzRiaFdmQlZzS1JoUElTZFI5amhPR0hlQ0VaNE9NYjJpNVp0LUlfTVRaVUZOczJoaXpzNk1r?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZDZpTjB3bVRWQ2FvNHExazJoM000YzROUzJNS21wWGFJbmRwOU1iVVJEeWdwMVpLTEg0aDREQTRVV1RUMng4SkVYT190Tkc5MDc1aW1VcXpRZ1BPenBYOTdabV8waXJuZFFVOWpvbTQxT0JFWnlQSktBRGVmcGVhZHFR?oc=5"
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3dyOS0wU01DRVF6RnFSdUZjSkJXT1otNWZIVnhFeTBiR1FDZDU3UXhTcHJGaURkeUJzTndkcHN5U1dSV3NwZ0tZbUNfYkIzdXBJSFVvVGp4WnJFYmtFSmJlS0NNTFBqSl9RUUdjSE1RUS1WYTREOW14Nkhxdkphb0hJOUoyc0lfWlN6cnVuY1ctMXMxZEdTdzBEdFQ?oc=5"
       ],
-      "published_at_utc": "2026-10-29T16:25:00Z",
+      "published_at_utc": "2026-10-29T16:25:30Z",
       "published_at_ist": "2026-10-29 21:55 IST",
-      "first_seen_utc": "2026-10-29T09:00:40Z",
-      "age_minutes": 15,
-      "trend_score": 30,
-      "rank_score": 0.9875,
+      "first_seen_utc": "2026-10-29T11:21:10Z",
+      "age_minutes": 39,
+      "trend_score": 32,
+      "rank_score": 0.9675,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -293,10 +311,12 @@
       "other_headlines": [
         "Vermont artist Noah Kahan to come to Houston during 2027 world tour",
         "Noah Kahan announces The Last of the Bugs World Tour with Ohio Stadium concert",
-        "U2 Announce UK And European Dates For Mammoth World Tour",
-        "Noah Kahan Announces ‘The Last of the Bugs World Tour’ in Stadiums for Spring and Summer 2027"
+        "Noah Kahan Announces Dates For 2027 Last of the Bugs World Tour",
+        "Noah Kahan books Ford Field show as 2027 world tour dates released"
       ],
       "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/4ab055ee06304eeff7d88f8bb70002370da6d09a143550cd447d96b44c70fd99/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F0b2b01b8879d3f664ebca5b3e6d2df71.png",
+        "https://s.yimg.com/lo/mysterio/api/25e190906f9faa0fed52d59669c21008e0817e9c091f327e8626ff6384fa33dc/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdeadline.com%2F0b2b01b8879d3f664ebca5b3e6d2df71.png",
         "https://deadline.com/wp-content/uploads/2026/10/Noah-Kahan-2025-Glastonbury-Festival.jpg?w=1024"
       ],
       "video_urls": [],
@@ -304,49 +324,232 @@
       "youtube_videos": []
     },
     {
-      "id": "33c0f683f7",
-      "key": "17-brad-bus-cricket-defend-filling-old-paisley-swift-taylor-then",
-      "headline": "Brad Paisley defends filling then 17-year-old Taylor Swift’s bus with crickets in 2007",
-      "summary": "https://www.celebitchy.com/1004785/brad_paisley_defends_filling_then_17-year-old_taylor_swifts_bus_with_live_crickets_in_2007/Taylor Swift became the youngest person to be inducted into the Nashville Songwriters Hall of Fame on Monday night. She was introduced at the ceremony by Brad P",
+      "id": "518dbbc48d",
+      "key": "3-bucket-dune-easier-make-popcorn-sandworm-share-two-‘-’",
+      "headline": "‘Dune 3’ Popcorn Bucket Has Two Sandworms That ‘Make It Easier to Share’",
+      "summary": "https://variety.com/2026/film/news/dune-3-popcorn-bucket-two-sandworms-1236934104/AMC Theatres unveiled two new designs for the \"Dune: Part Three\" popcorn buckets.",
       "sources": [
-        "Celebitchy"
+        "Variety",
+        "The Hollywood Reporter",
+        "IndieWire",
+        "A.V. Club",
+        "Yahoo"
       ],
       "article_urls": [
-        "https://www.celebitchy.com/1004785/brad_paisley_defends_filling_then_17-year-old_taylor_swifts_bus_with_live_crickets_in_2007/",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS25LUWV1bG1DaElsQk5LTmp3SzFlT2o0SWFzYWVvWURlZXE1dFhudnJoUmdFbGhpZHYyOElTVXA3N1VDWTM5SjJOeld5S2JGRWNJX096MnhWM21jSXB4MzNiRW5Ua1U5SW9vYTdRMjhFdTl6dmZRamFfdDFENTBSaEFkTFRuREl3MHN2eUVQQjJhWTdvX0RMd0o2QldaY3lvX3prTV9oUVpvTDJaNmhVUGNSbTNqeGRqSkJZZnZsNjJnSGdG?oc=5"
+        "https://variety.com/2026/film/news/dune-3-popcorn-bucket-two-sandworms-1236934104/",
+        "https://www.hollywoodreporter.com/movies/movie-news/amc-dune-sandworm-popcorn-part-three-1236742572/",
+        "https://www.indiewire.com/news/business/amc-theatres-dune-3-two-headed-sandworm-popcorn-bucket-nsfw-1235224561/",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRzlCRXlQOEpnb25GN0FqaGtqdU00LTJCTWtrN0pXNjZvcEVsa1lWdnprOVBKMkZSR3ZpSlQwZmlNVWg0U2ViWEJpbkV2YUF3b2xYcVc4c2hPc2JDUjNEMk1vRnpFUkFzWm9KY0RuN3dSUllZcDJ3MG5JMV9WeFFHRWplLTU4TDlwcWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ1l1UURUY0p2SGxGOXdSYno2b1VCS2VyM0FsT1dJYnY0SG9MRzF6a3BLNng4N2FIelZ4ZjlJb2pTRGt6OXRHMF8ta3Mxd0lTelFxdjJtbndVYV9tUEhyTjNBa0hPbUhoMThSY1ByOGFCaU9abzR2SGFkdkVGN2IzdlVSSklacHRwdFNzZ0lwRVo2RVZpLWxkcVU5a0cwb2NhU1E?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaVVMUzNUZFlhVmR0WDAyUWJhRlRodF9HNmxsZjVVWS1seERmWWtDSk1sWHlaU1VUVkVtLUhBdlZNaklReDhGdWIxVkE3bERrSXRRamtQUlMtc2diZjEtY2N5RWhicXFWRTBJNGRnTzQ1NGlQSnY4dzR5MGNXMmpUcl9acEl3UTBKQk5fOXlER1UzbWxicW5jXzg1aDByRjN6RlBKdmdVc042bzhBRkpubA?oc=5",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTE9DNkViMUtQek9vQ210a0dqNzZkbzR2MUkxSnVyYk5POV9WRXY3Vjl3bGNGa1U3TGs3eGExTXMyRTg2TVVzUWQ4Snl0bXJuWTZveEdUWC13WE9tbm4wd2ttSjAtdVc0VU5SMVRDQXVoZw?oc=5",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQzJpakFsMWlldFNZZ1FNNmwwY1RHakVxUG5iemxjWnVDbE44X19ENzNTZzc3TThCRTk4YnlJSjZQRElaMy1QV3NmVUhhdDNIRnAybXlLTzBtQ2IycElEQmVwVV9EUk9idGZRS3o0TVF2S2Yyb2hUVW1xcXlhNkpuNmI0OVljWkZOQzZ5T2x4VUlaODlu?oc=5"
       ],
-      "published_at_utc": "2026-10-29T15:35:50Z",
-      "published_at_ist": "2026-10-29 21:05 IST",
-      "first_seen_utc": "2026-10-29T15:35:50Z",
-      "age_minutes": 64,
+      "published_at_utc": "2026-10-29T14:53:00Z",
+      "published_at_ist": "2026-10-29 20:23 IST",
+      "first_seen_utc": "2026-10-29T14:53:00Z",
+      "age_minutes": 132,
       "trend_score": 11,
-      "rank_score": 0.9447,
-      "category": "sports",
+      "rank_score": 0.9594,
+      "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
-      "famous_names": [
-        "Taylor Swift"
-      ],
+      "famous_names": [],
       "region": [
-        "GB",
         "US"
       ],
       "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "dune 3 popcorn bucket (US 500+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://variety.com/wp-content/uploads/2026/10/Double-Sandworm-Collectible.png?w=702&h=395&crop=1",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQerQpheazysnaMH2WWAyQvFmvc4opsr_I-3UYCO8kh5eXddtsydbLUks6SCcU",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSt5pRxG2D5ED3xvop-0qgf4l3InunuVGCcsBB0BmgfanjCsUitbJ22WwtrAcQ",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSp7Urb-60ZAY8TxcviAKpsphFHlYIeD9zwSqMhDJbtnENV9XKPhltK9ymiiw4"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=Rl_Xhvgkxrk"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "3dcc9cf3d8",
+      "key": "all-ballon-belong-fans-football-poll-ronaldo-time-winning",
+      "headline": "'Football belongs to the fans,' says Ronaldo after winning Ballon d'Or of All Time poll",
+      "summary": "https://morungexpress.com/New Delhi, October 29 (IANS) Portuguese football great Cristiano Ronaldo thanked fans around the world after his maiden Ballon d’Or triumph in 2008 was voted the greatest victory in the award’s history in the B.O.A.T. (Best of All Time) poll.",
+      "sources": [
+        "MorungExpress",
+        "The Tribune",
+        "India Today",
+        "Gulf News",
+        "The Times of India",
+        "ESPN"
+      ],
+      "article_urls": [
+        "https://morungexpress.com/football-belongs-to-the-fans-says-ronaldo-after-winning-ballon-dor-of-all-time-poll",
+        "https://www.tribuneindia.com/news/sports/football-belongs-to-fans-cristiano-ronaldo-thanks-supporters-after-winning-inaugural-boat-award/",
+        "https://www.indiatoday.in/sports/football/story/ronaldo-reaction-beats-messi-boat-fan-vote-football-belongs-fans-3027914-2026-10-29",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYWxqWFNCTUFXOTRmMllPcTRZcldab2M4cmpHSU9tY1VhTHdUR2Q0MjBRX2pGbGN0THc2US1mblZpcUNLRzg3OTU3OUxnX0liSUIzUEdUTFVXTVlrWXpYc3lnS0NXSTJ3MldUeGN1UkdxS21pNEpiRGdhNjR5aGJzYmdZeGRGUUlYRXlMcktKRFRHQXZjMUthNDRjcGNabzNVNU9HNWFpejFzbGgzcXc?oc=5",
+        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdl9qRUd0OGtmN0xHWWE5ekkyT0JtakxicnVUQjFtc2J0eUxINEx5OFB6bm9xRlloZXFCSGE2Zm5nWjhzNENqa1pLUVhrU3pLaTJSUFpjNF9KLW1zczJFT24xVXVDWHVRcXhDaDJkRldySzA1bW0zMDB6dWN2WU5QSzhjVkFIRWJvOW94a25GSmNOeFpLc0xQUDlQZnB3SXRzRjNiN203Q0JIOEhjS0YtaEs2RThiRVAtVjhVZkxGMHc5dVlZcmtPV2JWN3FxOUwxZ0gw0gHXAUFVX3lxTE9rMGRzbXZOU1h4TkRjbzc2ZFdLbnE5YzJOTGJ6eEJTRnFCMW01bFZRcElHa09RaEFJOW9Nd0RGQ0FXelJNb1RsMzdad28zUWxXOWh5VnJ5bHd4T2JBc2ItalFqSUNpSlE5NWFVVmJhZ05VLVAxMG9YdEdQZF9GdnFVMHBHMVluLU5pT3JiOHE5encwbzZnbjNJNEQ0b1RTRHFZSFlsQnIxRXFtcTN2bFFjYUZMNk1OWjJ1NWhaNm5JTUlIZUMxQXVvbDBMdE5UNXltWjNkZ3Fr?oc=5",
+        "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNUlmM3RzcXhJQ0YwV1hFbHFrNXU1azdSVUJ4VExocGNDUUJjbTczV0lIWnpSTTFuaEstbnk5YjZHTkJYbW1aWXVveV9mcEJfd3VONWY5OTV5VV95Wk4yVGtoZ2sxY3lsR0JHWGZTcXRPNS1qbGtIdlhrM3lPMWlVMWFKRXZFNloyNG1HczhCUmpwNVJ3cWd0V0FKY04wQnZISlJPcHgzSEQwV3ZpVUt5U1M2ZnhUNEp5VUpHZENMNGdRZ1Z5eV9MNkhuMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSS1oZjMxTmlkTjE4OFAySGdBOU1yNnlHQnJPaFRDaFpQRjBtMnJLYzZTREE2Nkxid3BJLVFvTTRHTG9uLUJoRHlRSlVVX2Etc3ZhNEhSdTZpbWhKbm1JdzlZYTVteDBWSHVIcXplQW92OUNod1pXMDVBUl9qV1RteUxmV0xQVWo5Mm5IU0NvTkZaMlRBcmR3M1RsYXhKaUFxdko0Uk55dlBlclF6c3FSQTdURlhVQmhrbXIwMU9BdWZpUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcGQtcC1rdDJmSzI5NW5EUXk2cnRsLWlDdG5COEgxbGI2N1BWUWNuRHdnVW1kWFN6SVN2cHdxcWhYdUV5UWJNNjJteHQ0QWJ2bUFOSDUyUlU4X2E1b1JWOTlwSkZSSnhpeU1sZktNVHg5OFhsUTdqTmt2bzRYdGM0ajQ1cXZqMXZUZS1IaXo3TFh1dXU5Zmk5Q0trRWRMUVo1S1JSWjdDeVRxdjJtMzVuSlRTcEZQT0pkdkwtMmFiZmlUcFFTN1NwVVBfY29ScXQ5SXZTdTRuRnY5QVhKeHR2a29pSHBydjhpeVNXd2wzNVNmQ29tc2pTZWZyU0tOZHVIcF9CMGxCVXNWZkprMlJQR3R0c9IBmAJBVV95cUxQdzdqVXNONkNYcTRqemZ2MDdCUHh4Z3p0clM4S21nSy0xcUdJYzROaXRiZ2pyWmhhb2FSdk9YczRTVlhPQi1iUXFjREtRc0hoSEhLWVBJTmlaeXpaT2lfUVJtYzZJY3RoVGVSU3VlMEtOV18zRWhYQWpwLUN2Tm1SYWVobXdkclBtdkc1S2ZQc1luYTRfXzlxWl9Cbm95bmRwaHp5YVNFV1dqZE94aGtmTVVnczQ4T3ROQVFvN090S2cyMUp5WVIzNkdVdmJXRzltT3QyMkNxaGIxWjcxYXlYUmdXenduVUN1NlF3cTBsTlRuUDducDFqd08ySjVzcXI0cl9LblBUdWZfb2E5X1dwVFZZdGhybGlq?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T17:00:49Z",
+      "published_at_ist": "2026-10-29 22:30 IST",
+      "first_seen_utc": "2026-10-29T10:13:00Z",
+      "age_minutes": 4,
+      "trend_score": 18,
+      "rank_score": 0.9483,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Cristiano Ronaldo"
+      ],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
       "priority_queries": [
-        "Celebrities & music",
-        "cricket"
+        "Famous people clips",
+        "football"
       ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "Football belongs to fans: Cristiano Ronaldo thanks supporters after winning inaugural BOAT award",
+        "Football belongs to fans: Ronaldo's message after beating Messi in BOAT vote",
+        "'Football belongs to the fans': Cristiano Ronaldo reacts to BOAT win over Messi",
+        "'Football belongs to the fans': Cristiano Ronaldo reacts after winning Ballon d’Or of All Time poll"
+      ],
       "image_urls": [
-        "https://www.celebitchy.com/wp-content/uploads/2026/10/avalon-1139132787.jpg"
+        "https://morungexpress.com/uploads/2026/10/75113569_1793293102_202610293995979.jpg",
+        "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTEzZmFlNmUwLWQzYTktMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+        "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/cristiano-ronaldo-292959602-16x9_0.jpg?VersionId=k3sVVjNlgmVC1.O5ukec_JSW1SeP1yqO"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "bf430ec7cb",
+      "key": "adult-advertising-diaper-jenner-kardashian-kim-kris-stop",
+      "headline": "Kim Kardashian stops Kris Jenner from advertising adult diapers",
+      "summary": "https://www.femalefirst.co.uk/celebrity/Kim Kardashian stepped in to stop her mother Kris Jenner from advertising adult incontinence products.",
+      "sources": [
+        "Female First",
+        "HOLA",
+        "People.com",
+        "AOL.com",
+        "Yahoo"
+      ],
+      "article_urls": [
+        "https://www.femalefirst.co.uk/celebrity/kim-kardashian-stops-kris-jenner-advertising-adult-diapers-1452890.html",
+        "https://www.hola.com/us/celebrities/20261029932071/kris-jenner-adult-diaper-deal-kim-kardashian/",
+        "https://people.com/kris-jenner-buzzkill-kim-kardashian-made-turn-down-offer-adult-diapers-spokesperson-12199067",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbWZhaXREM1poOTZvZ2NRV3dJLXBUVVNSajdBR2FoTEo3aGhsbW9OZ1A4ZkRBbmtMMWtHbHV5UTlSaWwyLW1MazVmd0llSWh3LXJDQ3RLYjlaYTF5ejMtcmVxd3d1Q1dvNVpDWTVHbTVzY2pJeXFsdm13Tk9KNWJrSkZQdkc2SUxteTBUVmllZ0hTUENsZUJpMUFYeVdINnBKUnlXeVhodG5WZ2hxcGNkWA?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYTBveTBJQUVFbGstTzRhVFA3SXM4NTNYY1lKd3pjUk9jMUp0Um5HSExOeHBFN1hkb0lvOUo1QW5ZWjB5c0oyTkFCeWN4QUhablZYVEo4RVFVYzJ4VlJ0YUVmNGZjZ3ZLS254RDNFMmMwVG42NXI1ZXlMQlRCVWtacm9UV3k2QUcwNjlqRGx5ODdrTUFhRkhkamlrMng?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUkc0RHJpMDBPYjNZNGxGMDdBelY0WExyeWZmWm00Uy1sQ0szMW0tbkZYQkJZRFhvSTZHTXZ1cDF3ZngzOW1fVjRxX0tJUVBuY09RMmRCc1RhQmV2dEJ1YmdMWVZzbEdPLWdVRmNTaHVnczRLWHMxWHBMV2Z6MFZfdm9tMkdZal9GRWoxZm42Y210b0JlSlRiVHFuM0VrRzdsYlhZMHMtbl9xSE5mb01wVg?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxONk45UkNTSlc3TFFnN1lKT3NCMHhkQ1ZwWFdWVjJndnphQkx0SEctVjFhZWtVM3ZEZjBQWlpDX3lEWUVHOFlLNWozS0Iza0QydGFtMURsdzJtb2JrVWI0RjVaTFRaRU1zeWc3dkpobjB5THJZMnBYbWxVZW5tYThNRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRG1MdDRlTXY4YTJVSHAzWE9SbERYYkFJOG9wMnBlb1dNMVJZaTZKd2hGUlRTcndlWEZzTlZSUm9WOWllQjJLMXBCV2JMT3ctQ2Jyem1Ob3ozd29CQ1RYU0lGcUE1ZWM0aW5rWnV2Y1MxV2RUeEFob3ZTc19ONGRjMklEMA?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T17:02:40Z",
+      "published_at_ist": "2026-10-29 22:32 IST",
+      "first_seen_utc": "2026-10-29T11:00:00Z",
+      "age_minutes": 2,
+      "trend_score": 14,
+      "rank_score": 0.9121,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Kim Kardashian"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Kris Jenner adult diaper deal: Kim Kardashian shut down the surprising endorsement offer",
+        "Kris Jenner Says Kim Kardashian Made Her Turn Down Offer to Be Adult Diapers Spokesperson: ‘Such a Buzzkill’"
+      ],
+      "image_urls": [
+        "https://www.femalefirst.co.uk/image-library/partners/bang/land/500/k/kim-kardashian-and-kris-jenner-have-lost-a-bid-to-keep-a-set.jpg",
+        "https://www.femalefirst.co.uk/image-library/partners/bang/square/500/k/kim-kardashian-and-kris-jenner-have-lost-a-bid-to-keep-a-set.jpg",
+        "https://www.hola.com/us/horizon/landscape/1200/3a80af33e657-gettyimages-2301801851.jpg",
+        "https://people.com/thmb/0Xh2XiDDJhrUJp3nCZtuaTsKn9k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(742x344:744x346)/Kim-Kardashian-Kris-jenner-102826-9e4ef8f9b9ce4df6be417363bc1e3b4a.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "d2e156e63a",
+      "key": "antonelli-days-hit-illness-kimi-mexico-potential-title-triumph",
+      "headline": "Kimi Antonelli hit by illness days before potential F1 title triumph in Mexico",
+      "summary": "https://www.planetf1.com/news/Kimi Antonelli is closing in on F1 history, but illness has forced the Mercedes star to miss his media duties ahead of the Mexico Grand Prix...",
+      "sources": [
+        "PlanetF1",
+        "Grande Prêmio"
+      ],
+      "article_urls": [
+        "https://www.planetf1.com/news/kimi-antonelli-illness-mercedes-mexico-gp-media-day-absence",
+        "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1BOa0JnTGNJMjVpVGc2RTltelZJVWtkZDUwTjE5bENNTFRITUlzOGRaOGl0ellUaGgydElGbjU4di1CeXBFRFFhdVZYNTZfWlZWUmN5d1JXSTltTzVyQ2VEM0FQRmg5OWp2N0tReVkzRklKTk5ESmRPU053cHh3TWtzenVfc2hvMGF3RVUwOHNPeTg?oc=5",
+        "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmVjRTZfVnFUX1dmNUVJalpyZXp2VklpOWl5VHdKaEt0dWFvLUNQZHQ2V2dSX0lROGdFRTRXR3NGSUExbk5HMWVoeGIzUlpWTG53ZmRqRVl3YkJ4VTRCTG9QREkyYXR2NnRLLTdXQ2xGemVseHgyNFBlcVo4czRWSUVQdUF5aWZmWmstUDJTdmRVUWRhVHhSRzVZc1JIdWZPWlIwTnBNX2pQUUFqUjV3X1l2YkFpcGZ0WDBrc3NB?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T17:00:40Z",
+      "published_at_ist": "2026-10-29 22:30 IST",
+      "first_seen_utc": "2026-10-29T16:45:00Z",
+      "age_minutes": 4,
+      "trend_score": 12,
+      "rank_score": 0.8575,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Antonelli falls ill days before potential F1 title celebration as Bottas also misses Mexico media day"
+      ],
+      "image_urls": [
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F28110110%2Fmercedes-kimi-antonelli-2026-singapore-grand-prix.jpg",
+        "https://images.ps-aws.com/c?url=https%3A%2F%2Fd3cm515ijfiu6w.cloudfront.net%2Fwp-content%2Fuploads%2F2026%2F10%2F25202756%2Fkimi-antonelli-f1-2026-world-championship-1320x742.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=oMSgNhJN0j4"
+        "https://www.youtube.com/embed/GwRVKeuNCzU?si=h-3eOV_EINquKn9d"
       ],
       "has_video": true,
       "youtube_videos": []
@@ -357,10 +560,7 @@
       "headline": "F1 Mexican Grand Prix schedule: Race start time and TV coverage in Mexico City",
       "summary": "https://www.independent.co.uk/f1/F1 returns to the Autodromo Hermanos Rodriguez for round 19 with Kimi Antonelli set to clinch the world title",
       "sources": [
-        "Sporting News",
         "Crash.net",
-        "Sportstar",
-        "Yahoo Sports",
         "Motor Sport Magazine",
         "The Independent",
         "www.the-messenger.com",
@@ -368,27 +568,24 @@
       ],
       "article_urls": [
         "https://www.independent.co.uk/f1/f1-mexican-grand-prix-gp-race-schedule-start-time-mexico-city-antonelli-b3075602.html",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaVVDY2tBZFlQdFJUWHQtQXRVVk5TRGI5U1RhYWkxYXQyQUpTVHppNEd0OVVCRXhKU3cwRkV1ZWx6S2MwRUU0ZkdnNV9YbFVPZlpyMzRfVnpvelBYMVk4R2JpUU1pbFJWY2lTeUc5TnJKVWR4YTBnbjMwNXJMa3IzUzlWR0RfNDFkeVNPTjVOX0kyUUFPSlVMUF9wRjhDY0t1bWtTVWNjTEtRd1luR3RLbERvRm9PRTRyMjlaaklkaVNPQ0JQRWF1M0FBU1RqWk1xdU5rR2NVZEw3ZVJDS0VHY2NXSQ?oc=5",
         "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlpWLUFzZHJIU0lyNG1qOEtGSG8zYWkzTnVBUHpyVldLYlpvbng4WkJMOUlOSFM5R05Db0JvS1ZnQXo1aHlmRmhxMHRlaTBYOVVwTFpsZnUxSWZUSmNpOUd6U3EtYnhKTGxXLWZHaTBwN0luRERObFE3NDA1b3hUNU5EMmF0NlZtZ0NzMXZMTkMxdHNURElkMUkzb3ZRTHdXai1KUjdzRTZMRHc?oc=5",
-        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdFpHaDdyZ2N1NGdXSHVOeEdwRDJST2xkSVhlN2dVYzlSa3RidDkyTFBkSHY5RkNmb3VLU3ZLcDhGYkhyOWo4OXhOVDd1NjlmTzlFRlBqNExzNGZYRjB1RC1iSTVGWlc3ZWhPaHZGM1p6LW5ydkxERVJaTzVac2R6eU9FSDJHQlVVQ196empTNzJSVUpiYmcwV1V3UWpjQjJWQlFXY01UVDFtUkNxNDk1c0JGa3VxaElQcHVHRlhwbnhGVzZJZnfSAcwBQVVfeXFMTVNVc1RPZThXMHVMMlNUNzZsMjNENmM5NVhoQ1BmZXFidnVHQVE2QVRUbUNtcVl4RHJ4X0FLTzVzX1JaNDVEMkJuN3A2WTYyTTdHdkpRU3QxdlRYYzc2cFhwOTZxVkhXNHZCWkhXN1lMb1hWNVdPN3VrVGVuTWRtOGpVNEY5eFljWUduZ1dzRXItdzJ5TWlmTFdnQkxwTmU2c2lSTldwX3Z3dHBkVVZTRjgxYWM2S0NGS24tTjNVLWo1a2JhdngzemI1RVEy?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRl9jU2xTdGxGT0pYbU01Tzl4czRYREt1VGY0NXFrdUh5YkhlLVZfWVNucWNjU3R6Y2NWcmlSNDFBMEk1NmVYcURDTEsxa0QxdUFYSDc1U09YLWtDUjM2UDc2ZHhya0kwTlZhRUxIMkhtMGNBWTJVMzhDZ0RsenhfYzhB?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY0JaSWxhN2NobGF6ZDh6SHV5SVNsVWp5Mnd0aVk4NENMS0w3TzRlUDVnTTN2SkdsRnFnbl9UaVZ2TDlxYkZDU094LTlURlRHUC1SOE1qRTFwZTZmRlJhaWwtendlemJfUzRiUzVTd2thaEtFekd1V2tUaXM5OVFkU0ZiR1BlYWhsUVVuV3VfVnBMZDVlOXhxVUoxMk54dFJPa1htd254dml5cjFkYV95WkFOSldjQ0NHWUR2c2FkNld1ZTk2bnVFeExB?oc=5",
         "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaTZTak5mbktTMUEzLVBLb2ZHTWdRZ1Y4UlZZdTA0QW9SZDlUTnJTUXRZTW1RQlpOOURUSE5td3d4WHpER3hqNW9aaFIxRTlxV3NuOU9QZ2xYWktucUhYSUtVcXU4T0FobnpPaS1TUHRuYVRQc1dZTUdVcTc0bFBxcTJKT1pYRi1wUG9KQ2k1OXpqZTRUSDJvendET2JNczlRNUdTWVRla0JiLXpLR000YmVoNnZDd3MyTFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVNESXd0dkl3TnBxYndlemJvWmFRTnFpYTA3ZW96TDM0Y3h1ektBbnJyWlliTUtnLVJ5RHNac2lhMzBETUJUNF9WaE10cnc0NVB2U0xIZVRibTRWaGhmQW10OUVjc2x4YnRVU0t3TkV6R3FrQ1Y3ckZ3TmlBNkZwb3BJMUpBUmJtcF9sRVJtTGI4N3dZdFBQUVdaMzMwckVCZ21JRXNUc1dWVFBFdXY3YXo3MHF5aVFRU09v?oc=5"
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSVNESXd0dkl3TnBxYndlemJvWmFRTnFpYTA3ZW96TDM0Y3h1ektBbnJyWlliTUtnLVJ5RHNac2lhMzBETUJUNF9WaE10cnc0NVB2U0xIZVRibTRWaGhmQW10OUVjc2x4YnRVU0t3TkV6R3FrQ1Y3ckZ3TmlBNkZwb3BJMUpBUmJtcF9sRVJtTGI4N3dZdFBQUVdaMzMwckVCZ21JRXNUc1dWVFBFdXY3YXo3MHF5aVFRU09v?oc=5",
+        "https://www.youtube.com/watch?v=N5lOGVMeHK8"
       ],
-      "published_at_utc": "2026-10-29T16:06:59Z",
-      "published_at_ist": "2026-10-29 21:36 IST",
+      "published_at_utc": "2026-10-29T16:04:04Z",
+      "published_at_ist": "2026-10-29 21:34 IST",
       "first_seen_utc": "2026-10-28T18:00:25Z",
-      "age_minutes": 33,
-      "trend_score": 21,
-      "rank_score": 0.9176,
+      "age_minutes": 61,
+      "trend_score": 16,
+      "rank_score": 0.8529,
       "category": "sports",
       "section": "top",
       "source_type": "news+youtube",
       "famous_names": [],
       "region": [
         "GB",
-        "IN",
         "US",
         "YT"
       ],
@@ -402,10 +599,10 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "When is India vs. Pakistan at Hong Kong Sixes 2026? Date, start time, live stream and TV channel details",
         "How to watch 2026 F1 Mexico GP: Free live stream details and start time",
-        "India vs Pakistan live streaming, Hong Kong Sixes 2026: When and where to watch in India",
-        "Hong Kong Sixes 2026 ground sizes in metres: Tin Kwong Road Recreation Ground boundary dimensions detailed"
+        "2026 Mexican GP start time: how to watch, live stream and F1 schedule",
+        "Formula 1: How to watch the Mexico City Grand Prix on TV and what to know",
+        "Extended Highlights | 2021 Mexico City Grand Prix"
       ],
       "image_urls": [
         "https://static.independent.co.uk/2026/10/29/12/2242844125..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
@@ -427,185 +624,6 @@
       ]
     },
     {
-      "id": "06b85ffaf5",
-      "key": "concert-delhi-diljit-dosanjh-jln-metro-midnight-run-stadium-till",
-      "headline": "Delhi Metro to run till midnight for Diljit Dosanjh’s JLN stadium concert",
-      "summary": "https://www.indulgexpress.com/entertainment/celebs/2026/Oct/29/To facilitate the movement of spectators attending the Aura India Tour 2026 concert by Diljit Dosanjh at Jawaharlal Nehru Stadium on October 30, the Delhi Metro",
-      "sources": [
-        "News18",
-        "IndulgExpress",
-        "Deccan Herald",
-        "Hindustan Times",
-        "Moneycontrol.com",
-        "NDTV",
-        "Pragativadi",
-        "India Today",
-        "Daily Music Roll",
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://www.indulgexpress.com/entertainment/celebs/2026/Oct/29/delhi-metro-to-run-till-midnight-for-diljit-dosanjhs-jln-stadium-concert",
-        "https://www.news18.com/cities/new-delhi-news/diljit-dosanjh-delhi-concert-metro-services-extended-till-midnight-extra-trains-on-standby-10404004.html",
-        "https://www.news18.com/amp/cities/new-delhi-news/diljit-dosanjh-delhi-concert-metro-services-extended-till-midnight-extra-trains-on-standby-10404004.html",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNzdtNE84eXRwaGRvbnpDaWZXb3VKRmYzX0lNVXVzS1ducjJla2hLYXJ6R2k4eTFGSWpGbTlVM2tHdk1vblZUZGMyWkUxUktqNFBYNzN1OGtaXzRpYWpJNzJIaHRtZlJaWWk5S01Sc0N3NU5mbjRSY2taTEhxeXU0c1FEVHZCOHJsM1dfa1hlSWNiSUFtQUNjMjBoWEl4SGxXUXVJY19MM3JBT0xpS3R2Mkc4aDdBaEIxTUZJbldBVUsyMDF6clJ4Qm5QZUZYLVJkVGdLR0Z3UlNLcW5YMHVmTG5BSdIB6AFBVV95cUxQQXRuRG5Ibnl4b2JPazRWYnVhN1FxSk56MnNqS0NQTzN0Y1dnQ3gwaVJBZTBmZXpkVC0yR1hZM1daMEx6dV8wdUtmNHp0d3ZsRVdZTWVpX3BKcUgyeEgydTQ4UUZZdmU1cWFuOGZaRGlfQ1FnVjV1ejFrdVBNUFBPbk1Vd1ZBSnJXNDRJeUdlWVM1bWhQbTBVMjNNYWdQSV8tODB0YjY1aXhGUnJOSHZGeWZpOWNlMk9oMlFndEE3SE0tT2pzWWk4YWRDbF9DUkpSZEtiTmRndE5JTzVQV1VNbFI0SDJTQXNU?oc=5",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQXRuRG5Ibnl4b2JPazRWYnVhN1FxSk56MnNqS0NQTzN0Y1dnQ3gwaVJBZTBmZXpkVC0yR1hZM1daMEx6dV8wdUtmNHp0d3ZsRVdZTWVpX3BKcUgyeEgydTQ4UUZZdmU1cWFuOGZaRGlfQ1FnVjV1ejFrdVBNUFBPbk1Vd1ZBSnJXNDRJeUdlWVM1bWhQbTBVMjNNYWdQSV8tODB0YjY1aXhGUnJOSHZGeWZpOWNlMk9oMlFndEE3SE0tT2pzWWk4YWRDbF9DUkpSZEtiTmRndE5JTzVQV1VNbFI0SDJTQXNU0gHoAUFVX3lxTFBBdG5EbkhueXhvYk9rNFZidWE3UXFKTnoyc2pLQ1BPM3RjV2dDeDBpUkFlMGZlemRULTJHWFkzV1owTHp1XzB1S2Y0enR3dmxFV1lNZWlfcEpxSDJ4SDJ1NDhRRll2ZTVxYW44ZlpEaV9DUWdWNXV6MWt1UE1QUE9uTVV3VkFKclc0NEl5R2VZUzVtaFBtMFUyM01hZ1BJXy04MHRiNjVpeEZSck5IdkZ5Zmk5Y2UyT2gyUWd0QTdITS1PanNZaThhZENsX0NSSlJkS2JOZGd0TklPNVBXVU1sUjRIMlNBc1Q?oc=5",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPODNLWmdLTGp4cmxLMk5rc3ZMWWZ3Smd5dTNYT3ZDdzY1WTRCMVhXbzRyZHZzc1FZWllUUEpSN1NzX3VVc19tSWZPSGxfX0dEcnVrc21KSTJYMUcxd2pfUTV0ZmlRM0hoZjIydS1HdHhfNUcxV3ZzaVU3bDZWZ09Td0VwNXc5N01hRzRvWDJUMFZMVXV1TW1pQjRoMlpRTm1MTjZIQ2pEQkcteTBqeFpCRjNXWnNnZjU0M3NVcVhzQ2RPZVpiNzRzcFpPSjNzZDlF0gHeAUFVX3lxTE5sZWd5MXdodHNYczZvaVE5cXg5VjBWOUZSTS12Ulh6WnV0TFl1MDMyVXNQc2daZExJb3pMdGVxSUd1bmZHRmtMRUZZYjZybDFUYi15RUx5cEc2NnRVaUFWdHBSeHBlSjZKamQyMUlVNkpuMWx5REVtQ3JxUWwyaWozek9rZ3RQTFJQUWg5bTFTZUJtVDRUN1F4bFNmX3JFVEtZUG1vcnZBQmpjZ0M2eWw4R1czOGhTY3RqXy1RVjBXcE9qT2U0NXlNUFVxVnVadmxqazg4ZFFkWVVZZW13UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOHRVZm9HNG1CRHgzYkx0WVNoaTlHb0RMNE1XV2RmX2tZVVhxSEl0ZXhob2FzRW9qbEhIYkVGRTlQRzMtRVM5S2gxbHhneHBBWlpyLVVpZFFfaG15YmtYN2gtZXpwZTdrU1EzZXVWeU1FOVl4Ui1ja3RCTDBQUmhoYlhYXzBITEVydkczYTFzaHoxcTNfYXI5TkNuUEVGbVZJdktLQmtNZXhIZk1QeWFrYTdYNUZyN2RtbkthNDBmX0NBTUw5aUFsNU16SlhFOTBkMG5tejJlUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlZZZFdISU9mdVlhNzVmUXU4eG52S01TNUVRUjdHODRIZlA4eU5kRUZ3ZE1TazF0VmJTdVBOMHFfdWdQS2lHU1l1V3NWMElnNGc2a0ZWekFBZnVjWWd4Q29LRE1pTWJfcDZmdEhpVTRBbXhlOG44eEJwSGhxZk4wYjZZOVFBelEwNTBvbHVuRUFoUng1UmJYWGhEdXI2MjIycDBpWkIwODZ1UDJYWS10V25nWjlsdXF0NFpWOWZLcnBMWDB0MUFXRkJnMUs4dUpDN000ckozYzZHSFJ3Z1RzQlQ0eUsyWF9ZMk5PX2I2ZjRBLUFySWNWUXVWbFVpeExvWU85OHdB0gGLAkFVX3lxTE5kODNEai1zTkQ2S1FfSzJUSG1BSE9BeENIa25yWk8zbUtTSG1nY1A3djdsbFg3WUk2TFJ1aUlodGk3djV5YXFjb2owekhxOE12d0hESm1KbXlsVFkyaGUwanlZZnp0VDQzdDY2QUVkOWluQ0UzRU8tcHlhUDE3Y1BjZXppR2h2TmZTYUhHSlRfZlViZmY3RVpfMGg3U1p3YVoxcEhFX040QkZVLVA0VkhMZkdFd0dHcGhWQ1R5SWlxTkM1SS0xRkx1RVJTNk5mR0Q2LTVYLWtGLVAzSmZZaWNjUk1lUEM1MXAtX1NOa0VFUXRKNWJWel9SU2ZCMEdQUUJCUDhKMlNJamZzbw?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T16:06:05Z",
-      "published_at_ist": "2026-10-29 21:36 IST",
-      "first_seen_utc": "2026-10-29T08:04:07Z",
-      "age_minutes": 33,
-      "trend_score": 21,
-      "rank_score": 0.9176,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Diljit Dosanjh Delhi Concert: Metro Services Extended Till Midnight, Extra Trains On Standby",
-        "Delhi Metro to extend train services till midnight on October 30 for Diljit Dosanjh concert",
-        "Delhi Metro trains to operate till midnight on Oct 30 for Diljit Dosanjh concert at JLN Stadium | India News",
-        "Diljit Dosanjh's JLN Stadium concert: Delhi Metro extends services until midnight; here's what commuters..."
-      ],
-      "image_urls": [
-        "https://cf-images.assettype.com/indulgexpress%2F2026-10-29%2Fmkckwxv2%2FI.jfif?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "eaab53f3a7",
-      "key": "all-award-ballon-cristiano-messi-pips-ronaldo-time-wins",
-      "headline": "Cristiano Ronaldo wins the Ballon d'Or of All Time award; pips Messi to the award",
-      "summary": "https://sportstar.thehindu.com/football/cristiano-ronaldo-wins-ballon-dor-of-all-time-boat-award-beats-lionel-messi/Cristiano Ronaldo wins the Ballon d’Or of All Time (B.O.A.T.) following public votes, cementing his 2007/08 season legacy.",
-      "sources": [
-        "Sportstar",
-        "The Times of India",
-        "ESPN"
-      ],
-      "article_urls": [
-        "https://sportstar.thehindu.com/football/cristiano-ronaldo-wins-ballon-dor-of-all-time-boat-award-beats-lionel-messi/article71641601.ece",
-        "https://timesofindia.indiatimes.com/sports/football/top-stories/football-belongs-to-the-fans-cristiano-ronaldo-reacts-after-winning-ballon-dor-of-all-time-poll/articleshow/135318718.cms",
-        "https://timesofindia.indiatimes.com/sports/football/top-stories/football-belongs-to-the-fans-cristiano-ronaldo-reacts-after-winning-ballon-dor-of-all-time-poll/amp_articleshow/135318718.cms",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQnZMQU5vTTh6NDUtNHlWZUNjM0pxX2x6dmV3ZE1PdER4QU5NRWFkZHN2NnEtb1VyNnlsbnRiYVJuMzBqNHBBYXY3SmNnc2IzRWM5a2E1aHpQMkZYOFpIc2lYYVhvUnhxOF91VVZHXzVjcnZjMnhyaUtrc3AzY0NIWFYtSGwtMGdMMVc0dWxGZUQxeFhVRDJXelF2b3pwR3JWYWFfek5KYmNnTE5WTWF4X1ctZ19WMnVYbTRoVDdOaVFFQm5YMXNwd3FjTXM4T3JN0gHXAUFVX3lxTE5wZXdJNXNhakxTN1N3U2xMejhvY2ZhSWRuckdpckxTWlFFU0s2SzAtODJDTUdpbUcwVDVWN2pjWm5VNm01VUVQbHdqcGstenpMb2tQdFBaZ2duNWxOd1k0WXoyQWE0ck1RRlZ3X2w5SWNYUHgtTkV5SFdBVndNZ2lHVXB6b2lzWVVJVk8zc2YyQWlabVlhd2NuTG5zdExiMzVSMzhEOGtCS0w3aTVrTGg0Mi1TMWl6aThMODhWeWMtYXUzSDZFNXZwLWtFalFYNEktRGhrTWsw?oc=5",
-        "https://news.google.com/rss/articles/CBMikwJBVV95cUxPcGQtcC1rdDJmSzI5NW5EUXk2cnRsLWlDdG5COEgxbGI2N1BWUWNuRHdnVW1kWFN6SVN2cHdxcWhYdUV5UWJNNjJteHQ0QWJ2bUFOSDUyUlU4X2E1b1JWOTlwSkZSSnhpeU1sZktNVHg5OFhsUTdqTmt2bzRYdGM0ajQ1cXZqMXZUZS1IaXo3TFh1dXU5Zmk5Q0trRWRMUVo1S1JSWjdDeVRxdjJtMzVuSlRTcEZQT0pkdkwtMmFiZmlUcFFTN1NwVVBfY29ScXQ5SXZTdTRuRnY5QVhKeHR2a29pSHBydjhpeVNXd2wzNVNmQ29tc2pTZWZyU0tOZHVIcF9CMGxCVXNWZkprMlJQR3R0c9IBmAJBVV95cUxQdzdqVXNONkNYcTRqemZ2MDdCUHh4Z3p0clM4S21nSy0xcUdJYzROaXRiZ2pyWmhhb2FSdk9YczRTVlhPQi1iUXFjREtRc0hoSEhLWVBJTmlaeXpaT2lfUVJtYzZJY3RoVGVSU3VlMEtOV18zRWhYQWpwLUN2Tm1SYWVobXdkclBtdkc1S2ZQc1luYTRfXzlxWl9Cbm95bmRwaHp5YVNFV1dqZE94aGtmTVVnczQ4T3ROQVFvN090S2cyMUp5WVIzNkdVdmJXRzltT3QyMkNxaGIxWjcxYXlYUmdXenduVUN1NlF3cTBsTlRuUDducDFqd08ySjVzcXI0cl9LblBUdWZfb2E5X1dwVFZZdGhybGlq?oc=5",
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxQdzdqVXNONkNYcTRqemZ2MDdCUHh4Z3p0clM4S21nSy0xcUdJYzROaXRiZ2pyWmhhb2FSdk9YczRTVlhPQi1iUXFjREtRc0hoSEhLWVBJTmlaeXpaT2lfUVJtYzZJY3RoVGVSU3VlMEtOV18zRWhYQWpwLUN2Tm1SYWVobXdkclBtdkc1S2ZQc1luYTRfXzlxWl9Cbm95bmRwaHp5YVNFV1dqZE94aGtmTVVnczQ4T3ROQVFvN090S2cyMUp5WVIzNkdVdmJXRzltT3QyMkNxaGIxWjcxYXlYUmdXenduVUN1NlF3cTBsTlRuUDducDFqd08ySjVzcXI0cl9LblBUdWZfb2E5X1dwVFZZdGhybGlq0gGYAkFVX3lxTFB3N2pVc042Q1hxNGp6ZnYwN0JQeHhnenRyUzhLbWdLLTFxR0ljNE5pdGJnanJaaGFvYVJ2T1hzNFNWWE9CLWJRcWNES1FzSGhISEtZUElOaVp5elpPaV9RUm1jNkljdGhUZVJTdWUwS05XXzNFaFhBanAtQ3ZObVJhZWhtd2RyUG12RzVLZlBzWW5hNF9fOXFaX0Jub3luZHBoenlhU0VXV2pkT3hoa2ZNVWdzNDhPdE5BUW83T3RLZzIxSnlZUjM2R1V2YldHOW1PdDIyQ3FoYjFaNzFheVhSZ1d6d25VQ3U2UXdxMGxOVG5QN25wMWp3TzJKNXNxcjRyX0tuUFR1Zl9vYTlfV3BUVll0aHJsaWo?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ0hYRnRtSFR3bnVHbjI3eGYtSVRMUGt5REpxZ19jMzJMWmhVbjRUWG81ZEV3M3VkQnBJWnhHN2FpOWQtVExBMTNTMVFwYnJncmhxOHM2My1CejM1NkJ0NVRRUUstMnd1MUxRQ0pYcUplcGQzN0ctcWxQZ1AtMTFGcEJpb1FNQ0RXa0NEQlR6TGFieTl5V2x6YnFUbUxHOXJNWFVEQg?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T15:02:49Z",
-      "published_at_ist": "2026-10-29 20:32 IST",
-      "first_seen_utc": "2026-10-29T10:13:00Z",
-      "age_minutes": 97,
-      "trend_score": 16,
-      "rank_score": 0.8529,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Cristiano Ronaldo",
-        "Lionel Messi"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "'Football belongs to the fans': Cristiano Ronaldo reacts after winning Ballon d’Or of All Time poll",
-        "Ronaldo pips Messi to win 'Ballon d'Or of All Time' prize"
-      ],
-      "image_urls": [
-        "https://ss-i.thgim.com/public/incoming/2dojbr/article71641573.ece/alternates/LANDSCAPE_1200/CR7%20boat.jpg",
-        "https://static.toiimg.com/thumb/msid-135319058,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "https://static.toiimg.com/thumb/msid-135319058,width-1280,height-720,imgsize-1444633,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "101c5cd6a1",
-      "key": "ceo-gaga-haus-labs-lady-take",
-      "headline": "Lady Gaga takes over as CEO of Haus Labs",
-      "summary": "https://theindustry.beauty/lady-gaga-takes-over-as-ceo-of-haus-labs/Lady Gaga has taken over as Chief Executive Officer of her beauty brand Haus Labs, following the departure of co-founder and former CEO Ben Jones earlier this month.",
-      "sources": [
-        "Fashionista",
-        "TheIndustry.beauty",
-        "Cosmetics Business",
-        "AOL.com"
-      ],
-      "article_urls": [
-        "https://theindustry.beauty/lady-gaga-takes-over-as-ceo-of-haus-labs/",
-        "https://fashionista.com/2026/10/uniqlo-cate-blanchett-launch-literary-magazine",
-        "https://cosmeticsbusiness.com/lady-gaga-assumes-ceo-role-of-haus-labs",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVXRBdGJOLXJaVl9QYW9CQmRWMTNPbVptdXpmMGdRRnJsSVowOVVlNk5YelcwWjNhOFBCcUMxYkVoTUdhNTFweVgwaWx2cENmZUNMbnk2SGVfbXdrUTlhVVRrRWZUQVo5bVZXUmxsZGxfaWFFNjJBM0dDNnRjVm44LUM5WjI?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0dUVucXB0cF9xVDZwZ2MzSldXOEpZd3FGQ3U5RjVxZ2ktX19CUF9YTjJab0U5MkVUY1NqcG5tQnJmM0tJR3FxQjFPSXQwb19QdHZaWFloLTRhT2RFX0pKS0J0T0k4TUZEWmxtanF5V3A5c0VzelJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE5WdGhsMzhmcEN5YTFURG5TRzRJRFRYLTNPQ1k3Z1dnRG1aSVdMMV9uZVl3TXE1RzJ5R1dHRkp5TWlpS2lXc0tYaTJEMnZ4YzFsUVlRcWFxbXZ6ei0wM0xWdU1Zd0tNQ0tGV1N1dEY0YlNhX3BWVFI5Ng?oc=5",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE1Lb1ZONkRRYWZ2VlEybW4xblJQM2U0YXZ2R2c4ZjhoZGxMVkJlT3phSVh3M2YzSjJaMkh4aWI4aHpHLUxMX0tIVUpxNVVsRGNZZXVSWFZyelYwN1NFVkJ2bVAtTkd6TlFKellXSkREam5lcHZLUGtURjU4V2kwZw?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T16:00:00Z",
-      "published_at_ist": "2026-10-29 21:30 IST",
-      "first_seen_utc": "2026-10-29T11:26:49Z",
-      "age_minutes": 40,
-      "trend_score": 11,
-      "rank_score": 0.8447,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Lady Gaga"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Must Read: Uniqlo and Cate Blanchett Launch Literary Magazine, Lady Gaga Is Now Haus Labs' CEO",
-        "Lady Gaga assumes CEO role of Haus Labs",
-        "\"CEO of my heart since 2009\": Internet reacts as Lady Gaga becomes CEO for Haus Labs following the departure of co-founder Ben Jones"
-      ],
-      "image_urls": [
-        "https://theindustry.beauty/wp-content/uploads/2022/09/hauslabsfoundation.jpg",
-        "https://cosmeticsbusiness.com/article-image-alias/lady-gaga-assumes-ceo-role-of.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "f04263f979",
       "key": "felt-gomez-never-safe-selena",
       "headline": "Selena Gomez: I'd never felt safe before",
@@ -619,9 +637,9 @@
       "published_at_utc": "2026-10-29T09:00:04Z",
       "published_at_ist": "2026-10-29 14:30 IST",
       "first_seen_utc": "2026-10-29T09:00:04Z",
-      "age_minutes": 459,
+      "age_minutes": 485,
       "trend_score": 10,
-      "rank_score": 0.8406,
+      "rank_score": 0.8325,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -660,32 +678,28 @@
       ]
     },
     {
-      "id": "06f7339559",
-      "key": "123-dfs-moicano-nolan-pick-play-prediction-ufc-value-vega",
-      "headline": "UFC Vegas 123 Predictions: Moicano vs. Nolan DFS Picks & Value Plays",
-      "summary": "https://www.rotowire.com/mma/article/UFC DFS expert picks for this Saturday's UFC Vegas 123 card are up, as well as fight-by-fight breakdowns, plus betting and lineup strategy for the entire event.",
+      "id": "1156fdb2a9",
+      "key": "333-336-alexander-between-chatter-fallout-fight-gaethje-justin-link-title-ufc",
+      "headline": "Between the Links: UFC 333 fallout, Justin Gaethje vs. Alexander Volkanovski chatter, UFC 336 title fights",
+      "summary": "https://sports.yahoo.com/articles/MMA Fighting breaks down the biggest news of the week in combat sports",
       "sources": [
-        "RotoWire",
-        "Sportsnet.ca",
-        "MMA Fighting",
-        "RG.org"
+        "Sports Illustrated",
+        "Yahoo Sports",
+        "MMA Fighting"
       ],
       "article_urls": [
-        "https://www.rotowire.com/mma/article/ufc-vegas-123-moicano-vs-nolan-dfs-analysis-drakes-takes-144480",
-        "https://www.sportsnet.ca/ufc/article/ufc-vegas-123-preview-nolan-has-massive-opportunity-vs-moicano/",
-        "https://www.mmafighting.com/ufc/518209/tom-nolan-honored-to-follow-alexander-volkanovskis-insane-performance-in-ufc-vegas-123-main-event",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxONDc4TExYQVV6Wld6dnZUSm42SWptZ3d4UDYxSGh5YVhhaFMxOFJINWZBeUk1V194U0F4dGI5aVJ1YjUwT1VMcTBWdVA1QkFMQVZVZzdsdjdTVFhJYm9uWVpHZU1OREdlVUhEY3NpQU5aeVBCZXZESXBqQW12Q0JOaFdWaDlIV0xJdGlKVGVMN0NyWFFxX21ObGUyMWdiQW1Ka2c?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdU9QR3BzWXQyanpjaXN1MDN4ZWJtNC1peUpEbjNjV3MzbDNzeXRCejlkeFpJdy1nUWpTeHdnNjBZZkFVQU1nTzRzX3E3MFJvaHQ1ZlJlYVVOT205NnRPN05TRmN5SDlBdU9kN1haUTRyNHktamFPWVdULU04blYxbzB5SzE5RWVzZndxZFJxMFBNNVc3YW0wSG1JcXpLLWtTcHc?oc=5",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdlk1VlZIcTFTUDdubEw1bHpFeFczU0lHREdyaGRlc05mMlJKQXk5LTE0S1RaZDNNMVc0MzMxcWw1UWctTGdQR1RVUE9XRWZUc09RRklHWXF2SmZFaUpYUlZQOXNxUVAyVThhdU5Wb0hTR3BNeTlJazlwZXNqRVVFWW5Ra3BocEt2dV9OX1RCOTRwVVM2aS0tQVJIREhwWmpoMjZBRnppVW1zbllzNkhVcUFJOWRuSXVBYTRUbmpkRk54Sl9HaUVmU3FWZS1kNzZJSFE?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOEtlYm9NdTJseF9KT2k2Rm5FZDdKc2R5LXJ1MEoteUM0T1JuNWltai1OblpicVB4cUtzRVRacmlhZ3pmS3RaRnVzY2xiMzdOb0ZOUkpFNlpyUnZxekEzcUxMMGN6Z21UTFd1SEdSQ1hVR1g4andFTENTbXlDZ2RCQjFWMXNZM2xRN3Jz?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVEh3WTNyT1RuTWo2RXNSXzhaX1J2dklIVFFjeGFaVDIyVUtBRXZfU282NHZMbzFiWDFvZW5nLUFSUkUtYTd1Q3AzYVA1RE1scFUtUjNWdFlpRE9OVWR1V3kwZHVsUVFHUjFmQ0hjckQ4bF9rS0JxcVNQYlNEX1EzLWJieUZjSmdyNGszRDhaQUhjRGY4WjFhcnBQNA?oc=5"
+        "https://sports.yahoo.com/articles/between-links-ufc-333-fallout-150000310.html",
+        "https://www.si.com/fannation/mma/news/ufc-champion-alexander-volkanovski-proposes-alternative-to-justin-gaethje-fight",
+        "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUNoUk82c1YwVzB3WW1CQ2xyakViMU5oOVFPUVpwbkp2ODdrWmkycEUyNXpPVFkwQXFWNWlrakpIUk56SkZ4ZXJwY21UYXdQdl83RTZqXzgwOVI5Zm5VWHdNV0hLQ3B2akY0Q3BSM1VoRFFqbElmWW5TcXlvNVhVVUtEZDBpUGNoNnNvbk5oTkxWRUI1X0U2d0dvNjNQRmc0OU96Zl9hTlEyV054TFBEdVRqdFE5cjZk?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUpPU1QwQ2YteVc2YldvMVF4NWF4alhNcTNiZFl6eXRaRVJLa01MTWluNUxrMm1ZYlJWdXRHZTFLdE9jcFRfMk9Mam9UUHlPMW15OTdXRk9Mb1Ywd3RUb1JlY0NGODk0bHp3NkV1X3AyQWxuaUlHdTV5ajNkSWtXbjlmMXI?oc=5",
+        "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWG15MTBlMWhDa0wwSTlpTUtDYkIyWHYxTmM1dDA4UnFIZW1qVkw3TEhtRlJoejRvallhYzY3c2dBbFRCcHprUC1qSG5RaFJEa1ZlZExsUGhKUlBhX3hRbkNEb2RPd09DX1BNcGFiMEcyN1pFNHRqc2pVU2FxejRqS0JNVVBlRHlnZFpRMkdGMy0zZVMtdGVfU0tldUc3WTNuVkVRYktlbmZDRGptNGl1bnQ4LXBKUEhIRjlhckNIbFBtUnppN1VUeGhPaWNFYVp5blhwLXBuYTI?oc=5"
       ],
-      "published_at_utc": "2026-10-29T16:08:00Z",
-      "published_at_ist": "2026-10-29 21:38 IST",
-      "first_seen_utc": "2026-10-29T11:38:50Z",
-      "age_minutes": 32,
-      "trend_score": 11,
-      "rank_score": 0.8213,
+      "published_at_utc": "2026-10-29T17:00:00Z",
+      "published_at_ist": "2026-10-29 22:30 IST",
+      "first_seen_utc": "2026-10-29T15:00:00Z",
+      "age_minutes": 5,
+      "trend_score": 10,
+      "rank_score": 0.8299,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -702,134 +716,38 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "UFC Vegas 123 preview: Nolan has massive opportunity vs. Moicano",
-        "Tom Nolan honored to follow Alexander Volkanovski’s ‘insane’ performance in UFC Vegas 123 main event",
-        "UFC Moicano Vs Nolan Odds, Predictions And Halloween Best Bets",
-        "Moicano Vs Nolan Odds And Picks: UFC Vegas 123 Betting Preview"
+        "UFC Champion Alexander Volkanovski Proposes Alternative to Justin Gaethje Fight"
       ],
       "image_urls": [
-        "https://res.cloudinary.com/rotowire/image/upload/ar_16:7,c_fill,dpr_auto,f_auto,g_auto:custom_no_override,q_auto,w_800/wgxyjxjaamdywapmb3vj.png",
-        "https://www.sportsnet.ca/wp-content/uploads/2026/08/moicano.jpg",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/10/gettyimages-2280248076.jpg?quality=90&strip=all&crop=0%2C3.6997980005409%2C100%2C72.447326227627&w=1200"
+        "https://s.yimg.com/lo/mysterio/api/b91cb6bbc6545e0592baf6c1b41c218aac0e909ea6e7a428e9de670305d57997/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F4445bfbd205c2f615481410d141c8116.jpg",
+        "https://images2.minutemediacdn.com/image/upload/c_crop,x_1932,y_0,w_3775,h_2123/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/ReutersImages/mmsport/mma_knockout/01m643ptbm6p7n8wn1w9.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/embed/mtZpL7TSpY8?rel=0"
+        "https://youtu.be/IGh3NhqKz9A?si=f0jnbH42m4wazm9W",
+        "https://www.youtube.com/watch?v=F60CcVo9szg",
+        "https://www.youtube.com/watch?v=d74l2k_TeEw&pp=ygUKZGFuYSB3aGl0ZQ%3D%3D"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "baf99cb295",
-      "key": "behind-ghost-grid-leaked-marvel-production-real-reveal-rider-shoot-story-synopsi",
-      "headline": "Marvel’s ‘Ghost Rider’ Production Grid Reveals Working Title, Shoot Window, and Real Story Behind \"Leaked\" Synopsis",
-      "summary": "https://www.murphysmultiverse.com/ghost-rider-mcu-production-grid-working-title-shoot-dates-synopsis/'Ghost Rider': Working Title, 2027 Production Dates, and Why That \"Leaked\" Synopsis Isn't What You Think",
+      "id": "9c0f6f726d",
+      "key": "abu-biggest-cricketer-dhabi-front-get-name-row-seat-t10-uae",
+      "headline": "UAE Cricketers Get A Front-row Seat With Biggest Names At Abu Dhabi T10",
+      "summary": "",
       "sources": [
-        "Murphy's Multiverse"
+        "NDTV Sports"
       ],
       "article_urls": [
-        "https://www.murphysmultiverse.com/ghost-rider-mcu-production-grid-working-title-shoot-dates-synopsis/",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUWM5cE1aU21jUnU4TFoza1dVc3ZSM1FHZkRjbS1lRXVEckVqc1NiQjBKaHBCZks1ajNpOUREOTRBQnMzTk1TbUhwSXBPbS13eUExaTJoaC1odERFRlQySEtKemhuS2kxY2I0MUZPUTlHQzdsei1WV0lxSlhUSzN5bExSRGp3MW1jVUxQZlNNMVNHODR1TGM5QzVIeUd2aUswRDZz?oc=5"
+        "https://sports.ndtv.com/cricket/uae-cricketers-get-a-front-row-seat-with-biggest-names-at-abu-dhabi-t10-12255692",
+        "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXMtZDl2ZXotYzcyemJUbFVRcGdZVVVzQXowR1RsaE1NYnc0bFQ5ZTVmNEc3akRJVjdPbklsNjgzOFhCX18xWUNBQVNTUC15bldUeDJpN0dmTWtLbzc0NnNaRFNnOGV1VHF6NVZFcmo3VHVRUW5LR1MwTEQ3NV8xMUVZMlFQbUE0bEhQUEdZUVZCcHRBTllWbzllWWJaVzNKV3BBRFZkWnRxWm5LRUVUazR3?oc=5"
       ],
-      "published_at_utc": "2026-10-29T16:37:03Z",
-      "published_at_ist": "2026-10-29 22:07 IST",
-      "first_seen_utc": "2026-10-29T16:37:03Z",
-      "age_minutes": 2,
-      "trend_score": 8,
-      "rank_score": 0.8002,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://assets.murphysmultiverse.com/uploads/2026/10/ketch-spirit-of-vengeance-1024x534.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "78e9dadc8a",
-      "key": "ballia-conversation-don-drink-fan-goes-sooryavanshi-vaibhav-viral",
-      "headline": "WATCH - 'We from Ballia, don't drink...': Vaibhav Sooryavanshi's conversation with fan goes viral",
-      "summary": "https://www.moneycontrol.com/sports/cricket/A recent video from Wellington, New Zealand, which has gone viral, shows why Vaibhav Sooryavanshi has become a fan favourite in such a short span of time.",
-      "sources": [
-        "Deccan Chronicle",
-        "Moneycontrol.com",
-        "The Times of India",
-        "Livemint",
-        "The Tribune"
-      ],
-      "article_urls": [
-        "https://www.moneycontrol.com/sports/cricket/watch-we-from-ballia-don-t-drink-cold-water-vaibhav-sooryavanshi-s-conversation-with-fan-goes-viral-article-14063377.html",
-        "https://www.deccanchronicle.com/sports/cricket/warm-water-warmer-affection-father-sanjeev-sooryavanshi-hails-fans-care-2000019",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFZ0MV9VeG1xd1dvd0JFNC1MNEVuOHhUQlE0RklZNzZ0aExua2VjU2t3dGt6NlhhMXd5SWdyRnE2YzNsRF9pdjZjT0NTM1pWem1sREMwVFhwd2pEWENsUFVub0dpNWFlbzRzdzM5dTlUc2FYa0FVWmRPSGtHOXlZQ0EyT25JM3FJcGRjM2w0cG8wNks3NDlwVk5TNUhLN2FPdXpTM1F1SDJaZ3VLYThtODBrSDRIX29mZzZ6Tjk0cTNrWDJP0gHKAUFVX3lxTE94THJQdzJmMzRGZEgwUGtzam1wTEszX1J0TThlTzNGeDNYdjlfRzdEMnBPZGFVSVE4V3ItRW8xdmdtQkpDbHBCMHlJa0paY0pQS0V0OXhwVXkyRXN4SXk3RUQ1cnRhTW5QMjE5LUZSOGhJYnFmbXFjem4wODcwcnEzODVuem5aQzlpMUs2TWQ5NGYxM2lRWkV3dEtrcEZLX2ZPWGVVZEVXeGFsWjZDcDdISl9OWnU2bGlfaHRnVDdoakxKdGJnZjIwb3c?oc=5",
-        "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQbXZTRDBiU0xBS0xSeHQ3ZFVSbHRnc0I0NnVpaWNVaGVyOE9OTlBiR3RVT2lhblVlS20wTU1zNzEwOENxZFdQUDRZaVBLbmlob2VzTDVCZmRiRUJyV0xfSjhrTGxHcnNZN25Jd1BXbDBMQmRtX3Y2V2RKVjBxSnRHWGNMUWh4RFlKTW81TU4ycmdPRlhsaEdwMXY2OWtObEoxeTY1U0dmaVFMNnZ1czdBakpvZGhxU0lNRmgtb3hmc2pHTklhd3VaRG50RHB2VTdsdkJPNW5mTU1FUW40bWJWR0JrMDBIYnVkVlAxR01HRzhKNzZzY1U5bw?oc=5",
-        "https://news.google.com/rss/articles/CBMilAJBVV95cUxONHp6N1JrMUs5WVpWWGE3eEprQ3k4b1YxNC1jWkpMLU9lNDhwYjdnam5iZ1RQcnIyMjlwREZWQjF3Z3phOXRMREpPSlFOZTRRc2JVZDZZMlZ4cHdxLVY0R2JKUnRpQmprUjY2UEF2eEZ5ZHZXbEJhaEJMcWs2TXp5NUVaZkZPdDlJY21MT2JJSlkwbHNVb1FkS1NHTl9MaTR2Y1o3U3RoVHlTcVBpME5mVHktVVloNGNfaVFleENJdnVFN2hIQkQ3OTkwQnpNRTl0WXpVeGFkT1VpWVNhZVRUUHZScldmeGUtVnc1WF9TZk1vUC1YejhXZFdJZWpXZEhqS0dCS2pVaEFpYUtXZEduZWlFTW8?oc=5",
-        "https://news.google.com/rss/articles/CBMijwJBVV95cUxNMjI4aVNaU0hVbExWdWN1ci1pTHpEbHVHQVo5SmVMZGF1aVVoLUNOeDI2bDlVb05PSVl0QWYxWFVWcUFwNjB4MmVTMjJJR1FRN1JYdElsejJCZHVGZW9IMXJlR2FmOV9mT3ZZYWEwVFdrUWs4bkt1VVRaWGFFX3NoSVhpSU5yTllIZ09WVGZ5ajdRZU94Y1dzeVVwQ2hxUHVwR01ic3dMNEdzcTNmMnNKLWtCUUpBSHFCRjVNbmlLZHdLRnllOWI1blpoTExsRGVhTXFoUFBMbWZQbjRWV21rRHpHcEhDVm9zNXV5MERjQVRGcjc2dXNjUlIxejVHNHBJSk5qZXBUNzJ6dks5V0Rv?oc=5",
-        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY1BMS2RzS0lGY0xMbEo0Tzk0Y0JQYTZfWE81d211d2N4a2U5ZnBnN2JFejJCWkhlRE5mRzFfOVI3eUJQOVFRcGl2TFRqUTZ0THdtSWlYNHBsdVktQ3g1ZzE1NmhjdE5nRk1TQkdwNk5EQ3hKSmdtNkR5SnY3ZjRUc2g5QndrakJ5UUZEM1ZJOXRrN1dvQklGbEZuRFAxdkJKRlFEbHJ4YloxNkNrbktLdWFhZmMzY2tiMjZLSnk4UGNhZHEtdGZrZ05rZVFKdEFMakNBRVZhU2k1amEw?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T16:23:10Z",
-      "published_at_ist": "2026-10-29 21:53 IST",
-      "first_seen_utc": "2026-10-29T08:09:18Z",
-      "age_minutes": 16,
-      "trend_score": 7,
-      "rank_score": 0.7697,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Warm Water, Warmer Affection: Father Sanjeev Sooryavanshi Hails Fan’s Care"
-      ],
-      "image_urls": [
-        "https://images.moneycontrol.com/static-mcnews/2026/07/20260703131839_Vaibhav-Sooryavanshi-AFP.jpg",
-        "https://www.deccanchronicle.com/h-upload/2026/10/29/2106254-vaibhav-suryavanshi.jpg",
-        "https://www.deccanchronicle.com/h-upload/2026/10/29/2106254-vaibhav-suryavanshi.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "e4f86fa513",
-      "key": "aussie-control-doing-marnu-mic-moment-stump-take-‘-’",
-      "headline": "‘What are you doing?’: Marnus in stump mic moment as Aussies take control",
-      "summary": "https://www.nine.com.au/sport/cricket/‘What are you doing?’",
-      "sources": [
-        "Nine.com.au"
-      ],
-      "article_urls": [
-        "https://www.nine.com.au/sport/cricket/australia-south-africa-third-test-day-three-2026-marnus-labuschagne-mic-moment-marques-ackerman-dismissal-20261030-p619vj.html",
-        "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQenk5T1FjN3NCVXplcXcwMDRVNmpUZWhnazZlMG9zU3Qtem0xa19NYWs3Q0ZXaFZMWVd0Tk9Wb3h3MnBSSEJvVURUUUtLcE9BRWlzZ0NPb1U5bWJHOUxiZElqbktHZkRadHk5Y2I2U0xuTnRBVzVvdnpyaGNkbFJJSTUzMEg5cXBzS29lTlI5Ry02d0NvSldDSTFuVDIzaVU1YWIxN1JhczIwWWw1S295SW1ONks0NG02aW0wdXdVVXZLZHczVFlqRzV2QkFDU0pfSldRVkVhZWtWOXZIRkpVYU56TENxY0dFUWtUNldRcC05RGxQdnJz?oc=5"
-      ],
-      "published_at_utc": "2026-10-29T16:34:54Z",
-      "published_at_ist": "2026-10-29 22:04 IST",
-      "first_seen_utc": "2026-10-29T16:34:54Z",
-      "age_minutes": 5,
+      "published_at_utc": "2026-10-29T16:53:38Z",
+      "published_at_ist": "2026-10-29 22:23 IST",
+      "first_seen_utc": "2026-10-29T16:53:38Z",
+      "age_minutes": 11,
       "trend_score": 6,
-      "rank_score": 0.7575,
+      "rank_score": 0.7525,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -848,8 +766,50 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c45486fa75",
+      "key": "athletic-break-calgary-communitie-complex-cricket-ground-growing-northeast-opportunitie-other-soccer",
+      "headline": "Northeast Athletic Complex breaks ground on new opportunities for cricket, soccer and other sports in growing Calgary communities",
+      "summary": "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/Construction is underway on the Northeast Athletic Complex (NEAC), adding much-needed indoor and outdoor recreation capacity in one of Calgary’s fastest-growing areas.  Located at 8500 40 St. N.E., the 35-acre, $170 million public recreation f",
+      "sources": [
+        "Newsroom Calgary"
+      ],
+      "article_urls": [
+        "https://newsroom.calgary.ca/northeast-athletic-complex-breaks-ground-on-new-opportunities-for-cricket-soccer-and-other-sports-in-growing-calgary-communities/",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUjZhc3d4dW9nZ2l1Mnhyc19VaDQ0SXNfZE5JYjF6ek5RaU5rbGxGS2dlTDZDTEd6ZWo0OUc3ZmlFU0J2TWJLQzZmZ2JSVXN0aHd0Y0JvdWdoQ0JRMTZfQ2E2NzVrcnRqRUpLcWtJbko0Z0t2c3oxbDNBeGhmcTVQY0NWZVROSnplUmlRTk56eGRWZVlCQ1NuM1BhbFRoNVp5OVZQWlc2dDBfNTFQdzJzMHNmd0FnRkRiTUR0ejZybG1YZnVxRmlrZVJVVjlrVnBlS3RzSGlNZkRKLUJscnZqc3dzWHF2V2VESVFRYmln?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T16:45:00Z",
+      "published_at_ist": "2026-10-29 22:15 IST",
+      "first_seen_utc": "2026-10-29T16:45:00Z",
+      "age_minutes": 20,
+      "trend_score": 6,
+      "rank_score": 0.745,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket",
+        "football"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
       "image_urls": [
-        "https://static.ffx.io/images/$zoom_0.8058%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_141%2C$y_51/t_crop_custom/c_scale%2Cw_1200%2Cq_88%2Cf_auto/ccd0a47bc4205eb506de9acf198f32d5ce3d74c635aa102d230575ece25e4a47"
+        "https://content.presspage.com/uploads/1485/a1acb34e-f9e3-4dcb-ba9d-f8b2ea3548e1/1920_20260402_round-04_cam-01-loop.jpg?10000"
       ],
       "video_urls": [],
       "has_video": false,
@@ -870,9 +830,9 @@
       "published_at_utc": "2026-10-29T16:15:43Z",
       "published_at_ist": "2026-10-29 21:45 IST",
       "first_seen_utc": "2026-10-29T16:15:43Z",
-      "age_minutes": 24,
+      "age_minutes": 49,
       "trend_score": 6,
-      "rank_score": 0.7417,
+      "rank_score": 0.7208,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -899,6 +859,48 @@
       "youtube_videos": []
     },
     {
+      "id": "b682c2553b",
+      "key": "beta-collateral-custom-debt-dex-fluid-open-range",
+      "headline": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
+      "summary": "https://thedefiant.io/news/defi/Fluid DEX v2 is open in limited beta, adding custom ranges for collateral and debt under tight Ethereum borrowing and withdrawal limits.",
+      "sources": [
+        "The Defiant"
+      ],
+      "article_urls": [
+        "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
+        "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRk90X0dSWkJ3R0JfXzJUeU41bkU5Y293MHZDdnc1LVJaT05jaC1USXNlZGVsN0NwWnl2U05xaFR1YVhyLW0yUmVKTmhWQ0kzdENSMlFpMVRDTEk3cUJfTUZ2anFDLVdKdjdXWlJvMmlXTHJmZllzakdsUk1ENUpKV1Zza0NkblE1ZUxjMDBWUXhWOWdCOEdFbEpB?oc=5"
+      ],
+      "published_at_utc": "2026-10-29T16:36:29Z",
+      "published_at_ist": "2026-10-29 22:06 IST",
+      "first_seen_utc": "2026-10-29T16:36:29Z",
+      "age_minutes": 28,
+      "trend_score": 5,
+      "rank_score": 0.7136,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cdn.sanity.io/images/6oftkxoa/production/3b9ff662b6499c2916f50223f65bb69b000442ca-2048x1152.png?w=1200&fit=max&fm=jpg&q=75&bg=ffffff"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "928ba111bd",
       "key": "code-codex-embrace-leave-unpatched-vulnerability",
       "headline": "EMBRACE vulnerability leaves Codex and VS Code unpatched",
@@ -913,9 +915,9 @@
       "published_at_utc": "2026-10-29T16:34:39Z",
       "published_at_ist": "2026-10-29 22:04 IST",
       "first_seen_utc": "2026-10-29T16:34:39Z",
-      "age_minutes": 5,
+      "age_minutes": 30,
       "trend_score": 5,
-      "rank_score": 0.7328,
+      "rank_score": 0.712,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -941,23 +943,23 @@
       "youtube_videos": []
     },
     {
-      "id": "1602c39b33",
-      "key": "2-8-88-cve-flaw-patched-rce-tightvnc-viewer-without",
-      "headline": "TightVNC Viewer RCE flaw in 2.8.88 patched without a CVE",
-      "summary": "https://pasqualepillitteri.it/en/news/28103/A pre-auth RCE in TightVNC Viewer 2.8.88 lets a malicious VNC server run code before any password prompt. Fixed quietly, no CVE. Update to 2.8.90 now.",
+      "id": "dabe7d6de6",
+      "key": "actual-center-county-data-fossil-fuel-grand-intelligence-opinion-water-—",
+      "headline": "Opinion: Data centers, fossil fuels and water in Grand County — actual intelligence?",
+      "summary": "https://moabsunnews.com/2026/10/29/opinion-data-centers-fossil-fuels-and-water-in-grand-county-actual-intelligence/Grand County debates data center regulations amid concerns over water consumption and fossil fuel energy demands in Utah.",
       "sources": [
-        "Pasquale Pillitteri"
+        "Moab Sun News"
       ],
       "article_urls": [
-        "https://pasqualepillitteri.it/en/news/28103/tightvnc-viewer-rce-flaw-2-8-88-no-cve",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcnNqckMtb0xzN2NMMDU4ZHFYWjZhSWN5Z1ZMc3pMczJaWS02ODZoaERTQ3BDT1BSMXZORHVIb1M3MWNVa05aNUFnM1pIN1FCM0ZuOF9KeEUzVEw1UVZ0YjdMUEEtMmh5R1pDQ1BGNERiS1lVOTNoSEdTYU4wTTVpNUxiOWNpSzZqb1E?oc=5"
+        "https://moabsunnews.com/2026/10/29/opinion-data-centers-fossil-fuels-and-water-in-grand-county-actual-intelligence/",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdk9nQ0llaUpYMTV1cjFQaFhoUl9OcGIxOXJ5YmJXbXZER3AteVkybDk0T0Z4WHNsSzJScDZtTHQ1UmNJV1gtbmt4enpaMlA5SFM5SHFqSzl4Y3VGd01xRm9vMzdtTlRyYmQ1NU5pS0ZGTjdIQUNMRTlGSW5jTy00VTVYUTljVXYzbWtUNEdZRlp6ZGJvTm8xcks5WV9na1ZEYlpQUEhqRmM2OXUta1owRUxaR0JEZw?oc=5"
       ],
-      "published_at_utc": "2026-10-29T16:34:38Z",
-      "published_at_ist": "2026-10-29 22:04 IST",
-      "first_seen_utc": "2026-10-29T16:34:38Z",
-      "age_minutes": 5,
+      "published_at_utc": "2026-10-29T16:30:15Z",
+      "published_at_ist": "2026-10-29 22:00 IST",
+      "first_seen_utc": "2026-10-29T16:30:15Z",
+      "age_minutes": 35,
       "trend_score": 5,
-      "rank_score": 0.7328,
+      "rank_score": 0.7078,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -976,36 +978,35 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://pasqualepillitteri.it/uploads/img/news/tightvnc-viewer-vulnerabilita-rce-2-8-88-cover.webp"
+        "https://moabsunnews.com/wp-content/uploads/2025/08/Opinion-Header.png"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "6cf2b39ae6",
-      "key": "agent-mcp-next-server-should-tell",
-      "headline": "Why MCP servers should tell agents what to do next",
-      "summary": "https://thenewstack.io/aws-mcp-agent-observability/Many MCP servers still behave like thin APIs that hand an agent raw data. James Ward, a developer advocate at AWS, argues they should guide the agent’s next move, and that teams need to see the agent’s whole journey to improve it.",
+      "id": "17f4d16bfc",
+      "key": "automated-really-remediation-vulnerability",
+      "headline": "Can Vulnerability Remediation Really Be Automated?",
+      "summary": "",
       "sources": [
-        "The New Stack"
+        "Security Boulevard"
       ],
       "article_urls": [
-        "https://thenewstack.io/aws-mcp-agent-observability/",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85bHZER21OVmE5ay1ZMS1IU3NPYW55SWhHMFdMSWJVSVZSSHcyQ0RJUGN4SHBhajRqaHhOZFk1aVJhYmJrNnc5UXFXNm96M2tKYzN1RnhMeU8xWWpIaVptbw?oc=5"
+        "https://securityboulevard.com/2026/10/can-vulnerability-remediation-really-be-automated/",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYkF3OFZQdlE5OUhQa3Q0X2NnOGZNbVVFUk1oeUhPMmkzNUVNVWprN0FoQzBaaVd2SHJ2RG5vMWhnREhZZjNpMjN4XzhlS2VIRWdTQWg4RXVZMnJYMDZCSmlHdE54Y0NhQU1iaXdJaXRqNTF6UkNING40R1NldldnalR3VkNTWmJtaVkyMExhbkZBdw?oc=5"
       ],
-      "published_at_utc": "2026-10-29T15:55:56Z",
-      "published_at_ist": "2026-10-29 21:25 IST",
-      "first_seen_utc": "2026-10-29T15:55:56Z",
-      "age_minutes": 44,
-      "trend_score": 6,
-      "rank_score": 0.725,
+      "published_at_utc": "2026-10-29T16:13:39Z",
+      "published_at_ist": "2026-10-29 21:43 IST",
+      "first_seen_utc": "2026-10-29T16:13:39Z",
+      "age_minutes": 51,
+      "trend_score": 5,
+      "rank_score": 0.6945,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
         "US"
       ],
       "language": "en",
@@ -1018,34 +1019,29 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://cdn.thenewstack.io/media/2026/10/47ca69a6-for-thumbnail-16.png"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/RywJRuJVTUk?si=PM9ABIz3bbKEXP6G",
-        "https://www.youtube.com/embed/RywJRuJVTUk"
-      ],
-      "has_video": true,
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "e572cdcc35",
-      "key": "15-3bn-adt-buy-deal-firm-holding-home-josh-kushner-security-thrive",
-      "headline": "Josh Kushner’s Thrive Holdings to buy home security firm ADT in $15.3bn deal",
+      "id": "1f96d2adcb",
+      "key": "alphabet-crisi-quarter-sign-wobbly",
+      "headline": "Alphabet’s Wobbly Quarter Is No Sign of a Crisis",
       "summary": "",
       "sources": [
-        "Financial Times"
+        "Bloomberg.com"
       ],
       "article_urls": [
-        "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42?syn-25a6b1a6=1",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTnhGYmVVeWVtb0ZVYlZsV2hYbk1fMWg1YUdvOTM3dzkyZnZHbXlYVVJoZUhGWkFyTnlNRTFiU3RHWTBuX0tIRjY2el83NDA4YnBCdTRfdldrRWlCSHdpUTdaRE9QZ1pMbzIzdzQxbU9GMmhBUFlveDVpakNuQU04VWdjNnM?oc=5"
+        "https://www.bloomberg.com/opinion/articles/2026-10-29/alphabet-earnings-google-parent-s-wobbly-quarter-is-no-sign-of-a-crisis",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSWpacEgxdkhMdWdxQ1JmSEdDNDlIWHpMSUlVSEk4NnFVYi0xNlprMEdpQWxGT0ZSU0VFRFBXbGFnM1hYLUoteFp1b25MMWdJbTJhX1FrTWt1Q3VxV3h3OVBSNVhjMU5Pc3NkMU1FemhfOFdXbkFSUE9sZU9KaHhHTTlmckN5bmpJMjlUc0FaaFoxUHhiZHJKN0hkMkRmUXhDSUhNR0VGR19HVVNBcHpqa0NDenhfRkg4dHNFTTZlNEw2SFU?oc=5"
       ],
-      "published_at_utc": "2026-10-29T14:49:19Z",
-      "published_at_ist": "2026-10-29 20:19 IST",
-      "first_seen_utc": "2026-10-29T14:49:19Z",
-      "age_minutes": 110,
+      "published_at_utc": "2026-10-29T11:30:38Z",
+      "published_at_ist": "2026-10-29 17:00 IST",
+      "first_seen_utc": "2026-10-29T11:30:38Z",
+      "age_minutes": 334,
       "trend_score": 5,
-      "rank_score": 0.6453,
+      "rank_score": 0.4586,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1082,9 +1078,9 @@
       "published_at_utc": "2026-10-28T17:30:33Z",
       "published_at_ist": "2026-10-28 23:00 IST",
       "first_seen_utc": "2026-10-28T17:30:33Z",
-      "age_minutes": 1389,
+      "age_minutes": 1414,
       "trend_score": 5,
-      "rank_score": 0.4529,
+      "rank_score": 0.4451,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
