@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-11-04T02:05:23Z",
-  "generated_at_ist": "2026-11-04 07:35 IST",
+  "generated_at_utc": "2026-11-04T04:05:22Z",
+  "generated_at_ist": "2026-11-04 09:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5313,
-    "fresh_items": 4279,
-    "clusters": 1891,
+    "raw_items": 5444,
+    "fresh_items": 4365,
+    "clusters": 1964,
     "youtube_feeds_ok": 4,
     "youtube_feeds_failed": 26,
-    "youtube_uploads_fresh": 21,
+    "youtube_uploads_fresh": 48,
     "youtube_items": 0,
-    "famous_items": 6,
+    "famous_items": 7,
     "trends_terms": 40,
-    "page_fetches": 60,
-    "with_video": 6,
-    "runtime_sec": 23.8
+    "page_fetches": 58,
+    "with_video": 8,
+    "runtime_sec": 24.2
   },
   "categories": {
     "famous_clip": 4,
@@ -32,135 +32,60 @@
     "other": 6
   },
   "top_trends": [
-    "irán (US 1000+)",
-    "kristina knickerbocker (US 500+)",
-    "roseanne barr (US 500+)",
-    "wesley bell (US 500+)",
-    "dan schwartz (US 500+)",
-    "gretchen whitmer (US 500+)",
-    "los angeles mayor race (US 500+)",
-    "ro khanna (US 2000+)",
-    "ann wagner (US 1000+)",
-    "sarah mcbride (US 500+)",
-    "ind vs nz (IN 100000+)",
-    "icc (IN 5000+)",
-    "రాధిక ఆప్టే (IN 200+)",
-    "cb (IN 200+)",
-    "নিউজিল্যান্ড বনাম ভারত (IN 200+)",
-    "kitco metals inc. (IN 100+)",
-    "মাধ্যমিক পরীক্ষা (IN 100+)",
-    "2026 united states senate elections results (IN 200+)",
-    "सॉफ्टवेयर इंजीनियर (IN 100+)",
-    "james talarico (IN 100+)"
+    "cornyn (US 2000+)",
+    "letitia plummer (US 1000+)",
+    "glenn grothman (US 500+)",
+    "adelita grijalva (US 200+)",
+    "man on fire (US 200+)",
+    "sf election results (US 200+)",
+    "gurnoor brar (US 2000+)",
+    "wall street journal (US 500+)",
+    "virginia abortion law (US 2000+)",
+    "aaron ford (US 500+)",
+    "மன்னிப்பு (IN 500+)",
+    "అల్లు అరవింద్ (IN 200+)",
+    "us senate elections 2026 (IN 500+)",
+    "which party trump belongs to (IN 200+)",
+    "പ്രേമ റാവത്ത് (IN 100+)",
+    "rajinikanth jailer 2 collection (IN 500+)",
+    "kolkata weather (IN 2000+)",
+    "amish shah (IN 500+)",
+    "investing com (IN 200+)",
+    "வீடு (IN 200+)"
   ],
   "items": [
     {
-      "id": "f068158243",
-      "key": "1st-auckland-india-odi-rohit-score-sharma-zealand",
-      "headline": "Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland",
-      "summary": "https://www.aajtak.in/sports/cricket/story/भारत और न्यूजीलैंड के बीच बुधवार से पांच मैचों की वनडे सीरीज शुरू हो रही है. रोहित शर्मा और विराट कोहली पर सबकी नजरें होंगी, लेकिन भारतीय टीम का कमजोर तेज गेंदबाजी आक्रमण चिंता बढ़ा रहा है. बुमराह, प्रसिद्ध और हर्षित उपलब्ध नहीं हैं. वहीं, कुलदीप यादव की प्लेइंग XI में जगह और न्यूजीलैंड के खिलाड़ियों की उम्र भी चर्चा में है.",
+      "id": "2d6ee08218",
+      "key": "2-all-fair-kardashian-kim-paulson-sarah-season-‘-’",
+      "headline": "How to watch Kim Kardashian and Sarah Paulson in ‘All’s Fair’ Season 2",
+      "summary": "https://pagesix.com/2026/11/03/entertainment/how-to-watch-kim-kardashian-in-alls-fair-season-2-cast-episodes/The heels are high but the stakes are higher.",
       "sources": [
-        "NewsX",
-        "Sporting News",
-        "Sportskeeda",
-        "Business Standard",
-        "Cricbuzz",
-        "Khel Now",
-        "NDTV Sports",
-        "Anayasa.gov.tr",
-        "Fubo",
-        "Cricket World"
-      ],
-      "article_urls": [
-        "https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-1st-odi-preview-3-pacer-batting-order-shubman-gill-tspok-dskc-2687537-2026-11-03",
-        "https://www.indiatv.in/sports/cricket/free-me-live-kaise-dekhen-india-vs-new-zealand-pahla-odi-match-dd-free-dish-2026-11-03-1252523",
-        "https://www.sportingnews.com/in/cricket/news/rohit-sharma-score-today-india-new-zealand-1st-odi-auckland/503349be7dc50d0ff5b93152",
-        "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/new-zealand-vs-india-1st-odi-live-score-and-update-eden-park-auckland-mitchell-santner-shubman-gill/liveblog/135517547.cms",
-        "https://news.google.com/rss/articles/CBMijwJBVV95cUxOemxpdklfUU9fZU9uNUQxM1BWUnhLaWFaMWtDUEFnVkM4LVdWWERUcmxCdTM4X0pZQkloaVk5Z3JqT296ZldCbHp6NUItWlNPR1JLTUVxbUFCODhFcXdyRTJFV0FaWHlHMGkzRHl2RldndUpYVnRFa1puS2d3TXI4a09QT0tINXUxT1NTUnl0cmFVQ2FXUmFPNEptN2toX0pMalNldkFNX1kyeXVUNkhXdG1QbERYQTd1UHZQdEY3Ykw2REY2NkRQRDJpMXVCSmhwUFo5SlBiNWNicEstWWs3SHRDVFJ5djNhcGdGTnlldWE3dERFTkM2dWUwZVU5a0ZlZ1hFSkNPc3Y0NkN4UTdN0gGUAkFVX3lxTE9acC1WOWtUTWF5MU9nSFRITmQ0VEEzODVGQXlyR1V1bkFDbTV5NXpHS21zb2lVbEJhLUV5eHZjb2M3bjRqTXAteDNuVXhwbGsyUzJWVm9xaDlVcVREajQ1b3Z2aS00WHY1OURNcVBoQnJnTzc3Wk9GOVMxRW5Qb2NwTjdSMThST2JaX25aTUZDN1FacjFKTUlZYU01T2tTYWJaZmJvU3Fac28wajZvZ01FRFgxQnVNX2JmLXNDcW1xdjI1VlYxdmxITFFXeXY5Q1F0OTNYUGFPWldDRVRBUnlDTWdnS3l6MmRaWHJMY2RES2xKSUZmaGJ5b1RWODV3VW1GdW56TkJFQjNCNXF0SHhTUnh5dw?oc=5",
-        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2ljYUxNZko3SHdLOVZmVXNnV0hWTGRWMzZyX2llUVpoU2tMTmxTeUJyaXR0SFJUbTBYM2hnMzhuMWlwUUxKX0JHV3I2THpELThfUWVwQ1dZZWlYNmVTSnA1RG1hRUwzd3JTMmk5Z1ZHQ3p6N3VmRDFnUVVxNFRrV0FUcWNvQkNYUlpDd2JRZUVXRGk4dHR1amFoQTBfQV9jbGo2bGNRYXpoMmNnV0RMYnh3SlZBYUhlSDYtejRmMWlzSkE0VDNuUg?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd2s5d3hnNzBDalEySzdISlYzWkpyYURxcEJpendySC01T2ZrQ3VQTzg3WjhnZE9Ecm1wYmR3UUhMQmN3cGZhOVRVZ2hLdlBYd05sdVYzazdXdHNmUWg0VF9KdHN4R1pCS0thbFhFOU4tZkU1NmpjUm1lb3FUeHBpNDRncHhJa2RpbTVzSk5vOXJMaUgxalZkRFg5U3dCQWxSMTdtRkQ3RzlhSkdK?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDVsQ1pTTGFHUDBGQkNabkl0dDJJSEwyRWtuTktXNWZ6NklweWFqelFqcDVfYml6RU5tbEVsV0V6M1oyM2FBZE01UW1CUG1GQm9lNlpBdDhieU9KSGJBTzM4d2MzNWFiRlJTNzZOWWVLVmRuSzZ0V1hueDR4V0RSbWR6OE56UF8tVmNjWktnWTlEeWtxMmlUOUM0Y1NPZUdKMUsxUXZKYy1yLW1xdndlSkRmSGYtN2xoSXMwYW96RjdkT3B0UFMtZmJNTUlNbk50QkVsQk930gHbAUFVX3lxTFBnUWVMWnVkV1ByN1NPM0VRZjU1OExraVYtY2VnMkxnM0RYZHcwUEhDcWkzeDVqRlRuM2lXdXZwbEx2WDd1ZUpuYXhWbFlmQ1JYOXJrVXdaS2g3b1IzTTNTSWpPQVF6d2hkcGRuWUNfVEhReE15VjBFbjJ1MmkyRTh5NWh2MUJpTTdEcHJOTkZJRGQzQzdSc1NNcl9YMW85SFhxVDFHT0lDVTVTLWtwLWtTX280ZGQ2cEpBa2RWM2s4ekREcHo5N2RuczBxVUJKX3ZHWjVRZ2hWZ3JEdw?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T01:59:02Z",
-      "published_at_ist": "2026-11-04 07:29 IST",
-      "first_seen_utc": "2026-11-03T19:24:49Z",
-      "age_minutes": 6,
-      "trend_score": 25,
-      "rank_score": 1.2869,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Rohit Sharma"
-      ],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [
-        "ind vs nz (IN 100000+)",
-        "cricbuzz (GB 200+)",
-        "nz vs ind (GB 2000+)",
-        "nz vs ind (JP 500+)"
-      ],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "FREE Live IND vs NZ 1st ODI Match: Check Easy Ways To Watch India National Cricket Team vs New Zealand National Cricket Team Live On TV And Mobile",
-        "Why is Jasprit Bumrah not playing today's NZ vs IND 2026 1st ODI?",
-        "New Zealand vs India 1st ODI live streaming: Where to watch today's match?",
-        "Cricbuzz Live: NZ vs IND | 1st ODI toss delayed due to light drizzle!"
-      ],
-      "image_urls": [
-        "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae9e5347341e-india-vs-new-zealand-odi-series-2026-034419345-16x9.jpg",
-        "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-07/DMIN1__05825%20Rohit%20Sharma%20071726.jpg.webp?itok=MElbMZuA",
-        "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-07/DMIN1__05825%20Rohit%20Sharma%20071726.jpg?itok=AWLGT9kR",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT77zOFAAeK9_810VI6gtJJf_Nut0uk3BOUwDAb3OBLn3ePKwZ9B0rsjhWDWJs",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKBCGf46Koa_hEu02qSQxZJ0odbp-I8ChRtXRn3lvKL1C1w7iB6ZYWOlvTWIY",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMeLLFya3KdGXEpImtJ0AjUWBn45INAgQ3g86k_0KJNtdcI-IwT0Ile_IhqII"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "667d3dd97c",
-      "key": "bar-exam-kardashian-kim-quitter-retaking",
-      "headline": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
-      "summary": "https://www.bbc.com/news/videos/The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
-      "sources": [
+        "TechRadar",
         "Page Six",
-        "The News International",
+        "The Blast",
         "BBC",
         "InStyle",
+        "Yahoo News Singapore",
         "IMDb",
-        "조선일보",
-        "Chosunbiz",
+        "The News International",
         "AOL.com",
-        "ComingSoon.net",
-        "The Blast"
+        "Crave Online"
       ],
       "article_urls": [
-        "https://www.bbc.com/news/videos/cmy4x59kdknwo",
-        "https://pagesix.com/2026/11/03/entertainment/how-to-watch-kim-kardashian-in-alls-fair-season-2-cast-episodes/?utm_campaign=pagesix&utm_medium=referral",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMTdCcXRoOEI2cV9KNk9VaEtvMEJ5dklTdE5WQlhrYkNGcnVOa0pUbFAzRVc4M1lWZWQ5bHpkbmNpekRQMFdJYUJKdXFrOWU0OElCVUhTWEsxQ2NYWVhRd0NnWEVkTk9jN2hJN3RRd01wRXpRbVB4dnBZaGF3QnZpUTBYNWFJbFJ4VlRWblduY2wtSWJILUFMYjd5UTNaWHFTUENGU0VBczRuZ0NYYkJXdWR6Q1hyRmVMRVZnOTZkVlZ4clpQY2k3eHA1aGhHdmVraXNsZTR5Q2N3eWlXa0llTzVhVUI?oc=5",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc0pJYmhuUVJiT1Q3WUFUZ1Z4NmlnY2xjbmxYblE0NmdfbzZ0UElYZl9aaWRzUFZWMlpibXRNLXNuTmxHRkFxMWk3TnhJTXM2dnNhT0d5elBPQVM2RDFfWTM2UHhPTlY3Qm12NnB3SHhUY0s4NHdMNUExdGdGcHRjRW42ZWZObkNqWlRsTWcxUkhhSVE2ajZVajVIMGUzR0nSAZsBQVVfeXFMTTBzMndhLUY2N191UW5CZkxCS0NoM1FDS19KcncxMkc3aDAtRnlxeURXNkhtV0hUdlpWMG1TNE5FMVVXeVBLeWJNeDllZVZIRmJPVVN6VlRuNUZrZnpPUkkwQ2hVSnpEbzNOX2hTYVpWWmo0ZW9sMTlKajl5RGdYaDNRRXRZVWVEQWxxWWZpaGktYkhVcHZNai1ZT1E?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wcnBxSEhJY0NCQm9SUGVIODBSRlpmczFSRWxPSlZPYi1qRS00Q0FzaXU2bDFpMUJVaDZYUHprazNlUU1IRnFjSks0dmNqTTZJZkJXei16aHc?oc=5",
+        "https://pagesix.com/2026/11/03/entertainment/how-to-watch-kim-kardashian-in-alls-fair-season-2-cast-episodes/",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcUpxTkN6T3RyUmtSZW14WEw2RDhhbVhUOThLSVBXWVlWWmE3ZzVjV2ppYkJneDhEQUNSSG01N2hxSkFGN01wcVA2dk1QV3RqQ21aSTBjS1p1UDhoSi1pdnZyQ1NtLVdUMHhfZjlxVGhLZm9PNW1OemE3SjhTUGltN2k2SEhEQWc?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOWZPenJjVVlocUY0aHMxOUxvWjlQa200VDBXYnFaa1pkMS0yTUtzQXV0dU9ERnNLMVk2bTdQZGZvRWxsOC1pUkpCZ3YzRWdpLW5KSVRGTFBnYk9ONlJCcXVlQWpoQ1RIMFBfSUZrQnZ2dC0waGViTkhiMzAyd2FHVlcxcVRVSThja3NWWVMzMHExcDMza2FCV2J4THRicXU0OHZhWUUwOUQ1aHZIZFE?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUt3XzUyek91VWU0ajBJbjZQbXp5clVLS2hnYWlkRXEyWGEyWkU4MUlGRGlneDF4T2hNMlhadDZhRnVuSU92dHZoNmpha19KZEhhMTlvdXNvS0dFYWJZTVZCYXVOQ3lxdi03cG5ZRksyeGtzUi10ZlJBWTZ0X215ZzBXcktmYWM?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UNEZZNnhNZEIzbU1YUHQtTHFlRkVyalpWcG5yS1ZJSWtVOU80NGtmTFQ0LWx5M2tkelY3ZnhvWVp5MHdjNUhRSFFmUlVsWTdaV2trQ203ZkJIVlkycnc?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwYTFRSnBjYjFaay1hb0tXUG1QMXdwZWVTUi0wdjkwY01lT2hTZ2xKNWp5TGh5MHZoQzlkTGxHbUlPT24wR0VKODE4UldmR3dKVXlDR0xrUnh4OXM?oc=5",
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHlsdkVJVkxPVTc2cERzYW14M3poaFZFWUF2YkVSUFlobWM4Y204YmRFeGNXRWI1eVVORUNabUJ4WVlkdFdyZF9TMXdzTGhCc3MtX0t3M3RndnIxZnk4OHoyaTh3SXlCbGo2ZTBoeF9HMzBMTjhJekhlQjlKN1dkUGVYU2liakJIRVNFeUJjNXcyZE9QVlc2YTg5Zm9kZTFkOWI5cDFB?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6N1dRcDh6NDBDbEpDYXNwZGp3WHdxN1lwVDRfVVBNZDFwc1QtUC10QnczRHlyTWduRU5rR0lVbjMzSUVlM1ZPeURONHZSOHh1UEttWmdvZzRTeVN5eW1NVnU4aFA?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN2hZcXhYSlBPMDF3QTFIczlfdlhmSDN3S1NIb3lNQWFMcGRZOWNoeXI4VEYzYk1nQi1HQ2J3d2J2NnBPMW9Ja3RyRVgwTm1GTE5kSm55T3owOWp0TDdLaERpbndWOXFqQWtSVmc4VzFaeVg2TFlUakhtRko3b3hhQWtNaEJ0X01NbUJSZzFn?oc=5"
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNczVOWFRZRkVUTm9SZGdZY1o4T2tYbmNiT0REQnVHaDFUTTRxT29RVm9UcGN6eW02WmJkZ1c4WElLclVNbGhPRHNMVG1ySTZMaGZOU1p2ZlFySXp4dkVoYXluUXRHVzNzNEVwYy1QSnp0QTNjbTNIbUd0VGx1cFk5MURlVnZrZw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T02:00:00Z",
-      "published_at_ist": "2026-11-04 07:30 IST",
-      "first_seen_utc": "2026-11-03T17:34:57Z",
+      "published_at_utc": "2026-11-04T04:00:00Z",
+      "published_at_ist": "2026-11-04 09:30 IST",
+      "first_seen_utc": "2026-11-03T19:51:46Z",
       "age_minutes": 5,
-      "trend_score": 40,
+      "trend_score": 31,
       "rank_score": 1.1458,
       "category": "famous_clip",
       "section": "entertainment",
@@ -183,13 +108,12 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "How to watch Kim Kardashian and Sarah Paulson in ‘All’s Fair’ Season 2",
-        "Kim Kardashian ‘is not embarrassed’ after failing bar exam",
-        "Kim Kardashian Reveals Lavish Cosmetic Procedure She Gifted to Her ‘All’s Fair’ Castmates",
-        "‘All’s Fair’ Season 2 Premiere Sees Denise Richards Dazzle on the Red Carpet"
+        "How to watch All's Fair season 2 online – stream the Kim Kardashian drama from anywhere",
+        "Kim Kardashian ‘Sickening’ In Leather Dress She ‘Can’t Breathe’ In",
+        "All's Fair: Why Kim Kardashian came back to 'the worst TV drama ever'",
+        "Kim Kardashian Reveals Lavish Cosmetic Procedure She Gifted to Her ‘All’s Fair’ Castmates"
       ],
       "image_urls": [
-        "https://ichef.bbci.co.uk/news/1024/branded_news/96b6/live/6d128820-d7cb-11f1-93e1-3b657b665bcf.jpg",
         "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147439621.jpg?quality=75&strip=all&w=1200",
         "https://pagesix.com/wp-content/uploads/sites/3/2026/11/147439621.jpg?quality=75&strip=all&w=1024"
       ],
@@ -203,26 +127,34 @@
       "youtube_videos": []
     },
     {
-      "id": "1f07465297",
-      "key": "attack-depleted-ind-india-litmu-odis-test",
-      "headline": "NZ vs. IND ODIs: A litmus test for India’s depleted attack",
-      "summary": "https://www.aajtak.in/sports/cricket/story/भारत और न्यूजीलैंड के बीच बुधवार से पांच मैचों की वनडे सीरीज शुरू हो रही है. रोहित शर्मा और विराट कोहली पर सबकी नजरें होंगी, लेकिन भारतीय टीम का कमजोर तेज गेंदबाजी आक्रमण चिंता बढ़ा रहा है. बुमराह, प्रसिद्ध और हर्षित उपलब्ध नहीं हैं. वहीं, कुलदीप यादव की प्लेइंग XI में जगह और न्यूजीलैंड के खिलाड़ियों की उम्र भी चर्चा में है.",
+      "id": "2a3b500b10",
+      "key": "1st-india-odi-streaming-telecast-zealand",
+      "headline": "India vs New Zealand Live Streaming, 1st ODI Live Telecast: When And Where To Watch",
+      "summary": "https://sports.yahoo.com/articles/AUCKLAND, New Zealand (AP) — India captain Shubman Gil won a delayed toss and decided to bowl Wednesday in the first of five one-day cricket internationals against New Zealand.The toss was delayed by 20 minutes by a passing shower at Eden Park, and Gil said it would be better to bat second in the event of any later reduction in overs.",
       "sources": [
-        "The Hindu"
+        "Sportskeeda",
+        "Business Standard",
+        "NDTV Sports",
+        "TechRadar",
+        "Yahoo Sports",
+        "The Economic Times"
       ],
       "article_urls": [
-        "https://www.aajtak.in/sports/cricket/story/india-vs-new-zealand-1st-odi-preview-3-pacer-batting-order-shubman-gill-tspok-dskc-2687537-2026-11-03",
-        "https://www.indiatv.in/sports/cricket/free-me-live-kaise-dekhen-india-vs-new-zealand-pahla-odi-match-dd-free-dish-2026-11-03-1252523",
-        "https://www.thehindu.com/sport/cricket/nz-vs-ind-odis-a-litmus-test-for-indias-depleted-attack/article71662713.ece",
-        "https://navbharattimes.indiatimes.com/sports/cricket/cricket-news/new-zealand-vs-india-1st-odi-live-score-and-update-eden-park-auckland-mitchell-santner-shubman-gill/liveblog/135517547.cms",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdmcxQkxoMWFEamtDM0tiTnlTTUdIUTBQYVVVdksybkZmZld5X3czMzBBYWZUZ0RGMVdBVE5VNUNSZ09pUlZzRGpGelA5dFVXMWUwcFFLd0txSUU3U21VS1hvVTdNSUt5b0F1MW4tUXpWbE4zN3ZEejhaTmRSdU9pcEpCVVpadi04TTZzXzMzTnRuYmxJMnY4LXdXbnlTTktFd1BEU1ktZnJzMDV5OHhBdFVRUzjSAbsBQVVfeXFMTjB1S3lVZlZYYzd6QmIyX0I3bzJjbGJaM3JaX29sZkJXUXJ3c3dCOVdrbmpaS3E3aTdJTzFBSFZONXJZTTY2MktmSWpTb0NmMkk0Vjl5VVVQZlNSUGV6YXFKNnB3Uk9ITTdrZE5MTXNJZjRwMmVfSW5qMHl5VTFyTDFpUHlfdkY2YWFfOGVRRWJ6R1htWk9QWjk4MGVqOWw5blo2VURDZTNpMVdWWXYxQnJNLV9YZ3ZhN3d2WQ?oc=5"
+        "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-odi-1539437/match-preview",
+        "https://sports.yahoo.com/articles/india-wins-toss-chooses-bowl-023817194.html",
+        "https://sports.ndtv.com/new-zealand-vs-india-2026-27/india-vs-new-zealand-live-streaming-1st-odi-live-telecast-when-and-where-to-watch-12278937",
+        "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-shubman-live-streaming-auckland/liveblog/135506408.cms",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMjQ3SThXVnZIcHZpUV9GZm1FWk1odXdLb0VENUQ2aHlMTUprdGFlQjh0M0F6QnNfR2JPTFNqOGlPeGkxbExFRTZfUHZrcDY4R3MxaWYtckdubEpfdXFmNVFmTGFROGNtTVJRRVE2Qjhrd2pWUEVVUlRBdWIzajhMZVk4LUJiUXJ4QjdXTzJRSWNSUWU0LXQzM2liXzFPdmpyZG9GU1o2bXNNXzItdGhkVnhOcXNucWk0MElrRDMtSVJZak5tcUp5MnY4T2JCeXhmektubzlqRXowTnNmX0k4OQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRDVsQ1pTTGFHUDBGQkNabkl0dDJJSEwyRWtuTktXNWZ6NklweWFqelFqcDVfYml6RU5tbEVsV0V6M1oyM2FBZE01UW1CUG1GQm9lNlpBdDhieU9KSGJBTzM4d2MzNWFiRlJTNzZOWWVLVmRuSzZ0V1hueDR4V0RSbWR6OE56UF8tVmNjWktnWTlEeWtxMmlUOUM0Y1NPZUdKMUsxUXZKYy1yLW1xdndlSkRmSGYtN2xoSXMwYW96RjdkT3B0UFMtZmJNTUlNbk50QkVsQk930gHbAUFVX3lxTFBnUWVMWnVkV1ByN1NPM0VRZjU1OExraVYtY2VnMkxnM0RYZHcwUEhDcWkzeDVqRlRuM2lXdXZwbEx2WDd1ZUpuYXhWbFlmQ1JYOXJrVXdaS2g3b1IzTTNTSWpPQVF6d2hkcGRuWUNfVEhReE15VjBFbjJ1MmkyRTh5NWh2MUJpTTdEcHJOTkZJRGQzQzdSc1NNcl9YMW85SFhxVDFHT0lDVTVTLWtwLWtTX280ZGQ2cEpBa2RWM2s4ekREcHo5N2RuczBxVUJKX3ZHWjVRZ2hWZ3JEdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQWHViZUFlQkl4QlhuaXRjcHJNWjhaSXFaNDJ0Umxrb3lDUnVXZzlOc0FQM2pNQW1PSzF4OVVMRVFWWk04cEdfOEtiSTM5eVRudHFPZGdHeE1vdy1BUVBCakpfOVpwN29LTUdnOUpyS3hEbGdRTXItS1dyR1RHbmFTeW9SenpJU0J6UEhJNV9pWkJFeTlaay04MVRqNTRHeDYzOUtJajRUM0wwN1dVOE92SlF0WUFfTkRraElzUjUwdzhYdkFZYW5NSTBuLXM5bm03a2JoX1FEVU9vX1dXNlpfX2lB?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSkkwRTh5bU9QOGZQUzlGS2xNNHhuVU5ISXVVX3ZBVGR3eldNc3FTUFF4N0NkeDhWdWFfdS1fXzVkY2ZwTFZReHdqV3J2OU1mU0MwUU16bUpRZlE2bHZrc2FOVlhvOW1EdzlPVjhoeHJ6TktaZGNvYkJvXzFyV2hpLVVldVM1YnVWOTFoOWRPSHQwbnZrY3JHSXVObVdwSzBKeVdha05jTUNEX1R6c0dTZ2tQSHVJWnMyUjVTRnFrMHkzYjBOSGN0cmxYa3pXa1pGWnFaeUFrS1ItTVU?oc=5"
       ],
-      "published_at_utc": "2026-11-04T01:13:00Z",
-      "published_at_ist": "2026-11-04 06:43 IST",
-      "first_seen_utc": "2026-11-04T01:13:00Z",
-      "age_minutes": 52,
-      "trend_score": 13,
-      "rank_score": 1.0782,
+      "published_at_utc": "2026-11-04T03:20:14Z",
+      "published_at_ist": "2026-11-04 08:50 IST",
+      "first_seen_utc": "2026-11-03T19:24:49Z",
+      "age_minutes": 45,
+      "trend_score": 17,
+      "rank_score": 1.1381,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -236,72 +168,375 @@
         "cricket"
       ],
       "google_trends": [
-        "ind vs nz (IN 100000+)",
-        "nz vs ind (GB 2000+)",
-        "nz vs ind (JP 500+)",
-        "test (JP 200+)"
+        "gurnoor brar (US 2000+)",
+        "auqib nabi (GB 200+)"
       ],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
+      "other_headlines": [
+        "\"We have not been that good at all\" - Former KKR player's scathing remark on India's record in SENA countries ahead of NZ vs IND 2026 1st ODI",
+        "New Zealand vs India 1st ODI live streaming: Where to watch today's match?",
+        "India vs New Zealand Free Live Telecast, 1st ODI Live Streaming: When And Where To Watch",
+        "How to watch New Zealand vs India ODI 2026: Free Stream, Schedule & Preview"
+      ],
       "image_urls": [
-        "https://akm-img-a-in.tosshub.com/aajtak/images/story/202611/6ae9e5347341e-india-vs-new-zealand-odi-series-2026-034419345-16x9.jpg",
-        "https://th-i.thgim.com/public/sport/54g4nh/article71662717.ece/alternates/LANDSCAPE_1200/NITISH1.jpg",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT77zOFAAeK9_810VI6gtJJf_Nut0uk3BOUwDAb3OBLn3ePKwZ9B0rsjhWDWJs",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKBCGf46Koa_hEu02qSQxZJ0odbp-I8ChRtXRn3lvKL1C1w7iB6ZYWOlvTWIY",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQMeLLFya3KdGXEpImtJ0AjUWBn45INAgQ3g86k_0KJNtdcI-IwT0Ile_IhqII"
+        "https://s.yimg.com/lo/mysterio/api/1f34a34c2d753f846894ad8a373b1aa1f8ab10419321bb0ca0a6bcf2ffb0ce0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F661380777731d472cfc72e42651bada5.jpg",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaPBs73RMhcqn6hvrfmFP5tyvv-AsnXqMqyDkPsR9G1clbqm3J9X5pLXePqJA",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4b2og8xGkLX_MmHpcpaLxzfqxp4ZwHKJbS3SyAEgEdLAl_rrBXhIxkGzBmng",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6kTpC8tJhSmrlUtAwCB4INsNJIfPeO78woyVD_5eDI30PQpS2pfdsiDOsK4"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "1133eb1ecc",
-      "key": "donald-florida-governor-jolly-race-result",
-      "headline": "Florida Governor Race Results: Jolly vs Donalds Live",
-      "summary": "https://cryptoticker.io/en/florida-governor-race-results-2026/Florida governor race results: Jolly vs Donalds, votes still out by county, the 2024 swing, recount rules at 0.5 percent and what it means for Bitcoin.",
+      "id": "a18c05c956",
+      "key": "1st-auckland-india-kohli-odi-score-virat-zealand",
+      "headline": "Virat Kohli score today for New Zealand vs. India 1st ODI in Auckland",
+      "summary": "https://sports.yahoo.com/articles/AUCKLAND, New Zealand (AP) — India captain Shubman Gil won a delayed toss and decided to bowl Wednesday in the first of five one-day cricket internationals against New Zealand.The toss was delayed by 20 minutes by a passing shower at Eden Park, and Gil said it would be better to bat second in the event of any later reduction in overs.",
       "sources": [
-        "CryptoTicker.io"
+        "AP News",
+        "Sporting News"
       ],
       "article_urls": [
-        "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida.html",
-        "https://thehill.com/homenews/campaign/6134195-byron-donalds-florida-governor-win/",
-        "https://cryptoticker.io/en/florida-governor-race-results-2026/",
-        "https://www.foxnews.com/video/6407875411112",
-        "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1NkIyUUM3c1o0Nzc4bE13NjlrX1gyWUFMX0g5U052bTF5WUgwMEtKRFdqRk1pSVVLS1VZQi1SLTNWWHRGVUdVcE1CbzdWWnJrYXZGY0tIeVREZVREaGFxNmp4d29YWHpSclg5cmZOQQ?oc=5"
+        "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-odi-1539437/match-preview",
+        "https://sports.yahoo.com/articles/india-wins-toss-chooses-bowl-023817194.html",
+        "https://www.sportingnews.com/in/cricket/news/virat-kohli-score-today-india-new-zealand-1st-odi-auckland/e5bad0971adf799ac522bf65",
+        "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand-live-score-ind-vs-nz-1st-odi-2026-match-scorecard-today-playing-xi-virat-kohli-rohit-sharma-shubman-live-streaming-auckland/liveblog/135506408.cms",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWV8wSzhrUmEtNVVCOWJ5SExOczgwWHF6Y0JNNkdrWjA1UHdxdGtieUVFUnhoQlJqMFdVbWR2ZjhqM3pGT253bVhENEtyWEpJS0FDaXdfMThmVWpQYVpnMFBzSlNFalZWU3Y2RFRrcS1OVjZyVjFrVE5nQ1dXYW9Qeks5Z1hvNEJNRmhQMWpFaXVjZw?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdXBDeGdkZjU5V0lBNC0yR1FvQ2dqcmJ3SkVjTFdSbWk5VXdLbS1yUFJUZWQ4R2ptOV9sY3BpSG1jLTJrU2JHQmJ5cUF3WDRlS3ZOLUdoa2dYeTgwU2VHZm9ab21WMFhpakEtOFJ1cWlzTExHSjRRM011OFJ2MUMteHBpeDdZZUp0bmJuclRRMzlSOHFPZnV2a1c2U1dPN2VKV1JPaGZaTHlCWDhMREhGMnk5MVJScWJuZGRLdk1DcU1DRVgxeEVz?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2ljYUxNZko3SHdLOVZmVXNnV0hWTGRWMzZyX2llUVpoU2tMTmxTeUJyaXR0SFJUbTBYM2hnMzhuMWlwUUxKX0JHV3I2THpELThfUWVwQ1dZZWlYNmVTSnA1RG1hRUwzd3JTMmk5Z1ZHQ3p6N3VmRDFnUVVxNFRrV0FUcWNvQkNYUlpDd2JRZUVXRGk4dHR1amFoQTBfQV9jbGo2bGNRYXpoMmNnV0RMYnh3SlZBYUhlSDYtejRmMWlzSkE0VDNuUg?oc=5"
       ],
-      "published_at_utc": "2026-11-04T01:42:29Z",
-      "published_at_ist": "2026-11-04 07:12 IST",
-      "first_seen_utc": "2026-11-04T01:42:29Z",
-      "age_minutes": 22,
-      "trend_score": 10,
-      "rank_score": 1.0604,
-      "category": "other",
+      "published_at_utc": "2026-11-04T02:38:00Z",
+      "published_at_ist": "2026-11-04 08:08 IST",
+      "first_seen_utc": "2026-11-04T01:57:52Z",
+      "age_minutes": 87,
+      "trend_score": 14,
+      "rank_score": 1.0846,
+      "category": "sports",
       "section": "top",
       "source_type": "news",
-      "famous_names": [],
+      "famous_names": [
+        "Virat Kohli"
+      ],
       "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [
+        "gurnoor brar (US 2000+)"
+      ],
+      "india_topic": true,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "India wins the toss and chooses to bowl in the 1st ODI against New Zealand as Gil, Kohli return",
+        "Rohit Sharma score today for New Zealand vs. India 1st ODI in Auckland"
+      ],
+      "image_urls": [
+        "https://s.yimg.com/lo/mysterio/api/1f34a34c2d753f846894ad8a373b1aa1f8ab10419321bb0ca0a6bcf2ffb0ce0a/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fap.org%2F661380777731d472cfc72e42651bada5.jpg",
+        "https://library.sportingnews.com/styles/crop_style_16_9_1280_webp/s3/2026-10/AG_9264.jpg.webp?itok=m0nzpQ8F",
+        "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-10/AG_9264.jpg?itok=fx5neq63",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaPBs73RMhcqn6hvrfmFP5tyvv-AsnXqMqyDkPsR9G1clbqm3J9X5pLXePqJA",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4b2og8xGkLX_MmHpcpaLxzfqxp4ZwHKJbS3SyAEgEdLAl_rrBXhIxkGzBmng",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU6kTpC8tJhSmrlUtAwCB4INsNJIfPeO78woyVD_5eDI30PQpS2pfdsiDOsK4"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "7fc267cc89",
+      "key": "bts-jaaye-khan-king-mil-rukh-shah-share-sheeran-‘-’",
+      "headline": "Ed Sheeran Shares BTS Video Of ‘Tu Mil Jaaye’ From Shah Rukh Khan’s ‘King’ | WATCH",
+      "summary": "https://news.abplive.com/entertainment/celebrities/Shah Rukh Khan reposted the Tu Mil Jaaye BTS video and thanked Ed Sheeran for doing his first Bollywood song with him.",
+      "sources": [
+        "Moneycontrol.com",
+        "The Times of India",
+        "ABP Live English",
+        "Social News XYZ"
+      ],
+      "article_urls": [
+        "https://news.abplive.com/entertainment/celebrities/ed-sheeran-shares-bts-video-of-tu-mil-jaaye-from-shah-rukh-khan-s-king-watch-1874632",
+        "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa0JSdTRYOE9RQnJtU3VPNnRpZjlXVjJhQURJT1dlVTZRck5JNlN4cE96ZE95clpZcURkcnEzMGYwUTVFSTNrdXFBeWdoQ3RPaGZKb3JaTWZ3bzNaQ1dELWtyeU8zR2w0YTVQdGpXM2d0YzJKQjFVbzBYa1k0V3dsYUxyT3RoS2wzeTh6SmhwemN0LUo2SkhOMjh0N2w3b19QSU1pdFNJY1dWUjJTVXdzQ0FBZ0JiTXJLOWZrZEd3WVlEMXZybTJOY3J3c2xpMFk5SnFRNWZ6ZWVEcGJicnN6WnIxRHFuZ2JZMUlBVEVyX0RJOFIyZzdSS19ydUV1UjNUYXI3ONIBigJBVV95cUxPa0pzTW1KU3piMXFaLWp5RHp5NDRsR3JNamRiSnNpSndVc2Z4NmJOcUdURHhUZGEtT2x3UTZTd040RkRDb2NPclpELThfY3M2NXpueEh5TThKV0pxX01Wd01vRFRac1BZVWVuQmFqV3ZhR2JINk92WkJkQzIzWWpXSERrMElBaUNOYzJpc29HX3d3VDhUMlVRaDA4QkdUR01Kd3B2c0hvYUxZTWYtQXlKb2tMOW9tM0plNkM0Mms0Z2NxMWFBVUhuSmVtUlJiSEFfeXlMaUFiOUNqcmhNcFNqcnpiZ0VJcmxoOGQ2M2hNSXB6RlVYUzhpNXJqaER1Y0hhTmpiOVBSdm5ndw?oc=5",
+        "https://news.google.com/rss/articles/CBMitgJBVV95cUxQUVN3MzI1Ym5lbTc3VUwtUmlHQU5NaG1BcW1ZMmRMU216UEROWFpaN0NsWHg0eVM0anJ1cktRbGpYVy1KYVVwNEZDWXlOWmFLVHlhaW91YVdocDRlNmExb01CN25mNlJsWlh3YU1rR3daLThtb0hkQ19NRWFlTGE1cW9KUm91S096QThtNzRJUTNYSTlnVE95VnhsbnRobmUzTFdpamN2SEtfSWl5Z1ZzYUhGX1gyUkpwb2p2RkdlcGNuZTljeTctSGg0UzZ1YVdHU0hsdkpkT1dPaEFpTzlrOUtnOUJBYWpkVzcyZnRqOFlpVlR0LXNfU3NqbGlOUmJDSkhDSXIxSWFZWmxHNzFDaHJpT3dIUWRWTXJhSEduTWo2aDJQSTFMZjljSFplQ0xJWXFvMmFn0gG7AkFVX3lxTE12dDZnVlNvZDZxTFc2amR1OERwNFdNYXM3YkhMNHpfekpJX1hwalpHaUVjZzVpTi1aOThFN0llUEFoajRwX0h4MU5VUUNFRjlFSWlBUTh0MGlTdUVLSlMtMVY3cWJkVlA4clFvTGdaWlZUZnpVTE44RWVFZEl5dnNudlptRWU4a21nc20yMTRNNmp6Uk1mWlJXeUYzWHlWejE2dlVqVGhQbzBBbkpWejJEelhvMWNacl80SGo5MjVzWUxWb0VqOWVLSlNEYlhBWUJJQ0lZeGc1Qjg0c2Nmb2ZIdUwtdzFZOGdVUlpxMkFxc2JCTV9vQzhUNkFXWkhGVUthYTFiaWNoWTRXUnRfVk5rSTJJdjhCZ1owNGt5TUVGaDlxZV9RSWlVSXBOckFRd2gxdGxoM2pEeDUwOA?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbi05eUc5YXNRRXNobUJXNUE2SmpHNFZkS1Y5MW1RSjlsS2FIOVk0LVZ0cUdlUWlIVWhSbnFsSFBtckR0M2hycU42bG1ybU1iWVZsdkNUWkppYVVQalVKMUFhU1BZcUpyTmlVMkVTcGpya004VXVIeEdyWTVReWFWUXhPSHgwVjdNV2tQdjMtSEp6VUd2U0dPSE5RXzhnYjZzTWRpVHZDSkV4bkNkQjZDY1paR08zSjYwcjVYbEo3d0V1TDA1NVpPOHNmS2JaSVhN0gHWAUFVX3lxTFA4VmFwUXVwdlVFQldRTGhxTEJzc1lMNmpTSUdkV2RqNW4tZmoxMlBKNDlMc2g3XzdQWnM1NzdZcUY4Yy1DeV9DdW1ENzhVcW9UNm5lWjktdU5BZUZBWFFKaV8tRjJQeFBHRDNVOVNJV2J2VHctWHBJNm5CbFYzWU13UEtLMk5nODdMRzlneVRUUlBNM3N4ZFFHeWppWWl1WmlpLTRjekE0bUVlQ3MxU1dKZTlsUHpJZ19sanNmbmQ4aFVGdnVCZF9BSHFsaVdiWU1kTl92T0E?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSHk4ejlhNjhXZzFDWTByeDl2dUt0SmpxeDVvbnVpUEU3NGh6YTlpZzBmcU56Yi1aZllRa0JnYi0tTjFYUTZKNzh2ZnBtb1o0UjlqVW9mSXVOVldBTWFEX3owdmoxckw3VXlzLWN6Vkp6Sy1iUkNzTFJDTkpFN0ZEdURFWnNUaWVrbHBLMjFJc0FQNmRVYXh4Z2x3WldSdEx1WTRxa2lNZTlFSUVPbDV3aUVmc0tfc1htYWxoR2lqSmgwRkFqbG9aZ1diTXVHcE50U0JFbdIB1AFBVV95cUxOSHk4ejlhNjhXZzFDWTByeDl2dUt0SmpxeDVvbnVpUEU3NGh6YTlpZzBmcU56Yi1aZllRa0JnYi0tTjFYUTZKNzh2ZnBtb1o0UjlqVW9mSXVOVldBTWFEX3owdmoxckw3VXlzLWN6Vkp6Sy1iUkNzTFJDTkpFN0ZEdURFWnNUaWVrbHBLMjFJc0FQNmRVYXh4Z2x3WldSdEx1WTRxa2lNZTlFSUVPbDV3aUVmc0tfc1htYWxoR2lqSmgwRkFqbG9aZ1diTXVHcE50U0JFbQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T03:13:50Z",
+      "published_at_ist": "2026-11-04 08:43 IST",
+      "first_seen_utc": "2026-11-04T01:28:36Z",
+      "age_minutes": 51,
+      "trend_score": 21,
+      "rank_score": 1.0526,
+      "category": "famous_clip",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Ed Sheeran",
+        "Shah Rukh Khan"
+      ],
+      "region": [
+        "GB",
+        "IN",
         "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Crypto"
+        "Celebrities & music",
+        "Famous people clips"
       ],
+      "google_trends": [],
+      "india_topic": true,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Shah Rukh Khan thanks Ed Sheeran for lending his vocals to King's Tu Mil Jaaye, says 'especially the Hindi...",
+        "'King': Choreographers reveal Shah Rukh Khan's dedication to perfecting 'Tu Mil Jaaye' dance moves with D",
+        "Ed Sheeran shares ‘Tu Mil Jaaye’ BTS, explains how the song came into being after his meeting with SRK"
+      ],
+      "image_urls": [
+        "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/6b2611d07cbab20a29b7a52f249a869f17937559454541347_original.png?impolicy=abp_cdn&imwidth=1200",
+        "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/04/6b2611d07cbab20a29b7a52f249a869f17937559454541347_original.png?impolicy=abp_cdn&imwidth=640"
+      ],
+      "video_urls": [
+        "https://youtube.com/watch?v=XPDec1vxj6s",
+        "https://www.youtube.com/embed/nyd-xznCpJc"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "f98499e361",
+      "key": "alvarez-ariana-bob-grande-look-photo-ricky-share",
+      "headline": "Ariana Grande Shares Ricky Alvarez Photos and New Bob Look",
+      "summary": "https://journalarta.com/en/2026/11/04/ariana-grande-shares-pda-filled-photos-ricky-alvarez/Ariana Grande posted affectionate photos with Ricky Alvarez on social media, offering another look at her new bob. The images followed the couple’s appearance…",
+      "sources": [
+        "Facebook",
+        "JournalArta",
+        "The Shade Room",
+        "Oprah Daily"
+      ],
+      "article_urls": [
+        "https://journalarta.com/en/2026/11/04/ariana-grande-shares-pda-filled-photos-ricky-alvarez/",
+        "https://www.facebook.com/abscbnNEWS/posts/happy-for-you-ari-ariana-grande-shared-a-sweet-moment-with-ricky-alvarez-along-w/1749181357257113/",
+        "https://theshaderoom.com/listicle/ariana-grande-ricky-alvarez-new-boyfriend-dating-history-ex-boyfriends-husband-mac-miller-pete-davidson-dalton-gomez/",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNHpNOExHcDhFRVNvV2JFQVptZW0xRWQ1RGpqbkxQbW9OVTFPb3hoRElZZWhZSnh2NHFnckthNl9KR00yTHdaSVBScHVjOGtVNVhzTlZMMnBsUXEwbGw1RDJDWjhwZUJ4UjRJOU5tYnpYd0g0YkVQTGJGNXdKaUI1N0cteF9nUXBZZ2NZb096ZldsdDJzbGthWXNOTklOU0V1aWJtVkFvU3VQS19qWmpTeUN2ZjVZc1E0ZGU3V3ZiQ3gtdlJVYlYtMldZMnpkcnhKc1loR3lCTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckRrWDNZOVo1LUZHOWg4Nm8xWW83dVBUWTNraGEtVzFqUEhPVUpZQ3Q5TDJIQk1nVlhFX3FmWGVFUE9idUFDaVdGaFFfQjFzNVZhMldqbkpzUnRYYlpUU3JKQWVFM2ZqZU1QYU1jTE9qN0pKdVQ2aTJObjFBMFFSNVVSbFhPdHBOcGx5eUxieENOTmRxQ1E?oc=5",
+        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTU9WWEZlS2hJVk1fNk9rTF9LaW56TDkxQmE3M0d1dldWcjBURTJNd2dnRzZQTXpEWEE5Nk1BTzVvejIwNjFUZlU2LU5maEpPd1hieWVydklYZlFxdjdjdDdLb1hlb0dLUTkwZm96ZWJvSG5qcUFEMzJqSW9lSUppWXZoWElwWDNaaG1raU1fSGMyUW9HeDljdk5jNDVhNllYZHZLRVktc0kySVZkcks2OEc5NTZLRG1xYjFjamJMbU4ySFdkRktmakMtaGJwQ3QtYkdOaFRjTTBmX3I3UGpHYl8zT25jUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkN0R0k0Q0wtZjVjbUl2SmVMVzBiZjNDZ3JXXzV0NFE5SWt3MV9xUHV2Zk9lWHN6SmZkTHpwMWxwYkJCTE9Hc3RaVENxd1p6OVZPMS1yS3E2NnhHWGZjcWZpYTZzajVMaW81OXotM0xwTzBhZXExLVFEUm4tQk5NbC1Pdm1TR2Q0WnlndDR1X1ZKbXlHbEdoQ2pSWG4zaUtmQVFXcU9wR2NjVDJxaDFj?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T02:40:04Z",
+      "published_at_ist": "2026-11-04 08:10 IST",
+      "first_seen_utc": "2026-11-03T21:32:00Z",
+      "age_minutes": 85,
+      "trend_score": 11,
+      "rank_score": 0.9272,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Ariana Grande"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "HAPPY FOR YOU, ARI! 💕 Ariana Grande shared a sweet moment with Ricky Alvarez, along with glimpses of what she has been up to lately. (📸: Ariana/Instagram)",
+        "Ms. Keep A Man! From Ricky Alvarez To Ethan Slater, Here's Every Time Ariana Grande Moved On & Found Love Again",
+        "Ariana Grande Shares Rare Photos With Ricky Alvarez After Their NYC Marathon Outing"
+      ],
+      "image_urls": [
+        "https://journalarta.com/wp-content/uploads/2026/11/ariana-grande-shares-ricky-alvarez-photos-and-new-bob-look-ja-discover-1200x675.jpg",
+        "https://theshaderoom.com/wp-content/uploads/2026/11/Ariana-Grande-Ricky-Alvarez-Recap-Of-Singers-Past-Love-Life-e1793725117709.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/9SRxBTtspYM?feature=oembed"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "0f86c03ea3",
+      "key": "album-arirang-bts-earn-italy-platinum-pop",
+      "headline": "BTS earns Italy platinum for Arirang, first K-pop album to do so",
+      "summary": "https://biz.chosun.com/en/en-entertainment/2026/11/04/2YHQVAT2DBABFHVOIRMJYPUATQ/BTS earns Italy platinum for Arirang, first K-pop album to do so",
+      "sources": [
+        "Laodong.vn",
+        "DIPE.CO.KR",
+        "Chosunbiz",
+        "스타뉴스",
+        "allkpop"
+      ],
+      "article_urls": [
+        "https://biz.chosun.com/en/en-entertainment/2026/11/04/2YHQVAT2DBABFHVOIRMJYPUATQ/?outputType=amp",
+        "https://news.laodong.vn/giai-tri/bts-lap-ky-luc-k-pop-dau-tien-tai-thi-truong-italy-1794499.ldo",
+        "https://www.dipe.co.kr/2350225",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV0RicGlDLWVwOGs4MldSTjQ3RDZJUGhNLUZmTHdIWHlHdURuUW5GY25BRlpxeGMwb0pIb2FwajlCUVBZWlZJLWt5N1NsNGd5d3h3dVRtSFd4RGV0MXlLVXJzSkI0b2JOZ3ctbUw2Q1VlM1VIMUhGOEpwNDl4NnFNQ2xEbGlibWNrVnd4OTRKVlNuX0c4bUQzbURtTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lbllSaFlqNkVnQmR0blUyN0k3Nm5jN2VtMFhQQW9Tc0JZZUw0NS1iNHd4UjAzVjZTaXBVbld6bUxaOFlw?oc=5",
+        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQk1MQmRybFlvajBRZEFWWGlRb1FXaDZIeG9sNVBUWjI1OHVmdDBhUExWa0l4NGh6RVZBelRrSGlQQ01DVXdpSmpkM25PMUNfQzhRZ0VjVEF6Xy1IbHFnbXE5LUpTQjI2bnNNWDUtY1dYUzdWb1BLam95MEh3NlBlRm9CTGt3dDBTWVZXWXBrdjJBTUE5WmhmcHNXWVrSAZwBQVVfeXFMTUJNTEJkcmxZb2owUWRBVlhpUW9RV2g2SHhvbDVQVFoyNTh1ZnQwYVBMVmtJeDRoekVWQXpUa0hpUENNQ1V3aUpqZDNuTzFDX0M4UWdFY1RBel8tSGxxZ21xOS1KU0IyNm5zTVg1LWNXWFM3Vm9QS2pveTBIdzZQZUZvQkxrd3QwU1lWV1lwa3YyQU1BOVpoZnBzV1la?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXpiUnVsT1ZITEE2N2NucXVvMEZwc1FJUjlZQmdlTm9BcDZEX0JuTGVXdmpiRENhTGxYc1h6bzRHdVlMMWQzcDhSYmJFNFRIeXRHZEFhaWZ1QldLUW1jeHMxdHFyanFvZGtjdHFoeE5xd0ZkQ3BXbjJabEtYV1lITkJCTlRVZ0Ju0gGcAUFVX3lxTE1CTUxCZHJsWW9qMFFkQVZYaVFvUVdoNkh4b2w1UFRaMjU4dWZ0MGFQTFZrSXg0aHpFVkF6VGtIaVBDTUNVd2lKamQzbk8xQ19DOFFnRWNUQXpfLUhscWdtcTktSlNCMjZuc01YNS1jV1hTN1ZvUEtqb3kwSHc2UGVGb0JMa3d0MFNZVldZcGt2MkFNQTlaaGZwc1dZWg?oc=5",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE4td3hqSlFfUl9xUS10VDhzXzJDSHRmTUEtUVpyU2lIOXFtakdsMEp3MWx6aHRjMDJpZDNVdDdVU09NeFlud1NDc2VQdVJ0RVM3LWdxaTc2ZFkxOVdVbkdySDl1dC1SU0NKWWMtQ0syRFZYT2hId0pMZw?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T03:50:20Z",
+      "published_at_ist": "2026-11-04 09:20 IST",
+      "first_seen_utc": "2026-11-03T22:10:55Z",
+      "age_minutes": 15,
+      "trend_score": 19,
+      "rank_score": 0.9173,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "BTS sets first K-pop record in the Italian market",
+        "BTS Certified 'Platinum' in Italy...First K-pop Artist to Achieve Record",
+        "BTS's Jungkook sets new Spotify record with solo album 'GOLDEN'... First Asian album to reach cumulative 1 billion streams for four consecutive years",
+        "BTS become the first K-pop act to earn platinum certification in Italy with 'ARIRANG'"
+      ],
+      "image_urls": [
+        "https://biz.chosun.com/resizer/v2/GVRGCYJRGQ2GKMLCGU3TAZJXGA.jpg?auth=94db8b86a2c4fdaccda7c8b2e3ca8090fd25dfc93a9e2d0db55824e1af6f16ca&width=650&height=341&smart=true",
+        "https://dispatch.cdnser.be/cms-content/uploads/2026/11/04/d6a79d60-6bbf-49fc-986b-bc530bae0ca3.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "20edec306b",
+      "key": "7-avenger-connection-crucial-episode-feature-infinity-marvel-visionquest-war",
+      "headline": "Marvel's VisionQuest Episode 7 Features A Crucial Connection To Avengers: Infinity War",
+      "summary": "https://www.space.com/entertainment/space-movies-shows/White Vision, Hex Vision, and Ultron all converge in this spirited new superhero series.",
+      "sources": [
+        "IMDb",
+        "GamesRadar+",
+        "TVLine",
+        "IGN",
+        "NPR",
+        "Space",
+        "Forbes"
+      ],
+      "article_urls": [
+        "https://www.forbes.com/sites/erikkain/2026/11/02/visionquest-episode-7-release-date-time-disney-plus-finale-schedule/",
+        "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
+        "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KdmNTT3FYZ0RBTmpSUUpKNlBLdHRoZ0YxSHNINERZeHZxQUpudnlvT1NZSUhqTk9NMy1hN1l6dC1iLTRtd3ZVRndMYlBuOFpwTjRPX3hmVThrY25kVk5mVkx2V0o5aWQ4eGc?oc=5",
+        "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RazRvX3hoMDlWeUJlQ1FFVC1LQTNGT3NLSmdLQUFaOTZjRG1rMXp1WmtsRHFNQjhpWGE5RW5SVFJRR0IteU9XQkdva0hpTFJibXFFOTZRNlJ0ME9SRUIwdlV2LWU1ZmNrUmc?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOakt4ZUNVWHkyZGppVWV3cTA3djhBZ2VMdEJpN0E1cV9NYnIwbVQ1S0kwd1ZtT1Zfc21TMDZPdWV3dE1iTlZmejBrSDR0cEg3TlkyM2YyTVJVT1dlcDJrYVFwNkZ5VG54bU5sZ25pUy02NmVheUU5QnliVDAwQ3hlTHRXazAwMWtnUll5RmQ4ZFdTcTd6XzZJcVZNTm04cV9NX3RsNlBGWEozSFRQYk0tUkw3T0ZOcFJVb01qLUNIQUE?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZmJCUjZwV3ZXNEJOX3FuTWFXWC1POEdCT1dxSHhTMkdhVGlmdGU2NmxCc0F4aFlDMVlsVnFDRFF2cHdCUUtnQWV6eTdiN0I2Qnd0NUZyc1JReExmaVJIRXpydkdvRXhvaUQzQWpMaEVDOEw0N09ZWWYtSVRsbUdWcmg4TEw2ZUVJd241NlBaQndEUXUwMmd6enBoUFMzUFpHaVVDSTludzhTS2c?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRHlYT3psUDFGbXR5VjU4OW4tOTVyUVNWMThnS0t6ZzZrenBIZkVVM3c2QzR3WWZ5TkdoX1M4cFF6cjVJWGtXVEV6a0pmLVhORVBMUzJQMExBbk5MWF9FdFdTUllLZFlkNDBYMEF3S3lCaENTTVhVV2tSOGU1YUpBT0dn?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T03:36:05Z",
+      "published_at_ist": "2026-11-04 09:06 IST",
+      "first_seen_utc": "2026-11-04T02:00:00Z",
+      "age_minutes": 29,
+      "trend_score": 20,
+      "rank_score": 0.9135,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
       "google_trends": [
-        "byron donalds (GB 500+)"
+        "visionquest (GB 200+)"
       ],
       "india_topic": false,
-      "global_pop": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "VisionQuest episode 7 contains a big Black Panther Easter egg that ties up a loose end from Avengers: Infinity War",
+        "Paul Bettany Plays Multiple MCU Roles in a Truly Haunting and Compelling Episode of VisionQuest"
+      ],
+      "image_urls": [
+        "https://cdn.mos.cms.futurecdn.net/nt3cqrW7UMihFWRoJ8wAnc-1280-80.png",
+        "https://cdn.mos.cms.futurecdn.net/nt3cqrW7UMihFWRoJ8wAnc-1200-80.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2j-nurPI_zQhC8GKjkiuruMR1RqfPGXe3Nzgc7A4glBuF4rrWD44J2ZM6sSM",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRhAh2JK71ztHM3afu7CX0i5a4_duiALRjKWkKxKVyMUQtv_9KfVTthZ3kwys",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw5EdTdc7o6lgdZomSAwqwy9DOqcn6JtwbiGNzaP3DuW1rfyf_CVvxIZChLU"
+      ],
+      "video_urls": [
+        "https://youtu.be/sXKnmgmbkoE"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "af787f5ff3",
+      "key": "300-filing-most-none-smes-swift-taylor-trademark",
+      "headline": "Taylor Swift has over 300 trademark filings. Why do most SMEs have none?",
+      "summary": "https://www.businesstimes.com.sg/opinion-features/The world’s most valuable enterprises have come to treat IP not as a legal formality but as a driver of growth Read more at The Business Times.",
+      "sources": [
+        "The Business Times"
+      ],
+      "article_urls": [
+        "https://www.businesstimes.com.sg/opinion-features/taylor-swift-has-over-300-trademark-filings-why-do-most-smes-have-none",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdkJnaS1PdjZkNnVJcUV3VVU2SS1RLWp0TkllSUZRM21uc0hwLWFGUTJxZF9CdDlGOEpRLWE0Z1dTcU1zVHNIMkNKX1U4cXJuejJOejFZZnlWQzhPMzBvcVI0UjlDcnRuOE13WDg0RTdFajhDcGZhWkVxa053Y0tZRDRjNWhKeF9MSjRqZjdaTHJhY0xYU2k4NHVSaXZxeS1qZEFaTVN1S2Q1UFZ2TWxERkswZXA2enU0bTMwdA?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T03:59:00Z",
+      "published_at_ist": "2026-11-04 09:29 IST",
+      "first_seen_utc": "2026-11-04T03:59:00Z",
+      "age_minutes": 6,
+      "trend_score": 13,
+      "rank_score": 0.8977,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Taylor Swift"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://d2jq4jjbn1fq59.cloudfront.net/florida_jolly_donalds_2026_89495e8383.webp",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-7ROHWnrHdUZ8UyKKNq6KjNphLiAxNd9wEmgo42GkLBR8LIITLc1_Je-AR-8",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtP-b5dtN6MNgxpZYmTktoVFxe9ybWRbARVs_cZT2E4nl9dlNUZU8wkvxFwE4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo80T1nIr8q6gW_3LIjuson33L2fo0dzMobyOTbqeJ093sga4enBBRie8eFoE"
+        "https://cassette.sphdigital.com.sg/image/businesstimes/f5265f82ab8d89828de72980e390819c27010243715af085d47721e03f5ca491?w=1200&f=webp"
       ],
       "video_urls": [],
       "has_video": false,
@@ -314,32 +549,32 @@
       "summary": "https://www.autoweek.com/racing/nascar/a74307264/dodge-has-no-nascar-cup-body-panels/NASCAR says the 2027 Dodge is progressing through approval but faces a compressed timeline to be ready for Speedweeks and the Clash at Daytona.",
       "sources": [
         "Yahoo Sports",
-        "FormulaRapida.net",
+        "Grande Prêmio",
         "grandprix247",
+        "Grandprix.com",
+        "The Independent",
         "Autoweek",
         "The Driven Chat Podcast",
         "MotorBiscuit",
         "Sky Sports",
-        "BBC",
-        "Formula 1",
-        "Autosport"
+        "The New York Times"
       ],
       "article_urls": [
         "https://www.autoweek.com/racing/nascar/a74307264/dodge-has-no-nascar-cup-body-panels/",
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNEd6dmJKRmNZclRWVi1fX0tGWFY3NU50WVFiLTZmV2ZYaUR0dXVvODBINEtyMEVfczExeEluWWFoY1NtZVBLeWpCTl9WUVpMcmtLRHpnZ3d1eFI1WkF6ZEs3WXJhd2loZmhHMExlMmluTlo3SzVWcnNmWHI0bVQzVUJR?oc=5",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFMTlPazJ3NFdDcTNRR29ST213dDdCM2FObUtfU1VRNnRVT1ZsdzIxU3JSbmJDalZFYmVDUHktT29jRnFXMGNVcVo1aU42Sk5XblRSMHczWTR3d3VoOUNiWklqQ0VVdjJDLXk4cDhOTzDSAXZBVV95cUxNNzVlU0dZdU01ejRPWTB6LW9DSDNvbTB2YTJqV09JMFVoMk5ydHNyaWtRMnVWcGxIQ0VKZFdEcFlZRkp2NHhYUGxVMGNVM3FlLTFuc1FlS09ELThsRExUcS0xMkpZc255LVR4SHlvYmFQajQxbkFR?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVB4UkZxS2ZRU3M3cnMyQ2hkVTYzc3hSNTNNcVNreG1RaHBTRXlrR0VzcWQ4WWM0c2JTcElnbzQ5UUd4Rk00OVVxNzg3R2E2VEs2NnpwNUkwbEx1RGdVUnhhejRaNzFLT1VzNnlmeFRsQUt6clR3QUJCOHk5WF9hempKaEl4OHU0WS1MY2ZVcWVpMUo4czUzZEoydlVUTXRuVXVfa00zTERQZnFkVmxRbg?oc=5",
         "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbHAycDAzcGRRR3F6c3EtRjdad05yU3BEcS0xak5VUzhpZW52eGJEZzlLWHBUYkRaMGU5ZDM1S0ZXNVppZVAtcDBLQVNFNl9CanNFRFBnU3ZJa3ZYRWYyMlFtTlVvaU52OGEwVVIxSDdDS2lMWG9zMVB0ZExlS05zUG4tUEF6REZUeFlYRzNadzRLU0dTTVRyZlB6VDF5a1NJZnYxSnA3Uk1fWEgzYjNhS0J4OEg0NTU2NXNZNHdCRmY?oc=5",
-        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHhoWXctRTQzazR3WWlza3pTcDBGRk55cmYtdUVWdWJRX3FHenp3RHNVR3lHRDNVdHN2dkt4S1g5NWMxd2ZURlJ4aENxaWlaWktCOEdRSDBGNWlhWVN2R1JEU2pQS0hhdks4QU1YVS1WNTlaYWtETzFKVTdDQTJGYkFsQUdDMkViZ1BQMGZHWmRWVWlRVWVDN3N1RjY2S29ZSmc?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqUmh6dEFoQTlBLTlPb1FfT1UxaWFRVzVKbjRTMUZsSkxLTkJUVExfcFJGUjRsXzFEcFZXVkYweGctaFdfdk5kTWVGdUdJajVsMEQ1QnF1MXdnMGh4UXlyamR0V2l1eHJadGJtQW9DN0thX2lHcHh0VGZiWHF4TnM?oc=5",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSTVqM041aE5ESzhaX2VqdFFMOWw4Z1IxMmlqQy03cFJENHlMeldQTzV1ZDRCbm1GMHZmNEpVTzBNQ2xKeG8wRHpyQ0hVQkw2NlRrQS0zWEFtY2Jkck5nZkM0Rm5wOTBGZDdqSTgzbUlpakQ3SHI2REFyVFYzZmN2ZW1pakQ4UkwxRkZSc1F4UkgyQkhmd2pDM2xodUlkUzhJaFNkZVpXMWRtc3pkRkE?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeE4xN2dRVXBhc1gtQUVlS2NEcXFhcnZ4RGZWLXFNSEFaVV9KeGZEWnM3MHFLUU1oT3AyQUZmYnpjRG1DWm5rT1d6ZXItLXVqNk5JZDBYM09rbHlaNGhCM2NJeDFENURsNG5uVHd3ZlprQ2x3ZXlCSkRnWDcyVC1TYzNDQnVMdWJUdTdRSWdvNktuUkNadTVHZ1lxVEE5QlROclR4c0VGcGZzRVlCcmc1QTRqc08tY3dyNnVtOTlBYkJhRm5rRXF6ZlFlS3YwR0JCc0dsaVB2WWdxZkpBSEkyYmNrLVg?oc=5"
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRjlPNnZ3VHRtMHgxaEozVGRhdTMyekstcDRjcmhyS0hjaGcwT0lnekF6YVNsNDA1TWdJbkR6bWdPNkcxVFZCWXRVWjh6V1JkTTlHR2p1bGV5RUthYm1iOVBsZGhHaHBocXBucVR4dHViWVFMVUdiMWlyV0RodVJxUW4zSnRxYUctczh2RWdIckRudWhnNlZlZENsVDZiNmNtd2txN1hUUVpibmstS2FiSE1zY0lZcTRLeWNCZm1KY2QyRDh5VFE?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWG14RGQyNFFHYkdGcmQzRlRTZ3Fwb2k1bjNCNGVpVDZwWFJzWGtyUURHSDQ5ZWVPaUVlcFJVcTgxeHFtU3BuT2tOSDJhNTVueEwyR0RhbEZMRi13b19uTDQ1NGRvQ2JfQkFrdVlnTlRsLXRWSTZvMm9oTlR3dnc0aU01M3NTbzEwcHp3cmF6WkpBUm9PcjI3TkNTaw?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcUZ0VGRVNXAxOU5vMHM2bnJrZVQ0SDRfODRDSVF3SDNyczBOMjAyVVR5eklGWS1YWURTa1BfYUUtWWRaelNQWFNWWjZEQWtfZm40VlF1M2l6cnVEWnB1aFZJaERBS3d0dGVFajhaRTJXeTA0VjNJTktjcDVudkJCYlpuWFAyUURnNE1KV2NyRmsxWFdsU3laT3B4SmRHd19K?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaHhoWXctRTQzazR3WWlza3pTcDBGRk55cmYtdUVWdWJRX3FHenp3RHNVR3lHRDNVdHN2dkt4S1g5NWMxd2ZURlJ4aENxaWlaWktCOEdRSDBGNWlhWVN2R1JEU2pQS0hhdks4QU1YVS1WNTlaYWtETzFKVTdDQTJGYkFsQUdDMkViZ1BQMGZHWmRWVWlRVWVDN3N1RjY2S29ZSmc?oc=5"
       ],
       "published_at_utc": "2026-11-04T01:25:00Z",
       "published_at_ist": "2026-11-04 06:55 IST",
-      "first_seen_utc": "2026-11-03T18:45:00Z",
-      "age_minutes": 40,
+      "first_seen_utc": "2026-11-03T19:34:38Z",
+      "age_minutes": 160,
       "trend_score": 41,
-      "rank_score": 0.9667,
+      "rank_score": 0.8667,
       "category": "sports",
       "section": "sports",
       "source_type": "news",
@@ -359,9 +594,9 @@
       "us_league": false,
       "other_headlines": [
         "F1 2026: Rafael Camara Might Skip Remaining F2 Races To Drive for Haas",
-        "Rafa Camara makes his F1 debut at the Brazilian GP with Haas",
+        "Rafael Câmara's Haas F1 debut in Brazil: Why 2027 could begin at Interlagos",
         "Esteban Ocon and Haas F1 Team part ways, Rafael Câmara to make Grand Prix debut in Brazil",
-        "Esteban Ocon dropped by Haas for remainder of 2026 F1 season"
+        "F1 Today: Câmara's shock Haas debut confirmed as Verstappen and Ferrari controversies grow"
       ],
       "image_urls": [
         "https://hips.hearstapps.com/hmg-prod/images/c6abf9c5-b0f2-49a5-8fe9-164ec8595b4d.jpeg?crop=1xw:0.75xh;0xw,0.039xh&resize=1200:*",
@@ -375,202 +610,82 @@
       "youtube_videos": []
     },
     {
-      "id": "f5dc92f8e3",
-      "key": "arirang-bts-certification-earn-italy-platinum-pop",
-      "headline": "BTS's 'ARIRANG' Earns First K-Pop Platinum Certification in Italy",
-      "summary": "https://www.chosun.com/english/kpop-culture-en/2026/11/04/RJYMYIJYZJCA5GP2WN2WAWBS6M/BTSs ARIRANG Earns First K-Pop Platinum Certification in Italy The fifth studio album achieved 50,000 units through sales and streams, marking BTSs latest milestone in Italy",
+      "id": "5b64ee10aa",
+      "key": "124-card-fight-full-ufc-vega",
+      "headline": "UFC Vegas 124: Where to Watch and Full Fight Card",
+      "summary": "https://mmasucka.com/previews/ufc-vegas-124-how-to-watch-and-full-fight-card/This is how you can watch and check out the full bout order for the upcoming UFC Vegas 124 card this weekend.",
       "sources": [
-        "The Korea Herald",
-        "조선일보",
-        "DIPE.CO.KR",
-        "Chosunbiz",
-        "allkpop",
-        "스타뉴스"
+        "MMA Sucka",
+        "Sherdog",
+        "Sports Gambling Podcast",
+        "UFC.com"
       ],
       "article_urls": [
-        "https://www.chosun.com/english/kpop-culture-en/2026/11/04/RJYMYIJYZJCA5GP2WN2WAWBS6M/",
-        "https://www.koreaherald.com/article/10925270",
-        "https://www.dipe.co.kr/2350225",
-        "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQQWpwczF3dU8tTHNtbm5WVVhVYVNtSE1Xc1p2a2tGVFJidXBwM0RMRXp2ZU1EbExLN3dyUExCblRac1pZNHJIVWR2VTRmcUNyeEt1Zzcycw?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWi1JTTN1Y3lYMVJQSmNJdkNtZXZrSEp1QTYyRXZwdklvTmNua3l3WkV5cVJkRDQ4YlcwNzZVZ3pSVTFGWEhxZ3d5U0Z2RTlfVWNnU1ZIZ25OVWFfMjJPOFJOSkwxcjVSblZqWm11STk1MUE5MFNzZVlPanNmdU5KQmFSTWlyMXEwYjRkc3dR?oc=5",
-        "https://news.google.com/rss/articles/CBMiREFVX3lxTE5lbllSaFlqNkVnQmR0blUyN0k3Nm5jN2VtMFhQQW9Tc0JZZUw0NS1iNHd4UjAzVjZTaXBVbld6bUxaOFlw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUXpiUnVsT1ZITEE2N2NucXVvMEZwc1FJUjlZQmdlTm9BcDZEX0JuTGVXdmpiRENhTGxYc1h6bzRHdVlMMWQzcDhSYmJFNFRIeXRHZEFhaWZ1QldLUW1jeHMxdHFyanFvZGtjdHFoeE5xd0ZkQ3BXbjJabEtYV1lITkJCTlRVZ0Ju0gGcAUFVX3lxTE1CTUxCZHJsWW9qMFFkQVZYaVFvUVdoNkh4b2w1UFRaMjU4dWZ0MGFQTFZrSXg0aHpFVkF6VGtIaVBDTUNVd2lKamQzbk8xQ19DOFFnRWNUQXpfLUhscWdtcTktSlNCMjZuc01YNS1jV1hTN1ZvUEtqb3kwSHc2UGVGb0JMa3d0MFNZVldZcGt2MkFNQTlaaGZwc1dZWg?oc=5",
-        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3NQdFhKSlc5N1ZmQjVEbEtncVFJRmMwZ3k1U3RZY2V1aTJBaXhjZVFIZktCTTNIcmZGOVNjYUxZMno5RGtIXzR3cFZDb2szUTE4WFpEdTY1UE00SUpTU1R5LVZLZWFUMlBqZjV5bzNGUnFzVDMzRnVPdFF6elNVaVVFT3QxbE1SQ2JKMms0Z3NyQVB4QjJ0dW02bDJKWUpnaExKLU0wdG5aSHFobVIwVU9idzA2eTNsblEyMTdLTE8?oc=5"
+        "https://mmasucka.com/previews/ufc-vegas-124-how-to-watch-and-full-fight-card/",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUzYxX3lzbTZxdnhzS2NTZXRhS3ZyWGFSLUgzRTdfOEFYZjdrSGdURHNtS2tTLVg5OGRJZ1FGNWpvTWQzS3NTZkN0VzNST1lSSHY3U0FkSVI5eTRZQUNHVklQdlNDNFkzTXpUQWRBelpvbVBSdDVlTHF3eE9OUG1PWVhidw?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSTQ5LUNEeElZNUNrdHJIRjBUQ3JaZUU5eTdLdGxKeFdYM3YtNThkanZFNVV1R1EwN3g0YWVYcFRoall5MFN0SlMzMm5HWFRtdnRMVGFRY0VtMXBtakVmbUt6OTZCanA5MEtWa1EwUWZsYkwxYkZqbEpoQlBYVHI1MjQtWjE2VXBTQWctY291WkZrWkViN1RvRllBN2twcW8wOGplVFBhXy1CR2pjUE9oUVlTTGdTMlNXY2d4eg?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcVo0V0RXd3lsMGtTa2JjSWplUXpRTUpJd0k0ZmdtX2psRFNlZ1oyOVhucHJxbjJsS05NaXNxTloxRVVjcGZYQWdwSThDRW9aSXRJM3pJRXlCWTBOVk4wZW91bHlDTmxEX280SXA5NTNheWZ5bVcwdE5QOURsdF9LQS1LdVJiWU1Hd1RvXzZYMktFWFExRy1KQkpvLTVxVnhHUGEyR0ZtOHFnS1k?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQlRPNFJXUVJrbm9yWldfLXRvbERTWG9wTHB4aldkUVd5NnJuZXBUeHpBNVBZQlA3VWV3VXVKaER6UDVZM2xQcEVVSFE2aExoc2hFNDhtc0lnQm5qdzlKbjJDRjIyZlR6NGh1blZhRzVOSkFvVXI3Q0NFQ0ZvdjlyUm0xVHZtVmpyeVlEbTM3ZmdjWmpURktFUg?oc=5",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd1NUNS1jeEcwb2RTOWRENDBaN1pWdVJVT1I0QmZyekQxd3hLc0xlVF92UHB1Q1NrR0NURVJKTVJjaHRpSi13TlVCQnpwRnR5SkM5YVN6bmxrQkdNUHRjTHN2Ti1VVUNwZHJraDRIeWhOZlAyd3hhRXRpbXc5X0gzMTZXTmc?oc=5",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1JdUpWVTZ5ZWJXOXgyazRaa0VYSk9lcWhLTVljOEFRdVlwSVlxbFJYOUpKdVlQUXYxcDZyQlNXVGxLQUo3Q1VyeW8zR2lScXAyLTNMYXlLM29hZElPeGk3eENsSnZhcGs1dkNaSVd5WWZ6Zw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T01:33:49Z",
-      "published_at_ist": "2026-11-04 07:03 IST",
-      "first_seen_utc": "2026-11-03T22:10:55Z",
-      "age_minutes": 31,
-      "trend_score": 20,
-      "rank_score": 0.9118,
+      "published_at_utc": "2026-11-04T04:00:59Z",
+      "published_at_ist": "2026-11-04 09:30 IST",
+      "first_seen_utc": "2026-11-03T20:45:00Z",
+      "age_minutes": 4,
+      "trend_score": 11,
+      "rank_score": 0.8447,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "'Arirang' becomes first K-pop album to go platinum in Italy",
-        "BTS Certified 'Platinum' in Italy...First K-pop Artist to Achieve Record",
-        "BTS earns Italy platinum for Arirang, first K-pop album to do so",
-        "BTS become the first K-pop act to earn platinum certification in Italy with 'ARIRANG'"
-      ],
-      "image_urls": [
-        "https://www.chosun.com/resizer/v2/HBRDQNZTMM4WIYLFGRRGKNBQME.jpg?auth=be4ebab99efb85b5e0642cdf4f147ed0f3f0cee49eea39268f71b1b1f74dd9b3&width=650&height=341&smart=true",
-        "https://wimg.heraldcorp.com/news/cms/2026/11/04/news-p.v1.20261104.4b7ea41c11804f718f4099f8195876f0_P1.jpg",
-        "https://dispatch.cdnser.be/cms-content/uploads/2026/11/04/d6a79d60-6bbf-49fc-986b-bc530bae0ca3.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "a7c0205435",
-      "key": "bts-busan-charged-false-fraud-hotel-overbooking-owner",
-      "headline": "Busan Hotel Owner Charged With Fraud Over False BTS Overbooking",
-      "summary": "https://www.chosun.com/english/national-en/2026/11/04/ZG5PGIY57VG5BC25EIQJ24FJIA/Busan Hotel Owner Charged With Fraud Over False BTS Overbooking Police refer case after owner deceived guests, canceled reservations, resold rooms at 6x regular price for concert",
-      "sources": [
-        "조선일보"
-      ],
-      "article_urls": [
-        "https://www.chosun.com/english/national-en/2026/11/04/ZG5PGIY57VG5BC25EIQJ24FJIA/",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGNab0E0VnptTGY0ajI2VzgtbVNsbUlYcHoxZnVJd1UyMUg2QVZDU1A1VWpGaHZ3OWNObnJoTzhORW91YlpRLWpNU1NYWElFLWR4M21lZmc0dkoyeXZyOHlObUVIM3RTVG9aYk5pM2o1VlRMdVBQVzI3SkFCLS05S1l5WDJsaHZQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T01:58:46Z",
-      "published_at_ist": "2026-11-04 07:28 IST",
-      "first_seen_utc": "2026-11-04T01:58:46Z",
-      "age_minutes": 6,
-      "trend_score": 13,
-      "rank_score": 0.8677,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.chosun.com/resizer/v2/G4YWIMJXHA2GGODGHEYTOZRQHA.jpg?auth=688f2d37d2ebdd7a608e9961b4173c91f08edd52c0ea8dd1fb9afcdafd0b972b&width=1200&height=630&smart=true"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f98499e361",
-      "key": "alvarez-ariana-bob-grande-look-photo-ricky-share",
-      "headline": "Ariana Grande Shares Ricky Alvarez Photos and New Bob Look",
-      "summary": "https://mx.advfn.com/noticias-de-mercado/article/9951/El petróleo sube tras el ataque de Estados Unidos a la isla iraní de Qeshm. El Brent alcanza 106.61 dólares ante riesgos de suministro y menores expectativas de paz.",
-      "sources": [
-        "JournalArta",
-        "The Shade Room",
-        "The Blast",
-        "Oprah Daily",
-        "People.com",
-        "iHeart",
-        "Billboard",
-        "RelRules",
-        "Yahoo"
-      ],
-      "article_urls": [
-        "https://mx.advfn.com/noticias-de-mercado/article/9951/petroleo-sube-tras-ataque-de-estados-unidos-a-isla-irani-y-menor-expectativa-de-acuerdo-de-paz",
-        "https://www.elfinanciero.com.mx/economia/2026/11/03/registra-petroleo-mayor-caida-en-poco-mas-de-tres-meses/",
-        "https://journalarta.com/en/2026/11/04/ariana-grande-shares-pda-filled-photos-ricky-alvarez/",
-        "https://es.qz.com/precios-del-petrleo-caen-dialogos-eeuu-irn-temores-de-guerra-110226",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPckRrWDNZOVo1LUZHOWg4Nm8xWW83dVBUWTNraGEtVzFqUEhPVUpZQ3Q5TDJIQk1nVlhFX3FmWGVFUE9idUFDaVdGaFFfQjFzNVZhMldqbkpzUnRYYlpUU3JKQWVFM2ZqZU1QYU1jTE9qN0pKdVQ2aTJObjFBMFFSNVVSbFhPdHBOcGx5eUxieENOTmRxQ1E?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTU9WWEZlS2hJVk1fNk9rTF9LaW56TDkxQmE3M0d1dldWcjBURTJNd2dnRzZQTXpEWEE5Nk1BTzVvejIwNjFUZlU2LU5maEpPd1hieWVydklYZlFxdjdjdDdLb1hlb0dLUTkwZm96ZWJvSG5qcUFEMzJqSW9lSUppWXZoWElwWDNaaG1raU1fSGMyUW9HeDljdk5jNDVhNllYZHZLRVktc0kySVZkcks2OEc5NTZLRG1xYjFjamJMbU4ySFdkRktmakMtaGJwQ3QtYkdOaFRjTTBmX3I3UGpHYl8zT25jUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1qeGdhT2Z3M0tMM0FGdUpCQUJPdWZJQkc1eEFzSldZTWxHMXNVZXk5YzhQeTU2YjRUME1hTHRIWVZCR2sxMWxoODZxMndJLVhsZjdiUW85NWNISUJ6Wmx4M05XUWtZenFFRkhGT1BiLU1vWWFTZVFn?oc=5",
-        "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkN0R0k0Q0wtZjVjbUl2SmVMVzBiZjNDZ3JXXzV0NFE5SWt3MV9xUHV2Zk9lWHN6SmZkTHpwMWxwYkJCTE9Hc3RaVENxd1p6OVZPMS1yS3E2NnhHWGZjcWZpYTZzajVMaW81OXotM0xwTzBhZXExLVFEUm4tQk5NbC1Pdm1TR2Q0WnlndDR1X1ZKbXlHbEdoQ2pSWG4zaUtmQVFXcU9wR2NjVDJxaDFj?oc=5"
-      ],
-      "published_at_utc": "2026-11-03T23:32:34Z",
-      "published_at_ist": "2026-11-04 05:02 IST",
-      "first_seen_utc": "2026-11-03T17:54:12Z",
-      "age_minutes": 152,
-      "trend_score": 21,
-      "rank_score": 0.8484,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Ariana Grande"
-      ],
       "region": [
         "GB",
         "US"
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [
-        "irán (US 1000+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Ms. Keep A Man! From Ricky Alvarez To Ethan Slater, Here's Every Time Ariana Grande Moved On & Found Love Again",
-        "Ariana Grande’s NYC Sighting Sparks Fury As Fans Slam BF Ricky Alvarez for ‘Ick’ Antics",
-        "Ariana Grande Shares Rare Photos With Ricky Alvarez After Their NYC Marathon Outing",
-        "Who Is Ricky Alvarez? All About Ariana Grande’s Boyfriend After Their Romance Reunion"
+        "UFC Vegas 124 Pre Facts: Two LFA Champions Fight Saturday",
+        "UFC Vegas 124 preview: Cortes-Acosta vs. Walker & key matchups",
+        "MMA Underdog Pick of the Week: UFC Vegas 124",
+        "Fighters On The Rise | UFC Fight Night: Cortes Acosta vs Walker"
       ],
       "image_urls": [
-        "https://mx.advfn-editors.com/wp-content/uploads/2026/06/oil-chart-2-NEW-SIZE.png",
-        "https://www.elfinanciero.com.mx/resizer/v2/IZQSOOURD5G6DGUFPLCVO5WTLE.jpeg?smart=true&auth=f246d2949525acb39256591c7da52558ae43db29b27928a45a143cc01a768547&width=1200&height=630",
-        "https://journalarta.com/wp-content/uploads/2026/11/ariana-grande-shares-ricky-alvarez-photos-and-new-bob-look-ja-discover-1200x675.jpg",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8SVSjLN5Ab1vTogZPNbK8p8f5tctD_X73PXSmFZpbWvRTUs__A24T3gQXjrc",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1vtJfEYAb_AEqE-uiTLz9OkUn_QMXp9E99iLhdUXYd_Od7_HBQmiN2ISKUqU",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRMJ4F0_f7qapMcmKmAyzCpyUbCNA4ZTrN4VRMwUcIC6ryLs3gP0IxEW-rW9lY"
+        "https://mmasucka.com/api/media/file/Jandiroba.webp"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/shorts/4S1fobyNsfE"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "6896d6a54c",
-      "key": "antonelli-becoming-champion-kimi-react-world",
-      "headline": "Kimi Antonelli reacts after becoming 2026 F1 World Champion",
-      "summary": "https://www.formula1.com/en/video/Kimi Antonelli sits down with James Hinchcliffe after becoming the youngest Formula 1 World Champion in history, following his P3 in the Mexico City Grand Prix.",
+      "id": "96d7686396",
+      "key": "antonelli-champion-city-didn-get-kimi-mexico-trophy",
+      "headline": "Kimi Antonelli is F1 champion. But why didn't he get his trophy in Mexico City?",
+      "summary": "https://www.skysports.com/f1/video/13606964/There was a wholesome exchange as Lando Norris and George Russell drove along side Kimi Antonelli to congratulate him on his new world title.",
       "sources": [
         "Sky Sports",
-        "ESPN",
-        "Formula 1"
+        "ESPN"
       ],
       "article_urls": [
-        "https://www.formula1.com/en/video/kimi-antonelli-reacts-after-becoming-2026-f1-world-champion.1880774672088457363",
+        "https://www.espn.co.uk/f1/story/_/id/50354613/kimi-antonelli-f1-champion-why-trophy-2026",
+        "https://www.skysports.com/f1/video/13606964/mexico-city-gp-wholesome-exchange-caught-on-the-onboards-as-kimi-antonelli-wins-title",
         "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcGJZUmdlTWJxUWhqdVY0OHRueGxVUVpyUUJ0YjZ3YVB0MnhaZktXZFRIeUY1NjM4RU9sQUlnX29xRU9scEVOUGt1ajIwNG1sREJGV3hlWk1KVjZZdWhoUFhFaGFrUnY4WWJUcDRLODk1aVlnX0NJclNpM1R0Q0xIa25xdzNuV1pQVTg0UFBpNktxLWFQa0pkaDRQMHdmU1ZOb3F6TGxFMjZLZVRrWHFjUk9iYlhfbUpCWjJqSWJhaUJFZDRqUjdPOA?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTV9NZUVJcUhLaFdvZ2RXTzF5VFRFQ3ZSZjU3R1oydE1LeHJ0SzUySDJMejBPU3hiTnZtMXFwdjF1ZElmVy1xclJVXzJ5eW41YlhhRUhqMlVRTXpBQjY5dHR6V2QwRGNnVjV0b0U3d3ZrT3UwYVpRdnUyMXU5SUo5WmE2RmZpTkF5WHZONlhGWW5Idw?oc=5",
-        "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZGhtMUozd3l0X1lhcVg0R0hfdTYyc2Zud0x6U3JoUkpfLXY2QnUwSDczdmg2SmZfMzVWZlpwSHdDZHFuWXVSemNpb1FTaktQWXEzUzBINk15Yk5LaENQZEpTajhULU9jUEl2UFM5VTJLendrT3VNdDE2LTAtSllibTBjTE1haGVsOHFPcDV1Sk10ckZjY2FINk16SXl2Z2lSblcxeTR6eEZULU5xOGRjbnB4dw?oc=5"
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTV9NZUVJcUhLaFdvZ2RXTzF5VFRFQ3ZSZjU3R1oydE1LeHJ0SzUySDJMejBPU3hiTnZtMXFwdjF1ZElmVy1xclJVXzJ5eW41YlhhRUhqMlVRTXpBQjY5dHR6V2QwRGNnVjV0b0U3d3ZrT3UwYVpRdnUyMXU5SUo5WmE2RmZpTkF5WHZONlhGWW5Idw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T01:33:39Z",
-      "published_at_ist": "2026-11-04 07:03 IST",
-      "first_seen_utc": "2026-11-03T18:48:48Z",
-      "age_minutes": 31,
-      "trend_score": 13,
-      "rank_score": 0.8468,
+      "published_at_utc": "2026-11-04T03:03:39Z",
+      "published_at_ist": "2026-11-04 08:33 IST",
+      "first_seen_utc": "2026-11-03T23:33:05Z",
+      "age_minutes": 61,
+      "trend_score": 12,
+      "rank_score": 0.81,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -589,201 +704,46 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Mexico City GP: WHOLESOME exchange caught on the onboards as Kimi Antonelli wins title!",
-        "Kimi Antonelli is F1 champion. But why didn't he get his trophy in Mexico City?"
+        "Mexico City GP: WHOLESOME exchange caught on the onboards as Kimi Antonelli wins title!"
       ],
-      "image_urls": [],
-      "video_urls": [
-        "https://api.formula1.com/v1/embedurl/video/1880774672088457363"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "040df9b0ac",
-      "key": "ben-find-iceman-marvel-men-reboot-wang",
-      "headline": "Marvel’s X-Men reboot finds its Iceman in Ben Wang",
-      "summary": "https://www.flickeringmyth.com/marvels-x-men-reboot-finds-its-iceman-in-ben-wang/The cast of Marvel Studios’ X-Men continues to assemble, with Deadline reporting that Karate Kid: Legends and The Hunger Games: Sunrise on the Reaping actor Ben Wang has been offered the role of…",
-      "sources": [
-        "Q News Pty Ltd",
-        "Flickering Myth",
-        "Den of Geek",
-        "ComicBookMovie.com"
-      ],
-      "article_urls": [
-        "https://www.flickeringmyth.com/marvels-x-men-reboot-finds-its-iceman-in-ben-wang/",
-        "https://qnews.com.au/marvel-is-casting-x-mens-iceman-but-will-the-character-be-gay/",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQkFJQ09vSl92VnlNN2NDQ0wxZ050V0ZoUDBWYWVzYzlzbDZUQzFzZTBqc2pXYWpmLW93OUtOWUpBUnlxZXRIUmRxNGNPdTUyQ2drS1FxTk5yUXJvX3BDVkh6YnhuX3FyUURfdHhVUEpraWpiR2dQVlVlMmIxM0tRSXJaYThuWmYwTzdR?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUzhPa054MkZpcHdNNlBNRGxrekpfeDNqRDZoRk9XWGNxbXBac1BxVm5WQTBPZkhjX3p4bDRVbjRmRVpxVnlhOExBWktnOU5OMnB2alNtQV8xa1RnTWdVYURtc1haR0NoTk9tNFotTGVZUEtNajZGeEkxVmExY0xBaG90b1hBTU1P?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZzdKaW16NS1rMW9fXzZrTnZ1aUtKUTFiYm45VW54SHl5S1FWZkNtemU2bUlmTXNlbTdCVlNjdGNEQ2hORk9MY0dmb0I0Ujg2NmszVEdXay1hb0QzZ1lyNGd2S1BsOEI3N3VLd0RuR3hhYm5HX3N5MnhDbWpsOF9LU2wzd2o4UQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPTlFDZ016dGt6RGhVUnRUWnV6NHFCdFVJZEsxdmZDazN2Q05CTXlKOEFkWjhMZHQxWmhLWkhZRHg1UnRDMmcxeEt2dVAxZGh4azVuTTJ6emIzOXk3V0MzY0h2djhJaTZFNi1mTWhITmdvcklIUEpEcE9HU0dkSHhncXlKZWJIYnFaUllQXzVkVElCV0J5NWxSSWNrZ2lhZERjN2tWSjR5SDBBN0t6cVhzQmU5T2drV2U2Q0xYeExKM21JdUpKZkE0OHE5cTQzT2lINUh4M3pB?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T01:43:57Z",
-      "published_at_ist": "2026-11-04 07:13 IST",
-      "first_seen_utc": "2026-11-03T17:11:00Z",
-      "age_minutes": 21,
-      "trend_score": 12,
-      "rank_score": 0.8433,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Marvel is casting X-Men’s Iceman, but will the character be gay?",
-        "Latest X-Men Reboot Casting Rumor Suggests Marvel Is Going Back to Basics",
-        "UPDATE: X-Men Rumor Reveals Surprising Plans For Ben Wang's MCU Debut As Bobby Drake/Iceman — Spoilers"
-      ],
-      "image_urls": [
-        "https://cdn.flickeringmyth.com/wp-content/uploads/2026/11/ben-wang-iceman-x-men-marvel.jpg",
-        "https://qnews.com.au/wp-content/uploads/2026/11/Dean-website-images-4-1.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/QL__AjJr688"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "8a6b2fc2c3",
-      "key": "beginning-bts-corti-dicon-difesta-dragon-kids-origin-stray-·-…",
-      "headline": "[DIFESTA] \"G-Dragon·BTS·Stray Kids·CORTIS\"…'DICON', The Beginning of Origin",
-      "summary": "https://www.dipe.co.kr/[Dispatch=Reporter Yu Haneul] \"My standard is the most recen... [more]",
-      "sources": [
-        "DIPE.CO.KR"
-      ],
-      "article_urls": [
-        "https://www.dipe.co.kr/2350237",
-        "https://news.google.com/rss/articles/CBMiREFVX3lxTE9Hd1ZCYmsweFdOWFhkWUFiN0w5X3lXNlQwUklIQ1A4bGFWbXJ6SVJ2cWhTQWhDV1l6NzZQcEhLX256ZGJY?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T01:27:00Z",
-      "published_at_ist": "2026-11-04 06:57 IST",
-      "first_seen_utc": "2026-11-04T01:27:00Z",
-      "age_minutes": 38,
-      "trend_score": 13,
-      "rank_score": 0.841,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://dispatch.cdnser.be/cms-content/uploads/2026/11/04/82dc7fc0-72fe-4d89-82d6-d838a2d5f417.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "ecd58e1a61",
-      "key": "behind-early-injurie-jame-lebron-major-reason-reveal-season",
-      "headline": "LeBron James reveals major reason behind early-season injuries",
-      "summary": "",
-      "sources": [
-        "شبكة تواصل الإخبارية",
-        "The Big Lead"
-      ],
-      "article_urls": [
-        "https://twaslnews1.twaslnews.com/7096966/",
-        "https://www.thebiglead.com/lebron-james-reveals-major-reason-early-season-injuries/",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tTjdiaFNjY2tBa0JmTTMtSnlmd2IyNkFfSGdDQ3JlTWI0RjZXYVBMU095NDZzSTE0elhTcmxhT1Y0c3o1a2h0WnVldVpkSTkzTVFN?oc=5",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQXNJVnJGR3RpSmJkR0Ntbl9GTUtnQ1ctT2R0b0dGSUFNeENYMmZuWnhUUHd6MUpLeEU1akU5TkRGRGJnWHJIQTZ4bE9BN1EtQVl5WmNqSENNblAtV3RXMnU3Z05JWVBrSjd2RmVyQjZhVGJoRU5aTFRDU2xuRHdyNmVDSzIwbE9WVmRj?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T00:29:02Z",
-      "published_at_ist": "2026-11-04 05:59 IST",
-      "first_seen_utc": "2026-11-03T17:39:14Z",
-      "age_minutes": 96,
-      "trend_score": 8,
-      "rank_score": 0.7519,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "LeBron James"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
       "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "938e05029c",
-      "key": "blood-cancer-coming-multi-some-soon-surgerie-test",
-      "headline": "'Multi-cancer' blood tests coming to some GP surgeries soon",
-      "summary": "https://finance.yahoo.com/economy/article/Prediction markets and pollsters both say Democrats are favored to take both the US House and Senate on Tuesday.",
+      "id": "7d96e32d58",
+      "key": "7-ending-episode-explained-show-spoiler-true-villain-visionquest",
+      "headline": "VisionQuest' Episode 7 Ending Explained: Why the Show's True Villain is [Spoilers]",
+      "summary": "https://www.space.com/entertainment/space-movies-shows/White Vision, Hex Vision, and Ultron all converge in this spirited new superhero series.",
       "sources": [
-        "BBC",
-        "The Washington Post",
-        "LCGC International",
-        "The Conversation",
-        "GPonline"
+        "Polygon.com"
       ],
       "article_urls": [
-        "https://www.reuters.com/business/finance/prediction-markets-face-us-midterms-test-election-bets-soar-2026-11-03/",
-        "https://finance.yahoo.com/economy/article/prediction-markets-vs-polls-election-forecasting-industry-faces-midterm-test-100000463.html",
-        "https://www.bloomberg.com/news/articles/2026-10-31/why-kalshi-polymarket-odds-don-t-mimic-midterm-elections-2026-polls",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5",
-        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmdRMGdHdTJHZzRsT2xFZTRLaTlOelN5V2ZDZkpxRE9pS05mQVd2SHBnQWVJZmdDR21BbktwU2h5ZUFaelNaNVEwc01mTlpFYzJxeDRuLTRteTJic1N3bEw5VWpWMFRYQmdhRjVRb2FpaU41UHJlTlRQaEgwTFRvZlpITUllQ3IzVmkxeHVrYlJkTzZBZXhFSV9OWkZMMXltZ3A1Tkx3Ui1veWxSeUpBUVczMURsZ2pUWGQ3NlZVVQ?oc=5",
-        "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLUVNNXpBeWhsVkgzR3A5dzlzVXc4YXdLMVhMS2VXVTBsbXdkSVplWUVwUi1mQWhlT0F3VnduejE0RkJfdGotV0ZVUFdBdlRuenZGOFZEQzE4RFRUTnU3VFlFSUd3ZjdhTDNZbGxDcjNra0RoY3dVWmpWQWRsQkZIb1FpMEc0VllPY3BPV00ycXVTOW1EbXIxeHRQQjdvU1J2R01pLVhPVGtSNWE2a2UwVGlFRGJFS2d5WFhQc3JHS1A3UUtObXVGY1BhQ1QwLTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WWnJDZy1yMnhMN2dFdm91YXJDNzBwWjVIckxhT3JuT3U3bm1aRmdWdm5ucFlPcEdKZ0JmWXFXdHVXLUw0b3BMeDJtYTZUa2NsckNSNmtBa2R6WTc1STZvTVcwM01DdTRCdXRhUlFPVklyWXU4VG81bEJ6Q3RwRjA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQXZJR0U3TW0wY0NucW5tQnRLNWljV0dHbW1MSllSV1Y5a2prQnVjemhtamhrZjcyTU9oN1ZUU3Vqc2drTmwyUDNsdFRueWhRRll4MENrTU1FMmQzaFZTeE9RYW9OZXdCUVl3S2FJUXB2UzZqRUNDTGlPMUJ1X2RRLXFVd21xUGRIM2hKaWI5Vk82WjZldFZwUnBHQm91Zm9wVE1Salg0a3dlQQ?oc=5"
+        "https://www.forbes.com/sites/erikkain/2026/11/02/visionquest-episode-7-release-date-time-disney-plus-finale-schedule/",
+        "https://www.space.com/entertainment/space-movies-shows/visionquest-homework-guide-everything-you-need-to-watch-to-understand-marvels-wandavision-follow-up",
+        "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSF9iSnJqbmpOUTZyWTQwMTlfakpzTUxQNHdueXIxVV8yUXhXVUpWY2I5QWlkMXJLNVczRXNRcERHRjdZUkhhQ2FTMlJCTjhWUGtsNVJyX0p0bzdrb0xidUF5akw3N1NjLS14emZuV3FYVVBrRkt3RWJHSXF3YS1OcE9HMUZadw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T00:04:28Z",
-      "published_at_ist": "2026-11-04 05:34 IST",
-      "first_seen_utc": "2026-11-04T00:04:28Z",
-      "age_minutes": 120,
-      "trend_score": 11,
-      "rank_score": 0.748,
+      "published_at_utc": "2026-11-04T03:00:00Z",
+      "published_at_ist": "2026-11-04 08:30 IST",
+      "first_seen_utc": "2026-11-04T03:00:00Z",
+      "age_minutes": 65,
+      "trend_score": 10,
+      "rank_score": 0.7799,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB"
+        "US"
       ],
       "language": "en",
-      "priority_queries": [],
+      "priority_queries": [
+        "AI tools & agents"
+      ],
       "google_trends": [
-        "test (JP 200+)"
+        "visionquest (GB 200+)"
       ],
       "india_topic": false,
       "global_pop": false,
@@ -791,63 +751,16 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/05161770fa62f5edece48d4a60be0960e3e57340bfb10bb4cb892b9b3564db5c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-11%2F951076d8-6374-4ec8-a0bb-238cc078f8c5",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTqzfC3GBHMF2QqYNKVrmWPl4UtcsHhDrg-7X9EEqJlxegF_ejz32qC7cjtIQI",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWRRgE0vWw_pd7PGglayXGeH8-7ZxfJfs7_4-Zu3SV5DZZTKzDfMQiPZKDag",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7YyjdkjbYnH0gBlgsRtXUaf-DnM1WeCbL5zTkREusVRqDxk1qqL5ULDIpHWM"
+        "https://cdn.mos.cms.futurecdn.net/nt3cqrW7UMihFWRoJ8wAnc-1280-80.png",
+        "https://cdn.mos.cms.futurecdn.net/nt3cqrW7UMihFWRoJ8wAnc-1200-80.png",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2j-nurPI_zQhC8GKjkiuruMR1RqfPGXe3Nzgc7A4glBuF4rrWD44J2ZM6sSM",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRhAh2JK71ztHM3afu7CX0i5a4_duiALRjKWkKxKVyMUQtv_9KfVTthZ3kwys",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw5EdTdc7o6lgdZomSAwqwy9DOqcn6JtwbiGNzaP3DuW1rfyf_CVvxIZChLU"
       ],
       "video_urls": [
-        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/d210494c-bc96-4e91-8f60-9b80284d9066.m3u8?site=finance&region=US&lang=en-US&devtype=desktop",
-        "https://finance.yahoo.com/video/why-2026-midterms-could-shakeup-the-typical-market-playbook-140255606.html?format=embed"
+        "https://youtu.be/sXKnmgmbkoE"
       ],
       "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "4514aae0ff",
-      "key": "centric-chart-cns-marketcap-swap-usd",
-      "headline": "Centric Swap (new) price today, CNS to USD live price, marketcap and chart",
-      "summary": "https://coinmarketcap.com/currencies/centric-swap-new/The live Centric Swap (new) price today is $0.006273 USD with a 24-hour trading volume of $168,012.42 USD. We update our CNS to USD price in real-time.",
-      "sources": [
-        "CoinMarketCap"
-      ],
-      "article_urls": [
-        "https://coinmarketcap.com/currencies/centric-swap-new/",
-        "https://coinmarketcap.com/currencies/re-protocol/",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcGtQajlKczdGSmlzRXN5R2F5bjRZLXpXNWxuWmNQS1RfVWRQMnFaaGJ1d0IxRDEteWJ1blFvVC0zUThsYWVWUjBhZGpvUG9YZWhsOEtjOERRZWpEVXc?oc=5",
-        "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5QmtkdUp4V3JUdklxandyOVNFeXY5RVlHVjNRbC1kampGZ0NiQzdFbWw1ZXRWbmF0QWlqRW95VEVybzZVYnRpRTZsV1Q5MjlQOGo1bmh3TTI2OFRYRHpxTjBrdTQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T01:15:17Z",
-      "published_at_ist": "2026-11-04 06:45 IST",
-      "first_seen_utc": "2026-11-04T01:06:12Z",
-      "age_minutes": 50,
-      "trend_score": 7,
-      "rank_score": 0.7414,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Re price today, RE to USD live price, marketcap and chart"
-      ],
-      "image_urls": [
-        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=6780bd4"
-      ],
-      "video_urls": [],
-      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -860,15 +773,15 @@
       ],
       "article_urls": [
         "https://thecomeback.com/politics/joe-rogan-gets-confronted-sam-tallent-about-maga-past-on-his-own-show.html",
-        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNzEyVXpOR2dPSF8wY2VXMXVyRVhpMFM1eTY0N1ZZS2NkZ2xZQVpTUlNOc2dRbGRGbHl5R2Q4UmVGVTFZRFdVX3JVaTRKV1lnVVVCUzBXQVZvZXppM3FERzI3YkRlcGx4aFpNaTlVZGt6SVZQUVpDVkg1TERsTTUyaW00Ui1uR0k2LV85Y084MVNvNUNkR3lnVG1uSURuZ09sYU1rVllPdTBkTGlVNUpjSGhnOG11SkI5TVh2NVNPMlk1aHVEdEtfcTZrbnJBVzV1ODNsdWJXQzY5SGZ3T19r?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczNNQVJ1TE5PcDdDdUdMOXdYWVdxcVgtaVJjSGw1SlV6STl3QVJZa25yUjBENXloclZRMEpqZ29sRFlkbF82MmF1VzFIRy1KaVd1bngyLUQzalhsdGhYVndqbHpHZGVwYjI1eWk0SlkySXA5N3l6YVpQbnJLOWNlbnFPQ0FyT3VGbEdpeVRjN29STnN1OWFDTEhMemsxQnctdHRyNE9aNmJHck0?oc=5"
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNczNNQVJ1TE5PcDdDdUdMOXdYWVdxcVgtaVJjSGw1SlV6STl3QVJZa25yUjBENXloclZRMEpqZ29sRFlkbF82MmF1VzFIRy1KaVd1bngyLUQzalhsdGhYVndqbHpHZGVwYjI1eWk0SlkySXA5N3l6YVpQbnJLOWNlbnFPQ0FyT3VGbEdpeVRjN29STnN1OWFDTEhMemsxQnctdHRyNE9aNmJHck0?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNzEyVXpOR2dPSF8wY2VXMXVyRVhpMFM1eTY0N1ZZS2NkZ2xZQVpTUlNOc2dRbGRGbHl5R2Q4UmVGVTFZRFdVX3JVaTRKV1lnVVVCUzBXQVZvZXppM3FERzI3YkRlcGx4aFpNaTlVZGt6SVZQUVpDVkg1TERsTTUyaW00Ui1uR0k2LV85Y084MVNvNUNkR3lnVG1uSURuZ09sYU1rVllPdTBkTGlVNUpjSGhnOG11SkI5TVh2NVNPMlk1aHVEdEtfcTZrbnJBVzV1ODNsdWJXQzY5SGZ3T19r?oc=5"
       ],
-      "published_at_utc": "2026-11-03T21:56:29Z",
-      "published_at_ist": "2026-11-04 03:26 IST",
-      "first_seen_utc": "2026-11-03T21:52:22Z",
-      "age_minutes": 248,
+      "published_at_utc": "2026-11-04T00:51:53Z",
+      "published_at_ist": "2026-11-04 06:21 IST",
+      "first_seen_utc": "2026-11-03T21:56:29Z",
+      "age_minutes": 193,
       "trend_score": 6,
-      "rank_score": 0.705,
+      "rank_score": 0.7508,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -902,23 +815,119 @@
       "youtube_videos": []
     },
     {
-      "id": "9dc9681f09",
-      "key": "airport-aviation-era-gear-intelligent",
-      "headline": "Airports gear up for the intelligent aviation era",
-      "summary": "https://www.bangkokpost.com/business/general/3348339/The global aviation sector is entering the intelligent aviation era, driven by the integration of data analytics, artificial intelligence (AI), automation, robotics and biometric technologies, according to SET-listed aviation tech provider Sky ICT.",
+      "id": "8eac80e3ea",
+      "key": "chart-gibi-marketcap-swap-usd",
+      "headline": "Gibi Swap price today, GIBI to USD live price, marketcap and chart",
+      "summary": "https://coinmarketcap.com/currencies/gibi-swap/The live Gibi Swap price today is $0.2219 USD with a 24-hour trading volume of $0 USD. We update our GIBI to USD price in real-time.",
       "sources": [
-        "Bangkok Post"
+        "CoinMarketCap"
       ],
       "article_urls": [
-        "https://www.bangkokpost.com/business/general/3348339/airports-gear-up-for-the-intelligent-aviation-era",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNkVUdE9MTHAyNlFiYzUxekd5UmkweXhNRkplUHF2QWdqaTdiSnNtRG1Fa19ZbnJKWXJucnNqeExtVWtDV3BBTzNvN1pySE9WOFBjWUJDbnYzTnozS012ZWpBX2U4QXFVVU03Ql9BRWc3ZnExaHpKRHA4Z1pudnZ5WHdnOTNBR2M4M2FyS29OSFhwVHFVY0FVMHRtSzdQd2kzS1I2eA?oc=5"
+        "https://coinmarketcap.com/currencies/gibi-swap/",
+        "https://coinmarketcap.com/currencies/solstice/",
+        "https://coinmarketcap.com/currencies/apm-fashion/",
+        "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nZ0ZIUWhNSlgxcE9qeWZEVE1FQ09oQjR3cmtpUmtEX0o4cEVRdzhCSUZGSm9xSlMtWVVYSnlOTUtfYy1zX0RPX2xMS3BUeURDN3ZQNXctcHo2QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KTVliN3VNYjVjWno4a1pJLWQ3MUJMWVF0clFQeHRVcVByVktiNXkxOW0zN1lHbDlkTHo2QWE4TUpJdVE5RFBxRTI2OEQyYTVtXzZKSU8xczFrMnM?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mZUtSMlhJMlJHdURVYkNBNlRGdmYyLWp0RjdLOTV0RE9ZUElZb0x3WWQxRWZmTXJyaVBtc0VabXpkTUM1dGdFaWlrR2xFOXZXOVlRbUViVWVtNXlnOWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01aWlzOFIwdXVmM0czRUotNWxTOG11MHBWZUxmRi1oRGlOQ1M4eDNPbUxjUlJnTG1WT0t1aWwtU2VPcXc5TWk2TmRvWEFESkMtdFZiMEJfb2RKNHBBeWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zcGtQajlKczdGSmlzRXN5R2F5bjRZLXpXNWxuWmNQS1RfVWRQMnFaaGJ1d0IxRDEteWJ1blFvVC0zUThsYWVWUjBhZGpvUG9YZWhsOEtjOERRZWpEVXc?oc=5"
       ],
-      "published_at_utc": "2026-11-04T01:26:03Z",
-      "published_at_ist": "2026-11-04 06:56 IST",
-      "first_seen_utc": "2026-11-04T01:26:03Z",
-      "age_minutes": 39,
+      "published_at_utc": "2026-11-04T03:21:19Z",
+      "published_at_ist": "2026-11-04 08:51 IST",
+      "first_seen_utc": "2026-11-03T19:19:55Z",
+      "age_minutes": 44,
+      "trend_score": 6,
+      "rank_score": 0.725,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Solstice price today, SLX to USD live price, marketcap and chart",
+        "apM Fashion price today, APM to USD live price, marketcap and chart",
+        "Squid price today, QUID to USD live price, marketcap and chart",
+        "Re price today, RE to USD live price, marketcap and chart"
+      ],
+      "image_urls": [
+        "https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png?_=6780bd4"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "3959914f9d",
+      "key": "14-most-node-restart-swap-thorchain-upgrade-yet",
+      "headline": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
+      "summary": "https://cryptonews.net/news/blockchain/33699097/THORChain said Nov. 3 that swapping had resumed following its 3.21.1 update, with trading available on 10 external blockchains alongside native RUNE. Three connected networks remain",
+      "sources": [
+        "Cryptonews.net"
+      ],
+      "article_urls": [
+        "https://cryptonews.net/news/blockchain/33699097/",
+        "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5lRXFzS3JpRkhIVHhtd3A4NXB3czZSQk9uVW44MTNIUzF1bHFnamNKcHNaUTJvSDJGbGdUM0tGZ0hkLUU3TVhMSVNrVzd4bnk5dks4ZEdmZUlsT09p?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T03:41:02Z",
+      "published_at_ist": "2026-11-04 09:11 IST",
+      "first_seen_utc": "2026-11-04T03:41:02Z",
+      "age_minutes": 24,
       "trend_score": 5,
-      "rank_score": 0.7045,
+      "rank_score": 0.717,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cnews24.ru/uploads/eb8/eb860fd8c7fb82309ea459d8adce1bd669cd8601_80.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "6e41052e92",
+      "key": "6-automate-keyword-research-step",
+      "headline": "How to Automate Keyword Research in 6 Steps in 2026",
+      "summary": "https://learn.g2.com/Learn how to automate keyword research in 6 steps, from discovery to prioritization and tracking, plus the top 5 SEO tools from G2’s Fall 2026 Grid Report.",
+      "sources": [
+        "G2 Learn Hub"
+      ],
+      "article_urls": [
+        "https://learn.g2.com/how-to-automate-keyword-research",
+        "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBQamZoaDVSZWFSRnJNRmR1aXd1X0dKSU00aUJtNWpxY1pEVzBBeWZtdC1TWUNwMFNuMllvbmFhaGdkNmp2U3RTd0VrOEN2X2hDdXdUMTFxNXIyYV9UQXZrMHJJY9IBc0FVX3lxTFBzczFROXluWF9oeExTai1JQzlpU3p3aGkweXRtaTgxNTRLczNneEU5N3BlajVPUDVXRE5TbTR1UzBDZHRmNkx1aExLTUV4Mk1LQnFoX1ZPVEdNQkJaSE1FNGhoejFpN241MjhINFhSUFZ3ZEE?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T01:30:00Z",
+      "published_at_ist": "2026-11-04 07:00 IST",
+      "first_seen_utc": "2026-11-04T01:30:00Z",
+      "age_minutes": 155,
+      "trend_score": 5,
+      "rank_score": 0.6078,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -937,30 +946,30 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://static.bangkokpost.com/media/content/dcx/2026/11/04/6289074_700.jpeg"
+        "https://learn.g2.com/hubfs/G2CM_FI104_Learn_Article_Images-%5BSEO_Statistics%5D_V1a-1.png"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "40032c9295",
-      "key": "assistant-build-learning-path-webcrawler",
-      "headline": "WebCrawler: Build a Learning-Path Assistant",
-      "summary": "",
+      "id": "e92780af4d",
+      "key": "common-fiscal-folk-handle-pitfall-rich-them-—",
+      "headline": "Common Fiscal Pitfalls — And How Rich Folks Handle Them",
+      "summary": "https://www.moneylion.com/trending/money/Unfortunately, money mistakes don't disappear as income grows. Instead, they just change shape. ChatGPT identified the common aspects uniting all classes.",
       "sources": [
-        "Oracle Blogs"
+        "MoneyLion"
       ],
       "article_urls": [
-        "https://blogs.oracle.com/fusioncoe/webcrawler-build-a-learning-path-assistant",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc0kwWkhQVVZSMFE3RmQydFpncXRmOG5DMkY2VWYyMzE5NmVVbTZEOC04UW9vMkp0cDBOTWdtbUNKSGNYSUhia2E3Tl9rWGZMYmVuR2Q2cjkxYjNVZjZZb1VJRnJuaENTcE9wemVTdk9MNkFVbHhZYWFEcGxIeGJPSDdnRQ?oc=5"
+        "https://www.moneylion.com/trending/money/chatgpt-financial-mistakes-each-class-makes",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbnhsWWF2ZC1KQUt4T2RMVGsyMzdVRkRraFpYdjYtLWpGUl9QU25aLTgwSEo2RVgzb1BudXU4TEtoV1ZhOE1jbjcyWTU0eTZfbGxSc0I3ZWt0QkFwRUtxSGxqUDBBZ1ptb2hZUlRFclM2alUtRnhuWk5PVUh0ZXVHal9PM1BlSXhZSjJZYw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T00:27:32Z",
-      "published_at_ist": "2026-11-04 05:57 IST",
-      "first_seen_utc": "2026-11-04T00:27:32Z",
-      "age_minutes": 97,
+      "published_at_utc": "2026-11-03T23:39:02Z",
+      "published_at_ist": "2026-11-04 05:09 IST",
+      "first_seen_utc": "2026-11-03T23:39:02Z",
+      "age_minutes": 266,
       "trend_score": 5,
-      "rank_score": 0.6561,
+      "rank_score": 0.5153,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -970,7 +979,7 @@
       ],
       "language": "en",
       "priority_queries": [
-        "AI tools & agents"
+        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -978,7 +987,9 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://images.ctfassets.net/38eowqxxlfkc/6nhEkkOvHCOWDZ4QLW4xrP/421e08debc796de04b391f0a8af3bc14/Frustrated-iStock-1189618227.jpg?fm=jpg&q=95&w=1200&h=630&fit=fill&f=face"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -998,9 +1009,9 @@
       "published_at_utc": "2026-11-03T21:53:57Z",
       "published_at_ist": "2026-11-04 03:23 IST",
       "first_seen_utc": "2026-11-03T21:53:57Z",
-      "age_minutes": 251,
+      "age_minutes": 371,
       "trend_score": 6,
-      "rank_score": 0.5525,
+      "rank_score": 0.4525,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1041,9 +1052,9 @@
       "published_at_utc": "2026-11-03T19:48:03Z",
       "published_at_ist": "2026-11-04 01:18 IST",
       "first_seen_utc": "2026-11-03T19:48:03Z",
-      "age_minutes": 377,
+      "age_minutes": 497,
       "trend_score": 9,
-      "rank_score": 0.5346,
+      "rank_score": 0.4346,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -1087,9 +1098,9 @@
       "published_at_utc": "2026-11-04T01:52:06Z",
       "published_at_ist": "2026-11-04 07:22 IST",
       "first_seen_utc": "2026-11-04T01:52:06Z",
-      "age_minutes": 13,
+      "age_minutes": 133,
       "trend_score": 6,
-      "rank_score": 0.3003,
+      "rank_score": 0.2603,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
