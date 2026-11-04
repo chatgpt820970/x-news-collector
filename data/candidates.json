@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-11-04T17:05:22Z",
-  "generated_at_ist": "2026-11-04 22:35 IST",
+  "generated_at_utc": "2026-11-04T18:05:21Z",
+  "generated_at_ist": "2026-11-04 23:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
-    "feeds_ok": 89,
-    "feeds_failed": 0,
-    "raw_items": 5391,
-    "fresh_items": 4450,
-    "clusters": 1999,
+    "feeds_ok": 88,
+    "feeds_failed": 1,
+    "raw_items": 5429,
+    "fresh_items": 4506,
+    "clusters": 2065,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 82,
+    "youtube_uploads_fresh": 86,
     "youtube_items": 2,
-    "famous_items": 6,
+    "famous_items": 5,
     "trends_terms": 40,
-    "page_fetches": 62,
-    "with_video": 4,
-    "runtime_sec": 24.4
+    "page_fetches": 60,
+    "with_video": 5,
+    "runtime_sec": 16.5
   },
   "categories": {
     "famous_clip": 4,
@@ -32,26 +32,26 @@
     "other": 6
   },
   "top_trends": [
-    "aek vs real madrid (US 20000+)",
-    "fenerbahçe vs liverpool (US 5000+)",
-    "fenerbahçe - liverpool (US 1000+)",
-    "djokovic (US 500+)",
-    "rinky hijikata (US 500+)",
-    "jessica chastain (US 1000+)",
-    "yella beezy (US 500+)",
-    "valkyries parade (US 1000+)",
-    "amnesty (US 500+)",
-    "the view (US 500+)",
-    "fenerbahçe vs liverpool (IN 5000+)",
-    "dax index (IN 2000+)",
-    "kareena kapoor (IN 500+)",
-    "crude oil (IN 200+)",
-    "nuno borges (IN 200+)",
-    "gift nifty (IN 10000+)",
-    "djokovic (IN 2000+)",
-    "rank (IN 200+)",
-    "jd vance (IN 10000+)",
-    "રોહિત શર્મા (IN 200+)"
+    "god of war laufey (US 500+)",
+    "citi tampa (US 2000+)",
+    "aek athens fc (US 500+)",
+    "oil prices today (US 1000+)",
+    "garrett wilson (US 1000+)",
+    "real madrid vs aek athens (US 1000+)",
+    "katherine clark (US 1000+)",
+    "aek athènes – real madrid (US 1000+)",
+    "fenerbahçe (US 2000+)",
+    "aek vs real madrid (US 200000+)",
+    "well marked low pressure area murasu (IN 1000+)",
+    "real madrid vs aek (IN 200+)",
+    "rishikanth (IN 200+)",
+    "ramayana movie ranbir kapoor (IN 2000+)",
+    "mercedes benz glc ev (IN 500+)",
+    "sreeleela (IN 200+)",
+    "test ranking (IN 20000+)",
+    "crude oil price (IN 2000+)",
+    "fenerbahçe vs liverpool (IN 20000+)",
+    "kareena kapoor (IN 2000+)"
   ],
   "items": [
     {
@@ -60,33 +60,33 @@
       "headline": "Kim Kardashian addresses criticism of All's Fair",
       "summary": "https://www.rova.nz/articles/Kim Kardashian is reprising her role as Allura Grant for the second season of Hulu series All's Fair",
       "sources": [
-        "Good Morning America",
-        "The Sunday Guardian",
-        "Page Six",
-        "The News International",
-        "ScreenRant",
+        "People.com",
         "rova",
         "Yahoo",
         "Sports Illustrated Lifestyle",
-        "People.com",
-        "Fashion Times UK"
+        "Fashion Times UK",
+        "TAG24.COM",
+        "Momtastic",
+        "Ireland's Classic Hits Radio",
+        "Vogue",
+        "Female First"
       ],
       "article_urls": [
         "https://www.rova.nz/articles/kim-kardashian-addresses-criticism-of-alls-fair",
-        "https://www.goodmorningamerica.com/culture/story/alls-fair-cast-returns-bigger-2nd-season-137848011",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTBCbm1kSi1YSjA3YmxoRlctdTBlVE9IOW5BZzgzYXE4STdKQ09keXBsQVVsVklpcUJneVZLVHJWRGVoNndjbjh5ZFdwbHR1TFJ0eFppWDNkYl9iWjNCV1YwOWJYSnZUWjJ5LU5jRDZtdHdnaEJ1SGtjWHJfaWtYZU5OLUZiWFVwdk9sOU9ZakpoN0JndHFOdTdRSW0xV3ll0gGmAUFVX3lxTE5jVUJqci1tV2Z0Y0pPWjZLM1ZPR3FCWmtkamdybUhpejhsUzF4VFpjQk9tT3FtZzBfRXViSVBrTXNsRDdKbHMyb3NtdFczb0JHWmpodGRNM1Q4LUhtYVNoODdnaEZ5WVE4Mmt3WTNlSnBRTnhqWHhEVHJOTUVCNFBiQkg5T3FDSHZZNGttWlZla3RuSkZYZkZvTklxcEUtdHZQa3ZmdkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQR2pNVTdERF9GTHdSVnB3OWlyT1NWTFIybFBoclRMWTNuSG1PZGJxcVpLSnoyYjNQazN1cl9XbUxkWnFoTUc5MlZxcC1MR0JVbXZZQnM4cjRPUTNmbzFBZmMyejJHallfVmVlUWpMQWFZMlBUd1ZIVkhibFhSNmRwZFNXU3JwUlBYQVo3VDJQMjZUQ2pOMHVEMFVibkVyVjVPLUlGQWNBRUw2c0JwRTROcklCZngxWkp4ZF9NMUFSWE9rVlI3LVAxMGFOdFRqQ19GNVZWaGduV2V4QTNWb3pTMTBjQ21Cc0k5d2drXzh6WVR1SllGcUM0b19GQ0JjRnBOMjdaUGdTOUtyQWl6bmI5UHZNa1g1VF9rcHJUSG5ud2tUV1pmTFQ3WmJhWVVsWmRzSDFLbDFNRDBsTknSAcACQVVfeXFMTUhrdDd5YXJ2ampXVWpTbVVzV1gxcmMzUmFWTUpTVkJtRzRFanQtby02N0NOQ0J6X0JpMS1Zdkppdmt3cDMxUDNUTVdUSmdZVlhpM21la0xOWkFSUENRVzVyZEN2NWdzWG90d2lnMllmUUNsZVRfM2J0NTc2MzZzWWhxX2d5bEhUYmZSNmo2RHVyUWdBZkVpUnJHd2l6ZzZ2eXlBTU4tSC14MDNCQjlxdFBYendLUmt4Q3diblljOUVaTXNxeEtvSDY4bFhBMlhxaHhsOVY2OXRrdEpLUmZwWV8zeGNGR2h0WkF5R3d3Z2NUYXJFX3FZOV9pVXJJUDFLd3BPQUdUU1htbjBhT3ViZjBEaGJjcDMwbFQyMmRzVVBjQ2RTMXNETWR3SnI5bG1ld1Q4Nm5EZGlqb0UzdzZNM1k?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNlQ2SFB6YUNmaUdQeWtLdXd2SFB0a2k0aWZnd05VT2lXWmhmWmY1aUd1Ry1OU1RBNzItUklfTG5ELWtmQi14UUNpVHR4dG11bHZBM0tYcDU1QXNyT05iTHBGY1NpenQtZDkwS1hseXpNcDBzeEpyckFTS2lHa2xDcWlLZXR1a3pTaTZKUmw3NU9ZdGhRZ0l2MnNCVFdzUl9WNnZrRHFQOURRZktabDZsYUlDOENZNGdDaEcxTzZ2RU4xV21nNzZrNEVZcmZWczVFc3ZOMk9R?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2V6OXFzb0FDckE1TGNQWVNlWHFDcUVOckxlcFRidFFsNnRuVkhFeXFKZVFOLUZveHpmVVJnYmlPcjFydkx3Rmcxc3c0TnZ6eGFpVnRwWG11SVRhX3ZHLUx6bm15dnNaV0E0UGJoSGhqeUxDRzMySlE2NW1IbUg1RGsxZ0hnVFlqWmhBSVg0cXVSR2wxRXdISGVTX0dYZ2xEYVVqUFNoOGhUQmp6LVRRa3NveTUwWHNLZUHSAboBQVVfeXFMT2Nlejlxc29BQ3JBNUxjUFlTZVhxQ3FFTnJMZXBUYnRRbDZ0blZIRXlxSmVRTi1Gb3h6ZlVSZ2JpT3IxcnZMd0ZnMXN3NE52enhhaVZ0cFhtdUlUYV92Ry1Mem5teXZzWldBNFBiaEhoanlMQ0czMkpRNjVtSG1INURrMWdIZ1RZalpoQUlYNHF1UkdsMUV3SEhlU19HWGdsRGFValBTaDhoVEJqei1UUWtzb3k1MFhzS2VB?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWnIwWVk3NnlYSlpmdGZ3Q1V5Z1YzbUVWeVJRYWdOMmxHQWUtajdJMXZwUURVNUp1V01nSHJLLXdDMklLVm5XUGdkUjd1R3ZSbFdobEFZekdJb0MxLXd3SGNneVZqTVpHSWFTNEFYdko0QVRaaWRteXVyYXZ0TnBka2F6SkVtVjAzQmN6UUZReng?oc=5",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWRGQTVISm8xRVdZLWNaMGp2RjkzRTBJdnRWb0tiak9kbGQ1eFc5NVBVNmpMenNGN2M0VEZjZUV1RmZ5dUFyVm1ReG4yUkZjM1lfcjdnQi1rOGkyaGxyeDFQY1ZEUkkteThNNHkwLVdiZFVOMUgycUdBTDFBSXRiMW1n?oc=5"
+        "https://people.com/kim-kardashian-shares-if-daughter-north-approves-of-her-fashion-in-all-s-fair-12236229",
+        "https://www.yahoo.com/lifestyle/videos/kim-kardashian-shines-alls-fair-140700272.html",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaTVxLTg5cWUxSnQ4Q2lwYk40cF9zUWNyUEdWTmhYZkdiSk8wS3ZLSnRiRjY0QjhQLUpvZ0FYUWRTendQTjMtcktXOXhuUnRhbVhVRmVDenNBM3JSYU9kTjVtTlJHTWJHZllCcGZSYlB3WXk0YzVMUXdpWGp6VjVydi1LU0tOTkhDOGdQSVZrVGlEYUhDM3lQZmFTblM5X19MTkYyX3VWcVo?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeWRGQTVISm8xRVdZLWNaMGp2RjkzRTBJdnRWb0tiak9kbGQ1eFc5NVBVNmpMenNGN2M0VEZjZUV1RmZ5dUFyVm1ReG4yUkZjM1lfcjdnQi1rOGkyaGxyeDFQY1ZEUkkteThNNHkwLVdiZFVOMUgycUdBTDFBSXRiMW1n?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN0Q3ZjdDZ1g5RkMzWTBza1NSWmlSNzBseFc3QkZleV9KeGgxTHVJUkFqc21jbHg0TFR4T0lhYnJIRnVvTnhONFY5cExvSU85RDhWRDdBcHd5RjdiZjc2bjA2a0FyR0kxS1FtV3huLWdmUFh5bDhVMlpVS3A3Wjh2TFpReUpXVHUwNVphZGZn?oc=5",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVGFxWjVTcS1KaFJuOVEyOW9TTi13NnFXZnlIX0JCWEVJc0RzcnZOS2dudktvdWFtcVlBMkhRT3B5M3A4REtzb1ZzcTdVaWpuR1dDQmkzRDdPb2UwSDllako3VTU1X0pLeW9RTUg4eHJnX3ZzMHRHRk13dzdQNGg2MHJRbHB3T2VYRmxv?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcTRMOUFmRS1PbFR0VkJybXRVa3NBNUhZQ2RBSDU1UFZoRVN2QkRNTTJpSDdKY0hSSy1LRU5RQ2s1MEQwNjJxOHRvd1BYMjlEeDNRS2VLYXpmRTg1VzVjVnN2U2Q1RmcxSVVjVzU1Y3o2WDdFZ2UzQTJNRnhPR1NVdXhCbw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:45:20Z",
-      "published_at_ist": "2026-11-04 22:15 IST",
-      "first_seen_utc": "2026-11-04T08:46:14Z",
-      "age_minutes": 20,
-      "trend_score": 33,
-      "rank_score": 1.1333,
+      "published_at_utc": "2026-11-04T17:35:39Z",
+      "published_at_ist": "2026-11-04 23:05 IST",
+      "first_seen_utc": "2026-11-04T09:49:44Z",
+      "age_minutes": 29,
+      "trend_score": 28,
+      "rank_score": 1.1152,
       "category": "famous_clip",
       "section": "entertainment",
       "source_type": "news",
@@ -108,44 +108,112 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "'All's Fair' cast returns with 'bigger' 2nd season",
-        "All’s Fair Season 2 Full Release Schedule: Kim Kardashian, Naomi Watts And Sarah Paulson’s Legal Drama Returns – Episode Dates, Streaming Details And Where To Watch",
-        "Kim Kardashian makes embarrassing admission about 'All's Fair' co-star and friend Sarah Paulson",
-        "Kim Kardashian complains about 'All's Fair' co-stars' reaction to her unusual gifts"
+        "Kim Kardashian Shares Whether Daughter North West, 13, Approves of Her Fashion in All’s Fair",
+        "Kim Kardashian Shines at \"All's Fair\" Season 2 Premiere!",
+        "Teyana Taylor Stuns at 'All's Fair' Season 2 Premiere",
+        "All's Fair on Hulu Season 2 Red Carpet: A Fashion Extravaganza!"
       ],
       "image_urls": [
         "https://images.ctfassets.net/r65x6q43xsmv/66nlAtyBHp9TRj9o102pFD/df3263c1a675a1d54b89f48c6777be94/2134389_6aeb551a264fe.jpg?fm=jpg&w=1200&q=75&f=center&h=630&fit=fill",
-        "https://i.abcnewsfe.com/a/dffac9bd-4b4f-4dba-99c2-1f1d983c0805/alls-fair-gma-abc-jef-261104_1793800268323_hpMain_16x9.jpg?w=992"
+        "https://people.com/thmb/HnlUxr4TGW0UYDyAwCIr5DdTqB0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/kim-kardashian-north-west-110426-cb2046854d2e4935afa48397464d0242.jpg",
+        "https://s.yimg.com/lo/mysterio/api/48c2d129e6651b58c965a696a06c1ff05f10d48a4feaf9261a01cfe7da3b9dbd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmarie_claire_vertical_videos_214%2F2ebb4166fa8c9b97ca9b323410388378.jpg"
       ],
       "video_urls": [
-        "https://service-pkgabcnews.akamaized.net/opp/hls/abcnews/2026/11/261104_gma_alls_fair_0830_,500,800,1200,1800,2500,3200,4500,.mp4.csmil/playlist.m3u8"
+        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/60589725-043b-3e92-89f2-54834854f400.m3u8?site=lifestyle&region=US&lang=en-US&devtype=desktop",
+        "https://www.yahoo.com/lifestyle/videos/kim-kardashian-shines-alls-fair-140700272.html?format=embed"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "ed26c28c73",
-      "key": "cotswold-hunting-property-sweeney-sydney",
-      "headline": "Sydney Sweeney 'hunting for property in the Cotswolds'",
-      "summary": "https://www.thedailybeast.com/It takes one to know oneâand Meghan McCain isnât pretending otherwise.",
+      "id": "d95c52b295",
+      "key": "aek-award-carpet-full-madrid-real-red-result-winner-‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍【-】",
+      "headline": "‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍【LIVE NEWS】 AEK vs Real Madrid Live: Full Awards Updates, Winner Results & Red Carpet News",
+      "summary": "https://www.sozcu.com.tr/Emre Belözoğlu yönetimindeki Fenerbahçe, Şampiyonlar Ligi’nin 5. haftasında Arda Turan’ın çalıştırdığı Shakhtar Donetsk’e konuk olacak. 25 Kasım’da oynanacak mücadele, turnuva tarihinde iki Türk teknik direktörün karşılaşacağı ilk maç olacak.",
       "sources": [
-        "The Times of India",
-        "The Independent"
+        "tagesanzeiger.ch"
       ],
       "article_urls": [
-        "https://www.thedailybeast.com/ultimate-republican-nepo-baby-meghan-mccain-slams-donald-trumps-dynasty-pick-disaster",
-        "https://ew.com/meghan-mccain-slammed-nepo-baby-midterm-election-race-12235843",
-        "https://www.independent.co.uk/bulletin/culture/sydney-sweeney-cotswolds-move-scooter-braun-b3079086.html",
-        "https://www.tvinsider.com/1301287/the-view-hillary-clinton-predictions-2026-midterm-elections/",
-        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQYmlGR3JUTHctbFBFMzY5eVZmT052bUVLbm5LSkFpR0k1R1NCQ1EwMTNZa3Q1OGtIa0pBMDYzTFpyeUF5Zkp6dERSWHYzYkZFbzRZMzVienBmVnZBaGx1ZmxiLXZMMVljT0hqbW1oS25VczRSUkZ0SGNhQkdZVEtaNmExcTZPamFXNjIwd3lWQ25QYjNQczVsTElyTjVhc3VvT3J2eVlkQXl5dnQ5Tk44VzQtNnZGeTlpcmVPTzV1N0ZHOFFnX3VnckFRUWk1Z25KdmhOM0JtS0hPcnhUWnJCUnFKbk5DNzZYcGw2Tm05cU5RZElwSkpTc3VNS1l0UE95SHNFWVhESF_SAY4CQVVfeXFMTVVaYjljUDl6WE0xNDNCcGdRVVByWFk4QWZrZ1Z3YWozXzZfLUxiV2gwN1doS1g1SU9LWjExYVZmcWEwajRqd1RmZWQxOFJwNDRoOXNyMm9UVFJKbEFXRWZQdjltRG5EUFpaTzZNa25jMnZKaC04R0x4TTRCT2E4a0Rvd3QxdnVVT1RsRnZBYlZ2VUs3TUQtRzBaeFVVVnJ4RFFSUnpZdDRSR21laFFXSHJweGlMNXVlQlBCYjIxbDVfNVgzajBiNGRmaWZmWUdYUnZVaVVVZ08xMXRfeEJwc3JEM3YxajZtcXVxRURGdVk5dkNuUHg1ZFhnc1hIbUc4VEE3OVVPbHJ4Y1ktU2ln?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmFwTjRBZXFmQ3liU1JJOFZ3dURGZFd0VkpwSTZtVXFwakhMTG1GN25KYWRzSmxqRHoySmkyaHlHX3A4bXFSSi1fUzZoSzM4dWVmV1FvVHpxOTc2NmZ3N0hfVUFuNVNNUXcxbXk5WXBGMmdDUUJoeTl5c1UyOGV2SnlvWjduZWdiX05MYm1rZDdOMERVTDlpb3pmTURjenBWcXpCZ0pMbw?oc=5"
+        "https://www.sozcu.com.tr/arda-turan-ve-emre-belozoglu-sampiyonlar-ligi-tarihine-gececek-p375878",
+        "https://www.afyonanahaber.com.tr/spor/fenerbahce-shakhtar-donetsk-maci-ne-zaman-saat-kacta-nerede-oynanacak/403453",
+        "https://interaktiv.tagesanzeiger.ch/2016/plaine-morte/panos/camp/camp.html?&xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vdmFsZXJpZXZhbGVyaWU4ODgtZGV2LmdpdGh1Yi5pby9uZXdvbmUvZXBsaSIvPjwva3JwYW5vPg==&id=LIVE-NEWS-AEK-vs-Real-2df71306",
+        "https://www.goal.com/tr/biletler-seyahatler/ma%C3%A7i/shakhtar-donetsk-fenerbahce-macina-bilet-nasil-alinir-sampiyonlar-ligi-bilet-fiyatlari-mac-bilgileri-son-dakika-bilet-satislari-ve-daha-fazlasi/A~blt529a14a739f015e3",
+        "https://news.google.com/rss/articles/CBMi4gJBVV95cUxNWWtXX1FfLVoyVTNDUFRkQ3pOUFZpQTJ0WlFsNnctZlpCTTJ5QnpCbmkzNXVaN1ktSi1pQzUwNTc5RjE3UnNWTWZ0a3lKSGlVWFptajhaaDROLVlVOE1Lcm1FaHhpdmVHUUpVOFNYOVNzLW5rbllySjRWRmg2TFZrcW1aU0JPQjV5Y1ZjUGlJN05xQmg5VWIzd0VYaU9BcXVqeUMyODFKNU01dTJRUUc0clRxNW54U2xKNVVwUllRbkxMMWVmbTJuZTJ2WWx2aTFuWVN5Tm1PWjdkcFVyTUJNeWhhTWpabVFTRjNwcVg3WUdnUHBxOEFSSko0MjZVZDJSRWpaWG1nOVpkdkNNdEQzcFpEcmdmbHBOOHY0UWY1RXlNSGJOQ3hsUXpoN1pkbm5vLVk4bWg2bEtrSVRJc01aZDRGWlZtZnFPaVdIT0RaVlNfcmUzQmxMemx1bjZGQ2c4X3c?oc=5",
+        "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPYWxpZTVRaF8zMG1RTWZmUVpYaUpEWTdBS3RxakNLSlp1WTdLdWZfVnBnM3NpRzJycUxHMlQwQ1lCdmdNSk94eGZseHdHRmtNdllrd1htR2FZT2pMOFZFdVhVUXExZlEwUk5IdElyblp0VEZlak1IVHRXaEM5dXk2R2ctTG00V0VmNnRqMDZ1OThSS2RTbWUxYVJ2QmdXM2J6c19xLUxpRUVkeUtpUGQ3Y0QzMHFtdWxxb09iMWdjT2VkVzFpNlNzLWZ5alE0UkJIendEV1pLUV9TN2daY244LWN5ekFKUmZ5b2IzWGRmSFkydVlTSTJSTS04S1pQMHdRZExIQ1h2eDNsMDk3bmhnVG1udmpPQUxsRERHb3h3ME1ianI1MUpXV3lXbW81NnZBcDZxSG9DalhXTk8tUFYzNXlXbHJ3b21xTS1ia0YyWnBaZkhMN0xsTFJJenlWYjFaUHE3T3VJV0twWERzZjNCUG1hYnBlemZE?oc=5"
       ],
-      "published_at_utc": "2026-11-04T15:34:00Z",
-      "published_at_ist": "2026-11-04 21:04 IST",
-      "first_seen_utc": "2026-11-04T13:19:00Z",
-      "age_minutes": 91,
-      "trend_score": 14,
-      "rank_score": 1.0503,
+      "published_at_utc": "2026-11-04T17:46:04Z",
+      "published_at_ist": "2026-11-04 23:16 IST",
+      "first_seen_utc": "2026-11-04T17:45:44Z",
+      "age_minutes": 19,
+      "trend_score": 9,
+      "rank_score": 1.0438,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [
+        "fenerbahçe (US 2000+)",
+        "aek vs real madrid (US 200000+)",
+        "real madrid vs aek (IN 200+)",
+        "fenerbahçe vs liverpool (IN 20000+)",
+        "aek vs real madrid (JP 1000+)"
+      ],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‍‍‍‍‍‍‍‍‍‍‍‍‍‍‍【LIVE NEWS】 Liverpool vs Fenerbahçe Live: Full Awards Updates, Winner Results & Red Carpet News"
+      ],
+      "image_urls": [
+        "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-resmi-20261104-103749png-_BFukG_MpEWH07UJQVmSGw.png?w=1270&h=675&mode=crop&scale=both",
+        "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2026/11/ekran-resmi-20261104-103749png-_BFukG_MpEWH07UJQVmSGw.png?w=1200&h=630&mode=crop&scale=both",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVRMNcy7nth1dOVqxK7ZUNJW1G3TglLfD9xum3nyNMyQu9bG28h9sZZG8mekk",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1119H6tPOR4pU4waxkePxoXBLBhNAmQJh8mZh52Bu52mFkyc1r8F53rnQgpU",
+        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbl8GPEELl5nAJeVYFUMoibE0rEa4x0IHJ8kJLturdLrc5FsObAwynraRxuq4"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "79e0efb8c1",
+      "key": "accent-avenger-channing-commercial-doomsday-dunkin-featuring-gambit-tatum-’",
+      "headline": "Channing Tatum’s Gambit Has a New Accent in AVENGERS: DOOMSDAY Dunkin’ Commercial Featuring H.E.R.B.I.E.",
+      "summary": "https://geektyrant.com/news/Channing Tatum   is bringing Gambit back for Marvel’s    Avengers: Doomsday   , and it looks like the card-throwing mutant has made a few adjustments since we last saw him. Most notably, his Cajun accent is a whole lot easier to understand this time around.  Fans got their first taste of Gambit’s up",
+      "sources": [
+        "Attractions Magazine",
+        "GeekTyrant",
+        "ADWEEK",
+        "QSR Magazine",
+        "QSR Web",
+        "Entertainment Weekly",
+        "People.com",
+        "Creative Salon",
+        "USA Today",
+        "Dunkin' Donuts"
+      ],
+      "article_urls": [
+        "https://geektyrant.com/news/channing-tatums-gambit-has-a-new-accent-in-avengers-doomsday-dunkin-commercial-featuring-herbie",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lQjJkWDVDUU51N2UtUVRDanJrT0F5eEZvXzJ1MlNkeDU4WG1vamZ6WGg1a3ljMkNsX1BZWFVQNGVjbDRlZWdTVnRzeFJuQWpBakN0bU5HcURBRjlrYTUyMUl3bGJBWWVUOVQwSjNqa1pTdXlXZWc?oc=5",
+        "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY3NaOHRsM0hSSURVMmttdFZuVEczNDAyREVjQTkySHdaenNPdFpBUW85Z0tpZG84cC1ScUNDWElPeTAyWlRVaUxhdHNTMEtKYXJsZWtaRDhyNkFWaXJhQmpITmQzclJOVWFpTW45S29yRUxkSzJKMzllNWt6MUlUdGlpWnlId1hORDd5QVpRdS1nYmx3ZEdvRkR5WERZZ0lzSTZmQi11ZGR0aW5LTDR3YWFGand0ZVdlRmd0R1A4eEM?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDdDeWxVbzJ1amNIZ1dEQ09sSU9CT3NwLXcyM2JjYlpTOGE0RzcxbDVaOXhqZzlaX0dQelFvOEU2R0g1UlNzMmkwUGdaTTdITTQwQy1mSFN6d3NZTHJ1Y01HVUlieUQ1elZxQzVJLTF4SnY0NEx2LXRXcDgzMFhtRnZwV051ZU9aNEs2bzB0S2NhZENIbVF5ZTVGSFh6YkwxTy1DMkFoVFlHX09BbFJZ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUotU2ZNcXljUlUzSXlyenlGUjVjcmJybHEtcTluTzkzUU5qdTNZREotWWpjWFRDRTR3N2ZhaUtyWEJZU0JIZWExMXVWSHNnbGQ2QlBLYjh0YlJqc1laZW9iLTVfVXpPRGlObDQyMVFTQ2RzRmxYVFM0V2tmeDhtT3hSWXk4dG9fbnJKMmVBaEVwSGlGdk5FOUxoQ2hCY0pxQjdobUdCdDRVRXFJd1E?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTZXRGE4Z3hFVWlyUm85RnB5YTdfSHQ0d0xQdG5wT0RBd1lPbjZVUWxIdmc4Z0lqbTJsTVFzM1dMWDF4cU5QdkNyeE5JdjRRUUlzNDAwdHlYbzlmcXhORWV3RWZhRjhOOWpDSTR2b2l3ZGlRb3pJNmo0X0Y0Q2xRX3RpNHBBZzlSV0FMMGtCTG5lWjF2LXlZa2xiX01qRkk?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWGFXd3RwQU9lcmFjSDV4OFQ5SERlZV9JMkFieXU1UjJIZExrVU80YXBfdU05eF9McDFLVy1qLVJDMGUxeDc4ZTZQbERoaG1sdm1URV9zSDlPUVFFTEI5NXNkR3lZLWVhRkRNbjJJUE4zZWVWOVdfY1duT1VRYlBhU253RE1iSW5Kd3NrdE9GWGQ?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdlloYmlRQ0VybE0xZmc3WXFNTFplSFhwY2Raa2E2ekhoRHA2aklraWxsa3RjdnFtV0pPOHh2Sk1Sb0VvQWk5T1Iza1B5dXRaWktJTEFoOGdlekZBZE1SYy0wVGw0UkFnSVRiNDRxUzZIWFJRNWNYZVpfSGFibGRYQXpMUG1RaHp3Z1h3OHVxckhDal9TbG5vQVVtRTRsbjFDR1ozSmQ4MTc0bzBJd3c?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T17:50:32Z",
+      "published_at_ist": "2026-11-04 23:20 IST",
+      "first_seen_utc": "2026-11-04T09:50:25Z",
+      "age_minutes": 14,
+      "trend_score": 20,
+      "rank_score": 0.926,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -156,61 +224,120 @@
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [
-        "the view (US 500+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Sydney Sweeney soon to become neighbors of Harry-Meghan, Beckhams? Actor views property in Cotswolds vill"
+        "Dunkin’ ‘Avengers: Doomsday’ takeovers are coming to four cities, and Gambit is grabbing a coffee",
+        "Channing Tatum Suits Up as Gambit for Dunkin’s First-Ever Marvel Partnership",
+        "Dunkin’ Enlists Actor Channing Tatum for ‘Avengers: Doomsday’ Campaign",
+        "Dunkin’ teams up with Marvel for nationwide ‘Avengers: Doomsday’ campaign"
       ],
       "image_urls": [
-        "https://media.thedailybeast.com/resizer/v2/KBJV75Y435BBZGK6N3I73EZAPI.png?auth=192831187a8c2b73ae78fe18a5d2d1bc3cf9ec95c289978a654882c0a6eaa849&width=1200&height=630&focal=635%2C357",
-        "https://ew.com/thmb/g8tVZd1MM4zDArX2M3EKjSykOr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/John-McCain-Meghan-McCain-040324-ce9ca022058e45efa802a3001faa2703.jpg",
-        "https://ew.com/thmb/N5ruSW3sloL3WLEIxb6Yn6s_n4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1058x211:1060x213)/John-McCain-Meghan-McCain-040324-ce9ca022058e45efa802a3001faa2703.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu1jx4ESgUeOZF7hTmPalMzNMP6xHMYiKi9LYk-maKvT8xp709ccld8bUz1v4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUWL1UGkdLUbpSE4vYzEgIFxMflgcYbKxI--bXYzr2UbAWXCfj7eZxeRAnNMo",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSqX59kVSWnKHLwrsIcj3OgbVKg7mm03MLjOBL69VSUwGhjYP5lfCj4HKLvXYk"
+        "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6aeb4d7390e04c7b1594b0f6/1793813113279/Screenshot+2026-11-04+at+7.28.48%E2%80%AFAM.jpg?format=1500w"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "video_urls": [
+        "https://www.youtube.com/embed/d0IVKhzkqtE?feature=oembed"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "84e423af09",
-      "key": "altman-much-ram-rebrand-sam-want",
-      "headline": "Sam Altman Rebrands as RAM Altman and Says He Wants You to 'Have So Much RAM'",
-      "summary": "https://www.androidheadlines.com/2026/11/OpenAI CEO Sam Altman rebranded to RAM Altman on X following massive backlash over his comments calling personal PC RAM wasteful.",
+      "id": "6d1bd791c3",
+      "key": "move-plotting-sweeney-sydney-‘-’",
+      "headline": "Sydney Sweeney ‘plotting move to UK’",
+      "summary": "https://www.the-independent.com/life-style/‘Euphoria’ star has reportedly viewed a property in Little Tew, West Oxfordshire",
       "sources": [
-        "Android Headlines",
-        "thedigitalbriefnews.com",
-        "TheGamer",
-        "Kotaku",
-        "Analytics Insight",
-        "The Verge",
-        "Windows Report",
-        "Livemint",
-        "Storyboard18",
-        "OfficeChai"
+        "IMDb",
+        "The Sun",
+        "Page Six",
+        "Yahoo",
+        "HELLO!",
+        "Men's Journal",
+        "The Independent",
+        "Female First"
       ],
       "article_urls": [
-        "https://www.androidheadlines.com/2026/11/sam-altman-rebrands-ram-altman-ram-quote.html",
-        "https://thedigitalbriefnews.com/sam-altman-ram-altman-x-name-change/",
-        "https://www.thegamer.com/sam-altman-chatgpt-backpedals-ram-comment/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZ3g3Q2ZmTnVTLXE0ZmlVUG84WUtRLWhfWWE3VkNheU5QNmZ3bGt6ZnhOQ0EzX3Rsa2dYV1ZWTUM3Nld6NlRlUlh1Rkg1UFR3UklmMFEyU1d1bE9Td2xSb1ZYdmZWZGZBS0lJVnJpU2Y3ZHBNMmhVLTllVzlfempEeTBwY3B5dnlxV1BMenA3MA?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YWVQ0S05fQnB1bUZGLUZOZHp3STdJR0VjdnotZmN0amRKc1oyMWRqb3E1Smh0V3BnVVB2SEhPa2VadDJRdDFhdzBKQ3h2SFYxT1VXckJBT2s2N19XTzBLRmdfUENVc3BiMHlpTHFOYTd5TVU1M2tV?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRnBzVUJaZWRzZXBUYUpFa2c0VUpyN2dfc3otTUJvaDRFLW9ySzV5eWlQendfNFJXODVnNTJjUkdjZWN4ZXBtOGNhM240ZGxEaXVzUGxkMkd3WVZMUEp2a0lid1YySFhpb0VOOElDM0xZYWFrMHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdld5R2IxcUtBS19UVFdkNTdpMDFJTnpZOEV2SHFsV0xrY1p5dGxKZFlmLThjM3VHME9Xa0owcWwyUlducTVmOTNGaHM1eEdWdm5oWjZudW5kczRFckhpc25scUlna3VVWXFlNmYyM2RaYk5fQ0ZiTEw1cnNicFdLUFRtNVo4a2gxRmd5SEd2Z0M1ZmpDdUp0VEdqUDFpTzVTTUZQb0RER3ZZWWxLeEFBbHh6NU44S1BkUFE?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRy1TVTM3US1XN1FQY2o2SUdnOFBfZm9rMlZ6YXhtajFMX0xpc0tIaUpmWDZsQnpvSmpyQlVTSHVjaXUtVWlKTVZDOGxVT1JyRnIyeW5obW14eXh1V2MxZE9wMGMtMHE2al9FWnpNOGdwSnhRblp6WHhJRmZCRHpLVW1CVkYwTnJtWXM3d3ZtZXZtdUV3bzU2SFJvSDg2Q0ZYdFdxV3hxeGJpZTNkZnZqZFpBN3VkbmNlcklpbE0wTXZqdnpw0gHEAUFVX3lxTE1HLVNVMzdRLVc3UVBjajZJR2c4UF9mb2syVnpheG1qMUxfTGlzS0hpSmZYNmxCem9KanJCVVNIdWNpdS1VaUpNVkM4bFVPUnJGcjJ5bmhtbXh5eHVXYzFkT3AwYy0wcTZqX0Vaek04Z3BKeFFuWnpYeElGZkJEektVbUJWRjBOcm1Zczd3dm1ldm11RXdvNTZIUm9IODZDRlh0V3FXeHF4YmllM2RmdmpkWkE3dWRuY2VySWlsTTBNdmp2enA?oc=5"
+        "https://www.the-independent.com/life-style/sydney-sweeney-cotswolds-scooter-braun-b3079044.html",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6WjZOeGh5MnVVWUpJQURsdDJtWEs4RmEtYmY5LWk3VThTUU4tVWpxdUltNlFvZnpaR0duYTdXQm9NeEllcW1tVzIxZU9mT3VUemx4d2FnVDNrd19uSHRIanE0Rk56dkk?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTF9XSXFMT1FrUkV6S2ZNNHp0VkFmSUIycXNYV0JiN2E0NEFvei04allfY05qalpJS29jNDNxczFqX3lUMHNMbE9Bd3VIb0ZUZUczQWlSbUkyUnhKZU5rU0Z5LWVJZFlVbThFOGp3YmV4YjUyby1xZmo1WkVXa2JlOUptZUJvSXlZVjRGeXRCNFQteXM5UnI1RkczZmVydExBQnRPNA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSjR3ZjJ2VVJIanRvNWdQRnNKcWlXbzVqeHFWR0pUZ0wydXNPcjYwQkZLQ0pvRUZ2Nk5Ybk1UdDEtQ2ttZDhKd3QzVnEwWHB2Rl8zWWxPVTd2cWFDWXYyN1ZHQVR1aDVINnJjcmRiZS02blFaRXNvMHZCTWxYdWxMNWx1MUdkeFVXYWdRRDFyYnJ3c1p6MXRBdE5sZ3loSHVhYnE1MHdGRQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWMwdHB0Vm03X2xPNGo1T3paQWNZNjJHLURiaWVSNkduS3h2aTRuLUFDZUdiN1NJRC1HaUxpZnZiOVU1RjNwYzRlNnBEQlFpUUtLeExtQ0Z0ZU1QSFU5dzVKN0dtSDBxcHJpN2VBbWNPYTR1U1hyMlVMUEgtbERkb2JMZmszN1EzQUZydzNGVGh3bS1hRXVibkI3YXpNb2RRdTVYQ2JVMms?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNS2dtSG9QZ0dNajZHMXZhUlp1UlFjYk9hMVJHanAzWTlnZXpEbS1Eb2pnckQ3RDgyaDFFV18yOU9PY1FKZ1Z5Z1A0azZ3azB6eHg2NDJJZDhMN3o1ZTRSUmRWM1Y2WVhyWkYyR0loYkU2SnN4RmZTS3Ftc3FSMmxvdzNqdXI2blpMYktzMnpoNmV1SjdMWVdiN2h1ZTkxOEZTLWt0V2otZ2hhMml5NWliRnpmQ1ZBaHc5WVJhYw?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZFgyTXkteTFhRGJXQ09fdjVZVENEUkZDRkJ4NXZMaFoyT0J1aERNOEYxcmtYMFFDblU2UWhTbHVHWVI2ZXptR1Q0YkVNb012S1FvaDRxaVlKVzl5THMydFQ0YVkwMU1UWkZaUkFoTzBRXzdnX2lqRHJDeXlOaEd5b1RKdTliMHp6VjVib3hnZEF3dXNuUVZjM2hiTFNsWkdXMmZlWWNVZkVXM2V0bFdaWVFaV1hVUUU?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTV9mOThhZk1XTGplOGQ4UUFHanVjRE1MeFBPbWxmMjZGakdPSll5dlJ5aWxBUFNTRGpqWGpjdF9tMHdOY0RwRHR0X2FsbEFoajdNLW02UzQxazFwOTBTOGVDZERsaTRrcWY3SjVpR0VlWTZfdmNUT3VPQnJqY21VYm1GSHN4ZFVCclVlUHJrcm5YXzI3bW56Rg?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:12:47Z",
-      "published_at_ist": "2026-11-04 21:42 IST",
-      "first_seen_utc": "2026-11-04T08:22:00Z",
-      "age_minutes": 52,
-      "trend_score": 28,
-      "rank_score": 0.976,
+      "published_at_utc": "2026-11-04T18:02:28Z",
+      "published_at_ist": "2026-11-04 23:32 IST",
+      "first_seen_utc": "2026-11-04T11:02:47Z",
+      "age_minutes": 2,
+      "trend_score": 18,
+      "rank_score": 0.9199,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Sydney Sweeney and Stephen Kalyn Hold Hands on the New York Set of ‘The Housemaid’s Secret’",
+        "Grinning Sydney Sweeney cuddles up to Khloe Kardashian’s ex on The Housemaid’s Secret set in NYC",
+        "Sydney Sweeney obsession putting ‘Housemaid’ sequel plot at risk",
+        "Sydney Sweeney 'plotting secret move to Cotswolds with boyfriend Scooter Braun'"
+      ],
+      "image_urls": [
+        "https://static.the-independent.com/2026/11/04/12/2234938362..?trim=0,620,413,0&width=1200&height=800&crop=1200:800"
+      ],
+      "video_urls": [
+        "https://static.the-independent.com/2026/11/04/12/2234938362..?crop=5380.4,3587,x0,y0&trim=0,620,413,0&width=1200",
+        "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/44006e00-3800-4300-a900-640036007000/720p.mp4"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "e037a4bf34",
+      "key": "altman-dram-ram-remark-rename-sam",
+      "headline": "Sam Altman renames 'Ram Altman' on X after DRAM remarks",
+      "summary": "https://www.businessinsider.com/Altman renamed himself 'Ram Altman' in a joke reference to the memory shortage that's the talk of the AI industry right now.",
+      "sources": [
+        "Business Insider",
+        "Analytics Insight",
+        "Windows Report",
+        "NewsBytes",
+        "NDTV",
+        "The Economic Times",
+        "IGN",
+        "The Times of India",
+        "WION"
+      ],
+      "article_urls": [
+        "https://www.newsbytesapp.com/news/science/sam-altman-renames-ram-altman-on-x-after-dram-remarks/tldr",
+        "https://www.businessinsider.com/openais-sam-altman-briefly-changes-name-ram-altman-on-x-2026-11",
+        "https://www.analyticsinsight.net/amp/story/news/sam-altman-gives-himself-a-new-name-as-ram-controversy-takes-over-social-media",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ0ZjLWNOSHhNLURmZmlPZEdzNVNSSVBybUZ1ZTA5aUlmNVFPeGxMaWtnTFhpaE02WWVEU3YySXJPQU5VclJvQlBITTRkMFNOLVhtQ0Y5NG9UZG5xMktQQ1NZYTMwRW9zcm5LeUdLQTJJZVZTRk1CVGFUdWYzQ01yMEdDTDZhdjBMRUZaNnJuM29HbW1UU25ta0xmUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRy1TVTM3US1XN1FQY2o2SUdnOFBfZm9rMlZ6YXhtajFMX0xpc0tIaUpmWDZsQnpvSmpyQlVTSHVjaXUtVWlKTVZDOGxVT1JyRnIyeW5obW14eXh1V2MxZE9wMGMtMHE2al9FWnpNOGdwSnhRblp6WHhJRmZCRHpLVW1CVkYwTnJtWXM3d3ZtZXZtdUV3bzU2SFJvSDg2Q0ZYdFdxV3hxeGJpZTNkZnZqZFpBN3VkbmNlcklpbE0wTXZqdnpw0gHEAUFVX3lxTE1HLVNVMzdRLVc3UVBjajZJR2c4UF9mb2syVnpheG1qMUxfTGlzS0hpSmZYNmxCem9KanJCVVNIdWNpdS1VaUpNVkM4bFVPUnJGcjJ5bmhtbXh5eHVXYzFkT3AwYy0wcTZqX0Vaek04Z3BKeFFuWnpYeElGZkJEektVbUJWRjBOcm1Zczd3dm1ldm11RXdvNTZIUm9IODZDRlh0V3FXeHF4YmllM2RmdmpkWkE3dWRuY2VySWlsTTBNdmp2enA?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclhwbHNrOTQxQUlaMnNLMFpHX2t2QTNpUjNVYmMxZTAxN3JyZURWWk9ER1RXWThzdkp0SlJYVFZ5bXFabzFCdjNQWVJxdk9BRlVyMWYzNGNXOUp1alN5NkQtWkhTcUJ0RVd2MzRPdmZkb1N1UFZ1VWgweDhrenk5TEpfWlNoN2d0WFlpZ25kc1NpTlNwclhXNVBQS3FiQkFuUFd0dDhVY1NKenRKaldIRGkxbDRMcW_SAcQBQVVfeXFMTUctU1UzN1EtVzdRUGNqNklHZzhQX2ZvazJWemF4bWoxTF9MaXNLSGlKZlg2bEJ6b0pqckJVU0h1Y2l1LVVpSk1WQzhsVU9SckZyMnluaG1teHl4dVdjMWRPcDBjLTBxNmpfRVp6TThncEp4UW5aelh4SUZmQkR6S1VtQlZGME5ybVlzN3d2bWV2bXVFd281NkhSb0g4NkNGWHRXcVd4cXhiaWUzZGZ2amRaQTd1ZG5jZXJJaWxNME12anZ6cA?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV0NjMjVQUV9sektyMEZsdmNVQ01WNUp3VVRKZXhJc3ZaTE50LXVBdkxqMlBvdUtrMENrSVFCNzZZaFZJNXFUQVpjU2RJaEZtYUllTVFjeDZQalpBTUZGbzVLckdac3hSdkJ1UzhrRkJtVGFnelF4SzV3elREM3U2OHoxTE1ZS1ZYb0R5bTlEcmxYeDhVel81VHUzOHN2TGFxWXd6czFKY2o1ak1JMWZXWVFtYzN1Z25NYnB5SjRaenpCZw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX1ZnWWxDdjJsVkFHc2k0OGZoNFlEVFBRTi0xSDF3blpDMkpPVjlZR3JVV0MyZmtiSDFfalMwV2hzMjBPdm5Nd0M0QTlJNU1MRk5IUDF3OFIyVEI2WU80amlrT2RCUlN1b1Nvb1JTWUNMOWFNTEF0SHRNcnZ2WXVTSWJCMEZ2ZnBFNjVhY1J5MkZnY2VOaG9rWGNjcXdWOHhTdHc?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T17:18:00Z",
+      "published_at_ist": "2026-11-04 22:48 IST",
+      "first_seen_utc": "2026-11-04T09:06:00Z",
+      "age_minutes": 47,
+      "trend_score": 18,
+      "rank_score": 0.9124,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -232,16 +359,14 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Sam Altman Changes X Name to ‘Ram Altman’ After RAM Backlash",
-        "Hours After Midterms Sweep, Sam Altman Backpedals On RAM Comment",
-        "Sam Altman Pulls Spectacular 180 After Unpopular Comments About RAM: 'It Is F**king Annoying'",
-        "Sam Altman Gives Himself a New Name as RAM Controversy Takes Over Social Media"
+        "Sam Altman joked about AI's thirst for memory with a new social media nickname",
+        "Sam Altman Gives Himself a New Name as RAM Controversy Takes Over Social Media",
+        "Sam Altman’s RAM Row Takes a Hilarious Turn, Defends His Stance and Renames Himself “Ram Altman” on X",
+        "OpenAI CEO Sam Altman Renames Himself Ram Altman On X Amid Backlash Over Memory Comments"
       ],
       "image_urls": [
-        "https://www.androidheadlines.com/wp-content/uploads/2026/11/OpenAI-CEO-Sam-Altman-RAM-featured.jpg",
-        "https://thedigitalbriefnews.com/wp-content/uploads/2026/11/image-66.png",
-        "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/sam-altman-in-front-of-a-pink-background-with-ram-in-his-eyes.jpg?w=1600&h=900&fit=crop",
-        "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/11/sam-altman-in-front-of-a-pink-background-with-ram-in-his-eyes.jpg?q=70&fit=crop&w=1200&h=628&dpr=1"
+        "https://i.insider.com/6aeb1e2f308912814ed70b45?width=1200&format=jpeg",
+        "https://media.assettype.com/analyticsinsight%2F2026-11-04%2Fwqzzx0zz%2Fopenai-ceo-sam-altman-renames-himself-ram-altman-on-x-amid-backlash-over-memory-comments.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100"
       ],
       "video_urls": [],
       "has_video": false,
@@ -260,26 +385,25 @@
         "The Winchester Star",
         "The Killeen Daily Herald",
         "The Bakersfield Californian",
-        "WV News",
         "Formula 1",
         "RacingNews365"
       ],
       "article_urls": [
         "https://lethbridgeherald.com/sports/national-sports/2026/11/04/charles-leclerc-becomes-a-father-ahead-of-f1s-sao-paulo-grand-prix/",
         "https://www.motorsport.com/f1/news/how-the-f1-world-reacted-to-charles-leclerc-becoming-a-father/10871549/",
+        "https://www.thestar.com/sports/auto-racing/charles-leclerc-becomes-a-father-ahead-of-f1-s-sao-paulo-grand-prix/article_a64bec62-5168-5df2-bbc0-f8eff4a5200e.html",
         "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMVROVFphek5PckxiTjBIUFNFS1FhUE5hdllsdWUtUmdHanIxVi01RlVjUDVhVVFDcFhCb05pcnd1bmtIMGkxT3cwTkcwV0Vqank2TEp0a1lucExhSEdER1IzUG4xcldlRC1abDdsRUR1RzlTd1hOMmpWTFNHbHRKZjZueVJ2MTQ3bEJRS2t5U1NYYnlSX2J6R2Y3VEFTT2JzR05Xd2hIZlI5QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWGZsdEcybnc3ZmhVNlZyNnBrYTJhUE5MejkwcEphYW1RSGRhNkRsdnNmVUgyWTdfSG9wRjBPVFpvMjRydUlIMTdjWHdaYjNORDdUa3dJZTg5dXRlU1F3Z3h5a0dkUHoyWFl3djVmUk5LLUhGRTRWUXFnb3RSU3F5cDlLVmpBVXNuS091UFEtNHZnU0VCLTMwNy1YMERxZklkVDJWN3ZRcVk?oc=5",
         "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa21rQ0V3eUVRTWJKaTJpSm9UcHZnenUzUGw2OWFaRzNMYWprR05ETk9ZQ19MNmw5UU9vai1hVGNYMXZMSEpkaGlhT19vRUZUUEVoa2EtQ29fakMwOThsNWdqSzMyZWhVcjRaRk1wMGQyT1h5Slh6c0Vxck5QNEFvY0tsbi1zTmhBRE44YUZHMktlYWR4RzRwNkRSUU55VmZ6bkUxc2k1ZjRPTy0xR3NnajdrYU1QT1E0U0VhLVFuMHB5UHpKSzBKUXBB?oc=5",
         "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQT1RQYnF2Sm5RZTRKbnZmREpJYTJ6UUVMZTFuaDZRZDJDMlpVWUFLcFdkQ0JSQkFhTVZ2dUlBLWQ1UVVmRExJOEZsbk14My1tOTFDT2p5Zi05dnlvS1pyMnUwbVV0WVM1T01pLUNkWW92YTM3LXBSQTlRbGdNVHRQQVV5ZVFaVUVGVzJQR2VvbnV4SXdNdE1ITHJEeVJYUS1COWl2bjRsMTNJa29jUDMxeVVUb3ZXbU5kM2ZUbExTbjhuV2t4UVdiSS1ndDdYZ1ZjUmUxRmxGY2FaaEJxYnhQUkI2eTBwU3FEYzdXMHd1eFNyUQ?oc=5",
         "https://news.google.com/rss/articles/CBMiigFBVV95cUxQemlrb0dpaFlxaUlselR2RGEtNEpGN2NOem1kYnpVUGdHVWtOTVgtTE1LRk5VOFZhY3RWc3NUTFViRzJrM1h6SmJzY2ZCT010aEl6Zll4cHc2ZDJxVkl5VzFlclNwVWhGUFlUOGV4Uk1ULUlxeS1CeUxZYzQ4UTRuQTVzM21FR0dmQnc?oc=5",
         "https://news.google.com/rss/articles/CBMijAJBVV95cUxPd09JX01NZkhndWtQdDBwV0FWT2czODVvdXhvV1NnMkFCZUZobDhPdFFyODRBTXY2djUzSmE3Nlg2S0V1OEItTHdqSjZaRXdobDMyOThMUG9KWTFLTUtjcXB0VXhnVmR1cnNRM2hhNldqMzQ2QWpTQzlTSGU2a1FRajhLdExXbWFVeHdCQU9ZeUhDMkl0WlNaQ3JQWDNNTHhuNnJtakhMcUxqTWFDSXBvMmU4ZGd3Q1IxZFNVRlJnUy1jcnBuM0ZMVVBhbUVfanFXQ2RRLS13VjVnZVFsQUp1N3VhNW1KUTltX3JiV1VkMTRVc0tsVzE3dEtSdHFUaUo4S1V1clZYMU5NWXdT?oc=5"
       ],
-      "published_at_utc": "2026-11-04T17:01:14Z",
-      "published_at_ist": "2026-11-04 22:31 IST",
+      "published_at_utc": "2026-11-04T17:07:05Z",
+      "published_at_ist": "2026-11-04 22:37 IST",
       "first_seen_utc": "2026-11-04T11:20:00Z",
-      "age_minutes": 4,
-      "trend_score": 20,
-      "rank_score": 0.9343,
+      "age_minutes": 58,
+      "trend_score": 19,
+      "rank_score": 0.8815,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -304,7 +428,9 @@
         "5 storylines we're excited about ahead of the Sao Paulo GP"
       ],
       "image_urls": [
-        "https://cdn-8.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg"
+        "https://cdn-4.motorsport.com/images/amp/0rVP81d0/s6/motorsport-com-graphics-68.jpg",
+        "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/f5/1f596bea-7cfe-5b32-a08f-1ad840af41b0/6aeb3949e0582.image.jpg?crop=1620%2C851%2C0%2C114&resize=1200%2C630&order=crop%2Cresize",
+        "https://bloximages.chicago2.vip.townnews.com/thestar.com/content/tncms/assets/v3/editorial/1/f5/1f596bea-7cfe-5b32-a08f-1ad840af41b0/6aeb3949e0582.image.jpg?crop=1620%2C851%2C0%2C114&resize=438%2C230&order=crop%2Cresize"
       ],
       "video_urls": [],
       "has_video": false,
@@ -316,30 +442,30 @@
       "headline": "Charles and Alexandra Leclerc welcome their first child",
       "summary": "https://www.the-race.com/extra/charles-and-alexandra-leclerc-welcome-their-first-child/Ferrari F1 driver Charles Leclerc and his wife Alexandra have announced the arrival of their first child",
       "sources": [
+        "The Big Lead",
         "IMDb",
         "Crash.net",
         "Yahoo",
-        "The Times of India",
         "The Sun",
         "GPFans",
         "The Race"
       ],
       "article_urls": [
         "https://www.the-race.com/extra/charles-and-alexandra-leclerc-welcome-their-first-child/",
+        "https://www.thebiglead.com/ferrari-f1-charles-leclerc-wife-alexandra-baby-daughter/",
         "https://www.imdb.com/news/ni66095195/?ref_=nwc_art_perm",
-        "https://www.crash.net/f1/news/1109315/1/charles-and-alexandra-leclerc-share-heartwarming-news-brazil-gp",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOENvR3RJZkVIMUJjbGNXNm84S2R5dTBWUjB0RnQ3dXJGY1dpRzgzX3RpNDQxUGUzcEZJWGFmbzlPNG14Ti0td3oxcmhhOXBGUHFfR1VGeGtlUm9GZEoxcEVpNU9qdkRJN2ZSNXNiU2Qza1JKblUyR0JBemNIM1hReWg0ZHVISm8yUkVn?oc=5",
         "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwb2pUaDlJenUydFhQSTA2ek1RdUVYLWF1M2pvZXJUcVNWa3FxbUFoM1VkbE9Nc1M0cHQyeExzNjBTMjFKWkZQdkZjTEdtTWkxc0JObTUwZzI5NnNsbkJPalhtVEdpUQ?oc=5",
         "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUFId3I2MkZpSzZGVFgwb1NQRWhKd0x4b05ObG5hSGYxM0NFTEhuLWU4d2x2eUZVZThWZFVEaFYwTGVaUy1TY1dVdWxFZUVxUEpwcl9QSThqS3NLNWxZZXBJbkhFbTdzU1VyTDNCemRhajFVekJldGJDVjNacE5qaXF5ckUxSmwycUlJd1dyZ1Z2QWdNWmFtYW54SWJudV9hQzVsTXd3?oc=5",
         "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRUNKQkZLQ243dDF3YV9OWEdicE9uNXVpaUJxWDY3UDExSFZkTlM0QlNEaVdFcWh2Vm9YUDZFd253cHh2bHBrMWw0MEdjM1N0bjFQMWVraFh3aHJXVUpRUVNJU19oSm5iVzBKNkN2TTAyeTRwQmVNMWIzTjdNc0xBV3JDWG5qUGZkNC1uY3c4MlFOUHdyUjlSM1RGU1BlZHlqM3hYWVVzVWpQYlBu?oc=5",
-        "https://news.google.com/rss/articles/CBMimAJBVV95cUxOc0ExX21zdW0wMmM0MzdpeW9CLU11UVlkYWZWd2JfaVlQYXo5N1ZaT0pwUm92ZVVUZnBGLThtSWU1Yi1sVWgtaEVPalh1NmIxaGJER1pWaUIxUjhkdjdMbXF5N0FSSEFYV2lBYXAycXVtaTdFLXgwclJwSjh4bjBkNFN6c05XUEl3cXN0aV9RSFdiMkpMUkFMa3pwanE0eEFBZDljMjNOdkcydzBZUDE0M1FyNmFsXy1IeHJYT25IQUxvaDJsR19ZRTZMU2pGVkhGczlsT3djYzZiSDZITzFSSjZSWllJQkhCMUU4UnRDcFhiY3RkS0ZnUVV3Wl9qQ1V0ZjRIeDRKNF92eTVkR1NneWx2dGsxRDFB0gGeAkFVX3lxTE0tQTlEcTlUYnJ4UWtXRnJaNG56NWczV096YkN6QlI1Mi0wQklWdEFxR09XdDVtQjhmeWI0OGVxalpPR0QzTXFCQWllVFc4Tzl2c1JjTlRfM3M3aWwzR1ZDT2hZcUpvN0ZMRkY1ZE1ELWhvbTNfV0ZUT1d4MnREaUx0SlNQNGlXeWV3ZEtxc0g4SFJBdnM3bXJLNG5sZDBCV0otMU5JekNVTHFoMWdMQ2MwR0dKdkJuS19JTURBRmNSZnBWUGoxQXN3QnhXTXhmQTRGNFBnNnJBMGk4M0piUmVJMmkxTUxoeEh4VlRzbmlXTHZubkUtenRnc2ZjZ2dnand2bjdlb2lQUnNFcm9zTXRiRldNRG1rU2NQM3J4VWc?oc=5",
         "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUGVmY3FPbEJ4NEJaSjE3RjZOcFpQUWotd1luNjhjMXlpcF9mellKbVBkUkhQdG5rUURnSzU4VU5IQVFYV0czNEIxZVVraHlsZUl1MWNoQVFFZWdSWE01U0UwQXM3RUpfV1NodkEwOVJKa181eUwzbkJTdGNVUHBOTklLOUFrMU5wVFVB?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:40:55Z",
-      "published_at_ist": "2026-11-04 22:10 IST",
+      "published_at_utc": "2026-11-04T17:21:47Z",
+      "published_at_ist": "2026-11-04 22:51 IST",
       "first_seen_utc": "2026-11-04T12:29:20Z",
-      "age_minutes": 24,
+      "age_minutes": 43,
       "trend_score": 17,
-      "rank_score": 0.8929,
+      "rank_score": 0.8771,
       "category": "sports",
       "section": "top",
       "source_type": "news",
@@ -358,93 +484,42 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "9X Ferrari F1 winner Charles Leclerc & wife Alexandra welcome baby daughter",
         "F1’s Charles Leclerc & Wife Alexandra Welcome First Child: Name & Photo, Revealed!",
         "Charles and Alexandra Leclerc share heartwarming news before Brazil GP",
-        "Charles Leclerc and Wife Alexandra Welcome Baby Girl Bianca, F1 Drivers and WAGs React",
-        "Charles Leclerc's life beyond F1 takes a beautiful turn as wife Alexandra welcomes their first child"
+        "Charles Leclerc and Wife Alexandra Welcome Baby Girl Bianca, F1 Drivers and WAGs React"
       ],
       "image_urls": [
         "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/11/Dream-----Can---t-wait-to-marry-you-all-over-again-next-year-xMy-absolute-dream-dress-@paolo_sebasti-1.jpg",
-        "https://www.crash.net/sites/default/files/2026-11/xpb_1409961_hires.jpg?width=1600&aspect_ratio=16:9"
+        "https://www.thebiglead.com/wp-content/uploads/2026/11/MOTOR-F1-UNITED-STATES.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "19c3e6d8f2",
-      "key": "alex-elon-film-gibney-life-musk-release-ride-since-wild-‘-’",
-      "headline": "‘A Wild Ride’: Alex Gibney on Life Since the Release of His Elon Musk Film",
-      "summary": "https://www.wired.com/video/watch/Musk director Alex Gibney speaks to WIRED at a screening and Q&A event for his Elon Musk documentary at WIRED World Fair in Miami.",
+      "id": "25ce717c35",
+      "key": "cast-cat-emotional-hat-moment-swift-talk-taylor",
+      "headline": "The Cat in the Hat Cast Talks Emotional Moments, Taylor Swift & More",
+      "summary": "",
       "sources": [
-        "WIRED"
+        "Mama's Geeky"
       ],
       "article_urls": [
-        "https://www.wired.com/video/watch/a-wild-ride-alex-gibney-on-life-since-the-release-of-his-elon-musk-film",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdDRjbVhHZGMyNlJXeE9Dc0hfXzVVekJPYkk5bDZ4MnpJZ2o4d2lpeG9SYU9KaEFZZzktcUlRNXhoZFh5b1VJaEM0SC0zanhoRGlCb0ttTmFZN3ZjWHJndXRrQXk1TGNfV1NNZmcxZ3VHcHBSNldrWWtLaWNISkxvLU5ManFXUVZrTmYyZUlYeEtZYTd0VGlUd0E3RjUyRmJsU09vSFhxaXM?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDbnNsc2ZkVFhXTHpPU3FlM3NJNDZKN2dFeDFBVUtQQVlVajFMLU5ZWEZ0WUVaWnVzTlRPcmY2dS1zTzFaLXlhLXEyaWtORVJpaDZRR0t2Vk0ydzhtZ2x1OEFOT2FJWng4X1A5Y0JTOTdEcTRZ?oc=5"
+        "https://mamasgeeky.com/2026/11/the-cat-in-the-hat-interviews.html",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oQ0YxOVJ5NHREYk45LUY4TTYwMTFLRU1YYzhsSGo4SjBXZE1jNk1QNXFXVWlVakxNekV0M2pHdFY2NHN0VVVaandQNXFQNk1hRFFEZDJqVHl2cUkxRS1nRzBtbHhkVzhGX0duQVNhWVJQYnc?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:30:00Z",
-      "published_at_ist": "2026-11-04 22:00 IST",
-      "first_seen_utc": "2026-11-04T14:15:00Z",
-      "age_minutes": 35,
-      "trend_score": 6,
-      "rank_score": 0.8825,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "‘Musk’ Director Alex Gibney Wants to Know if Democrats Can Now Hold Elon Musk Accountable"
-      ],
-      "image_urls": [
-        "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1793798508/wired_a-wild-ride-alex-gibney-on-life-since-the-release-of-his-elon-musk-film.jpg?_a=BACCg Ev",
-        "https://dwgyu36up6iuz.cloudfront.net/heru80fdn/image/upload/c_fill,d_placeholder_wired.png,fl_progressive,g_face,h_1080,q_80,w_1920/v1793798508/wired_a-wild-ride-alex-gibney-on-life-since-the-release-of-his-elon-musk-film.jpg?_a=BACCg Ev?mbid=social_retweet"
-      ],
-      "video_urls": [
-        "https://www.wired.com/video/watch/a-wild-ride-alex-gibney-on-life-since-the-release-of-his-elon-musk-film"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "ab5723312f",
-      "key": "1-38-bad-billion-break-bunny-own-record-song-spotify-stream-surpassing",
-      "headline": "Bad Bunny Breaks His Own Spotify Record with 38 Songs Surpassing 1 Billion Streams",
-      "summary": "https://colombiaone.com/2026/11/04/bad-bunny-spotify-billions-club-38-songs/Bad Bunny has reached 38 songs with more than one billion streams on Spotify, extending his lead over The Weeknd, Drake and Taylor Swift.",
-      "sources": [
-        "ColombiaOne.com"
-      ],
-      "article_urls": [
-        "https://colombiaone.com/2026/11/04/bad-bunny-spotify-billions-club-38-songs/",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEI4bDFnQTJsXy15a01mYUlTNUFEQTJON0pWcUROdEVTb0VFU0hfel82dE9DWV93NWdmZC1sa0twTUE3MS1TbmNCT2lkOVV3cXJCRmp5Ujc1WmVlN09nYUo2bEdqdlFCczMzZnB0Q3JPWnM2bG84d2lwZ01CWUVoaldn?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T16:10:00Z",
-      "published_at_ist": "2026-11-04 21:40 IST",
-      "first_seen_utc": "2026-11-04T16:10:00Z",
-      "age_minutes": 55,
-      "trend_score": 13,
-      "rank_score": 0.8568,
+      "published_at_utc": "2026-11-04T17:01:00Z",
+      "published_at_ist": "2026-11-04 22:31 IST",
+      "first_seen_utc": "2026-11-04T17:01:00Z",
+      "age_minutes": 64,
+      "trend_score": 15,
+      "rank_score": 0.8707,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "Bad Bunny"
+        "Taylor Swift"
       ],
       "region": [
         "GB",
@@ -461,37 +536,40 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://colombiaone.com/wp-content/uploads/2026/02/bad-bunny-concert-credit-courtesy-sorel-bolivar.jpg"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "75753a08bc",
-      "key": "broadcaster-bts-filming-kindness-past-praise",
-      "headline": "Broadcasters Praise BTS's Kindness from Past Filming",
-      "summary": "https://www.chosun.com/english/kpop-culture-en/2026/11/05/BAWSXKLNEFBMZLIF4GT57GFIOY/Broadcasters Praise BTSs Kindness from Past Filming Jang Young-ran and Hong Yoon-hwa recall BTS members offering throat candies during SBSs Star King tapings",
+      "id": "aebf4a3b99",
+      "key": "arirang-bts-extend-know-tour-world",
+      "headline": "BTS to Extend 'ARIRANG' World Tour Into 2027: What We Know",
+      "summary": "https://www.sacnilk.com/livetracker/BTS World Tour Arirang in Sao Paulo: Live Viewing (Delayed) box office collection live: India net so far, occupancy, shows and the day-by-day run.",
       "sources": [
-        "조선일보",
-        "Chosunbiz",
-        "The Korea Daily"
+        "Sacnilk",
+        "Tempo.co English",
+        "CelebrityAccess",
+        "DailyDrama",
+        "Facebook",
+        "International Business Times, Singapore Edition"
       ],
       "article_urls": [
-        "https://www.chosun.com/english/kpop-culture-en/2026/11/05/BAWSXKLNEFBMZLIF4GT57GFIOY/",
-        "https://biz.chosun.com/en/en-entertainment/2026/11/05/DPEEW6S3WFASZORBLEVWPQZYYU/",
-        "https://en.koreadaily.com/bts-jang-young-ran-hong-yoon-hwa-stories/",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNy1qdl81N09mZ3Z1RE1ZR0lWZm9RS0FSbzFSNzJQSnR6YWdyWGFjQWxCM2VsWDE4cEx2VGh0MXhWT0FqZkhkM1Itdk85RHVrY2dlWHpXRHVVbU9fZ0tpUUZuZG9DTmdYblBVN3gydFNRZkZBa2xJM2FodVpEdWhRUmNjQVN2Um5PU1hGRUJ3?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXo0MWgyOXd3REpVcl9kWmhIbGxnSEZJR3FVV21YMWVWRVVzQ1E1b3liRXlfUHhmZzRTQWNuSE1WN0gtaGZHTmVOWHlVaWxLM1pxb2o2RkhpREJZc04xSDNCLTZud2s1TThtN0JvQVZpdF9UVExnX3VER3lnOEQ5ZkFwRDVKLVZN0gGcAUFVX3lxTFBsOUUxaEVrMnVHb25oR3NMTXBrSXVxTUVFT1FMamQ3eDltQWZTcXM0LVRMVGpyclNzeUZvWmV5TWdyZmpIYXBFaWp4TV9GVGhzY0o3Tk9Jd2F3R2pZSG1kRVlBS0dGQ3RaczZ6WERqZ0dDSG1lV3JUZ01xRF9CWURUVWVJZXJuUFo5Rm5lcElLVHZCTDVtNGNyend0OQ?oc=5",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhU2lqd2tlN0dhYnhNdG5naVFPUlVzRTRsZ0lIWFowVkhTU0ZwRzlGZWdqZHRPOHFYYnk4MGRfQ0ZxRW9oVFNrLVlGT19GM3lVSGpmSndwc2N6ZlRNSE5nTlk4dWY2NkVyZDI0VmxJNjNLdWoxYWc?oc=5"
+        "https://en.tempo.co/read/2122995/bts-to-extend-arirang-world-tour-into-2027-what-we-know",
+        "https://www.sacnilk.com/livetracker/BTS_World_Tour_Arirang_in_Sao_Paulo_Live_Viewing_2026_Release-Week-Live",
+        "https://celebrityaccess.com/2026/11/04/hybe-tops-1-billion-in-q3-revenue-as-bts-world-tour-drives-record-earnings/",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYVBjcDFScVUtdno1Mjg2UjRScFFvZldETWRYZ2ljZV84dkhsNTZ3VW1IR0hyS3UyRnd5T1ZCTExiVFQ3SHkxcFpCOEZMYl9EV1hzdkF1TDdRZ3c5YmhsSkQzQVN3R1ZHTDVUS3JFUy1IeHI5U2FrNVVualk3V2VPdFBtVnlVdldGaFJCQzV2U1VhN2tpQ2ltWmNVeWlvTUw2MUhUTDdFVkZUV0k?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb2g4OG81NWtSY2xkeExoc292VnZyWnRWRmlCZjR1TnMzYU9fQS1DbXdpbDVHX3VKX19jeTUzc1BRdHg4LTd2ZWtlX19tQkd0blhhNm1kUDlvN0drc0JtaTJEUnFDSW5ob21Wa01IdjB6Zm1MV01BRVdsSDJ2MnozbVBSV2lNVmFyMktBR2FjdjlLQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTGIxcUNHWkpCclVZZUFZbC01dDg5dVlaa1RIdnJtcFFPVHpNRFRGcjhqdzdjMFVYQmFYWlFpVi1hU21ycG13eTVNR2tpSWVkS0Z6ZmV5Mmg1MzBKNTFWMXNpQnQtQmdQUTdGazc0aVBQb185WWo5YkRaNzZ5T0Zva3AtNVNVczUxNDRTS052NmdRVHVTaDZhamhWOWVoM0hOTl9FZlVRYnZfTDFFZmJNQTNMWXo?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxPckpQTVZvVTNUampfOVFlUGxBNjh6RUYwQXo1S1RCUkw5RlUxRTliZDMtT3VtN21rRUZZd1BSNnU0WjhTVGZ6UmVqTWZ6dnBQNWJfeXltZkJnbEp2M1BSQXliUzBLNm5uTzBnQmNCTmVHU1NmWjl5N2tESkwzU3FfdjdlNnB1X050aVJRTXNOZjJQZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEl1NFdXRFkzVXF1VC15UVBjc2hQWUg3S0EzbVVjdTNqQkhlZWduamkyOHRwU0oySm9VLUdiaVRiYkZFQ3R0OFdQU0NDUkVsWEdhQm1DTUZuNnhRVml3eDlBdXVPRkVRSDluMWkxR3F4R0NIU3lrMzVueXo2OVVaTTNBNERjS3Z5TWtMelVqeDlWanN3NzZOeXZRd3FRaEhyNDdfbFI3YVBaN3V5T1RaWkRmQW5iQjVEZkhneXRJUFpwd3FsNmNWRDE2RlljcUxteXl3dXNWaFIzdw?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:14:53Z",
-      "published_at_ist": "2026-11-04 21:44 IST",
-      "first_seen_utc": "2026-11-04T16:09:16Z",
-      "age_minutes": 50,
-      "trend_score": 15,
-      "rank_score": 0.8524,
+      "published_at_utc": "2026-11-04T16:40:34Z",
+      "published_at_ist": "2026-11-04 22:10 IST",
+      "first_seen_utc": "2026-11-04T09:44:39Z",
+      "age_minutes": 84,
+      "trend_score": 20,
+      "rank_score": 0.8676,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -511,48 +589,138 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Jang Young-ran and Hong Yun-hwa praise BTS kindness during Star King filming",
-        "BTS — Jang Young-ran and Hong Yoon-hwa Reveal Heartwarming Past Stories"
+        "BTS World Tour Arirang in Sao Paulo: Live Viewing (Delayed) box office collection Day 2 live: weekday trend and total",
+        "HYBE Tops $1 Billion In Q3 Revenue As BTS World Tour Drives Record Earnings",
+        "BTS’s 2027 Blueprint: HYBE Teases ARIRANG Tour & Solo Projects",
+        "LIGHTING UP SÃO PAULO 🇧🇷💜 BTS’ Suga captivated Brazilian ARMYs during the group’s recent stop in São Paulo, Brazil, as part of their “Arirang” World Tour. Courtesy: Suga/Instagram Visit gmanetwork.com/news for more updates."
       ],
       "image_urls": [
-        "https://www.chosun.com/resizer/v2/G5QTEMLEMY2DQNBVGU3GEZLDME.png?auth=b09726b4d22db67c47356d68093a11c8a8be0cf95bd257f2553b82d0c126c1f6&width=650&height=341&smart=true",
-        "https://biz.chosun.com/resizer/v2/ME4TCYLBMEYTENRVGA4GKYTDGI.png?auth=c38a4c31d9d5e3646820baf777473bc4df7f3442e0190cc2e7e9861ade389965&width=650&height=341&smart=true",
-        "https://en.koreadaily.com/wp-content/uploads/2026/11/202611042143778371_6aeb5748457ef.png"
+        "https://cdn.sacnilk.com/image/movie/2026/14176.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "51aa256d8c",
-      "key": "avenger-era-marvel-reassemble-universe-unsettling",
-      "headline": "The Avengers Reassemble For an Unsettling New Era in the Marvel Universe",
-      "summary": "https://www.cbr.com/the-avengers-1-review-reassemble-new-era-mephisto/In a CBR review of Avengers #1, see how the Avengers reassemble for a new unsettling era within the Marvel Universe",
+      "id": "af8a56d77b",
+      "key": "asato-court-deepfake-elon-freedom-jess-musk-part-taking-women-xai-‘",
+      "headline": "Jess Asato MP On Taking Elon Musk’s xAI To Court Over Deepfakes: ‘This Is Part Of Women's Freedom’",
+      "summary": "https://www.elle.com/uk/life-and-culture/culture/a74322748/jess-asato-mp-elon-musk-interview/After her images were deepfaked using Grok, the Labour politician is taking on one of the richest men in the world in a landmark case, set to establish a precedent for how AI companies are held accountable.",
       "sources": [
-        "The Lufkin Daily News",
-        "Comic Book Resources",
-        "IMDb",
-        "TV Insider",
-        "The Direct"
+        "ELLE"
       ],
       "article_urls": [
-        "https://www.cbr.com/the-avengers-1-review-reassemble-new-era-mephisto/",
-        "https://lufkindailynews.com/news_reuters/national/doctor-doom-robert-downey-jr-arrives-in-the-marvel-cinematic-universe-in-a-big-way/image_f8ca5f7d-e066-5553-bcc2-22fd0620e560.html",
-        "https://www.imdb.com/es/news/ni66095183/?ref_=nwc_art_perm",
-        "https://news.google.com/rss/articles/CBMijAJBVV95cUxOeXpnMzBjSkNLcWRkYWFUQmhFQWMxZDlfdDlib3VaamZvWnROb3l3M1ZyYUh6d1ZwbUdGam5UbnBoZEctRHo2UkoyX2pXLWNzUVhJblJFaFprR2k2blZFb09GMW03X0lGQU5MdmpVQS1TWE0yWVFraE1INUdfRV9Rd0dERUFmSGoyZFlNQzNaNmN3NFVuVnFzRkp4cFJBZTNHUk9lNFZMR3pNbk1XX2lxUzZZZDlTQTU0aVZvY1FKR0NFdE52NkFfRGZ4bFVkakJZOW1ydzROcTBoVXFGM21PY3BFZDJWT21CZm5YRVVlUll1LWxCRW9oeW9IZnNFdXBLWS1pQWhtemNIRWZ0?oc=5",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5VQmxyTXhRd0l6bGFfSS1SSWxWV3NfN2t2eTZZMlAybmhlWXZNVGNvQnkwX2xjNFFRUENHQklNZXdFYVJ0bGJycktVQzF0UjdTQ3BxSUlSYjQ2SGRINWRSOVJhMF9sakhES3N1dlBJbkctdVFqb3phY2Zn?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNldJY3Z5RnJfbm9raFoyY1hCX0R4bzFUaTd3ZUoxZUJVTFRXdk14UUFJaTRDTmdxbnp1Z1o4NkY2U3N0ZnlRaVE3ZE9ab01BNmZyOGNPczAwYkFUVEpmRHhPT3RkbzJabmc?oc=5",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUh1SE11UHRhVVV6MGpCeGx1Q3Z0Vm1XSG53b09zMTU5bzJpcmU0Z1p2Y2kxQkxvckU5ai0zYXdsUzR3cFVhTkh5QmVsZmtTSGNYalVHeTdGRGxGdEN2d3FxbVBFa2RiRlhwSXg0dU9UWFIxa19lcm13QjhvTEhNU1FIR2VYMEtvTTJtM2lhXzk?oc=5",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kcHFYSHF1STh3RzYyU0EtLUV3Q0xOZUNEN1drRTVNZnRQOEc2TndNc3Z4LXFJcUV6bkhGelk4S0tBV0dxSldsVUozazBWSVVONncwTUdsRkxNWVNkVzBCLUotdllITmhvVmtSYW1UWXJtWkU?oc=5"
+        "https://www.elle.com/uk/life-and-culture/culture/a74322748/jess-asato-mp-elon-musk-interview/",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMTVqbXNiNzlsN2dkSkllYVNfdkJZUlhSV1RCSTRsSFJfMTF0SEtOQXRBQkFuOHMyRjJpeXowLWZadjVVMWxmV1NuWHpvX2RiQm9HMnp3SFIwX0JUamh3Z0pjQ011TDhqdnRaS0lseVRZa3llSUI0bno4S3NTUEdFbXlGbkI1Y1Jydjg1S1lmTXFLQ19uZHJ2eA?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:51:41Z",
-      "published_at_ist": "2026-11-04 22:21 IST",
-      "first_seen_utc": "2026-11-04T13:44:13Z",
-      "age_minutes": 13,
-      "trend_score": 12,
-      "rank_score": 0.85,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-11-04T17:14:15Z",
+      "published_at_ist": "2026-11-04 22:44 IST",
+      "first_seen_utc": "2026-11-04T17:14:15Z",
+      "age_minutes": 51,
+      "trend_score": 10,
+      "rank_score": 0.8216,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Elon Musk"
+      ],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Elon Musk",
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://hips.hearstapps.com/hmg-prod/images/feea6481-cf68-42b0-ae62-7b0dc18ba4a4.jpg?crop=1xw:0.7496339677891655xh;center,top&resize=1200:*",
+        "https://hips.hearstapps.com/hmg-prod/images/feea6481-cf68-42b0-ae62-7b0dc18ba4a4.jpg?crop=1xw:0.7496339677891655xh;center,top&resize=640:*"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "c6cec2c834",
+      "key": "agent-commerce-driven-major-online-retailer-threat",
+      "headline": "Is agent-driven commerce a threat to major online retailers?",
+      "summary": "",
+      "sources": [
+        "FashionNetwork India"
+      ],
+      "article_urls": [
+        "https://in.fashionnetwork.com/news/Is-agent-driven-commerce-a-threat-to-major-online-retailers-,1881994.html",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaTZsNUMtem9NVXlvY2lRaTZBUnVxN0VWZEJ5c2ZST1U1N1ZhaGhCbXJYNDdwVUZTeU5tOXNIMjJKT2RVVGYwbmc3V2tnQmwtYl91cFg5WjFTNXgwbkp6QjRDQ0lUSXJFQlVkTzJ1RE4wWWV5T0F1QzBhZDM3SlI5QkRyMmthOXpxRXI2NDNHUnMtQUlHcHBHbXltSkVGMzVOczZEOGR3RDJkM2tw?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T17:50:05Z",
+      "published_at_ist": "2026-11-04 23:20 IST",
+      "first_seen_utc": "2026-11-04T17:50:05Z",
+      "age_minutes": 15,
+      "trend_score": 5,
+      "rank_score": 0.7245,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "AI tools & agents"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "54d0fac120",
+      "key": "blood-cancer-early-nhs-patient-sign-spot-test-thousand-trialled",
+      "headline": "Blood tests that could spot early signs of cancers to be trialled on thousands of NHS patients",
+      "summary": "",
+      "sources": [
+        "Sky News",
+        "BBC",
+        "The Times",
+        "The Telegraph",
+        "Reuters",
+        "The Washington Post",
+        "Women's Health",
+        "The Independent"
+      ],
+      "article_urls": [
+        "https://news.sky.com/story/blood-tests-that-could-spot-early-signs-of-cancers-to-be-trialled-on-thousands-of-nhs-patients-13607950",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/family-doctors-england-use-blood-tests-spot-cancer-early-world-first-2026-11-04/",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSnJuVk9zRWxXVGhac0xtbHdjaTRFb0MxY1ZjNHYwemt3LXBadW9oOXp4TkxYUURWSy12VjNKaU1uN05rZDBjeGRfdUVPcE11VGR0N3ZJWmtIVUJaMHVaOUxJb05EVkVyZzFxYzVQWUZyQ0RaMkZibEJHZXRzb0hNdnpucjJnMkkxbUZnYkFjSzE4SzlJVjFxNlJ3UFlISjcyZ2hTZXI1YXdzMlBPc1hXWlBFdE9URXFJX2RsZFNXTHZEclFwcmFPaDZn?oc=5",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtVkw4YzFEYUFQdktPUUttUF9sMFVxYk1CM0JsTjdrQXNfWmNxaWtkX21LSThXUFRxcFdxd3NtVFFFQ0ZraU5RNnZHc1lfQjNNcG9yMWFtR0NWVU5iSEE?oc=5",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNclNXdENsYVRqRGZvTE5SUnBzeGF3ZjRrakpoSks2ZmhHQnd2aGRFWVdMb1FSSmZRV0R3VUVqNHlyclFuY0pSVElOdjFzRkpPdDJ3OVJwNmR6LURGS256SmFyNlI2RTVTbi1GbWVRN3Frek1KUEt4UTZvaFVGREI5aTRGWVU3WVY2MVRBZDBFQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkFzaC1ZR21TSlRKUVJ3RWxUbkttbXRyazdGeC1NbHhjWmxlZ216b1NJSTRyTV9tRGVBSlJibGxsR3RrRmJSbzNFVk1BQkt1N1pWeFo4Zl9Jd1B0eHpCcDhDcm9QbXhXRlFPbnBSN0lubll5S05pMVFFTkhtU2NJMHp3UTRxVnZ5V3lhQktuS0t5N2ZnU1I4N2x2Y1ZMOHdn?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm0xeEd0N1VtZ1RSaFlISEt6MXVNMHpFNHpWczNzT1Q2UFNXUGdEQlRnRHp2aWlMYW5oNGtyRXRvdXRJeHVkak9CWGwyd0JTbExqSktwVVB4N0Q5eGViMmItX0ZZN2JUeWhFSG9XeElCNFlEMl9QdXFlM044ei1GeHFxNlExVlVQSHN0Z0RudzlVV2dDaTd5NUIyRk8zY2ExSFlSSTFzNXhrR3AxbFdjU3I1WU0wODdITG5EYWwzQ1RnVkVZVHAzZUp0b2t3RG9FU1NtODF1UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Qd1p0ZHo2ODR1MHNPM1p5MVlNcHpUOVBZNUE5VllObkp3RXhmbXB6LThSVC1OZ0VmVU40VEdWVDdYeExFVkVkbnRoakJ5d1dsZGJ3WHdNUGFlSk0?oc=5"
+      ],
+      "published_at_utc": "2026-11-04T15:49:42Z",
+      "published_at_ist": "2026-11-04 21:19 IST",
+      "first_seen_utc": "2026-11-04T11:17:43Z",
+      "age_minutes": 135,
+      "trend_score": 10,
+      "rank_score": 0.7216,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
@@ -563,44 +731,43 @@
       "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Doctor Doom (Robert Downey Jr.) arrives in the Marvel Cinematic Universe in a big way in \"Avengers: Doomsday.\"",
-        "Marvel Cinematic Universe, The Complete Timeline to Phase 1: ‘Iron Man,’ ‘Thor,’ ‘The Avengers’ & More",
-        "20 Years Later, The Marvel Universe Has Officially Redone Its Civil War Era",
-        "New 'Avengers Doomsday' Posters Spotlight Its 5 Main Villains — With Robert Downey Jr.'s Doctor Doom Leading X-Men's Sentinels And MCU's Latverian Witches Rumored To Be Sylvie, Clea & Scarlet Witch"
+        "Family doctors in England to use blood tests to spot cancer early in world first"
       ],
-      "image_urls": [
-        "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/avengers-crain-header.jpg?w=1600&h=900&fit=crop",
-        "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/avengers-crain-header.jpg?q=70&fit=crop&w=1200&h=628&dpr=1",
-        "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/f/8c/f8ca5f7d-e066-5553-bcc2-22fd0620e560/6aeb5ea277769.image.jpg?crop=640%2C336%2C79%2C0"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "5c45d6edfd",
-      "key": "british-citizen-congo-ebola-positive-test",
-      "headline": "British citizen tests positive for Ebola in DR Congo",
-      "summary": "https://www.theguardian.com/world/2026/nov/04/Patient, who is ⁠in ​stable condition, is expected to arrive in Britain on Wednesday or Thursday",
+      "id": "804a449919",
+      "key": "body-freezer-hid-jury-man-three-told-woman-year",
+      "headline": "Man hid woman's body in freezer for three years, jury told",
+      "summary": "https://www.bbc.co.uk/news/articles/George Gordon, 65, claims he killed his friend Delia McInerney in self defence but denies murder.",
       "sources": [
-        "Sky News"
+        "BBC",
+        "The Independent",
+        "St Helens Star",
+        "The Sun",
+        "Liverpool Echo"
       ],
       "article_urls": [
-        "https://news.sky.com/story/british-citizen-tests-positive-for-ebola-foreign-office-says-13607278",
-        "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
-        "https://www.independent.co.uk/news/world/africa/ebola-british-citizen-drc-congo-b3079242.html",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVQxX0pwMHFxVzZwMDR4eC1FdF9Jc3lRSF80Tks2RVg4NDBhdHYzVFZCQzVaeWpLUDFSb3dPQ0ZxYTZXQXh3NUg3amNoLWxONGZkSU43QnVuZWdMT1hxWDhyeFZkemlEY0pSNEIxb3hkR0FOMVoyRjR2QUZHSWVOYUVTTFBPb3hxVkdyZHJZZ2VPUktuTjgyeHNCRkw?oc=5"
+        "https://www.bbc.co.uk/news/articles/cvp8gdl4k74lo",
+        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00WDNPa2paUVRVTWtzWHBnclMxN1ZzNXFNS2ZJaVFDdVJjc1VkS29JU3gxWkxJQURwR1VSNkJwWmY2cUxKMWhJZExLeXJOdHdxZ05ZVGM2aGFtRXVyUlE?oc=5",
+        "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnBaRlZQWnpyemVnY09hUmxtRmxRN2s4ZEY5akVNbWNES2JqRkR6aVhyUTVwdXA4eWpObzUxdkoydzNDSGo1WWx5YzdOZldCU3RYNzJ6WEdINUNJTFBvRjFzS2pnd2JMZVlYRzk1WlRnX1RCWjV4SGtCZTRvdHJaTlNZLXhPUXhuUEE2eDg4ZlhyVEwweHo5RTVNOUVUS0JCTmJwMkFCMi10S25wV3N3RHhieUlXMTFTRWJiNjBqVjFOQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOUs0SE81dHJMRmY3UEhBUXZlSnBhTUJVNUJ6TFNuUkxBanZlYjlyUE0zMTA1aUFSeElXdkMtcTdkS1AzLTVfeWFYcFlZYkwxV2VSS0hFbnk0QzNXbzBadHVEc0pWd09kMzIydnYtSDFfV3M1N3NLaWF3UmJVRHB0b0QwMTNJWGhpQU9hQkFNTVVudXk2YWFz?oc=5",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTE82a2pCSGNZSU82OTBTQjVpMGtZT3psQVpDRGg2LXhjUFBNd2c2NVQ4ejE2RDEwR25pTWI2VDhSbTNlQmdXMktrS0dRdllvRXRxeFVpbWpsdE41MjJZYXpXaWxIRnkyb0JsX2FWU2dhcEpkem9xVHJR?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQkZsVEQyRUxtakN0akwxWm01aWJubnhkT0NyVHZDWTNDTkNJb0ZfSFgxT0JlWmVRS2QtMjhGYXJnbDhia251Uk9sSmVwRk5WZW9TdU5ESkg0U0I2VUY5QmlMVzRadk9wVl9NaWlqaWVvMVYzdUpQbXkyTWJ5dVNqdF91ajNIbUROZjdIbHhmS28?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:13:47Z",
-      "published_at_ist": "2026-11-04 21:43 IST",
-      "first_seen_utc": "2026-11-04T16:13:47Z",
-      "age_minutes": 51,
-      "trend_score": 7,
-      "rank_score": 0.7406,
+      "published_at_utc": "2026-11-04T17:11:54Z",
+      "published_at_ist": "2026-11-04 22:41 IST",
+      "first_seen_utc": "2026-11-04T17:11:54Z",
+      "age_minutes": 53,
+      "trend_score": 6,
+      "rank_score": 0.7175,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -610,44 +777,38 @@
       ],
       "language": "en",
       "priority_queries": [],
-      "google_trends": [
-        "ebola (GB 1000+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://i.guim.co.uk/img/media/22d88a4e5887695fa17d85593fd7c9e807599182/872_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cdc32f9f8280811c60ea7a1f55880905",
-        "https://i.guim.co.uk/img/media/22d88a4e5887695fa17d85593fd7c9e807599182/872_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=482ba395c57ebac004c3ac7861c1b873",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdIX8HjRRhLllgnVHnkUoAtSe2X9jNNeRWwEcSsEQfLTbhJTThaWdS8p-jHVE",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQhaZ2ECLK6m5i8BcFXQ9g4xfPoA051RoutCai7kNIVV8NOa8OJN_5Nerk7Y0A",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXEChIz-LqNcxLW4qxM_JiIqikFZtWoayGhAXkU3mRMXI8BM45sQ48RQljBMo"
+        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/8246/live/2ade0fe0-d877-11f1-b441-2b33b063138f.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "24b6678120",
-      "key": "flashing-same-song-stuck-yellow-–",
-      "headline": "Flashing Yellow – Stuck on the Same Song",
-      "summary": "",
+      "id": "76470631c8",
+      "key": "13-17-circle-hits-revenue-rise-usdc-volume",
+      "headline": "Circle Q3 2026 Revenue Rises 17% as USDC Volume Hits $13.9T",
+      "summary": "https://www.altcoinbuzz.io/Circle reports $865 million in Q3 revenue and reserve income as USDC transaction volume rises 49% to $13.9 trillion. Arc and new partnerships expand its reach.",
       "sources": [
-        "ETF Database"
+        "Altcoin Buzz"
       ],
       "article_urls": [
-        "https://etfdb.com/etf-strategist-channel/flashing-yellow-stuck-same-song",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INUVPc3ljakNpSFRxTzJYTkgtejhpXzFOaEEzaEw5ZmZvVzctbTJBcE1YRWRWUUNnQnhBeDgyVDNneEpwSUpucXJ3RHdfWFY5c0FIaTV6TEFfZ09kN29JWFBldUk0Sk9Pd1ktTUNiQ0x6M0dDWUxpUWpjakU?oc=5"
+        "https://www.altcoinbuzz.io/circle-q3-2026-earnings-usdc-volume-13-9-trillion",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0R6bjlfaGJ4ckJJYy1yMk9lNjVZekFLTUs5alJsU1NiRG10d3hCNDVHOGZKVERscG5DWG9pc1NvSE1pYjR0X0I4SndyWXFER1RTRXBNNzVNMU4ycGFXVjh5azhPelJyNHBTbW1iWGtoTnBUbnd3LVI3OFFXZzZUZXFn?oc=5"
       ],
-      "published_at_utc": "2026-11-04T16:42:53Z",
-      "published_at_ist": "2026-11-04 22:12 IST",
-      "first_seen_utc": "2026-11-04T16:42:53Z",
-      "age_minutes": 22,
+      "published_at_utc": "2026-11-04T17:29:48Z",
+      "published_at_ist": "2026-11-04 22:59 IST",
+      "first_seen_utc": "2026-11-04T17:29:48Z",
+      "age_minutes": 35,
       "trend_score": 5,
-      "rank_score": 0.7186,
-      "category": "celebrity_music",
+      "rank_score": 0.7078,
+      "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
@@ -656,7 +817,7 @@
       ],
       "language": "en",
       "priority_queries": [
-        "Finance & markets"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -664,7 +825,9 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.altcoinbuzz.io/api/media/file/circle-usdc-q3-earnings.png"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -683,9 +846,9 @@
       "published_at_utc": "2026-11-04T14:38:05Z",
       "published_at_ist": "2026-11-04 20:08 IST",
       "first_seen_utc": "2026-11-04T14:38:05Z",
-      "age_minutes": 147,
+      "age_minutes": 207,
       "trend_score": 5,
-      "rank_score": 0.691,
+      "rank_score": 0.6723,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -722,77 +885,68 @@
       ]
     },
     {
-      "id": "db90359e6d",
-      "key": "avoid-concern-firework-home-londoner-pet-safety-urged",
-      "headline": "Londoners urged to avoid home fireworks over pet and safety concerns",
-      "summary": "https://www.bbc.co.uk/news/articles/New figures from London Fire Brigade show firework-related calls and incidents have more than doubled since 2018.",
+      "id": "24b6678120",
+      "key": "flashing-same-song-stuck-yellow-–",
+      "headline": "Flashing Yellow – Stuck on the Same Song",
+      "summary": "",
       "sources": [
-        "BBC",
-        "The Independent",
-        "London Borough of Richmond upon Thames",
-        "Kirklees Local TV",
-        "Leighton Buzzard Observer"
+        "ETF Database"
       ],
       "article_urls": [
-        "https://www.bbc.co.uk/news/articles/crx23zy5xd0ko",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wdnpkb0t0ZWliZ0JTc1FRdThrMzF0LWZmMHQxR0tadXlaTU5UT29wMFBWNDhuRmUtX2U3dEs0UEt0TVpOd0VTb0xURUJjc3BlWUVVZmhwemh6WVRtdXc?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTDhNZEw3UzFoVWpRaEpUMW1mcVZVNW1zNUlFQUdOY2ZyYTFhYTRsZFZYT09SejFWZFdUQ2N6bElCSW9vbDlDWGNnUWJWY192OUNnVmhBQ3lRWkFaWEtlY0dTSFVoNUlReTE5b2VmTFBNSWZFNUhGSm1XbmN2WndvYWVsRmRreGRmMUs3YUd6RFl4dFhOWWtoRHFaMXRHWXlLN3RoYw?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1o5RUNCX0RfRWxTSzY2bjI2cVo5TmluWHdGMVJsMENLWXJCQm1ycG13V095WGFjUWdMNlVzNHNWZ2VrcDBkQi1mU29wOEd0eTVEZjlqQTNFX0RHVWg2X2lCNU9TM3lyZ05mS0tQdFd0VERSMU1HLUFHY1JkdWRLWk1BZE5iaGppM2NObEZB?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT1RkMzBXbW94ZXhKRjNWWW00anlFbGZpLVJvd01sMW5HY25ESGJwXzZIcUpFckRhNzQ2QXo5Qlo0ZEdnQnhUNUFRYUdlb1lkQUlwbFdiYm1IN3BzWURBZEI1U2I1dEc2TV9reHpPeS1ackw0OTVTRk93LWk3ZTJfYW9BRTlid3l3RmgwVW5JQkZ5aTVYQVZZTjJiT3Jjc3F1WGxGUzF5YWkzbFBfRXQzQ29rSFVSc2U3QW5xaFhUTzJrcWxh?oc=5",
-        "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSzE3NUs2RmE3ZzR1aE5lTW0zR3F1Um5JZkVQVElMOEhLS3BLYTZ5c0VGa3l6Qlk5M3puWEVUbTJmUk5SaENXTnF4NGJ2SWpHVVJ1MkNiSkh1cC0zdGl4YVprWmJzbjBCSlk4ZFZ3Q3pHV2x2aHRjZF9jckk4aDRNLWdVLUVWYWdGTmwzTDBFcXVIdS1EemVMUVFjeVdsc2pmM3d1SGtkTmtZTWhnVVJKSExhVndyUEE3Sms2Y0MxaXNpcXF0ZV9PMlJOZzg2LVg2N25UTWVqVkVhdm1CLVVtT1JtS1RIa1k?oc=5"
+        "https://etfdb.com/etf-strategist-channel/flashing-yellow-stuck-same-song",
+        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9INUVPc3ljakNpSFRxTzJYTkgtejhpXzFOaEEzaEw5ZmZvVzctbTJBcE1YRWRWUUNnQnhBeDgyVDNneEpwSUpucXJ3RHdfWFY5c0FIaTV6TEFfZ09kN29JWFBldUk0Sk9Pd1ktTUNiQ0x6M0dDWUxpUWpjakU?oc=5"
       ],
-      "published_at_utc": "2026-11-04T15:28:22Z",
-      "published_at_ist": "2026-11-04 20:58 IST",
-      "first_seen_utc": "2026-11-04T15:28:22Z",
-      "age_minutes": 97,
-      "trend_score": 6,
-      "rank_score": 0.6808,
-      "category": "other",
+      "published_at_utc": "2026-11-04T16:42:53Z",
+      "published_at_ist": "2026-11-04 22:12 IST",
+      "first_seen_utc": "2026-11-04T16:42:53Z",
+      "age_minutes": 82,
+      "trend_score": 5,
+      "rank_score": 0.6686,
+      "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB"
+        "US"
       ],
       "language": "en",
-      "priority_queries": [],
+      "priority_queries": [
+        "Finance & markets"
+      ],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/826e/live/09e8d670-d855-11f1-94f3-cf7d1e52bb8c.jpg"
-      ],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "f9d3d43011",
-      "key": "4-5-adoption-agent-behind-organization",
-      "headline": "4 in 5 organizations are behind on agent adoption",
-      "summary": "",
+      "id": "fa290436a3",
+      "key": "advantech-bright-demand-prospect-strong",
+      "headline": "Prospects bright for Advantech on strong demand",
+      "summary": "https://www.taipeitimes.com/News/biz/archives/2026/11/05/Industrial PC maker Advantech Co (研華) yesterday said it is targeting double-digit revenue growth next year, driven by robust growth in semiconductor and medical equipment, factory automation and artificial intelligence (AI) infrastructure.The company’s semiconductor-related business, including indus",
       "sources": [
-        "Techzine Global"
+        "Taipei Times"
       ],
       "article_urls": [
-        "https://www.techzine.eu/news/security/145552/4-in-5-organizations-are-behind-on-agent-adoption/",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcUtQOWVBTmhTU3VwSXJIU2Nla1g5YnFIdF9sSTFnZlR1X3JTMTdDNk5Vd0lYNFdBTGdpSkpiZHZNeFZPWUxZamd0LTRvcUZLMVd2X3c2XzE0YWE1ZE1IVUh0NGNlWkhLRTdrbngxcnRJYU1ndFIxeW1BdHowT2pZamZFenY0WFE3RlNOMUo1QUxDWVZwZFBkUmo0MA?oc=5"
+        "https://www.taipeitimes.com/News/biz/archives/2026/11/05/2003867165",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ZNWx4WU5xR0lJbW0tODhScFZoRVFpUEhNUXVKTlJtQ3Y2YVJDelRwbXFsOWdTS05kVERWdl9ncEFRcWc0TU1UamlvYXdfNERsbWxyclhOaVc0QzV6TDdGaDl5dmYwY2JGVThzYnRiMVkyNGxuUGc?oc=5"
       ],
-      "published_at_utc": "2026-11-04T15:18:46Z",
-      "published_at_ist": "2026-11-04 20:48 IST",
-      "first_seen_utc": "2026-11-04T15:18:46Z",
-      "age_minutes": 106,
-      "trend_score": 6,
-      "rank_score": 0.6733,
+      "published_at_utc": "2026-11-04T16:00:00Z",
+      "published_at_ist": "2026-11-04 21:30 IST",
+      "first_seen_utc": "2026-11-04T16:00:00Z",
+      "age_minutes": 125,
+      "trend_score": 5,
+      "rank_score": 0.6328,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN",
         "US"
       ],
       "language": "en",
@@ -805,7 +959,9 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
-      "image_urls": [],
+      "image_urls": [
+        "https://img.taipeitimes.com/images/2026/11/05/P09-261105-017.jpg"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -825,9 +981,9 @@
       "published_at_utc": "2026-11-04T15:10:13Z",
       "published_at_ist": "2026-11-04 20:40 IST",
       "first_seen_utc": "2026-11-04T15:10:13Z",
-      "age_minutes": 115,
+      "age_minutes": 175,
       "trend_score": 6,
-      "rank_score": 0.6658,
+      "rank_score": 0.6158,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -854,93 +1010,6 @@
       "youtube_videos": []
     },
     {
-      "id": "83034f2cb5",
-      "key": "access-adds-agent-analytic-cloudflare-control-per-personal",
-      "headline": "Cloudflare Adds Personal Agent Analytics and Per-Agent Access Controls",
-      "summary": "https://www.unite.ai/cloudflare-adds-personal-agent-analytics-and-per-agent-access-controls/Cloudflare announced on November 4, 2026, that it is launching analytics for personal-agent activity and more granular access policies, giving site owners a way to identify agents acting for people and set different term...",
-      "sources": [
-        "Unite.AI"
-      ],
-      "article_urls": [
-        "https://www.unite.ai/cloudflare-adds-personal-agent-analytics-and-per-agent-access-controls/",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkhld09pVWZOLURtaGxFVXZnUTBtWU9RSGhmSDdxOUF1YUZ1bTFOLUZrYURaQmxZMlo1eG5NcUFHel9HOGJyUTFwc1ZudjJoQjI5QUdlc1VuUWxkRExyNFF5WGtNNjctd0lxX1pNaHo5Z1d3NEZVMkVLcjBHNDFVaVcyR2tQZTdqMHVMNV9TYlFMYjliNFNr?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T14:32:02Z",
-      "published_at_ist": "2026-11-04 20:02 IST",
-      "first_seen_utc": "2026-11-04T14:32:02Z",
-      "age_minutes": 153,
-      "trend_score": 5,
-      "rank_score": 0.6095,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.unite.ai/wp-content/uploads/2026/11/cloudflare-adds-personal-agent-analytics-and-per-agent-access-controls.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "cf08a15238",
-      "key": "bcci-captaincy-dark-far-open-phase-professional-recall-sachin-struggle-tendulkar",
-      "headline": "'BCCI far more professional today': Sachin Tendulkar recalls dark phase, opens up on captaincy struggles",
-      "summary": "https://www.moneycontrol.com/sports/cricket/Reflecting on his time as India's captain, he described the responsibility as a tremendous honour but admitted that he faced certain restrictions, particularly regarding team selection.",
-      "sources": [
-        "Moneycontrol.com"
-      ],
-      "article_urls": [
-        "https://www.moneycontrol.com/sports/cricket/bcci-far-more-professional-today-sachin-tendulkar-recalls-dark-phase-opens-up-on-captaincy-struggles-article-14069735.html",
-        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNREhyQmJqQ19UNFQ2RHhOcnJGb3F5TjJPRExqQmxrZTJnY3pQOUNaeUVtOFJ3NTlwR0hnU2JKVDBXeGRiU2VHYlpvQjRfNi03RDlwNDBZdFZfZHIwdThtcVRjbkZZZ2YxbkdXR1p5M1dtdGh4YkNSRV9MVXBfNjJPMk9JckJWbXhJRnhPd2ZSYkd0akZzeG13d3JPRjZ1MVJsXzBEWHdpWVFCSDA2c015LTRJVzhjSWZxdkpzb0JaaUs5OXdTSnBvOTNyeTV0dXBQeHlOSm9iRHQ2Qmh3a0hzMWZ4aTNOaXpGWjFjRWJGMjFIR3VVaVFaamJ3?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T12:45:18Z",
-      "published_at_ist": "2026-11-04 18:15 IST",
-      "first_seen_utc": "2026-11-04T12:45:18Z",
-      "age_minutes": 260,
-      "trend_score": 5,
-      "rank_score": 0.5503,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Sachin Tendulkar"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://images.moneycontrol.com/static-mcnews/2026/11/20261104125903_tendcap.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "b5178c3619",
       "key": "handed-kohli-nathan-one-packing-pull-screamer-send-smith-stunner-virat",
       "headline": "Virat Kohli Pulls Off Screamer! One-Handed Stunner Sends Nathan Smith Packing | Watch",
@@ -955,9 +1024,9 @@
       "published_at_utc": "2026-11-04T10:34:44Z",
       "published_at_ist": "2026-11-04 16:04 IST",
       "first_seen_utc": "2026-11-04T10:34:44Z",
-      "age_minutes": 390,
+      "age_minutes": 450,
       "trend_score": 9,
-      "rank_score": 0.5238,
+      "rank_score": 0.4738,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -986,48 +1055,6 @@
       "youtube_videos": []
     },
     {
-      "id": "d1db718f8e",
-      "key": "5-feature-harneo-introduce-key-library-open-source",
-      "headline": "Harneo Introduces New Open-Source Library: 5 Key Features of the Library",
-      "summary": "https://www.opensourceforu.com/2026/11/harneo-library-claude-code-skills/Harneo Library introduces five key features for installing reusable Claude Code skills, custom tools and automation into any code repository.",
-      "sources": [
-        "Open Source For You"
-      ],
-      "article_urls": [
-        "https://www.opensourceforu.com/2026/11/harneo-library-claude-code-skills/",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZUGc5U1o3VmRva1h4UFZwS1kwV0hWb3VYcEdTRDV5UjBsQjQyZk1FcGU1MmVHbjNrdmlCSmpUbEZrb3E0Si1ER1drNGVtQkUzN0FENjgycThMUFhmdWtFekJtTjVmQjB2X2dtQjZVYk1zMTAzcmg1bFVpOUU4dw?oc=5"
-      ],
-      "published_at_utc": "2026-11-04T10:55:48Z",
-      "published_at_ist": "2026-11-04 16:25 IST",
-      "first_seen_utc": "2026-11-04T10:55:48Z",
-      "age_minutes": 369,
-      "trend_score": 5,
-      "rank_score": 0.4295,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.opensourceforu.com/wp-content/uploads/2026/11/Harneo-library-claude-code-skills-and-automation-590x590.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
       "id": "87fac5b249",
       "key": "0-3-fcbarcelona-football-frenkie-short-️⃣-💙❤️",
       "headline": "Frenkie 3️⃣0️⃣0️⃣ 💙❤️ #fcbarcelona #shorts #football",
@@ -1041,9 +1068,9 @@
       "published_at_utc": "2026-11-03T22:58:47Z",
       "published_at_ist": "2026-11-04 04:28 IST",
       "first_seen_utc": "2026-11-03T22:58:47Z",
-      "age_minutes": 1086,
+      "age_minutes": 1146,
       "trend_score": 5,
-      "rank_score": 0.3976,
+      "rank_score": 0.3788,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
