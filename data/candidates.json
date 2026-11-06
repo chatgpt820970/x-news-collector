@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-11-06T18:02:02Z",
-  "generated_at_ist": "2026-11-06 23:32 IST",
+  "generated_at_utc": "2026-11-06T18:05:19Z",
+  "generated_at_ist": "2026-11-06 23:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 5646,
-    "fresh_items": 4719,
-    "clusters": 2075,
+    "raw_items": 5649,
+    "fresh_items": 4720,
+    "clusters": 2081,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
     "youtube_uploads_fresh": 106,
     "youtube_items": 2,
-    "famous_items": 5,
+    "famous_items": 7,
     "trends_terms": 40,
     "page_fetches": 44,
     "with_video": 7,
-    "runtime_sec": 23.2
+    "runtime_sec": 31.7
   },
   "categories": {
     "famous_clip": 3,
@@ -32,16 +32,17 @@
     "other": 6
   },
   "top_trends": [
-    "katherine ryan (US 1000+)",
+    "orcl stock (US 1000+)",
+    "burger king holiday countdown calendar (US 500+)",
+    "paige bueckers (US 500+)",
+    "paige and azzi (US 500+)",
+    "katherine ryan (US 2000+)",
     "sarah friar (US 500+)",
     "treveyon henderson (US 5000+)",
     "meghan markle (US 20000+)",
     "broadcom stock (US 500+)",
     "djia today (US 1000+)",
-    "ciara (US 500+)",
-    "dell stock (US 500+)",
-    "vxus (US 500+)",
-    "school (US 5000+)",
+    "the hindu (IN 200+)",
     "2028 (IN 200+)",
     "reliance jio 10000 rupees plan (IN 1000+)",
     "doomsday release date (IN 200+)",
@@ -50,8 +51,7 @@
     "dax (IN 1000+)",
     "ಯಶ್ (IN 1000+)",
     "স্মার্টফোন (IN 200+)",
-    "eastern storm vs dolphins (IN 500+)",
-    "भारतीय विशिष्ट पहचान प्राधिकरण (IN 200+)"
+    "eastern storm vs dolphins (IN 500+)"
   ],
   "items": [
     {
@@ -64,12 +64,12 @@
         "CNN",
         "The New York Times",
         "ABC News - Breaking News, Latest News and Videos",
-        "AL.com",
-        "AP News",
+        "Page Six",
         "The Times of India",
         "The Hindu",
         "Reuters",
-        "The Telegraph"
+        "The Telegraph",
+        "The Guardian"
       ],
       "article_urls": [
         "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
@@ -79,14 +79,14 @@
         "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56d1ZuU1hqT0tNWm5sczhqR21aTjEzckFWSjAzWl9tWkJycVBvdmluTUwya3pWdnBPRDlORGVaOEF4cmhmTTdsWjdiUW1LZ0xzNnIxUTV2aWYwSFZ1WFFrdGhOWVQ?oc=5",
         "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhrTFpXNXNJZmozblZENEMzZEpvWnJ6THlLamE4MDcyS2x2WkNWTlFDeHUyUjJKT1BLYlJKZ3VYdHVMSC1GT2pWckdlOTQxZXZ1WnhYSm9DNlZFNDh3aDlLdkVXazZPYTRYdmUzVHN1RFF1Q0FrZWdfU2Z5RXpOOG4yYS1rUW82UlRhOQ?oc=5",
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV0h5UXVROEZGaXdZZVlqSU1YemZkZGRiSy1sVm5EWW1qLVBQUkNmU1VCYWE0THNkVGZyMzMzNVZiMGQ4M0RINXJteGd4NzB2azNoenhuX1pCTVY5eHdXVlQ2OXRPYnZxa1dHcnpnR1lNTnh6cmhHZmZudEliNUtScWNGUEdDRV9VWWU3N0tjVXdDMUotU3MwdmRvOVU3NHVo0gGmAUFVX3lxTE91NG1pZDNGckhGaUVpbjFxZHZqUkZaLWpkSEM1UFZoUVdwVW1LSENsSWNOR0N5elZSWmlwbTlNVnhOall4T2RSRXhPd0hyQURFbFFOQjZVQVFCMHI1RHJCQTU0R0NSZ05OWDRTZ0ZGZWM0LTd0ZjNjT2h3QTdlWjR4M0JQS0Nkc0ZQZ25tbnNtd19OYmJZcnV3QVBXNzVjR19CSHZEX0E?oc=5",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkxaQmk4c3lZcGU0dFJ5R19uSkhvRFB4TmpqUjduTzN2SW5JSV9MUkFvaEpfMmozaDdDUXl0VUd4anh2STJvOUxUeWlQZlN0dllMZUdyNFZ1cGs5VW1NNDVrYzdTLXU1SV85cXZtRWh2OFB1OXJkOEV1a09kN2Nkc2JoR3hjaHotd0xJQUx2bkVrbEFiRXJuVUtkekZ4T1Zkcl9UbjBQdzlUYUhnRTlsQ255YmxYODBHX0JoY0x30gHSAUFVX3lxTE9EVEZZRVcybFR3akpZUG1HUTNuTG5jOEp4cDlzTjV3SjZWdnVUaVEtUk5Uak5TeDhVWFR4bk4wRlFQdVZGdkd1ZnRqTFZBODlmdElINW1MVkNrSTBBR25DcDJIWnI4bVU3SDlIRUViTEZOYWxLSzVUU256T0ZMTlZwOEhPaEEwa3IzMnRkdmRDUkpneGdybWxoaUtvTzhjUVJVaXM2a2VIUzlPTkRXSzRmT0E5OERnOU5Wa0JFQ2JGTkkyN0NCVVkwRm03YlhCX3F0dw?oc=5"
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWWJ0NXNuYzhWN3RoTFQzTExKU2pGalBOSllZTFoyNFphTkphckxOclAyeGFDOGhSRFhMR2ltQkV2bFZVM0hjVDRocElFUjlKSHdoMHIwZkF1a3hud3lqT2tQNUdmOHVacnBtMnRJTEdBMEMwd1VabEtnVTh4YzV2czVjR0R0V0xsRzV2ZzBEUzV1eGE1emczVVQwNFR2WnE0WVI0cnRtZUZJZUxlVW9Hc2pqajZ6YjVmS0lPSFRnd1hmS1pVcmVqeA?oc=5"
       ],
       "published_at_utc": "2026-11-06T17:50:28Z",
       "published_at_ist": "2026-11-06 23:20 IST",
       "first_seen_utc": "2026-11-06T15:45:00Z",
-      "age_minutes": 11,
-      "trend_score": 26,
-      "rank_score": 1.2593,
+      "age_minutes": 14,
+      "trend_score": 25,
+      "rank_score": 1.2482,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -106,8 +106,8 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
+        "Meghan's father Thomas Markle arrested over allegations he possessed child sex abuse material",
         "Meghan's father Thomas Markle arrested - follow live",
-        "Meghan Markle's estranged father arrested and charged with possessing child sexual abuse materials",
         "Thomas Markle, Meghan’s father, arrested in Florida on charges related to child sexual abuse material"
       ],
       "image_urls": [
@@ -125,6 +125,77 @@
       "youtube_videos": []
     },
     {
+      "id": "452ae5fc3a",
+      "key": "called-celebrity-fakest-fan-knick-player-swift-taylor",
+      "headline": "Taylor Swift called the 'fakest' celebrity fan by Knicks player",
+      "summary": "https://www.justjared.com/video/ua7ofoo7s6j4j/New York Knicks guard Tyler Kolek named Taylor Swift when asked to pick the team's \"fakest\" celebrity fan. The 25-year-old and teammate Deuce McBride were asked the question in a TikTok video, with Kolek questioning why celebrities attend Knicks games. Kolek said some celebrities want to be seen at games rather than support the team. His answer was \"ma",
+      "sources": [
+        "Just Jared",
+        "The Independent",
+        "USA Today",
+        "People.com",
+        "AOL.com",
+        "Us Weekly",
+        "Billboard",
+        "Cleveland.com",
+        "NBC New York",
+        "Yahoo Sports"
+      ],
+      "article_urls": [
+        "https://www.usatoday.com/story/sports/nba/2026/11/06/taylor-swift-knicks-tyler-kolek/92643618007/",
+        "https://www.justjared.com/video/ua7ofoo7s6j4j/",
+        "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FZGcxLXJ2SkJQMENtV3FNU3hJMXRfWEg0YlozRXRlckpUVWhibG1xbjBlSDJvRmJpVThTd2dEcHJ3QTJJd19PWkhQazlnb1l1X1d5bS1BX0g?oc=5",
+        "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLS0zcVE4NVFNa2ZFRzROc3dKcVdSTFZURDB4Z1NzTDJVLXdiX1RiV09XRzhOQXh2Sk9xOUQxZlNnb3B1amJQcjhBVDNYa1h0eUZVRkpBWW51cjd0bUdjTzBid0IyeF9ISHZXSzItSkhmOVpqbnczLS1HTFdLS05zV2VYbW94OXZWbTBwLXNob0NQcHctN3Rv?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOLXYwM211LWU1NHdhMlQwNVBWNk81YV9OUXUxM3ZlaHRjV2YyYl84UWZVR3M0V3hmZHZOa2tHTTduSU5tUXpOamVwTk5Odm9hY04wbDljNFd1dkkxWUU0MVptRnFad1cwNkhaOEZGcmRhVGRGMmFkWGYzVTZSdHVMSEZqLVNVUzJFSHhXWFlXWjdHTkZMWUJ1dkhGbDMyUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxPazdCRC11b3U2YlE1V29UREpuQnN1RUxFTWpVUzh4VG83WEpfU0hGMU5yREZaWmdEWFRoNjBtOXdHbm1YeV9KcF9KTEVNcWpCUlVyclBTbUUzMVBDb1g1a3FaZlpCSmhoVS1FQ3BtOVRKNXNwNFNIeVNVOEJ0ZHVZSUxpbFlSa0c0M0tfOHZmRjQzWlFPZEF1RFB4UGtBRDVibGd0SnhiRktMdmxXeFZUaGJyenNpSEpyZ05OZnU3N1h0ZFlKMmlF?oc=5",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPU0o3Vktlc0R1Z0xFT1prUHNhVmgzSUUwcjR3QTVTS25GSVRlY3dsbW1sUzV5TTZEOVdraFM5aEU4RW5fckQ1dW5STTVrdlZlNUtEcTJHLVFsSTFDTXBBMUJzbkJPN0Z4VUVCSkxpTG0yWWQ0ajZnSDc4VHJfY2p6Tw?oc=5",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNak4tVE9LMVdESnhydVVoVzFwNENCR3FOVFYybHoyN1VkbXUxaGU2dm5ac0c4MC0yb0ExdWw2T0dta25pbmNuMndaWkhjeU9mRkVmWkFwbVcwR0V4bTV0S3RrRnlFQldaNlNaTkNPMUxVVGNySEoxME4xV25ia2h6dHBpMG0zM3l4NE1qSnRpRzRQYnhCU2l1N2ZYNUxLeS1ldnc?oc=5"
+      ],
+      "published_at_utc": "2026-11-06T18:01:16Z",
+      "published_at_ist": "2026-11-06 23:31 IST",
+      "first_seen_utc": "2026-11-06T09:58:00Z",
+      "age_minutes": 4,
+      "trend_score": 52,
+      "rank_score": 1.1467,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Taylor Swift"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Knicks' Tyler Kolek Calls Taylor Swift the Team's Fakest Fan: 'It's a Little Performative'",
+        "Knicks player calls Taylor Swift a 'performative' fake fan in TikTok callout",
+        "Knicks’ Tyler Kolek Calls Taylor Swift’s Courtside Appearance at Madison Square Garden ‘a Little Performative’",
+        "Knicks Star Tyler Kolek Questions Whether Taylor Swift Is Really a Fan: ‘A Little Performative’"
+      ],
+      "image_urls": [
+        "https://media.video.publisherdesk.com/videos/ua7ofoo7s6j4j/v1/poster.jpg"
+      ],
+      "video_urls": [
+        "https://media.video.publisherdesk.com/videos/ua7ofoo7s6j4j/v1/mezzanine.mp4",
+        "https://video.publisherdesk.com/embed/v/ua7ofoo7s6j4j",
+        "https://media.video.publisherdesk.com/videos/ua7ofoo7s6j4j/v1/poster.jpg",
+        "https://media.video.publisherdesk.com/videos/ua7ofoo7s6j4j/v1/hls/master.m3u8"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
       "id": "4e82e840e7",
       "key": "break-cristiano-jesu-jorge-portugal-retirement-ronaldo-silence",
       "headline": "Jorge Jesus breaks silence on Cristiano Ronaldo's Portugal retirement",
@@ -134,12 +205,12 @@
         "Belfast Telegraph",
         "Sky Sports",
         "RFI",
-        "BBC",
         "ESPN",
+        "BBC",
+        "The Times",
+        "The i Paper",
         "The New York Times",
-        "Al Jazeera",
-        "Reuters",
-        "The Times"
+        "Al Jazeera"
       ],
       "article_urls": [
         "https://www.independent.co.uk/sport/football/cristiano-ronaldo-retirement-jorge-jesus-breaks-silence-b3080725.html",
@@ -147,16 +218,16 @@
         "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSEdDaW4wM0ZfTGNmR1ExT3I0MFg1bDZQaGx6X3RTb2RpeS1tWWloc0h6amJKRVJSelg0aS1aUHJ6Ti1DNE5ZRkxZcUNDR24tVXFTbTdkdlZBSkdVeTBuLUU1UHVKU1psRTRIQUNKYjVncmZWcGM0STdTeE1GZ0tnS0kybUlHN1dRV3JkMHNzTUhBV050VEptNzlqNTdCQ3g3X2ZiaDctT0twWmF3S0NpMTRiaFViNHp3Q0ZXRE9JYkFLVUZPWmdkbWpxUEdzXzhXQWVKeklZcGJTeGc?oc=5",
         "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTW5TbmQ0WWFfbEw3M3hIQjIwOElmX2pabkJaVEg5MEZQMHZqdWJ6RXJtRFoxLW40Tm85TnByMUdBZ1FYTElhejZzYVlvWTYzVnFJYlBiU2c1MzZrMm5HU2NQV2xuNEtMUHN6MnMtSUJtcWFXeG1maUVyamhVUzNxYkwwSHlMOURaWkVfbFFkQll5M2lzLU02UzdzcUxuMVRrS1hVeG9GdFNadUJ2cnhCV0NQUlo1UnR4V1RwN2dweVE5SlNBT0wtalZ5VWp4VG9D?oc=5",
         "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbjdsSUtfSjFMYjdDdGxCbjFVd0hJeV8wLWUya2d4bFpWNHZNalBfd3RyNlpzODhXZmQyMVhLNUZOdTBxSml6dTRPbUItMklTT1RSUEdEOWVQM2hvbU5aM2s5RFhaRkNGbDdrSk56VEFEZkVBcHpxVVlfRG0xMjBXTDJfTVRmR1laM2V4SjRFUEREUzJS?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOXdvbldMRE1QU0RXbjU4aUhQS3JqdDNyV2dXRTJmNjF4LVo2TlB1U3VneVZVRnRrZ29yRzVNNUlFR3FyWFNQQWtKVnhKLTRlVDVmVjB5UlRYaXZPR2N6MHRkRGVyeFhhazhBX21zUmxERDBxc0tyVDJENktkeVFlNkdZd1RFSV9XTDlZYk5MS2Z1NlRFcUtCN3dWRDRObTBuQ0lwRDBMYmM0N1g0SGc?oc=5",
         "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6el8zWEZlcHFMSFlzNngtSjd2dnF5RnJFMi15MmEzUnRwR2gwWEE3XzJ2X2pNd0Q2RnhCYTBMNWotcDlYNnRsV3RDbTRUdWdteHlTeWVUb1haWjNnM1JqTC1kWFpaZ2wy?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXlTdlRubGNJMngxR1VxLXBhWXJ5eTl1aWNkUTdFS0JXLTZKQTdmTzJrZlVUTUZkUjlVbHRGaVJTVTRqZm0yX1MyeW9Dd1FsS3MtVm5xeHdSUy00YWYwaGNpM2RQSEU3dnVXY0xyT1ZkNTlkZFIyZkZPYk8wYXBRekc0ZE1yU09lY0Q0Ri0zVkh1MVpKakplRUlBVDRxTWhtRG9lQ3l2U2Y?oc=5",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObEltT0I0RGdSTXBUZTVlQzRlMlBSYXdQbk1tZ21IemdZRFR0OHJsWGxsZS1lUTVnOEdxSnEyYThvTk5HQVFRRU5qY3ZDYlE3QURpQlRBVW1KZW9WaGFnS0w2ckdGQndzX2FyMW15bXU5V2JZenNyd1FKSnEzc19DQXpUXzVDc3gxTmtVMXdwZFd5eEdrcXhFTlpQYlpjZFZDcXlxSHlQSHVUZw?oc=5"
+        "https://news.google.com/rss/articles/CBMixAFBVV95cUxNY25OdHhvUVd0SjRkQmt2a0k3c2tSVnYzbEhQb2JiRks4aXhwYnp3VnFsbjFLQWJDSWsyUUxPeGRDZ1Jwems4eFJTbE1iTHlpN1NaM0d0WUtPc2FtT25SX1h4MFI3RFJQUVQxcUZIZmpLaW5uN1p4c0pLcVdrMHlFaFVIM3NkREpOY2FjRnRmR2RkSGN1V1JtbFVmZklhc2stdjZ2UUFEby1DRFYxNDYtcW5pVGdlR3QzMkVWVk5mSVRCM0hE?oc=5"
       ],
       "published_at_utc": "2026-11-06T17:53:00Z",
       "published_at_ist": "2026-11-06 23:23 IST",
       "first_seen_utc": "2026-11-06T12:53:40Z",
-      "age_minutes": 9,
-      "trend_score": 36,
-      "rank_score": 1.1425,
+      "age_minutes": 12,
+      "trend_score": 35,
+      "rank_score": 1.14,
       "category": "famous_clip",
       "section": "sports",
       "source_type": "news",
@@ -182,7 +253,7 @@
         "Jorge Jesus: I don’t feel guilty over Cristiano Ronaldo ending Portugal career",
         "Was Jose Mourinho upset by Cristiano Ronaldo's Portugal retirement circumstances?",
         "'I thought he'd come back': Jesus on Ronaldo retirement",
-        "Cristiano Ronaldo: Portugal coach Jorge Jesus 'knew nothing' about international retirement"
+        "Portugal manager Jorge Jesus: 'I asked Cristiano Ronaldo to stay'"
       ],
       "image_urls": [
         "https://static.independent.co.uk/2026/11/06/17/2298606650..?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
@@ -205,8 +276,8 @@
         "The Guardian",
         "The Times",
         "Variety",
-        "Yahoo",
-        "Reuters"
+        "The Washington Post",
+        "WKRN News 2"
       ],
       "article_urls": [
         "https://www.yahoo.com/news/world/article/russell-brand-faces-significant-prison-sentence-after-rape-and-sexual-assault-conviction-110123123.html",
@@ -221,9 +292,9 @@
       "published_at_utc": "2026-11-06T17:26:15Z",
       "published_at_ist": "2026-11-06 22:56 IST",
       "first_seen_utc": "2026-11-06T15:16:00Z",
-      "age_minutes": 35,
+      "age_minutes": 39,
       "trend_score": 16,
-      "rank_score": 1.137,
+      "rank_score": 1.1327,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -235,7 +306,7 @@
       "language": "en",
       "priority_queries": [],
       "google_trends": [
-        "katherine ryan (US 1000+)"
+        "katherine ryan (US 2000+)"
       ],
       "india_topic": false,
       "global_pop": false,
@@ -257,54 +328,70 @@
       "youtube_videos": []
     },
     {
-      "id": "cb666381ae",
-      "key": "announce-concerning-drake-henderson-maye-medical-patriot-react-treveyon",
-      "headline": "Drake Maye & More React as Patriots' TreVeyon Henderson Announces Concerning Medical Update",
-      "summary": "https://www.nfl.com/news/Patriots running back TreVeyon Henderson said in a statement released Friday that he was recently hospitalized after experiencing \"an unexpected and unusual medical emergency\" and is currently focused on his recovery and \"long-term well-being.\"",
+      "id": "62d06fa597",
+      "key": "drake-drop-future-hit-loe-scott-shimmy-travi-‘-’",
+      "headline": "Future drops ‘Ya Hit’ with Drake, Travis Scott & Loe Shimmy",
+      "summary": "https://themusicuniverse.com/future-drops-ya-hit-with-drake-travis-scott-loe-shimmy/Explore the excitement around Future's new single, featuring Drake, Travis Scott, and Loe Shimmy in Future Drake Travis Scott Loe Shimmy.",
       "sources": [
-        "EssentiallySports"
+        "107 JAMZ",
+        "XXL Mag",
+        "Billboard",
+        "Yahoo",
+        "The Music Universe",
+        "BroadwayWorld",
+        "IMDb",
+        "Stereoboard.com",
+        "Pitchfork",
+        "Rolling Stone"
       ],
       "article_urls": [
-        "https://www.espn.com/nfl/story/_/id/50400016/patriots-treveyon-henderson-affected-neurological-symptoms",
-        "https://www.nfl.com/news/pats-treveyon-henderson-says-he-was-hospitalized-after-unusual-emergency-focused-on-recovery",
-        "https://www.essentiallysports.com/nfl-active-news-patriots-drake-maye-more-react-as-patriots-treveyon-henderson-announces-concerning-medical-update/",
-        "https://www.cbssports.com/nfl/news/patriots-treveyon-henderson-update-unknown-unexplainable-illness/",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOU1pczZRV0UyNW5tZTljMTZES3hMNlNyZ1BJZFYtQUFLUXB1b0c0RHZfT3oxZjZSX2NHbXBGRzZsSlN2b0F6V3J0T3ZTeWxPNEt5N3Q4M0swaDBZZ1F3SHduMkl6SmEyOG5Hd2RzWTVvdGtsLWJOVDIxb3ZXODdLdkhWZ21DMWtFeUpJR2tTb2hOdFBrQ2ZuSEtfSWs3eW5CRzduU0N3UlQyTnluc0t5aFdSQWxXVW0tRVZTUklidW5MYk43OXhCd1o1SC1sMG1mTzFRc0l2VGFCTGgzbFpobkZR?oc=5"
+        "https://themusicuniverse.com/future-drops-ya-hit-with-drake-travis-scott-loe-shimmy/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBlaHRGYVBSZ2swVFhNa0huY1BwQllRWVFfQTBidnlETllFZFhjWjNyR0NhdDUtLVBFbEtQSXVXNGRIUVRSTk11VG13dnB3b1MwSFdGbW01Rk96dzd0T3FQeFpPeUUwanJueERlQlduRlc3ZUN6LW1hdjg0cDNPZzg?oc=5",
+        "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lUFZlLVpIUEgtVEptUWVfM3NrUklnQjNZb3daVFVjRXlTb3JBQVozQndTRFJBeGRSaVFtcjFHZjdGVS0wcERYcllwNDk2RWQwWWJDX1JpOVJmd3J5UDQ4M04yRlVwRUM0bXUwVjB2VmYzaFVmNnc?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGpqZnBQeHhURVlwU1c1a21CQ0VfOGlUMkVCVWlIY3VUTXgxc21aRC1oSnRTX0Q5NHQ5VHhfZmxVY2dvaHIxR1J4QTNJVVhwQTFDcEx4NzdtZWpieElLSFBwWjJLZVV6YnZ3blhXd1Qza0Jpd3dqaFJSemU3QWRvSUJLMnhPMEt3NkMzYzItQWtMWjdyTlBZZll1Mi14Qms?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjlDZk9YQkl0elZWUVRMMnA1dE9BSWEzRVBkaEFfLVhKa3JWMjBzUmo5YlBZZGpKUkJYbGxFeUk5R2tLMTcwYlN3cFYyUzZpb05hc3YzLWxraUpfaVNvOGNzeFBnMG1IR3pmOTd5T3BYazZod19fV0I3T0s3dGFzNWpfX3Rrd2QwOTFsQ25YZG96c09uUjFWWFc2WC1aQ0M5SGJsbzBNRXhYdVpPQTkyXw?oc=5",
+        "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZExVU2dOQ21DaUpPNjVHakRSYlpPS0l0ZTA5U214c0UxS0QwWFBPd0NPRkxKSVZiaElReFJscVlnOFo1WEpYZ1pIbU5uREtTSmNsbHZjRzRpN1pTTDY4dTVCS21yRU5CN19EOHY3NVBGUjlHdVpMZmplSUdlSmFkdFBGUkI0LVRYWWtaUA?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGtmQWQ4a0pmanRTU29Tc3QwdWRQY1lObkpuN3NGVnFrT2lBYWF6S2NDMm9vSmNUVGtHWEdLTEktbGNMYVVMY1hmb1lZaFpacmRfUEZBUS1MdFlhanZpTlE1b29CbjN3enlmeW1sUEZUMlNyXzhVUWZ5NHlkN1d2NzhISVpJejFkY2VRclhBMktRazV2OTJ0a3JJa0htMnFlczZ6R0c3VWJsUUdFbGt1akVHZVltcmFxc29DTEJEcG9HY3FySGI2RjVOZWVMRXZQOFYwaVp0ZnFYcEF1?oc=5",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JVzJzN1V2bXM3aFVaLVB4VEI5WXM0dUN3SFFRM2NRajY1RDR5VlJBUENWYjE5eTFqcm5QQ3M3VGg5TXdZcE5jWlo4N2hqLXZpMFNLYTl1ZEttYURIS3ZSb1RQWWQ0UQ?oc=5"
       ],
-      "published_at_utc": "2026-11-06T17:38:00Z",
-      "published_at_ist": "2026-11-06 23:08 IST",
-      "first_seen_utc": "2026-11-06T17:38:00Z",
+      "published_at_utc": "2026-11-06T17:41:01Z",
+      "published_at_ist": "2026-11-06 23:11 IST",
+      "first_seen_utc": "2026-11-06T11:58:45Z",
       "age_minutes": 24,
-      "trend_score": 10,
-      "rank_score": 1.0583,
+      "trend_score": 21,
+      "rank_score": 1.0751,
       "category": "celebrity_music",
       "section": "top",
       "source_type": "news",
-      "famous_names": [],
+      "famous_names": [
+        "Drake"
+      ],
       "region": [
-        "IN"
+        "IN",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
         "Celebrities & music"
       ],
-      "google_trends": [
-        "treveyon henderson (US 5000+)"
-      ],
+      "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.www.nfl.com/image/upload/t_editorial_landscape_12_desktop/league/v3qubugutmd6glc5ysil",
-        "https://image-cdn.essentiallysports.com/wp-content/uploads/imago1080589156h.jpg.jpeg",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEER9rhghUlGiEPr8R7UuIs1oRMNnZAPiBWQiuK7mOkEdUsTGYh1wobRI7xAM",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTq275OrPffRj3S9bsP9VJkeS7NPVdoeJFEdcN65Cxa3RICe50M2nHHHq83x_4",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8kY306tHifBfHaa5GfAAS4X52xnXkPGDBOaLs9p5g-eKLDhgsFNgEpnm5las"
+      "other_headlines": [
+        "Future Taps Drake, Travis Scott and Loe Shimmy for New Song ‘Ya Hit’",
+        "Future Reunites With Drake & Travis Scott for Supercharged ‘Ya Hit’ Single Featuring Loe Shimmy: Listen",
+        "Photos: Loe Shimmy Featured on Future's New Single \"YA HIT\" Alongside Drake and Travis Scott",
+        "Drake’s ‘Ya Hit’ Lyrics: Is He Dissing Someone on Future’s New Song With Travis Scott?"
       ],
-      "video_urls": [],
-      "has_video": false,
+      "image_urls": [
+        "https://themusicuniverse.com/wp-content/uploads/2026/11/futureyahit.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/cWTHXeAG61Y?feature=oembed"
+      ],
+      "has_video": true,
       "youtube_videos": []
     },
     {
@@ -330,9 +417,9 @@
       "published_at_utc": "2026-11-06T18:01:01Z",
       "published_at_ist": "2026-11-06 23:31 IST",
       "first_seen_utc": "2026-11-06T10:04:19Z",
-      "age_minutes": 1,
+      "age_minutes": 4,
       "trend_score": 12,
-      "rank_score": 0.89,
+      "rank_score": 0.8875,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -383,9 +470,9 @@
       "published_at_utc": "2026-11-06T17:30:00Z",
       "published_at_ist": "2026-11-06 23:00 IST",
       "first_seen_utc": "2026-11-06T14:39:46Z",
-      "age_minutes": 32,
+      "age_minutes": 35,
       "trend_score": 12,
-      "rank_score": 0.8641,
+      "rank_score": 0.8616,
       "category": "sports",
       "section": "entertainment",
       "source_type": "news",
@@ -419,61 +506,6 @@
       "youtube_videos": []
     },
     {
-      "id": "7a8a6106b1",
-      "key": "flag-fp1-paulo-practice-red-sao-slater-stop-track-trigger",
-      "headline": "2026 Sao Paulo GP FP1: Slater stops on track to trigger red flag in first practice",
-      "summary": "https://www.formula1.com/en/video/The first practice session for the Sao Paulo Grand Prix was halted after just 12 minutes when Freddie Slater – running in Nico Hulkenberg’s Audi in FP1 – was forced to stop the car out on track with a mechanical problem.",
-      "sources": [
-        "Formula 1",
-        "PlanetF1",
-        "The Independent",
-        "Yahoo Sports"
-      ],
-      "article_urls": [
-        "https://www.formula1.com/en/video/2026-sao-paulo-gp-fp1-slater-stops-on-track-to-trigger-red-flag-in-first-practice.1881130480738549898",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcmtUQWF2c1UzQzM3S290dXllRERLalpJdjFwaVBmRjRRb2xzVm9UMVlvaVlhcFplZHFPbEhvSTJucHhhRkhCUnA1LXpZajFmSXN1RThNM282WUhnQk8xd3ppcEFnbUpLclNSbG83N05leDFyRnhDR1UybnJRcmxReFNRWlNRZjRDWUZDZjJPOGNxcDBZVWhyYV9fQTZuaTVsQU5QQ2wtdEUxV0g5R1phOXFVTVkwbXQwejZpR3B5bWVBcW5Ra3hpcDdQOTlLclNC?oc=5",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VMktuT041U0JSWm8wVmdfVWRrTHQ0TnBXMWpFd29WaXVGc2Nnd3Y4YVRwNlZMdDl1SUplMldSTUhIQldwbHFILWJPdWVJejJvQWU4OG96SzFDcEJhdU5BVjVVWmZNakJWdWZYNHdmQlVkdjlp?oc=5",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHFwbXpIWVdMTHRPVnpkVUt6cTVya0s2ZHpJbUhlVWlGX3NOTlU4UVJkSnVhaVlaUWFEUUJHVy00LTRpYkJSSmZWc0J3ZVJwb2cwbTUyZVpMcGZsanR1XzlOZFpnN0hIZVJmbjE3QW1aSTB3N0dsTnUtQnJGb05QS0pBZkh1eHhXN2cwUmVtS2dhWEJpdkZrbjRSRk8yMWdqUVBieGFuZEhzSXoz?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOclIzRlNCYWN5djhGNW1oMEZJME9wdTM3NVJCM1AyX1pKbS1LWGdYc0FYbHFBZnNwTmI3SUJqT2U5dWhEXzhDX21EQnU2ZGNheXVCWndQbzl1NFBrZkM2MmJTVkVNQnN2LW9IbWZSckh2b0Z1VkxFY1NmM19FTnVtMW1ZX0lhQnRPRmZLelhHNG44Z0lsY3djTF9CNWFJTHln?oc=5",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZXlJTlQ0RUFJeGRXU3FRWkxsWlRKdzc1VmtlUi1GWUpIY0Q4Vy1jUW9RWERQcFVnMVBLV3VqZHVIMDhveEdZY3dVQUw0LUhwUzhWay1wZlJpTktlSjBtS0RTcnhybldMMHZuc0ptX1JlamJkamg0?oc=5"
-      ],
-      "published_at_utc": "2026-11-06T17:28:00Z",
-      "published_at_ist": "2026-11-06 22:58 IST",
-      "first_seen_utc": "2026-11-06T10:42:05Z",
-      "age_minutes": 34,
-      "trend_score": 14,
-      "rank_score": 0.8554,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Brazilian GP: Lando Norris fastest in FP1 as Slater triggers red flag",
-        "LIVE COVERAGE: First practice for the Sao Paulo GP",
-        "F1 Brazil GP schedule: Race start time and TV coverage in Sao Paulo",
-        "F1 Sao Paulo GP: Why Teams Have Plenty to Learn in Practice"
-      ],
-      "image_urls": [],
-      "video_urls": [
-        "https://api.formula1.com/v1/embedurl/video/1881130480738549898"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
       "id": "988a5adf48",
       "key": "behind-complaint-downshift-explain-max-radio-recurring-unacceptable-verstappen-–",
       "headline": "\"Unacceptable downshifts\" – Max Verstappen explains what's behind a recurring F1 radio complaint",
@@ -488,9 +520,9 @@
       "published_at_utc": "2026-11-06T17:26:25Z",
       "published_at_ist": "2026-11-06 22:56 IST",
       "first_seen_utc": "2026-11-06T17:26:25Z",
-      "age_minutes": 35,
+      "age_minutes": 38,
       "trend_score": 11,
-      "rank_score": 0.8488,
+      "rank_score": 0.8463,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -520,6 +552,49 @@
       "youtube_videos": []
     },
     {
+      "id": "3b88c1e077",
+      "key": "axe-botta-cadillac-despite-growing-insist-rumour-safe-seat-valtteri",
+      "headline": "Valtteri Bottas insists Cadillac seat safe despite growing F1 axe rumours",
+      "summary": "https://racingnews365.com/Valtteri Bottas' F1 future remains a big talking point with Colton Herta looming.",
+      "sources": [
+        "RacingNews365"
+      ],
+      "article_urls": [
+        "https://racingnews365.com/valtteri-bottas-insists-cadillac-seat-safe-despite-growing-f1-axe-rumours",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS3hRNllaZkRpYndYajVVb1JKLUVUZGJjbHhvaHRPTnQ1MXdFZnpLLWZMczJ1WElHU1g5MGZNN3duUC1qdTNfSVQwbmdWT2tZbnVRVU9YWDFLM0N6TlFtM0FOMTBXeW10aV9fbnBYTXZpSkZQTVJxaHNETjFMaTJ0ZnZvQnlPdVBOY2VNQ002WmVveUhSaEZjSmFVME9sbWZF?oc=5"
+      ],
+      "published_at_utc": "2026-11-06T18:00:00Z",
+      "published_at_ist": "2026-11-06 23:30 IST",
+      "first_seen_utc": "2026-11-06T18:00:00Z",
+      "age_minutes": 5,
+      "trend_score": 11,
+      "rank_score": 0.8438,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cdn.racingnews365.com/2026/Bottas/Bottas-Brazil-Thurs.jpg?v=1793966868&width=1800&height=945&quality=75&crop=6000%2C3150%2C0%2C425"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
       "id": "884e615883",
       "key": "altman-andrew-garfield-him-lied-meeting-sam-straight",
       "headline": "Andrew Garfield Says Sam Altman Straight Up Lied About Meeting Him",
@@ -534,9 +609,9 @@
       "published_at_utc": "2026-11-06T17:49:02Z",
       "published_at_ist": "2026-11-06 23:19 IST",
       "first_seen_utc": "2026-11-06T17:49:02Z",
-      "age_minutes": 13,
+      "age_minutes": 16,
       "trend_score": 7,
-      "rank_score": 0.8022,
+      "rank_score": 0.7997,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -566,55 +641,10 @@
       "youtube_videos": []
     },
     {
-      "id": "adfa2d03f6",
-      "key": "figure-gracing-humanity-lack-leader-movie-screen-tech-united-wired-’-“",
-      "headline": "Wired Leader on the Tech Figures Gracing Movie Screens: “They’re United By a Lack of Humanity”",
-      "summary": "https://www.hollywoodreporter.com/business/digital/wired-katie-drummond-editor-nathan-fielder-elon-musk-1236749276/It’s an era of tech supervillains. But journalist and ‘Musk’ star Katie Drummond still believes Captain America is out there (maybe).",
-      "sources": [
-        "The Hollywood Reporter"
-      ],
-      "article_urls": [
-        "https://www.hollywoodreporter.com/business/digital/wired-katie-drummond-editor-nathan-fielder-elon-musk-1236749276/",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSWZ2aDd1NUZTeEpoMjg5NkJiSEI5OVpnc19GaWVlcC1Xa0FjNG1BZWFZRXZKa19WbUp3TEhiaWRUczZIYmJiODlVRzQ2bE1zSGRtUXpGNXlsMVNadjJIcFE0VHBEeE4zLXJLYk8xaHFBLVpDSnRtQ0lGRnZ2VlEyZGQ3M3p3SDF2ZFA4ZTJlazNTcks5ZUxlbnhhV1E3NlY2N1RZTkd0Ym9POURGTGl3WWd5b0pfQQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-06T17:38:19Z",
-      "published_at_ist": "2026-11-06 23:08 IST",
-      "first_seen_utc": "2026-11-06T17:38:19Z",
-      "age_minutes": 23,
-      "trend_score": 7,
-      "rank_score": 0.7639,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/katiedrummondnas.jpg?w=1440&h=810&crop=1"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/shorts/sOKdJOasE8Y"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
       "id": "606a99712a",
       "key": "0-3-amazing-asset-capital-care-conference-doesn-even-fact-given-global",
       "headline": "\"Given the fact that we can put together these amazing conferences and we care so much about an asset that still doesn't even make up 0.3% of global invested capital\"",
-      "summary": "https://www.moomoo.com/community/feed/@Bitcoin Magazine 560 Views",
+      "summary": "https://www.moomoo.com/community/feed/@Bitcoin Magazine 670 Views",
       "sources": [
         "Moomoo"
       ],
@@ -625,9 +655,9 @@
       "published_at_utc": "2026-11-06T17:54:03Z",
       "published_at_ist": "2026-11-06 23:24 IST",
       "first_seen_utc": "2026-11-06T17:54:03Z",
-      "age_minutes": 7,
+      "age_minutes": 11,
       "trend_score": 6,
-      "rank_score": 0.7558,
+      "rank_score": 0.7525,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -640,6 +670,52 @@
       "priority_queries": [
         "Crypto"
       ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "62491de9b4",
+      "key": "call-democratic-divisive-governor-hinojosa-policie-texa-undo-vows",
+      "headline": "Texas’s new Democratic governor Hinojosa vows to undo policies she calls divisive",
+      "summary": "",
+      "sources": [
+        "The Washington Post",
+        "The New York Times",
+        "Toronto Star",
+        "Reuters",
+        "Houston Chronicle"
+      ],
+      "article_urls": [
+        "https://www.washingtonpost.com/nation/2026/11/06/texass-new-democratic-governor-hinojosa-vows-undo-policies-she-calls-divisive/",
+        "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcm1JSUk5cmhlSjRCR1VtSGVDRUtndU14TUN0Mnc0YWVaZ0Z4TWpncWRWNTZ6MC0tT3dSY2ZobmZhMEwyM0lnSGw1VzNETlRWTFhvMFluUUYyOW5YeW1NbHY4eVVscHdibU5ZZ1RmWFFpUGNoSGQxM2YxdThoN2txRUlYWUlzeEhBTTlKdFNaVkdUaUZ5N1JmVGZIZHlBMm91N3lJb1MyRVZseGJ6MjByMlNieXBuM0hlTkM3aUN2eGU2VmdZUEE?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDVfRFRIRjd5UnZkQzFaemFMcEdrSHFsQXdxd29uSFFUVVEtOW03UkZmTkY4VjNKRXRiOHI4MWlfczZNWThSU2FEalAxUnBFcmVTSnVTQUFxd3FVLWljYkNlaXZReDcxY2otWTFCNU5hcUtQcUVNSFlKcUpSam41NnJZekgzdmc?oc=5",
+        "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTDNOSnBpUHRidHBzM0pfaVpGR1dSQk42dzlyaS10RkRvRGFxd09WYmRUSnY3WkI4NEhDaF9qSlV4UF9EaTk1WDhrZkQxVXpwbmhZdVY5YWg5Zzg1X2gyM3hkblpSQW9LcUpjWlZnbHJ4UlZxSDdYZUVkQXBwUkotcy1obDJhckFLaTk1NGZjM3VmbUU0Wm9yS3huNFZJcGl1WlJTdzY0bmE1dklZSHZYSG1pTlNTWFFMZUViRjkzT1RRY0ZEOFFqOFlJM0c0U0gtbXQ3MUFZVlFhbEgydm8zX2twOGZSOUxPQzBCRXRzekNkNXZiX01GYXhfOGl4anQ5TE1GWjBVaTVkdTlpLTVFag?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbEhvUnR5R1NCX29RTXpzaFZ4U2dmWTdqX2M3MXNkTTh5YlZOZTdKVXJxVWtqaEEyT0lrcXY2bnN0WU1rb3VSazNRejdlaXNKMWpySHZEeVFpbmdKaldkNUgxck9zWnVlNURPTjF0ZTQ5S2gzcDZEZDVzdjh3UlhuazB4SXU3eGF3U1huNl83SmxtQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1J3V0c0aEdsUFF5b0F2cjNfXzBENmJlSm9rbWZqZE83LTlYUndER3BVUURFZjRYRVJLZmZYa0dhb1NLc2tHQlVFWGFQMEtadEx1aGhwNEZwaDVCYUhMUTFOVGxwVTNpeWRKQUdPTTBrWFhab0lWUzdicVhtLXU4aTR6NGlGdkx2SjVNMm5XeEY2QnRreHVLSE5SWUJaTWM?oc=5"
+      ],
+      "published_at_utc": "2026-11-06T17:48:34Z",
+      "published_at_ist": "2026-11-06 23:18 IST",
+      "first_seen_utc": "2026-11-06T17:48:34Z",
+      "age_minutes": 16,
+      "trend_score": 6,
+      "rank_score": 0.7483,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
@@ -665,9 +741,9 @@
       "published_at_utc": "2026-11-06T17:31:20Z",
       "published_at_ist": "2026-11-06 23:01 IST",
       "first_seen_utc": "2026-11-06T17:31:20Z",
-      "age_minutes": 30,
+      "age_minutes": 33,
       "trend_score": 5,
-      "rank_score": 0.7276,
+      "rank_score": 0.7267,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -720,9 +796,9 @@
       "published_at_utc": "2026-11-06T16:07:02Z",
       "published_at_ist": "2026-11-06 21:37 IST",
       "first_seen_utc": "2026-11-06T15:25:28Z",
-      "age_minutes": 115,
+      "age_minutes": 118,
       "trend_score": 9,
-      "rank_score": 0.723,
+      "rank_score": 0.7205,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -756,34 +832,40 @@
       "youtube_videos": []
     },
     {
-      "id": "d55cdf0a3c",
-      "key": "community-ecosystem-polygon-response-spark-validatrium",
-      "headline": "Validatrium Sparks Community Response in Polygon Ecosystem",
-      "summary": "https://coinfomania.com/validatrium-sparks-community-response-in-polygon-ecosystem/Polygon's community engagement grows as users interact with Validatrium. This reflects shifting market sentiment and user interest.",
+      "id": "ff9fd1b4e1",
+      "key": "aims-burnham-change-people-quite-radical-support-young-‘-’",
+      "headline": "Burnham aims for ‘quite radical change’ in support for young people",
+      "summary": "https://www.theguardian.com/politics/2026/nov/06/Prime minister says ‘root and branch review of childhood’ is needed and he does not rule out some benefit cuts",
       "sources": [
-        "Coinfomania"
+        "The Guardian",
+        "The Times",
+        "The Independent",
+        "The i Paper",
+        "Eastern Daily Press"
       ],
       "article_urls": [
-        "https://coinfomania.com/validatrium-sparks-community-response-in-polygon-ecosystem/",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGV3RnZaOTd6clZMNlNpcUs1dkFNQktuMG4xVVJlWUZxWl8xSjY1OHVjcG5YZWZjTTBpbDRGNWE2bExYcmllWTNyVWw2MC1xZnZqTW5UQ2tTQUp1MW9SQXVIenNCWldGVzkyNWFMcU5UNWN0SEMtenNPNjVPSjVSNXZwcEhtWXBHWEVF?oc=5"
+        "https://www.theguardian.com/politics/2026/nov/06/andy-burnham-quite-radical-change-young-people-support-benefits-neets",
+        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlVSX2lkejVFYjJBZEJ0eTFLNFBqeWd6OVNZYVVkMF9FTF9uaTJSREFlaVVKYlIxLWw2UmVpTGdkcnhvbkVYeS1xdmduNXZUbk9XTE9QRWZLTWR2bDVFY2kxRzZ2YldKdjQwU2YtQnJXSFpVbjM3LWFrdTFnMFJsU3kxSEFnLVhrTmxLa3pJM0JEMHVONUJfRE5jWnJBVFRpU2tOWThvSkFJemU5MmJ2RVItZk9peWNLbWc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2xXYThVd0xXX05TOTcza2ZlZGdLUTVMQmVmQVBjSDdSOGtaRDhWOGdQU2JCYUx2U1BBMk53dUxLSms3NzFNcEx6ZUdOMkoyeFZ2VkR5TEw2MWF0cHF2Ykk5aUltU0F4ZFFBZEtkRGx0ei05QlVPZHYzcVhGeERhUmlhVUlIdUpmV3lrbzFWcjN3VnRlQWc1UmtOdw?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcTQxaEVfVkpiWWpaZHZBWEttVTJSZ1dQWVdPQ2QzRElxWHpzMkRtTm1pR2ExSzdlYTFBd3FXc1IyRVEwd2g1Nm9LdTg5TFdRaThmWGdxYnBDRGJNYVBoZlpOQWl3SkFHUHNfWVd0YUdrZEI4amk1eXpyZG9RMDJ4bjRORHd6VVNqQ1RWZlMtOVJ4cGh2Q3ZKVndmQWhtSTBNMHFTMGIxejZ1ZGxJVmJR?oc=5",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkF5aXJEaWs3cXVhNE9DUlkxdGRoVzgwTWdJZEpIVU83NVhMU1ZlNUVoeWFPZEFTQ2FqZUFlRm50OEhWNjVJellfRkl0a1l5aUFUYmRWX2RoSV9tVHVuYklDY0RRRGpnXzFGWHZvLXM2M0I0SzFqYzl4NFRUNTIzWDYtem9lUVhyc0xvbk10cFBnUXhDaEE?oc=5",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZmRLOEx0SExPN0dZMWUzbEVNOHpnR0VBUTJwMXZ6cFhEV2NIdUViNHN0eWlXQVZhRHBNdXlIVTRLYllkdkt5WER0ZDV0Q3VQSGpFZEdyYlJDbzVQQWFVN0w0cWNRd0Z5ellYMHhacjlDOUVwbHdqbWZrSU5iZ2k0b3NSekpvSVU?oc=5"
       ],
-      "published_at_utc": "2026-11-06T17:23:49Z",
-      "published_at_ist": "2026-11-06 22:53 IST",
-      "first_seen_utc": "2026-11-06T17:23:49Z",
-      "age_minutes": 38,
-      "trend_score": 5,
-      "rank_score": 0.7053,
+      "published_at_utc": "2026-11-06T16:55:00Z",
+      "published_at_ist": "2026-11-06 22:25 IST",
+      "first_seen_utc": "2026-11-06T16:55:00Z",
+      "age_minutes": 70,
+      "trend_score": 6,
+      "rank_score": 0.7033,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "US"
+        "GB"
       ],
       "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
+      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
@@ -791,49 +873,9 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://coinfomania.com/wp-content/uploads/trend-banner-1f14ed30-0ece-4a83-a517-9968a72bc82f-1793985791294.webp"
+        "https://i.guim.co.uk/img/media/e90c730d5a61042be7b70ef75678dc9ab9b80828/330_256_6210_4968/master/6210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=573d218d1f78ab81974f80cfe5a2e534",
+        "https://i.guim.co.uk/img/media/e90c730d5a61042be7b70ef75678dc9ab9b80828/330_256_6210_4968/master/6210.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=67dd9ec09a8100f266432880d7e7ea22"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f53676a3e8",
-      "key": "commission-file-future-hyperliquid-merchant-statu-strategie",
-      "headline": "Hyperliquid Strategies Files for U.S. Futures Commission Merchant Status",
-      "summary": "",
-      "sources": [
-        "CryptoRank"
-      ],
-      "article_urls": [
-        "https://cryptorank.io/news/feed/ccc04-hyperliquid-strategies-files-for-u-s-futures-commission-merchant-status",
-        "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkFrZHp3WlVkdllBZTlzX3pWWURzY2lSZDBlYlVFRnBYbVplSWkyV1dkc2Y0M0k5VjdGUkY1TXFhVTM2emdoX19uRF9vWkE2YXRFNnhUWFJRcGM0MWhLTWtrVWVuUmpDd1NHOHIxTTBWYlIxMjc1Vi13SUlvekExajBmODJJWGJtZXVIaXZoZ1pJUy0tZWJSc0gwWGQwdHZuMHprS3Fia0drZFJBSUE?oc=5"
-      ],
-      "published_at_utc": "2026-11-06T16:16:58Z",
-      "published_at_ist": "2026-11-06 21:46 IST",
-      "first_seen_utc": "2026-11-06T16:16:58Z",
-      "age_minutes": 105,
-      "trend_score": 7,
-      "rank_score": 0.6956,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -853,9 +895,9 @@
       "published_at_utc": "2026-11-06T17:00:53Z",
       "published_at_ist": "2026-11-06 22:30 IST",
       "first_seen_utc": "2026-11-06T17:00:53Z",
-      "age_minutes": 61,
+      "age_minutes": 64,
       "trend_score": 5,
-      "rank_score": 0.6861,
+      "rank_score": 0.6836,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -895,9 +937,9 @@
       "published_at_utc": "2026-11-06T15:08:14Z",
       "published_at_ist": "2026-11-06 20:38 IST",
       "first_seen_utc": "2026-11-06T15:08:14Z",
-      "age_minutes": 173,
+      "age_minutes": 177,
       "trend_score": 5,
-      "rank_score": 0.6829,
+      "rank_score": 0.6817,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -934,29 +976,29 @@
       ]
     },
     {
-      "id": "a217cebd4e",
-      "key": "financial-governai-institution-launche-uptiq",
-      "headline": "Uptiq launches GovernAI for financial institutions",
-      "summary": "https://itbrief.com.au/story/The tool is meant to ease board and regulator concerns by giving lenders audit trails, approvals and user controls for AI agents.",
+      "id": "a6188af463",
+      "key": "6-automate-check-conlio-document-freight-raise-€",
+      "headline": "Conlio raises €6.4M to automate freight document checks",
+      "summary": "https://finance.yahoo.com/technology/ai/articles/Conlio's €6.4 million round, led by Piton Capital, targets the manual check European forwarders run on every load before carriers get paid and customers get billed The post Conlio raises €6.4M to automate freight document checks appeared first on FreightWaves.",
       "sources": [
-        "IT Brief Australia"
+        "Yahoo Finance"
       ],
       "article_urls": [
-        "https://itbrief.com.au/story/uptiq-launches-governai-for-financial-institutions",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRWFQbjJyNldDQlZXVVpWcW85cWlPcXYyYVBqdE9wZGtlNTRudjZPeExNdXhCZXV0RHc4NjY1TzRGb1VKTlJnVWpaN21obG9IOUo1ZUR0UFc4U0IwRDV2cnhKUTloVW9Xeml1SzFRbU9YZU9mR29FOWVadnNzV3psN1ltOUU0UQ?oc=5"
+        "https://finance.yahoo.com/technology/ai/articles/conlio-raises-6-4m-automate-154003962.html",
+        "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkE1OUNaYVB2S1hTQWJvNVB4T0xqRTQwZUoycEVpRFRjVkYwaFB2VGp0LUFkMXBBMVZfLVQ4S0o0NHNiZzQxck9iNEVjQmpHbnRaR2Rudl9PYTBXUFdHMHdfa25YWk4zUUpvT21rWE1ieWY2OF9weXY2MUprMnFaQzQwUFFxTFdjOFhwalNJQlZXVnFwM2c?oc=5"
       ],
-      "published_at_utc": "2026-11-06T16:30:00Z",
-      "published_at_ist": "2026-11-06 22:00 IST",
-      "first_seen_utc": "2026-11-06T16:30:00Z",
-      "age_minutes": 92,
+      "published_at_utc": "2026-11-06T15:40:03Z",
+      "published_at_ist": "2026-11-06 21:10 IST",
+      "first_seen_utc": "2026-11-06T15:40:03Z",
+      "age_minutes": 145,
       "trend_score": 5,
-      "rank_score": 0.6603,
+      "rank_score": 0.6161,
       "category": "other",
       "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN"
+        "US"
       ],
       "language": "en",
       "priority_queries": [
@@ -969,7 +1011,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://itbrief.com.au/uploads/story/2026/11/06/compatible_modern-bank-boardroom-compliance-dashboard-secure-ledger-ai-story-323733.jpg"
+        "https://s.yimg.com/lo/mysterio/api/e62d4c38a15bfdc72821559a3627f0bf3b158063cb636ddb441f8ef17bee3d8c/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ffreightwaves_373%2F3f9b0530ef587d45942b0881fcfb968a.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -990,9 +1032,9 @@
       "published_at_utc": "2026-11-06T10:24:26Z",
       "published_at_ist": "2026-11-06 15:54 IST",
       "first_seen_utc": "2026-11-06T10:24:26Z",
-      "age_minutes": 457,
+      "age_minutes": 460,
       "trend_score": 6,
-      "rank_score": 0.3808,
+      "rank_score": 0.3783,
       "category": "other",
       "section": "top",
       "source_type": "news",
