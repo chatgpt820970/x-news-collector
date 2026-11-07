@@ -1,1105 +1,307 @@
 {
-  "generated_at_utc": "2026-11-07T05:05:23Z",
-  "generated_at_ist": "2026-11-07 10:35 IST",
+  "generated_at_utc": "2026-11-07T08:05:19Z",
+  "generated_at_ist": "2026-11-07 13:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
-    "feeds_ok": 89,
-    "feeds_failed": 0,
-    "raw_items": 5064,
-    "fresh_items": 3894,
-    "clusters": 1598,
-    "youtube_feeds_ok": 3,
-    "youtube_feeds_failed": 27,
-    "youtube_uploads_fresh": 31,
-    "youtube_items": 0,
-    "famous_items": 6,
+    "feeds_ok": 0,
+    "feeds_failed": 89,
+    "raw_items": 0,
+    "fresh_items": 0,
+    "clusters": 95,
+    "youtube_feeds_ok": 30,
+    "youtube_feeds_failed": 0,
+    "youtube_uploads_fresh": 106,
+    "youtube_items": 5,
+    "famous_items": 1,
     "trends_terms": 40,
-    "page_fetches": 68,
+    "page_fetches": 0,
     "with_video": 5,
-    "runtime_sec": 19.6
+    "runtime_sec": 90.9
   },
   "categories": {
-    "famous_clip": 4,
+    "famous_clip": 0,
     "ai": 0,
-    "celebrity_music": 6,
+    "celebrity_music": 0,
     "finance": 0,
     "crypto": 0,
     "sports": 4,
     "tech": 0,
     "world": 0,
-    "other": 6
+    "other": 1
   },
   "top_trends": [
-    "luka doncic stats (US 1000+)",
-    "dave chappelle (US 200+)",
-    "ilia topuria (US 200+)",
-    "tarleton state basketball (US 200+)",
-    "jimmy fallon (US 200+)",
-    "jason eck (US 200+)",
-    "cody bellinger (US 200+)",
-    "sarah paulson (US 500+)",
-    "mega millions numbers (US 1000+)",
-    "ocarina of time switch 2 controls (US 500+)",
-    "lawsuit (IN 200+)",
-    "women's big bash league (IN 200+)",
-    "domestic violence (IN 100+)",
-    "राशिफल 2026 (IN 200+)",
-    "salman khan ramayana budget comments (IN 200+)",
-    "us bombs iran (IN 200+)",
-    "பாலம் (IN 200+)",
-    "yahoo cricket (IN 200+)",
-    "jj gabriel manchester united (IN 100+)",
-    "is bank open today (IN 2000+)"
+    "ucla vs minnesota predictions (US 100+)",
+    "haití (US 200+)",
+    "jared padalecki (US 100+)",
+    "the walking dead: the return (US 100+)",
+    "play store (US 100+)",
+    "marshawn lynch (US 100+)",
+    "campus drivers season 2 (US 100+)",
+    "raiders vs 49ers (US 100+)",
+    "ethan hawke (US 200+)",
+    "zelda ocarina of time remake walkthrough (US 200+)",
+    "shreyas iyer (IN 5000+)",
+    "जैकब डफी (IN 500+)",
+    "ಸಲ್ಮಾನ್ ಖಾನ್ (IN 200+)",
+    "रेखा आर्य (IN 200+)",
+    "hanuman ansh movie (IN 2000+)",
+    "ഓഹരി (IN 500+)",
+    "गाजियाबाद (IN 200+)",
+    "rohit sharma (IN 500000+)",
+    "ബിഗ് ബോസ് (IN 500+)",
+    "गैंगस्टर (IN 500+)"
   ],
   "items": [
     {
-      "id": "7d88c1866e",
-      "key": "abuse-arrested-charged-child-estranged-father-material-meghan-possessing-sexual",
-      "headline": "Meghan's estranged father arrested and charged with possessing child sexual abuse materials",
-      "summary": "https://www.bbc.co.uk/news/live/The 82-year-old was arrested in Florida this morning after FBI searches of two Los Angeles-area storage units - he has previously denied allegations.",
+      "id": "f5685a28a0",
+      "key": "funniest-radio-verstappen-🤣",
+      "headline": "The Funniest F1 Radio Of 2026 From Verstappen? 🤣",
+      "summary": "Just Max Verstappen amusing himself and the rest of us at 300 km/h. For more F1® videos, visit: https://www.Formula1.com Visit our store: https://f1store.formula1.com/ Follow F1®: https://www.instagram.com/F1 https://www.facebook.com/Formula1/ https://www.twitter.com/F1 https://www.twitch.tv/formula1 https://www.tiktok.com/@f1 #F1 #BrazilGP",
       "sources": [
-        "Sky News",
-        "BBC",
-        "The Guardian",
-        "The Telegraph",
-        "The Times",
-        "AP News",
-        "CNN",
-        "The New York Times",
-        "Fox News",
-        "Reuters"
+        "YouTube: Formula 1"
       ],
       "article_urls": [
-        "https://www.bbc.co.uk/news/live/cwnv03203yvmt",
-        "https://www.theguardian.com/uk-news/2026/nov/06/thomas-markle-arrested",
-        "https://apnews.com/article/meghan-markle-father-abuse-allegations-0bf10d1c7d915b82048c04bd9cca9fc5",
-        "https://news.sky.com/story/thomas-markle-snr-arrested-by-fbi-in-florida-report-13608900",
-        "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbl82bVZ6QWpPRjdfTGY0MHVMTVQ3UzU0RGhhLUVOQ19vdnlSSkpCOW9mUzg5VHE3SjFaR3ZpWDloQ1RTbmZBZUQ1SjgwTEZWVDhGWmhPRXlON1lscEJJbVBJdmJZWUxxNzdwaTZ4MldZQURXUFp6MnlaNHUxUW5GM3Z3bFNyaEduT0RVaGhIcWlnejVmUnJxWWNZRTJvcTlvdlpPazZFc3R6R2RFUUdkXy1YbUt0WUp2czFFT1JzQlFubDZoUWdoaWlR?oc=5",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA1OVdkeEVRLWhNT3MxdUdoVUNvUVNySzdBSC1FUG10NGlhdkZIV2FtaFB4N3dHaVhjZWhPZ0dqY1lqUXJwak1lVFFFY1BqUXhBVzhULXZDdk0?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFlRX3hnV255bWxXZUl2eF9PZWZGTlhNc013RENWWVlJbEF4bE9uUjlYMVdfS0VuV092MVlnckhlOUhraFRTc1IzRDAxQTRiQnpnZWlIaDhYS0twak9mb3VGV2liSEItVnpSenpiZWYtWk4tYk93UWZoSTRCLXEtSmNqcC1WbkYwMFRaNDZTWnpaVW9TbFFpT0dwc0hMRkw5OHpSVG1nRXV4a2lBVUUtSzhZYTFXQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XWWRSOVZya19pTlI2VEF4UGN2ZUFMZVVDcnlkV2ZKdmJMNWFkcGwyV0ZJU0RDUVpiWVlfTEM4Z3Q5SXYyRjAwMzlDMkJEZVNYX01CaHpwWlhHcEFLeldZSWRTQUxqU21mTHpIcTZldXlRZ2lBXzIwR3BQZTFSblU?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:24:12Z",
-      "published_at_ist": "2026-11-07 09:54 IST",
-      "first_seen_utc": "2026-11-07T00:01:00Z",
-      "age_minutes": 41,
-      "trend_score": 20,
-      "rank_score": 1.1745,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "meghan, duchess of sussex (GB 10000+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Thomas Markle latest: Duchess of Sussex's father appears in court after being arrested by FBI over child sex abuse material"
-      ],
-      "image_urls": [
-        "https://static.files.bbci.co.uk/core/website/assets/static/news/images/metadata/poster-1024x576.5f404a8b8b.png",
-        "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3368f0fe71a1421853fa74e0a8eb274f",
-        "https://i.guim.co.uk/img/media/a2adfb76057620d1e7d74079ddf4e8b2f7b269d6/589_201_4067_3254/master/4067.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=5c6827e314f0d5f6ae1fa21227e284fa",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSh29wLftoxNhjekzoqtT8TzLWtdigV4ALMtLcFYjmD4cHLo7bSmHJtotWb_K8",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRizVhA8LTclTcSQwdswhq6u2DBupn5_w9rkYlym1EXcdDhn9kGCNlCqxgS8ZY",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSguPsu_PFpLUYNiyHQqx0ym63TdrBn2D-ZLW0vgblgvyjgT0QT7NWUzMgUMpc"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "83a6462bd4",
-      "key": "christma-kelce-married-plan-reveal-swift-taylor-travi",
-      "headline": "Travis Kelce Reveals His Plans for His First Christmas Married to Taylor Swift",
-      "summary": "https://sports.yahoo.com/articles/Kansas City Chiefs tight end Travis Kelce is already looking forward to first Christmas as Taylor Swift’s husband.",
-      "sources": [
-        "NDTV Sports",
-        "Yahoo Sports",
-        "Gridiron Heroics",
-        "Yahoo"
-      ],
-      "article_urls": [
-        "https://sports.yahoo.com/articles/travis-kelce-reveals-plans-first-210036773.html",
-        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPNERiZi11WUxUTVlzYkJ3TzRHVXhKT1hxU2lsY3A5YWlXeVJmNk9Da2FrMVJUdy1zZDc1SWdyR2tlbVRfa29nbmlvOGFxS0tydGQ2c2RCR2J2Zi0zaE1Dd2VDU0pMZW9PazF3WGF4WmZTRmZZd0JxUlJVRDd2WWRPZWhrOThLUVJfUlpqT0NLRVRnOW1kRVlxX1I4TWdhejZXbzAtMWpVQkZlZ2M5UEo1enVzZXcyYXJzVFEzRUdjUTl6elpIYmU5US1mcTRCZnAxcjNxcUdGaXh2RHpuWmFWUDRIM3NyeUhRTWp6MTk0amlnYXNuVkE?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRjRlSjRTajA2amZQVDdiQjdXTDFXaWVrNnZFRGNjbE9mVFNIN0FDN3VkaHhPU2NzdHNjU0ozU3V4QUxDaVl3NDhHdW1CYjVUSXhiNWxyV3JINkdScFpmMkhBU1hqdlF4a3U3WVlQOXRZU3RlT2lxM0o4eXVYYjMwakcxbVhkeVJWVlE?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNVFwdFRtQjdzZ2VSMWFpWEphQXpvVWF5QjBBUWZva3hrSFdHNXVfcE9Fb25NZlIyM3JUbks1LWsyWDdzRk5GeVNfZXpPZ2lLbEg2NHhPR0ZEajczU3JIcEhWOHRJQVRzdW0wcW9lZDBPWGxsOFJHWkdnVVdhSGs?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZnI1RDBZa3pGY3lhd2xBMlZCQ3dSR0VOYV9jRmNfZUtURGRlX2dHZTJMekEtT3VtMkVpM0VhYTdiNHM3MHRVTFBtcTFvX3V5QncyTFFhTk9YelBDSjQzRE1FejJlM2Z4cXB1TEJvVGtNczV3dzBDUFBrbXdzZ05xZUVwelB2c2tD?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ011ektJTkhvaGJtZHV4VnJ6Z3ZWMlJlNFFUbE8wME1HcUU1Mm4xMnBHU1IwS2tYTG1wTkV0WXVGVHB2cEduMTJfSTlrNXZ5ekdjZkY1OFRUb1JnSTdHUDJyT0x4enhSa011Yi13S0VVR3NfdmlLd0xKYmI4aGk0NjJYYUMySnh5cHh1X3V1RjBBVWlsZUd1bkxjclo3SEtXeU5xbQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:00:39Z",
-      "published_at_ist": "2026-11-07 09:30 IST",
-      "first_seen_utc": "2026-11-06T20:44:47Z",
-      "age_minutes": 64,
-      "trend_score": 18,
-      "rank_score": 1.0183,
-      "category": "famous_clip",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Travis Kelce",
-        "Taylor Swift"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music",
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Travis Kelce Reveals How Marriage To Taylor Swift Is Changing The Holidays As The Couple Prepares For Their First Christmas",
-        "Travis Kelce makes comments about first holiday season married to Taylor Swift",
-        "Travis Kelce 'Can't Wait' For 1st Big Taylor Swift Milestone",
-        "Taylor Swift and Travis Kelce Debate Christmas Plans Amid First Holiday Season as a Married Couple"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/c69dd90123612f9e6e5a84315ec636bfb90f1e9b3bbaed9045377c36840e7626/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fathlon_sports_articles_610%2Fe39b54425a60d89f64f39d9a8b9110b6.jpg"
-      ],
-      "video_urls": [
-        "https://video.media.yql.yahoo.com/v1/video/sapi/hlsstreams/a0000356-a1ba-398d-8d0c-a01a7f9549fa.m3u8?site=sports&region=US&lang=en-US&devtype=desktop",
-        "https://sports.yahoo.com/videos/ravens-traded-back-35-spots-015205322.html?format=embed"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "d700b43e59",
-      "key": "all-claim-khawaja-knew-sandpaper-use-usman",
-      "headline": "'All of us' knew of the use of sandpaper, claims Usman Khawaja",
-      "summary": "https://www.cricbuzz.com/cricket-news/140815/The former Australian opener said that the team had also used sandpaper in the game preceding the Cape Town Test of 2018",
-      "sources": [
-        "ETV Bharat",
-        "Cricbuzz",
-        "Cricinfo",
-        "BBC",
-        "Sky Sports",
-        "SMH.com.au",
-        "ANI News",
-        "Yahoo Sports",
-        "The Times of India",
-        "The West Australian"
-      ],
-      "article_urls": [
-        "https://www.cricbuzz.com/cricket-news/140815/all-of-us-knew-of-the-use-of-sandpaper-claims-usman-khawaja",
-        "https://www.etvbharat.com/en/sports/usman-khawaja-on-2018-ball-tampering-scandal-claims-all-australia-players-aware-of-use-of-sandpaper-enn26110701319",
-        "https://www.aninews.in/news/sports/cricket/usman-khawaja-drops-bombshell-on-2018-sandpaper-scandal-says-all-of-us-knew-about-ball-tampering20261107083505/",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNW5HU2VoSEFVZUtRNFlJM1I4UmJGVVJrM3N6QkpWQnJWVGFlYWo1My1ENUF2bU9zdEtZcFVYNFV2a3ZNU296YXlUMmZfNVZ4d0YxM190R1E5bWU5QkhWSlA4R1A5Q21JZTQ3LUZVTGMyYXdUNHRsX1BDakJCTGM4TkRuZ3pwTTZkNXlGc242bFpqQ1A0S3RaMDdSWHpfN0p2WnhKS2ptOHZwbjZJcVU1T0VMSnVzWWE0RTdzLTNCNFpibWxCNG9QNERheWFfWVdhSVJsSDNjRk1yQ3dnMGpHN1UwOWrSAeoBQVVfeXFMTzh5azRWUGkyNFM5Ri1kdUQ5aW9HZG8zYnhHeTBoelhkVUtKanZmTGZFQ3V4aHRPZlg5aUVOWEg3eHotVTZZZ2hQTEE2N1Z0NUNveFdLeUZoSWhmNm91WDlWR25SbjNPVms2NnUzM083WVAzVnNDLTZnVTNLQ3ZwSWZtcXNwQllneWFXaWltZ2dMMlEwX0twQVlQbzVsN3NQejkwV3kxZjRCNVdjMi1jUTFGYU91QlVzeS01RDh3MHMxZWhudzZBR05xeVB1MG5GYlVXZnZIQ0o5bGNmTkJCeEVxVFpXVjFMcGxn?oc=5",
-        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEFzUW5aeldfYlFNdXIxMmZUTEEwVk11NHpRWFBvT1RNZThfMzE0YlhfTFR6bVZZUFZ6cjVuMmY3VHJTemhsTmZXZnhpcEs2Mm9LNnRYVE9jbDlUM2x1N2s3TXZBRDgxeTVvTzJPdzNOSldpSWVpcHpwRmk5RkVxalZ4WEJ0RTVFblFlczZPV3Q0MHdhV1NGTENTT3FTZXhtS1JEclFmUQ?oc=5",
-        "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2FPRUdVUDNaRUxmamxRbG9uSG1ydjJ3Q2NCcU80VDlwd29MVzJKTjlQLW5vNnRYVjBiWUJpLTRoYmZ6V3ZRZ2NyampidGQ4bFZ0dXZwdUUydWtRb2FvNEMxV1lhaTB6OF9URmwzV3ZOU1o1QVNqRF9zR0RLd2FONTFPV3BRQ0g0OGhxbWsyVjJnX2F2R1JmQVhlVEdxZmRH0gGyAUFVX3lxTE8tTWNuQ0tzdXZfenRtV3ZRMEY0a1JEV0MtMUwwdkhaTjE0WUVKZFVVM0N1aFBkRDU1TFVQeWhNZ3dCcDhQNGlrYVd4ZGFScXJsbVNxMlZTR1QxUk5IX01oMGt1aWsyUEFjandHOE9JaWM4ZTlSUGc3MkhZeEhVdzhUUWhFNFVJUmhvZnVrU2dVbHAzTUduZ1JQdTEwSmtPcnA1Y3VWY092bGpIRkVOM0otWEE?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oYWJkVjFucnVoeW1fSFhuYTI5cGd6ZW9Ia0E1dU94Y095eWdxQUZoY1ItQmZxV3Z2R2FGakhMaWNHMEIwLVJya2pLTlhWcDU5OERRZjgyUTV0UHNDNmY1MGl5bDZGd3c?oc=5",
-        "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTWFWSkF1SVB4cFpGLXQ4YVZYdlNXbjBMMHJtZXdQbGt3YVNJNzBLTVJ6X0ZJQXdvX0t6UHh1SmZMUXhrS1JTSG1Wem9aVFozSXpYdFBRV1dmaGJHUUg3Z2xOYmdiWnZfVTNVSjl1Wk1XSUFyVTRydnM3SVpaWkdybTJnYzJEWEwtX1FpWmhJV2M4NkhEejNUV2JtWjlBMUg3NGpQZF9BX1A3OWZzX2h3QzNOYjZKS3pic1VKVHN6Mmt1b204dmhMQ2hrbF9DNE9HUnluZkN3X0hVNW94R1QzbFZFY0xTbzA0dnc?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:42:10Z",
-      "published_at_ist": "2026-11-07 10:12 IST",
-      "first_seen_utc": "2026-11-06T22:06:57Z",
-      "age_minutes": 23,
-      "trend_score": 30,
-      "rank_score": 0.9808,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "‘It Was All Of Us’: Usman Khawaja Drops Bombshell In Sandpaper Scandal On Australia’s 2018 Tour Of South Africa",
-        "Usman Khawaja drops bombshell on 2018 sandpaper scandal, says \"all of us\" knew about ball-tampering",
-        "‘We knew': Usman Khawaja blows apart Cummins, Starc, Hazlewood and Lyon's claims of innocence in sandpaper scandal",
-        "‘It was all of us’: Usman Khawaja drops bombshell on Australia's 2018 ball-tampering scandal"
-      ],
-      "image_urls": [
-        "https://imgs.etvbharat.com/etvbharat/prod-images/07-11-2026/1200-675-28058100-1044-28058100-1794026489117.jpg",
-        "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261107022250-thumbnail-320x180-70.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "50b7b8b151",
-      "key": "announce-mohammed-retirement-shami-test",
-      "headline": "Mohammed Shami announces retirement from Tests",
-      "summary": "https://www.cricbuzz.com/cricket-news/140814/The 36-year-old seamer picked up 229 wickets from 64 Tests for India",
-      "sources": [
-        "Hindustan Times",
-        "Pragativadi",
-        "Outlook India",
-        "Business Today",
-        "Cricbuzz",
-        "Business Standard",
-        "Gujarat Samachar",
-        "The Times of India",
-        "The News Mill",
-        "Firstpost"
-      ],
-      "article_urls": [
-        "https://www.cricbuzz.com/cricket-news/140814/mohammed-shami-announces-retirement-from-tests-cricbuzzcom",
-        "https://www.hindustantimes.com/cricket/mohammed-shami-s-best-match-winning-spells-in-test-cricket-101794022963146.html",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVV2VnRjemhLVmFFWVFOSHgzdFFBNHpaMDFWeDJaRG11N1V0TGIzdFE1WkdHMEZZSUFvRWdaR0FaNG5rTkI2bGZkcmNaZ1pTanRXMXA2SW1YcFJoc3pmMGxKNEtWWGEycWJ4MklEamQydlQzdkxwenVZdzJsRjhGLU54Yi1fRkNZTExUUzdmMjRmMmxXQ0NpNDRENDRiemk0cWQtLVdGRW9QLWxWcEZUT0hrcUNrZlA0aHfSAb8BQVVfeXFMUEVGX1V5enc3LTZaRVdoVzJpcEFYVXFlNVN0TFJsQXBzX3JsdmctLW9CLWZJNVJrYzFqMmRZT2FkSUdNRU9QZi1wc1ZvVHlLV3czenUxR2lhTDRSSFhrX01VYzNid0QweXZpMnRlWFNCYzI1R3g2RWFDckpmYmtJNHc1NzNVTlR3UV9idlZYb1RkNDNrUVFtQ2NJQ0k4cmZ6T3V0V0ZLUU1UVTVJWFdnZ01QVEY2UlZweXlDLTFIdmc?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxOT0xjdk5fTERzaFZVQ2RzOXRtUmhGZi1hVm1Rd3Z5YnRuSE1jeks2dnFpb1QzNHNpQnI1dkloUTNYZ2MtOVNZeUdyN1hObUQzZ3hDaV84OTVZN08zRWV5cHpnMnhTQ0FRNDJFMlFqV0x5bXlEZHQxNk9QODMzaTVYVldKMmFrdW03Tm5yRGZsR2ZoUkt5a1paNjNCWXg2WHJHbXRQWWtUd0tWXzZsb3Q1TVdJUlRBekJPcWU3WEs2alhYUW1LYXdjZTk5a2tGYnhySER0TGkxSEV4elIta2hLRllJUjJ6MElGSzB2MWU0ZUFyaXlEMUVWYnVKYUx6Y2x40gGAAkFVX3lxTE5PTGN2Tl9MRHNoVlVDZHM5dG1SaEZmLWFWbVF3dnlidG5ITWN6SzZ2cWlvVDM0c2lCcjV2SWhRM1hnYy05U1l5R3I3WE5tRDNneENpXzg5NVk3TzNFZXlwemcyeFNDQVE0MkUyUWpXTHlteURkdDE2T1A4MzNpNVhWV0oyYWt1bTdObnJEZmxHZmhSS3lrWlo2M0JZeDZYckdtdFBZa1R3S1ZfNmxvdDVNV0lSVEF6Qk9xZTdYSzZqWFhRbUthd2NlOTlra0ZieHJIRHRMaTFIRXh6Ui1raEtGWUlSMnowSUZLMHYxZTRlQXJpeUQxRVZidUphTHpjbHg?oc=5",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV05CUW1aQ0Z0bzRtalFkbWtIMU5neVlpaVlSWTkyTFZ0TWRvLXRHNWNnM3pFV2FreWVNM0wtUlFxaWgyQVc2RXRfc2ZGWDJLSXhWd3VuVlRURHd0OUJMS2pkUWtDUjRNVTg2U0s2a0RuRkZKQWttNkZmcFYxcHF5QXhIaXdGdl9DbGtNQjBCRGxHU3RPYmdxQ1J3cEVLdXNRYS1VbG1TMXh0N1F1Y01YNmFZRk4tT2FOVkNaTjJiQTBKN1cyQXJ0aGVITDV0VDFEM2pvY3RB?oc=5",
-        "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYThFQ3BvNGd0ekhWaEVBZnBKd0FNZjI5bklSVlozYTVXY3RYNlctWnprOUN6QUs2RUhMNmJVb205SnFnOXR3bGZlSkNvWlBiYjVHcU5fdHZENnJOLTR2UFBHSXhhcXoycDNMZUFQOExrUnJIWVZXY1pGeE9jNmhScVp3QUY0RDJNZnRjMmd5bm5xdlBnWjI3cnUwenhuUlJsU2dQaXBZS3pqSmFuWFlRcXRpcFFQUdIBwwFBVV95cUxOSHJVbWN5N3V2OXN0NmZrTEtjcDF5VTdVUm5oTGt1ODE1Vm1hT3NrNWhmeTVpYTRYVWZBYk1uY0VyTkVxbGk1MWZlVTdkMS1SdTA5THNnMEFMVzFlZ0lFeGFPcWdGejU5dW9kUWd6eF92OFpIRTNaRE1Bb2JfYm5rX1JsSWxBX1BTSWlkTmszMVpmenJJNXBCYTNwaUx1cHBMNS05VHFXM3BqNUhZbDVMT0oxbS1mRnZpQVlaUl9iUFFRVEk?oc=5",
-        "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTXpZYVRxQ1A5V3p2cGg2dnhrbWR2WVQxSWtfLXFZSEhGLUlxSjVjajNBcnJ0N0psSU04MEV4dmJnNTdqOS1VVExmQURpUFY0WnB3NGloNFYzUEc0Vm5OWVkxVjFrQ0NfR04zb2o2VEYwYnZxcHRZTlFLd3BPWmY5dnNjWWdfRTl5N1ktLThlUGRFZ2NiT24xTjV2U3dWNDlXRmlQb2ZYMWtYaHljTkVuU2lDTnBWbVdYbXcyQzBuOG1ZU0JTVmRNcmdoZjY1YzlMT0RSWHN5cDJ5Qk5hTDVZeXhn0gHnAUFVX3lxTFBpNUFNeV9QbWRZZkhVc00xYUUxTkljM0ZSTHREc0NSQ1Y5R0NtRjVidGF2OFFKeDNfNVJ2N0hMSldMalp3eHdEd24zcFhqbHhzUmo5NHNiOV9yLWFTcU1SemZWcnl2UjZJRkhZcWFtekxHSWc3S1ZpazUweGtETDhlNkRaWUNCSS1idVJXQmdHRjVlQUVsbVNhTUVzUGFFOFB0R1RuUWZuMDBMbVc2U0hKVEsySEdXbDI0dkNyN19CZ2VBQUtlSVpEV2NTVnFFYlkwZksyOHYxd0NhMnBPeWRIS1RoOEYtTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipgFBVV95cUxORjRDN2pLUWY1eTlaa1ViNklQZ0l0YXFDMDlHNFhRNTB5R0Fud0RVMWNWSHFtS2p6U0laeVlTbjZqZmFaZ1BoV01hWF9HVzRjVmdidkNaV01kYk12VmtzZVJOWlJ2eVJWaUdjZ0VibDBKeWI3d09DOEpkRzVjOFJIZ1pZNGFkTFFEdEZfeTJ6ZGFRemxVdW94ZXVmekJPUUVNMi02NEhR?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:36:11Z",
-      "published_at_ist": "2026-11-07 10:06 IST",
-      "first_seen_utc": "2026-11-06T21:29:00Z",
-      "age_minutes": 29,
-      "trend_score": 32,
-      "rank_score": 0.9758,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Mohammed Shami’s best match-winning spells in Test cricket | Cricket",
-        "The Mohammed Shami effect: Match-winning spells, heroic despite defeats and an overseas legacy beyond numbers | Cricket",
-        "Mohammed Shami Retires from Test Cricket After Illustrious 13-Year Career; Will Continue Playing White-Ball Formats",
-        "64 Tests, 229 Wickets: A Look Back At Mohammed Shami's Red-Ball Career As He Retires from Test Cricket"
-      ],
-      "image_urls": [],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=T50u-Ka1XAs"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "8dd8a378e6",
-      "key": "alexander-ilia-rematch-topuria-volkanovski-won-’",
-      "headline": "Why Ilia Topuria Won’t Rematch Alexander Volkanovski",
-      "summary": "https://www.sherdog.com/news/news/Ilia Topuria is eyeing a longtime foe for his Octagon return.",
-      "sources": [
-        "Heavy.com",
-        "Bloody Elbow"
-      ],
-      "article_urls": [
-        "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-who-he-wants-to-fight-next-in-the-UFC-203511",
-        "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
-        "https://heavy.com/sports/ufc/ilia-topuria-wont-rematch-alexander-volkanovski/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/06/ilia-topuria-ufc-career-threatened-without-brother-stoppage/92645597007/",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVzdxRzNvQU5ibVhKbTRRLTF3cHpiVWVwR00tVGtSUjl3TDNLZU8yWlhVOVFrWmQ3Y2Q2NlNlWlVTZ3djS1p2a0JScjZoZ3NFelpvZTVlTTlKNDg2eURxS1BCZnE4aTVXbUhiOHpWTktYOGcza2NUajZ3UXY5eERVVDNIbw?oc=5",
-        "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejMyZlpQZkxJZnFXT0YyT2RhdlZURUR5aU5UeHZnX2hOSXZYLUowbUM3cjJYM1RYRjFjUEt4NXUxVi1IQm9VMEZBWU9RT1dUZVg2S09aLVRycm9ZemN4TWZBRHRaMFd5NkRLRkVpOTFfSlpwSnZ2M3Y2SUhlWXBxZy04WnB2TExURU5qb3JxMFlHdU50UVFlQzdtenR6WEQyTU1CcWNXRVpmZE0wNFlUVy12TWhGTEp2UEFzaHRONE1seGNyVlJ3?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T03:36:00Z",
-      "published_at_ist": "2026-11-07 09:06 IST",
-      "first_seen_utc": "2026-11-07T01:00:00Z",
-      "age_minutes": 89,
-      "trend_score": 9,
-      "rank_score": 0.968,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ilia topuria (US 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Ilia Topuria reveals heartwarming reason he never wants to fight Alexander Volkanovski again"
-      ],
-      "image_urls": [
-        "https://www1-cdn.sherdog.com/_images/headers/20261106021054_ilia_ufc_return_paddy.JPG",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2222691657.jpg?quality=90&strip=all&crop=0%2C0.0026339714060825%2C100%2C78.538703555406&w=1200",
-        "https://heavy.com/wp-content/uploads/2026/11/GettyImages-2019424829-e1794022199228.jpg?quality=65&strip=all",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN1Jmg3gNxxohiYs2eWeEP1CL4KCjmrFHbgUxG2Sc0SJnmYZf92OOMgH7ybM",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEtEW-wTFrr9oBcrPjaOqY05GNQybEFf4sExzzPorAvyLYvzkseumM9inVxE",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCmC9FcBip_avgskxNXnvVb_AnEKQLF2pIGlbIjkU_Y590T2ouPN6rJQwI6Nw"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "19e9606e88",
-      "key": "aleksandre-brother-career-grateful-ilia-saving-topuria-ufc",
-      "headline": "Ilia Topuria Grateful to Brother Aleksandre for Saving His UFC Career",
-      "summary": "https://www.sherdog.com/news/news/Ilia Topuria is eyeing a longtime foe for his Octagon return.",
-      "sources": [
-        "MMA Sucka",
-        "MMA Junkie"
-      ],
-      "article_urls": [
-        "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-who-he-wants-to-fight-next-in-the-UFC-203511",
-        "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
-        "https://mmasucka.com/news/ilia-topuria-grateful-to-brother-aleksandre-for-saving-his-ufc-career/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/06/ilia-topuria-ufc-career-threatened-without-brother-stoppage/92645597007/",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxNV3lJRE8tblVDMVpMaDg5eEd5c1d5U3Y3ZXFZV0xkei1VOVdIZnd0TjM1X3JXeVNRN1pGTTZiSGZuRF92Q19LMXQ3MVFjZ2YwdUF6cFlyTmgxMC02YmlUdWRvQXZyRkFJX1R3TEdPc09MbnZ4aG1BdDZuMTJFZ0RoWFdYdlhlbmYzenBfbXZlczJlV3p6M0E4NVQyY3o?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaWxXVDdVUWV4LWNhQ3NrR2RHMnhOQmwxcnpfTWcwSncwNUZaaWtsbVNGelJ2RWsxWTdyMEdUWF92ZE5WRU8zMU00M0FrMzVEeDAtZS1CTWItVnBvODF0Rk5YMzBPMDlYTk5CRnROeUFNX3JmRTBBejFYSmdOeGI0a2UyWGh4cTBLSWQ0NG1LdXlQS2p5SHlXZ1RTMWFieVRvME1nTDJETC1kbWhzeDJ6ajV0QUVlY2xMX2pMYm93N1l4NFFSa0k3UnVYcw?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T02:08:58Z",
-      "published_at_ist": "2026-11-07 07:38 IST",
-      "first_seen_utc": "2026-11-06T23:26:00Z",
-      "age_minutes": 176,
-      "trend_score": 14,
-      "rank_score": 0.9582,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ilia topuria (US 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Ilia Topuria grateful brother stopped UFC White House fight: 'I wouldn't be able to fight again'"
-      ],
-      "image_urls": [
-        "https://www1-cdn.sherdog.com/_images/headers/20261106021054_ilia_ufc_return_paddy.JPG",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2222691657.jpg?quality=90&strip=all&crop=0%2C0.0026339714060825%2C100%2C78.538703555406&w=1200",
-        "https://mmasucka.com/api/media/file/Ilia,%20Aleksandre.webp",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN1Jmg3gNxxohiYs2eWeEP1CL4KCjmrFHbgUxG2Sc0SJnmYZf92OOMgH7ybM",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEtEW-wTFrr9oBcrPjaOqY05GNQybEFf4sExzzPorAvyLYvzkseumM9inVxE",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCmC9FcBip_avgskxNXnvVb_AnEKQLF2pIGlbIjkU_Y590T2ouPN6rJQwI6Nw"
-      ],
-      "video_urls": [
-        "https://youtu.be/cyKHul1H-Ss?t=1532",
-        "https://www.youtube.com/embed/cyKHul1H-Ss?t=920s"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "541d1ab2e5",
-      "key": "antonelli-champion-clock-fastest-lap-paulo-practice-sao-second",
-      "headline": "F1 champion Antonelli clocks fastest lap in second practice at Sao Paulo GP",
-      "summary": "https://lancasteronline.com/sports/autoracing/f1-champion-antonelli-clocks-fastest-lap-in-second-practice-at-sao-paulo-gp/Formula 1 champion Kimi Antonelli of Mercedes has notched the fastest lap in the second practice session at the Sao Paulo Grand Prix. The Italian was 0.253 seconds ahead of",
-      "sources": [
-        "Yahoo Sports",
-        "LancasterOnline",
-        "Formula 1",
-        "Autosport",
-        "ESPN",
-        "BBC",
-        "Motorsport.com",
-        "Yakima Herald-Republic",
-        "The Lethbridge Herald",
-        "巴士的報"
-      ],
-      "article_urls": [
-        "https://lancasteronline.com/sports/autoracing/f1-champion-antonelli-clocks-fastest-lap-in-second-practice-at-sao-paulo-gp/article_57e4dd52-84aa-557b-a96f-63ee57382dac.html",
-        "https://sports.yahoo.com/articles/champion-kimi-antonelli-lando-norris-042333297.html",
-        "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-brazil-2026.4WPgQlfi6v476KUJTYZeFM",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWi05ZWJMOGhpVDVNV2RpZUk4QTdFQ09SaS11RmZyV3pJZmZRR19LWEF2NGRSblNobkF2RkNiM3BjRno1UWxyNFpuMVo3YlhMNWpobGFsRFY5M0VVTFhzLTFPV2FobVdibThRcy1Kck15eXc2dFFGdC1NX0ZnNU4ySmZZd2UxbjVzSkpuNktB?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxObFZTd3dKZGF3YmZPUUN4djdHVTZoUTJLQWxOd2dvcWFXMVNMb2lJNlFvb3huZXpfWGZqUURfbklMVDdIRWNGSUN3UnRCOTd1aDlNVE9wT2pSY2tuRjI5MFJYbUZmOWhlZ1BrVV9hbnh3dHdEamc5SUJvd0hjU3Jkbm9nSXE2UHRZU05KdXNxUDBKbi0zY2ttVHdwQklvVnBHR2NrRTQ2VWUwN090UjIwV3pQbWhiNTZtTm1Hb2ZOa3o3VVNWQlhPcmFKQmE5emhEUnlsZldDLU40cjRteUFOTG9HLWRZS2Fmczl5TGJ5LU5nZWZIR1BKblNfRURraVlI?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTZ0Wmd2SE1wbFRZcGh1WW42eUpPNDRWMERVbFdBdWJLUGg0N21NdllNSmhkOFl3LU91SWU0MHpZRlFBSzVrUTgtM2xuWUVNcFczS2c0R2w2WnRHMFlZQ1V6VkRGdHQxNHdVcXUxdVhEZGlzSzFIZEdTUFNxUjcteXFPTDJlZlJlMVoxaEN3dS02cFVXcU5vd3J4ZFhQVjZnVVZLZUhWekJza3M?oc=5",
-        "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNGlPbnkxeVdEay1EakJtbzdqb2R5SG82S3UzQnR0X09qZmZxRk5IMmc3azYyNGRDOFNaMTFsNXdYR1ppaDRGZkN4b3ZBS012RzVBMng2bDNzMkl6ODJSdWw0cmVSWjhOaEVONE1xdWpDR0RMeDhFckR6eENiWlFCUzhsX0NSNzM3M3p1amhPZWJpSmlDOVJZbVB1eHk4VWZ2ME1uT2c4SkJUcUJrcTVtYmpwQkRfUEphLWVrNWtGX0xUdW1VVURxMzBFOHh6SFFNLTJF?oc=5",
-        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT1V0TjhPY3RnNS13bUEyWlpQT3pjOENaeExjR0l0Sm5uRWxWYjRlUDM5N0JSODd5ZC01enVDRTZiMlBoNFR6LXNfdHBFZU9vNnM0TlJacWlVMjFiMk85ZDVybVNkdC1VTE1BOVhOWUFsRDVoZGRlWkdXaFlmVjg1TVFiVmVrYTk4LXpZRC0yV3BYMW42LUtJaFBxSEUtZlZGWmk4MTkzRVI?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:23:00Z",
-      "published_at_ist": "2026-11-07 09:53 IST",
-      "first_seen_utc": "2026-11-06T20:07:04Z",
-      "age_minutes": 42,
-      "trend_score": 23,
-      "rank_score": 0.924,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "New Champion Kimi Antonelli and Lando Norris Trade Blows in Sao Paulo GP Friday Practice",
-        "What the teams said – Friday in Brazil",
-        "2026 Sao Paulo GP FP2: Onboard with Antonelli for the fastest lap of Friday practice",
-        "What we learned from Friday practice at the 2026 Brazilian GP"
-      ],
-      "image_urls": [
-        "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/7/b0/7b054d75-fd16-51dd-aeab-856132bd7b66/6aee05b429f4d.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-        "https://bloximages.newyork1.vip.townnews.com/lancasteronline.com/content/tncms/assets/v3/editorial/7/b0/7b054d75-fd16-51dd-aeab-856132bd7b66/6aee05b429f4d.image.jpg?crop=1763%2C926%2C0%2C124&resize=438%2C230&order=crop%2Cresize",
-        "https://s.yimg.com/lo/mysterio/api/bb3c496813890f76127884aa10637a44c883c378744f47dc36ceb795efa87791/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ff1_chronicle_874%2Fcba01bb1bb1d799e114fedf8b9a0c0b3.jpg",
-        "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Brazil___Practice/2303853247.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b8947e9a29",
-      "key": "317-charle-def-ilia-oliveira-topuria-ufc",
-      "headline": "Ilia Topuria def. Charles Oliveira, UFC 317",
-      "summary": "https://www.sherdog.com/news/news/Ilia Topuria is eyeing a longtime foe for his Octagon return.",
-      "sources": [
-        "The Lufkin Daily News"
-      ],
-      "article_urls": [
-        "https://www.sherdog.com/news/news/Ilia-Topuria-reveals-who-he-wants-to-fight-next-in-the-UFC-203511",
-        "https://www.mmafighting.com/ufc/519653/ilia-topuria-opens-up-on-loss-to-justin-gaethje-calls-for-paddy-pimblett-in-april",
-        "https://lufkindailynews.com/news_reuters/national/ilia-topuria-def-charles-oliveira-ufc-317/image_88f86fec-2b59-5fa9-a0e3-0ac47d2c25ad.html",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/06/ilia-topuria-ufc-career-threatened-without-brother-stoppage/92645597007/",
-        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU2NXM1ZfVDhXRGlESFFkM3o2OWxkdllUVkdCQzVkbkM1NWdrbU1RNms5SnU2UGVlems2RTQ3OFJZTWxlN1I5dk0xUlBYWmZ1NXp5TEZrQ2pBLTFnZ3VSQ2h2RzdyUk9TVlRXQ2NjSk1fMWhhUmhSU3pjSWpPM0VneVhFV0NYOUY1azg1OHJjVEh6RTZGRHRqcnU5RVNEYnpzZUNUQjBFQ3czckJfNjRHMkdhS1JsbFEtaWEzWVlPb1RCc2J1RVFUM3FsSVphSThXaDNBNjR3?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T01:30:18Z",
-      "published_at_ist": "2026-11-07 07:00 IST",
-      "first_seen_utc": "2026-11-07T01:30:18Z",
-      "age_minutes": 215,
-      "trend_score": 13,
-      "rank_score": 0.9016,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "ilia topuria (US 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://www1-cdn.sherdog.com/_images/headers/20261106021054_ilia_ufc_return_paddy.JPG",
-        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2025/11/gettyimages-2222691657.jpg?quality=90&strip=all&crop=0%2C0.0026339714060825%2C100%2C78.538703555406&w=1200",
-        "https://bloximages.chicago2.vip.townnews.com/lufkindailynews.com/content/tncms/assets/v3/editorial/8/8f/88f86fec-2b59-5fa9-a0e3-0ac47d2c25ad/6aee810701ae8.image.jpg?crop=800%2C420%2C0%2C56",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuN1Jmg3gNxxohiYs2eWeEP1CL4KCjmrFHbgUxG2Sc0SJnmYZf92OOMgH7ybM",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsEtEW-wTFrr9oBcrPjaOqY05GNQybEFf4sExzzPorAvyLYvzkseumM9inVxE",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCmC9FcBip_avgskxNXnvVb_AnEKQLF2pIGlbIjkU_Y590T2ouPN6rJQwI6Nw"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "6f054411f7",
-      "key": "brazilian-fp1-full-lando-norri-result-tops",
-      "headline": "F1 Full Results | Lando Norris tops Brazilian GP FP1",
-      "summary": "https://www.gpblog.com/en/news/Lando Norris topped Brazilian Grand Prix FP1, beating Kimi Antonelli by 0.082 seconds, with Max Verstappen third at Interlagos.",
-      "sources": [
-        "GPblog",
-        "https://www.autohebdof1.com/"
-      ],
-      "article_urls": [
-        "https://www.gpblog.com/en/news/f1-full-results-lando-norris-tops-brazilian-gp-fp1-from-kimi-antonelli",
-        "https://www.autohebdof1.com/news/f1/brazilian-gp-el1-lando-norris-in-the-lead-freddie-slater-in-larret.html",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNk5NVGp3STk1cktWQjV6TFZ3YS1Rdi1qeFhyVWQxVldzdjk3eE9ONXd6dkNHNlJ0VUwtV3NrQ1NoR1VvVENlNDB2TEZoV2tWbnFqX1paajhra2VlU3RtS01VOF83ODU0R3Fjc2NoUjluaUp2N2h3RXd6SENuRzNRSXJYLVpyWTQxWjRkdGtxVzFUck1lVF9mQUFQbEJ6M3AtY0Ew?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazRuNFh0RzdidGJGYVZVVmg5Z3BEYURYc2tSMXVIaTVLeHdBZE42U1hCQXdlU243Q29jU05vYUM3Sm9GOC1aNTlQczBFVkpXOVduVXF6RXRiemdVYW5JblR6VmxwbGktWWxIWXc1TGNwc2szZHF2Q2xjMklyb2xTbzFlOW1Vd0c3LUEzbnVxMXI5UnROamtVQ01tb3ZmVTZWNmp2aXRCOXRuWkU?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:35:18Z",
-      "published_at_ist": "2026-11-07 10:05 IST",
-      "first_seen_utc": "2026-11-06T23:08:58Z",
-      "age_minutes": 30,
-      "trend_score": 12,
-      "rank_score": 0.8658,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Lando Norris"
-      ],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Brazilian GP – FP1: Lando Norris in the lead, Freddie Slater stopped"
-      ],
-      "image_urls": [
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-10%2Flando-norris-baku-racepictures.jpg",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-10/lando-norris-baku-racepictures.jpg@webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "7ad62ade3b",
-      "key": "advocate-budget-judged-khan-ramayana-salman-story-vfx",
-      "headline": "Salman Khan Advocates for 'Ramayana' to Be Judged on Story, Not VFX or Budget",
-      "summary": "https://www.lokmattimes.com/entertainment/salman-khan-advocates-for-ramayana-to-be-judged-on-story-not-vfx-or-budget-a001-w01/Salman Khan Advocates for 'Ramayana' to Be Judged on Story, Not VFX or Budget - Bollywood superstar Salman Khan has emphasized that discussions around Ranbir Kapoor's upcoming film 'Ramayana' should focus on its characters ... Get Latest News on Entertainment only on lokmat",
-      "sources": [
-        "News9live",
-        "India.com",
-        "Lokmat Times",
-        "ANI News"
-      ],
-      "article_urls": [
-        "https://indianexpress.com/article/entertainment/bollywood/salman-khan-questions-rs-4000-crore-budget-narrative-around-ramayana-movie-10953653/",
-        "https://www.ndtv.com/entertainment/talk-about-ram-sita-not-budget-or-vfx-salman-khan-on-rs-4-000-crore-ramayana-12293282",
-        "https://www.lokmattimes.com/entertainment/salman-khan-advocates-for-ramayana-to-be-judged-on-story-not-vfx-or-budget-a001-w01/",
-        "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-at-maatrubhumi-trailer-launch-focus-on-rams-qualities-not-ramayana-budget-or-vfx/articleshow/135606272.cms",
-        "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmVheEMwbF9IY2c3Sm44MGVXVUpoQmVTdDBIM3JfOVVPWkNMSFhyaC1BRnpNVHltbnBKYlRJbUR0cGxLVVdTVGo1bHUzcmFCMzREMTNBQ3JYSFk0RDIzQ2dJRXVkMzdGWE9UUUdzU1lCd0d2SEhYakRURFJxZVhTemhhRnFrN3BNUzVrRmh4NEcwaXVGMEs0ZVJucmpFLTZYSldsb0VPOXl0RmhXMkRPZVhrZTDSAboBQVVfeXFMTnlKWHhmVWdJSklhQ0tpTlUtUlRhZUJwczlGM1hVV2tMVVhORXF0djdpVGZ2cDlJa2pzZjY4cERiMUV6d19EVkR6UDc0Vm5PTU1PSW9vTWJEQUd5WUtiT3l5VTdzNk1STXI5WTRpQkt1T3ZZRGtBWUc3VWh6ZEJZNGptYTZOS1NRVy1xbzJxbXpqTFpZSmNZQXpNQm1EZnhKbGkwLW9vY2U2X211RGlvUDFyWWtlYS1lV0h3?oc=5",
-        "https://news.google.com/rss/articles/CBMitAJBVV95cUxONmpPaUhPdU5tWWFleGxzd3dWUXk0bjhwN3I0cjg5MVJMSjY1V3FWX09xZmVncDJMQ2lwSzJYQkxvWFhwNVB0SGZIaUdrQjhzNnUwQ1ZSeWVWWnRXdWhvUkNRMEJ4UEFzZTJPZGhYeHZTbU5rQ0FFOUpCLTlDMERWSTdMT3hpWHJmY1dzc1NJOHdibHFMYmR4V05xWkdVeE1uVm4zb3cwQ044bWxhT0dBbmRRc0tycU94VUFPQnJtenNUaUoyRTN2NkNMMW05MnhodHI0MGFyNVBEZEUzbFYzUlIzS21aeG02NFhfYUk1SXV4N21UcEo0V0VtMGg2b1JpOFVibmI0QzNzdEFFekIybnkwWHN6RGg3XzJfUmdXVm5KYl85empLOWVpcEczczUxVllUZNIBugJBVV95cUxOZlNpeF9mNjlMSkVJbEF5NmFMNmc4WFNQVXlNT0txQVcxdW9LTlpZajYzd21yZ21CUTlWRDdUZGFZcGkzZ2taNmM4UHJlZENIcGx5VUtsRkhwY2RSWHhoRHRLUjFPTWNHdEc2SmpvZld5d3E2WnNEREhKdFpfY0ZYMi1sZi1fS2Q0WFoxdlo4aGVkVFFhZ3VtSGZ0WEMwRW84cTFXUTJmZXZld2kyQ1cxemR3a0tZcTRhUm0xRHdnUGFYVTVzRXVKVHFiS0FBbVJRa1lNRVVMVzE2MHVkOGdIdGxDNU1hbFZLMDI0SVBHc3JQZGVOZVNXVG1ya0hyZlF0SVpyMTNGc3pSNnViZ1hnMHRwMTJicUIxZWt2NDRuLU1YcXltdWVOMnM1aXgtWXJwQm1kQWRsSk5udw?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWG9UWTh3Y012TGxqd1ItVzZsTGJJNUNhMGU3eTFWMjZvajFrbWZQWmJublJJbm1YSGFxdzJjUFVzMHpYVmVZWlMzUDhGVDdMVkxCWWIwbHVVVlotNzBJR2ZXTHZFUE9BeURRdk9tSkZ0S2c2VHlaZlNVYVJiU2M2OU1ubGZtSUhhQnNHWmlVRkZnbWxsRjkzUy16YzdWUFZfc0ROWkxUNVdvdU4xSnQ2VHhsV3ZaZ2I1OTZIdTJ4OEtJSlZy0gHKAUFVX3lxTE9FY2doNGtMMURJWTh5M1c0QTJKT0FLSjg4bllSa0tYMWdBV0NUYnY3eHl1YTdHVGlMT3VVRHQ0MTRxb3QxbWVxRjNDSDlNaWlfVWdoNDZ1OUpFUUhTVlhwM1ByS0pVOUVrSXRURjhEMlpsa3l4OGQ3TG5fUENTaE1oVFZjRWdhazdTai1EbFN2SEJUaDdiZjJqdzhXbGxrYjJtY2UzY2pYWlN1UU5mQWxLNlJnSGFSLVRIV0lERExNMnJVYUJnSHlpakE?oc=5",
-        "https://news.google.com/rss/articles/CBMirgJBVV95cUxOaUVhb2VVNEpnNncxM0d4RXJJUG8tdllUazBHTkVXdVltNUV0eWZNTzJDaG5RMDNGSUdhYmxfeU02MmNuaGNiR1hpaUdWSkh2d21pMmU1UGdsZnU4ZHJFRzB6MmVOQXp4TDJ6ejRQZGR4SmJqekNrdmF4dkRubmV4aGZTSGUyOFctMzhKaU5YcWpaeVhBdkxMMkwwSXhDTnVGVWQwcDRPOWZVeHBXdERYNzRLUXkyT2drV1F4MkQ0TkRsT0dLRklocGpYVTBlNWNjQTR0YndDdEw3b0Jjc2lqV2xianBOS2QyZ2xoSnphVVRtQjMwU0ZFQ2x5eDVmQldyS0JtTlJiaFJTREZRQzIzc044UDRxSUJoMTNfdHdHQURUNVlCNEhFeWExSEFFUQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:16:36Z",
-      "published_at_ist": "2026-11-07 09:46 IST",
-      "first_seen_utc": "2026-11-06T20:13:00Z",
-      "age_minutes": 48,
-      "trend_score": 13,
-      "rank_score": 0.8627,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Salman Khan"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [
-        "salman khan ramayana budget comments (IN 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Salman Khan reacts to Ramayana’s Rs 4,000 crore budget buzz: Here is what he wants fans to talk about",
-        "Ramayana: Salman Khan weighs in on Rs 4,000 crore budget debate around Ranbir Kapoor's film, says 'Ramayana k",
-        "\"Ramayana ka charcha Ramayana pe hona chahiye\": Salman Khan says Ranbir Kapoor’s film should be discussed for Its characters, not budget, VFX"
-      ],
-      "image_urls": [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUg4iyqUVaz7AxJqy_Xe1ERVMJw-NWIzyymx6SV6vKSIv88JRaA-riCIJJzK0",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDiXxKPLRcMTT3zIVZP1mqbYk0aEoUwD1EjaNlZXEL9tP__91eIIl_jpBw7H0",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQI6ImZPJ9M6FCFsTyG9mVOWPyIoOfQEeivsb_QMQnvsIxnikhmC31D8eeNn28"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "cf426e08ad",
-      "key": "80-amazon-bezo-fear-him-jeff-made-quit-regret-start-street-trending",
-      "headline": "Jeff Bezos says fear of regret at 80 made him quit Wall Street and start Amazon | Trending",
-      "summary": "https://www.hindustantimes.com/trending/Amazon founder Jeff Bezos says one question about his life at 80 helped him make a major career decision.  | Trending",
-      "sources": [
-        "Hindustan Times"
-      ],
-      "article_urls": [
-        "https://www.hindustantimes.com/trending/jeff-bezos-says-fear-of-regret-at-80-made-him-quit-wall-street-and-start-amazon-101794020259563.html",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNU296VUIyV3VoY0hrSFV2endMWFdlNU1yc2dkMXlCZW52SUpwVU1nYlg0dlBRMk9aejc1R3dBLXFaREtNUUtaZGtvWXIyU0dMRERwTF9odnFsMElLNkR4LTh2Um5pbXo2WkM1VW4tb0NKTlBVcEV1T1R2QWNzdi1mYUR3T0RHWU80ZTh6amNPNFRpejRmU0VZY09oVVlIM00tOGcxYmR1bExlMFdZV05yVjYwNDR0NHBxNHNtSE5yMFpVTHh4Y0M2S2dWTlQ1ZFlsVFBxZEF5a9IB3AFBVV95cUxQVjZOUlIzOERIMDdXQ0tPVW8yR2hWN1YzM0FyOGo5bHFEZWlXdER1cWtVVmtaRURPam5mUkdmbGNzemZ3MWNrVm5id2RsWmdIM1o5T2tWNFBWMGdHTXJRenJNNEUya0lydk56aFJCelEzRkZlSkstTjUxMmtmR3F1azBMRnVuMVlvc0JMZDdiWWxOajdHNVRRc1cyT0JFbHRCX05oZ3JCc095MFlUVzE0NTlIRFBCcWNSblB0TTBvaFdSWHNqY1p1WGxCeWFwclpYVGFJa2Fxb0dTMm5I?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T03:19:18Z",
-      "published_at_ist": "2026-11-07 08:49 IST",
-      "first_seen_utc": "2026-11-07T03:19:18Z",
-      "age_minutes": 106,
-      "trend_score": 6,
-      "rank_score": 0.8233,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Jeff Bezos"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips",
-        "Finance & markets"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=T50u-Ka1XAs"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "2ef1cf3b52",
-      "key": "3-box-collection-office-ramayana",
-      "headline": "Ramayana Box Office Collection Day 3",
-      "summary": "https://www.sacnilk.com/quicknews/Ramayana Box Office Collection Day 3: ₹48.05 Cr net on Day 2; India net total ₹112.90 Cr after 2 days. Day 3 live updates, shows and occupancy.",
-      "sources": [
-        "News18",
-        "NDTV",
-        "Sacnilk",
-        "India Today",
-        "News9live",
-        "Bollymoviereviewz",
-        "Hindustan Times",
-        "The Times of India",
-        "IMDb"
-      ],
-      "article_urls": [
-        "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_3",
-        "https://www.news18.com/movies/bollywood/ramayana-box-office-collection-day-2-ranbir-kapoor-yashs-film-crosses-rs-112-crore-in-india-ws-l-10416344.html",
-        "https://www.ndtv.com/entertainment/ramayana-box-office-collection-day-2-ranbir-kapoor-film-crosses-rs-200-crore-mark-worldwide-rs-100-crore-in-india-12295590",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZFZQQngtNGhnTGk3QUk1N3BQQWFhUGpicDNZcjBDbFpFVEhpX2o3U3d4cGdkbTNzUnA4TnZ0VDBCam5qVVZQU3pFdFBKM3BaWUdFelBLbkpwRHlVVGQ5dDFGVUM4UzhxT2RFTnJmQVo3V0lhb05SeTQ2Tm9fTmhIZTR0RW1FTjJ6VFJwYmlLVnU3QUl5ZWoxV0xvR092ekVUcXhmWWN1bWVtOGlmN3ZZYmdhdmRNUUNCM2xVUmd0d2lvWmlGODZjWUw2WFBTcnUzREZ6WFhKdGRfSUJsb3RaNVVEV2vSAeoBQVVfeXFMTi1WbTdJcnpsNzN0TVk4a21ydzljal91QjR3eVJoMkdpendTVzNSb2lqLUs3UVBMMWpsLTU1T3ZIRl9UYUFnSzM3M2V1VjlOa0tzeVNZSjA2WS1CNzJXblRyVERNZGtZLXAwZlFMS1lGQW1aNjZhYVNZQTFvQUNjekFIYlEtbzBKRmd6bmhBejdXSWdtNDRNNFNHMDFCTDVRUFRWQUduN292dXBhOGxaY2QxcnBDeU1nenBKSGpvRm1WSFE3TkVxZ21EYkU5ZXR2SkRKUEVWRi1HdjRzMmRGZzZlS2x0bHJ0aDVn?oc=5",
-        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSkZqZkRXUFNRamx3Um1CSzFhUVlUcGlsamVnM0pBTXhUY3htMm5YSzRBM0FCWDZoNUtkQ29YQnN0clYyaE56NGJ1S2dIVWNjNnZ0d1NvZkpEU2p6OV93WV9hNEJ4eGg0aEJfS0I4eE40NWIyR1VGR3RqV3lyQmJ6YXRmZmU0LTh3RGZuNnpWdHFRbW9iY2QxcVhVUWdTdEhjNlZDRlZFdEh5N0I1SXNDNmFnbEZ6SkcxRXcwM3I4blF1UWVzT2JfREthaWljeEQ1X01WZHdab25BV0U3QVpCNU5KeVB1Ri1lRHJydDR30gH2AUFVX3lxTE9hc1NzRmIxQV9JcEh0UnZjeXZDUlYtdkRkUEhCcUFyWkNrVVNxTC1XbENNc2RoVDIwbGVkTEM4d1BxV3Uyc1NsNl8wNmNnQmpSU3FpSWR5QUFjRUtmZ2w3VnlHSENwVkhWbTRmV1ZfaF9tdkpfU1VJNWoxOVpLYXFkMkxJQUV2anpKUXN5RHJ1Rjd4OXluMHZ5Q1BqZW9ZMUZINEN2SFE5ZVUzMVg3R2l6dU5LR0JlSGR5eUdXd2JHc2VvdW1rNG1JVGNmRWY5RlNoQUNIZzVCR2syOFowRmFCOWRqMlRCcG5VY2pSQmtIdHY2VWJOdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUzEwbmpfRk5nTThPbFFLRUc0N0dkS2J1bk9rdmFrNGRTVzU3MmhsaXFUdk02bUM0LUZ4V1p2ZDBYUjVxVFIyUFd5NGIwR0UyNWJjb0J0LUJNTzBxM2JZNFVVaW5vamx0RG9MOTZYb0h4M19rdHZYWFJuM3pXcU80bXRzSE5OaHI2Mmc?oc=5",
-        "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdmVWSk1mS2g2YlY2T2YtVjVlYjk3TGFOWFBGaE05ZU15R0UxcGRBcTF1WEtXS0hOQm1TaHQtRmhQcXNiLXdrYzRDSWc3TXJSOWI3Y05jZDBuZ2syWGVmN3FJanBnN3RpRlMyOHpvNVpGcnMwaFNqU0U0VHZQZVAwNVp3OXNmNlJiMlBpeHp3YXVPa1JLMi1HOXhxMS04R3Ewa0VPSzljUkpkaVNybDVSeHhyY0I1dWo2QzR1Q0lMSkdWNThtWEYwSDlhSEl5NzRkaUJUTDJPdE93MEh6bzlxLUhnU01MeW9jV1pPRzR4MEZwUmPSAfgBQVVfeXFMUEp1OUIzMENDYzZmbFFWV1dwOHQ0bUdnRHNNR3VlSWJ0dXhrSlVFcFFnc29JTTR3bjQzNTlBbzM5Z0UwSmplcXRNODVTSTdRYzZkX05WVXJOQ2lScmhodUxWZ2MwNEFESDYzaUFIb2psWTRaeTU4VFc4cDhUdmNNMTVodDIzdXhuOTduVWlGRzQzbjIzRHY5UGtGblZ5UUp0UV9uTVd0UjNYLXFBOEZOcGlTbC1mdzBLUTFWNzRtMEk4T2FpdFlzMWVlSFBvYVJvSldUZzR2NWl0djNoODl2YVJIN28yYlJRSEtiMlBwT1JSRzBCQUJJN0I?oc=5",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0gxd29ZdFlWM0FFeGc5N1FmSzU5NzRqUTQ0WjgwOFpvVk9sTXBlNjB5b1V4aDJEX1ZURGQ3T29kWW1fcG1aSnc4ci0wNXc4Y25JTWdqY2dNSXFXWFBnWkV6ZUVsTThkMFUtU0hXbkNFU1NYUDE0RU5rRUNEREx1RzBzeU1zWmpNeEdMcDBFVFQ0N0VfNG1QRFhR0gGfAUFVX3lxTE5EY21pZktCVTVsWGF3TnZxd3NJMUhfQjJydXFRSlhDbjlTNHBhU21uMFBad3lYOFdydWdKeFFjOVMzZGFnancxdGRVOHFzcUVSZ2FNRURFdmZIQWlaaXlvRlE0eXRFSElzZktQUk50Z1VWZDdGWVV3cFpLNHhwMWE0eU9nMS14SzlUaURhWmdEeHNMb0xqVG5XWXEwUkZ6aw?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:00:29Z",
-      "published_at_ist": "2026-11-07 09:30 IST",
-      "first_seen_utc": "2026-11-06T21:24:56Z",
-      "age_minutes": 64,
-      "trend_score": 13,
-      "rank_score": 0.8193,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Ramayana Box Office Collection Day 2: Ranbir Kapoor, Yash's Film Crosses Rs 112 Crore In India",
-        "Ramayana Box Office Collection Day 2: Ranbir Kapoor Film Crosses Rs 200 Crore Mark Worldwide, Rs 100 Crore In India",
-        "Ramayana box office Day 2: Smashes Rs 221 crore worldwide, eyes Rs 500-crore weekend",
-        "Ramayana Box Office Collection Day 2: Sai Pallavi, Ranbir Kapoor and Yash film races past Rs 220 cr globally despite dip in India"
-      ],
-      "image_urls": [
-        "https://cdn.sacnilk.com/image/news/1000023048.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "eebc8c3c33",
-      "key": "7-cr7-cristiano-finance-football-iconic-international-lesson-personal-portugal-retire-ronaldo",
-      "headline": "CR7: 7 personal finance lessons from Portugal’s iconic No. 7 as Cristiano Ronaldo retires from international football",
-      "summary": "https://www.livemint.com/money/personal-finance/Cristiano Ronaldo has retired from international football after a record-breaking 23-year career. Discover seven personal finance lessons from CR7 on SIPs, budgeting, diversification, financial discipline, wealth creation and long-term investing.",
-      "sources": [
-        "Livemint"
-      ],
-      "article_urls": [
-        "https://www.livemint.com/money/personal-finance/cr7-7-personal-finance-lessons-from-portugal-s-iconic-no-7-as-cristiano-ronaldo-retires-from-international-football-11793989746855.html",
-        "https://news.google.com/rss/articles/CBMikAJBVV95cUxPOVFaWE9XYmR4Z2VxaEoyb1U0TEp1aDYtbEJwVlp2U0JxT3c1YlNHQlRvYlZ4bWl1dGFsYUFBbXQtRUs1RzNFQ2wwX002WEhKNkpvMjhyc2xuU3FCRE5ZNWUzZmlkQ2thMnVHM1RWRDZYS1EyZ2g1M2ZBRkVWNUlQbmhKLVJ0NE4zX2ZmVEdZM3laVEs1Q0U1UkRpQ3hJWkliSVU0QkY5VjVLRHRxRTVDUHdjd0VjdDAxTHBUYW1ja2JjX1YxZlVxU1NYcTZCQ2RMYnJLVmVGWXlhRlhCSWlYNGVMYzFLV0xRV2lRS0xDLTB4eTFsNk5xWTN0MldwVGM5VzVZcG9KLS02dW1RdUJud9IBlgJBVV95cUxPWXN1Rm1IaDNidDlOWlZ4M01scmdUNEVobFhOMmdtOGROb09CTXN2ZDdkX05vYlBpUDRvYnZBLVFWSFkyQ0ZnbFFjcmJUQlY4YmUxSGNCWDZ4UmdHbDdMdzBsQmsxUE5URFh6VUJ0TUk2YldOc1p0cGFYMVBnSTJKbC1ZbVNDOE1Pd1E2R0dFQWJHb191bkNjcHVkT3hYRWhfY1A4c0NKMlhNYl96ZXdqZHJlOVRWZUtiYzE0UGV0VXRFLUFGQUJFdUZub3V1SG8yT0Y3WEdaaXkyV0VfeDJ2MS1SVVJjbF9YdUJRazRKa3kzTEtuSENINk1LSkR3OEI3aDh3c3hkQ0M4a194MkpOMTA5RUN5QQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T03:43:58Z",
-      "published_at_ist": "2026-11-07 09:13 IST",
-      "first_seen_utc": "2026-11-07T03:43:58Z",
-      "age_minutes": 81,
+        "https://www.youtube.com/watch?v=MlYLdW5bAvo"
+      ],
+      "published_at_utc": "2026-11-06T21:28:02Z",
+      "published_at_ist": "2026-11-07 02:58 IST",
+      "first_seen_utc": "2026-11-06T21:28:02Z",
+      "age_minutes": 637,
       "trend_score": 10,
-      "rank_score": 0.7966,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
+      "rank_score": 0.785,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "youtube",
       "famous_names": [
-        "Cristiano Ronaldo"
+        "Max Verstappen"
       ],
       "region": [
-        "IN"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "Famous people clips",
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i2.ytimg.com/vi/MlYLdW5bAvo/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=MlYLdW5bAvo"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "The Funniest F1 Radio Of 2026 From Verstappen? 🤣",
+          "channel": "Formula 1",
+          "url": "https://www.youtube.com/watch?v=MlYLdW5bAvo",
+          "published_at_ist": "2026-11-07 02:58 IST",
+          "thumbnail": "https://i2.ytimg.com/vi/MlYLdW5bAvo/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "66670394b1",
+      "key": "brazil-bull-car-hole-mystery-red-talk-tech",
+      "headline": "Mystery Holes In Red Bull Car In Brazil! | F1 TV Tech Talk",
+      "summary": "F1 TV Tech Talk is back after Friday practice in Brazil, with interesting things happening on cars at both ends of the field, as Sam Collins explains. 0:00 – Welcome to São Paulo 0:42 – Aston Martin’s hot mess 01:58 – Antonelli’s leaky car 03:07 – McLaren wing it 09:06 – Red Bull’s horns 10:00 – Mystery holes at MK For more F1® videos, visit: https://www.Formula1.com Visit our store: https://f1sto",
+      "sources": [
+        "YouTube: Formula 1"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=gK9GOCuN4mk"
+      ],
+      "published_at_utc": "2026-11-06T21:33:44Z",
+      "published_at_ist": "2026-11-07 03:03 IST",
+      "first_seen_utc": "2026-11-06T21:33:44Z",
+      "age_minutes": 631,
+      "trend_score": 10,
+      "rank_score": 0.6369,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "youtube",
+      "famous_names": [],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://i4.ytimg.com/vi/gK9GOCuN4mk/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=gK9GOCuN4mk"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Mystery Holes In Red Bull Car In Brazil! | F1 TV Tech Talk",
+          "channel": "Formula 1",
+          "url": "https://www.youtube.com/watch?v=gK9GOCuN4mk",
+          "published_at_ist": "2026-11-07 03:03 IST",
+          "thumbnail": "https://i4.ytimg.com/vi/gK9GOCuN4mk/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "a6e6060090",
+      "key": "fp2-grand-highlight-paulo-prix-sao",
+      "headline": "FP2 Highlights | 2026 Sao Paulo Grand Prix",
+      "summary": "Catch up on the second session in Sao Paulo with the full F1 field returning to their cars for long runs, as rainclouds loom. For more F1® videos, visit: https://www.Formula1.com Visit our store: https://f1store.formula1.com/ Follow F1®: https://www.instagram.com/F1 https://www.facebook.com/Formula1/ https://www.twitter.com/F1 https://www.twitch.tv/formula1 https://www.tiktok.com/@f1 #F1 #BrazilGP",
+      "sources": [
+        "YouTube: Formula 1"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=h_IJImSl3r4",
+        "https://www.youtube.com/watch?v=OwQ4ernSM00"
+      ],
+      "published_at_utc": "2026-11-06T21:04:12Z",
+      "published_at_ist": "2026-11-07 02:34 IST",
+      "first_seen_utc": "2026-11-06T18:22:52Z",
+      "age_minutes": 661,
+      "trend_score": 5,
+      "rank_score": 0.5304,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "youtube",
+      "famous_names": [],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "FP1 Highlights | 2026 Sao Paulo Grand Prix"
+      ],
+      "image_urls": [
+        "https://i1.ytimg.com/vi/h_IJImSl3r4/hqdefault.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=h_IJImSl3r4",
+        "https://www.youtube.com/watch?v=OwQ4ernSM00"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "FP2 Highlights | 2026 Sao Paulo Grand Prix",
+          "channel": "Formula 1",
+          "url": "https://www.youtube.com/watch?v=h_IJImSl3r4",
+          "published_at_ist": "2026-11-07 02:34 IST",
+          "thumbnail": "https://i1.ytimg.com/vi/h_IJImSl3r4/hqdefault.jpg",
+          "is_short": false
+        },
+        {
+          "title": "FP1 Highlights | 2026 Sao Paulo Grand Prix",
+          "channel": "Formula 1",
+          "url": "https://www.youtube.com/watch?v=OwQ4ernSM00",
+          "published_at_ist": "2026-11-06 23:52 IST",
+          "thumbnail": "https://i4.ytimg.com/vi/OwQ4ernSM00/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
+    },
+    {
+      "id": "efeec722e6",
+      "key": "answer-ask-fcbarcelona-football-rapha-raphinha-short",
+      "headline": "We ask. Rapha answers.  #fcbarcelona #football #shorts #raphinha",
+      "summary": "SUBSCRIBE NOW: ▶ www.youtube.com/user/fcbarcelona 🔒Join as a member 👉 https://youtube.com/fcbarcelona/join 📱 App: http://barca.link/kXum50R6rNO 🌐 Site: www.fcbarcelona.com 📸 Instagram: http://www.instagram.com/fcbarcelona 𝕏 X: https://x.com/FCBarcelona 🎶 Tiktok: https://www.tiktok.com/@fcbarcelona 🔵 Facebook: http://www.facebook.com/fcbarcelona 👾 Discord: https://discord.gg/fcbarcelonaofficial 🛍 G",
+      "sources": [
+        "YouTube: FC Barcelona"
+      ],
+      "article_urls": [
+        "https://www.youtube.com/watch?v=qsAl3zCqGVg"
+      ],
+      "published_at_utc": "2026-11-06T19:30:07Z",
+      "published_at_ist": "2026-11-07 01:00 IST",
+      "first_seen_utc": "2026-11-06T19:30:07Z",
+      "age_minutes": 755,
+      "trend_score": 5,
+      "rank_score": 0.501,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "youtube",
+      "famous_names": [],
+      "region": [
+        "YT"
+      ],
+      "language": "en",
+      "priority_queries": [
         "football"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "99ff41ab4f",
-      "key": "axis-capability-centre-digital-life-max-noida-open",
-      "headline": "Axis Max Life Opens Digital Capability Centre in Noida",
-      "summary": "https://thesamikhsya.com/business/Axis Max Life Insurance formerly known as Max Life Insurance Company Limited has announced the launch of its new Digital Capability Centre",
-      "sources": [
-        "The Samikhsya"
-      ],
-      "article_urls": [
-        "https://thesamikhsya.com/business/axis-max-life-opens-digital-capability-centre-in-noida",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRkl2RWRIek1SckRma3BEYlRkNWg0N3pTYkJPS1pwQnFmOFNqcTBOcmk2T2h0VC1TZE9KOTNZcnktbi10Q3lubTVIeDVfcVk5bFAzeWVpTVBxOHdreTVTUTZSSHpTYW52Tkg2ZDNXMzF4aU16YkI0aG8yazRsMVYxZHN3eEhhR1FPOUwzdzdNS3d4QQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:48:32Z",
-      "published_at_ist": "2026-11-07 10:18 IST",
-      "first_seen_utc": "2026-11-07T04:48:32Z",
-      "age_minutes": 16,
-      "trend_score": 5,
-      "rank_score": 0.7236,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://thesamikhsya.com/wp-content/uploads/2026/11/axis2.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "74f23a3ef7",
-      "key": "4-68-core-days-lightning-patche-security",
-      "headline": "Core Lightning: 4 Security Patches in 68 Days [2026]",
-      "summary": "https://shattered.io/core-lightning-v26-06-10-four-security-patches-68-days-2026/Core Lightning shipped v26.06.7, .8, .9 and .10 between Aug. 28 and Nov. 4. What each fixed and why operators should patch to v26.06.10 now.",
-      "sources": [
-        "shattered.io"
-      ],
-      "article_urls": [
-        "https://shattered.io/core-lightning-v26-06-10-four-security-patches-68-days-2026/",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDgyREhjWVFQNGN1aDR5bC1JSXhfV2xuclFUbzJ4MjJvNlJxUkZKZjNjSjVNM3prWm5JRjduWEJwS3QxbXZybGNXYXo0bTJZamJqbG10SUtzcHRjZDE5UTFpcnV3YlZ1MEZvR3lZUkNCQXdkUGpEWFlVdlRYR000VjY1MzJSN283?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T04:21:57Z",
-      "published_at_ist": "2026-11-07 09:51 IST",
-      "first_seen_utc": "2026-11-07T04:21:57Z",
-      "age_minutes": 43,
-      "trend_score": 5,
-      "rank_score": 0.7011,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://shattered.io/wp-content/uploads/2026/11/core-lightning-v26-06-10-four-security-patches-68-days-2026-gen.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "02e556d577",
-      "key": "firm-future",
-      "headline": "The future of the firm",
-      "summary": "https://openai.com/index/the-future-of-the-firm/How AI might enter the org chart—beneath, beside, and between us.",
-      "sources": [
-        "OpenAI"
-      ],
-      "article_urls": [
-        "https://openai.com/index/the-future-of-the-firm/",
-        "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjWGg5TktPMGtkSmtIVjRPM3c5ek1TcUtpOTBYaGFLYzBoZ1pLQkNLRDQzSHhuRkZkcFUycHFlV04yRlREeHdFX1pJVEhfVW5OUGIxUG5fUGlJR3Yw?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T02:31:14Z",
-      "published_at_ist": "2026-11-07 08:01 IST",
-      "first_seen_utc": "2026-11-07T02:31:14Z",
-      "age_minutes": 154,
-      "trend_score": 9,
-      "rank_score": 0.6905,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents",
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://images.ctfassets.net/kftzwdyauwt9/7lRSQJ7Rw4r60Qygy5SQ8t/6955cc97ff76059ae31cc1aa5642c27d/future-of-the-firm-inline-01.png?w=1600&h=900&fit=fill"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "764f3b2390",
-      "key": "alleged-aside-asking-ballot-california-doj-drop-lawsuit-move-noncitizen-set",
-      "headline": "DOJ moves to drop its lawsuit asking California to set aside alleged noncitizen ballots",
-      "summary": "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/The Justice Department moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens.",
-      "sources": [
-        "CBS News",
-        "The New York Times",
-        "NBC News",
-        "MS NOW",
-        "USA Today"
-      ],
-      "article_urls": [
-        "https://www.nytimes.com/2026/11/05/us/politics/the-docket-supreme-court-election-eve.html",
-        "https://www.reuters.com/legal/government/trump-administration-ends-california-balloting-lawsuit-2026-11-07/",
-        "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/",
-        "https://m.economictimes.com/news/international/world-news/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots/articleshow/135623966.cms",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS1R6RllqMkMxREtJMFpXMzRiWmdpZ2lmQVpKUFhOTWlmSlhGbUwxXy1iWHUtelRQQkd6UDh5UWtlN1hQNW5jVWVyQU1LeFN5MU5hNXZKUDZvREIzaklpa05ETF9OVm1JMlFJeGd0a0J4OGhNdEpzZnQ1MGpVTmwxVHIyVTA4Qmt2aEprajM0cVp3cVRiUW9EcmFNaVN3aUhKX01j?oc=5",
-        "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFFWalBwTVNjcGd4bmtVank5ckdkdk41WkhqNHkwU2ZuaVFlUnNaOFIxVjUycFFJVDlFZE9NN3QxQmIwdTRNaTBZVUJmT2tXdUI4RG0zSGx1R29QeDlCaC1WYjZUbjYzeG5pTlRmRmotNWR4bDlON2ZSLXdiVDF2dGJiaUowZWRpRTVyZ1BnRnA0NGc?oc=5",
-        "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTkVYNTAtZkdnZXpvYUF4cU1oRld6VERRY2xLSWJQMjhwa1pVOTltaHJlVGxXVXo5NUdveVpIbDRSdFQzejFsSGcxOUlhSEo1Q3BaVGtCQWpLV0V4cEJGbTJPbnFfSng1S3VSazdhc2JrWWk1YUJYVjdkUnc3X3VhNEVydC1tTllQTHlTdzlZSGpyblJBVW5VZEdsN2xSaWVTUE14OXY3Z2p3U2dJZklJdlJoOXZ4b2JRcTd0NUNyeUlIOUw1?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLVFnZlBCNDVjTUM1N3hmZFJNSG5DOFFNeDVXb2ZDTXFGNTdKeXkta3dzdlVlTnlFTjVnR2daZkRvZXAyVkliLVBJeXJEcUlGaTNuNWpsVTRsRy1iRERaOHAyNTVvZFpIblVlRV9OVDJBbEl6a0d3Vk5QUXF4WEpoQU01OEFVemw4czdtTmxydC1ZcUU5V2ViMEFzYTU2T0gxX24wVEJDdzRVYWhOUWJvWUFsNVI0ZE1rMkE?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T01:39:00Z",
-      "published_at_ist": "2026-11-07 07:09 IST",
-      "first_seen_utc": "2026-11-07T01:39:00Z",
-      "age_minutes": 206,
-      "trend_score": 11,
-      "rank_score": 0.6763,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "lawsuit (IN 200+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQAqqLkuXN-1BDqTnfn8vNpAsKN0Y6yDCWJdNOsmDoxQ6ytLvwTu0bUzPD6S9w",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdbZt24tG-1FlLP9CF6InxOfUGwRc61hdr3Kui-st6mUZSfvs9-FJgCpawN4",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7IakCJN_UPI-p2XZxt2KNXOM7-45dcPYR_5AJSZJlNWc6DAOR68Gpp2pj4TQ"
+        "https://i2.ytimg.com/vi/qsAl3zCqGVg/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://prod.vodvideo.cbsnews.com/cbsnews/vr/hls/4942226_hls/master.m3u8",
-        "https://www.cbsnews.com/video/supreme-court-rejects-trump-administration-effort-to-force-california-to-separate-ballots/?embed=1&ftag=CNM-00-10aag7j"
+        "https://www.youtube.com/watch?v=qsAl3zCqGVg"
       ],
       "has_video": true,
-      "youtube_videos": []
+      "youtube_videos": [
+        {
+          "title": "We ask. Rapha answers.  #fcbarcelona #football #shorts #raphinha",
+          "channel": "FC Barcelona",
+          "url": "https://www.youtube.com/watch?v=qsAl3zCqGVg",
+          "published_at_ist": "2026-11-07 01:00 IST",
+          "thumbnail": "https://i2.ytimg.com/vi/qsAl3zCqGVg/hqdefault.jpg",
+          "is_short": true
+        }
+      ]
     },
     {
-      "id": "d4f6d6eb5e",
-      "key": "ethe-independent-stack-team-test-ziskvm",
-      "headline": "ZiskVM team tests OP Stack for independent Ethe...",
-      "summary": "",
+      "id": "504186cabe",
+      "key": "2578-calley-experience-joe-mean-rogan",
+      "headline": "Joe Rogan Experience #2578 - Calley Means",
+      "summary": "Calley Means is a health advocate, author, and former senior advisor to the United States Department of Health and Human Services. He is also a co-founder of Truemed and co-author of the book \"Good Energy\" with his sister Casey Means, MD. https://www.penguinrandomhouse.com/books/727184/good-energy-by-casey-means-md-and-calley-means/ https://www.calleymeans.com Perplexity: Download the app or ask P",
       "sources": [
-        "Pluang"
+        "YouTube: PowerfulJRE"
       ],
       "article_urls": [
-        "https://pluang.com/en/news-feed/optimism-tim-ziskvm-menguji-framework-op-stack",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSEhzSkpUaG42UVNlMThReU9RTTZ1Y1FoSVpteVFFSTJ2TGtkSDR5WDJkZ3JDSFhZZFFzdEplV1ByTTNCQXJ4SG9CNlB6bVZHZDExU0p6clR2dnZxRWpwSWRrWk1xOFlmX2pzT1Y3REExSHRPbFRsX1hxamwyWVM1STNMZFc?oc=5"
+        "https://www.youtube.com/watch?v=dMBBOawFy_4"
       ],
-      "published_at_utc": "2026-11-07T03:29:32Z",
-      "published_at_ist": "2026-11-07 08:59 IST",
-      "first_seen_utc": "2026-11-07T03:29:32Z",
-      "age_minutes": 95,
+      "published_at_utc": "2026-11-06T18:00:02Z",
+      "published_at_ist": "2026-11-06 23:30 IST",
+      "first_seen_utc": "2026-11-06T18:00:02Z",
+      "age_minutes": 845,
       "trend_score": 5,
-      "rank_score": 0.6578,
+      "rank_score": 0.4729,
       "category": "other",
       "section": "top",
-      "source_type": "news",
+      "source_type": "youtube",
       "famous_names": [],
       "region": [
-        "US"
+        "YT"
       ],
       "language": "en",
       "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "c36a429974",
-      "key": "0-07-11-3bbb88c16094b-cnbc-cnbctv-tradingview-tv18-—",
-      "headline": "News by CNBC TV18 on TradingView, 2026-11-07 — cnbctv:3bbb88c16094b:0",
-      "summary": "",
-      "sources": [
-        "TradingView"
-      ],
-      "article_urls": [
-        "https://www.tradingview.com/news/cnbctv:3bbb88c16094b:0/",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NY1BWUFdqX1lNUWVoSFJpX1JVYlc2YjR5dUNqd2hFYnBOaTl2ZzJTWFI4b1dVVm1UZ18yMVZnc2szSUlfSXoyeG9qc0lMY18wV1U0Nk01amYtcVF6enVWQ01GWXRhZm8?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T03:21:00Z",
-      "published_at_ist": "2026-11-07 08:51 IST",
-      "first_seen_utc": "2026-11-07T03:21:00Z",
-      "age_minutes": 104,
-      "trend_score": 5,
-      "rank_score": 0.6503,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.tradingview.com/static/images/logo-preview.png",
-        "https://s.tradingview.com/static/images/illustrations/news-story.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "914d75994c",
-      "key": "baron-big-breakdown-explained-interview-musk-number",
-      "headline": "Musk-Baron Interview Breakdown: The Big Numbers Explained",
-      "summary": "https://www.basenor.com/blogs/news/Elon Musk rarely points followers toward third-party summaries of his own words — so when he called a breakdown of his Ron Baron interview 'good,' it was worth a closer look. The fireside chat took place at the 33rd Annual Baron Investment Conference on November 6, held at the Metropolitan Opera House in New York City,",
-      "sources": [
-        "BASENOR - Tesla Accessories"
-      ],
-      "article_urls": [
-        "https://www.basenor.com/blogs/news/musk-baron-interview-breakdown-the-big-numbers-explained",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUjEtc3JLRGUtTHpTTklFQXJWT0V0d1BwRGd4T0pVNktRaTlMZENXQ0YwWmFqWG03d1h2dXZXQUZTNkN0Ti1SYUJqSl9peng5VVAyemxiSXRLYnBoOFF1Skt3cGlrU1hlY2t0QWhQMHlVR0ZvRlZ1Z2s5T1JSdDBwUUR0ZVNsMmxzbTRfeXZuR0tDaU9Mbmc?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T00:07:43Z",
-      "published_at_ist": "2026-11-07 05:37 IST",
-      "first_seen_utc": "2026-11-07T00:07:43Z",
-      "age_minutes": 297,
-      "trend_score": 9,
-      "rank_score": 0.6013,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Elon Musk"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Elon Musk",
         "Famous people clips"
       ],
       "google_trends": [],
@@ -1109,12 +311,22 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://www.basenor.com/cdn/shop/articles/43b51d664186a04b184c50a95e3596ea.jpg?v=1794010063",
-        "https://www.basenor.com/cdn/shop/articles/43b51d664186a04b184c50a95e3596ea_600x600_crop_center.jpg?v=1794010063"
+        "https://i1.ytimg.com/vi/dMBBOawFy_4/hqdefault.jpg"
       ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
+      "video_urls": [
+        "https://www.youtube.com/watch?v=dMBBOawFy_4"
+      ],
+      "has_video": true,
+      "youtube_videos": [
+        {
+          "title": "Joe Rogan Experience #2578 - Calley Means",
+          "channel": "PowerfulJRE",
+          "url": "https://www.youtube.com/watch?v=dMBBOawFy_4",
+          "published_at_ist": "2026-11-06 23:30 IST",
+          "thumbnail": "https://i1.ytimg.com/vi/dMBBOawFy_4/hqdefault.jpg",
+          "is_short": false
+        }
+      ]
     }
   ]
 }
