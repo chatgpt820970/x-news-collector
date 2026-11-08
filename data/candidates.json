@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-08T18:05:20Z",
+  "generated_at_utc": "2026-11-08T18:05:59Z",
   "generated_at_ist": "2026-11-08 23:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
@@ -7,9 +7,9 @@
     "feeds": 89,
     "feeds_ok": 88,
     "feeds_failed": 1,
-    "raw_items": 4955,
-    "fresh_items": 3934,
-    "clusters": 1748,
+    "raw_items": 4959,
+    "fresh_items": 3935,
+    "clusters": 1750,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
     "youtube_uploads_fresh": 88,
@@ -17,8 +17,8 @@
     "famous_items": 8,
     "trends_terms": 40,
     "page_fetches": 55,
-    "with_video": 8,
-    "runtime_sec": 18.4
+    "with_video": 9,
+    "runtime_sec": 19.4
   },
   "categories": {
     "famous_clip": 4,
@@ -124,13 +124,81 @@
       "youtube_videos": []
     },
     {
-      "id": "d7539fcdbf",
-      "key": "fog-issued-part-perfect-recipe-warning-weather",
-      "headline": "Weather warning issued for parts of UK amid 'perfect recipe' for fog",
+      "id": "68d637b6cb",
+      "key": "calling-fake-fan-knick-kolek-misspoke-swift-taylor",
+      "headline": "Knicks' Kolek 'misspoke' when calling Taylor Swift fake fan",
+      "summary": "https://www.thescore.com/nba/news/3648893/Tyler Kolek doesn't want any bad blood with Taylor Swift.The New York Knicks guard drew plenty of attention for naming Swift as the team's fakest celebrit…",
+      "sources": [
+        "Bleacher Report",
+        "theScore",
+        "Stereogum",
+        "Daily Mail",
+        "Milwaukee Journal Sentinel",
+        "Yahoo Sports",
+        "Newswav",
+        "Asaase Radio",
+        "NewsBreak: Local News & Alerts",
+        "UNILAD"
+      ],
+      "article_urls": [
+        "https://www.thescore.com/nba/news/3648893/knicks-kolek-misspoke-when-calling-taylor-swift-fake-fan",
+        "https://bleacherreport.com/articles/25530671-tyler-kolek-addresses-taylor-swift-fakest-knicks-fan-comment-covers-song-new-viral-video",
+        "https://stereogum.com/2516990/the-knicks-attempt-damage-control-after-tyler-kolek-calls-taylor-swift-a-fake-fan/news",
+        "https://news.google.com/rss/articles/CBMizgFBVV95cUxQXzNfNXV0NzBYU0FCMGd5N3YyRUdnTFNhbXBtYy1lMGZSQWJDREJVbzI1LVVDSGFCQzk1Q3BtR1RqaGJiZFNHZC11QUh0N281RWNNcHl5cmdLcjQ4Ql9HNWlTNmdHZmtSSmZfU2puN3pBNTk5SVBuSF82bUg4SUJhRF9xc0VoY25Tc3FpRm5pTFFYQTFaYXpuM3BjNVhGVFhCWDlQckFyRkVJY2lGWEIxYkFVUHczcG41bGhneXVPSk8zMGFZSUJCZDQtU2hzQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFQczV3UnlGWjNMQV9oRVUtaUpJWm5WTllaT1dzMUdzekp4Y0MxSU9ZSXJlZmt2azZUN1FBSl9rME1ucTdLdzZlMHYzLV9iU1NuczJEdXM3UWpOTjRRU3pYbC1nWVBEbGpjT0FnVDFULXJ5UzJyYVl6QXNDTDdpMEw2STUtYmpMbDJaRGNsN2tZa2xRQXdHeFg1SG4zUDQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnlJRHliSFM3anNPNmFqaERfZUtLWURxYk9kUzd3TkJxNHdNemNDQlBoRFRlRXo4RTI4dVMwSVhMMDBHN3FmT2piUXluX0ZBR1lCcWpJLUxXaUJaNHhRQVQ2bEtOdG51cG92bXZVVmZqbmVmckUxYkRUUXcxcVZEd1QxZDVYdXFIbFZ2TzVxbUtNc2Y3MmJ5X1F0UFpLU0x3MUg4MFRNR0RMYTZvRnllVTVySlN6Q28?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjBiVl9mOHpNSDRlRkxqOWw2ZjdJaDE5d0d0YlIzTElHU0haY3dmWFRDWUQteXhVbzJTenphd09YNXJzcW81S1hmTzlSVkl3bXlWdDRBeEprMTlFYmhfUm14NzBHYldscm1YVmE0T2dTLXBLZXVTZHUyaVhXakdIaGtEcVBuZlBSZ0NLR3RHUU9VNGZwU251XzJtLV9uMmJJZURQWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1dIRVcxWDlwZEZDRVhTa2xEQWtJMnFqOWk1cDdRNUdtVmh1V05Xbk5uMW85bWEwTGJFOEV2YmpGMU5LVUFXZVFJQy1RTU5ITmRSdmlGOXo0a2Z1Mk5DNkRPd1JER3NmNDVHNkJXMVZxSGhIQnJiNkllLVJPeVhXeGRObUpXckJOOFQ2SDlUakJObWwtQ3ZWNXdnME9IWERKeTJKcUxmQkY3MGNyY1R0eFdTM2Vxa2lKMUVEX3VZeEk4X01PLVdVZ0t6S0hISHFiWEZmcm5keFNWZjVwVjlvWWxITQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T18:03:22Z",
+      "published_at_ist": "2026-11-08 23:33 IST",
+      "first_seen_utc": "2026-11-08T11:35:21Z",
+      "age_minutes": 2,
+      "trend_score": 31,
+      "rank_score": 1.0283,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Taylor Swift"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Tyler Kolek Addresses Taylor Swift 'Fakest' Knicks Fan Comment, Covers Song in New Viral Video",
+        "The Knicks Attempt Damage Control After Tyler Kolek Calls Taylor Swift A Fake Fan",
+        "Knicks star desperately tries to make amends after sparking outrage by calling Taylor Swift 'fakest fan'",
+        "Why are Taylor Swift fans so mad at ex-Marquette star Tyler Kolek?"
+      ],
+      "image_urls": [
+        "https://assets-cms.thescore.com/uploads/image/file/856608/w1280xh720_GettyImages-2288358054.jpg?ts=1794153589",
+        "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-11/2302153786_large_cropped.jpg?w=1120&h=630",
+        "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-2280984501.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "09eb18e3b7",
+      "key": "condition-create-fog-issue-met-office-perfect-recipe-warning-weather-‘-’",
+      "headline": "Met Office issues weather warning as UK conditions create ‘perfect recipe’ for fog",
       "summary": "https://www.theguardian.com/uk-news/2026/nov/08/Travel may be disrupted until Monday morning in areas including most of southern England and across Midlands",
       "sources": [
-        "Sky News",
         "The Guardian",
+        "Sky News",
         "ITVX",
         "Yahoo News New Zealand",
         "BBC"
@@ -139,18 +207,18 @@
         "https://www.theguardian.com/uk-news/2026/nov/08/met-office-weather-warning-uk-fog",
         "https://news.sky.com/story/weather-warning-issued-for-parts-of-uk-amid-perfect-recipe-for-fog-13609717",
         "https://www.itv.com/news/2026-11-08/met-office-issues-weather-warning-amid-perfect-recipe-for-fog",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckxoOFZzUUVhbUFLZGQ1LWF3eC16Z0c1dDhIWHBUYVMzOVgzVXRlVjdDdHVZRUZZQlFOaVJnZmVicXRUUURLSDJPM2xEYkU0aXlCQXJXa2RtVzZXRnhVYjZ2dElKam82VTdMbnVBdl9jY1NIUVNLRExkczJ5MHlHVzFKT19HcXJiX2NjWXMwaWdsdjVfQUZmOW9EV0FBSGM3c3diMg?oc=5",
         "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWlpYd09DMDZmRmpUWUlVeHcwcUg1c0RMV0UwVmc0V3RTYTZLU3BEN2ZRSlFvc0ZFWDUtb2ZLNGt6aWRhdkJ4MWNZY1NhcGlSSm82LVJINFFiMUZxRXZ1cmx4WGctLVU2OEl2cGloU0ZtcFV4TTRWUU9TZXlPMFhKdkpkY0JVN3hP?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxQckxoOFZzUUVhbUFLZGQ1LWF3eC16Z0c1dDhIWHBUYVMzOVgzVXRlVjdDdHVZRUZZQlFOaVJnZmVicXRUUURLSDJPM2xEYkU0aXlCQXJXa2RtVzZXRnhVYjZ2dElKam82VTdMbnVBdl9jY1NIUVNLRExkczJ5MHlHVzFKT19HcXJiX2NjWXMwaWdsdjVfQUZmOW9EV0FBSGM3c3diMg?oc=5",
         "https://news.google.com/rss/articles/CBMingFBVV95cUxNSUs3cnMtWW9EcE1zNmxBXzg4SDZ0ZmhXMGI2eERuOGl5NzJaTnIwbUJJRHBSOGp1MTAwY1lYRzNHVGVtVHdBRFJkVDV4NHEzcnN6SllITFJsNU5WMkRWclFsNnBpNjdLTV80cFU5ZEgzancwOVlwbHUzLUdTVTd5eUR4M3hJWGtQMEIwQXZhSmlPTVdsMHZqZTAyaXhrUQ?oc=5",
         "https://news.google.com/rss/articles/CBMifkFVX3lxTE5RRFRwWjdyb1l0OXVHNW9Vd0N4NmZDOElxSU1xOTdadExIaERxNUJpaFlzcHFzVUJBM3c0dlplSVJJSVFoYmNqZ0RscHh2UW1rcjdQRXFscWc1cVdubEotNXhHa0RoaVdRS1JlTkxHQlBNVWZsU3BEOTBEWFNpdw?oc=5",
         "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBfN294ZXlrNVYxSzFmbG1aZldrMDZ2TkllNndLTUVERXhPSjVPQWE4OEZpSGF0UV91RlB2a0xHcFMyT01tbzVzN3NJNEFFRnFLZXk2NmtSYnhCUU1hOEVWa0hn?oc=5"
       ],
-      "published_at_utc": "2026-11-08T16:34:08Z",
-      "published_at_ist": "2026-11-08 22:04 IST",
-      "first_seen_utc": "2026-11-08T16:34:08Z",
-      "age_minutes": 91,
+      "published_at_utc": "2026-11-08T16:39:00Z",
+      "published_at_ist": "2026-11-08 22:09 IST",
+      "first_seen_utc": "2026-11-08T16:39:00Z",
+      "age_minutes": 86,
       "trend_score": 11,
-      "rank_score": 1.0038,
+      "rank_score": 1.0092,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -180,10 +248,10 @@
       "youtube_videos": []
     },
     {
-      "id": "9641eca0b2",
-      "key": "grand-grid-paulo-prix-revised-sao-–",
-      "headline": "F1 2026 Sao Paulo Grand Prix – Revised Grid",
-      "summary": "https://www.motorsportweek.com/2026/11/08/f1-2026-sao-paulo-grand-prix-revised-grid/With engine change-related penalties afoot, the Formula 1 Sao Paulo Grand Prix will see a grid a little different to",
+      "id": "511e9f021e",
+      "key": "brazilian-grand-grid-prix-starting",
+      "headline": "2026 F1 Brazilian Grand Prix starting grid",
+      "summary": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/Lando Norris took pole position after qualifying for the 2026 Formula 1 Brazilian Grand Prix. Discover the provisional starting grid, pending its final validation by the FIA",
       "sources": [
         "GPFans",
         "Western Wheel",
@@ -192,12 +260,12 @@
         "AuroraToday.ca",
         "The Albertan",
         "Rocky Mountain Outlook",
-        "Northwest Ontario News",
+        "RacingNews365",
         "Motorsport Week",
         "Formula 1"
       ],
       "article_urls": [
-        "https://www.motorsportweek.com/2026/11/08/f1-2026-sao-paulo-grand-prix-revised-grid/",
+        "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/",
         "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMlpqcW51V3dIZzh4TmpNRVVsUFNKZ1FBVXE5YUpnUnRDcWRadjh1a29hbjMtUVlUUHY3aUdUUTFqOHJ5TzJ0T29NTXBKQTdrZFFyY1NrOVUwWWtrbU9kS25iSTVCMFZPalE0N3BqZlVva19mdDFxdEE4RkhFUjFyaXNmZFR3MWZrVGxVSGlUNGdnWEZvM0ZkX25RajJQRm9RZnA1RERham9JMUJGUU5FQUdmUHlIRXhzSnlTSFlieEpOVU0?oc=5",
         "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT0F3TC1aR1cwcXZIbjg1LVRKU1prRHZITEhKbDRYSFR3eWVhQWR3Y21QVjFOLUJtbWtTbFVleUNYaTBNRkktcXFPODBiZ0R1Qlp5Vk15bzh2d21vczFZYlFPXzd5NExBYWlONnV0S29JaUd1Z05EMWRJcjg0dHVJMUZ1UW03SVBHempxTEhCSQ?oc=5",
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYVFuamRacHNRU0FkTjRySWo3NnB3aHY5Q0phVXF4MjhpaUoybF80S3BoSTRSWURXNmNhbkJPOGw1YjdjTjN0MC1Kdk9STHJvTVg0ZW9CXzhDSXdlTmd1ZWNpSW5PQkFiZmdEWUQ0OXdpMEVKakxVN04tcnFRYWo0T2FB?oc=5",
@@ -210,7 +278,7 @@
       "published_at_ist": "2026-11-08 23:18 IST",
       "first_seen_utc": "2026-11-07T21:16:28Z",
       "age_minutes": 17,
-      "trend_score": 41,
+      "trend_score": 40,
       "rank_score": 0.9858,
       "category": "sports",
       "section": "sports",
@@ -237,7 +305,7 @@
         "LIVE: 2026 F1 Sao Paulo Grand Prix Live : F1 Brazilian GP Live updates"
       ],
       "image_urls": [
-        "https://www.motorsportweek.com/wp-content/uploads/2026/11/F1-Sao-Paulo-GP-rain.webp",
+        "https://cdn-4.motorsport.com/images/amp/YE9EVMwY/s6/lando-norris-mclaren-2.jpg",
         "https://i1.ytimg.com/vi/Pq1W3TMcA8Y/hqdefault.jpg"
       ],
       "video_urls": [
@@ -281,75 +349,6 @@
           "is_short": false
         }
       ]
-    },
-    {
-      "id": "68d637b6cb",
-      "key": "calling-fake-fan-knick-kolek-misspoke-swift-taylor",
-      "headline": "Knicks' Kolek 'misspoke' when calling Taylor Swift fake fan",
-      "summary": "https://www.thescore.com/nba/news/3648893/Tyler Kolek doesn't want any bad blood with Taylor Swift.The New York Knicks guard drew plenty of attention for naming Swift as the team's fakest celebrit…",
-      "sources": [
-        "theScore",
-        "Stereogum",
-        "Daily Mail",
-        "Milwaukee Journal Sentinel",
-        "Yahoo Sports",
-        "Newswav",
-        "Asaase Radio",
-        "NewsBreak: Local News & Alerts",
-        "UNILAD",
-        "Hoodline"
-      ],
-      "article_urls": [
-        "https://www.thescore.com/nba/news/3648893/knicks-kolek-misspoke-when-calling-taylor-swift-fake-fan",
-        "https://stereogum.com/2516990/the-knicks-attempt-damage-control-after-tyler-kolek-calls-taylor-swift-a-fake-fan/news",
-        "https://www.dailymail.com/sport/nba/article-16276079/knicks-tyler-kolek-taylor-swift-fan-backlash.html",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzFQczV3UnlGWjNMQV9oRVUtaUpJWm5WTllaT1dzMUdzekp4Y0MxSU9ZSXJlZmt2azZUN1FBSl9rME1ucTdLdzZlMHYzLV9iU1NuczJEdXM3UWpOTjRRU3pYbC1nWVBEbGpjT0FnVDFULXJ5UzJyYVl6QXNDTDdpMEw2STUtYmpMbDJaRGNsN2tZa2xRQXdHeFg1SG4zUDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRnlJRHliSFM3anNPNmFqaERfZUtLWURxYk9kUzd3TkJxNHdNemNDQlBoRFRlRXo4RTI4dVMwSVhMMDBHN3FmT2piUXluX0ZBR1lCcWpJLUxXaUJaNHhRQVQ2bEtOdG51cG92bXZVVmZqbmVmckUxYkRUUXcxcVZEd1QxZDVYdXFIbFZ2TzVxbUtNc2Y3MmJ5X1F0UFpLU0x3MUg4MFRNR0RMYTZvRnllVTVySlN6Q28?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcjBiVl9mOHpNSDRlRkxqOWw2ZjdJaDE5d0d0YlIzTElHU0haY3dmWFRDWUQteXhVbzJTenphd09YNXJzcW81S1hmTzlSVkl3bXlWdDRBeEprMTlFYmhfUm14NzBHYldscm1YVmE0T2dTLXBLZXVTZHUyaVhXakdIaGtEcVBuZlBSZ0NLR3RHUU9VNGZwU251XzJtLV9uMmJJZURQWQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1dIRVcxWDlwZEZDRVhTa2xEQWtJMnFqOWk1cDdRNUdtVmh1V05Xbk5uMW85bWEwTGJFOEV2YmpGMU5LVUFXZVFJQy1RTU5ITmRSdmlGOXo0a2Z1Mk5DNkRPd1JER3NmNDVHNkJXMVZxSGhIQnJiNkllLVJPeVhXeGRObUpXckJOOFQ2SDlUakJObWwtQ3ZWNXdnME9IWERKeTJKcUxmQkY3MGNyY1R0eFdTM2Vxa2lKMUVEX3VZeEk4X01PLVdVZ0t6S0hISHFiWEZmcm5keFNWZjVwVjlvWWxITQ?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBuZ1VfZzVlV3dpd2FhTTVQVURwQkZvVFFza2h2ZjB4NDBIWkM3eGt5SFFpQW4yM0VfV3drMzRYcEhPVG5FNUZ6WV81dWZ3Rm94Wl9xUjN5bGhQbGd6VTRfZlpoZFdmWWNqeEVWdFhfblFvVlNLdWpHYk9oODM3Y0U?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T17:18:39Z",
-      "published_at_ist": "2026-11-08 22:48 IST",
-      "first_seen_utc": "2026-11-08T11:39:56Z",
-      "age_minutes": 46,
-      "trend_score": 26,
-      "rank_score": 0.9695,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Taylor Swift"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "The Knicks Attempt Damage Control After Tyler Kolek Calls Taylor Swift A Fake Fan",
-        "Knicks star desperately tries to make amends after sparking outrage by calling Taylor Swift 'fakest fan'",
-        "Why are Taylor Swift fans so mad at ex-Marquette star Tyler Kolek?",
-        "Taylor Swift defended by New York Knicks after player branded her ‘fakest’ fan"
-      ],
-      "image_urls": [
-        "https://assets-cms.thescore.com/uploads/image/file/856608/w1280xh720_GettyImages-2288358054.jpg?ts=1794153589",
-        "https://lede-admin.stereogum.com/wp-content/uploads/sites/64/2026/11/GettyImages-2280984501.jpg",
-        "https://i.dailymail.com/1s/2026/11/08/15/112339085-0-image-m-9_1794153401780.jpg",
-        "https://i.dailymail.com/1s/2026/11/08/15/112380351-0-image-a-13_1794153413286.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
     },
     {
       "id": "8f4c218b76",
@@ -533,7 +532,7 @@
       "id": "0977d8d94a",
       "key": "america-approach-famine-‘-’",
       "headline": "An ‘America First’ Approach to Famine",
-      "summary": "https://newcanaanite.com/new-canaan-event/The Dome @ NCHS is excited to participate in the grand premiere of America the Beautiful on Wednesday, November 11, 2026! Narrated by Emmy Award-winning actor Kelsey Grammer, this breathtaking giant-screen film takes audiences on an immersive journey through America’s stunning landscapes while celebrating the conservation efforts that have preserved the na",
+      "summary": "https://www.theguardian.com/film/2026/nov/08/Ten years after her landmark political documentary 13th, the film-maker delivers a follow-up on the 14th amendment – and the Trump administration’s attempts to dismantle birthright citizenship",
       "sources": [
         "NewCanaanite.com",
         "The Atlantic",
@@ -545,7 +544,7 @@
       ],
       "article_urls": [
         "https://www.theatlantic.com/health/2026/11/famine-somalia-trump-aid/689295/",
-        "https://newcanaanite.com/new-canaan-event/grand-premiere-of-america-the-beautiful-at-nchs-the-dome",
+        "https://newcanaanite.com/new-canaan-event/grand-premiere-of-america-the-beautiful-at-nchs-the-dome/",
         "https://www.theguardian.com/film/2026/nov/08/ava-duvernay-interview-trump-documentary-film-14th-amendment",
         "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmltYlRkdmJTUXcyZDB2US1lSGRGUjUtamsxSjhPX3pDS0JBc05tYjNpcTlubDhZODJhMW1WT01ZeHExQUpFd011elBISzdQWEVRdUJCTDJNaE5MZVJQYnNqRVZmQzFJUkppdkZzMWRmdnEtOVh1WDBxb1lCRy1tQU5aR1Zqcnhla2p3U2NYcVBGV3FURG03RlhwemJFWjhG?oc=5",
         "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR1dCZHpfSFFmWXNtMTc5a1dITXJZdEpyZjJyWHJRT1Q5MTNDX2ktaHNNYUNldHpsX1JabHB2dE5VZE82MHhYQzU3Wm1CU0N1NzlHWU0xLVhPTDA5bjMtS0M5cnFSVEZQc2ZkajVrT2RSMlYwSW5EWGtlTFhjN3BJNA?oc=5",
@@ -582,7 +581,6 @@
         "‘I’ve seen people in my neighbourhood pulled out of their cars’: Ava DuVernay on the cruelty and brutality of Trump’s America"
       ],
       "image_urls": [
-        "https://newcanaanite.com/wp-content/uploads/2026/11/America-The-Beautiful-Website-Image-1170x731.jpg",
         "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1895c991b6e1a10d6d19798310bda51c",
         "https://i.guim.co.uk/img/media/e4a4b70b473c1c8c1c5e22ffddd90a647b91f561/256_1317_4362_3488/master/4362.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=754a5a4592a41d82f1e6955b602ce343"
       ],
@@ -662,9 +660,9 @@
       "published_at_utc": "2026-11-08T14:59:29Z",
       "published_at_ist": "2026-11-08 20:29 IST",
       "first_seen_utc": "2026-11-08T11:56:00Z",
-      "age_minutes": 185,
+      "age_minutes": 186,
       "trend_score": 12,
-      "rank_score": 0.8566,
+      "rank_score": 0.8558,
       "category": "famous_clip",
       "section": "entertainment",
       "source_type": "news",
@@ -763,9 +761,9 @@
       "published_at_utc": "2026-11-08T17:53:38Z",
       "published_at_ist": "2026-11-08 23:23 IST",
       "first_seen_utc": "2026-11-08T17:53:38Z",
-      "age_minutes": 11,
+      "age_minutes": 12,
       "trend_score": 8,
-      "rank_score": 0.8227,
+      "rank_score": 0.8219,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -813,9 +811,9 @@
       "published_at_utc": "2026-11-08T17:03:23Z",
       "published_at_ist": "2026-11-08 22:33 IST",
       "first_seen_utc": "2026-11-08T15:57:00Z",
-      "age_minutes": 61,
+      "age_minutes": 62,
       "trend_score": 7,
-      "rank_score": 0.7622,
+      "rank_score": 0.7614,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -861,9 +859,9 @@
       "published_at_utc": "2026-11-08T17:18:49Z",
       "published_at_ist": "2026-11-08 22:48 IST",
       "first_seen_utc": "2026-11-08T17:18:49Z",
-      "age_minutes": 46,
+      "age_minutes": 47,
       "trend_score": 7,
-      "rank_score": 0.7447,
+      "rank_score": 0.7439,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -953,9 +951,9 @@
       "published_at_utc": "2026-11-08T16:18:50Z",
       "published_at_ist": "2026-11-08 21:48 IST",
       "first_seen_utc": "2026-11-08T16:18:50Z",
-      "age_minutes": 106,
+      "age_minutes": 107,
       "trend_score": 6,
-      "rank_score": 0.6733,
+      "rank_score": 0.6725,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1037,9 +1035,9 @@
       "published_at_utc": "2026-11-08T13:50:50Z",
       "published_at_ist": "2026-11-08 19:20 IST",
       "first_seen_utc": "2026-11-08T13:50:50Z",
-      "age_minutes": 254,
+      "age_minutes": 255,
       "trend_score": 6,
-      "rank_score": 0.55,
+      "rank_score": 0.5492,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -1080,9 +1078,9 @@
       "published_at_utc": "2026-11-08T13:46:50Z",
       "published_at_ist": "2026-11-08 19:16 IST",
       "first_seen_utc": "2026-11-08T13:46:50Z",
-      "age_minutes": 258,
+      "age_minutes": 259,
       "trend_score": 6,
-      "rank_score": 0.5467,
+      "rank_score": 0.5458,
       "category": "other",
       "section": "top",
       "source_type": "news",
