@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-11-08T02:05:21Z",
-  "generated_at_ist": "2026-11-08 07:35 IST",
+  "generated_at_utc": "2026-11-08T04:05:25Z",
+  "generated_at_ist": "2026-11-08 09:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 88,
     "feeds_failed": 1,
-    "raw_items": 4467,
-    "fresh_items": 3335,
-    "clusters": 1397,
+    "raw_items": 4435,
+    "fresh_items": 3276,
+    "clusters": 1322,
     "youtube_feeds_ok": 1,
     "youtube_feeds_failed": 29,
-    "youtube_uploads_fresh": 15,
+    "youtube_uploads_fresh": 0,
     "youtube_items": 0,
-    "famous_items": 8,
-    "trends_terms": 40,
-    "page_fetches": 48,
-    "with_video": 4,
-    "runtime_sec": 20.1
+    "famous_items": 6,
+    "trends_terms": 30,
+    "page_fetches": 64,
+    "with_video": 2,
+    "runtime_sec": 24.8
   },
   "categories": {
     "famous_clip": 4,
@@ -32,60 +32,61 @@
     "other": 6
   },
   "top_trends": [
-    "chris hansen (US 1000+)",
-    "urban meyer (US 200+)",
-    "north of north (US 1000+)",
-    "hurricanes hockey (US 200+)",
-    "west virginia vs texas tech (US 5000+)",
-    "hawaii vs utep (US 2000+)",
-    "fresno state vs utah state (US 1000+)",
-    "amanda nunes (US 1000+)",
-    "carolina hurricanes (US 1000+)",
-    "josh hokit (US 500+)",
-    "canva (IN 1000+)",
-    "ക്രെഡിറ്റ് (IN 100+)",
-    "റോഡ് (IN 100+)",
-    "cole palmer (IN 1000+)",
-    "मध्य प्रदेश (IN 100+)",
-    "बाज़ार (IN 200+)",
-    "ಆಸ್ತಿ (IN 100+)",
-    "बोनस शेयर (IN 1000+)",
-    "বিশ্ব রেকর্ড (IN 500+)",
-    "टाटा स्टील (IN 100+)"
+    "kyle whittingham (US 1000+)",
+    "suns game (US 500+)",
+    "tristan da silva (US 200+)",
+    "cameron diaz (US 500+)",
+    "warriors game today (US 200+)",
+    "mon laferte (US 200+)",
+    "bengals vs falcons (US 200+)",
+    "usl (US 200+)",
+    "mn wild (US 2000+)",
+    "alperen şengün (US 500+)",
+    "कर्ज माफी (IN 200+)",
+    "महुआ मोइत्रा (IN 200+)",
+    "మొహమ్మద్ షమీ (IN 200+)",
+    "tatiana suarez (IN 100+)",
+    "sydney weather (IN 100+)",
+    "kane williamson (IN 100+)",
+    "imf (IN 100+)",
+    "সংবাদ (IN 100+)",
+    "sydney sixers vs sydney thunder (IN 200+)",
+    "suns vs rockets (IN 100+)"
   ],
   "items": [
     {
-      "id": "96a3e92693",
-      "key": "293-acosta-corte-fight-night-ufc-walker",
-      "headline": "UFC Fight Night 293 - Cortes-Acosta vs. Walker",
-      "summary": "https://www.thestatszone.com/Billy Elekana vs Lucas Fernando UFC Fight Night: Cortes-Acosta vs Walker TV & streaming details, free tips, preview & pick…",
+      "id": "e0a1e0873c",
+      "key": "acosta-corte-elijah-fight-interview-night-post-smith-ufc-walker",
+      "headline": "Elijah Smith Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker",
+      "summary": "https://bloodyelbow.com/2026/11/05/ufc-vegas-124-could-produce-a-title-challenger-for-2027-as-12-1-contender-calls-her-shot/Mackenzie Dern vs Tatiana Suarez — who would your money be on? 🤔",
       "sources": [
-        "Yahoo Sports",
         "UFC.com",
-        "Sherdog",
-        "ESPN India",
-        "Central Oregon Daily",
-        "MMA Junkie",
+        "Yahoo Sports",
+        "Yahoo",
         "MMA Fighting",
+        "MMA Mania",
+        "MMA Junkie",
+        "Sherdog",
+        "ESPN Philippines",
         "Sportsnet.ca",
         "CBS Sports"
       ],
       "article_urls": [
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/07/billy-elekana-vs-lucas-fernando-ufc-vegas-124-prediction-expert-pick/92654191007/",
-        "https://www.thestatszone.com/ufc-fight-night-billy-elekana-vs-lucas-fernando-preview-prediction-234657",
-        "https://www.sherdog.com/events/UFC-Fight-Night-293-CortesAcosta-vs-Walker-114213",
-        "https://www.sherdog.com/news/news/Billy-Elekana-wants-to-be-UFCs-next-Charles-Oliveira-targets-twister-203510",
-        "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BMEd3NzJlT2VleUtmT25FWG4wOTlfZGxQMTEzekYzOFlLQlFEOU1YTnpHdEtkRFRzSDJBNGdWMU05Wm1qM0ZMcmlVLXB3a21yOXhMSmtQOUV5cWZkTHBRbVloYlBTa2ZaMl9fNzYzbVgwY0pIbkdJRjNmZXJ0Zw?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUWladjJkUUREZGFLSlNHN1loeVBaeFdtYlM4aWNkV3BLZndHWW5kalNRMDhQNDJRWXdMUVBTSjJYSG1mX3c0SjRSQ3JUd2xUQXlINENvOGU4QTg3NUFyMUVrS0Q3QkI2NDZDSGR0cktlX3NQQUkxTXp5YndhbWtWZEhLU25XZw?oc=5",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE85SHZCb0VkRW9KeUNEZVdqdDFkdnpCSTVpMXVIY28yMG9USkExV0Q5MllDN0c0MkxoQ3MwWnJ3blA5MGlxYzRQQWluRHgwMnBic0QyNE5HeXpyckFoZHBsZ1NwZGhxbGdxbjJOdXl3YUQyanhBUEt1LU9JVTg?oc=5",
-        "https://news.google.com/rss/articles/CBMijAFBVV95cUxONXh6RjlRQnQwNlBwc1dkMEJMWGRPamF1QnNMUVZieWMtRHpqckVxVUs0S1RCWmE0RWZhMjV4czlLWDdZS2NoVlNEbVNVLTBqSndveUhLTmtmSVpBNFhtWDVRNGw5WHNydzE5bFRGenlleXhBemFBXzlHcFMtRnhlUjZ5c2l3NndqaFk5ZA?oc=5"
+        "https://bloodyelbow.com/2026/11/05/ufc-vegas-124-could-produce-a-title-challenger-for-2027-as-12-1-contender-calls-her-shot/",
+        "https://www.mmafighting.com/ufc/519359/virna-jandiroba-mackenzie-dern-trilogy-bout-possible-with-win-over-tatiana-suarez-at-ufc-vegas-124",
+        "https://www.ufc.com/video/161753",
+        "https://www.sportsgrid.com/mixed-martial-arts/video/suarez-vs-jandiroba-betting-pick-and-fight-preview",
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9LR2dNM0RxZUpJRzRQVU5ROEZFOU1tcVBidkhPMXhJTWNuTUFITnRPTUJ0bmJaVFQxUzB4c1IwS3E0eU5uQXJF?oc=5",
+        "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xMnNkb3RtZ04yMFZiVG4yUGM5YUtROFUwNnJrREg4bi1iZkUzQVBZQS1pWEZUUGRteDFDcXJRSU1aQ1ZLVm9j?oc=5",
+        "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwWDRHV2RPVTg5OHREdUhxZnBCN25rREt6dkl5b3pQU2pxS210S1FJOXM3U1I3anVSLU5icnp4b3Mzd3NYc3lYMmJ3Yl9QeHNjQ01qOVJVZm1LSkNrUG4wX19OTGRDZzFxVjZ0WFJKR0U0d2t2SGl2Z2xjRy02QQ?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTdpT3BscVJhRGl3REFhT0V0c3ZDSDZPV1hVTm8weC1rc2tZRjNjdF9lOTBaeWVTTGZoUkc0VGF4QmZyMlBYeVRrSW1KU2JrOTVuc3JMbFRTeHZzVk9Qcjd3enRYdEo5MmR5Q1phZEJDWGRDY0M4TkhCVmhVUlFMR3lXQQ?oc=5"
       ],
-      "published_at_utc": "2026-11-08T01:20:17Z",
-      "published_at_ist": "2026-11-08 06:50 IST",
-      "first_seen_utc": "2026-11-07T21:00:00Z",
-      "age_minutes": 45,
-      "trend_score": 24,
-      "rank_score": 1.2065,
+      "published_at_utc": "2026-11-08T03:51:59Z",
+      "published_at_ist": "2026-11-08 09:21 IST",
+      "first_seen_utc": "2026-11-07T21:00:57Z",
+      "age_minutes": 13,
+      "trend_score": 25,
+      "rank_score": 0.961,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -97,119 +98,171 @@
       "language": "en",
       "priority_queries": [],
       "google_trends": [
-        "lucas fernando (GB 200+)",
-        "marcos degli (GB 200+)",
-        "davey grant (GB 200+)"
+        "tatiana suarez (IN 100+)"
       ],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "UFC Fight Night 293: Karine Silva post-fight interview",
-        "Prelim Results | UFC Fight Night: Cortes Acosta vs Walker",
-        "Main Card Results | UFC Fight Night: Cortes Acosta vs Walker",
-        "Official Scorecards | UFC Fight Night: Cortes Acosta vs Walker"
+        "Lucas Fernando Post-Fight Interview | UFC Fight Night: Cortes Acosta vs Walker",
+        "LIVE! Watch UFC Vegas 124 Post-Fight Presser",
+        "UFC Vegas 124 results: Tatiana Suarez calls for title shot after defeating Virna Jandiroba",
+        "UFC Vegas 124 results: Tatiana Suarez grinds her way to decision win over Virna Jandiroba"
       ],
       "image_urls": [
-        "https://www.thestatszone.com/imager/234620/1793706141_b0464c6958.webp",
-        "https://www1-cdn.sherdog.com/image_vs/895050",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn_P6kG4vu2ZqtX2agu1fCyQt9Qspwb5Og1qNCmQc5CK26GNKtC66ZjtLrLk0",
-        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTTKmeafMmamuW6DT4UZ8OxkTkYzLzOwTgXmdHkijNz20samngLvQfVfmsIyg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VD-epyhXOycYs1a8_MVcVfjws1XVXakoKowdUa04JZxBpU1X3UenFCDtgyE"
+        "https://cdn1.bloodyelbow.com/uploads/1/2025/02/GettyImages-2198470162-scaled.jpg",
+        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2269860970.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C78.534031413613&w=1200",
+        "https://ufc.com/images/styles/gallery_collapsed_desktop_1x/s3/2026-11/110726-elijah-smith-post-fight-thumbnail.jpg?itok=BTAPxaAh",
+        "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRG36luyKccLp4AEea3nt3UfgQfpYVJgAIwd3QQ3eCKy_VzjkTv-Ou2w4FdBPI",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0Mta-6yUY2jQHCkOEHAiszZM74t8v61n_X5AgnKO6dOdWzvTwhRhAYbx7Uw",
+        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo61rGaHUkI9KmOFKUmJ9UZATXXZf-9KHNgobLfwQO46damG_8d3DgY-RTdhk"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "2a0d84e84d",
-      "key": "brand-defense-fakest-fan-knick-player-rush-swift-taylor-york-‘-’",
-      "headline": "New York Knicks rush to Taylor Swift’s defense after player brands her ‘fakest’ fan",
-      "summary": "https://www.the-independent.com/arts-entertainment/music/news/Knicks point guard Tyler Kolek suggested that celebrity fans had been ‘pretty performative’ during the team’s recent success",
+      "id": "a18c8ae319",
+      "key": "alvarez-ariana-beauty-boyfriend-grande-kisse-ricky-share-sweet",
+      "headline": "Ariana Grande Shares Sweet Kisses with Boyfriend Ricky Alvarez in New R.E.M. Beauty Video",
+      "summary": "https://people.com/Ariana Grande shared sweet kisses with her boyfriend, Ricky Alvarez, as part of the ‘What’s on my lips’ social media challenge for R.E.M. Beauty.",
       "sources": [
-        "The Blast",
-        "The Independent",
-        "The Mercury",
-        "News.com.au",
-        "The Courier Mail",
-        "MSN",
-        "Yahoo Sports",
-        "The Telegraph"
+        "The Times of India",
+        "People.com",
+        "Yahoo"
       ],
       "article_urls": [
-        "https://www.the-independent.com/arts-entertainment/music/news/taylor-swift-knicks-fan-statement-b3081094.html",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVmJpRHdYN09BWjEwaVB0bUN4Zy1SeGRXRThkY1EtenYzdGNzUW1VTmRxdzYzTUt5UmFXWmdDSVlnbnYySUgyejI0RWItbTZiZ0hmeW16MGpnLVp5VVpTZFdsZW5QMENLTmlrbU1GdXF3eWQ4WE5WUEhLcGR4Z2hSMnFuRE94bmF3WHc?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVDdDVDZKZDZnZ3VzQ2U5ZHZ6N1pwVVFlTlhFV3VzY2xMeGYtMHZBbFRvM1VpbnJNRkNQYnFmWjlXWjh6bWwzRUVRUzNlT0hjeElpUHF4Wjl0aFkxNVVjYXVNSV8zVzhjSkF6T0VzTjQ3T01mR1JZbUpmSTFiMjFBYi1wQnpjUEhSRWtnNEtKV1dHT2Qtc0R3RXpnbE1Dbnl3c2w2anRXV25DNTg?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQeFB1OWlSaDhXZG5DSGM3cVMyTHNOS29DblY2Tnl5LUxaYmZOVnlNeVpncDcyU3U5b240SExsclJ6UkZaNlBQSVMwVEdraUNnRXl1MnlhN2JtaGQ3NGFVVjJMNEtRQ0FLdXE3dDFsaGZtQVp6Y3VFS3hMZ1VuY0s1eFlMUm9tX0J0Tmo3WklOOVMxYlVsajVrTHRpZ1J6MlZua2VUOTQ2MjZpdmNKaHppUkR1dU41OG44eDh4YjVzMmZmUk5mUGJBVV81d1F1Y0NZZ3lSZk02QW9aZ2JWLS00eVpfU05vcFkzN0ZtZjRuNA?oc=5",
-        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNajMxZnpya0ZzbHdOT2RKSDV3dVZDcDdRT0cyQm9ZUEI2OWkyUXRiaDdWNVNuQ0t1c2xMaGRLdTFORmNxcExWblNFd21tNGtOeE8zcU85X21FRkdFd1ZlTWpicGVNZXFzak9uX1JHdGxXdzFleDNFQkFGRzV6cVAzZjFVUXhfVjZRbFJ2Q0FrYTZMRE1idVJTOV9hSlRiX1RPcXN2RU40eEE5cHJMYWtWSWlPSkU3Y3ZyOWtFNHFMNk1rZFhuaXppZVdqVXQ0N3VaczM1TVBBNEFGMzB0QTBkSXpIS2pEWUszMWdCTdIB7AFBVV95cUxNajMxZnpya0ZzbHdOT2RKSDV3dVZDcDdRT0cyQm9ZUEI2OWkyUXRiaDdWNVNuQ0t1c2xMaGRLdTFORmNxcExWblNFd21tNGtOeE8zcU85X21FRkdFd1ZlTWpicGVNZXFzak9uX1JHdGxXdzFleDNFQkFGRzV6cVAzZjFVUXhfVjZRbFJ2Q0FrYTZMRE1idVJTOV9hSlRiX1RPcXN2RU40eEE5cHJMYWtWSWlPSkU3Y3ZyOWtFNHFMNk1rZFhuaXppZVdqVXQ0N3VaczM1TVBBNEFGMzB0QTBkSXpIS2pEWUszMWdCTQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYnJWdVFjY1F3MFVKNTBsVm1rUlk0ZmV0Y0VnbUZ1SS1pTU12UEFKQUVHWTBLU1NqcVcyczFHY0pya09BemhMcFIwQ2N5VFBLQkZHZktkV2EtdUV4SXZOa0dvZGwxdFREMEhWTWo1eF82Z1phRHpVSkYtbEdGZFNZNnZYS2hBY2FSV3lzSWhpX2dCeDM5MzBXQ1plRlBsWGxvSjZSZHRWNE5TRWJWQnpaTjNtVTFLWFpqY1F2Mko5dFRJdDd6azNQY0FSQllqSkJIM3FycGxtMDY1RmxwRkxNdjAxZlVLa1JuOHpVOUhtMXA?oc=5",
-        "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSUtSRUgxT0VEaGVZXzlmanpCX1ZQRHBuWDYySjkxVU5TVnZsMVQwUUNfcEpnT01FREdPbzRBczMzcFlqNk82Mjc2aDdSYU1kRVB1NHViWTV2QmFqMzY5QUR2N0VqU0pVVG5kbHRzZDlsc01McUtUT1p5bWpFZFpTam53NldxLTdjX0VlY0ZuU1phazRlSWhQQ3cyVHVaRlNzdWdBY3BUV2dFVEpDS2MtdnBadnlEY0NQczd0WDJaUjZKeHVBOXNCS0hkOWhXQWRGUlhtSGxlWklEMGlBN2V3VmswaDQ?oc=5",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZFlqUmk2ZTVQd1ZxeXFUczVHWlhyMVM0TmEtZFh1RFRPRTFmUXpqSkJNOXBuaVVFM29pd3JjYlBERzd0c28wbi1mV2ROYkRGNFNraUFpNzBEMnQ5clp6QVJJRTFJSVVSV010ZWVPSm1pX2c4TEsxQ1BUVVpON3NzZnBRZk1kdw?oc=5"
+        "https://people.com/ariana-grande-shares-kisses-with-boyfriend-ricky-alvarez-in-rem-beauty-video-12242283",
+        "https://timesofindia.indiatimes.com/entertainment/english/music/news/ariana-grande-and-ricky-alvarez-share-a-sweet-kiss-in-the-latest-promo-video-for-the-singers-makeup-brand/articleshow/135650009.cms",
+        "https://www.yahoo.com/entertainment/celebrity/articles/ariana-grande-gives-peek-romance-200616318.html",
+        "https://news.google.com/rss/articles/CBMipwJBVV95cUxQTG5IbDRHc1lHSU40cFFfOTFadEo1VmZYcndNV0ZwOTQ4Nm9FZGlWVjFwejR0R0xhRklWdWZldVh1Nk9hNTVmS2xuWFJJd1dVWkpicDhZMFJHNU1xQTh5OHZGLWI5RDhWcHNWMDFSVjJYR3h5aC1STGxkTlU1MmhHZHBGaWpaSWNnQVB5aTR5M1RJTE9RUXkyQkRBeDN5NE9wSUhXMXZVUDhCeVJBUXhSMHUtQS14RExvTExCRTlzOWdHSjJFZk42XzBFOUk4RXdhSFpqdXR6NjNIVjB4QzZFeU9SMDZTOVNrSFd4STJ0OXpSOUNtUC0xbm85M3lQM0RtckQ5c1BrYUx1OTk1ZV9lYnZ6a0dfOUF3dERnUXVhNkQ2M1gxY1lN0gGsAkFVX3lxTE1haE8tbWRHbWdSekNzc0J3NmlTbm1NQXhTS1NRTzdGbHVzQzM5YlM2dVZ4Vi04V3hhSjZkSFFRV0tvUWYwRGRkekE0UmMtTEdnU2RhRmpabzUyMjNDdm5xSXRsdnNfMURibThzaUUyc0Vkc2hzTmM5OFQ2QkJrdnBfR1VGMGx4MzJRV0dwSHN5YkJCVFVPdDFxUlBEMG90ZE1rS0hFYm5wWGdfMXlQMk9SVGhWV2NZQnJkT0hWU3JEMXAyQ2hnTEtXMGZ4SENDWWVRRUVlT0R6UlRTWXBydnpVNC1WRHRBZG1EN0xYUmZ5M3pRU211d3BNUE9QZ2VpRy0wWklnMUF6LUJ2cW1nYnV5TE53VzN6aGNjTEtyUDRYRkZzZFhRdkpWT2NacA?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFJyWFp5SnZ4a19ZQ1I0cDhhQWZjcHpJaFpzSFQ3aEpQemtMRFlrQ0VkMGh0LXg1emc3ZDF6eDNCVjBIVW5CY3FNcFM5Q1ZuRUU1V3czYWlQM29RbVJkR21sZnRLMnYxaXB2aWhSY1cycnN5d0J4Vm1BdnpwVWFzU20xMXpiTkp5LUgwTXVzMG15NDg4azJkMml5M1FCcl8xMEQtdEVCbw?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVzBTMEZIcEZjajlMUnYyTXdRdEpqRk5hVERvc2duejMyYUV6NktoWEZQZkZ3aEJiT25OdnNXRjFqSFZjb3VnQkE4dnBNRUI0cTZQSGU5OUFDSEpHTkdEbFNjU0ZuUEF0NHJadUhDWVNMc1lPNFVNaHZtdExuN2dCNkIwZzlCb2wyR2s1WDBpX0NtcExWaHRGcE9NTV96THlIaXY2cw?oc=5"
       ],
-      "published_at_utc": "2026-11-08T00:33:14Z",
-      "published_at_ist": "2026-11-08 06:03 IST",
-      "first_seen_utc": "2026-11-07T18:32:00Z",
-      "age_minutes": 92,
-      "trend_score": 22,
-      "rank_score": 1.0255,
+      "published_at_utc": "2026-11-08T03:01:00Z",
+      "published_at_ist": "2026-11-08 08:31 IST",
+      "first_seen_utc": "2026-11-07T20:06:16Z",
+      "age_minutes": 64,
+      "trend_score": 10,
+      "rank_score": 0.9307,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [
-        "Taylor Swift"
+        "Ariana Grande"
       ],
       "region": [
         "GB",
-        "IN",
         "US"
       ],
       "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
+      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": true,
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Taylor Swift Fans Drag Knicks Star With Brutal NBA Finals Reminder After ‘Fake Fan’ Dig",
-        "Team defends star after ‘fake fan’ comments",
-        "New York Knicks defend Taylor Swift after players say she’s their fakest celebrity fan",
-        "Knicks Guard Tyler Kolek Calls Out Taylor Swift for Being a 'Fake Fan'"
+        "Ariana Grande and Ricky Alvarez share a sweet kiss in the latest promo video for the singer’s makeup bran",
+        "Ariana Grande Gives Peek Into Romance With Ricky Alvarez"
       ],
       "image_urls": [
-        "https://static.the-independent.com/2026/11/07/20/29/GettyImages-2280992992-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
+        "https://people.com/thmb/krfA52AcaBbGIjjdvkEQyVnWAVg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Ariana-Grande-Ricky-Alvarez-110726-9b6d8f4d152e43539167765e9a45b2e8.jpg",
+        "https://static.toiimg.com/thumb/msid-135650071,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "https://s.yimg.com/lo/mysterio/api/d086c757455e9e0dc804b8cf11ae413015ebb3ec673b15753598c09a8b7ad593/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcomplex_131%2F6b19811335b8d6897230dc40a315312f.jpg"
       ],
       "video_urls": [
-        "https://static.the-independent.com/2026/11/07/20/29/GettyImages-2280992992-(1).jpg?crop=1291,860.7,x0,y0.2&trim=0,0,0,0&width=1200",
-        "https://large-cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/ef87ad7c-f12b-4e38-ab57-43dae86add94/720p.mp4"
+        "https://www.youtube.com/watch?v=Klfg4PSp8ko"
       ],
       "has_video": true,
       "youtube_videos": []
     },
     {
-      "id": "19fa290dec",
-      "key": "bts-foto-hoodie-lockscreen-taehyung-twitter",
-      "headline": "Bts Taehyung Hoodie - on Twitter Bts lockscreen Bts Foto bts",
-      "summary": "",
+      "id": "0b69bfaa6d",
+      "key": "ball-defend-defiant-igniting-khawaja-scandal-tampering-usman",
+      "headline": "Defiant Usman Khawaja Defends Re-Igniting Ball-Tampering Scandal",
+      "summary": "https://news.abplive.com/sports/cricket/Usman Khawaja reveals why he stayed silent about Australia's 2018 ball-tampering scandal, saying Steve Smith talked him out of speaking up.",
       "sources": [
-        "auroradesio.it",
-        "www.auroradesio.it"
+        "ABP Live English",
+        "NDTV Sports",
+        "Hindustan Times",
+        "Times Now",
+        "The Guardian",
+        "Cricinfo",
+        "Cricbuzz",
+        "Telegraph India",
+        "SMH.com.au",
+        "Nine.com.au"
       ],
       "article_urls": [
-        "https://auroradesio.it/top/102812732/",
-        "https://auroradesio.it/top/102773932/",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqSGwxTWJPYTNzd2s2MDk1LVVVeDFCYjVHLWwyU0NpVjI4d3dQa3NGaXE4ck5yTmtGRjJMa3F4SzE3Qktsc19aT2g1S2VlRFNuN09v?oc=5",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9USENoX2doS0M3UW5Qa0p4OGNoV0Q1Q3hkbUc1cHZjYUdRNjVLb3JOaWNoR2JIcEtxb1dFbTBHTklhSF93RWQ3dTNfakc3T1A4dDY0?oc=5"
+        "https://sports.ndtv.com/cricket/defiant-khawaja-defends-re-igniting-ball-tampering-scandal-12298842",
+        "https://news.abplive.com/sports/cricket/usman-khawaja-sandpapergate-8-year-silence-steve-smith-talked-me-out-of-it-1875166",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZjRpdm9zdDBkbGQ5QWFBaDU3NU1VblNRRnJ5VVQ2eUEtUUpoaTVSVFVVc0ZoTjJVOTdabEkyYndmQmhRRkxjU0ozZDRsU2MtTjJTaUhNTmFOMms4SmItY2luWkNqLWdNa3pkUUIxamxXVUdtaTI3NHdjam1xdk5nQ0RzTUdsdjBJSGdjdXNWU3dFcGpZTjZOWmJMUXU1SHhnWGpneHo3dWNuZTZuQk1wTFBqbUNXTS1GTnFPa1ZzUdIBxAFBVV95cUxNUGctOHctLTJEQ0thMW5iNUNpYjZXR3Q0Z0dvamZuWENYM09md054UG9NanB5bUdoeHhuaHlBRFFudVZzRktLVjB1VFJFYmRTOE5QZ0dlcGk1bmplM2tqR1U2TFZyMWNzSUdpTHpxb1JkbkVtbTJhVG1HcjlKNnl5SmJWSDMxMHp1Q2VnalJ3OE0wZHZPajFpOHNaZTIxR2JoQWlLVmVHQTJXRHZLMnd2R1Z0c1pNQ0J1S2h0YzlVLXk4THpR?oc=5",
+        "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeUNkeHRWVGthdXBrYVJFR0ZPMTlseFdqTklrZlc0eTlnYTFEZUNwZER0X081WTR3cVh0MEM0ZFJZREh6d293OGpOQ096bW13M3BaQUl4UTlmd0hCQUVTZE40UnlCb2J0WVV3NzRDdFZfVi1fenF1SW44Ukx0a1VKS1EtRzFma0l1aGpITGZGZURrZ2VUejdpZTY2b0Q1T3du?oc=5",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM2Z1WUhSczROdjdhbUxZQnRTUFd6eG5IajNuYjNlTmpVYVNzZTNZQWhNeDhabEFveUNIcnI1ZHRiU2JMbVdfODI2WXI0aGtaYTFkYVBWRjREdG11Y0J3UjktLVdYbXZtaURvSzczaG5naXRXemNkbVZZa0dvQnNyb1VUZ0J0VG15QkpwWm9BY0RBZS12d2xMUDRmbUpmbk9xU2U3RXZpN2VDYnFMMXFMQWdCV1BtWGFhMEUxcmVxaUpPUzl3U1c4WnA1SGRTRDNtc0k1Q2hWQQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWczRDJ6Z0g2SVQyVlZIdDYySC1qM0hvdEhzZTRNOUhWa2dMOUF6eFVmRFNvMWpDWk1hTWp0WFNTUkV0UENtRTdoOXRiYWRmdDNfQlFZYjdBSWpJcVVhcmRabjBBTHJMMzRBbU9JaEZUUzRGZjd3RnFzaFM3ckhRVllTbHdjMnBqNkR4a1FUaHZLalhMUXdtalpXeW9RaTNKY0NydlRKRWZIQWhCbThNeTJRbmRISEczRExRaXo5cVp2WVVSQUdkWGcwdkxDeE1HTEHSAdcBQVVfeXFMTkUyOURMMnBOQnRXLWR5VlAyVEpfQmNyVDFmNHpTVk1oR2I3QzlYMXNCM2pvRkVSQmlWdkxyV2s0RWNVRmFVNDY3dXlxZzVhOE80bUlMSzdmUGxrQlgzdWNPV1VXTExsS3kwWEZrVmJTNFpCUzJEWjVUcTUxa3RjY0ZOaksxWFVKWnFOc2F1a0huUmtpTkRMeXNtbmxHTFVJTmJXN3ZpOGJWR0VES3NBN0FTTGtSWUloUU1zaS1IZzBpWmo3ZEdJelZOUzcxeTkxV09MYXlMdm8?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSURnWTFjQmxOYXZab1ZhQjA0dlJkV2Z0eTJmNUFFMXFlNWpneHdCcU4zQlhKT0puamNxNjdDeUpidFliRmdkZ1hvOFJjcnpEV1NuNTZlRmczVk9YbFowN2k4UGlNUGtkbHlPU2FieXZ2UUNQWlpsOFBNOVpmR05pejhYSW1YOTJKLXlnYWg5VklNUWxGSkdHSUE5cXZzZVJobTItSFJFalVEeV8xYXAtbFJSWmx6UQ?oc=5",
+        "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0cwcC1VQ1FmOUZ4VDkxaUtNSk1uNWhwV2E1TFVqdUI4aGtJYy1lNTV3WVBNd0VKOV93VTJabWtJN1BOSUg2QkFmb0tzV3ZNQUtNWTVRRmJSOUpjSHFTaW05R3lhMEtHU2dfUUZFRXNubzRTNldOS3FTVk1raWJJZHdtUGFWa0M3b3V0RUZ1elc2LUJhNzAyNVZGMGZNVG5ONTZzdWh5UURfSnRsVEllb2hvX0rSAcYBQVVfeXFMTUlrMExkLVlOV1RlaTVlY19YZzd6aTFjdTVJR1YyQVFWUWJ5RmVlUFloSVdoYmVuRkN6S0dYN2VhS3VNWS1OYW1TZzRuR2VjNl93eWxqdkpwRUlhUTlFbWtGVnZUck9kYy15NEg1REpCVFZOanROQ01zZXpJOWlxcldySFR1NmFtRUJxLXpLY3hIcmVBOEFVVlZCQXlJNlJLY3pnZTdadHhDUHFaUkE1c3dPY2dBTE9vOW9CNUs0c3l3WmZvQ2J3?oc=5"
       ],
-      "published_at_utc": "2026-11-08T01:16:05Z",
-      "published_at_ist": "2026-11-08 06:46 IST",
-      "first_seen_utc": "2026-11-07T22:35:53Z",
-      "age_minutes": 49,
-      "trend_score": 14,
-      "rank_score": 0.8429,
+      "published_at_utc": "2026-11-08T03:46:31Z",
+      "published_at_ist": "2026-11-08 09:16 IST",
+      "first_seen_utc": "2026-11-08T00:38:42Z",
+      "age_minutes": 18,
+      "trend_score": 17,
+      "rank_score": 0.8979,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "All Of Us: Khawaja Defends Ball-Tampering Claim, Reveals Steve Smiths Role In His Silence",
+        "Usman Khawaja vehemently defends his ball-tampering claims in social media video",
+        "Won't Deny It: Usman Khawaja Responds To Backlash Over Ball-Tampering Remark",
+        "‘I haven’t thrown anyone under the bus’: Usman Khawaja defends timing of ball-tampering revelations"
+      ],
+      "image_urls": [
+        "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/1901108f9548c007c871243132c9c62f17941095615581348_original.png?impolicy=abp_cdn&imwidth=1200",
+        "https://feeds.abplive.com/onecms/images/uploaded-images/2026/11/08/1901108f9548c007c871243132c9c62f17941095615581348_original.png?impolicy=abp_cdn&imwidth=640"
+      ],
+      "video_urls": [
+        "https://youtube.com/watch?v=W7Rx9Awo3ns",
+        "https://www.youtube.com/embed/nyd-xznCpJc"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "9d26d7d19c",
+      "key": "5-account-among-bts-influential-instagram-jimin-most-rank-world",
+      "headline": "BTS’s Jimin Ranks Among World’s Top 5 Most Influential Instagram Accounts For October!",
+      "summary": "https://hype.my/btss-jimin-ranks-among-worlds-top-5-most-influential-instagram-accounts-for-october/BTS’ Jimin is proving his global popularity once again! The K-pop star has secured a spot among the world’s top 5 most influential Instagram accounts of",
+      "sources": [
+        "Hype.MY"
+      ],
+      "article_urls": [
+        "https://hype.my/btss-jimin-ranks-among-worlds-top-5-most-influential-instagram-accounts-for-october/",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMGRwWFhORy1DME1mUEtxUEpFdDNtcTBzbHNEb3I0UW9lS0RYeFEwVjMwVV9ab0ZyakR3T2YtT3hPU1RmZmJKUmFUVUJ1a0ZEUXpfVl9LNDk5MF93VWwxTDV3WGVucnhkT013NHd3azJRbVlNT3VPeE1JZGhSekR5MXE3WlRBRUxiNmpOazhtdm1pUmVPaGtvSjJFRWJ6cGdRVnc?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T04:00:46Z",
+      "published_at_ist": "2026-11-08 09:30 IST",
+      "first_seen_utc": "2026-11-08T04:00:46Z",
+      "age_minutes": 4,
+      "trend_score": 13,
+      "rank_score": 0.8693,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -228,10 +281,551 @@
       "global_pop": true,
       "local_only": false,
       "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://hype.my/wp-content/uploads/2026/11/edit-12.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "d54b8a8195",
+      "key": "amosov-arabia-garry-headliner-ian-machado-saudi-set-ufc-yaroslav",
+      "headline": "Ian Machado Garry vs. Yaroslav Amosov set for UFC Saudi Arabia co-headliner",
+      "summary": "https://www.centraloregondaily.com/sports/ian-machado-garry-vs-yaroslav-amosov-set-for-ufc-saudi-arabia-co-headliner/Yaroslav Amosov is officially in the deep end of the UFC welterweight division.",
+      "sources": [
+        "MMANews.com",
+        "MMA Junkie",
+        "Central Oregon Daily",
+        "CBS Sports",
+        "Heavy.com"
+      ],
+      "article_urls": [
+        "https://www.centraloregondaily.com/sports/ian-machado-garry-vs-yaroslav-amosov-set-for-ufc-saudi-arabia-co-headliner/article_0022d65c-357d-59a7-b332-85df5b70ea32.html",
+        "https://www.mmanews.com/article/ufc-saudi-arabia-announced-december-5",
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/07/israel-adesanya-headlines-ufc-saudi-arabia-shara-magomedov/92279169007/",
+        "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LcDFDRDBidkNQajFBYk9NLURta1BjMGxGWnpfb3pwUGN5VE5lUkd2MTNiWURkT2N4ZVhSaU1XNVUwM0hpX0dCSmJzSG14MVN0YWc0bzRHTk9weFBmLV9DVWtSNUpvWmd5MjFRX0Z1TFUzckhFODQzcA?oc=5",
+        "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZkR6Q1FxczJ5YXY0U1FUVkZiOERvUlVZNVk1LXFUZGRFWV84Njg1TkRlWEMwTlhKdjVidEpNQlJ4cUxidXRaR1pmTHZsaW0zeVBoaExWdFAtWldWTzB6dENpdFNMclU1Z19WbE1MWWpGa1NZaGRvNWVjTHlMcG50azc4bmdTbXVoT1lBSi11YVFJZFBVcDk4RmtReXR0dnhrNjdPdGJyVnZWeVF2Y3BpMkZvdUVFTkdCMWVYbExqUVhFRTBVTnNQSlR3?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMWZZNFYtNkxwMVQ0bkppa2hhVlpjVGFrRjUwWExMLTBYTzdVak1rblp6X0VvU0tQS3ZQV19zOF9qUnVmdDNIMm1TSTFENGtuQTQ4LU9aRjVXNWt1WVJ6Umc1bEJja1RkVF9GVjhnNmt1UHlDS0ZhXzZ6UHJJOWVsUGlWNHdiU3Z0TWt5ZFVvdDAtdE9xTlNmcGNTRmphMW5Qa1ZvM09LQU5ZUjZMQ2dPbklPWWV6bGJsUFdOSEpUSkRGRHVzMmFFSGdfVV9DSzlXT3RiaWlRNTFWb0ZVbFRXbjNVSTZWbGpVSjBkNE9hNmxXSWFYRU42X3RB?oc=5",
+        "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWmt6RGx6cmwxMVJNZ0hGTDdKVnFQZ2dOdnUxTm11ZXQ2SVpreVNyZVhQQUdIZjE5N3RhVHNIMXBYd2Y1S2VjV1NtSDdqZjJrcXFpQTJ0aG5uRVpLVzBsV2tvOG9JZGRIMy1DR3FDNHdEcXZRUXpnTUI1OGRELV82SFl1cjBWc2xWeFdGcmU1YlFYS19kZlh6QmRvNllHVmlLWnpseXdPYnhKSUZ4eWc?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOb3BPVzFIS29BVXRKTzU1M0cwVGVfczVZRzliMGtESFJIT0hsN2phUzZualZqWU50VnpIZl9FZXREcmZQclFJbGIweHNWbEFqOWlpY2R5b0RxUlgyZm14NGtRVW9XeXU1WXJqVUw0LU9CQ1hpTjlWVVR5S3YtQk1aNXdOZWEwY25rVnc0UEptYVRsbmlGSjFobjR3a3hSdw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:58:31Z",
+      "published_at_ist": "2026-11-08 09:28 IST",
+      "first_seen_utc": "2026-11-08T03:32:00Z",
+      "age_minutes": 6,
+      "trend_score": 12,
+      "rank_score": 0.8558,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
       "other_headlines": [
-        "Bts Hoodie Bt21 - on Twitter Bts lockscreen Bts Foto bts"
+        "UFC Saudi Arabia Officially Announced for December 5",
+        "Israel Adesanya draws rising middleweight in UFC Saudi Arabia return",
+        "Israel Adesanya vs. Shara Magomedov, Ian Garry vs. Yaroslav Amosov set for UFC Fight Night in Saudi Arabia",
+        "Ian Machado Garry Takes On Division’s Dark Horse at UFC Saudi Arabia"
+      ],
+      "image_urls": [
+        "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/c/97/c974ad0b-6b9c-5be2-8c11-4590f68cf0b4/6aeff0d11679c.image.jpg?crop=800%2C420%2C0%2C25",
+        "https://bloximages.chicago2.vip.townnews.com/centraloregondaily.com/content/tncms/assets/v3/editorial/c/97/c974ad0b-6b9c-5be2-8c11-4590f68cf0b4/6aeff0d11679c.image.jpg?crop=800%2C420%2C0%2C25&resize=438%2C230&order=crop%2Cresize",
+        "https://media.mmanews.com/uploads/2026/11/image-14.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "851d58cd53",
+      "key": "asia-cup-india-pakistan-streaming-telecast-u19",
+      "headline": "India vs Pakistan Live Streaming, U19 Asia Cup 2026 Live Telecast: When And Where To Watch",
+      "summary": "https://www.mykhel.com/cricket/IND U19 vs PAK U19 Live Stream: Where and How to watch the U19 Asia Cup match between India and Pakistan? Check out the telecast, live streaming details of the marquee encounter here on MyKhel.",
+      "sources": [
+        "myKhel",
+        "NDTV Sports",
+        "India.com",
+        "https://www.cricketnews.com/",
+        "Sportstar",
+        "The Times of India"
+      ],
+      "article_urls": [
+        "https://sports.ndtv.com/cricket/india-vs-pakistan-live-streaming-u19-asia-cup-2026-live-telecast-when-and-where-to-watch-12297997",
+        "https://www.mykhel.com/cricket/ind-u19-vs-pak-u19-live-streaming-where-to-watch-india-vs-pakistan-in-u19-asia-cup-in-india-uk-us-458441.html",
+        "https://www.india.com/sports/cricket/india-u19-vs-pakistan-u19-asia-cup-2026-live-streaming-when-and-where-to-watch-aaryavir-sehwag-anvay-dravid-in-action-8543127/",
+        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUEJFQVFRWEo1akFBODNIUXRELXZ6MF9Rd2lhWEp0ZWJVVDdoanBHV0twRWF3OWxjM1FsOFotcnQ4V1V4bWFzcVpqeFBsRTFJWDFLZlhWNkZBOWVxTnNFbDhPWFk4aUhVenhUSnZxOFhaMmpVRjhlajJwZHdoZ1VwYUJDUndDZzh1QXMwcjAwT2FJVW8zaUtidTJnWWxyXzRhZ1J0Ykw5dmVBQmhxbGIwc2pHX1ZyUHZvNEFDTGNXeVU3OWtST2N0eHR6M2RfNTN2Nks0RHF1aw?oc=5",
+        "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXpTdmhQa05QaUpVWFRxQ2JjSVRkTXZQU1U1NDZ5YTNyQU9obW9aLU9Eb3hvV2xIRWtXcUpWM29KalduV21qZ0NkM0xaTDVDRVU5X0wwVHlQNVNYRzROdGpqSTB3OGV0dG5wTmxEQkpXaGVsOEdSTFNsZ21jblRjSnV6cFlGQTRfQ1M5Z2p5N0lKbkhJRnpjR1N6OG9SZHNNcVBpWWg3ZDZmX2hzQWpFUlAtd2ZNU0RfNDhJX05SaEhNdkJ5c3ZUZA?oc=5",
+        "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSWZjdzJVcVZUWHpmUVZKbXh2cGRKemFnWlQ2V3lHdGxFZ25lTEFGSjJ6YlJYRWo1THh0bmZVTDBvTUVDUVEzSVBfNG1tLXAyYkdnSWxkcHRYV3ZGMmJwR2NzX1J3d3ROb1JUNGpWQWtBZ2VfeV9xQ243MXFRU1IyNHIyVF95SGpjS3lHd1A5b1MyWnlKYUV1RU93bnU3WDhrd3hDc1J1TDZFanRkWERLUXlIUFhsVHo0ZktRZHdlX0Q2S1BYQVpiYUdfQkhGZDhrbEtyTDJRQjJXbldHZllQYXcyeElhaUJDcmotSmNLdzFsSk9CS0HSAfsBQVVfeXFMTm9hMHBUYmxldDJjcTN4REZJSUc0ZlpjSktEakxfRkM4MGhuY2xKcEtoSmVGRmtESnBZQnp2SnpaaVZjWEw0a2FRUGdwNk1ybVQ2bklFUUY0WVphSjNGMWRDaG1WcDNCMkFmeURrWERaQTl2OWJnalg2aTI0N2lleGRlSHIxM0NoQ245bzl3Q1h4TS1wUktIM2ZmRnNzTG0tUWxkMXdrVktlUkhaeUd6bzY4Z2RmanFhZGtqSDNEYmtZTjMtVXByMjJ6NFRqeGZmTV91bVlRS0czVHEyNlZQNHlEZlZhSDNEcjk5OGs0QmVma2hnZHRtWWdHUUE?oc=5",
+        "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSHJGMm5zZUkxOGZ5eEd6Wmlkc0tmelRBNDFzX3dhVU9OVS1WZ3FVWmk2eWVUYWhlVzhtOGVIMkVlU1Q5QVpkekJjbUNuVktJMHZveFE3UUtCUVdnMXpsNDRBaERkamxrLUdJNF9QZ0xicVNtS0pnWDNIUi1GNEZERmdzMEJvRTV0Y2Z6RjFBc0I1a2p3V2hXaXFCelFwaVNsNVVDMnM4N3JwcWRaemU4bW9mVTh3ME9FWEhGNDlVV0xyTU9zaHcyLXliN2N1MlpjcW9Wdw?oc=5",
+        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNUZlVUZRTVZQUm9hWmM0X19wQk10amNGMUVOMjV3QVZET1J6WWdQbjBZTzlrZFNsVjJnTlRQeW9rZmwwalMxV0tybzhSZWtVRkZyM01WTnRBbjhoc0xqaGo0T2VHNWQ5ZHg5c0tzdzNKanoxNHJfSGZiTUdlSTVsaXlyb2F3SU1SR1hJQWgzbWtrbE00cTNHVTlid012T2w5bUhRQ2NIWW9SWjZqNXNXY3lEbVhOcEs3S3hHd0JYdVlCRjh1WXFPVHVxdXdXQ055MkxadEd1R1lKaWRSa2ctMnZGeFlUNEJEYUl0NFdFVFTSAfcBQVVfeXFMTk15SGMydm1TS0taMzhkc0g3QWUyTVNrWHBwckNMTEtPMmNDSXJRdGZ2T2ZVcjJCUXB3V1BXRllfVnNpUU16UXlsWHZyNlhfRHU2NV9FdFV2ekcyaGJELS1DRk9ybjMyeU9ia2tzUF9YTm5FTXpPeDk0NlFNYmkxeTJXTUFRV002TTJYeWpfOWxhZHhXSGMyeFFXU0ZfdF9ZNXFlRm1PNm9RN1NUREVYbjFIZDRfQWVrLWZLWTAtcy1sc3dwSVlIcDFMLWhoTXdFM1JtbzhreGJkUUdZQ2Fad2VxNFlCdk1BV0xadDB4eHYzWDE0ZHdBcw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:45:00Z",
+      "published_at_ist": "2026-11-08 09:15 IST",
+      "first_seen_utc": "2026-11-07T23:30:00Z",
+      "age_minutes": 20,
+      "trend_score": 11,
+      "rank_score": 0.8313,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "IND U19 vs PAK U19 Live Streaming: Where to Watch India vs Pakistan in U19 Asia Cup in India, UK, USA and other Countries?",
+        "India U19 vs Pakistan U19, Asia Cup 2026 Live Streaming: When and where to watch Aaryavir Sehwag, Anvay Dravi",
+        "How to watch India vs Pakistan in ACC U19 Asia Cup 2026: Live streaming, TV channels, match details",
+        "India U-19 vs Pakistan U-19 LIVE streaming info: When, where to watch IND v PAK men’s U-19 Asia Cup"
+      ],
+      "image_urls": [
+        "https://images.mykhel.com/img/2026/11/ind-u19-vs-pak-u19-live-streaming-40901794109481.jpg",
+        "https://static.india.com/wp-content/uploads/2026/11/India-U19-vs-Pakistan-U19-live-streaming.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "b93c86d01f",
+      "key": "4-box-collection-office-ramayana",
+      "headline": "Ramayana Box Office Collection Day 4",
+      "summary": "https://www.sacnilk.com/quicknews/Ramayana Box Office Collection Day 4: ₹69.80 Cr net on Day 3; India net total ₹182.70 Cr after 3 days. Day 4 live updates, shows and occupancy.",
+      "sources": [
+        "Mid-Day",
+        "News9live",
+        "NDTV",
+        "Times Now",
+        "Sacnilk",
+        "The Times of India",
+        "IMDb"
+      ],
+      "article_urls": [
+        "https://www.sacnilk.com/quicknews/ramayana_part_1_2026_Box_Office_Collection_Day_4",
+        "https://www.mid-day.com/entertainment/bollywood-news/article/ramayana-box-office-ranbir-kapoor-film-witnesses-a-45-per-cent-jump-on-day-3-23659035",
+        "https://www.news9live.com/entertainment/bollywood/ramayana-box-office-collection-day-3-ranbir-kapoor-sai-pallavi-yash-film-bounces-back-3022784",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUxKeUQ5aDh3WWFqV3dIbVFSaHJjdzhrNDR6Ni1CMHZPT01Qejl1eVc2TmQtMm1fLXVGRzI0dlVIaDVjZDJlcldYMHRpNjBuVERkQzJKTDhuQzU1YjkyM1ZaT1lRM1ZocENzM1MyU3B4WU5PX3ZXeUFRMkFTcURHWXZkc3ItM244cEd5UzZlUEU1bkpETnBJWThHY29jY0t0eEl5VUd6MXUtNVQ2UGt1UDlHTFpsMGxIMzl5OU9BaERVdm1sUWRYcFBFOVpTcV9vTHc0eUlodC04QzB6b0hB?oc=5",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMUVtOS1RX2s0WWV2NkRnM01wV3VoWFdya0pmYXlUNnVRLTVpd1NCaV95azZaRlN6aFh3VktCLVFnUDczay1IMTltWE1HZjNuTVZUUnFDQUVENVZOM0g2YTJpaGd3OVRKMUxud2FvZ0htVk1SZnFtNzMxa1FfMTY5TlZsa08wbmVtbllIdEVNcWVtbFVmWlBaeHJyc3k2RmFRREpNbElPbmpFMlZwVE83TXZnU2ltTnVONGlwQWdKNGp5SnBzYkd2aVRkbWs3VW1uN0FYTmhvOGh3X2_SAeABQVVfeXFMTTVTc1poRFoxSHdGcm5kNEl2NDN0cFk3S0pTX0hITVRMR3lLOVNjMHJfRDd2UjE2RUhVY0VPMHBUb3lIdFFyWlpCQmw5cHJJb3Jha09LV1ZucllncWdMMkRSbTYyM2JSWkdVZXZDaGRrRDR1U1pXelFmeXFsZ2RDb3RfUVRHVWxyYlVNbnd6RjFaenZQMFNjdnZJdGtISmRPWE1ZSzMxSGhaUjBiV0VpYzU1RXRYQnNRUmZEY2NEenNIc0RFVnd3TGFjbXpoSVZrUVhyLVNfaTZma1BtWl9nSi0?oc=5",
+        "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY3dPM3I4eG1GMDBRV0ZxUk5MdkFJYS1IaDRwUWstUXdSeUp3Z2R2MmZSckhxbS1YWVJrRGZWSDdmTWtSWFgtQVNjMFBETzZ5QWNjcG1yQjZvN3FtaUxMcUVhMjVhMnBCZ240ekRyNXAwNmJRbmdCQlh3RFczejZCaV8zMGFBV0dPcVBIZF9YSjQxRDh1dEVBZWxfellmSUo5eU5Cb0d3RnhDUGVxY1JTTENqcDBodWVCN3V4aE5uRWhDU28zbkdZU3dDRGloYjltbnQ1a1ZvemItUmJYWFhydmYwbHF4NUkybmxJS0VrZld6ek1jUTRBVUhR?oc=5",
+        "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNd2ZvMF95N0tmSzNzeUc3MUliSC1yVTZOb3R3X3haVllFQlNFN2lGYnd3T2dWdS1tUTlRLTBKX0x0WkJFLWhxcndJNHZHUHp3VXNJZzh5RDBZdFlVV0tMX0YxcEVSMmtrUnk0REZPMkhIYVpKZVU0RTJzdzl3eFB1bF9uOHZYYjRXWV8tcHNOOTFleHEzUmJlTFZwRUoybWRZZVFnQWlXZGFOdk1SRVlXZ2dvS1E0a3F6LTExMlZqYk5ENTROM0R4ZVhIWUFpRVZ4MkFMOG8zV05BcXlOeG96dFdfQmpYWDV1WDJkZUczck1TZktXZFc4aUZzX1FuOURwc0ZHMTNLMTQ?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTThMSk9ZOU15TF9FdVQzcTJibGVSZm9ZWm9TU0dEZ3JlYlRieFFrSDE3eU9DaEFxRTVyUlZ2WHVPZXdjZ3JzOHhRZnc1eWlra0lwZ0ZVejVkZ19Sc3ZxSjJwWkhYMW5hX3psQ3YzYlZYaWxJOS1ic21Ib2JIQ2ZaVVk0Q2dlZmM3Wmc?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:35:00Z",
+      "published_at_ist": "2026-11-08 09:05 IST",
+      "first_seen_utc": "2026-11-07T19:23:00Z",
+      "age_minutes": 30,
+      "trend_score": 11,
+      "rank_score": 0.823,
+      "category": "celebrity_music",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Ramayana box office: Ranbir Kapoor's film witnesses a 45 per cent jump on day 3",
+        "Ramayana Box Office Collection Day 3: Ranbir Kapoor, Sai Pallavi and Yash film bounces back after day two dip with Rs 69.80 cr",
+        "Ramayana Box Office Collection Day 3: Ranbir Kapoor-Sai Pallavi Film Earns More Than Opening Day With Rs 182 Crore In India",
+        "Ramayana Worldwide Box Office Collection Day 3: Ranbir, Yash Epic Set To Enter Rs 400 Crore Club"
+      ],
+      "image_urls": [
+        "https://cdn.sacnilk.com/image/news/1000028339.jpg",
+        "https://images.mid-day.com/images/images/2026/nov/WhatsApp_Image_2026-04-02_at_1001_1794108170006_d.jpg",
+        "https://images.news9live.com/wp-content/uploads/2026/11/Ramayana-box-office.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "dc115fe28d",
+      "key": "bat-fan-goes-happen-kohli-next-plastic-throw-viral-virat",
+      "headline": "Watch: Fan Throws Plastic Bat At Virat Kohli. What Happens Next Goes Viral",
+      "summary": "",
+      "sources": [
+        "News18",
+        "NDTV Sports"
+      ],
+      "article_urls": [
+        "https://sports.ndtv.com/new-zealand-vs-india-2026-27/viral-video-virat-kohlis-on-field-response-as-fan-throws-plastic-bat-towards-him-12296726",
+        "https://www.news18.com/cricket/virat-kohli-gives-priceless-reaction-after-fan-throws-plastic-bat-onto-field-video-goes-viral-ws-t-10417261.html",
+        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnpEeDVaY05BblowOTBHRUVYdUk5YWR3ZXpQM1NSU2N3d2J0aVlnRnpaX2FaNy1DR1A1TDdjdHp4S2V0X2R3T0EyZU9EaUhzZFhTelFfakhZbm5HbGRvYkVlOU5YaFJ6SUFhaXNGSjEwNnN0X01saURmZ25MQ0RGaEdHQ0I5eC1tMGQtYW1uNFpEWWpFWTA5MnhwdnhpZ25NRUtCQmVxMWYwNTV6WlF1LTVKN19WMVVKeFpvRHh5QTJ5STRvNC04OEY2ZDlaNnlleWZHQzcwMWR6TE3SAeABQVVfeXFMUDFXdEV2cTJCWm1xTVdyTU1YeUhoU0p2WTJtdDRWRVpBdHlsYUY1M0pzZEhFUi1Idk5fbkt2WjVPUlgwUlVZYVk3bW50UWJuX0h4NUM5YmlFby1jcGg3b0VBMkNDNEZORGh2eDFZNnprLTZRV19iNGhJYUlXUGlhVnBtMU1UMTNLNjBGMWNXNVJLc3IxQkJGQlpudDJUZWVyUE1NYXB1R0Z5cGpUa1BxRk00ZzZTaktnaG4zWGdHRFNlZjVMUjJoblUyQVpGWWpJRGRxLVZELXNwczl2Tmp0Rmg?oc=5",
+        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2l5T0hrTllKTTZxaUVrMHdBT1FxS2EweHFkLUk4V0l0UUtJZ2lLRTV5SGNFTXBiZFozM0kzb1B2NVN3WXZ4MlpYTVRiclJtNjAtbmZXSUw3TDQtQ1ZQMENEQUliUFh3VlJGenN3UEpXSjJuUkRhSVdoUmFxanFPNU9YQm9TdDdZTWtSWGgyYVFIV2ZzRDNNeTgzeVJSWXdyemxxd2djNUFSOXlmRV9tSnd0WjZEZWlwTldMRld4QzRjRGJfNjRWYXJ5cDFrczNHVjlWcExvRHllUQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T02:40:54Z",
+      "published_at_ist": "2026-11-08 08:10 IST",
+      "first_seen_utc": "2026-11-08T00:44:42Z",
+      "age_minutes": 84,
+      "trend_score": 12,
+      "rank_score": 0.8208,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Virat Kohli"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips",
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": true,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Virat Kohli Gives Priceless Reaction After Fan Throws Plastic Bat Onto Field, Video Goes Viral"
       ],
       "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "17909bf29b",
+      "key": "abilitie-arena-explain-gilbert-goat-jame-johnson-lebron-magic-rank-‘-’",
+      "headline": "‘You said he was Magic Johnson with MJ’s abilities’ - Gilbert Arenas explains why he ranks LeBron James as the GOAT",
+      "summary": "",
+      "sources": [
+        "Athlon Sports"
+      ],
+      "article_urls": [
+        "https://athlonsports.com/nba/you-said-he-was-magic-johnson-with-mjs-abilities-gilbert-arenas-explains-why-he-ranks-lebron-james-as-the-goat",
+        "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXJFem5JZTJxMEJiVWNuTnZ4SFpMcXVTbklRTUlDRDMwRm50S2lqQU9TWS1TaWlTYmE2b1NvSW05UGFSMFVNZEdmbGFaSkFfYUl6YTVETXJkYVBqblFWNGYtbE91UV9sb1Rxa3I0dXV0NG1zSWU5Zkh4bHBZb0F6aFZWempHRkE5THlWNC05a0pORWc5TjhYRWg3OXBQcTRXdzBRRjA2VDN6RkZDV0ZkWnFhMEhsRFZsdzJfRXhDLVVuQk4wVnVpei16d05lM3hiS3BuWWtn?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T04:00:00Z",
+      "published_at_ist": "2026-11-08 09:30 IST",
+      "first_seen_utc": "2026-11-08T04:00:00Z",
+      "age_minutes": 5,
+      "trend_score": 7,
+      "rank_score": 0.8089,
+      "category": "famous_clip",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "LeBron James"
+      ],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Famous people clips"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "902d7dc0b9",
+      "key": "abruptly-concert-diana-dior-due-ending-gaga-lady-lightning-miami-share-storm",
+      "headline": "Lady Diana Lady Dior - Lady GaGa Shares Tearful Video After Abruptly Ending Miami Concert Due to Lightning Storm",
+      "summary": "",
+      "sources": [
+        "www.auroradesio.it"
+      ],
+      "article_urls": [
+        "https://auroradesio.it/top/249511332/",
+        "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6djdTdWJTYndGU3VYVjdmNGZ0V25FZ0J1akJ5VC1maWwxLUlNR2dQNnFtM0JMR1pMZFY3VFU4TndPbTQzdU1qTEhDX3FSY2E0MS0w?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T02:41:40Z",
+      "published_at_ist": "2026-11-08 08:11 IST",
+      "first_seen_utc": "2026-11-08T02:41:40Z",
+      "age_minutes": 83,
+      "trend_score": 11,
+      "rank_score": 0.8088,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Lady Gaga"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "9e71b7d8e0",
+      "key": "deal-future-grand-historic-prix-secure-until-venue",
+      "headline": "F1 secures historic Grand Prix venue's future with a deal until 2035",
+      "summary": "https://www.gpblog.com/en/breaking-news/Formula 1 will continue racing at Interlagos until at least 2035 after agreeing a five-year extension for the São Paulo Grand Prix. The deal secures the long-term future of one of the sport’s most pop...",
+      "sources": [
+        "GPblog"
+      ],
+      "article_urls": [
+        "https://www.gpblog.com/en/breaking-news/f1-agrees-new-deal-as-popular-grand-prix-stays-until-2035",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxOTHB1RVZXUmxiNW1KZ091bHFGaHI1V1Z3NXA5LVhYdkVoZjZhTEx4R3NtWUhUUVZEd2lnQU9NMTNKRDlwTEI0SmRVR2s5YnIzQk5EaGZiZmI2ZnZ2alhCaHUzVTdUTE41RFdJWGd1UW1UU3NNbGl4LVN5LTQ1YzdaWlY2b05MUjVxNWQyM1ZWbGxHUHVNRlRWMVVPYmJNQQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T02:33:08Z",
+      "published_at_ist": "2026-11-08 08:03 IST",
+      "first_seen_utc": "2026-11-08T02:33:08Z",
+      "age_minutes": 92,
+      "trend_score": 11,
+      "rank_score": 0.7713,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-03%2Fsi201705290925-69b9538aa00a2.jpg",
+        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:675/plain/https://s3-newsifier.ams3.digitaloceanspaces.com/gpblog.com/images/2026-03/si201705290925-69b9538aa00a2.jpg@webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "511e9f021e",
+      "key": "brazilian-grand-grid-prix-starting",
+      "headline": "2026 F1 Brazilian Grand Prix starting grid",
+      "summary": "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/Lando Norris took pole position after qualifying for the 2026 Formula 1 Brazilian Grand Prix. Discover the provisional starting grid, pending its final validation by the FIA",
+      "sources": [
+        "Yahoo Sports",
+        "Motorsport.com"
+      ],
+      "article_urls": [
+        "https://www.motorsport.com/f1/news/2026-f1-brazilian-grand-prix-starting-grid/10872725/",
+        "https://sports.yahoo.com/articles/f1-free-live-streams-watch-020002290.html",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMHZ6TmlpZ0Fpc3J1SzVON1BlSk13Z0Q0M0JadVRUanRiR3NENEVweFdmUmNwVUY4NWdfeFVCbXZtQXpvbXVHVTlmckd6TjF1WjRzNFNJdDhJbFFWTEpLSzdGN1VZOXV2NHVvOXkxNXlCMzBOTEZJazhuOFkwTDJONA?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZW1pTlg2SWV6TFEtR1hXVWZMMkR1X1N0ZGQzbnhVS2NjSV9lcnBRekJSajFZamtSYkpvdVpHOThrNDNfMXdDZmp5VmJ5T3k3SVFkUUpXSVB5UnBBOHpQcFpIZVBPbG8wUmtFaldiODBqSFU4REdzRVRiaXFYTm5ycGNXRmNjdG1OY1ZqZXRTNTQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T02:10:44Z",
+      "published_at_ist": "2026-11-08 07:40 IST",
+      "first_seen_utc": "2026-11-07T21:02:54Z",
+      "age_minutes": 114,
+      "trend_score": 12,
+      "rank_score": 0.7658,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "F1 free live streams: How to watch Formula 1 2026 Brazilian Grand Prix without cable"
+      ],
+      "image_urls": [
+        "https://cdn-1.motorsport.com/images/amp/YE9EVMwY/s6/lando-norris-mclaren-2.jpg",
+        "https://s.yimg.com/lo/mysterio/api/c40fe164f053bc9b3bfab6cc36b5327bd6ad8e4fdac311aac64a543c2c0c9ba0/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_sporting_news_articles_584%2Fe9e555521b2e2ed9ed21320c92375151"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "6984dc1feb",
+      "key": "30-crash-fog-injured-m20-maidstone-near-seriously-two-vehicle",
+      "headline": "Two seriously injured in 30-vehicle crash in fog on the M20 near Maidstone",
+      "summary": "",
+      "sources": [
+        "Sky News",
+        "Kent Police",
+        "The Telegraph",
+        "Kent Online",
+        "ITVX"
+      ],
+      "article_urls": [
+        "https://news.sky.com/story/two-seriously-injured-in-30-vehicle-crash-in-fog-on-the-m20-near-maidstone-13609605",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcFhJX044RmVRMk9uV0Z5eVYwbWo2WF9SUFlPWFQwNmFBZWlwLXBDSW1KVjVlYUY1YnBwaEpySU5XU3FRSHFoakF5cW91ZVhreS1Gc2Y1MzVpZld0OFhNMTJWZ0QxdFhrblFsVzlIQTVOOGZSeEZYaXRUbVdINGEweE14WmVhal84ZEFtRGpBUzVsXzRBUkFvVkZlenlGMlRyaXZhSTdDZkV4eV8weDZ3?oc=5",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYzMyX0VDZW44NXdnTVdfNlkxZlR1SGppRXVpanYwcG54VklyVnIxUktNVHpVMGtjeUFlcnNJQUhiN3Vrczh6d2s2Q3ZBN0cxVTFvQ0U0QloyRU1sbC11N2dPRkwtR2cyeTFEallYM0F5ck9nSmhEOW9fV2NDU2RETnpEVHBiMFByS3A5cDkzMENrc1pQTFdDdlFZWE83amhteTU0OW83NDZrU2lNaV9tbUd2UVdXUQ?oc=5",
+        "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeS04ZFl6eWdla2ZrSF90a1FQVmkxc1hUNlEtUmpJamR6ZkI1cXBmUHRqeTItQ3pHR0stSjhQMmlSd0RqbWhDU2w5UVFwcVdmd0FfdlNfakJIWFAwMDlOcmFQUGNwVzEtSGswVW8xSTVGQWhBSVI1V2dSYjhoMFViWTdJQVJ0Znk1cVNSOE1jR1Y?oc=5",
+        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenY4blVlVUxPbG40d1RDMVJkQjl3Z0hfNk93UDlpLUtjMXJUdlJOeE9JMTFHMzg5d0xYeVM1T1FmbTNhdWc5SUNrdjljT2tfdS1NSnVMVW9RaGhmanFRaTlwQ0lVTWY1T3VyeXNQM2sxeFJ4T0FMajNkXzNmdVU1eThNaFhmSE9YTkk2RlUta0dNM3RDRktQZnkzWUpQcHJqbkVQTkdyTUhHYjg?oc=5",
+        "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUllDMm5VSC12YU9qWHAtT0NTTnQxRlVvZnhLeC1WZEFZVkJBYi10LUxmd21JLURacHFTUmh1SFRYSGdhWnBqZGtESFBIWDE0N2NOenhDSVBoa2t3N2NVYTdlUy1MOWV2M1NoWFhaaEFOM1A1RXZUX2VHUzRGZG9rQzNObDU2ZWVoVmhRNHE1VmVqREFnWWE1STZjaDlSdF9Na0NwVzA0bTRmSFlabThadWVRaw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:39:44Z",
+      "published_at_ist": "2026-11-08 09:09 IST",
+      "first_seen_utc": "2026-11-08T03:39:44Z",
+      "age_minutes": 25,
+      "trend_score": 6,
+      "rank_score": 0.7408,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "32883f7500",
+      "key": "claim-coin-ecx-fork-protection-replay-sell",
+      "headline": "ECX fork: claim and sell the coins with replay protection",
+      "summary": "https://cryptoticker.io/en/ecx-fork-claim-and-sell-coins-replay-protection/Claiming and selling ECX: how to split the fork coins from your bitcoin with replay protection, which wallets help, where ECX trades and how it is taxed.",
+      "sources": [
+        "CryptoTicker.io"
+      ],
+      "article_urls": [
+        "https://cryptoticker.io/en/ecx-fork-claim-and-sell-coins-replay-protection/",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNzg4TUluNTZLcjV6emdYRkFYRjlTeFZhcmlPTmJGT0RzbzlVcUFXQzRXNk11MGI1N2ZOTGNob29fM3Q0MU5xSGdxMXRxN0pxVjNIY0dRY1lfU213NVNXTVhiaXdQY2l6MUE5ME1KSjVxT1g3bGk4LUVhWmpqc1hBdw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:22:12Z",
+      "published_at_ist": "2026-11-08 08:52 IST",
+      "first_seen_utc": "2026-11-08T03:22:12Z",
+      "age_minutes": 43,
+      "trend_score": 6,
+      "rank_score": 0.7258,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://d2jq4jjbn1fq59.cloudfront.net/ecx_coins_abholen_verkaufen_225bcba968.webp"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "b9f9897340",
+      "key": "46-81-front-institutional-plunge-pressure-reveal",
+      "headline": "FRONT’s 46.81% Plunge Reveals Institutional Pressure",
+      "summary": "https://coinfomania.com/fronts-46-81-plunge-reveals-institutional-pressure/FRONT price drops 46.81% in one hour as market sentiment shifts. Here's what traders need to know.",
+      "sources": [
+        "Coinfomania"
+      ],
+      "article_urls": [
+        "https://coinfomania.com/fronts-46-81-plunge-reveals-institutional-pressure/",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSUNEd2dkOWx1aWRGQ0kyVGZCNDZGTnNPM19OaUtURG91QkdoUU1qVVRWNjA1RGZSMkd1bF9ldWZvemZxaFI0SG9YZ3h1Mno0bTdNT1FBOGpDQTRPMHM3ZmFLdVhOYnhXdEFkZS1RaG1NWVUteHVHdzZRR18zcGlORg?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T03:17:49Z",
+      "published_at_ist": "2026-11-08 08:47 IST",
+      "first_seen_utc": "2026-11-08T03:17:49Z",
+      "age_minutes": 47,
+      "trend_score": 6,
+      "rank_score": 0.7225,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Crypto"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://coinfomania.com/wp-content/uploads/cover-front-1794107823407.webp"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
@@ -251,9 +845,9 @@
       "published_at_utc": "2026-11-08T01:07:39Z",
       "published_at_ist": "2026-11-08 06:37 IST",
       "first_seen_utc": "2026-11-08T01:07:39Z",
-      "age_minutes": 57,
+      "age_minutes": 177,
       "trend_score": 10,
-      "rank_score": 0.8166,
+      "rank_score": 0.7166,
       "category": "famous_clip",
       "section": "entertainment",
       "source_type": "news",
@@ -277,508 +871,127 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://scontent-iad6-1.xx.fbcdn.net/v/t51.71878-15/881047910_982036531120960_5177426757041368152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a27664&_nc_ohc=XQUyjZIBeAQQ7kNvwH24j2G&_nc_oc=AdpYz-W5VCJvKRC12Fxf98eqyKjsuFLm2_1Vxme_gpy9CEqMtfGziMlPxbxzBX4W-Zw&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&_nc_gid=LUXaJBJeDijOP4bF_HEicg&_nc_ss=7020f&oh=00_AQQpyFJPH53bsh5QuZzJcvRmyThRuOuvMyINFAExO9Dy6w&oe=6AF59C24"
+        "https://scontent-sjc6-1.xx.fbcdn.net/v/t51.71878-15/881047910_982036531120960_5177426757041368152_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a27664&_nc_ohc=XQUyjZIBeAQQ7kNvwHeaIcV&_nc_oc=AdqZAkfcxX2hLcA8D4knq3GM1CpxJVghjL1KdtwdXHapmzAagCpGzHGtUk80M9ZuqFk&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&_nc_gid=RDu8nqxUB6rYYiRCjsk7tg&_nc_ss=7020f&oh=00_AQQ2bYIrj5id4WNoCCLZlsuVTfmeVA656a49pGjw-qtvaw&oe=6AF5D464"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "f254d762d3",
-      "key": "clip-diversity-filmmaker-instagram-khan-kidwai-react-removed-rukh-shah-yasmin",
-      "headline": "Shah Rukh Khan's clip about diversity removed from Instagram; filmmaker Yasmin Kidwai reacts",
-      "summary": "https://www.mid-day.com/entertainment/bollywood-news/article/Filmmaker Yasmin Kidwai questions Meta after Instagram removes a clip of Shah Rukh Khan speaking about India’s diversity in her documentary Filmisthaan",
+      "id": "5d688d73d3",
+      "key": "bull-case-change-flex-following-guidance-learn-raised-revenue",
+      "headline": "Learn Why The Bull Case For Flex (FLEX) Could Change Following Raised Revenue Guidance",
+      "summary": "https://simplywall.st/stocks/us/tech/nasdaq-flex/flex/news/Flex Ltd. reported second quarter sales of US$8.491b and net income of US$263m, with diluted EPS from continuing operations at US$0.70. The company also reported higher figures for the first half of fiscal 2027 compared with the same period a year earlier.The company raised its full year fiscal 2027 net sales outlook to a range of US$34.9b",
       "sources": [
-        "Mid-Day"
+        "Simply Wall St"
       ],
       "article_urls": [
-        "https://www.mid-day.com/entertainment/bollywood-news/article/shah-rukh-khan-clip-about-diversity-removed-from-instagram-filmmaker-yasmin-kidwai-reacts-23659000",
-        "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTlVHTmthcEloQktRMVBrS3lORlNDWkF1ZUhocC1NUFU0em4tc3RxSm5zWUpvUnpsYmFwR2M0aFBvZTZiLXUtMjBpMG1BTDdCdy0yb0R6UXo3U1dGS21GRWlENk1VR0dwTUNFQmlMSEwyeG96MTd4YUVSYmtWZjF2TkswMjBGLUo3UFcxMjFQRDljYTIxVVkxclpQRVA0V0JLMDRuTkQycVpnZDFLWFVuMGtveWxYTmk3UjZDV0ZYclZ1OXJSemdWNFc1enhZX3A4Q1YwY2ZqcHA5ZW5rdURiNzdzdDR2WnBpdHRWdnM0QTU?oc=5"
+        "https://simplywall.st/stocks/us/tech/nasdaq-flex/flex/news/learn-why-the-bull-case-for-flex-flex-could-change-following",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVGNhR1VxQS1BMFE2TjZFa1B2T0pGTkNzZjRTYmJHMU5lb0VvZ1hhNUswTmdRZE9fSjVhZGRHczhjbXNXdkltd1ZLS0xYTWZpRlFhaHhmTnBSS2R4ajluM1VVNzhHNFRINmJDc3BJYTlsbTdCNlQzbG1RSjc1eTNBZmc1bFpUc2E2T3l5VHd4al9MN2VSRlNrTnFmS0V4azJjTkIyX3N3THFBaFEyT2ZJM1ZManY0MDJsVUc40gHAAUFVX3lxTE9tN1JOaTBOdTJOMnRENVpCbjVsTmdyZ1VCazlkVmlZMWlDQW9Dck90MFpYOFBOMUUtZk9sNkgyVEs0SDMwMlJXOFlGQ1Jybk5uR0tqWlc4WkRYRF96MnllQUpDSjdRaXYxR2lOalFmVlNLRzF0alRlVVZWOXhRNmpZMGtETlpQeDlNVEJ0ZEJSRHRiX1VpbWVqelJvSkkxRnlMYUpqeFhna3BnQnRNVzUwRjB4UXJGbkxNWkc3RWd5Uw?oc=5"
       ],
-      "published_at_utc": "2026-11-08T02:00:00Z",
-      "published_at_ist": "2026-11-08 07:30 IST",
-      "first_seen_utc": "2026-11-08T02:00:00Z",
-      "age_minutes": 5,
-      "trend_score": 7,
-      "rank_score": 0.8089,
-      "category": "famous_clip",
+      "published_at_utc": "2026-11-08T03:28:43Z",
+      "published_at_ist": "2026-11-08 08:58 IST",
+      "first_seen_utc": "2026-11-08T03:28:43Z",
+      "age_minutes": 36,
+      "trend_score": 5,
+      "rank_score": 0.707,
+      "category": "other",
       "section": "top",
       "source_type": "news",
-      "famous_names": [
-        "Shah Rukh Khan"
-      ],
+      "famous_names": [],
       "region": [
-        "IN"
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music",
-        "Famous people clips"
+        "AI tools & agents"
       ],
       "google_trends": [],
-      "india_topic": true,
+      "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://images.mid-day.com/images/images/2026/nov/shah-yasmin_1794092951085_d.jpg"
+        "https://images.simplywall.st/asset/industry/8132000-choice2-card/1788963793190?w=1600&h=900&fit=cover"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "d5951b936e",
-      "key": "10-334-bantamweight-card-ciryl-clash-fight-gane-hokit-josh-octagon-save",
-      "headline": "UFC 334: 10-fight octagon veteran saves bantamweight clash on Ciryl Gane vs. Josh Hokit fight card",
-      "summary": "https://bloodyelbow.com/2026/11/07/ciryl-gane-reacts-to-josh-hokit-getting-a-title-shot-before-alexander-volkov-hows-this-possible/'Bon Gamin' acknowledged that his 2024 win over Alexander Volkov was \"practically a draw\"",
+      "id": "7382bb228f",
+      "key": "000-23-buyer-epic-good-megascan-open-quixel-recent-refund-scan",
+      "headline": "Epic Opens 23,000 Quixel Scans for Good, with Refunds for Recent Megascans Buyers",
+      "summary": "https://freeyork.org/digital-art/quixel-megascans-free/Quixel Megascans free: Epic is opening around 23,000 scanned assets for good and refunding recent Megascans buyers. Here is what it means for artists.",
       "sources": [
-        "MMA Fighting"
+        "freeyork"
       ],
       "article_urls": [
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/06/ufc-334-stipe-miocic-josh-hokit-persona-over-the-top/92638711007/",
-        "https://bloodyelbow.com/2026/11/07/ciryl-gane-reacts-to-josh-hokit-getting-a-title-shot-before-alexander-volkov-hows-this-possible/",
-        "https://sports.yahoo.com/articles/kamaru-usman-ciryl-gane-most-004024561.html",
-        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc1h6OUprVmVjTHdEcWI3a1FmVWpsR3gwTWI0X2lRMXlERDdxQVB0UDluNG9hY2FwM1A5NUJzS0FMdDhweTZNTW1yVXk3ZERuenJ5SlVWY3FySWlYOEpna0hDNzN5YkFwdGx2UnN6ejJRQS0wV1FDSlI3NV9lUlc3aHRWOWRyVzlJcnZqa08wM2lHQXJBSU1WUF9UaVVwS21sX0dkV3hBUmtoamFDTDRodzlieDhtb29HYWg4YUhjUTR5UE1WSF9BQUNQSEUxN3U5?oc=5"
+        "https://freeyork.org/digital-art/quixel-megascans-free/",
+        "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kWlpBNldGVm5hTjR4Y2hKWVh2YzBnSFl4eUFaWVhDNEtzVjFrS3FGdzlKcFZGbmtnWGIyMXpqLWljSWFIbm1yWDJmWVdpMTVTUGJJQXZuRXVjT3ZPbHJXUFJQQ25nZw?oc=5"
       ],
-      "published_at_utc": "2026-11-07T21:00:17Z",
-      "published_at_ist": "2026-11-08 02:30 IST",
-      "first_seen_utc": "2026-11-07T21:00:17Z",
-      "age_minutes": 305,
-      "trend_score": 13,
-      "rank_score": 0.8041,
-      "category": "celebrity_music",
-      "section": "entertainment",
+      "published_at_utc": "2026-11-08T02:28:18Z",
+      "published_at_ist": "2026-11-08 07:58 IST",
+      "first_seen_utc": "2026-11-08T02:28:18Z",
+      "age_minutes": 97,
+      "trend_score": 5,
+      "rank_score": 0.6561,
+      "category": "other",
+      "section": "top",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [
-        "josh hokit (US 500+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://cdn1.bloodyelbow.com/uploads/1/2024/12/GettyImages-2188809546-scaled.jpg",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpoTrfEAThaUkCcOyq_w6uzfqhc_9Ni57M8UKcv5z-1_0MxdcPcQwtGkEGejA",
-        "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUJXATVy1w_aGxGFo0wqPDiCWli6ecRyREjA-3txcab6ZvJJvUXAvGoOCifsA",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0QfWkyAc7RvAH0Mxf3y35przx1HWNP_vUf4pbGrNPPzg3JBpcvgtqD1-kZtk"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/watch?v=CpQR9QB9MHA"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "a5d035c94c",
-      "key": "angele-dollar-eyes-grow-hamilton-kardashian-kim-lewi-los-mansion-multimillion-romance",
-      "headline": "Lewis Hamilton eyes multimillion-dollar Los Angeles mansion as romance with Kim Kardashian grows stronger",
-      "summary": "https://timesofindia.indiatimes.com/sports/international-sports/lewis-hamilton-eyes-multimillion-dollar-los-angeles-mansion-as-romance-with-kim-kardashian-grows-stronger/articleshow/Lewis Hamilton appears ready to bring his romance with Kim Kardashian closer to home. The seven-time Formula One world champion is reportedly searching for a luxury property in Los Angeles, where the reality television",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/sports/international-sports/lewis-hamilton-eyes-multimillion-dollar-los-angeles-mansion-as-romance-with-kim-kardashian-grows-stronger/articleshow/135639389.cms",
-        "https://news.google.com/rss/articles/CBMioAJBVV95cUxORUNhM0hIc0hPbXhJQWdTaUdtX2E3eHR1RUEzNEk4V2tYdmM2VFd0Zjc3U19KM0dLOUtNWFRRcmV4eldnVzktbHMyZ2RmU0hieXhScmlWeVRZU0F5cWpCYjRvNmpDMWpFM2U4b0NlLVJKVEpoZElOejZ1VGQ1UUtEb0wtTVlWU3dPaWpINEEzVFpDS054dlFZdUVVaW4wMVp2M0FHaGhkZy05NHlhVEdIdzduM1M5TjF1MVQxVzMzakFZalNDTEJXbW0wNjBXdHRoamt4cE1QZkI0Szc1VVhQWFppUEp0WU1xbFZaLWk2ZklLUTNxTW82aWUtakpXbEY1X0FULXZMeVNVNGlhMEYzZkEtRGpnc2pCZGpqalFjOVLSAaYCQVVfeXFMTV8tWU5jS0RBSVpBX3VoSV9wTC1jbDJocnBfVXlSNHNTakFDZ24zUzlFQk1pZVVyR0dHU0RKUnpOdVgwbzJDVWNVWThHQkZYTjVrUWZHTEFsdjlSbGJCeVV1aC1iLWtrTkRELXlLUFR6a3hGbXVzSVVpTDlkd3JOR3BrRVVILW5ZUHI0dWxidWl2bGUwdGR5dFhFQzNpMWl2bVg3UDlwRV81ZjVQUVk1MFpkU0hsN2E4ZlhFdUp0X3JXdTUtRjNFaXMwZGRsbERzRjlfakFRU1NZUjJreGVIWm9DSTAyU0xpeVpBeDRfNG5oY0QtM3F4YnBLN2xhRVNjWWVucS13MUpWSUtVOU9XRDRCQkRfbmF1VVktdWV4LUM4RGJDTkZ3?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:32:00Z",
-      "published_at_ist": "2026-11-08 06:02 IST",
-      "first_seen_utc": "2026-11-08T00:32:00Z",
-      "age_minutes": 93,
-      "trend_score": 11,
-      "rank_score": 0.8005,
-      "category": "sports",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Lewis Hamilton",
-        "Kim Kardashian"
-      ],
-      "region": [
-        "GB",
-        "US"
+        "IN"
       ],
       "language": "en",
       "priority_queries": [
-        "F1"
+        "AI tools & agents"
       ],
       "google_trends": [],
       "india_topic": false,
-      "global_pop": true,
+      "global_pop": false,
       "local_only": false,
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://static.toiimg.com/thumb/msid-135639400,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+        "https://freeyorkk.b-cdn.net/wp-content/uploads/2026/11/quixel-megascans-free-freeyork-1.jpg"
       ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "10caada9fe",
-      "key": "124-avoid-draw-finish-late-petersen-thoma-tko-ufc-vega",
-      "headline": "UFC Vegas 124 video: Thomas Petersen avoids draw with late TKO finish",
-      "summary": "https://sports.yahoo.com/articles/Debuting Gabriel Lorenco nearly finished Thomas Petersen early, but \"The Train\" couldn't be stopped.",
+      "id": "9d804da4c9",
+      "key": "ambani-apartment-bash-buy-cost-dazzling-diamond-diwali-dollar-earring-expert-jewel",
+      "headline": "Nita Ambani's diamond earrings could buy you a luxury apartment! Jewellery expert reveals why her dazzling jewels worn at Manish Malhotra's Diwali bash could cost millions of dollars",
+      "summary": "https://www.etnownews.com/et-now-luxe/Nita Ambani dazzled at Manish Malhotra's Diwali party in Mumbai wearing diamond earrings estimated to be worth millions of dollars. Jewellery expert Julia Chafe decoded the stunning diamonds and their extraordinary craftsmanship.",
       "sources": [
-        "Yahoo Sports",
-        "MMA Mania",
-        "Central Oregon Daily",
-        "MMA Junkie",
-        "MMA Fighting"
+        "ET Now"
       ],
       "article_urls": [
-        "https://sports.yahoo.com/articles/ufc-vegas-124-video-thomas-004820248.html",
-        "https://www.mmamania.com/ufc-results/483615/ufc-vegas-124-live-results-highlights-play-by-play-cortes-acosta-vs-walker",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVVpwU0VQTlJ6SlEwbUgtVlV3bzZtYnMwVXhLeE9BSjVkRjZrR2tHMWVGM3M0NXozX0dZdXFUZFpHOWNnbERaWXkxUXhraHFnVi1aS0lPVmJXOUJSV1Jva0E1TmJNZ2FLLWp4R3ducUt0UHU2bFdvMktNbkh6UUZvaw?oc=5",
-        "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeURKeHRKcmtRMXViZngtNnVsR2pwYXpGSWtnUTVlMmgyY0k3Mkc1NHhqNlBnMERGRVcyc25QQjZTUXJkaTNEdlg0d01hQVVrUWFoV3kwTnVYenBjUW44dl9xaDdlTEpOVXpHcHF1dHFIWmlQbGNMTUc4UUE5TnFOVTcwQjJaNlljaFc2NWY0RFBNR0c2N1lGa2FXYzVvXzlncFFKTmVMSEtIUzNvaDdQNllTV2V0Q1BzVmc?oc=5",
-        "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZFZhNU9ybHNVbEpDQmxlM0JSREFnRVRTQ3EyVGJKV1dCNU5lbDlnV1piMWswOXQzYnRCT3JQa0gtTG1uMVctcG8xWXd1UUw0QmcyNkJpODZuSkcxMVpxUWl5UDBxbHRkTldCZ0I5eWhYOXdmVHF5QTFuSUs4SXFzVFhPekJwMFVBRE1nMFMtTk5tLXJxbE1rc3c2YWUxY3RETWI1cnZWVkFnYklmbFNJWURuaEYxVFYyNERJWkNMc2Vjd0MtbDhweDA2eDA2eE1JcWFZNm1sbnNDc1psalRmRnhjVUY3QQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdFNjVnZFNkt5aXlJVGRVdGM1TEZzTTc5dGVjQXFWeE9pNzBmSWFMRUZyQXBIS0x4RUJhQVJnendBRVZRR3YxUE93NlVqVXhZbUN4SzlPTXgxSXM2dGZYWVlVT1N3RjZTZmNEcGsyRGQ1WWE3ajBiQVF5bmo3QmlxTm1TMHhjcFhEb3RNeVc2Qy1LWC1QdTJwUV9NTVJSMUpWcXBWRmgxU2YzUU5oQS1EU19URXpIek9YTVVMWndQNkhsTzNsODJPRVdJVUVKZlpLRkQ2eTBsbEFvejA?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ2xXLUY3dVQ1S1Z1TlRYQlpNZEhqZFU1LS1PeHNHZHI1dDNmVk05VVVrN1hzcjZMb2N1X2tTd211TDAtc25acVYtNzJQRGNCY0dkZEF6RGR3SmtEM00xd3JFVmRGcFg4bjctamNjd3ZJNXJhZVpVOHExWk5LLXBGN0RETDIwZV9vNmxWb19MaTNzY3BfaWFyc3dxUExrcEptU0NOaldSX1Z1Smc?oc=5"
+        "https://www.etnownews.com/et-now-luxe/nita-ambanis-diamond-earrings-could-buy-you-a-luxury-apartment-jewellery-expert-reveals-why-her-dazzling-jewels-worn-at-manish-malhotras-diwali-bash-could-cost-millions-of-dollars-article-156481160",
+        "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWWZUaG50LVN2UW1zZzJBX2NoMmtvNXVicmt4b2RTVEEyQlQ4a3NFM1RUZlZnVzRiaHVZYWh4WTdhTkNMbzNiWmtsU0NKTF82V28zLU5YOXpQUXNlemJqWklpcnFtM3B3bXNYeFdrTm44eVExVnViTkJNd2ppMnJERDJOelA5U1E0R2lZSmdkdVdUeXR2ZXV6MG1uT1dpaHZfQWE2NDFsMzA0RnlkTTJ1UTV2TXMtOHU4M2llMGRZTmxsWVUzSmJrYnhUeUZRNmk3TnB5MHVKem16emJ3VnRGaWs2YnMwWTF2ejh6RVFvQzcydDRWc19lVk9uY3dFSkFKSFlCeng0UkJackhFVWRDcFd5ck1OeXllS1VmUHdKcGItR1lWSWg2eVJ0N05najd1Z3huejBwWEl0TXo1WkdZd0UwdjZ2djFZT19kV2syN2xhSkE0YUHSAdsCQVVfeXFMTm0yRkI5NE1ZT0ZHUnZYM0RZbUtqa19CWkVYd2dsNE1GeWNTZE5UaVAwWG9sX2k4ZUtBOXpVUTVwaXIxdkRIbVVUdVB5S3ZoMmlFckZzTm0wZ2pmM294TG9kTVFyWG1qQk1yTjZfNEhuWGZqUjRpY2kxbTZjSDZqV24xNDBpTThybzRXX2NsVElpRS1xeWhFQXFuSXZVdzdFRjRKTnczTy1CMG1MOS1xRHBCQmRTQ3haT2E5WXBNTTZzZVlOVG9JTEY0Zi1sNHJXYzlwck80MVY2R3BSYUNPWENtaUJmTDFOa3BkWm1QWjBmN1cxQmpqZjBTdkVqV21ScW9IZTBoRmhpTWtJX29pTzVDRXVzUzU4WDEyaDc2Ny1rZm5OblRzcGxQVnpTX1psTnZXV0lCcGFheWNJRHdoTzg2SWpHSXM2dDhfdVJFN2FiWWpXZ3JKcVh3OWM?oc=5"
       ],
-      "published_at_utc": "2026-11-08T00:48:00Z",
-      "published_at_ist": "2026-11-08 06:18 IST",
-      "first_seen_utc": "2026-11-07T22:30:00Z",
-      "age_minutes": 77,
-      "trend_score": 12,
-      "rank_score": 0.7966,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "UFC Vegas 124 live results, highlights, play-by-play",
-        "UFC Vegas 124 video: Andre Petroski ends skid with upset TKO",
-        "UFC Vegas 124 video: Jose Souza viciously flattens Johnny Parsons in Round 1",
-        "Video: José Souza scores brutal first-round knockout at UFC Vegas 124"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/9eff989eb6f6a4618a3e1a9ccbd73b481475d348d57a0c2546c2de103bff44cc/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmma_junkie_usa_today_articles_344%2F7724695147bd92200fa4d2253c37d627.png",
-        "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/11/gettyimages-2258037193.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/fuH6aQ-xBdc?rel=0"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "6e7ddc53ad",
-      "key": "10th-a2o-blackpink-core-jisoo-lite-music-neon-performance-rescene-take-treasure",
-      "headline": "Watch: A2O LITE Takes 10th Win For \"NEON\" On \"Music Core\"; Performances By BLACKPINK's Jisoo, RESCENE, TREASURE, And More",
-      "summary": "https://www.soompi.com/article/1884917wpp/A2O LITE has won a 10th music show trophy for their debut single “NEON”! On the October 31 episode of MBC’s “Music Core,” the candidates for first place",
-      "sources": [
-        "Soompi"
-      ],
-      "article_urls": [
-        "https://www.soompi.com/article/1884917wpp/watch-a2o-lite-takes-10th-win-for-neon-on-music-core-performances-by-blackpinks-jisoo-rescene-treasure-and-more",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZTNwaF90UW1iREN6Ql80c1IyUWIyR2dSTXlHcHlrTk5rQ0xmTzA5TXpaa0VyODQzaXpXbnZRck1vWFhOTVFwOW8tenpTai1HRE4tMkNWWWdtRi1HVVkzcDdxaG9paWEwa2tkc3VyWGsyd2RQOTUxRmRQcTRLNXR2Wjl2amZrdThwLVlmVGNKWGFOZmdRSFBmRk5OODNFWXBtYmNqR1JNUjdtVmppRmdsNzF0RVI5U051V1puRzd1Zk5qN0l1YVBTVkZvem1kdmx4bjdZRnpNdHlZZy01VUhDSk1xNzd6N09s?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T01:52:01Z",
-      "published_at_ist": "2026-11-08 07:22 IST",
-      "first_seen_utc": "2026-11-08T01:52:01Z",
-      "age_minutes": 13,
-      "trend_score": 8,
-      "rank_score": 0.7911,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://0.soompi.io/wp-content/uploads/2026/11/08103936/A2O-LITE-Music-Core.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/sai3K4_ZFp8?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://www.youtube.com/embed/sEfYW7-T3gc?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://www.youtube.com/embed/BtqYIHuCriM?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://www.youtube.com/embed/C7vNpNTv7fQ?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent",
-        "https://www.youtube.com/embed/_XhBc88qS_E?version=3&rel=1&showsearch=0&showinfo=1&iv_load_policy=1&fs=1&hl=en-US&autohide=2&wmode=transparent"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "895a09c000",
-      "key": "cling-dramatic-final-messi-miami-mls-second-spot",
-      "headline": "Messi's Miami cling to second spot on dramatic final MLS day",
-      "summary": "",
-      "sources": [
-        "RFI"
-      ],
-      "article_urls": [
-        "https://www.rfi.fr/en/sports/20261107-messi-s-miami-cling-to-second-spot-on-dramatic-final-mls-day",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1QtN1g2bUVZWTZqbzNuR2J6OW00c3JKTkc3NzRtd2F3Zm9nRm1uSXk3eTdBVVhHS2x4ZkJfc09iSHZZTXJlRmRXVGdmRTJfRTdsTkQ1Vzlqc0hhaThPV3BoaVVGeGVpd3pjV3k0RG1fVzVqSkdZampqNzdOaWZWdEViVVZ6UWtlSC1ablRQZGY0SnVUTHVlWW16VEFUMDA?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T23:40:00Z",
-      "published_at_ist": "2026-11-08 05:10 IST",
-      "first_seen_utc": "2026-11-07T23:40:00Z",
-      "age_minutes": 145,
-      "trend_score": 12,
-      "rank_score": 0.77,
+      "published_at_utc": "2026-11-08T01:23:55Z",
+      "published_at_ist": "2026-11-08 06:53 IST",
+      "first_seen_utc": "2026-11-08T01:23:55Z",
+      "age_minutes": 161,
+      "trend_score": 5,
+      "rank_score": 0.6328,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
       "famous_names": [
-        "Lionel Messi"
+        "Mukesh Ambani"
       ],
       "region": [
-        "GB",
-        "IN",
-        "US"
+        "IN"
       ],
       "language": "en",
       "priority_queries": [
         "Famous people clips",
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "4256232f46",
-      "key": "bat-fan-field-him-kohli-plastic-response-throw-toward-viral-virat",
-      "headline": "Viral Video: Virat Kohli's On-Field Response As Fan Throws Plastic Bat Towards Him",
-      "summary": "",
-      "sources": [
-        "NDTV Sports"
-      ],
-      "article_urls": [
-        "https://sports.ndtv.com/new-zealand-vs-india-2026-27/viral-video-virat-kohlis-on-field-response-as-fan-throws-plastic-bat-towards-him-12296726",
-        "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc2l5T0hrTllKTTZxaUVrMHdBT1FxS2EweHFkLUk4V0l0UUtJZ2lLRTV5SGNFTXBiZFozM0kzb1B2NVN3WXZ4MlpYTVRiclJtNjAtbmZXSUw3TDQtQ1ZQMENEQUliUFh3VlJGenN3UEpXSjJuUkRhSVdoUmFxanFPNU9YQm9TdDdZTWtSWGgyYVFIV2ZzRDNNeTgzeVJSWXdyemxxd2djNUFSOXlmRV9tSnd0WjZEZWlwTldMRld4QzRjRGJfNjRWYXJ5cDFrczNHVjlWcExvRHllUQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:44:42Z",
-      "published_at_ist": "2026-11-08 06:14 IST",
-      "first_seen_utc": "2026-11-08T00:44:42Z",
-      "age_minutes": 80,
-      "trend_score": 8,
-      "rank_score": 0.7652,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Virat Kohli"
-      ],
-      "region": [
-        "GB",
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "7b9766d8c6",
-      "key": "book-enter-feat-historic-hit-odi-rain-record-rohit-sharma-wellington",
-      "headline": "Rohit Sharma enters record books with historic feat in rain-hit Wellington ODI",
-      "summary": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rohit-sharma-enters-record-books-with-historic-feat-in-rain-hit-wellington-odi/articleshow/Rohit Sharma etched his name in ODI history on Saturday as he became the batter with the most sixes against New Zealand in the 50-over format. The India opener achieved the milestone during the second ODI at Hnry Stadium in Wellington, m",
-      "sources": [
-        "The Times of India"
-      ],
-      "article_urls": [
-        "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rohit-sharma-enters-record-books-with-historic-feat-in-rain-hit-wellington-odi/articleshow/135649345.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
-        "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQTV81YVp4SWhFQWpPNnNmYzdPY25wOXVERzE0S3dOZE91XzJOTTZVS1JpNWFaR2llSkRBQ24tMEpadkE4UGN3czYzREdnS0d0bjM4M2E4bHh6RDlURTFPWHRCUHFiem5VVnlhVWtzVGY0b3M0N2liN2pBNVYwbjlkdFBMY2k0R3c3S0VvWUctamwzNmYyTVk3eTByM3BDZ21TOGl3ejZfUGpFcUFydTQxTlFRMmZnN05FVFBLRnpYWHlqZnVBcy1wRlRYWVVlWUtSUEVCdHA5OHhfTFNvV1hNTFNNN0VWaXBKdm9yVjAtejVFUmNDLU9JZ29CcXJPald4QVg3dkNrdHRpWUc2RHNpSGFxU204aWd0Nk1ZTmZYVlowZnlXM05ybXRldkU1SVl2Tk00U1BDcDhabnJBVW9wZ1FZN25MamlYZHpzRUhWOVVEbWlpYW1B0gGMAkFVX3lxTE9ZUnM4bHdCSGNKc1BSNHhraFZIcmNGcVVBM0dLTWJrSTBmempTaks2N3NYYlBnNFc0ZjhaQ2hfSWt6cEczOUIySkwzMmVNVXBaUmRpSXRZZkFhWjJTQnpYOV9KZ2NoUHRvdHd1b3g5b1gxZTJIT0xPaGZvLU5aWFJBdXVxZnR2by1sNW80R1JKRzJncllFamcwc1ZXaWt1ZVBNVDhQckNkaTB3ekpzeDVtaVotSWw3YWdWNWhiXzlfQlNwNlFvVUxFZHFxa1RkNnA0TE1yVlhqOFB5NTQ0RUlqTFVYUGZjY0JQSlZ5emlJOHRxbWpUa1Zld01pRUpxN1V2ZTdCNEVNSHJHaXQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T01:07:00Z",
-      "published_at_ist": "2026-11-08 06:37 IST",
-      "first_seen_utc": "2026-11-08T01:07:00Z",
-      "age_minutes": 58,
-      "trend_score": 7,
-      "rank_score": 0.7647,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Rohit Sharma"
-      ],
-      "region": [
-        "IN"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "cricket"
-      ],
-      "google_trends": [],
-      "india_topic": true,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.toiimg.com/thumb/msid-135649357,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "72af968d47",
-      "key": "date-paulo-practice-qualifying-race-sao-schedule-sky-sport-start-time",
-      "headline": "Sao Paulo GP dates, UK start time and Sky Sports F1's live schedule - practice, qualifying and race",
-      "summary": "https://www.skysports.com/f1/news/13607071/Find out the race-week schedule, weather and how to watch the Sao Paulo Grand Prix at Interlagos; watch Sundays Sao Paulo Grand Prix live at 5pm on Sky Sports F1, build-up from 3.30pm",
-      "sources": [
-        "Sky Sports"
-      ],
-      "article_urls": [
-        "https://www.skysports.com/f1/news/13607071/sao-paulo-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-interlagos-in-brazil-live-on-sky-sports",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeDZjTEZoV2hHUVl3VW03ZUxFZlp0OFE4ZEpjejYydTlxYWpxVTNfRFU5YmVqR0hwMUsyeDVsLU5vUW13VEE4ZXhmc2RkVEx5UWRJVFcxdm1MeDdFdzI2MzJlcmpid1h1VWZDNTBSX2ZqcXZfOENhX1NnWGtkZTgycVBIc21DUWd4elNtaFllckE3Yi13RGFVeVNQdTNQdkxGN2p4UWFqSTdMc0hVLW55RkpPbUtITnFqMzV5d2ViaHEzMjRGM2R1eTEybVpxZzIxUWVCRVFHdTZrY1pRdFRXT3p3d1UwanYtOFNJSXJ0OUZzWlZmdVJlSDhrX3N5OWlLZXZkajdR?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:21:10Z",
-      "published_at_ist": "2026-11-08 05:51 IST",
-      "first_seen_utc": "2026-11-08T00:21:10Z",
-      "age_minutes": 104,
-      "trend_score": 11,
-      "rank_score": 0.7613,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f919fa9c46",
-      "key": "center-cooperation-coreweave-data-elect-gina-governor-hinojosa-letter-seek-texa",
-      "headline": "CoreWeave Seeks Data Center Cooperation in Letter to Texas Governor-Elect Gina Hinojosa",
-      "summary": "https://en.bloomingbit.io/feed/news/CoreWeave, a U.S. neocloud company, has asked Texas Governor-elect Gina Hinojosa for cooperation on its data center business. Bloomberg reported on No",
-      "sources": [
-        "bloomingbit",
-        "Investing.com India"
-      ],
-      "article_urls": [
-        "https://en.bloomingbit.io/feed/news/123890",
-        "https://in.investing.com/news/stock-market-news/coreweave-seeks-truce-with-texas-governorelect-hinojosa-5688883",
-        "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmNmZiQ1VXZENyNVhmRXJGejE4X1N2czA4dkp4UU5GZVZxN19CNjBzNXF1N2NiUUJHWnBSLWk3MW0wUklxMlJnSUJfNVZtQlp4eThicQ?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTDctR0h2b3pKMDlXSzFvbUlhREdsNEJVSk5vUVcxaDhJNE96NHh0T3ZtRUlkSzB1ckw3WDFLNTdBVV82U2p6VkVyQXgyaHFhVXVpVEVLQmo0UDVTMXRUT0lTTFhXQjJWdmtSWW8tYnB3TExuTXMzVVBPT3U4bjYxcWRpY1NMMUlHT2RZZmNVTlVrM0t5emtDSVJST0YzQWZqcHRLbFhybUgwbkw3cXFxWQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:39:20Z",
-      "published_at_ist": "2026-11-08 06:09 IST",
-      "first_seen_utc": "2026-11-07T21:03:37Z",
-      "age_minutes": 86,
-      "trend_score": 8,
-      "rank_score": 0.7302,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "CoreWeave seeks truce with Texas Governor-elect Hinojosa By Investing.com"
-      ],
-      "image_urls": [
-        "https://media.bloomingbit.io/news/69c1427d-c337-4a77-843c-c98e5bc9c168.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "f70afed3f8",
-      "key": "advise-avoid-direct-founder-mexc-okx-star-transfer-user",
-      "headline": "OKX founder Star Xu advises users to avoid direct MEXC transfers",
-      "summary": "https://cryptobriefing.com/okx-star-xu-avoid-mexc-transfers/OKX founder Star Xu urges users to avoid direct MEXC transfers after FinCEN special measures, as users report frozen USDT deposits.",
-      "sources": [
-        "Crypto Briefing"
-      ],
-      "article_urls": [
-        "https://cryptobriefing.com/okx-star-xu-avoid-mexc-transfers/",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DTGNkMUMzS3I0bExZQTl5YVV2N0ZjaGgwd3VNRWZMVVZOMTd2VVBzSTNHOHBFRGNSazltaENPRWdYaU9YUXlkNHpqYUF4T2lTNkg0SVJfWjNwempLTm40b1JpS0lKOFplT2dJMg?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:48:59Z",
-      "published_at_ist": "2026-11-08 06:18 IST",
-      "first_seen_utc": "2026-11-08T00:48:59Z",
-      "age_minutes": 76,
-      "trend_score": 6,
-      "rank_score": 0.6983,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
+        "Finance & markets"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -787,7 +1000,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://static.cryptobriefing.com/wp-content/uploads/2026/11/07194852/library-okx-founder-star-xu-advises-users-to-avoid-direct-mexc-t-800x450.png"
+        "https://images.etnownews.com/thumb/msid-156481160,thumbsize-93623,width-1280,height-720,resizemode-75/156481160.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -808,9 +1021,9 @@
       "published_at_utc": "2026-11-08T00:08:34Z",
       "published_at_ist": "2026-11-08 05:38 IST",
       "first_seen_utc": "2026-11-08T00:08:34Z",
-      "age_minutes": 116,
+      "age_minutes": 236,
       "trend_score": 6,
-      "rank_score": 0.665,
+      "rank_score": 0.565,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -830,179 +1043,6 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "d10089bb3d",
-      "key": "720-735-fiscal-ibex-lift-million-outlook-revenue",
-      "headline": "IBEX Lifts Fiscal 2027 Revenue Outlook to $720 Million-$735 Million",
-      "summary": "https://www.tokenpost.com/news/business/IBEX secured four AI-agent deals after quarter-end and expects adjusted EBITDA margin to improve 50 to 70 basis points in fiscal 2027.",
-      "sources": [
-        "TOKENPOST"
-      ],
-      "article_urls": [
-        "https://www.tokenpost.com/news/business/51199",
-        "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuN2YwbkFHZWlQNndDblg2M2xuMncxU1JDWTdGelEyaV9qYnRUNTlYdTdYdFFBWmV4dDFjQUE0SXpFUS1BY1JHTTY5YWRtWEdYZlhlVV9uSXI?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:07:00Z",
-      "published_at_ist": "2026-11-08 05:37 IST",
-      "first_seen_utc": "2026-11-08T00:07:00Z",
-      "age_minutes": 118,
-      "trend_score": 6,
-      "rank_score": 0.6633,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://mzwrodgsdjfdyvnraeya.supabase.co/storage/v1/object/public/article-media/articles/c06263a7d1c3f3c7aed8cfdd4f9a5db1435947fe0ecbf526c7180afe3e7049a9.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "097b244c1a",
-      "key": "chinese-huang-intelligence-jensen-memo-relationship-romantic-spy-suspected",
-      "headline": "US Intelligence Memo Says Jensen Huang Had Romantic Relationship With Suspected Chinese Spy",
-      "summary": "https://newscord.org/article/Engadget emphasises reported romance details, while TechCrunch highlights Nvidia calling the interactions not unusual.",
-      "sources": [
-        "NewsCord"
-      ],
-      "article_urls": [
-        "https://newscord.org/article/us-intelligence-memo-says-jensen-huang-had-romantic-relationship-with-suspected--Story_20261107_Megaspeedexecwasrecr5086a427",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNa0NWMG5paEhSZk5EWmNHQU1vMUVpQ0I5c1lpS2VfNnZmcG9VdEZkaGxsSGVoaTdrVmpKVjBGWjNuRHpaX0xnYXBBUGFHSklCenpkTXhlMFVDVWJJZUtNUkZFMlRZUXFuZk1UYTNSdDhhVjNkN2tpdVM5eTNZU0NESGJsUi02WmdqM3ZPbC1lXzduMi1NYl90STlzd2Flb0F3amdNY3lJc2c1T3N3S19ZQ0w5ZGV0Nm1JWXlXYUFFQjFORG0wQWlfZVZsY2x0bkFqS19aeG1xZTNHVnhWYm1Mcm1MWGY3Wlk2?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T23:25:27Z",
-      "published_at_ist": "2026-11-08 04:55 IST",
-      "first_seen_utc": "2026-11-07T23:25:27Z",
-      "age_minutes": 159,
-      "trend_score": 6,
-      "rank_score": 0.6592,
-      "category": "famous_clip",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [
-        "Jensen Huang"
-      ],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Famous people clips"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://newscord.org/api/coverage-image/Story_20261107_Megaspeedexecwasrecr5086a427?format=landscape"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "6572ae1193",
-      "key": "alibaba-called-coding-free-make-model-mystery-qoder-qoduck-use",
-      "headline": "Alibaba's Qoder makes a mystery coding model called Qoduck free to use",
-      "summary": "https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use/Alibaba's Qoder launched the stealth model Qoduck on November 7, free within a daily quota for individuals. Its maker and benchmarks remain undisclosed.",
-      "sources": [
-        "Startup Fortune"
-      ],
-      "article_urls": [
-        "https://startupfortune.com/alibabas-qoder-makes-a-mystery-coding-model-called-qoduck-free-to-use/",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxOODV2VzFHaWRERnl6UjhOZ3daZHRKYVI5cHBpSzJrUGlhN2xQX1h6dmYyVld6UHA4S3k5UkhqaVF5Mk1BTWNJLW0zQV9vYVU1VVVoQy1VVDFwMUI5M3YxU0I3T1F6Yk42bWM2V0I4LXQxd3JiWjBtTE51UWhTNHNkaFdwV0ZrdnRlcUV3bXJDM1MwNHpTWEFwRjJOdWJTZw?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T00:22:28Z",
-      "published_at_ist": "2026-11-08 05:52 IST",
-      "first_seen_utc": "2026-11-08T00:22:28Z",
-      "age_minutes": 102,
-      "trend_score": 5,
-      "rank_score": 0.652,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "AI tools & agents"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://startupfortune.com/wp-content/uploads/2026/11/qoder-qoduck-alibaba.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "61a52247b2",
-      "key": "0043nl-16l-5060-limit-omen-rtx-spec-tg03",
-      "headline": "HP Omen 16L TG03-0043nl With RTX 5060, Specs and Limits",
-      "summary": "https://pasqualepillitteri.it/en/news/31060/HP Omen 16L TG03-0043nl with Ryzen 7 8700F, 8 GB RTX 5060, 16 GB DDR5 and 1 TB SSD, sold with FreeDOS. Specs, limits, sister models and a reference price.",
-      "sources": [
-        "Pasquale Pillitteri"
-      ],
-      "article_urls": [
-        "https://pasqualepillitteri.it/en/news/31060/hp-omen-16l-tg03-0043nl-rtx-5060-specs",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNckx3WHVDbENNdUNYenJmNThlSkhOMGZvNktmS2x2OVd3aDBFbWxndldBYmdOeDV5WjF3RkxOeGVyNTdIb0o2Rm13VE5wX2ZabnhackxaYTFkb3RrV2RZQ2xmVDNHTElNMU5lVkpZQ01lOGlkMFJlemxEYkxuUlNiemk0LTdLQWtMZ0E?oc=5"
-      ],
-      "published_at_utc": "2026-11-07T19:22:24Z",
-      "published_at_ist": "2026-11-08 00:52 IST",
-      "first_seen_utc": "2026-11-07T19:22:24Z",
-      "age_minutes": 402,
-      "trend_score": 7,
-      "rank_score": 0.4481,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://pasqualepillitteri.it/uploads/img/news/hp-omen-16l-tg03-0043nl-rtx-5060-cover.webp"
-      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
