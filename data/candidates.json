@@ -1,24 +1,24 @@
 {
-  "generated_at_utc": "2026-11-08T14:06:06Z",
-  "generated_at_ist": "2026-11-08 19:36 IST",
+  "generated_at_utc": "2026-11-08T15:05:26Z",
+  "generated_at_ist": "2026-11-08 20:35 IST",
   "window_hours": 9,
   "youtube_window_hours": 24,
   "stats": {
     "feeds": 89,
     "feeds_ok": 89,
     "feeds_failed": 0,
-    "raw_items": 4761,
-    "fresh_items": 3690,
-    "clusters": 1659,
+    "raw_items": 4817,
+    "fresh_items": 3765,
+    "clusters": 1684,
     "youtube_feeds_ok": 30,
     "youtube_feeds_failed": 0,
-    "youtube_uploads_fresh": 84,
+    "youtube_uploads_fresh": 81,
     "youtube_items": 2,
     "famous_items": 7,
-    "trends_terms": 40,
-    "page_fetches": 64,
-    "with_video": 5,
-    "runtime_sec": 19.9
+    "trends_terms": 20,
+    "page_fetches": 60,
+    "with_video": 7,
+    "runtime_sec": 22.3
   },
   "categories": {
     "famous_clip": 4,
@@ -32,322 +32,61 @@
     "other": 6
   },
   "top_trends": [
-    "bijan robinson (US 500+)",
-    "lake powell (US 200+)",
-    "john nicks (US 200+)",
-    "college football rankings ap poll (US 1000+)",
-    "49ers depth chart (US 2000+)",
-    "monza vs atalanta (US 200+)",
-    "ss united states (US 200+)",
-    "pittsburgh steelers schedule (US 200+)",
-    "ipswich town vs bournemouth (US 500+)",
-    "genoa - milan (US 200+)",
-    "köln vs leverkusen (IN 200+)",
-    "ssc napoli vs s.s. lazio standings (IN 500+)",
-    "microsoft staff response ai push (IN 200+)",
-    "मानसून (IN 200+)",
-    "ഗ്യാനേഷ് കുമാര് (IN 200+)",
-    "ga (IN 100+)",
-    "eredivisie (IN 100+)",
-    "अयोध्या (IN 500+)",
-    "ipswich town vs bournemouth (IN 500+)",
-    "ಚೀನಾ (IN 200+)"
+    "anant singh (IN 200+)",
+    "aqi gurgaon (IN 100+)",
+    "barcelona vs madrid cff (IN 1000+)",
+    "axar patel csk trade (IN 500+)",
+    "ben shelton (IN 500+)",
+    "chennai aqi (IN 200+)",
+    "carlos alcaraz (IN 5000+)",
+    "தீர்ப்பு (IN 1000+)",
+    "real sociedad vs rayo (IN 500+)",
+    "భారత అండర్-19 క్రికెట్ జట్టు (IN 200+)",
+    "brighton vs brentford (JP 100+)",
+    "トリンドル玲奈 (JP 100+)",
+    "ソシエダ 対 ラージョ (JP 1000+)",
+    "ソン・イェジン (JP 100+)",
+    "ヒコロヒー (JP 5000+)",
+    "tbsラジオ (JP 200+)",
+    "宗山塁 (JP 200+)",
+    "109シネマズ湘南 (JP 100+)",
+    "堀米雄斗 (JP 100+)",
+    "vivant ヤフー リアルタイム (JP 20000+)"
   ],
   "items": [
     {
-      "id": "17894963b3",
-      "key": "admit-beat-lando-mercede-need-norri-paulo-rain-sao",
-      "headline": "Lando Norris admits he needs rain to beat Mercedes in Sao Paulo",
-      "summary": "https://www.bbc.com/sport/formula1/articles/Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
+      "id": "82f64ad46d",
+      "key": "gala-hrithik-jenner-join-kardashian-kim-kylie-lacma",
+      "headline": "Hrithik joins Kim Kardashian, Kylie Jenner at LACMA gala",
+      "summary": "https://www.comicbasics.com/alls-fair-star-kim-kardashian-dazzles-in-cutout-gown-at-lacma-gala/Red carpet season in Los Angeles consistently serves as the ultimate intersection between contemporary art, global entertainment, and runway-defining couture.",
       "sources": [
-        "GPblog",
-        "Sky Sports",
-        "BBC",
-        "Formula 1",
-        "The Guardian",
-        "The Race",
-        "RacingNews365"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
-        "https://www.the-race.com/formula-1/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/",
-        "https://www.gpblog.com/en/news/norris-prays-for-sao-paulo-gp-rain-after-dry-pace-warning-over-mercedes",
-        "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFVKeUJTUHJCZWRQT1BPcmxQcm5ac3JrZkVyN3pQRzhYTEQwMkEtV0hjMGVvYm9BNXNxLVRsdF85ZGpfN1lZal81RTNCcU1od3FfRlZ3R1l3UnllcTlVTmdGU3RVd0ZsaUVzZ3dUWTZic0I5XzlTbjJVZXJDT0NpWXNiSktjeXFHQUVxdkFGY29PYl93Q05PMGR5SUhzZm1ZSl9VaQ?oc=5",
-        "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWmJvU3hsZFdNSGxZTkc3MzBtQW5CdGo3N25uVm9WazFmdlJacU42bE1NenRqNE9tZkswby11ZzA2RDR0a1JVXzdJNVA2a0wyZ1NKVlZldVYxeW5xNXpCaUt5VXltT2hXUGxuT3hKZU1pZUFLWExNdWN2RnRkWDlFUzZOeEU3bmZYSUhhUVNSX1BkZjNvd0g3SUFHdGhGNS1aWXJ5dHFreE5laWtiRlJkU2hJOHlCWTEtcGZXYWVoM20yUWJSV3BMaTNLMm9mdXd2amJSeFd6V3UxS1FyMWNaYy15Yl9odWFnVEVKcDY1OEJRLTlydngxY0cybm0wdUpQ?oc=5",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ocnFIN09RZDFEd3YtUDk5UlVLVFhzWV9tT1F3OUxIbHBQbEx6ZUFtS0Nld01HMTZCSGJpLXY0Z3plNmtzRkYzYVhyZ3ZaRV85N0h0LURTM21IZnhwZzFYYjAzM2gtTUN3?oc=5",
-        "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUi1nX1pUdU4wMXdQRnpDdDk2YkdUTDNSelN2V3hVa3lqNnJCT1kzSTBicU5UZks5STlFcUlZTDNqUnl5WjhuTnRWWXhMVmVHdFJQWk5WaXc2XzN5VGJXUm1LcV83eHRuY2dKS01aQXNRYjVlN3FfOFlQalQ2WFlDRElKSWFOeU1MUXlnemUzbWlTWEROZmFjTGdYT0JiVllzbERiMVFVOU1LcWJ5cTJjOGMybDhSRkdEZzNic09VellUb2tBMmgzM1huSQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T13:34:07Z",
-      "published_at_ist": "2026-11-08 19:04 IST",
-      "first_seen_utc": "2026-11-08T08:30:00Z",
-      "age_minutes": 31,
-      "trend_score": 24,
-      "rank_score": 1.2516,
-      "category": "sports",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [
-        "Lando Norris"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [
-        "brazil gp (GB 10000+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Sao Paulo GP Qualifying: Lando Norris claims rain-hit pole in wild conditions with Lewis Hamilton, Max Verstappen to start at back",
-        "Sunday morning Brazil F1 weather update as rain threat remains"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg",
-        "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/11/XPB_1453197_HiRes.jpg",
-        "https://r.testifier.nl/Acbs8526SDKI/resizing_type:fill/width:1200/height:630/plain/https%3A%2F%2Fs3-newsifier.ams3.digitaloceanspaces.com%2Fgpblog.com%2Fimages%2F2026-11%2F20261107-0959-6af06e60d75a8.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrAK-E01sxRpgBxwhPJ4F7BcmmQSj7b2j_F55m01OaDW3WvRKMgnAluWUTNw",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxrCZlWl30lon5m7glswGjJCXFoWQGdeJfipZW2FcOmUbqnlRcWKbY0Jq1hA",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG9jHf5N64bQIzmbRdWAV6EBRep-Q5vmKwULGe634crwGOCC7F4bTOSD4T2DU"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "0fe326e707",
-      "key": "brazil-charle-detail-fall-ferrari-hamilton-leclerc-lewi-mate-mexico-reveal-talk",
-      "headline": "Lewis Hamilton reveals details of talks with Ferrari team-mate Charles Leclerc in Brazil after Mexico fall out",
-      "summary": "https://www.bbc.com/sport/formula1/articles/Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
-      "sources": [
-        "Sky Sports",
-        "Formula 1",
-        "The Race",
-        "The Guardian",
-        "Autosport",
-        "RacingNews365",
-        "Sportstar"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
-        "https://www.the-race.com/formula-1/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/",
-        "https://www.skysports.com/f1/news/13609569/lewis-hamilton-reveals-details-of-talks-with-ferrari-team-mate-charles-leclerc-in-brazil-after-mexico-fall-out",
-        "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-        "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZnZubHV6VGFHSmZjS0dBa1J0OURzSE9ZcjRTTmREN3RUWFBGNXF3ZHRaTHdfeXVmZUZRSGRTMXFJZ3MyekIzMUNJdlE4YlVEREVYYUlyczlVQzhVNEhsNkN4VHEybnd5RkIyN2FPbWxYX2FzWlN3MmowVTdNcWZhb3B0dEcwdGhzUlpaQnl3eFUtWUE2ZGttNUtmRjhuRnUxY3BsMUJWWjRuNzl6ZlJFb3FvOGQ1WEFlMHVCdUpYZjhxZ1drRzNaMjVWcG5qanZfbDFvU1kyN1ZEYUxSak5sODhvOEJYZU5J?oc=5",
-        "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSDhDWW9STlM5aTM2LTNlRlE3R29VU2ZsbE1DSF9vUUF2TlFvTVBMTmJMM1JSM3BiZTJLVUlwSmdadEZ3Q1pITWNJekhsbGM1clFPbnpDbjdFM0pUQmtlalNWWlh3bWkxZjZielU4Nlc2clBpb2V2WUZyMEppcEViQndTVmhpU0c0MTdpZHJMdmVhZ2tHWkxZc0FyLXhiQkNQX0xySzBFTGpROFZXU2RVdU5FalZud25kTUkzdXlyR2hoNWNfaEQyRkxoV25TVEdnYjMwS09RVkU5QzRkQmZRN3AwRUJQa1lhX3BOT1dvazREbER4LUtGcXpPRQ?oc=5",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0ZlQlRvZXRQb1Y0U1RuemRVS1k5VzNBUzUtQVlSNVpoXzRDMUliTXQySGpycnhDVGJIejdQaV9zanVVM20zQUpEc2htbGs3M2w5QllBRDYwZF9pQk5seG1RTmlNSWotMmhXM1E2NF91VWpwOHRILWdyS0lWNC1IS05tOGo2eHY2MEQ2YlBHYXRpMHdYQ1JUM2lZZGJkVnUwMXJUSw?oc=5",
-        "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNWdIZ3Zjb1RuenZSQTk0YkppSkc4UUVqZDMxQm1BWFh1RXBPMmxiMTNCWE5Eel9IMFBlZC1GcGRTcWN3eTBHOUxRaUk1VFJ1bkZnTGp1c2s0cl9MckJuMjV5SU42czBjT2FOeHFRZTBTQm9FMkptUTh4ODJXd19pcXNkVnF2RU5LaV9pVU9pNXJQU25xZDAyRU5kX3BtOHFxa19lTWVMWHRyOHBncnFYazZ1Y3hpN2plaElSNA?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T12:26:02Z",
-      "published_at_ist": "2026-11-08 17:56 IST",
-      "first_seen_utc": "2026-11-08T07:00:00Z",
-      "age_minutes": 100,
-      "trend_score": 19,
-      "rank_score": 1.1304,
-      "category": "famous_clip",
-      "section": "sports",
-      "source_type": "news",
-      "famous_names": [
-        "Lewis Hamilton"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1",
-        "Famous people clips"
-      ],
-      "google_trends": [
-        "brazil gp (GB 10000+)"
-      ],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Charles Leclerc acknowledges Lewis Hamilton 'tension' in Ferrari supremacy fight"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg",
-        "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/11/XPB_1453197_HiRes.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrAK-E01sxRpgBxwhPJ4F7BcmmQSj7b2j_F55m01OaDW3WvRKMgnAluWUTNw",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxrCZlWl30lon5m7glswGjJCXFoWQGdeJfipZW2FcOmUbqnlRcWKbY0Jq1hA",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG9jHf5N64bQIzmbRdWAV6EBRep-Q5vmKwULGe634crwGOCC7F4bTOSD4T2DU"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "660d1c1759",
-      "key": "change-diet-help-kelce-reportedly-swift-taylor-travi",
-      "headline": "Taylor Swift Reportedly Changes Diet to Help Travis Kelce",
-      "summary": "https://bvmsports.com/2026/11/08/taylor-swift-reportedly-changes-diet-to-help-travis-kelce/Main Story: Taylor Swift has reportedly adjusted her baking and diet habits to support Travis Kelce as he works to stay in shape during what could be his final",
-      "sources": [
-        "PureWow",
-        "BVM Sports",
-        "Yahoo Sports",
-        "Britannica",
-        "The Comeback"
-      ],
-      "article_urls": [
-        "https://bvmsports.com/2026/11/08/taylor-swift-reportedly-changes-diet-to-help-travis-kelce/",
-        "https://www.purewow.com/news/tim-mcgraw-debunks-taylor-swift-travis-kelce-wedding-rumor",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcW5SSTZKLU9qOEI0eWhkX05ZY3pYXzhHOU1QTzd0ZWdpZUNMaDd6UjdQQ2pvdTlsQ09JQzBFS25xMGFwQTU3WjB2dm1iZDRTNHN5RkdKbUZTRUVXQ1JvTjJ4X0plbFRLNHJSR29VSFFlTHZpSFQ3V2ZWRVV2SmJYd210ZGdYcXBOSmYtTk10SjY?oc=5",
-        "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTWZ0eHV3M1JPWkJGakxVYWk2b09kMG5UOFh5ajRBMnl5Wkpsc0NtR3lOajd3THJvN1JacXVjQTR4bTg5N0tGNzVFNHh6UnpEcmN3bGJSQ0V0TUpIMjdmMWpnQmpEclBEZVhGSFVfRTB4T3V4eVdHQ1dxWVRKNHNwSU9rd0lmaURVbGVOaU9Zem5kRG81NEE?oc=5",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY0VDZXZpX05yTUtqRkFRam1LcDhWUnBPWVBSSHlrMXpoa2R5QXNlLWNPcWl6amJmYWVSLWpwQ0MyNWZGTnNfclQ0cHpaWTB4cVNfaU80cFFEeEhfZDFiRkZtVlVsSXNUV0FxTGIzNmRDaDB6eXVyeGRucEtybXpFY2xnTjlSUllsZ2lhVkZR?oc=5",
-        "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9femZaalRhODBTZGdVT1NVdEh0ZUtfUjJUaUhZS01HdFlXQTJXSVJLUzNDZ185cmd4eTJzY1lRTHRfSUVKWkZwSjhNcFh6T2lla2pEYkFudWdVWXRTY2c?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRE04b1FuUmM5eFlQODlWQzRLVDFnTWFyVGdtVkN0MWJiM3kxb09qS1p3a0R1VzktRGFSaTZ5Vjc2WERvbUZWS1VzaVJKenV5ZVI3ek5wVkQ5MVJYYlQ1MzA1RjZrSFVMbUE4cXR2YnVzZkRvTW9pMGZYSXFEM25lU3NnLTdDQnJSdndPb0ZRaVlGM19jYno4LQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUlJ4T2pBejZGZF9vSjJzRVZfYmVZbGN1UnNqMXUzZzZKNmNqazFJeXhGd2lkQlJHcFV5VjUwbzJpMFdGWTdqbU5iS29aUFg2YmFPbGx0UlJHbmt1V1JqYlVsZDlCSzlxd2hDWHEtQjdWMXFrM3JHRTJxX0FVeDFmdS1vM1RENVNnemhlanZlbzBNT3V2Q1kwQ2tRakZySS03MmtoY1B0YlF6NDJuQi01NW5sdjU1U290S0pBMmdIVmpybmFLZE5jU1BmTlZBTlJlR1RRd2JXN1RkdHpxU29lU2ZRc3prMk9ZMmV3T3dCaw?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T14:00:00Z",
-      "published_at_ist": "2026-11-08 19:30 IST",
-      "first_seen_utc": "2026-11-08T09:54:03Z",
-      "age_minutes": 6,
-      "trend_score": 22,
-      "rank_score": 1.0972,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [
-        "Taylor Swift",
-        "Travis Kelce"
-      ],
-      "region": [
-        "GB",
-        "IN",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "This Taylor Swift and Travis Kelce Wedding Rumor Just Got Debunked by Tim McGraw",
-        "Taylor Swift has reportedly made changes to help Travis Kelce",
-        "Taylor Swift",
-        "Nick Wright: Taylor Swift May Have Kept Travis Kelce Playing"
-      ],
-      "image_urls": [
-        "https://cdn1.thecomeback.com/wp-content/uploads/2026/09/Taylor-Swift-and-Travis-Kelce-1-e1791823886820.jpg",
-        "https://assets.purewow.com/wp-content/uploads/2026/11/Taylor-Swift-Travis-Kelce-wedding-rumor-debunked-tim-mcgraw-1174x630.jpg"
-      ],
-      "video_urls": [
-        "https://www.youtube.com/embed/2-soSbAtfEc?si=Q7os4TLEuIG_BsNe&start=922",
-        "https://www.youtube.com/watch?v=2-soSbAtfEc"
-      ],
-      "has_video": true,
-      "youtube_videos": []
-    },
-    {
-      "id": "79a96e30a7",
-      "key": "interlago-paulo-race-start-time-ã",
-      "headline": "F1 race today at Interlagos: São Paulo GP start time and where to watch",
-      "summary": "https://www.bbc.com/sport/formula1/articles/Polesitter Lando Norris says qualifying for the Sao Paulo Grand Prix brought \"some of the wettest conditions\" in which he had ever driven.",
-      "sources": [
-        "Sky Sports",
-        "Crash.net",
-        "Grande Prêmio"
-      ],
-      "article_urls": [
-        "https://www.bbc.com/sport/formula1/articles/cmde81d9nkxko",
-        "https://www.the-race.com/formula-1/winners-and-losers-from-f1-2026-brazilian-gp-qualifying/",
-        "https://grandepremio.com/en/f1/what-time-is-the-sao-paulo-grand-prix-today-f1-race-start-time-and-how-to-watch/",
-        "https://www.theguardian.com/sport/live/2026/nov/07/sao-paulo-formula-one-grand-prix-qualifying-in-brazil-live",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxOeDZjTEZoV2hHUVl3VW03ZUxFZlp0OFE4ZEpjejYydTlxYWpxVTNfRFU5YmVqR0hwMUsyeDVsLU5vUW13VEE4ZXhmc2RkVEx5UWRJVFcxdm1MeDdFdzI2MzJlcmpid1h1VWZDNTBSX2ZqcXZfOENhX1NnWGtkZTgycVBIc21DUWd4elNtaFllckE3Yi13RGFVeVNQdTNQdkxGN2p4UWFqSTdMc0hVLW55RkpPbUtITnFqMzV5d2ViaHEzMjRGM2R1eTEybVpxZzIxUWVCRVFHdTZrY1pRdFRXT3p3d1UwanYtOFNJSXJ0OUZzWlZmdVJlSDhrX3N5OWlLZXZkajdR?oc=5",
-        "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVktiSldzYTJJMFlLVnBtLTVsU1VXZHIweGxNNk5CeTRFTEdyM0pHaHBYcG1jZngwWDRnU3pVT01GNlBnR0g1RGNLU3dOX1RCU0ZRSmpVY0k0Y3BLN2xkR2NXLXZiMks0eEh4UUlEZW10dHFsbkdsYUEwYUF4Z1c4LUlwWDhXS2hfMkdnLUJTRkpVMU9TYUZJUW82alg?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWExrMnhQUDVES0N4MlJ6bEZBTy1Td2ZxRFpEZzRNcVd6amh1TlBvdThSdmZ3dTR6ckdkXzRpTmdERHVRWWdERGdFRlFZazd0a20tR3lFRjdDVS1zQU9hNGhRbU1vbW1ZWFRyeUFWTGZ4RFoxR25FVGE3Wmo1OXgwRmxJWTFQdDVXc2FNbFh1cm5TbExFbmtYMVJEc1VsdnlHQ0t3RVQ1Nmg1aWJCaGJrUw?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T11:38:56Z",
-      "published_at_ist": "2026-11-08 17:08 IST",
-      "first_seen_utc": "2026-11-08T09:00:00Z",
-      "age_minutes": 147,
-      "trend_score": 18,
-      "rank_score": 1.0388,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "F1"
-      ],
-      "google_trends": [
-        "brazil gp (GB 10000+)"
-      ],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Sao Paulo GP dates, UK start time and Sky Sports F1's live schedule - practice, qualifying and race",
-        "What time is the next F1 race? Brazil GP dates and full schedule"
-      ],
-      "image_urls": [
-        "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/85f6/live/ade06d60-db02-11f1-969c-27c4482e95aa.jpg",
-        "https://storage.ghost.io/c/dd/af/ddafbd99-2ccd-468c-b622-4b3cccf80b49/content/images/size/w1200/2026/11/XPB_1453197_HiRes.jpg",
-        "https://grandepremio.com/wp-content/uploads/2026/11/f1-2026-interlagos-sabado-gp-de-sao-paulo-rodrigo-berton-mercedes-kimi-antonelli-03-1200x630.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTrAK-E01sxRpgBxwhPJ4F7BcmmQSj7b2j_F55m01OaDW3WvRKMgnAluWUTNw",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsxrCZlWl30lon5m7glswGjJCXFoWQGdeJfipZW2FcOmUbqnlRcWKbY0Jq1hA",
-        "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRG9jHf5N64bQIzmbRdWAV6EBRep-Q5vmKwULGe634crwGOCC7F4bTOSD4T2DU"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "9bbab7a3f8",
-      "key": "art-film-gala-hrithik-jenner-join-kardashian-kim-kylie-lacma-photo-roshan",
-      "headline": "Hrithik Roshan joins Kim Kardashian, Kylie Jenner at 2026 LACMA Art + Film Gala, see photos",
-      "summary": "",
-      "sources": [
-        "The Eastern Herald",
+        "IMDb",
+        "Comic Basics",
+        "Daily Observer",
+        "Xmag UK",
+        "Mid-Day",
+        "ANI News",
         "Vogue Adria",
         "NDTV",
         "WWD",
-        "The Times of India",
-        "Rediff",
-        "Bollywood Hungama",
-        "The Indian Express",
-        "Moneycontrol.com",
-        "t2ONLINE"
+        "The Times of India"
       ],
       "article_urls": [
-        "https://indianexpress.com/article/entertainment/bollywood/hrithik-roshan-joins-kim-kardashian-kylie-jenner-at-2026-lacma-art-film-gala-see-photos-10955418/",
-        "https://easternherald.com/2026/11/08/stars-2026-lacma-art-film-gala/",
-        "https://vogueadria.com/lacma-art-film-gala-best-dressed/",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JcTZqMU12UlREWldFMWhmaWdEczlHTTNqVGw4d1dWSHdMMTNFRk1wc1kyTm11QlN4ajY2aWNyYW5CX01mcGtadHJYMzk1Z1llVzlBcXp0TXFNWml6aUM3U1ZpUTZkQTlLcEl6eVJDZVFrTllDek5r?oc=5",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqVjJPZzlZUlYtc1Z1ZnpDOGxRRFZMbGQ3NXQtOGplVzBldlJHTlJ6Q2ZOcUx6MGUwb1B0eTA1dGRCYmkzM2t3Mmg0Rl80bjhZMzlKNk9RZHI5b2ZmbXdVY2lHbHEtYWM?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU0pxcEU2WXo4SFo0Y0RYWUdPcDV6V0R1RFd1WXM1VGVrbXc5TkVZblo4Yy1aTkJieFgxeFhiU3BaWDdsaDdPN0dhU0ZuYU9lY0dkUTNHNWVBZmoxMnRQeWVYSDlnd0ZqLXAtOF92VHZlUnRZRWVFNUtkNEtRNjl0N1lCRVhvRV9ZTEotTkoxQnFzLXk2ODdfOHk4NG1xTEpxMmZyM01DRFdSU3Q4Y2J5QmVUUkE5NTZORkU1TEQ2QWE2Snp3aVlxeUJzVmJGSjA0TDkxT3BONkJWczVQN1plcUlOTGExNl84bWpJNVVuZEdaZ9IB-gFBVV95cUxOT1Y0Qmc1Z3JsMzJuMzZMdzVZcWJ1R1VKWWtIVkg1RENOOFJSOGJFNXhUenBsdngzbTBDWlkxd3hWdWJzQnlHX1BMVXozcWUySEdMU1V1ZHVGVHZud0RMMm9hdHM1MTJqTllOLWJVeVE4akEyUmFqVDR0TFJRY3YybWpDaTJydlBnR1N3c1QyWXpVU3hRcDBMWDhEbnEwd2hUdVFKc0E1ZnhQTTdqRXRMU2tEb3NzVTJSUm5Oc2xVazFOTE5ENDEzdXZQOFU2NmRoVUZqWWR0RFQ1T05hUEtZd1FwX0NBU2Y0WUVtZGdwWW1xN3MzazZzSmlR?oc=5",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTFpdTQ1dmZEWmNQOWJFM1F1YXpIckVnWk1uUG9NVXNMQzV4WUNZcWpoSXFSd2s5MmdrUHhTSkNIVHEwWFNManVGeVVGTjBDUGxLQjV4RVNacEs0ME9NSEdmbUJuYjBSNkNjcktuQ3RvaUxseFZBcDh1bUFoSmNwbUw1R1NlcDFlV0s1UTFsdw?oc=5",
-        "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNzRrS3pqN3NWMzVObVVWUFdjTjYyNXJKS0Nob3ZNUm54U1J1Z1BZM3puZkY1Mnd5eHc1VVl5bHpCLWZYQ2RaZkZnZmtIS012YnpqenNDZkdoTjRRWFFQdWVjZDZwWTRIdzE1WWFVUDJCaTZ5ZVR2WmIyNUx4SGtPYUZBOEZRY3V6LUIzekFSTGtXQlYwRktnbXM5MXRkYko0aHdQS2dlQWFuMk1uN2N5dWZEbjUxT0lvdHpHdnlsUm5iZkhDY0tvRmY1ZHk3c1MtVmJKV1p3X0lyb3hlMnVnMW1ZNVYySTNNdmxkTGpXc19uM01zSV9UUzhHc3dMVGZVYXZad0hB?oc=5"
+        "https://observerbd.com/news/604686",
+        "https://www.imdb.com/news/ni66101147/?ref_=ttnw_art_perm",
+        "https://www.comicbasics.com/alls-fair-star-kim-kardashian-dazzles-in-cutout-gown-at-lacma-gala/",
+        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmWmhNN1BScElRTVBRbXl3aE5kZWZlLXpvRG4xTzZ4TVlYNjJrWHdBZHp5c2FJLTFwOUJlVlF1NW0wVkVqTUh3bGgxZTdJODFoWHBPZ2pfMi1YREJla1ZYcXA4dWtDVnc?oc=5",
+        "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWVpRYzVUYk5qOVowaHdabW42SGxHV2M2OXlkWlZnT0lqS1QyeDdVdXpuU1dUN3dTbDhLZ2RwTkRPbF95Q0kybXBPMjFGaTZUOHRfWWY2a2pzTzA0YVFNVldFcmhtQk1JOGE5bWhadUNhUzVqZFBvdEo2aldXOEJvTU5ya2xaUmFXOHJscmJ4d0pJT2dkVHVRV2VLMA?oc=5",
+        "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBkSXM1MmhfUVkwMEJUbHJLQ1pzRnpkUjBNaFhsRUFhOVVRa2NtLU5oblZJNU1QQzlCSUREczdpNmlnVlZTeWhCT0VB?oc=5",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYmxhcFlXMHJJS1ZSOFVBYnk5dmpaOFl0N1Vxbjh1Z01QaXkwckh5VkROMTVRaXhFcEpsS0Q1SjlDRVZ4UkstV3YzLWNqRDhmcFVmQ0UyMVFtS3REV09fUjFvVWNNWU0tdzhQSzR6UmhzXzFKUmczN0FIeVlPS3ZfMHRQWlhKbjVxdzROdkp1Qlc2WlZCUzBIdGlGODhRTU9qUVNhSWRXY2F3UEUzdnZ2WkFIZzgyWlBqR1ZsQg?oc=5",
+        "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQS0g0aWJENjJHcUtYNVdhMFg0b2FiY09mbDM1R1cyNGROdU9sRDYzTlpPaXh4bnpRYTlGU0xud3phYm5YZkVpQjRYSFUtSlM5SDZOR3dEYVBlRVFEYnNZZTE2eTA2NmdQTmxlT2NqVU1JZG1CMGlVYnJuTmJQX1Jnd2VzMmpjZVBsbkdNb01FYzlnVU95ZmlqcDQ5amIwTjdEenBCOFVDdlNZcFEzaGxRbUdNZGZYTGlkWGRoVU5LMFBCbnN4eEsyd240TlFtYjNhdVpMUTlqR3BmUzE5S2c?oc=5"
       ],
-      "published_at_utc": "2026-11-08T13:01:26Z",
-      "published_at_ist": "2026-11-08 18:31 IST",
-      "first_seen_utc": "2026-11-08T06:35:51Z",
-      "age_minutes": 64,
-      "trend_score": 29,
-      "rank_score": 0.9714,
+      "published_at_utc": "2026-11-08T14:30:24Z",
+      "published_at_ist": "2026-11-08 20:00 IST",
+      "first_seen_utc": "2026-11-08T06:31:29Z",
+      "age_minutes": 35,
+      "trend_score": 35,
+      "rank_score": 1.0008,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
@@ -367,40 +106,150 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Stars Attend 2026 LACMA Art+Film Gala Honoring Vija Celmins and Denis Villeneuve",
-        "All of the best looks from the 2026 LACMA Art + Film Gala",
-        "Hrithik Roshan Greets Los Angeles With A Namaste As He Joins Kim Kardashian, Kylie Jenner At 2026 LACMA Art + Film Gala",
-        "Hrithik Roshan attends LACMA Art + Film Gala 2026, becomes first mainstream Indian actor to grace event"
+        "‘All’s Fair’ Star Kim Kardashian Dazzles in Cutout Gown at Lacma Gala",
+        "‘All’s Fair’ Star Kim Kardashian Dazzles in Cutout Gown at LACMA Gala",
+        "Kim Kardashian, Rosé and Nicole Kidman Lead the Star-Studded 2026 LACMA Art+Film Gala in Los Angeles",
+        "Hrithik Roshan joins Kylie Jenner, Kim Kardashian, and more at LACMA Art and Film Gala"
       ],
-      "image_urls": [],
+      "image_urls": [
+        "https://www.comicbasics.com/wp-content/uploads/2026/04/Kim-Kardashian.webp"
+      ],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "3ae2878df9",
-      "key": "africa-done-elon-ever-musk-portrayed-snl-south-thing-worst-‘-’",
-      "headline": "Elon Musk Is Portrayed on ‘SNL’: “The Worst Thing South Africa Has Ever Done”",
-      "summary": "https://thechenabtimes.com/2026/11/08/elon-musk-roasted-on-saturday-night-live-as-the-worst-thing-south-africa-has-ever-done/Elon Musk Roasted on 'Saturday Night Live' as 'The Worst Thing South Africa Has Ever Done' - The news from on The Chenab Times",
+      "id": "789d733fe4",
+      "key": "chaotic-diplomat-race-world-‘-’",
+      "headline": "A ‘Chaotic Race’ for the World’s Top Diplomat",
+      "summary": "https://timesofindia.indiatimes.com/videos/times-axis/trump-losing-mental-faculties-ian-bremmer-what-it-means-for-india-china-europe-and-the-world/videoshow/Desc Donald Trump is weaker after the Republican midterm rout - but could that make him even more unpredictable? In this interview with Aditi Prasad, Ian Bremmer describes Trump as âDonald Duckâ - simultaneously âlame and angryâ - and ",
       "sources": [
-        "The Chenab Times",
-        "IMDb",
-        "The Hollywood Reporter"
+        "The New York Times",
+        "PassBlue",
+        "Reuters",
+        "Council on Foreign Relations",
+        "The Telegraph",
+        "The Times of India",
+        "RaceFans",
+        "The Sun Malaysia",
+        "The Guardian",
+        "Financial Times"
       ],
       "article_urls": [
-        "https://www.imdb.com/es/news/ni66100836/?ref_=nwc_art_perm",
-        "https://thechenabtimes.com/2026/11/08/elon-musk-roasted-on-saturday-night-live-as-the-worst-thing-south-africa-has-ever-done/",
-        "https://www.hollywoodreporter.com/tv/tv-news/elon-musk-snl-appearance-jeremy-culhane-watch-jost-1236750304/",
-        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3YxejdyLXlTTnFYeG1pOHZsT0JLaFNiUFhTWjViQXBwcDNOS1VNbl9WR0xjeEtUbXZiQzB2aUNfT3pvVDZFclk5ZWhWU2c2emo5cWVSd2FNWFIxOGZ1Q0xkekkyNkZndVVhNXJybmlBeU1DcEhmLTdCRzUtbjhlX3JGZzdVYWVva2x6TUVpM1JwUXc5SUdMRUZfbElxUmRJS3R0S0hpYXRFOTVQaV8wbVFhR2FlVTJvOVctbWdIaUthckE?oc=5",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qcHhLVm85UnVxdGZob01scWdRdkVZeXF6ZkNQTGdXSXBOMU5kaENTRTJTbks2ZmlRaFpfUGRZekltNVFpcnpyZTVCcFB1Y1N5ZUZSbldSZUtTTHY2cjlRUmFQVXYtalFRTlE?oc=5",
-        "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0lSa2NSbEtqZlNTdTI3ZWt0TV84UWFIbWF1UzhPZWRldW9HQW4zMGRLNTQ4Zk9QR0R3M0xDUXhHM1BJdzNDQy0xNVcxMmRZU0xCZlBMWXpyTkNIWFotcGJCdjlRNnZKTUtzLXQ0WTFBQUpyVjdGd205NklRX215RWo4ZzZNQW5OdFF5TmFOQVNQX3FTd0UzYTdPd0ROSWxwaW5JVlBMeEhKUTg?oc=5"
+        "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+        "https://timesofindia.indiatimes.com/videos/times-axis/trump-losing-mental-faculties-ian-bremmer-what-it-means-for-india-china-europe-and-the-world/videoshow/135659735.cms",
+        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdk91UXhKdmE5UlMzSEJ1MWM3ZGcxX0M5VWwybmlvck4xV2lJZkxFLXlqcGZGaTZfa2RnRmFwQWxVaGJqanpsXzF3cVF5RWhZUUhmYmJPTHRJNnpYWEg5d0VScUV6N2hTRzRuSzVLYWp5dnlkUW9NQ1M0TmdGdXBSVUZCc0lFTjA?oc=5",
+        "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1VoSVRRajNVYzhMZlRZbXZYOUpOSWpndjBrbFd4LV9vbnVHMDhnZkhoZWk0bzRPYzd5S1JoYzlaZUxUdmxyc0IwT1hoQUxHVGhhQW9ySExQMnFCWllBR3U5c3hDZEtsT2RJdXN2OEFIa2VKNF9NcEZRSlMyRTJuY0JKdDloTEcteVdlUDRaQ1FybGFsbHBWZFExa2EwME9ZTDdzQ0Q4d1loSkFmeC1R?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3dhUG53V3dTX2xHM0ZLZUdmNEJfYXNOX2RHQjRCc3RjRUVwWXBXVHBZNzhTU0FDUUFOclhuU1VPUTlneFgzOVh4NG0zSUZuVllWLTFmeU9ub0c2am9UZF9rNWI4blRpYW5uelA5SHh5Uy1BWXJfV2lJTUJrVzRYLWtFNV9xRFJWVElVbGhPUlVjc0M3RTU2M0tSdjVfamhJNXdBSHA5dk43WnVOWXZOU2xxRnMtRHEwQk1F?oc=5",
+        "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRkJmMDhDVXpLRE8tUHRSQUlGTDhsa2dIbmdPbXhhekM3d1kyRkNoclhtbUs4SlYyOVFMeE90QkgwRThvdWV3bDRhS0ktR3laTFViQjNndlJQR0NSWnB4R1IwTmg1NzE2ci1XU3JRemgtYTJOVm9OSjZoSWpCamJZSkF0WVFKaWZIUXN2TlRWXzN3T0x0YkVaa28xaklQeFcwSjVlV0VXWQ?oc=5",
+        "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVWFoVkV4ZTJ4bndhR2R0VGdMYlk2YUs0UnhZckYwNEpBeUJkek1CNEZQQkdqWlUzamFQdW5vemhGQU1IcGhtYkVFUWt0Y1VsZUR2TElRWVBRb0FIMFZrWGxXWDVSY1RpM2Q1dDYzcjBPbU5qUEpXM2JyaTZ4b19LaWt6ektwZTBIREYyRElRdGJ6YThzRGdUTE54cWZfR1Q1MnVtYw?oc=5",
+        "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQcHZYWmh6Y0ZVMVg1R1lJUUlOcWVDc2Y4dkN5RkI1WU9yTTEtcjJoWUk3bXBfS3NDeUNWMWp5d19CZjliVVc1ZTJneVpZeUhQcW0tQVhUN0ZkNnRJcjlQcnk5VVc0amdJYTF3VXRQY1h5UmFXMm9CUGFCRWNHRDA4MlJuMTN1ODktckp2akpmMDRodHFndksxdnBEUk93UGVodklGSG1JaGdRX1hDc0MzOHdjMUV4M3Z3cEdqV3ZScU1vcnJ1c1ZmZ2I0QWQyRm9GaVRrSHhFaGtIYVV3VExWbU8tYUZ2ZnhyMV9hRmVWdE1oQkNqUzIyUVFrLWpSS2PSAYQCQVVfeXFMT2xydXRYX250aTVEXzhXWDg3Vm5xZkNTb3lxaGc0ZjNOSzZJTllQeUU1NGxPN2cycWt0VjNxOVBTSFRlUnlLYlFWUEIzdTVrWER4VmRPV0pLcTlDWGN3eVRWN1ZuTnBSdVVjRUx3dVdkcFBtRkZ4d2paT1hWdzl3M2dXVkp4a0FjRVlCcnpLeW41enFiNDRlZy0zNWx6YzM2d19DcWhxUFJUTVQ1cXA5V1BJMU54QXR1NF9UQVNwWG1FZDE2VXNiUVRVYzROazlPaHpwY2pNWk5ReTlHb2pRMEFlMC1UaDFySGRkSmRLV0I3UEVpOC1xYjFndHV0alJBanNtaVA?oc=5"
       ],
-      "published_at_utc": "2026-11-08T13:36:03Z",
-      "published_at_ist": "2026-11-08 19:06 IST",
-      "first_seen_utc": "2026-11-08T06:59:05Z",
-      "age_minutes": 30,
-      "trend_score": 10,
-      "rank_score": 0.9591,
+      "published_at_utc": "2026-11-08T14:33:00Z",
+      "published_at_ist": "2026-11-08 20:03 IST",
+      "first_seen_utc": "2026-11-08T06:35:35Z",
+      "age_minutes": 32,
+      "trend_score": 33,
+      "rank_score": 0.9733,
+      "category": "celebrity_music",
+      "section": "world",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‘Trump Losing Mental Faculties’: Ian Bremmer What It Means For India, China, Europe And The World",
+        "‘Very high chance of a horrific crash’ if F1 races in same conditions as qualifying",
+        "The Weeknd’s ‘After Hours Til Dawn Tour’ sets RM5.3b world record",
+        "Trump’s shattered ‘mirror world’: American voters roundly reject president’s alternate reality"
+      ],
+      "image_urls": [
+        "https://static.toiimg.com/thumb/msid-135659735,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+      ],
+      "video_urls": [
+        "https://t.sli.ke/v.171j3xjmz6.mp4",
+        "https://timesofindia.indiatimes.com/ifrmwdt/videoPlayer/135659735"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "36541aa7fb",
+      "key": "admit-career-conor-guaranteed-gun-jumped-mcgregor-plan-post-sharing-ufc",
+      "headline": "Conor McGregor admits he may have jumped the gun when sharing 'guaranteed' plans for post-UFC career",
+      "summary": "https://bloodyelbow.com/2026/11/08/conor-mcgregor-admits-he-may-have-jumped-the-gun-when-sharing-guaranteed-plans-for-post-ufc-career/McGregor stopped himself after feeling like he'd already said too much",
+      "sources": [
+        "Bloody Elbow"
+      ],
+      "article_urls": [
+        "https://bloodyelbow.com/2026/11/08/conor-mcgregor-admits-he-may-have-jumped-the-gun-when-sharing-guaranteed-plans-for-post-ufc-career/",
+        "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRTFLQ3h6ZDVlN1BnMTB6VWFRMnVJc3pQSENqekV6dFJRNmpNcS0ya19PWnhwbFVmRVFUOW1yaVhiWk9XVnA2YUU2NEZHakl0OUh4Qy1aTWJ4UDhqWHVYeWE0aUxDLXpKQm8wcGNNeFNfUzkyaUhJRi1ITWpiM0h4QmVOY0lqQzNNMDRzT3JkOVNIMXE3VEpNUC0xZC05SVJxU2RQTW1tbXJ5VXhfUzRablhOOV9zeVRkUnN4SU0zRHVlTk5ZaVJFUXlfMVVGaEk?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T15:00:00Z",
+      "published_at_ist": "2026-11-08 20:30 IST",
+      "first_seen_utc": "2026-11-08T15:00:00Z",
+      "age_minutes": 5,
+      "trend_score": 8,
+      "rank_score": 0.9477,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Conor McGregor"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://cdn1.bloodyelbow.com/uploads/1/2026/07/GettyImages-2285704055-scaled.jpg"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/watch?v=faTPAlHk7UU"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "77cbdaef7e",
+      "key": "against-elon-flipping-jame-musk-next-reveal-start-table-talarico-texa-time",
+      "headline": "'Time To Start Flipping Tables': James Talarico Reveals What Next Against Elon Musk After Texas Win",
+      "summary": "https://timesofindia.indiatimes.com/defence/international/time-to-start-flipping-tables-james-talarico-reveals-what-next-against-elon-musk-after-texas-win/videoshow/Elon Muskâs wealth and influence could not stop Democrat James Talarico from claiming victory in Texas. Describing his campaign as a âDavid versus Goliathâ battle, Talarico took aim at âthe richest man in the worldâ and the p",
+      "sources": [
+        "The Times of India",
+        "Western Standard"
+      ],
+      "article_urls": [
+        "https://timesofindia.indiatimes.com/defence/international/time-to-start-flipping-tables-james-talarico-reveals-what-next-against-elon-musk-after-texas-win/videoshow/135660806.cms",
+        "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS1lOSk1jd3h2d3M2WFVoYTJ1OGdMUmN3M0gtRzVyb01NNjh0bnJYanhqWF90Z3pRank0LWpBNmpaS3RyQ2dmdk1nQ3prcjFCZHY4MC1mb3N0TmU1aGxUWnhyeUxQTUtmVnJ1YWJiUnlOZDZnbFp5OTFJM2pkcHRfbEcxa29GRDdVeHFfNExPdjA1SFpaeDdETE5sNTM4RFZCVFY2YTFfMkJ0UzRfUUcwZGZXVF9QZkRuN0lMVUpOVUFlbkFySGZlV0V0NFI1bktfdUFvR085aFZBUDR4QWxxRVdzeXdDcWdZczRvV2Y2VjdrQmtUeHR2WlBQQklVb3JjaU0xQVZrZHhpQdIBjwJBVV95cUxOVHB6S2ZHaU9rcWlmYTNGeUZkallsbEpMMVZxNGthT0ZpQjd6b1NJSVdrTmlJZ3l5SHJueGpLdnVMQmhBcTZlNXpzQXhjbHBiYXlQZWxMam1sbV9BZWppODRGRG9fMFNSa3Y0Q0U3cmRsTldyUWZQZ1VKbWhyZUlkR2NUdlNkQWxfNldtRlRIT1JvMmxQWFV1OFYzZWNVaGt3MkdzcEhHelBOeThYVkdyNm9ZU2haeVlkcnp0UzhhZ3FEQ2VuWUJCNGhwXzQwWThlWFk1b3o5Ny1MWWhRU3BpRC1SckN1eEdjQ1J6bzY1X2hPakplU09ZYnpyN2pmUlNOdFZ4WGJFUmZYMlVXbzRr?oc=5",
+        "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlFQbGtNenJMUVVZQkZQWXE4ZXRFbE42Q3pKanljT1ZhTm1CMmFsVUdNMm9RSXpPVkpTckgxc1hVSHI5ZHdnQ1ktaXItd0VENHJybFcxb0E3dWxUcUw1Y3MxTExhdjRCU3Zlb1FvWm5aUDlNcUNpWm85aXh1N256WkhyZnJCM0hSQ2RJSGlQQWg0WnZxOTF2Y2Jjckt3dw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:18:31Z",
+      "published_at_ist": "2026-11-08 19:48 IST",
+      "first_seen_utc": "2026-11-08T12:30:00Z",
+      "age_minutes": 46,
+      "trend_score": 9,
+      "rank_score": 0.9305,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -422,17 +271,253 @@
       "local_only": false,
       "us_league": false,
       "other_headlines": [
-        "Elon Musk Roasted on ‘Saturday Night Live’ as ‘The Worst Thing South Africa Has Ever Done’"
+        "MACLEOD: The unwarranted backlash against Elon Musk"
       ],
       "image_urls": [
-        "https://thechenabtimes.com/wp-content/uploads/2020/02/PicsArt_02-06-01.57.29.png",
-        "https://www.hollywoodreporter.com/wp-content/uploads/2026/11/Screenshot-2026-11-07-at-10.07.54-PM-e1794118098625.png?w=1440&h=810&crop=1"
+        "https://static.toiimg.com/thumb/msid-135660806,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=CUpOMSJ1MdU",
-        "https://www.youtube.com/shorts/nbQItswYX1A"
+        "https://t.sli.ke/v.171j3b1wz6.mp4",
+        "https://timesofindia.indiatimes.com/ifrmwdt/videoPlayer/135660806"
       ],
       "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "5e6af272d2",
+      "key": "diwali-face-kaif-katrina-kaushal-reveal-son-time-vicky-vihaan",
+      "headline": "Katrina Kaif and Vicky Kaushal reveal son Vihaan’s face for first time on Diwali",
+      "summary": "https://www.bizasialive.com/katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-for-first-time-on-diwali/Katrina Kaif and Vicky Kaushal have shared the first clear photograph of their son Vihaan Kaushal, revealing his face publicly for the first time.",
+      "sources": [
+        "Mid-Day",
+        "BizAsiaLive",
+        "www.connectedtoindia.com",
+        "Khaleej Times",
+        "MovieTalkies",
+        "India.com",
+        "Gulf News",
+        "NDTV",
+        "The Times of India",
+        "Telegraph India"
+      ],
+      "article_urls": [
+        "https://www.bizasialive.com/katrina-kaif-and-vicky-kaushal-reveal-son-vihaans-face-for-first-time-on-diwali/",
+        "https://www.mid-day.com/entertainment/bollywood-news/photo/entertainment-top-stories-vicky-katrina-reveal-son-vihaan-face-daler-mehndi-first-statement-113960",
+        "https://www.connectedtoindia.com/our-brightest-diwali-yet-katrina-vicky-melt-hearts-with-son-vihaans-first-photo-revealing-his-face/",
+        "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdTRIZTFsME00OVJKeGZ6aDgwVFNjSDdIc0NnZzN5b0lRZHBDMU9TaTZFNTVpNTJuZUhXcTE4bElhQ2FweG1vQ0pTRjFJMlhneXNzTm9KZm9ndXJwRFJ4b2pfZzh6c3BYRDRpT0hacUZMVkdZc0duemdrWGZlREs0by03LUtWaXViMDktV1ZFU0ljUHctZ1ptVDhnc1hVZE0tTFM3c2R4b0RRblhmVUNuQzlkTFNVcUVNUFFWWlF2UHRCazNQaVpTVjJEdkdlT2JpWkxiYzVYVmk2ZExpYkttS0NLTXdOLVJaWl8zVDhR?oc=5",
+        "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWm84YWlGLWpXaTFqY1hWODM0eC1iWTM0azZsMUdjNDliSmNkY3FucFNhUFE1dUdnXzl4RlhxZXpZdDVlTFNRVDBRdXp3YTFDZXE4Q3N5cTJrYlA5TFNDcFFjUGtzU2pFNTZwV3lFTHVVdnY2Zk43RjFOaV9CWEZpTVp6allxR1FRZ0NrWWFoSUJoVVZycVZZNExQaXRYVkMzX0lnd0N1Slk2MnVN?oc=5",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXZMMXZyQ1dZb1FFcHVnaGZHdVhMYkRwR0ttaDZTaWdabUdaMWtSVlJDWDJRRFQwRk1UcFFzbUZUdzZOd1hkQl9NZFpmUDNwd3U5V1VkT19HT250Qy1ENU0zMHFkR3dKMS01TU92QXU1YWdSNkNzcTI0TmwzLUNNRFAtSkpYWnNfQnJUTkIyUTNnU2dhZTNHS0hVcEliRHlQVW5uYm5UZl83TWE0N000Q29MRmxxemQ5cDQyRVFnU3NZaklJUWJrV2RrdHQ?oc=5",
+        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWpfaXNDT0s4Vy1iNGdsdGhyVU5lSHlMRG9kUlBXVFAxTjllNU44NmdjWVJrWXBpNExXa2NsZzBCZW9EYlBia0xZbWI0cHFaUEt5SFJFVF9yTU1MbU9rT1ZzbXJIMXkyY3BsZ2EySHVuLUlDNTg2ZE1OSGFEX1g3TlNvZnhXUmdvRjc4Xy1RTWJGUFdoN3I4RtIBoAFBVV95cUxPLWZscDlUNUpwTl9IQUxtVHRVdE5oNVAydU5DaVFuaGNUUm5yaHNzblQxaEVFMUY4R2xmN0NjVk9reUxNenROSWg0TTBMMlRLbkRDa2RhZXdfdFh4TzdYUzVROVNtM2xudkZtNDduaUpFMEFVMnBmX1R1bXZxbGt4TEVSRE9rQnhXcGJWSDlqR1NYWmJiU2c2NVBHSkRTVVFD?oc=5",
+        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkJPWndxcGY0cXVNbnpxYzdldE1KdlZKSWp2SS11WnZLcFVmeXREbGtPQzk4MmtVVGJRWnlGSUNtT0JWZGZkdkYtTlZIUnZPcnJmS1BiT3drUWV3Q3QtZG1LMFUwRlRoaFF4ZjZWOWUxZ21hYlZsMzlFd1l5d3pxRmpidFU0Qi1rZlpCNHBmc2hJQdIBkgFBVV95cUxNTkJPWndxcGY0cXVNbnpxYzdldE1KdlZKSWp2SS11WnZLcFVmeXREbGtPQzk4MmtVVGJRWnlGSUNtT0JWZGZkdkYtTlZIUnZPcnJmS1BiT3drUWV3Q3QtZG1LMFUwRlRoaFF4ZjZWOWUxZ21hYlZsMzlFd1l5d3pxRmpidFU0Qi1rZlpCNHBmc2hJQQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:11:00Z",
+      "published_at_ist": "2026-11-08 19:41 IST",
+      "first_seen_utc": "2026-11-08T09:42:28Z",
+      "age_minutes": 54,
+      "trend_score": 24,
+      "rank_score": 0.9205,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "Celebrities & music"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Ent Top Stories: Vicky-Katrina reveal son Vihaan's face; Daler Mehndi's first statement",
+        "'Our brightest Diwali yet': Katrina, Vicky melt hearts with son Vihaan's first photo revealing his face",
+        "Katrina Kaif, Vicky Kaushal share first image of baby son",
+        "Vicky Kaushal and Katrina Kaif reveal the face of their son Vihaan on Diwali –"
+      ],
+      "image_urls": [
+        "https://www.bizasialive.com/wp-content/uploads/2026/11/KatVIckVihaan.jpg",
+        "https://images.mid-day.com/images/images/2026/nov/ts811_1794146828127_d.jpg",
+        "https://www.connectedtoindia.com/wp-content/uploads/2026/11/KatrinaVickyVihaan1.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "8a7a52637b",
+      "key": "asia-century-cup-hamza-india-lead-pakistan-past-u19-unbeaten-zahoor",
+      "headline": "Hamza Zahoor’s unbeaten century leads Pakistan U19 past India in Asia Cup",
+      "summary": "https://sportstar.thehindu.com/cricket/india-vs-pakistan-u19-asia-cup-match-today-hamza-zahoor-century-ind-pak-news/Hamza Zahoor slammed an unbeaten century to guide Pakistan to a thrilling three-wicket win over India in the Under-19 Men’s Asia Cup Group A encounter at the Al Amerat Cricket Ground on Sunday.",
+      "sources": [
+        "NDTV Sports",
+        "Sportstar",
+        "The News Mill",
+        "ANI News",
+        "Deccan Herald",
+        "The Times of India",
+        "BCCI",
+        "The Hindu",
+        "Rediff",
+        "Cricbuzz"
+      ],
+      "article_urls": [
+        "https://thenewsmill.com/2026/11/hamza-zahoors-unbeaten-century-leads-pakistan-to-three-wicket-win-over-india-in-u19-asia-cup/",
+        "https://sports.ndtv.com/cricket/pakistans-hamza-zahoor-makes-bold-no-pressure-claim-after-win-vs-india-in-u19-asia-cup-2026-12300492",
+        "https://sportstar.thehindu.com/cricket/india-vs-pakistan-u19-asia-cup-match-today-hamza-zahoor-century-ind-pak-news/article71681006.ece",
+        "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmpNN3A3OVFUSTJkczNXNG5WMzdUU1BrSXUxcnVlak1sNGk3WE5fVEl4ZlVQVnFfcXltZlFZZVJObnJ2VG1vWEg5TzY1N1NnUENxbFZXYUdJZU5JZXZYWC1IbE0xekJlb0pnRllGQlFBcERPV01hUk92d2EtY2RhdWkzOEdzMF9feHp2Y1RKQUZEdXlxLXJUZ1lmaTJXcm91aXVWSzkyTlp3Ml9ZYnBrLU1fVlM4eVhxNkFfSDBuUHZudy1wODZkQl9ScjQ?oc=5",
+        "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeUxCT09yMlZBYzhuVWY2bzAtbFJzWlNkUVp1MlRwcHVXRFVteEh3ZDdIVUhtRVRZbmMtbG9STHVuS2sxcVZoZ0paZnY5bXhIUnRXdUJpMllxZkR3ZFdCOTZZcFdnRXFoN0w2YUotVzdWd085T05rVDd4Q1pvUTFVTlVWb2lwenBMSmd3eWl5a0czOGVfVDVybEhFUEFpZEdpbWw0WjdlbEdncUx1ck1ibk05RWV3RThPSTl0TElQSnJObHZxUWIxWDBsZVhoV3Vl0gHXAUFVX3lxTE0tU0hPWTc0bFpPc21nbS0tT3JCYTV5NUxnQWVWaTVyNWdnM2F4c0tXQlV3LV9wUVpNeXdQcGt1cDZlbXVacUxUREtkZ044NGlBVk9DbG9XcjNsZDYyUmtuUWpaLVktRHNnczJzVlA5NHZxbFJBM2RNRmtXRWY4TXRDdDRUOGF4T2JhQmVzNTZiVzR5N25IU2Z1RjVDekdDWkRiY3gzdDZlTHd3cjZJeXhEamJlTDA5bmk1RWF1bVRUYUxha095TlhYS0FGX3RxeWFpMEgyeVRV?oc=5",
+        "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdnBpM2trYl9kUjNjaFF2QkZnVmFfVzljeVoyNVM3blFUWDZqT1JubV9rOE5TcC12YTdBMS00LVdhMkJwc3kwTGNhZ2tGWTZjZVdDSUl3RHAwV3MzSTlNYTVPVHhINV9XMER2YnVndFd3bHRmU2tkZ2ZDWHp1NkQtUVBxNU1ybmdtUFlrR1BnYlhneUkxY3NIeUVwUTlTUjNkcVRka1FlRGhJUFRLclVqaE9fd1RORUtIVGhnMmtuWW03ZTA?oc=5",
+        "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZmh4YS05TTBXZUhLYXpyemlyN0IzV29QVk9aZjRlRnc0SlJkc0QtM3RWeVVGVU44ZWZNdjNZXzlYLTUxN2tHZ21HNTdlQ1psWDNjcUpRVTd0c28xWU85MGowMFNfX1ROcUo2bXBCQW5odUt5N0lsamNZVXZldFhBY1lTY2NhTnZfLV9HQ3VFdUpzZVVkQW1IWGtGbTE2LTMzV1ZReVlldlRNY1NxZ0F3OG9wb2UzVjZZQWxVTWNlWXdFbExhbnRJRi14VzR4Ml8xRW9ubzNNYzVKOG9vdUtEYUJDeWtJVmo5WU1qMg?oc=5",
+        "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV01SdDNMY25OckVOcnVIbkxDVlY5RnBvZnNYQ3NEdW1lbHpKbzR4REdheWcyam00SGFGUkZJbU0wSG5WaUFxZ0k2NmpMaEloUEdvdEItUzZEOGQ5MzV3djN2TElJMmxDaVpaSU8xY1RMdm4zeEhMMmRoa2JVbk5KcEVhdDlXcXRUaDZpZ1haTXJfT2RYNHMtUHh4T002aTlJSi16TjdWUnk?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:29:18Z",
+      "published_at_ist": "2026-11-08 19:59 IST",
+      "first_seen_utc": "2026-11-08T07:42:00Z",
+      "age_minutes": 36,
+      "trend_score": 21,
+      "rank_score": 0.9151,
+      "category": "sports",
+      "section": "sports",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "IN"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "cricket"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": false,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Pakistan's Hamza Zahoor Makes Bold \"No Pressure\" Claim After Win vs India In U19 Asia Cup 2026",
+        "IND vs PAK, U-19 Asia Cup: Hamza Zahoor century guides Pakistan to thrilling three-wicket win over India",
+        "Hamza Zahoor's unbeaten ton guides Pakistan to 3-wicket win over India in ACC Men's U19 Asia Cup 2026",
+        "Pakistan beat India by three wickets in U-19 Asia Cup"
+      ],
+      "image_urls": [
+        "https://ss-i.thgim.com/public/incoming/frrz43/article71680980.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-08%20at%2018.31.51.jpeg"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "322a2d440f",
+      "key": "acosta-corte-fight-make-night-ufc-walker",
+      "headline": "UFC Fight Night: Cortes Acosta vs Walker Fights to Make",
+      "summary": "https://www.mmafighting.com/ufc/520037/Johnny Walker had a game plan to use against Waldo-Cortes Acosta but he eventually turned to improvisation to score his knockout win.",
+      "sources": [
+        "MMA Fighting",
+        "TNT Sports",
+        "Fightomic",
+        "MMA Mania",
+        "ESPN India",
+        "Fightmag",
+        "Forbes",
+        "UFC.com"
+      ],
+      "article_urls": [
+        "https://fightomic.com/ufc-fight-night-cortes-acosta-vs-walker-fights-to-make/",
+        "https://www.mmafighting.com/ufc/520037/surprise-motherfcker-johnny-walker-admits-he-pulled-out-some-street-fight-sht-to-beat-waldo-cortes-acosta",
+        "https://www.tntsports.co.uk/mixed-martial-arts/ufc/2026/highlights-johnny-walker-beats-waldo-cortes-acosta-insane-knockout_vid60106148/video.shtml",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3hKSGNIZ0V5aGQ2ZFlVZ3hHVEtkWWlDdVkyTC03ZnVtNjM2VGNRWmRjRF9nMGxOdVo2OE4wcjZtMmZ4Zk9yWm0ydlA1bjlvdjVfTW9aY05xUV9MU1NyNUxSa0JMb3VwS2Zub1ZCdVlpVXlzbXBCVjl1ZDhvb3owS3FnR25iazdjeTYwQ1A0S2pBVHp5UU5qNXRUWlBSaEpmQTNvZkFqYVJLbUlTaFAxWDItQlBHMlpMcE44UHBsNExZSWsxb3dIQjl1MWpSZm4xWUJISWh4SE90bjBm?oc=5",
+        "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdDNFc1I2MEpINlpmdko2QklrMlhjY0ZmWDNCNW4xTEl1VXpjVHlhOWJfNHVFMUhGa0lyellDU3VRUno5cTVFbnVRZ2FLUi1XWDBvVy1EZzREazFFa1JTdnplWDZfbWxYMXZqNkRUeXJiTFZkeGY5VDBSZW1meGdYNWxpZjZuUmhITHBqVDRpS0FaN3ZMeG1GSkJTLXdkR29vbjhaVmlKdWpvWUljT1hFQmJWRVlGLXRaTGlhWjJSQW9tUk1md1E3MjBLRE5JMUlaUnZXWUVzSGhlQjBleXhn?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVVLV0lJX1VvTnc4RWpuSnNLTDVzaDlmY3JJWXVSY2xFX21saWoyUUhHN3o3RkxUYWZxb2pmaFpzQW5OY01yY0NMc0xCT0FuRHoxSDFoVVBvSjQ4NzNvMTI0d29ZUVdhclJhQ2xkMi1QZG9XSUVTQ0M0aEwxU3dzcUF4bw?oc=5",
+        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEdWZU5YdnZJUzNfVUhQRndtRXVwQmM3dV9VMWdyWmtzVGVkVGdVQlJQRGtCUmlfOFlndk9TWkp0WGJTMUVJMTYyeVlCRlRjRmdoOWZvUEZGVnN2bmpkV3g1OTVFSlNzc3pQU3lEY1QzV05hbUliX1pyQmR3djZBVDVVeHhsMUN4TVBtdUJNS3RmZElvMFVWTnI0LTBpdEZGQklJb0dJMVFHbURwYkdudg?oc=5",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GS25TYTY4TmpMbU5kc2trd2lNR2d0blVodHNCSUZ4V05Hbm9sY1N4UGdLV3I2YVpJQVZSRDk1QnpueDdFaHp1TlFFaUhHQVNDNDNiTlk1NEZIN2h4dGkxNXBlSmtpODREYUJwb0dR?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T15:00:00Z",
+      "published_at_ist": "2026-11-08 20:30 IST",
+      "first_seen_utc": "2026-11-08T06:34:47Z",
+      "age_minutes": 5,
+      "trend_score": 15,
+      "rank_score": 0.8899,
+      "category": "celebrity_music",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‘Surprise motherf*cker!’: Johnny Walker admits he pulled out some ‘street fight sh*t’ to beat Waldo Cortes-Acosta",
+        "Highlights: Johnny Walker beats Waldo Cortes-Acosta with insane knockout",
+        "UFC Vegas 124 results: Sooo … About last night | Cortes-Acosta vs. Walker",
+        "UFC Fight Night: Adesanya vs Magomedov Live Fight Coverage"
+      ],
+      "image_urls": [
+        "https://platform.mmafighting.com/wp-content/uploads/sites/109/2026/11/gettyimages-2304059833.jpg?quality=90&strip=all&crop=0%2C7.1329840734671%2C100%2C78.534031413613&w=1200"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "516a1ad846",
+      "key": "back-expect-hamilton-lewi-make-max-paulo-verstappen-ã",
+      "headline": "Why do Max Verstappen and Lewis Hamilton expect not to make it back to São Paulo?",
+      "summary": "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/The two legends will start the Sao Paulo race from the back of the grid – and aren’t too optimistic about their chances",
+      "sources": [
+        "www.autohebdof1.com",
+        "Motorsport.com"
+      ],
+      "article_urls": [
+        "https://www.autohebdof1.com/news/f1/Why-do-Max-Verstappen-and-Lewis-Hamilton-expect-not-to-return-to-Sao-Paulo.html",
+        "https://www.motorsport.com/f1/news/ill-try-to-win-somehow-can-lewis-hamilton-and-max-verstappen-fight-back-for-f1-brazilian-gp-victory/10872909/",
+        "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRG5TaHlrcENjMUFXbUxtazJudHdCNnlSa0NpRU5UOWZGYlVMelNjU2JvTVZtazd0MGpvLVYyRFV0dV82RnVaRnpTSExaTlFpTXZNRnA2SFQySUR3V3AteGhjZzY4eEs2R0c1WDdpZEcweEhXQ2xTTjFzWXFaOXNzWWcwellZRkFzUjJKRjA5ZTAxZFFJdWdzMTlpX1lMTG5DTEJGMmJCY1JkaHdTempJU1BEVEpWZw?oc=5",
+        "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPeXZsazlKNlBIYjlGRXNYRGNPcUhjYm9PaTRwNlQ5VDZyMW1fV3M3Rklya3Q5SFZxMmVvSUpaZkt1ZGxwQ2dNTWxRUldqdlI5anpZRU9XRkJIVjd5ZXQwNWlVNTBLRFRVNUpvZGhOend2T3k1REhwT2x2OEFUWllTREpCdGVYdU1PbVVUQnBEM2VtaHo4OUVlWjN6NEhOaE1PeDFaWjBZUG5wNzJyRnBHX1VFM3BBX1ZhZXFidWUxVnJyWElCNkd4eUtHTEl0Vl9RUlF2VTJWczMwaXVu?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:51:50Z",
+      "published_at_ist": "2026-11-08 20:21 IST",
+      "first_seen_utc": "2026-11-08T13:28:55Z",
+      "age_minutes": 13,
+      "trend_score": 12,
+      "rank_score": 0.88,
+      "category": "sports",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [
+        "Max Verstappen",
+        "Lewis Hamilton"
+      ],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "‘I’ll try to win, somehow’ – Can Lewis Hamilton and Max Verstappen fight back for F1 Brazilian GP victory?"
+      ],
+      "image_urls": [
+        "https://cdn-8.motorsport.com/images/amp/2eZxbDjY/s6/lewis-hamilton-ferrari-max-ver.jpg"
+      ],
+      "video_urls": [],
+      "has_video": false,
       "youtube_videos": []
     },
     {
@@ -450,9 +535,9 @@
       "published_at_utc": "2026-11-08T13:20:01Z",
       "published_at_ist": "2026-11-08 18:50 IST",
       "first_seen_utc": "2026-11-08T13:20:01Z",
-      "age_minutes": 46,
+      "age_minutes": 105,
       "trend_score": 8,
-      "rank_score": 0.9136,
+      "rank_score": 0.8644,
       "category": "famous_clip",
       "section": "top",
       "source_type": "news",
@@ -485,208 +570,214 @@
       "youtube_videos": []
     },
     {
-      "id": "9e50e9d032",
-      "key": "glimpse-kaif-katrina-kaushal-share-son-vicky-vihaan",
-      "headline": "Katrina Kaif, Vicky Kaushal Share First Glimpse Of Son Vihaan",
-      "summary": "https://www.deccanchronicle.com/entertainment/Couple Twins With Their Son In Coordinated Festive Outfits On Diwali",
+      "id": "69eafa56b2",
+      "key": "copying-denim-dua-formula-lipa-outfit-worth",
+      "headline": "Dua Lipa has a formula for denim outfits worth copying",
+      "summary": "",
       "sources": [
-        "Gulf News",
-        "Khaleej Times",
-        "MovieTalkies",
-        "ANI News",
-        "NDTV",
-        "The Times of India",
-        "Telegraph India",
-        "India Today",
-        "The Statesman",
-        "Bollywood Hungama"
+        "Vogue Adria"
       ],
       "article_urls": [
-        "https://www.deccanchronicle.com/entertainment/katrina-kaif-vicky-kaushal-share-first-glimpse-of-son-vihaan-2002757",
-        "https://gulfnews.com/entertainment/bollywood/how-katrina-kaif-and-vicky-kaushal-kept-son-vihaan-away-from-cameras-for-a-year-1.500740376",
-        "https://www.khaleejtimes.com/entertainment/katrina-kaif-vicky-kaushal-first-image-of-baby-boy",
-        "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPblRBRDg1R0RWWFlJVjZwUk9iMGd4VC1vRjdjVmVFU2VQaWhTRUd0b3AxZS16WGhnNFRyMU40S0dfenFTSmZxWVVWMVZBVFFHZkNTMVY0UmhVbDhLS0U1dGYteFhNWlo4a2NlSE5vTU01QVVBbnk3Ykt6akNBSWhpaTJSUksxalE2U1VBdHZwNGN6Zmd2aVl1TEdDcEoxaE9BVXN3aGZJc3ZPQjF4WWVuVTdVNWFuVHB0V1l4NkNLQnB5Y200VGN6RmxhTklSZm5ramfSAeQBQVVfeXFMTkxnM2NuTlFQQ3ZkZk91cXZnSTF2S0h1U1k2aENyUE9XeDM3QVNNdFlFdEttdVJCS3hzcVNZNVhwN1V3dVBHR1ZGcjY4WkZnZ3VNczc0Z3JEa3dDdGJuU2lzbkdNemFoMEZjZG9XaTdiOHE1WjM2S2NyREhRaVFma2kycThNOXd1ZHdOWDQ3ZUdJRy1HaERrUnpRWE0zaEgtaDVuSlFpUDFrTE14OVdxTjkyQVhrOHFDR0s0TFk1X29pNnI1ZjZwS2lqMmswVWdubEMya3dTZGdrQzQ4UGtQX0F1OGst?oc=5",
-        "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQWpfaXNDT0s4Vy1iNGdsdGhyVU5lSHlMRG9kUlBXVFAxTjllNU44NmdjWVJrWXBpNExXa2NsZzBCZW9EYlBia0xZbWI0cHFaUEt5SFJFVF9yTU1MbU9rT1ZzbXJIMXkyY3BsZ2EySHVuLUlDNTg2ZE1OSGFEX1g3TlNvZnhXUmdvRjc4Xy1RTWJGUFdoN3I4RtIBoAFBVV95cUxPLWZscDlUNUpwTl9IQUxtVHRVdE5oNVAydU5DaVFuaGNUUm5yaHNzblQxaEVFMUY4R2xmN0NjVk9reUxNenROSWg0TTBMMlRLbkRDa2RhZXdfdFh4TzdYUzVROVNtM2xudkZtNDduaUpFMEFVMnBmX1R1bXZxbGt4TEVSRE9rQnhXcGJWSDlqR1NYWmJiU2c2NVBHSkRTVVFD?oc=5",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTkJPWndxcGY0cXVNbnpxYzdldE1KdlZKSWp2SS11WnZLcFVmeXREbGtPQzk4MmtVVGJRWnlGSUNtT0JWZGZkdkYtTlZIUnZPcnJmS1BiT3drUWV3Q3QtZG1LMFUwRlRoaFF4ZjZWOWUxZ21hYlZsMzlFd1l5d3pxRmpidFU0Qi1rZlpCNHBmc2hJQdIBkgFBVV95cUxNTkJPWndxcGY0cXVNbnpxYzdldE1KdlZKSWp2SS11WnZLcFVmeXREbGtPQzk4MmtVVGJRWnlGSUNtT0JWZGZkdkYtTlZIUnZPcnJmS1BiT3drUWV3Q3QtZG1LMFUwRlRoaFF4ZjZWOWUxZ21hYlZsMzlFd1l5d3pxRmpidFU0Qi1rZlpCNHBmc2hJQQ?oc=5",
-        "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRWZtS2hwa2l5Z2lZMHZCWXNoWUlTZE5yVUFTSlpUd05iU1hnS2FUQl9rTTBLdWs3QjVIejR5dmtLazhRbC1lcjR5SkJWQTRZMGpUb0N1eEFRNzVWSFZzRThyVC1KWXlqLVMzQ202QzB2bWJhNDQ4ZElPR3YxV3pzOHB3R25rVzZjem9jN0taRnU1bnNMQWdjdkhBZXY4VWJDbmo0SVJvTGhlWTdFOTYwWDBYdjFPWlR6U3NNSnAwTDRkUlBtdTNXSWF5eXlmb2t4emtOMVl4Y9IB7AFBVV95cUxOQmlJSHJ3U2I4SllTODdrdGd4OE1pSzBoQ0FGbGxzZGZQdTlZQWxKYnZXanc0R0p4YjZJN2VfXzBpb3l4bnRLZVQ5aGZnc0xOTHZKREtkN2JYMVFkVnRYY1Vvc2plUHJxVVR6TlpYMThpa2lSTXBuV0N1QUxXS2NTZVlGeFkwYmZHVEY4bXA3c3RyUXh1LS11SVh3S1hqVUtId3oxVnFrMldYdXVwOUE2c0lJRjZaSWpnXzljVkw2Zmk2NTdyQVlVR1R1Yks5OFNTeFJxVjlnSHhUM3ItN1I0a3pWNEpqeTR1MEM3Ug?oc=5",
-        "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOGtCRFpNRUwxeU1acEllc0V3VGtLM3hJeHhFQU9XT2JiQVJLaTFzYnBwdDJRQW5scjdHRnNFa2VYdjZ6bkJ2Y0syY1JpSUcwVnBXeU92MHBLbE9HQTM2cGpYalpSRUtlUzNmSjRnRGFwUVdGUU10cHZPV19kSzd4dlhsX3lUQ1VHb3VJQUVKYU54THp0ZGJBMVAwN1oyM2Fqc1lGb1BqZzExaVVKcHAyV1hYU1I1aVFTazYyVVZnWXBTeGdQUVZ1TzRuOU1OeXlsOVhiS2RqZVJ4NTRfaVY3SUNDZk04M29TZWVJM2JFRmttcXpnNFhEZTBFc0E4UQ?oc=5"
+        "https://vogueadria.com/dua-lipa-straight-leg-jeans/",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2Zmt4ZzJWNUswSUU1bklidmtOa05NNmNBTnBBbWg3T0x6eHJuRnRDekVKb1hmcFl3VURHdjZ2SkE1MDA3MTBYSmpDYWlYWl9HMzBrcTdwMU84NjBjVl9zNQ?oc=5"
       ],
-      "published_at_utc": "2026-11-08T13:12:48Z",
-      "published_at_ist": "2026-11-08 18:42 IST",
-      "first_seen_utc": "2026-11-08T09:42:28Z",
-      "age_minutes": 53,
-      "trend_score": 20,
-      "rank_score": 0.8935,
+      "published_at_utc": "2026-11-08T15:00:56Z",
+      "published_at_ist": "2026-11-08 20:30 IST",
+      "first_seen_utc": "2026-11-08T15:00:56Z",
+      "age_minutes": 4,
+      "trend_score": 11,
+      "rank_score": 0.8447,
+      "category": "sports",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [
+        "F1"
+      ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "9d4c2aa12d",
+      "key": "124-davey-grant-gutted-issue-loss-statement-ufc-vega",
+      "headline": "'Gutted' Davey Grant issues statement after first KO loss at UFC Vegas 124",
+      "summary": "https://heavy.com/sports/ufc/davey-grant-statement-ufc-vegas-124/UFC bantamweight veteran Davey Grant issued a statement after suffering a brutal knockout loss to Elijah Smith at UFC Vegas 124.",
+      "sources": [
+        "MMA Junkie",
+        "Heavy.com",
+        "MMA Mania",
+        "Yahoo Sports"
+      ],
+      "article_urls": [
+        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/08/ufc-vegas-124-davey-grant-issues-statement-first-knockout-loss-elijah-smith/92665299007/",
+        "https://heavy.com/sports/ufc/davey-grant-statement-ufc-vegas-124/",
+        "https://www.mmamania.com/ufc-results/484919/ufc-vegas-124-results-biggest-winners-losers-from-cortes-acosta-vs-walker-last-night",
+        "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVTdBOWdEdWpack5uSDhZVlJvN2FnZ0djNHp4V3daTE54SlM2bEpiaG5rbXowUVNqTk5BTWdsYjY5eElFYnBsSTVER1I5V01SX2xtWUp4dmM3eno0czJMT2RNZVRVcWZjZVd6WlJiY0pJZHJkTVhYaXotWnFiTWZLeG0wQjZPRjFaLVJwczc5U0ZnZVV6czJOdzhOa3RtWE4zUHR1dHN4ZldrTWNHcEZvTk5ua0w0TGV3Sm5lM0pOZ013TG5aZjN2MzF3b1JyWXp3clVLWmYzV0lDWEMwa1N2WA?oc=5",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWW1TdzFxVUx5Q3M5MzRfOFpaOERPNzN1UjE4cko5U2kwQ0c3TTFpbmtXa1R4YUlOVWV2TGJnSHVXTnFtSDVJMV93Z1FVTGQxTHhIUkc5VVZudEppdHNvWThvN25oaW5tUU9NQ1RCUV9faEE?oc=5",
+        "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa0hkYkFzZ0pIOXZwcUx4dERZSEZYMnFleVJmSmJQS1hkczhkSFhIVUhTOUNjTV9xeUZsQ2RsdFk5UkZ0cnh1M1dtYnF1bVEzakZPdGk4TVhlbVlqM3BCcnVuX0ZFemdySHhFWExFTzlwSTAtajlXUGFrV3F2V3NTTDRDamw2NFNzdC1XQ3BJbldXUy1tdmRxZmRUOGh0SEhVMUFNWFl1UG91SDk3endzZndZRlFOckpjX3JuQ2M1VFN3a3dGckpZ?oc=5",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQW1GTURFNHhNS3piUmZlTUxRMVhQVV9NNjFpMVdwNkpZV09sV2E5dWpKMjV3VjdYUmdKNV9FeTRLblBuTEZYaHYtVG1RYXBKX0NjU0l4VER4OVNvUHpWcUpYSC05cEIyaFRNcmFhX1BkZzdsYjZKUEFNbk9ZWFU?oc=5",
+        "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFpiRThzaUlCWFBNTjdteUE2MzBUaTBCZFFvNmR2UUw4YkE3ZFQxdFhmTmppanRyeXNmS2o3VzE1aEZwY0plaXJYRnJwazZHR3hXajc4TGFVNEZEVEgzRFVWbi1ac2xYbWNQWmExZjVxdTlrcHpMamk0M1FiU1NlbGVCLWhoUQ?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:40:00Z",
+      "published_at_ist": "2026-11-08 20:10 IST",
+      "first_seen_utc": "2026-11-08T07:28:00Z",
+      "age_minutes": 25,
+      "trend_score": 11,
+      "rank_score": 0.8272,
       "category": "celebrity_music",
       "section": "entertainment",
       "source_type": "news",
       "famous_names": [],
       "region": [
-        "IN"
+        "GB",
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [
+        "Davey Grant Issues Statement After UFC Vegas 124 Brutal Loss",
+        "Biggest Winners, Losers From UFC Vegas 124",
+        "UFC Vegas 124: 3 Takeaways From Women's Fights",
+        "UFC Vegas 124 Bonuses Revealed Following Fun Event"
+      ],
+      "image_urls": [
+        "https://heavy.com/wp-content/uploads/2026/11/GettyImages-1233527436-e1794145668705.jpg?quality=65&strip=all",
+        "https://platform.mmamania.com/wp-content/uploads/sites/110/2026/11/gettyimages-2304059840.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+      ],
+      "video_urls": [
+        "https://www.youtube.com/embed/fuH6aQ-xBdc?rel=0"
+      ],
+      "has_video": true,
+      "youtube_videos": []
+    },
+    {
+      "id": "b720cd807b",
+      "key": "alex-award-bts-choice-expect-here-host-kids-nickelodeon-nomination-swift-taylor",
+      "headline": "Nickelodeon Kids' Choice Awards 2026: From Alex Warren as host to Taylor Swift, BTS and more nominations; here's what to expect",
+      "summary": "https://www.indiatimes.com/trending/nickelodeon-kids-choice-awards-2026-from-alex-warren-as-host-to-taylor-swift-bts-and-more-nominations-heres-what-to-expect/amp_articleshow/View this post on Instagram A post shared by Nickelodeon (@nickelodeon)",
+      "sources": [
+        "Indiatimes"
+      ],
+      "article_urls": [
+        "https://www.indiatimes.com/trending/nickelodeon-kids-choice-awards-2026-from-alex-warren-as-host-to-taylor-swift-bts-and-more-nominations-heres-what-to-expect/amp_articleshow/135658535.html",
+        "https://news.google.com/rss/articles/CBMimAJBVV95cUxOX0VjVl90WUZRaHc2OVFET3AxejR0TDhESFZrZjIzaC11Tk9XY2x6dm1hSlk1MzVMaDRjUm5wY3Z3ajd0LWMxWmlfcVpyN1hYOGNGU0RGQUNEaHpNT19XY0wwNHZLX01GMkxqaUlGQ2M1M1NsM1B5MG9mVGFKNHZicm9QZTBIcUktODRkMVg0cUcyeFpFVFJfbkZYdHN2OS0tNDVpMlRwN1Y0QWxydzM0bGZjZTVFaXNuYWlzajlEYm9fSER0WjBiOUMwdUh5OEI3YjNDTFRHa21zY29tanZmMkllQ2tTbTBKYjJ4R3ZMNE9lOGdyc3hpRTFzTnFqbU56OFA5LWJoVnJhdWFLeTl2WmhYaDJUcF820gGYAkFVX3lxTE5fRWNWX3RZRlFodzY5UURPcDF6NHRMOERIVmtmMjNoLXVOT1djbHp2bWFKWTUzNUxoNGNSbnBjdndqN3QtYzFaaV9xWnI3WFg4Y0ZTREZBQ0Roek1PX1djTDA0dktfTUYyTGppSUZDYzUzU2wzUHkwb2ZUYUo0dmJyb1BlMEhxSS04NGQxWDRxRzJ4WkVUUl9uRlh0c3Y5LS00NWkyVHA3VjRBbHJ3MzRsZmNlNUVpc25haXNqOURib19IRHRaMGI5QzB1SHk4QjdiM0NMVEdrbXNjb21qdmYySWVDa1NtMEpiMnhHdkw0T2U4Z3JzeGlFMXNOcWptTno4UDktYmhWcmF1YUt5OXZaaFhoMlRwXzY?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T12:53:17Z",
+      "published_at_ist": "2026-11-08 18:23 IST",
+      "first_seen_utc": "2026-11-08T12:53:17Z",
+      "age_minutes": 132,
+      "trend_score": 11,
+      "rank_score": 0.768,
+      "category": "famous_clip",
+      "section": "entertainment",
+      "source_type": "news",
+      "famous_names": [
+        "Taylor Swift"
+      ],
+      "region": [
+        "GB",
+        "US"
       ],
       "language": "en",
       "priority_queries": [
-        "Celebrities & music"
+        "Celebrities & music",
+        "Famous people clips"
       ],
+      "google_trends": [],
+      "india_topic": false,
+      "global_pop": true,
+      "local_only": false,
+      "us_league": false,
+      "other_headlines": [],
+      "image_urls": [
+        "https://staticimg.publishstory.co/thumb/135659176.cms?imgsize=1580570&width=1280&height=720&resizemode=8"
+      ],
+      "video_urls": [],
+      "has_video": false,
+      "youtube_videos": []
+    },
+    {
+      "id": "efcbfe5b86",
+      "key": "artificial-becoming-largest-reef-state-sunk-united-world",
+      "headline": "SS United States will be sunk, becoming the world’s largest artificial reef",
+      "summary": "",
+      "sources": [
+        "The Washington Post",
+        "CNN",
+        "CBS News",
+        "6abc Philadelphia",
+        "NPR"
+      ],
+      "article_urls": [
+        "https://www.washingtonpost.com/transportation/2026/11/05/ss-united-states-be-sunk-become-worlds-largest-artificial-reef/",
+        "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVFNFYTVxSnVQN2ZJejVJeWVfWm50NUtqZmtYdU43T1o5X3VKdW44QVJQRElWYlFUd0hZZFk4ZXE3cWhlbU9lWnlOY3JORUhOWlp0VVVXZjRBQmpJclNpcWQ0cGFMSHUyZ18yTzc1V09iYU9PelpWcU5WblZOdnpnMElCclNDMU5fWVhRNU5KVmhSOVpuQ2lfSVA4OWtfWW9abFkwMDEtQTVNZDJPdi1CVW1BRUJhOGVGUEVzbA?oc=5",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlJXOWs5YU11S3lDbWk4cHVORzM4ZGFsc0w0N0JEcmF6Mld3c0JNWWZ2cFEwQXNmRnhtT0t2VkdhaEJlYnpucWVmb3l6c0h1TnBTd3NHVnE0VFpGMjJiUDZwU0x1cEw4d2taRXFudEdNSXNIVVlNRFlhNW1ITjZvNTc4NzhMbzl6V1E?oc=5",
+        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNFU4dll4MjhHNEdpT0pwR1FfM3RkbDdPajZhRkMwYVNDSFhvNUNvODNjaGRTVmx0am5lSTZtV2pBSk92T0k2YzdybElWeC11bTVGTElVbzFVOWxqUmxTZmM3aEtzWl9RSThOaEpZUlFubzBrUURCc1AwWWNaa05UVlFn?oc=5",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcUl4eDRqYjk0c18zZGdORmJzUmZNOG9IcUViWFp5bEVDZXJVbmI0QnpIeHg0TnZSY0FMSE5jMWYxdURqODVMY0E2R1lSVHZoeGwybjB6anNVSkxITmdHM091TEo3YlNoQmZzREhNS2JWU3hXR1NkamVuMThwdkhFVmpySmYxYmpBTVA5aHdB0gGTAUFVX3lxTFBLWkM3Q3dVV0gySy1pazV1bnppaVFjNlVvbzhEOTJwdFpwSXpOU3FKLWtWR3Z0dEl4NHE1bmFFQkxxMjF4aExfNWlVa1V3b21BZjdrYkFlbHUtcHlzN3M5dE81Tm9HbjRPNllqaXVTQ0t0LXVCVk1uNXpRM2xYaG05alI0S1FhZ29KQzVjc01JakNFYw?oc=5",
+        "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWm1wNy04RHJveFM1VExpNWFWOTFLbE9IUFpiRjJRRG4wM2pGSmM1VjNoQU11X1J5MHZPRUFCeEI2SmowLXd6RDBFNUw2M3cyLUE1UnloVjBlVUdEWGlBU2JhLTdtQUZhUVozaWVjdUZpdExJQzRHSGZfRWJIUnprNVV0SnFBb1EzRWxxQmxLaGJzZ1Z1LVRxVTFOZE5YMDVzVlZza0hZMS10QXlieGFBdzlhZkI2SXl6LXcw?oc=5"
+      ],
+      "published_at_utc": "2026-11-08T14:32:27Z",
+      "published_at_ist": "2026-11-08 20:02 IST",
+      "first_seen_utc": "2026-11-08T14:32:27Z",
+      "age_minutes": 32,
+      "trend_score": 6,
+      "rank_score": 0.735,
+      "category": "other",
+      "section": "top",
+      "source_type": "news",
+      "famous_names": [],
+      "region": [
+        "US"
+      ],
+      "language": "en",
+      "priority_queries": [],
       "google_trends": [],
       "india_topic": false,
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "How Katrina Kaif and Vicky Kaushal kept son Vihaan away from cameras for a year",
-        "Katrina Kaif, Vicky Kaushal share first image of baby son",
-        "Vicky Kaushal and Katrina Kaif reveal the face of their son Vihaan on Diwali –",
-        "Katrina Kaif, Vicky Kaushal reveal son Vihaan’s face for first time in adorable Diwali photo"
-      ],
-      "image_urls": [
-        "https://www.deccanchronicle.com/h-upload/2026/11/08/2110013-capture.jpg",
-        "https://www.deccanchronicle.com/h-upload/2026/11/08/2110013-capture.webp",
-        "https://media.assettype.com/gulfnews%2F2026-10-09%2Fbhanba8u%2FANI_20260716174139.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-11-08/iiehsyfv/Bollywood-stars-Katrina-Kaif-and-Vicky-Kaushal-with-their-baby-son-Vihaan.jpg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,0,4096,2731"
-      ],
+      "other_headlines": [],
+      "image_urls": [],
       "video_urls": [],
       "has_video": false,
       "youtube_videos": []
     },
     {
-      "id": "222789b686",
-      "key": "124-biggest-loser-ufc-vega-winner",
-      "headline": "Biggest Winners, Losers From UFC Vegas 124",
-      "summary": "https://sports.yahoo.com/articles/UFC Vegas 124 went down last night (Sat., Nov. 7, 2026) inside Meta Apex in Las Vegas, Nevada, which saw Johnny Walker score an upset win over Waldo Cortes-Acosta, knocking him out in the third round (see it again here). In the co-main event, Tatiana Saurez defeated Virna Jandiroba in a pivotal women’s strawweight affair. […]",
+      "id": "df84304994",
+      "key": "decade-democrat-dominance-ending-major-office-republican-texa-win",
+      "headline": "Democrats win major Texas offices, ending decades of Republican dominance",
+      "summary": "https://cryptobriefing.com/democrats-win-major-texas-offices-ending-decades-of-republican-dominance/Texas voters elected Democrats to major offices, ending Republican dominance. Republican win in 2026 Senate election at 0.7% YES.",
       "sources": [
-        "heavy.com",
-        "MMA Junkie",
-        "Yahoo Sports",
-        "MMA Mania",
-        "Forbes",
-        "UFC.com",
-        "MMA Fighting",
-        "Field Level Media"
+        "Crypto Briefing"
       ],
       "article_urls": [
-        "https://sports.yahoo.com/articles/biggest-winners-losers-ufc-vegas-120000928.html",
-        "https://heavy.com/sports/ufc/tatiana-suarez-calls-for-title-shot-next/",
-        "https://mmajunkie.usatoday.com/story/sports/ufc/2026/11/08/ufc-video-tatiana-suarez-prediction-mackenzie-dern-women-strawweight-title-fight-callout/92673660007/",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Ecm52aUJsN25aRUIwRFVXdGpWUXRkSlBPS0d2dVNZSEx2d3Q2d3VEaU1WVWt4MjZlLTg4NWFSWF9EcVRyS184RWNyQmx5SnhqMzRUaXBoemNsck9YOTRqREZYenR6YjBrTlZJOVZRUXVyU2JKbW1qN2ZR?oc=5",
-        "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNY0R5d0hNY0NBeFBXM28wZ2tZRDdTUjJfQUU0VnpyeURpMVk5ZTRjRUs5clM4ZjRfSEdSOVRBZUpVMnpWUFJEWkdJWjJic1RQN01OT2M2T25feDl1UVhJdGlTeG5TczVyRzlfRWRGWjF4eE94TmtSWGhiM1U0b2dFNVE5MG51WXRfcVBXMmRlUmU0ZnNpSDZFUnZjcFFxSTJKbW1lOGxZSFJnUFh3ZjllZ0NDODM0WnZ3S1ZhSWFZNkZSLXhpUURyd1llNDNzUjBsSkF2OVlWa3lvb3huVkwyN19yMTFSel9JY1czQWZFV2Vwdw?oc=5",
-        "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOejRBWHpyQmZVMGtPZm5Jd01MVXR0ZmpnWkJhbjE1WV9PMG9yOEkyTlhvNlhuWXVRSTlyRVdoOXdLQlBHT3hwek0yVUVPaWdIU2JvdnRlekNLbGJMcUFWQl9uUlFUVHAtb1V2U1VxNEVfOFk5Y093UTBCVXYwMVMxTWE4ZzdLM3JX?oc=5",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UQW1GTURFNHhNS3piUmZlTUxRMVhQVV9NNjFpMVdwNkpZV09sV2E5dWpKMjV3VjdYUmdKNV9FeTRLblBuTEZYaHYtVG1RYXBKX0NjU0l4VER4OVNvUHpWcUpYSC05cEIyaFRNcmFhX1BkZzdsYjZKUEFNbk9ZWFU?oc=5",
-        "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEdWZU5YdnZJUzNfVUhQRndtRXVwQmM3dV9VMWdyWmtzVGVkVGdVQlJQRGtCUmlfOFlndk9TWkp0WGJTMUVJMTYyeVlCRlRjRmdoOWZvUEZGVnN2bmpkV3g1OTVFSlNzc3pQU3lEY1QzV05hbUliX1pyQmR3djZBVDVVeHhsMUN4TVBtdUJNS3RmZElvMFVWTnI0LTBpdEZGQklJb0dJMVFHbURwYkdudg?oc=5"
+        "https://cryptobriefing.com/democrats-win-major-texas-offices-ending-decades-of-republican-dominance/",
+        "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWk8zOFFxWGJibS00dTZTWDBwV0lPeWY3eUluUGdaVGo0VzZicDZOYWR4SWJnZ0NrQXd2YzYtZ1BUQ0Q4ODJBUkVpMDY1Uk1Gck5qYmhaLXBZcFRHS1JWVmM5RFkxaEhNbkpIbS0tYWxoVGtFNzBfZlF1R0xIMEpGb21Dd1FYNW81c0JEMlJZYXFTSko3MGVVQXJ4NW11a1pWYlE?oc=5"
       ],
-      "published_at_utc": "2026-11-08T14:04:09Z",
-      "published_at_ist": "2026-11-08 19:34 IST",
-      "first_seen_utc": "2026-11-08T05:16:37Z",
-      "age_minutes": 1,
-      "trend_score": 15,
-      "rank_score": 0.8932,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "Tatiana Suarez Calls for Title Shot After UFC Vegas 124 Victory",
-        "Tatiana Suarez: Mackenzie Dern for the title 'the fight to make' after UFC Vegas 124 win",
-        "UFC Vegas 124: 3 Takeaways From Women's Fights",
-        "UFC Vegas 124 results: Sooo … About last night | Cortes-Acosta vs. Walker"
-      ],
-      "image_urls": [
-        "https://s.yimg.com/lo/mysterio/api/5825236718dcb7e9c7900cf613e95dbcc12a0f1c719df6b5d9dae676713e429e/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsb_nation_articles_115%2F5a815985467d2ccb0e58a33b429e7483.jpg",
-        "https://heavy.com/wp-content/uploads/2026/11/GettyImages-2270915665-e1794146266584.jpg?quality=65&strip=all"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "ee27fae414",
-      "key": "adesanya-fight-headline-magomedov-night-riyadh-ufc",
-      "headline": "Adesanya vs Magomedov headlines UFC Fight Night in Riyadh in December",
-      "summary": "https://www.fightmag.com/adesanya-vs-magomedov-headlines-ufc-fight-night-in-riyadh-in-december/Israel Adesanya faces Sharabutdin Magomedov in the main event of UFC Fight Night at The Venue in Riyadh, Saudi Arabia, in December.",
-      "sources": [
-        "شبكة تواصل الإخبارية",
-        "Fightomic",
-        "Sherdog",
-        "ESPN India",
-        "Fightmag",
-        "Central Oregon Daily",
-        "Bloody Elbow",
-        "Heavy.com"
-      ],
-      "article_urls": [
-        "https://www.fightmag.com/adesanya-vs-magomedov-headlines-ufc-fight-night-in-riyadh-in-december/",
-        "https://twaslnews1.twaslnews.com/7318460/",
-        "https://fightomic.com/ufc-fight-night-cortes-acosta-vs-walker-fights-to-make/",
-        "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SdkJVNWl5Q2t0WVk1MEcwQmtoYmZ4dHNvOGlYck1ENUNVUzBYQ3lza1pLUmJDV2k5WDFhNE1ENS14TmlKNS1CZWJxc0psbDNyMW9F?oc=5",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSVVLV0lJX1VvTnc4RWpuSnNLTDVzaDlmY3JJWXVSY2xFX21saWoyUUhHN3o3RkxUYWZxb2pmaFpzQW5OY01yY0NMc0xCT0FuRHoxSDFoVVBvSjQ4NzNvMTI0d29ZUVdhclJhQ2xkMi1QZG9XSUVTQ0M0aEwxU3dzcUF4bw?oc=5",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmZ5RGFsYzhMRlg0UzFBRVlZdmE3SEMzbWttV2Y5U2hMQ0FXOENuY3ZnWVQ0RVo2cjFsZWJkNFNQazYtZWstNEx0RlJ1ZjVSVjk1SnhST1pCNEo5d1lSRnMxRFloQ2FpdkRYa1Fzb2xROUlVVnBBY3g1RDU4cV9FTWtZaDFxckU?oc=5",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GS25TYTY4TmpMbU5kc2trd2lNR2d0blVodHNCSUZ4V05Hbm9sY1N4UGdLV3I2YVpJQVZSRDk1QnpueDdFaHp1TlFFaUhHQVNDNDNiTlk1NEZIN2h4dGkxNXBlSmtpODREYUJwb0dR?oc=5",
-        "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVm5RRmhQa2llQXNTVWVJajVYajdzUEJkaU5fNjdEMW5UM19GMk02d3NoWS1nTno4UjZBMkhYemxrZGZHYjBNVi1oLWlyNXoteV9ydW9iMUZsdWVvSFNHVGI5OVlVc21QSHB0Q29aUDNzLWdtLVE3aGl3cXpYbEZ5dHlpcENvVWw4eXdYOEU5aXJlNWlOdEoyTGhYVQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T13:48:56Z",
-      "published_at_ist": "2026-11-08 19:18 IST",
-      "first_seen_utc": "2026-11-08T05:23:48Z",
-      "age_minutes": 17,
-      "trend_score": 15,
-      "rank_score": 0.8799,
-      "category": "celebrity_music",
-      "section": "entertainment",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": true,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [
-        "UFC Vegas 124 Bonuses Revealed as Johnny Walker, Cortes-Acosta Pocket Home $100K Each",
-        "UFC Fight Night: Cortes Acosta vs Walker Fights to Make",
-        "UFC Fight Night 293 - Cortes-Acosta vs. Walker",
-        "UFC Fight Night: Adesanya vs Magomedov Live Fight Coverage"
-      ],
-      "image_urls": [
-        "https://www.fightmag.com/wp-content/uploads/2026/11/israel-adesanya.jpg",
-        "https://fightomic.com/wp-content/uploads/2026/11/UFC-Vegas-124-Fights-to-Make.webp"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "b6c48de82c",
-      "key": "1-160-340-5070-79-above-days-eight-hits-msrp-rtx",
-      "headline": "RTX 5070 Ti US price hits $1,340, up $160 in eight days and 79% above MSRP",
-      "summary": "https://pasqualepillitteri.it/en/news/31236/The cheapest RTX 5070 Ti in the US went from $1,179.99 to $1,339.99 in eight days, 79% above its $749 MSRP. Causes, limits and alternatives.",
-      "sources": [
-        "Pasquale Pillitteri"
-      ],
-      "article_urls": [
-        "https://pasqualepillitteri.it/en/news/31236/rtx-5070-ti-us-price-jumps-160-dollars",
-        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRk4zdEZTNVZRU2hqck0wZzRlZl8zMEJLVFhld3g1NGtxbzJYR1YtRlBid3lGVGpxZlhUVFRzN1NRSThFQXpVMF9TQkJaUl80b2l1TWdSWGg3OTl1eHZwUzUzSGI1Nm5MTXJkeWFxMHMzQ1lkR1BGa2VZMTJwTHdjLTF0ZS13b0dhWmc?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T13:44:48Z",
-      "published_at_ist": "2026-11-08 19:14 IST",
-      "first_seen_utc": "2026-11-08T13:44:48Z",
-      "age_minutes": 21,
-      "trend_score": 7,
-      "rank_score": 0.7656,
+      "published_at_utc": "2026-11-08T14:21:46Z",
+      "published_at_ist": "2026-11-08 19:51 IST",
+      "first_seen_utc": "2026-11-08T14:21:46Z",
+      "age_minutes": 43,
+      "trend_score": 6,
+      "rank_score": 0.7258,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -697,7 +788,7 @@
       ],
       "language": "en",
       "priority_queries": [
-        "OpenAI OR ChatGPT OR Gemini OR Claude OR Grok"
+        "Crypto"
       ],
       "google_trends": [],
       "india_topic": false,
@@ -706,7 +797,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://pasqualepillitteri.it/uploads/img/news/rtx-5070-ti-prezzo-usa-sale-160-dollari-cover.webp"
+        "https://static.cryptobriefing.com/wp-content/uploads/2020/12/02092245/link-bull-1024x538.jpg"
       ],
       "video_urls": [],
       "has_video": false,
@@ -727,9 +818,9 @@
       "published_at_utc": "2026-11-08T13:50:50Z",
       "published_at_ist": "2026-11-08 19:20 IST",
       "first_seen_utc": "2026-11-08T13:50:50Z",
-      "age_minutes": 15,
+      "age_minutes": 74,
       "trend_score": 6,
-      "rank_score": 0.7492,
+      "rank_score": 0.7,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -770,9 +861,9 @@
       "published_at_utc": "2026-11-08T13:46:55Z",
       "published_at_ist": "2026-11-08 19:16 IST",
       "first_seen_utc": "2026-11-08T13:46:55Z",
-      "age_minutes": 19,
+      "age_minutes": 78,
       "trend_score": 6,
-      "rank_score": 0.7458,
+      "rank_score": 0.6967,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -799,65 +890,22 @@
       "youtube_videos": []
     },
     {
-      "id": "1848f366e3",
-      "key": "blue-red-review-wave-—",
-      "headline": "Blue Wave, Red Week — Week in Review",
-      "summary": "https://news.bitcoin.com/opinion-and-analysis/blue-wave-red-week-week-in-review/Bitcoin fell to $75,618, a seven-week low near its 50-week moving average, as the U.S. midterm election results came in.",
-      "sources": [
-        "Bitcoin News"
-      ],
-      "article_urls": [
-        "https://news.bitcoin.com/opinion-and-analysis/blue-wave-red-week-week-in-review/",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWS1fYVF1Y3N2UGFrOHlZQTcxc0E5OG1lOUhza3N5YjMyQWNVRHA4NWEyV1pMWE1fVXExT0JmcWY4RWJuRUhqMGtObFVITm55ZFlIRjRqa3BIX2hsMFpzbG10UmxlVEpoSHJOZC0tbW5CMVVFTzVKYXdyTEVhbkc3NjFMaWlmM2M?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T14:04:57Z",
-      "published_at_ist": "2026-11-08 19:34 IST",
-      "first_seen_utc": "2026-11-08T14:04:57Z",
-      "age_minutes": 1,
-      "trend_score": 5,
-      "rank_score": 0.7361,
-      "category": "other",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://static.news.bitcoin.com/wp-content/uploads/2026/11/blue-wave-red-week--week-in-review-1024x576.png"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "0272c1bb1f",
-      "key": "fcb-fcbarcelona-finish-football-proper-short-striker",
-      "headline": "A proper striker's finish. #fcbarcelona #fcb #football #shorts",
+      "id": "0536158af7",
+      "key": "fcbarcelona-football-short-way",
+      "headline": "On our way!  #fcbarcelona #football #shorts",
       "summary": "SUBSCRIBE NOW: ▶ www.youtube.com/user/fcbarcelona 🔒Join as a member 👉 https://youtube.com/fcbarcelona/join 📱 App: http://barca.link/kXum50R6rNO 🌐 Site: www.fcbarcelona.com 📸 Instagram: http://www.instagram.com/fcbarcelona 𝕏 X: https://x.com/FCBarcelona 🎶 Tiktok: https://www.tiktok.com/@fcbarcelona 🔵 Facebook: http://www.facebook.com/fcbarcelona 👾 Discord: https://discord.gg/fcbarcelonaofficial 🛍 G",
       "sources": [
         "YouTube: FC Barcelona"
       ],
       "article_urls": [
-        "https://www.youtube.com/watch?v=tlGN9q-3F08",
-        "https://www.youtube.com/watch?v=I27jPT5aGyE"
+        "https://www.youtube.com/watch?v=tlGN9q-3F08"
       ],
       "published_at_utc": "2026-11-08T11:31:04Z",
       "published_at_ist": "2026-11-08 17:01 IST",
-      "first_seen_utc": "2026-11-07T15:00:18Z",
-      "age_minutes": 155,
+      "first_seen_utc": "2026-11-08T11:31:04Z",
+      "age_minutes": 214,
       "trend_score": 5,
-      "rank_score": 0.6885,
+      "rank_score": 0.6701,
       "category": "sports",
       "section": "sports",
       "source_type": "youtube",
@@ -874,15 +922,12 @@
       "global_pop": false,
       "local_only": false,
       "us_league": false,
-      "other_headlines": [
-        "On our way!  #fcbarcelona #football #shorts"
-      ],
+      "other_headlines": [],
       "image_urls": [
         "https://i1.ytimg.com/vi/tlGN9q-3F08/hqdefault.jpg"
       ],
       "video_urls": [
-        "https://www.youtube.com/watch?v=tlGN9q-3F08",
-        "https://www.youtube.com/watch?v=I27jPT5aGyE"
+        "https://www.youtube.com/watch?v=tlGN9q-3F08"
       ],
       "has_video": true,
       "youtube_videos": [
@@ -892,14 +937,6 @@
           "url": "https://www.youtube.com/watch?v=tlGN9q-3F08",
           "published_at_ist": "2026-11-08 17:01 IST",
           "thumbnail": "https://i1.ytimg.com/vi/tlGN9q-3F08/hqdefault.jpg",
-          "is_short": true
-        },
-        {
-          "title": "A proper striker's finish. #fcbarcelona #fcb #football #shorts",
-          "channel": "FC Barcelona",
-          "url": "https://www.youtube.com/watch?v=I27jPT5aGyE",
-          "published_at_ist": "2026-11-07 20:30 IST",
-          "thumbnail": "https://i2.ytimg.com/vi/I27jPT5aGyE/hqdefault.jpg",
           "is_short": true
         }
       ]
@@ -919,9 +956,9 @@
       "published_at_utc": "2026-11-08T11:33:53Z",
       "published_at_ist": "2026-11-08 17:03 IST",
       "first_seen_utc": "2026-11-08T11:33:53Z",
-      "age_minutes": 152,
+      "age_minutes": 211,
       "trend_score": 5,
-      "rank_score": 0.6103,
+      "rank_score": 0.5611,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -947,23 +984,23 @@
       "youtube_videos": []
     },
     {
-      "id": "e77af197b7",
-      "key": "canada-chief-committee-election-foreign-hacking-immune-presse-system-tell",
-      "headline": "Elections Canada chief tells committee no system is immune as MP presses on foreign hacking",
-      "summary": "https://thehub.ca/2026/11/08/elections-canada-chief-tells-committee-no-system-is-immune-as-mp-presses-on-foreign-hacking/No election system is hack-proof, says Elections Canada's chief—even Canada's. Here's what he told MPs when pressed on foreign interference.",
+      "id": "3575438524",
+      "key": "deliver-doom-five-ibm-mainframe-minute-terminal-violence",
+      "headline": "Doom delivers five minutes of terminal violence on an IBM mainframe",
+      "summary": "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/Browser demo renders the classic shooter in ASCII, with no login required and considerable squinting encouraged",
       "sources": [
-        "The Hub | More Signal. Less Noise."
+        "The Register"
       ],
       "article_urls": [
-        "https://thehub.ca/2026/11/08/elections-canada-chief-tells-committee-no-system-is-immune-as-mp-presses-on-foreign-hacking/",
-        "https://news.google.com/rss/articles/CBMivgFBVV95cUxQN2ZoWVdaUFNNU3paV1lFMGxIMThkeHowc0s4eTRWOVU2S0t4YktNQy1DeERzYmxCTzhEdWg0RzlZazh2bXpqYVF2VVptQnktbHlncjBEOU9qdjhtaFVtaVNfdFNKdmpQcG51eUhUS2VlTjN1TmpMekZOZUxTU1d3RmsxZTkyak5qMW56QTFSZ05lZ2kyN2w4MDBZeXlfSmZIR3J3Z25pZGhkOHZGM2RaazBOVkNfVkFGanRVWW5n?oc=5"
+        "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+        "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3VFRXVoZHk4Q0pUUzBEVDlvUHc2endWS0loS20tMkNGMGk5Sno5TVlIVUQxWkNPYm8zVzJEMVBFWWdld2Y0LWVRVjE5Z2h1OWFaWHR0akMwaXo1YmlTT1Z4N3BRUGVNS00yaWlOVXl2aWlBTzdHX3BmZUFrVENHRlM4U1dta1ZtSGpiV3hOREZLMklSTjF6V18walVlQmpBRHZPUENlUGctcGhvOW9kVWs2Q2FpV2RTSlFaTnVDSQ?oc=5"
       ],
-      "published_at_utc": "2026-11-08T11:00:00Z",
-      "published_at_ist": "2026-11-08 16:30 IST",
-      "first_seen_utc": "2026-11-08T11:00:00Z",
-      "age_minutes": 186,
+      "published_at_utc": "2026-11-08T11:19:00Z",
+      "published_at_ist": "2026-11-08 16:49 IST",
+      "first_seen_utc": "2026-11-08T11:19:00Z",
+      "age_minutes": 226,
       "trend_score": 5,
-      "rank_score": 0.582,
+      "rank_score": 0.5486,
       "category": "other",
       "section": "top",
       "source_type": "news",
@@ -982,50 +1019,7 @@
       "us_league": false,
       "other_headlines": [],
       "image_urls": [
-        "https://thehub.ca/wp-content/uploads/2026/09/committee_room.jpg"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
-    },
-    {
-      "id": "2267b20a33",
-      "key": "ban-betting-employee-hollywood-kalshi-polymarket-studio",
-      "headline": "Hollywood Studios Ban Employees From Betting on Kalshi and Polymarket",
-      "summary": "https://coincodex.com/article/95031/hollywood-studios-ban-employees-from-betting-on-kalshi-and-polymarket/A growing wave of insider betting concerns has forced Hollywood studios to restrict employee wagers on prediction markets.",
-      "sources": [
-        "CoinCodex"
-      ],
-      "article_urls": [
-        "https://coincodex.com/article/95031/hollywood-studios-ban-employees-from-betting-on-kalshi-and-polymarket/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTDk2LXpnUUUwY0Uyc3BURHNqR2VTNnJmTkpIWTlrVGNzQWdURUpDSUtSX0xabmdVRFBlazFNbDNNZWNTaVlGYV9UazBlNEVFZDY5ODJoX0JFbTY2Uk5rcVZLM0tHY3A5ZS1ZZEJUZ1VUdUNsUm1aMjdyVzUtQS1mQWdGZW9hUVhoWjdGb013d0JYbEZpYjJFYUQ4MGxoZ0lNWWJLQ1JLSFVkUQ?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T09:42:00Z",
-      "published_at_ist": "2026-11-08 15:12 IST",
-      "first_seen_utc": "2026-11-08T09:42:00Z",
-      "age_minutes": 264,
-      "trend_score": 5,
-      "rank_score": 0.517,
-      "category": "celebrity_music",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Celebrities & music",
-        "Crypto"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://imagecodex.com/v1/media/22ba59da-33ac-405c-29b9-b23e24afbb00/w=1600,h=900,fit=cover,f=jpg"
+        "https://image.theregister.com/5308119.jpg?imageId=5308119&x=0&y=26.29&cropw=100&croph=73.71&panox=0&panoy=26.29&panow=100&panoh=73.71&width=1200&height=683"
       ],
       "video_urls": [],
       "has_video": false,
@@ -1045,9 +1039,9 @@
       "published_at_utc": "2026-11-07T16:30:34Z",
       "published_at_ist": "2026-11-07 22:00 IST",
       "first_seen_utc": "2026-11-07T16:30:34Z",
-      "age_minutes": 1295,
+      "age_minutes": 1354,
       "trend_score": 5,
-      "rank_score": 0.4823,
+      "rank_score": 0.4638,
       "category": "famous_clip",
       "section": "top",
       "source_type": "youtube",
@@ -1084,49 +1078,6 @@
           "is_short": false
         }
       ]
-    },
-    {
-      "id": "477e06280a",
-      "key": "awkward-boos-choru-during-football-hit-melania-outing",
-      "headline": "Melania Hit With Chorus of Boos During Awkward Football Outing",
-      "summary": "https://www.thedailybeast.com/The first lady was in Louisianaâone state that didnât turn blue in the midterms.",
-      "sources": [
-        "The Daily Beast"
-      ],
-      "article_urls": [
-        "https://www.thedailybeast.com/melania-trump-hit-with-chorus-of-boos-during-awkward-football-outing",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY3JsOVRSd25ienNwLUxUdmdsTGVUTXREcG9fclExbEl2a3JPOUU2dERIb21idmM1SzUyeFBNakQ5Tm9LcEZ3cEI4NVJXZno3Z1lYMG1IU21HczFHN09UbjJQMjIzdUItUFNIem9xT1JnUWJvTHlMcExsN0lDNDNaYmo5Rk9CWTZVdHRHV0N3YjNITkctdWRPYlBCeFljdFU?oc=5"
-      ],
-      "published_at_utc": "2026-11-08T07:46:03Z",
-      "published_at_ist": "2026-11-08 13:16 IST",
-      "first_seen_utc": "2026-11-08T07:46:03Z",
-      "age_minutes": 380,
-      "trend_score": 5,
-      "rank_score": 0.4203,
-      "category": "sports",
-      "section": "top",
-      "source_type": "news",
-      "famous_names": [],
-      "region": [
-        "US"
-      ],
-      "language": "en",
-      "priority_queries": [
-        "Trump",
-        "football"
-      ],
-      "google_trends": [],
-      "india_topic": false,
-      "global_pop": false,
-      "local_only": false,
-      "us_league": false,
-      "other_headlines": [],
-      "image_urls": [
-        "https://media.thedailybeast.com/resizer/v2/YVUJMAEMNJGJPLW6HGLOZ6GIFU.jpg?auth=20aa461fcf27e897621e14487a25de705eb7820ad5022d60fed9f9184d9c2a55&width=1200&height=630&focal=960%2C541"
-      ],
-      "video_urls": [],
-      "has_video": false,
-      "youtube_videos": []
     }
   ]
 }
